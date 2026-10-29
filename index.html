@@ -19,13 +19,20 @@ button,input{font:inherit;color:inherit}
 .logo a{color:inherit;text-decoration:none}.logo i{font-style:normal;color:var(--accent)}
 .live{font:500 12px/1.3 "JetBrains Mono",monospace;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .note{margin:14px 0 0;font-size:14px;color:var(--muted);max-width:75ch}
-.shell{display:grid;grid-template-columns:200px minmax(0,1fr);gap:36px;padding-top:22px;padding-bottom:48px}
-.rail{position:sticky;top:12px;align-self:start;display:flex;flex-direction:column;gap:2px}
-.rail h2{font:500 11px/1 "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin:0 0 8px}
-.sec{display:flex;justify-content:space-between;align-items:center;gap:10px;background:none;border:0;border-left:3px solid transparent;padding:8px 10px;text-align:left;cursor:pointer;font:600 15px/1.2 "Archivo",sans-serif;border-radius:0 6px 6px 0}
-.sec .n{font:400 12px "JetBrains Mono",monospace;color:var(--muted)}
+.menu{display:flex;gap:4px;overflow-x:auto;padding:10px 0 0;border-bottom:1px solid var(--line);scrollbar-width:thin}
+.sec{background:none;border:0;border-bottom:3px solid transparent;padding:8px 14px;cursor:pointer;font:600 15px/1.2 "Archivo",sans-serif;white-space:nowrap;border-radius:6px 6px 0 0}
 .sec:hover{background:var(--soft)}
-.sec[aria-pressed="true"]{background:var(--soft);border-left-color:var(--accent)}
+.sec[aria-pressed="true"]{background:var(--soft);border-bottom-color:var(--accent)}
+.shell{display:grid;grid-template-columns:270px minmax(0,1fr);gap:36px;padding-top:22px;padding-bottom:48px}
+.feed{position:sticky;top:12px;align-self:start;max-height:calc(100vh - 24px);overflow-y:auto}
+.feed summary{font:500 11px/1 "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);cursor:pointer;padding:2px 0 12px;list-style:none}
+.feed summary::-webkit-details-marker{display:none}
+.feed ol{list-style:none;margin:0;padding:0}
+.feed li{border-left:3px solid var(--tc);padding:4px 0 4px 10px;margin-bottom:12px}
+.feed a{color:inherit;text-decoration:none;display:block}
+.feed a:hover .ft{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:3px}
+.fm{display:block;font:400 11px/1.4 "JetBrains Mono",monospace;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.ft{display:block;font:600 15px/1.3 "Archivo",sans-serif;margin-top:2px}
 .main{min-width:0}
 .search{width:100%;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 14px;font:400 15px "Archivo",sans-serif;margin-bottom:16px}
 .threads{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin-bottom:8px}
@@ -68,10 +75,8 @@ button,input{font:inherit;color:inherit}
 footer{padding:0 0 40px;color:var(--muted);font-size:14px}
 @media(max-width:860px){
  .shell{grid-template-columns:1fr;gap:16px}
- .rail{position:static;flex-direction:row;overflow-x:auto;gap:6px;padding-bottom:4px}
- .rail h2{display:none}
- .sec{border:1px solid var(--line);border-radius:99px;white-space:nowrap;padding:6px 12px}
- .sec[aria-pressed="true"]{border-color:var(--accent)}
+ .feed{position:static;max-height:none}
+ .sec{padding:6px 12px}
  .row{grid-template-columns:1fr;gap:6px}
  .gut{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}.sub,.st{margin-top:0}
 }
@@ -80,6 +85,7 @@ footer{padding:0 0 40px;color:var(--muted);font-size:14px}
  <div class="bar">
   <h1 class="logo"><a href="#" id="home">Hír<i>pult</i></a><span class="tagline">Magyar hírek, szubjektív nézőponttal</span></h1>
  </div>
+ <nav class="menu" id="menu" aria-label="Rovatok"></nav>
  <div id="app"></div>
  <footer>Ahol a források eltérnek egymástól, a cikk külön jelzi.</footer>
 </div>
@@ -102,13 +108,15 @@ function row(i){
  return `<article class="row${i.lead?" lead":""}" data-r="${i.r}"><div class="gut"><span class="tag">${i.r}</span><span class="sub">${esc(i.c)}${i.w?" · "+esc(i.w):""}</span><span class="st ${stc(i)}">${i.st}</span></div>
  <div>${i.img?`<img class="th" src="${i.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<h3><a class="t" href="#" data-id="${i.id}">${i.t}</a></h3><p>${i.s}</p><a class="more" href="#" data-id="${i.id}">Teljes cikk →</a></div></article>`}
 function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();open(a.dataset.id)})}
+const menuEl=document.getElementById("menu");
+function menu(){menuEl.innerHTML=cats.map(c=>`<button class="sec" data-c="${c}" aria-pressed="${c==cat}">${c}</button>`).join("");menuEl.querySelectorAll("[data-c]").forEach(b=>b.onclick=()=>{cat=b.dataset.c;home()})}
 function home(){
- const cnt=c=>c=="Mind"?items.length:items.filter(i=>i.r==c).length;
+ const feed=items.slice(0,10).map(i=>`<li data-r="${i.r}"><a href="#" data-id="${i.id}"><span class="fm">${i.time} · ${i.r}</span><span class="ft">${i.t}</span></a></li>`).join("");
  const th=THREADS.map(w=>{const l=items.filter(i=>i.w==w);if(!l.length)return "";return `<button class="thread" data-t="${w}" aria-pressed="${thr==w}"><b>${w}</b><span>${l[0].t}</span><small>${l.length} hír</small></button>`}).join("");
- app.innerHTML=`<div class="shell"><nav class="rail" aria-label="Rovatok"><h2>Rovatok</h2>${cats.map(c=>`<button class="sec" data-c="${c}" aria-pressed="${c==cat}">${c}<span class="n">${cnt(c)}</span></button>`).join("")}</nav>
+ app.innerHTML=`<div class="shell"><aside class="feed" aria-label="Hírfolyam"><details id="fd"><summary>Hírfolyam · 10 legfrissebb</summary><ol>${feed}</ol></details></aside>
  <div class="main"><input type="search" class="search" id="q" placeholder="Keresés a hírekben" aria-label="Keresés a hírekben" value="${esc(term)}">
  <div class="threads" aria-label="Fókuszban lévő témák">${th}</div><div id="list"></div></div></div>`;
- app.querySelectorAll("[data-c]").forEach(b=>b.onclick=()=>{cat=b.dataset.c;home()});
+ menu();if(matchMedia("(min-width:861px)").matches)document.getElementById("fd").open=true;
  app.querySelectorAll("[data-t]").forEach(b=>b.onclick=()=>{thr=thr==b.dataset.t?"":b.dataset.t;home()});
  document.getElementById("q").oninput=e=>{term=e.target.value.toLowerCase();list()};
  list();document.title="Hírpult";
