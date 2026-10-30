@@ -1,7 +1,5 @@
 name: Update 24.hu news
 on:
-  schedule:
-    - cron: '17 */6 * * *'
   workflow_dispatch:
 permissions:
   contents: write
