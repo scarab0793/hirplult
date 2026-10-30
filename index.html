@@ -184,21 +184,23 @@ home=function(){
   weather();
 };
 home();
-// External RSS records are kept separate from the hand-edited editorial database.
-async function load24hu(){
+// Load timestamped RSS news; editorial records remain unchanged.
+async function loadNews(){
  try {
-  const response=await fetch("data/24hu.json",{cache:"no-store"});
+  const response=await fetch("data/news.json",{cache:"no-store"});
   if(!response.ok)return;
   const payload=await response.json();
   if(!Array.isArray(payload.items))return;
+  const allowed=new Set(["24.hu","Telex","HVG","444"]);
   const known=new Set(items.map(i=>i.id));
-  const incoming=payload.items.filter(i=>i && typeof i.id==="string" && !known.has(i.id) && typeof i.t==="string" && Array.isArray(i.src) && i.src[0] && /^https:\/\/(www\.)?24\.hu\//.test(i.src[0][1]));
+  const incoming=payload.items.filter(i=>i && typeof i.id==="string" && !known.has(i.id) && typeof i.t==="string" && typeof i.published_at==="string" && allowed.has(i.c) && Array.isArray(i.src) && i.src[0] && /^https:\/\//.test(i.src[0][1]));
+  incoming.sort((a,b)=>Date.parse(b.published_at)-Date.parse(a.published_at));
   if(!incoming.length)return;
   items.unshift(...incoming);
   if(view==="nat" && typeof home==="function")home();
- }catch(err){console.warn("24.hu RSS data unavailable",err)}
+ }catch(err){console.warn("News RSS data unavailable",err)}
 }
-load24hu();
+loadNews();
 </script>
 
 
