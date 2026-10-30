@@ -1,0 +1,28 @@
+name: Update Hírpult news (3x daily)
+on:
+  schedule:
+    - cron: '10 5,11,17 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hirpult-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect recent RSS headlines
+        run: python scripts/fetch_news.py
+      - name: Commit data changes
+        run: |
+          git add data/news.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh Hírpult RSS headlines"
+          git push
