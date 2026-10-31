@@ -9,6 +9,7 @@ on:
       - 'scripts/fetch_news.py'
       - '.github/workflows/update-news.yml'
       - 'scripts/enrich_news.py'
+      - 'scripts/backfill_news.py'
 permissions:
   contents: write
 concurrency:
@@ -30,9 +31,14 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           HIRPULT_AI_MAX_ARTICLES: '3'
         run: python scripts/enrich_news.py
+      - name: Backfill historical stories (max 2 per run)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HIRPULT_BACKFILL_BATCH: '2'
+        run: python scripts/backfill_news.py
       - name: Commit data changes
         run: |
-          git add data/news.json
+          git add data/news.json data/editorial.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
