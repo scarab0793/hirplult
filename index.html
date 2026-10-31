@@ -90,6 +90,8 @@ footer{padding:0 0 40px;color:var(--muted);font-size:14px}
 .wxc small{color:var(--muted);font:400 12px/1.4 "JetBrains Mono",monospace}
 
 /* Three-column responsive news cards */
+#list .news-credit{order:2;display:block;padding:5px 14px 0;font:11px/1.35 Arial,sans-serif;color:var(--muted)}
+#list .news-credit a{color:inherit;text-decoration:underline}
 #list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch}
 #list>.day,#list>.empty{grid-column:1/-1}
 #list>.day{margin:14px 0 0}
@@ -135,7 +137,7 @@ function row(i){
  const fallback=newsFallback(i);
  const image=i.img&&/^https:\/\//.test(i.img)?i.img:fallback;
  return `<article class="row${i.lead?" lead":""}" data-r="${esc(i.r)}"><div class="gut"><span class="tag">${esc(i.r)}</span><span class="sub">${esc(i.c)}${i.w?" · "+esc(i.w):""}</span><span class="st ${stc(i)}">${esc(i.st)}</span></div>
- <div><img class="news-image" src="${esc(image)}" data-fallback="${esc(fallback)}" alt="${i.img?"Hírillusztráció":"Hírpult rovatillusztráció"}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=this.dataset.fallback"><h3><a class="t" href="#" data-id="${esc(i.id)}">${esc(i.t)}</a></h3><p>${esc(i.s)}</p><a class="more" href="#" data-id="${esc(i.id)}">Teljes cikk →</a></div></article>`;
+ <div><img class="news-image" src="${esc(image)}" data-fallback="${esc(fallback)}" alt="${i.img?"Hírillusztráció":"Hírpult rovatillusztráció"}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=this.dataset.fallback"><small class="news-credit">${i.img?`Kép: ${esc(i.imgs||i.c)} · <a href="${esc(i.imgl||i.src?.[0]?.[1]||"#")}" target="_blank" rel="noopener noreferrer">Eredeti forrás</a>`:"Illusztráció: Hírpult"}</small><h3><a class="t" href="#" data-id="${esc(i.id)}">${esc(i.t)}</a></h3><p>${esc(i.s)}</p><a class="more" href="#" data-id="${esc(i.id)}">Teljes cikk →</a></div></article>`;
 }
 function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();open(a.dataset.id)})}
 function home(){
