@@ -88,6 +88,22 @@ footer{padding:0 0 40px;color:var(--muted);font-size:14px}
 .wxc b{font:700 16px "Archivo",sans-serif}
 .wxc .wt{font:800 36px/1.1 "Archivo",sans-serif}
 .wxc small{color:var(--muted);font:400 12px/1.4 "JetBrains Mono",monospace}
+
+/* Three-column responsive news cards */
+#list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch}
+#list>.day,#list>.empty{grid-column:1/-1}
+#list>.day{margin:14px 0 0}
+#list>.row{display:flex;flex-direction:column;min-width:0;padding:0 0 15px;border:1px solid var(--line);border-radius:12px;background:var(--panel);overflow:hidden;gap:0}
+#list>.row .gut{order:2;padding:11px 14px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+#list>.row .gut .sub,#list>.row .gut .st{margin:0}
+#list>.row>div:last-child{display:contents}
+#list>.row .news-image{order:1;width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--soft)}
+#list>.row h3{order:3;font-size:18px;line-height:1.3;padding:9px 14px 0;margin:0}
+#list>.row.lead h3{font-size:18px}
+#list>.row p{order:4;font-size:14px;line-height:1.55;margin:8px 14px 12px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+#list>.row .more{order:5;margin:auto 14px 0;font-size:13px}
+@media(max-width:950px){#list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:590px){#list{grid-template-columns:minmax(0,1fr)}}
 </style>
 <div class="wrap">
  <div class="bar">
@@ -109,9 +125,18 @@ const DAYS={17:"Szombat, okt. 17.",18:"Vasárnap, okt. 18.",19:"Hétfő, okt. 19
 const dayVal=t=>{const m=String(t).match(/(\d{1,2})\./);return m?+m[1]:0};
 {const s=items.map((i,k)=>[i,k]).sort((a,b)=>dayVal(b[0].time)-dayVal(a[0].time)||a[1]-b[1]).map(x=>x[0]);items.splice(0,items.length,...s)}
 const stc=i=>i.st=="Megerősített"?"c":"u";
+function newsFallback(i){
+ const palette={"Belpolitika":"#284c83","Gazdaság":"#16756e","Külföld":"#873d68","Közélet":"#816422","Sport":"#367e47","Kultúra":"#6846a2"};
+ const color=palette[i.r]||"#344c6b";
+ const svg='<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360"><rect width="640" height="360" fill="'+color+'"/><circle cx="540" cy="70" r="150" fill="#ffffff" opacity=".07"/><path d="M0 295L640 145" stroke="#ffffff" stroke-width="16" opacity=".12"/><text x="35" y="168" fill="#ffffff" font-family="Arial,sans-serif" font-size="56" font-weight="bold">HÍRPULT</text><text x="37" y="215" fill="#ffffff" font-family="Arial,sans-serif" font-size="25">'+(i.r||"Hírek")+'</text></svg>';
+ return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg);
+}
 function row(i){
- return `<article class="row${i.lead?" lead":""}" data-r="${i.r}"><div class="gut"><span class="tag">${i.r}</span><span class="sub">${esc(i.c)}${i.w?" · "+esc(i.w):""}</span><span class="st ${stc(i)}">${i.st}</span></div>
- <div>${i.img?`<img class="th" src="${i.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<h3><a class="t" href="#" data-id="${i.id}">${i.t}</a></h3><p>${i.s}</p><a class="more" href="#" data-id="${i.id}">Teljes cikk →</a></div></article>`}
+ const fallback=newsFallback(i);
+ const image=i.img&&/^https:\/\//.test(i.img)?i.img:fallback;
+ return `<article class="row${i.lead?" lead":""}" data-r="${esc(i.r)}"><div class="gut"><span class="tag">${esc(i.r)}</span><span class="sub">${esc(i.c)}${i.w?" · "+esc(i.w):""}</span><span class="st ${stc(i)}">${esc(i.st)}</span></div>
+ <div><img class="news-image" src="${esc(image)}" data-fallback="${esc(fallback)}" alt="${i.img?"Hírillusztráció":"Hírpult rovatillusztráció"}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=this.dataset.fallback"><h3><a class="t" href="#" data-id="${esc(i.id)}">${esc(i.t)}</a></h3><p>${esc(i.s)}</p><a class="more" href="#" data-id="${esc(i.id)}">Teljes cikk →</a></div></article>`;
+}
 function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();open(a.dataset.id)})}
 function home(){
  const cnt=c=>c=="Mind"?items.length:items.filter(i=>i.r==c).length;
