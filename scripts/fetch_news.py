@@ -40,6 +40,29 @@ def section(title, tags):
         (("kormány","parlament","miniszter","választás","politika"),"Belpolitika")]:
         if any(w in v for w in terms): return cat
     return "Közélet"
+def feed_image(node):
+    """Use only image URLs explicitly supplied by publisher RSS/Atom metadata."""
+    candidates=[]
+    for x in node.iter():
+        tag=x.tag.rsplit("}",1)[-1].lower()
+        attrs=x.attrib
+        if tag in ("thumbnail","content") and ("url" in attrs):
+            candidates.append(attrs["url"])
+        elif tag=="enclosure" and attrs.get("type","").startswith("image/"):
+            candidates.append(attrs.get("url",""))
+        elif tag=="link" and attrs.get("rel")=="enclosure" and attrs.get("type","").startswith("image/"):
+            candidates.append(attrs.get("href",""))
+    # HTML image embedded in the RSS description, if explicitly provided
+    for field in ("description","summary","encoded","content"):
+        raw=child(node,field)
+        m=re.search(r'<img[^>]+src=["\\\'](https?://[^"\\\']+)',raw,re.I)
+        if m: candidates.append(unescape(m.group(1)))
+    for url in candidates:
+        p=urlparse(url)
+        if p.scheme=="https" and p.hostname and not p.hostname.endswith(".invalid"):
+            return url
+    return ""
+
 def collect(name, feed, host, now):
     req=urllib.request.Request(feed,headers={"User-Agent":"HirpultNewsBot/1.0 (+https://hirplult.info)"})
     with urllib.request.urlopen(req,timeout=20) as response:
@@ -64,12 +87,13 @@ def collect(name, feed, host, now):
         summary=clean(child(node,"description") or child(node,"summary") or child(node,"content"))[:380]
         if len(summary)<25: summary=title
         tags=" ".join(clean(x.text) for x in node if x.tag.rsplit("}",1)[-1]=="category")
+        image=feed_image(node)
         records.append({"id":"rss-"+hashlib.sha256(link.encode()).hexdigest()[:18],
           "r":section(title,tags),"c":name,"w":"","st":"Jelentett",
           "time":f"{MONTHS[date.month]} {date.day}.","published_at":date.isoformat(),
           "t":title,"s":summary,"p":[summary],
           "cav":"Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-          "op":"","src":[[name,link]],"img":"","imgs":"","imgl":"","cred":""})
+          "op":"","src":[[name,link]],"img":image,"imgs":name if image else "","imgl":link if image else "","cred":("Kép: "+name+" – eredeti cikk") if image else ""})
     return records
 def main():
     now=dt.datetime.now(dt.timezone.utc)
