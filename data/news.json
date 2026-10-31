@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:02:23.602712+00:00",
+  "updated_at": "2026-10-31T20:26:06.981164+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -9,6 +9,760 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-2d06898914e96285ef",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T20:15:00+00:00",
+      "t": "Büntetőt rontott az újdonsült aranylabdás Kane a német szuperrangadón",
+      "s": "Nem is nyert a Bayern. The post Büntetőt rontott az újdonsült aranylabdás Kane a német szuperrangadón first appeared on 24.hu .",
+      "p": [
+        "Nem is nyert a Bayern. The post Büntetőt rontott az újdonsült aranylabdás Kane a német szuperrangadón first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/10/31/harry-kane-kihagyott-tizenegyes-bayern-munchen-borussia-dortmund/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/043_dpa-pa_261031-99-128093_dpai-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/10/31/harry-kane-kihagyott-tizenegyes-bayern-munchen-borussia-dortmund/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-c73488eca764a23c43",
+      "r": "Belpolitika",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T20:13:38+00:00",
+      "t": "Alkotmányos válság Varsóban: az ellenzék puccsot emleget, a miniszterelnök szerint most áll helyre a jogállam",
+      "s": "Donald Tusk szerint a köztársasági elnök rombolja jogállamot a jobboldali ellenzékkel összefogva, miközben ő vádolja alkotmánysértéssel a kormányt.",
+      "p": [
+        "Donald Tusk szerint a köztársasági elnök rombolja jogállamot a jobboldali ellenzékkel összefogva, miközben ő vádolja alkotmánysértéssel a kormányt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261031_alkotmanyos-valsag-varsoban-az-ellenzek-puccsot-emleget-a-miniszterelnok-szerint-most-all-helyre-a-jogallam"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1bffb23f-4d6d-43d9-91fe-6978acfe90b2.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_alkotmanyos-valsag-varsoban-az-ellenzek-puccsot-emleget-a-miniszterelnok-szerint-most-all-helyre-a-jogallam",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-9cd83f0cdcc28dbe28",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T20:02:59+00:00",
+      "t": "A nap legfontosabb hírei – 2026.10.31.",
+      "s": "Nem lesz Orbán ENSZ-vezető? Íme a költségvetés részletei. Kihúzták az ötöslottót. The post A nap legfontosabb hírei – 2026.10.31. first appeared on 24.hu .",
+      "p": [
+        "Nem lesz Orbán ENSZ-vezető? Íme a költségvetés részletei. Kihúzták az ötöslottót. The post A nap legfontosabb hírei – 2026.10.31. first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/10/31/a-nap-legfontosabb-hirei-2026-10-31/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/ov2.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/a-nap-legfontosabb-hirei-2026-10-31/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-cef5b9e71cb68a4e40",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:57:11+00:00",
+      "t": "A franciák folytatják a tüntetéseket, a németeknél a fiatalok fogtak demonstrációba",
+      "s": "Olaszországban pedig szombaton voltak tüntetések. Mindenhol téma az oktatás, a közszolgáltatások romló állapota, de a demonstrálók a fegyverkezés ellen is tiltakoznak.",
+      "p": [
+        "Olaszországban pedig szombaton voltak tüntetések. Mindenhol téma az oktatás, a közszolgáltatások romló állapota, de a demonstrálók a fegyverkezés ellen is tiltakoznak."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/a-franciak-folytatjak-a-tunteteseket-a-nemeteknel-a-fiatalok-fogtak-demonstracioba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUxSbDhYNJVGWB0s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/a-franciak-folytatjak-a-tunteteseket-a-nemeteknel-a-fiatalok-fogtak-demonstracioba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-dc606320964a7f9d18",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:56:52+00:00",
+      "t": "Felülvizsgálhatják a gödöllői hatóanyaggyár engedélyét",
+      "s": "Az aggódó helyiek nem tudják, készült-e hatástanulmány a beruházás előtt.",
+      "p": [
+        "Az aggódó helyiek nem tudják, készült-e hatástanulmány a beruházás előtt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/zhvg/20261031_felulvizsgalhatjak-a-godolloi-hatoanyaggyar-engedelyet"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/099353c1-18f8-47b3-9cae-47d8e04cbc3b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/zhvg/20261031_felulvizsgalhatjak-a-godolloi-hatoanyaggyar-engedelyet",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-7e1eee6c52c10f387c",
+      "r": "Gazdaság",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:54:25+00:00",
+      "t": "2 billió forintot loptak el hackerek, de a nagy részét már visszaszerezte a Binance",
+      "s": "A cég szerint a vagyon mintegy 90 százalékát már sikerült is visszaszerezni, de a többi 10-et nem lesz ennyire egyszerű. The post 2 billió forintot loptak el hackerek, de a nagy részét már visszaszerezte a Binance first appeared on 24.hu .",
+      "p": [
+        "A cég szerint a vagyon mintegy 90 százalékát már sikerült is visszaszerezni, de a többi 10-et nem lesz ennyire egyszerű. The post 2 billió forintot loptak el hackerek, de a nagy részét már visszaszerezte a Binance first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/tech/2026/10/31/binance-kriptovaluta-piac-hackerek-lopas-visszaszerzes/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2302659444-e1793476418579-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/tech/2026/10/31/binance-kriptovaluta-piac-hackerek-lopas-visszaszerzes/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-09f97e4fc220650d94",
+      "r": "Kultúra",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:45:20+00:00",
+      "t": "Az utolsó tánc, mielőtt minden szétesik: véget ért az elmúlt tíz év egyik kiemelkedő sorozata",
+      "s": "Az ötödik évaddal véget ér a német tévé legnagyobb vállalkozása, a Babilon Berlin, és a weimari köztársaság búcsúja a mai politikai helyzetre is rímel. Mit tanulhat a mai néző a Hitler hatalomra jutásával búcsúzó sorozatból?",
+      "p": [
+        "Az ötödik évaddal véget ér a német tévé legnagyobb vállalkozása, a Babilon Berlin, és a weimari köztársaság búcsúja a mai politikai helyzetre is rímel. Mit tanulhat a mai néző a Hitler hatalomra jutásával búcsúzó sorozatból?"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/jo/2026/10/31/az-utolso-tanc-mielott-minden-szetesik-veget-ert-az-elmult-tiz-ev-egyik-kiemelkedo-sorozata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PRCaFymRRxQ1p211cs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/jo/2026/10/31/az-utolso-tanc-mielott-minden-szetesik-veget-ert-az-elmult-tiz-ev-egyik-kiemelkedo-sorozata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-46e593275722708853",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:37:06+00:00",
+      "t": "Ötöslottó: itt vannak az e heti nyerőszámok",
+      "s": "Négy páratlan és egy páros számot húztak ki. The post Ötöslottó: itt vannak az e heti nyerőszámok first appeared on 24.hu .",
+      "p": [
+        "Négy páratlan és egy páros számot húztak ki. The post Ötöslottó: itt vannak az e heti nyerőszámok first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/10/31/otoslotto-nyeroszamok-2026-44-het/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/central-0499908145-3-e1792859351719-1140x703-1-1024x631.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/otoslotto-nyeroszamok-2026-44-het/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-628bb0e91be8539ef3",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:16:49+00:00",
+      "t": "Ingyen játszható egy legendás videójáték, ráadásul böngészőből",
+      "s": "A Need For Speed Underground 2-t feltámasztották, modernizálták és a böngészőkben is játszhatóvá tették, a rajongók pedig ki is használják a lehetőséget. The post Ingyen játszható egy legendás videójáték, ráadásul böngészőből first appeared on 24.hu .",
+      "p": [
+        "A Need For Speed Underground 2-t feltámasztották, modernizálták és a böngészőkben is játszhatóvá tették, a rajongók pedig ki is használják a lehetőséget. The post Ingyen játszható egy legendás videójáték, ráadásul böngészőből first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/tech/2026/10/31/need-for-speed-underground-2-bongeszo-videojatek/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/need-for-speed-underground-2-unreal-engine-4-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/tech/2026/10/31/need-for-speed-underground-2-bongeszo-videojatek/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-adcb3b83ccf161fed0",
+      "r": "Belpolitika",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:12:25+00:00",
+      "t": "Amikor a házasság, a politika és a drogfüggő is hazudik – ezekről olvastunk októberben",
+      "s": "Havonta jelentkező olvasónaplónkban a szerkesztőség tagjai írnak aktuális olvasmányélményeikről. The post Amikor a házasság, a politika és a drogfüggő is hazudik – ezekről olvastunk októberben first appeared on 24.hu .",
+      "p": [
+        "Havonta jelentkező olvasónaplónkban a szerkesztőség tagjai írnak aktuális olvasmányélményeikről. The post Amikor a házasság, a politika és a drogfüggő is hazudik – ezekről olvastunk októberben first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/elet-stilus/2026/10/31/olvasonaplo-oktober-konyv/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/07/ill24_konyv_olvasonaplo_gif-1.gif",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/elet-stilus/2026/10/31/olvasonaplo-oktober-konyv/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-c8094c5224503829cc",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:07:54+00:00",
+      "t": "Kevesli a büntetést, és nem bocsát meg a mentősök által bántalmazott férfi testvére",
+      "s": "Származása miatt gúnyolták, nem rögzítették a hordágyhoz, a kormányt jobbra-balra rángatva, vészfékezve mentek, hogy a beteg elessen a mentőben. A férfi később meghalt.",
+      "p": [
+        "Származása miatt gúnyolták, nem rögzítették a hordágyhoz, a kormányt jobbra-balra rángatva, vészfékezve mentek, hogy a beteg elessen a mentőben. A férfi később meghalt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261031_jogerosen-eliteltek-a-mentodolgozokat-akik-szandekosan-serulest-okoztak-egy-roma-betegnek"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/63aa8337-fe56-4ea2-b019-da19e83f708e.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261031_jogerosen-eliteltek-a-mentodolgozokat-akik-szandekosan-serulest-okoztak-egy-roma-betegnek",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-50fbf96488a91496ca",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:02:08+00:00",
+      "t": "Kihúzták az ötös lottó nyerőszámait",
+      "s": "A több mint ötmilliárdos nyeremény után is van élet.",
+      "p": [
+        "A több mint ötmilliárdos nyeremény után is van élet."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261031_kihuztak-az-otos-lotto-nyeroszamait"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e8b8bf86-b4d5-48fe-8f51-d0ba04483c40.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261031_kihuztak-az-otos-lotto-nyeroszamait",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-476d46fe7c0999ac3c",
+      "r": "Kultúra",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T19:00:00+00:00",
+      "t": "Erős, domináns apa fiaként érintett vagyok – Tasnádi István Az örökségről és arról, hogy milyen volt a NER-ben alkotni",
+      "s": "„A gyártás-előkészítés fázisában kaptunk egy egysoros elutasítást, azért megsúgták, mi van a háttérben” – elevenítette fel első mozifilmje hosszú előtörténetét Tasnádi Istán. A NER leváltását csodaként élte meg, de úgy véli, „a következő fázis a csalódás lesz, mert ennyi kiéhezett alkotót nem lehet egyszerre jóllakatni”.",
+      "p": [
+        "„A gyártás-előkészítés fázisában kaptunk egy egysoros elutasítást, azért megsúgták, mi van a háttérben” – elevenítette fel első mozifilmje hosszú előtörténetét Tasnádi Istán. A NER leváltását csodaként élte meg, de úgy véli, „a következő fázis a csalódás lesz, mert ennyi kiéhezett alkotót nem lehet egyszerre jóllakatni”."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/360/20261031_tasnadi-istvan-interju-az-orokseg-csaladi-traumak-uj-remenyek-hvg"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/becc32d7-8e7f-4973-9267-f096a4fda59f.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_tasnadi-istvan-interju-az-orokseg-csaladi-traumak-uj-remenyek-hvg",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-8c1bc268ce38c234e2",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:59:38+00:00",
+      "t": "„Vissza fogunk jönni” – mondja Vucic Orbán mellől, mielőtt egy kis szombati lazításba kezd a két vesztes politikus",
+      "s": "„Az igaz barátok még jobb barátok is lesznek nehéz időkben” – mondta Orbán, aki akkor is felhívta Vucicot, miután a szerb elnök elbukta a választást. The post „Vissza fogunk jönni” – mondja Vucic Orbán mellől, mielőtt egy kis szombati lazításba kezd a két vesztes politikus first appeared on 24.hu .",
+      "p": [
+        "„Az igaz barátok még jobb barátok is lesznek nehéz időkben” – mondta Orbán, aki akkor is felhívta Vucicot, miután a szerb elnök elbukta a választást. The post „Vissza fogunk jönni” – mondja Vucic Orbán mellől, mielőtt egy kis szombati lazításba kezd a két vesztes politikus first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/kozelet/2026/10/31/vucic-orban-talalkoz-szerbia/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/ov.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kozelet/2026/10/31/vucic-orban-talalkoz-szerbia/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-8f08cf67fa7063e76e",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:31:52+00:00",
+      "t": "Majdnem hét éve képtelen nyerni a Győr a Fradi otthonában",
+      "s": "Igaz, most nem is kapott ki. The post Majdnem hét éve képtelen nyerni a Győr a Fradi otthonában first appeared on 24.hu .",
+      "p": [
+        "Igaz, most nem is kapott ki. The post Majdnem hét éve képtelen nyerni a Győr a Fradi otthonában first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/2026/10/31/noi-kezilabda-nb1-ftc-gyor-rangado/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/d__hr20261031036-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/2026/10/31/noi-kezilabda-nb1-ftc-gyor-rangado/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-6d967befe4b6053976",
+      "r": "Belpolitika",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:31:47+00:00",
+      "t": "Orbán és jó barátja, Vučić ezekben a nehéz időkben is kitartanak egymás mellett",
+      "s": "Sőt, a bukott szerb elnök szerint – aki az apja házában látja vendégül a Fidesz elnökét – vissza is fognak térni.",
+      "p": [
+        "Sőt, a bukott szerb elnök szerint – aki az apja házában látja vendégül a Fidesz elnökét – vissza is fognak térni."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/orban-es-jo-baratja-vucic-ezekben-a-nehez-idokben-is-kitartanak-egymas-mellett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUrcUSqTnTERSIks.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/orban-es-jo-baratja-vucic-ezekben-a-nehez-idokben-is-kitartanak-egymas-mellett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-0dff8ead3d1d4a73cb",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:16:55+00:00",
+      "t": "378 napig élt 4 önkéntes a NASA Mars-szimulációjában, elzárva a külvilágtól",
+      "s": "A Mars-misszió szimulációja során a legénység tagjai szimulált űrsétákat végeztek és növényeket termesztettek. De nem ez volt az egyetlen nehézség. The post 378 napig élt 4 önkéntes a NASA Mars-szimulációjában, elzárva a külvilágtól first appeared on 24.hu .",
+      "p": [
+        "A Mars-misszió szimulációja során a legénység tagjai szimulált űrsétákat végeztek és növényeket termesztettek. De nem ez volt az egyetlen nehézség. The post 378 napig élt 4 önkéntes a NASA Mars-szimulációjában, elzárva a külvilágtól first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/tech/2026/10/31/nasa-mars-szimulacio-4-onkentes-378-nap/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/nasa-1-e1793470580471-1024x577.png",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/tech/2026/10/31/nasa-mars-szimulacio-4-onkentes-378-nap/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-159f32fa8c0af94313",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:16:43+00:00",
+      "t": "34 német városban vonultak utcára a fiatalok, Hamburgban paprikaspray-vel oszlattak a rendőrök",
+      "s": "A tüntetők az iskolák jobb finanszírozását, a megélhetési költségek csökkentését, nagyobb társadalmi igazságosságot és erőteljesebb klímavédelmet követelnek.",
+      "p": [
+        "A tüntetők az iskolák jobb finanszírozását, a megélhetési költségek csökkentését, nagyobb társadalmi igazságosságot és erőteljesebb klímavédelmet követelnek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261031_34-nemet-varosban-vonultak-utcara-a-fiatalok-hamburgban-paprikaspray-vel-oszlattak-a-rendorok"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a21952e3-e811-4224-85d8-a943a02c8b9c.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_34-nemet-varosban-vonultak-utcara-a-fiatalok-hamburgban-paprikaspray-vel-oszlattak-a-rendorok",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-cd854fadb6c4940fa8",
+      "r": "Gazdaság",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:09:30+00:00",
+      "t": "Majdnem teljesen fedezte már a Binance a hackertámadás kárát",
+      "s": "A kriptotőzsde saját forrásból vásárolt újra tokeneket.",
+      "p": [
+        "A kriptotőzsde saját forrásból vásárolt újra tokeneket."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/gazdasag/20261031_binance-hackertamadas-kar-token"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b7d60b9a-fde2-4b22-8428-d885b24cbf09.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261031_binance-hackertamadas-kar-token",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-df8f61d96bfd85cb19",
+      "r": "Sport",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T18:01:45+00:00",
+      "t": "A Nemzetközi Jégkorong Szövetség visszavette az oroszokat, több tagország is kiakadt",
+      "s": "Bojkottról egyelőre ugyan nincs szó, de több ország is jelezte: előfordulhat, hogy egyes játékosok nem lépnek jégre, ha az oroszok is versenyeznek.",
+      "p": [
+        "Bojkottról egyelőre ugyan nincs szó, de több ország is jelezte: előfordulhat, hogy egyes játékosok nem lépnek jégre, ha az oroszok is versenyeznek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/a-nemzetkozi-jegkorong-szovetseg-visszavette-az-oroszokat-tobb-tagorszag-is-kiakadt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUpZTHqm60uGWBes.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/a-nemzetkozi-jegkorong-szovetseg-visszavette-az-oroszokat-tobb-tagorszag-is-kiakadt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-8c99032307aec5f4fd",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:58:39+00:00",
+      "t": "Nem csupán az Aranycsapat esett szét, a magyar futball jövője is elveszett 1956-ban",
+      "s": "A forradalom kitörésének, majd a szovjet csapatok bevonulásának hírére rengeteg futballista elhagyta az országot vagy éppen nem tért haza. Eljött a disszidálások, és besúgók kora. The post Nem csupán az Aranycsapat esett szét, a magyar futball jövője is elveszett 1956-ban first appeared on 24.hu .",
+      "p": [
+        "A forradalom kitörésének, majd a szovjet csapatok bevonulásának hírére rengeteg futballista elhagyta az országot vagy éppen nem tért haza. Eljött a disszidálások, és besúgók kora. The post Nem csupán az Aranycsapat esett szét, a magyar futball jövője is elveszett 1956-ban first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/10/31/1956-os-forradalom-magyar-foci-aranycsapat-puskas/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/09/fortepan_13743-masolat-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/10/31/1956-os-forradalom-magyar-foci-aranycsapat-puskas/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-823af471b0d31438fb",
+      "r": "Belpolitika",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:48:29+00:00",
+      "t": "Vérfürdővel melegítenek az amerikai techcégek a közelgő választásokra",
+      "s": "Tetemes eséssel zárták a hetet a tőzsdék az Egyesült Államokban, különösen a technológiai vállalatok húzták lefelé az árfolyamokat. Sokféle magyarázat van, kezdve a jövő heti félidős választásokat övező bizonytalanságoktól egészen addig, hogy most jött el a pillanat, amikorra kipukkadt a mesterséges intelligencia tőzsdei buborékja.",
+      "p": [
+        "Tetemes eséssel zárták a hetet a tőzsdék az Egyesült Államokban, különösen a technológiai vállalatok húzták lefelé az árfolyamokat. Sokféle magyarázat van, kezdve a jövő heti félidős választásokat övező bizonytalanságoktól egészen addig, hogy most jött el a pillanat, amikorra kipukkadt a mesterséges intelligencia tőzsdei buborékja."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/kkv/20261031_amerika-tozsde-ai-nasdaq-eses"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/eea598c9-3959-4a4d-8f1c-44e365e7bc75.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kkv/20261031_amerika-tozsde-ai-nasdaq-eses",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-0df2e01b3ec1c1e46e",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:28:26+00:00",
+      "t": "Újabb tiltakozások Franciaországban, a hatóságok zavargásoktól, a boltosok fosztogatásoktól tartanak",
+      "s": "Rendőrségi források szerint szombat estére 150 városban 350 demonstrációt jelentettek be, amelyekre mintegy 400 ezer résztvevőt várnak.",
+      "p": [
+        "Rendőrségi források szerint szombat estére 150 városban 350 demonstrációt jelentettek be, amelyekre mintegy 400 ezer résztvevőt várnak."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261031_ujabb-tiltakozasok-franciaorszagban"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d765153f-a477-4e70-8fc2-6571b1279096.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_ujabb-tiltakozasok-franciaorszagban",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-9aeb6503635d290312",
+      "r": "Külföld",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:16:42+00:00",
+      "t": "Légvédelmi rendszereket telepítettek Mar-a-Lago közelébe, egyenruhás katonák védik Trumpot az üdülőjében",
+      "s": "A szolgálatok szerint állandó a fenyegetés a birtok körül.",
+      "p": [
+        "A szolgálatok szerint állandó a fenyegetés a birtok körül."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/legvedelmi-rendszereket-telepitettek-mar-a-lago-kozelebe-egyenruhas-katonak-vedik-trumpot-az-udulojeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUmY5a9ze7GLIDKs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/legvedelmi-rendszereket-telepitettek-mar-a-lago-kozelebe-egyenruhas-katonak-vedik-trumpot-az-udulojeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-cfc28998904bc121cc",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:01:38+00:00",
+      "t": "„Olyan hangot képviselek, amivel nem nagyon találkozni a tévében”",
+      "s": "Sapkás Piréz youtuberként találta meg egy kereskedelmi tévés műsor, az Árulók szereplői között. Volt már éles vitája Gulyás Mártonnal és Vona Gáborral is, de miért megengedőbb közben a fideszes influenszer Vasvári Viviennel? Interjú a videóssal, aki szerint a magyar társadalomban még mindig ott vannak azok a dolgok, amik megágyaztak a Fidesznek.",
+      "p": [
+        "Sapkás Piréz youtuberként találta meg egy kereskedelmi tévés műsor, az Árulók szereplői között. Volt már éles vitája Gulyás Mártonnal és Vona Gáborral is, de miért megengedőbb közben a fideszes influenszer Vasvári Viviennel? Interjú a videóssal, aki szerint a magyar társadalomban még mindig ott vannak azok a dolgok, amik megágyaztak a Fidesznek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/olyan-hangot-kepviselek-amivel-nem-nagyon-talalkozni-a-teveben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PTExC2AQ3X4UyHQs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/olyan-hangot-kepviselek-amivel-nem-nagyon-talalkozni-a-teveben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-aec3182082cf09fe58",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T17:00:00+00:00",
+      "t": "Kannibál tyúkok sokkolták a falura költöző budapestieket",
+      "s": "Ki lehet vonulni a nagyvárosból egy idilli faluba? Ez a karrier és a kényelmes élet vége? Mire nem számít az ember? Egy tucat belvárosi néhány éve az apró Szandára költözött. Három évvel első riportunk után visszamentünk, hogy lássuk, hogyan alakult a sorsuk. Kiderül az is, hogy mi az ideális munka falun.",
+      "p": [
+        "Ki lehet vonulni a nagyvárosból egy idilli faluba? Ez a karrier és a kényelmes élet vége? Mire nem számít az ember? Egy tucat belvárosi néhány éve az apró Szandára költözött. Három évvel első riportunk után visszamentünk, hogy lássuk, hogyan alakult a sorsuk. Kiderül az is, hogy mi az ideális munka falun."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261031_szanda-falu-varos-kikoltozes-foldes-andras-riport"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/21db7c36-cafc-4919-bc53-9535784f7cf3.png",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261031_szanda-falu-varos-kikoltozes-foldes-andras-riport",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-977a5ed62df98f46aa",
+      "r": "Belpolitika",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T16:52:21+00:00",
+      "t": "Belgrádban tárgyalt Orbán Viktor",
+      "s": "Pásztor Bálint, a VMSZ vezetője posztolt közös fotót a volt miniszterelnökkel. Közben Vucicot saját pártja szeretné újra elnöknek.",
+      "p": [
+        "Pásztor Bálint, a VMSZ vezetője posztolt közös fotót a volt miniszterelnökkel. Közben Vucicot saját pártja szeretné újra elnöknek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261031_belgradban-targyalt-orban-viktor"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f6db9a90-3545-4845-9c9c-be1d83653cf7.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261031_belgradban-targyalt-orban-viktor",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-2e8fc6780de9f9b024",
+      "r": "Külföld",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T16:26:48+00:00",
+      "t": "Az Egyesült Államok terrortámadás veszélyére figyelmeztette Moszkvát",
+      "s": "Az Egyesült Államok moszkvai nagykövetségének információi vannak arról, hogy szombaton terrortámadás történhet Moszkvában, a Caricino múzemnegyedben.",
+      "p": [
+        "Az Egyesült Államok moszkvai nagykövetségének információi vannak arról, hogy szombaton terrortámadás történhet Moszkvában, a Caricino múzemnegyedben."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261031_az-egyesult-allamok-terrortamadas-veszelyere-figyelmeztette-moszkvat"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e05d801d-66bd-4f64-a1bc-42269cfb4d59.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_az-egyesult-allamok-terrortamadas-veszelyere-figyelmeztette-moszkvat",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-512ddda79154d323a5",
+      "r": "Külföld",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T16:16:54+00:00",
+      "t": "Egy bíróság megtiltotta a Trump-kormányzatnak, hogy a választási dolgozókat fenyegesse",
+      "s": "Az igazságügyi minisztérium illegális szavazókat azonosított, ha pedig a választási dolgozók nem segítenek a szűrésben, a minisztérium szerint törvényt sértenek.",
+      "p": [
+        "Az igazságügyi minisztérium illegális szavazókat azonosított, ha pedig a választási dolgozók nem segítenek a szűrésben, a minisztérium szerint törvényt sértenek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/egy-birosag-megtiltotta-a-trump-kormanyzatnak-hogy-a-valasztasi-dolgozokat-fenyegesse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUiCR3tiT41GWB0s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/egy-birosag-megtiltotta-a-trump-kormanyzatnak-hogy-a-valasztasi-dolgozokat-fenyegesse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
     {
       "id": "rss-c242542ea2bb677124",
       "r": "Közélet",
@@ -88,58 +842,6 @@
       "cred": "Kép: HVG – eredeti cikk"
     },
     {
-      "id": "rss-58c332d289505d5b5a",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T15:45:44+00:00",
-      "t": "Beleszállt a Samsung az Apple-be az iPhone Duo hibája miatt",
-      "s": "Az Apple régóta tervezte már a hajlítható kijelzős mobilját, de a bevezetés nem sikerült hibátlanul. A sérült kijelzőkről érkező panaszokon pedig jót nevet a Samsung. The post Beleszállt a Samsung az Apple-be az iPhone Duo hibája miatt first appeared on 24.hu .",
-      "p": [
-        "Az Apple régóta tervezte már a hajlítható kijelzős mobilját, de a bevezetés nem sikerült hibátlanul. A sérült kijelzőkről érkező panaszokon pedig jót nevet a Samsung. The post Beleszállt a Samsung az Apple-be az iPhone Duo hibája miatt first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/tech/2026/10/31/samsung-reklam-apple-iphone-duo-repedt-kepernyo/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2292741489-e1793461525933-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/tech/2026/10/31/samsung-reklam-apple-iphone-duo-repedt-kepernyo/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-c42ceeb57d711549ca",
-      "r": "Sport",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T15:40:11+00:00",
-      "t": "A Haas a versenyhétvége közben cserélte le Ocont",
-      "s": "A 2022-es Le Mans-i győztes váltja. The post A Haas a versenyhétvége közben cserélte le Ocont first appeared on 24.hu .",
-      "p": [
-        "A 2022-es Le Mans-i győztes váltja. The post A Haas a versenyhétvége közben cserélte le Ocont first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/sport/forma-1/2026/10/31/forma-1-haas-hirakava-rjo-esteban-ocon-csere-mexikoi-nagydij/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/075_porzycki-f1singap261009_nplrt-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/sport/forma-1/2026/10/31/forma-1-haas-hirakava-rjo-esteban-ocon-csere-mexikoi-nagydij/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-2d332789931ef7de46",
       "r": "Gazdaság",
       "c": "HVG",
@@ -190,32 +892,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/vilag/20261031_iran-ha-az-orszagot-ujabb-tamadas-eri-a-valaszcsapasnak-nem-lesznek-foldrajzi-korlatai",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-d57c2a7cb7ec83a72b",
-      "r": "Belpolitika",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T15:11:44+00:00",
-      "t": "Könnyítés: 30 milliárdot nem kell befizetniük jövőre a magyar önkormányzatoknak",
-      "s": "Megszüntetik és kivezetik ugyanis az önkormányzatok területfejlesztési alapba történő befizetési kötelezettségét. The post Könnyítés: 30 milliárdot nem kell befizetniük jövőre a magyar önkormányzatoknak first appeared on 24.hu .",
-      "p": [
-        "Megszüntetik és kivezetik ugyanis az önkormányzatok területfejlesztési alapba történő befizetési kötelezettségét. The post Könnyítés: 30 milliárdot nem kell befizetniük jövőre a magyar önkormányzatoknak first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/10/31/onkormanyzat-koltsegvetes-teruletfejlesztes-kivezetes/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-1078767709-e1793459476496-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/10/31/onkormanyzat-koltsegvetes-teruletfejlesztes-kivezetes/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-dceb04653ed9713548",
@@ -374,58 +1050,6 @@
       "cred": "Kép: HVG – eredeti cikk"
     },
     {
-      "id": "rss-4c2337383c18f05587",
-      "r": "Sport",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:49:04+00:00",
-      "t": "Világbajnok védőjének ostobasága pecsételte meg a MU sorsát a rangadón",
-      "s": "Martíneznek volt már egy sárga lapja, erre úgy ugrott neki az ellenfélnek, hogy könyökkel el is találta. The post Világbajnok védőjének ostobasága pecsételte meg a MU sorsát a rangadón first appeared on 24.hu .",
-      "p": [
-        "Martíneznek volt már egy sárga lapja, erre úgy ugrott neki az ellenfélnek, hogy könyökkel el is találta. The post Világbajnok védőjének ostobasága pecsételte meg a MU sorsát a rangadón first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/sport/foci/2026/10/31/premier-league-chelsea-manchester-united-lisandro-martinez-kiallitas/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/000_d4zm8p6-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/sport/foci/2026/10/31/premier-league-chelsea-manchester-united-lisandro-martinez-kiallitas/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-1702afa370a01ca25f",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:43:07+00:00",
-      "t": "Nagy esővel indul a november: mutatjuk, hol várható a legtöbb csapadék",
-      "s": "Az ország egyes részein nagy mennyiségű csapadék várható, míg az északi-északkeleti területeken sokan teljesen szárazon maradhatnak. The post Nagy esővel indul a november: mutatjuk, hol várható a legtöbb csapadék first appeared on 24.hu .",
-      "p": [
-        "Az ország egyes részein nagy mennyiségű csapadék várható, míg az északi-északkeleti területeken sokan teljesen szárazon maradhatnak. The post Nagy esővel indul a november: mutatjuk, hol várható a legtöbb csapadék first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/tudomany/2026/10/31/idojaras-elorejelzes-eso-november-1-2-ciklon/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-0907322990-e1793457776225-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/tudomany/2026/10/31/idojaras-elorejelzes-eso-november-1-2-ciklon/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-fcb93a85e58e83809a",
       "r": "Közélet",
       "c": "HVG",
@@ -450,84 +1074,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/itthon/20261031_egy-14-eves-fiu-es-egy-12-eves-lany-raboltak-ki-egy-felnottet-salgotarjanban",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-f401c104bde6786aa4",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:25:24+00:00",
-      "t": "Letöltendő börtönbüntetésre ítélték azt a két mentőst, akik szándékosan sérülést okoztak a később meghalt betegüknek",
-      "s": "A két férfi a származása miatt szidalmazta és bántalmazta a férfit. The post Letöltendő börtönbüntetésre ítélték azt a két mentőst, akik szándékosan sérülést okoztak a később meghalt betegüknek first appeared on 24.hu .",
-      "p": [
-        "A két férfi a származása miatt szidalmazta és bántalmazta a férfit. The post Letöltendő börtönbüntetésre ítélték azt a két mentőst, akik szándékosan sérülést okoztak a később meghalt betegüknek first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/10/31/mentosok-bortonbuntetes/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-0568576686-e1793456681251-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/10/31/mentosok-bortonbuntetes/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-62f9cb8476b5eec24f",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:21:38+00:00",
-      "t": "Itt vannak a 2027-es költségvetés részletei: több pénz oktatásra, egészségügyre és honvédelemre, kevesebb közmédiára",
-      "s": "Összefoglaljuk a 2027-es költségvetési javaslat legfontosabb elemeit: az oktatás, az egészségügy, a honvédelem és a környezetvédelem is több forráshoz jut. The post Itt vannak a 2027-es költségvetés részletei: több pénz oktatásra, egészségügyre és honvédelemre, kevesebb közmédiára first appeared on 24.hu .",
-      "p": [
-        "Összefoglaljuk a 2027-es költségvetési javaslat legfontosabb elemeit: az oktatás, az egészségügy, a honvédelem és a környezetvédelem is több forráshoz jut. The post Itt vannak a 2027-es költségvetés részletei: több pénz oktatásra, egészségügyre és honvédelemre, kevesebb közmédiára first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/10/31/2027-koltsegvetes-javaslat-reszletek-oktatas-egeszsegugy-honvedelem/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/dbzol20260907010-e1793456366973-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/10/31/2027-koltsegvetes-javaslat-reszletek-oktatas-egeszsegugy-honvedelem/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-a136f383e483144da0",
-      "r": "Belpolitika",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:14:04+00:00",
-      "t": "Bilincsbe rakták Orbán Viktort egy cseh politikai magazin címlapján",
-      "s": "A Reflexben terjedelmes elemzés olvasható a magyar belpolitikai helyzetről. The post Bilincsbe rakták Orbán Viktort egy cseh politikai magazin címlapján first appeared on 24.hu .",
-      "p": [
-        "A Reflexben terjedelmes elemzés olvasható a magyar belpolitikai helyzetről. The post Bilincsbe rakták Orbán Viktort egy cseh politikai magazin címlapján first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kozelet/2026/10/31/bilincs-orban-viktor-csehorszag/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/8pt8zwbbmaho13onms-xl-e1793456021873-1024x577.jpeg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kozelet/2026/10/31/bilincs-orban-viktor-csehorszag/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-35b55f00a33ada7773",
@@ -582,32 +1128,6 @@
       "cred": "Kép: HVG – eredeti cikk"
     },
     {
-      "id": "rss-b046c7cbee14b857f7",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T14:00:32+00:00",
-      "t": "„A fájdalomtól nem olyan egyszerű megszabadulni” – szemcsés képekben idézi meg ’56-ban elmenekült nagyapját",
-      "s": "“This is the finest place I have struck yet” című fotográfiai projekt ismétlődő vizuális és The post „A fájdalomtól nem olyan egyszerű megszabadulni” – szemcsés képekben idézi meg ’56-ban elmenekült nagyapját first appeared on 24.hu .",
-      "p": [
-        "“This is the finest place I have struck yet” című fotográfiai projekt ismétlődő vizuális és The post „A fájdalomtól nem olyan egyszerű megszabadulni” – szemcsés képekben idézi meg ’56-ban elmenekült nagyapját first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kultura/2026/10/31/1956-elsa-berrien-forradalom-fotosorozat/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/nagyi1-masolat-1024x575.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kultura/2026/10/31/1956-elsa-berrien-forradalom-fotosorozat/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-cab08064a678eb9100",
       "r": "Közélet",
       "c": "444",
@@ -658,43 +1178,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/itthon/20261031_ujra-frissul-a-nepszava-online",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "merged-25c27ec69cf70d6c36",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T13:41:25+00:00",
-      "t": "Angela Merkel szerint a következő német elnöknek nőnek kell lennie",
-      "s": "Angela Merkel, Németország volt kancellárja nyilvánosan javasolta, hogy a következő szövetségi elnök legyen nő, kiemelve, hogy a 77 éves német államfői történelemben még soha nem töltötte be ezt a pozíciót női politikus.",
-      "p": [
-        "Angela Merkel, aki 2005 és 2021 között vezette Németországot, a német Magenta TV-nek adott interjújában hangsúlyozta, hogy eljött az ideje annak, hogy egy nő töltsön be ilyen magas állami tisztséget. Kiemelte, hogy a szövetségi elnöki pozíciót eddig kizárólag férfiak töltötték be, és ez a helyzet megváltozhat a következő választás alkalmával.",
-        "A következő német államfő megválasztására 2027. január 30-án kerül sor, amikor a Szövetségi Közgyűlés összeül. Ez a testület 1260 küldöttből áll, akik fele-fele arányban a Bundestag, illetve a 16 tartományi parlament képviselőiből tevődik össze. A jelenlegi elnök, Frank-Walter Steinmeier két ciklus után már nem indulhat újra, így a pozíció betöltése nyitottá válik új jelöltek számára.",
-        "Merkel nem nevezett meg konkrét személyeket, de elmondta, hogy ismer olyan nőket, akik méltóak lennének a szövetségi elnöki tisztségre. Ezzel egyidejűleg rámutatott arra, hogy a politikában a nők gyakran előítéletekkel és nehézségekkel szembesülnek, különösen akkor, ha először kerülnek vezető pozícióba egy nagy szervezetben vagy állami tisztségben.",
-        "A volt kancellár személyes tapasztalataira is utalt, amikor arról beszélt, hogy politikai pályafutása kezdetén érzékelte a nőkkel szembeni különbségtételeket. Megemlítette, hogy előfordult, hogy a viták során a férfi kollégák a feje fölött beszéltek, és hogy a nőknek gyakran másfajta szerepmodelleknek kell megfelelniük a nyilvánosság előtt.",
-        "Merkel egy korábbi budapesti látogatás alkalmával is beszélt arról, hogy a politikában a nők helyzete különleges, és hogy ő maga is szerepmodellként tekintett magára, amikor kiállt a nyilvánosság elé. Hangsúlyozta, hogy a nemzetközi politikai fórumokon, mint az Európai Tanács vagy a G20, a nemek közötti különbségek kevésbé számítanak, hiszen ott mindenki a saját országának érdekeit képviseli.",
-        "A német politikai hagyományokban a szövetségi elnök választása jelentős esemény, amelyet a Szövetségi Közgyűlés bonyolít le. A testület összetétele biztosítja, hogy a választás széles körű politikai támogatottsággal történjen. Merkel javaslata új lendületet adhat a nők politikai szerepvállalásának, és hozzájárulhat a nemek közötti egyenlőség előmozdításához a német államfői pozícióban.",
-        "A volt kancellár portréja, amelyet 2026-ban mutattak be Berlinben, tovább erősíti Merkel megítélését mint Németország első női kancellárját, és újraéleszti a vitát arról, hogy milyen szerepet tölthetnek be a hagyományos politikai portrék a modern korban. Ez a vizuális megjelenítés is hozzájárul ahhoz, hogy a nők politikai jelenléte és vezető szerepe egyre inkább elfogadottá váljon Németországban."
-      ],
-      "cav": "",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kulfold/2026/10/31/angela-merkel-nemetorszag-elnok/"
-        ],
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261031_angela-merkel-javaslata-a-kovetkezo-nemet-elnok-no-legyen"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-1042543737-e1793453803723-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kulfold/2026/10/31/angela-merkel-nemetorszag-elnok/",
-      "cred": "Kép: 24.hu – eredeti cikk",
-      "ai_edited": true
     },
     {
       "id": "rss-007a6ee53c1f0aa8e0",
@@ -879,6 +1362,32 @@
       "cred": "Kép: HVG – eredeti cikk"
     },
     {
+      "id": "rss-5b40e0d1c1cadb4546",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T12:41:02+00:00",
+      "t": "Angela Merkel javaslata: a következő német elnök nő legyen!",
+      "s": "Németország 77 éves történelme során egyszer sem volt nő a szövetségi elnök – érvelt Merkel.",
+      "p": [
+        "Németország 77 éves történelme során egyszer sem volt nő a szövetségi elnök – érvelt Merkel."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261031_angela-merkel-javaslata-a-kovetkezo-nemet-elnok-no-legyen"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8cd0c5e4-4a94-4e81-b599-7537a52ea394.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261031_angela-merkel-javaslata-a-kovetkezo-nemet-elnok-no-legyen",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
       "id": "rss-ca6498afc4b81355da",
       "r": "Külföld",
       "c": "444",
@@ -1059,500 +1568,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/vilag/20261031_trump-ujraindithatja-iran-elleni-tamadasokat-felidei-valasztas",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-095a900889deb35e7c",
-      "r": "Kultúra",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T11:03:00+00:00",
-      "t": "Ez a lemezjátszó tényleg függőleges, és tényleg működik",
-      "s": "Akár művészeti alkotásként, lakásdíszként is funkcionálhat egy különleges lemezjátszó, mivel a falra szerelhető. Hagyományos társaitól eltérően függőlegesen pörgeti a bakelitlemezt, hogy hangokká varázsolja a lemezbe rótt barázdákat. Azt nem ígérik, hogy ettől jobb lesz a hangzás, azt viszont igen, hogy a zenehallgatás vizuálisan is izgalmasabbá válik.",
-      "p": [
-        "Akár művészeti alkotásként, lakásdíszként is funkcionálhat egy különleges lemezjátszó, mivel a falra szerelhető. Hagyományos társaitól eltérően függőlegesen pörgeti a bakelitlemezt, hogy hangokká varázsolja a lemezbe rótt barázdákat. Azt nem ígérik, hogy ettől jobb lesz a hangzás, azt viszont igen, hogy a zenehallgatás vizuálisan is izgalmasabbá válik."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/tudomany/20261031_roku-studio-fuggoleges-lemezjatszo"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1cf107f9-591c-4651-9cc1-9311189c234d.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/tudomany/20261031_roku-studio-fuggoleges-lemezjatszo",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-f3d635287b15411360",
-      "r": "Gazdaság",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T10:56:19+00:00",
-      "t": "Javul az önkormányzatok költségvetési helyzete jövőre",
-      "s": "A tárcavezető szerint a települések „a jövő évi költségvetés nagy nyertesei”.",
-      "p": [
-        "A tárcavezető szerint a települések „a jövő évi költségvetés nagy nyertesei”."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/gazdasag/20261031_javul-az-onkormanyzatok-koltsegvetesi-helyzete-jovore"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2b5ac51f-466a-4aab-b5c9-9b0bea37fe37.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/gazdasag/20261031_javul-az-onkormanyzatok-koltsegvetesi-helyzete-jovore",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-fb95fb98b3b5a4d7ae",
-      "r": "Belpolitika",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T10:46:10+00:00",
-      "t": "„Szar” – válaszolta Magyar Péter Nagy Ádám kérdésére, hogy milyen hatással van az emberi kapcsolataira a miniszterelnöki munkája",
-      "s": "Ruff Bálinttól tanulta meg, hogy amikor neki már egy téma a könyökén jön ki, mert húszszor hallott mindent, akkor jut el másokhoz az üzenet, mondta Magyar Péter a Fókuszcsoport videójában.",
-      "p": [
-        "Ruff Bálinttól tanulta meg, hogy amikor neki már egy téma a könyökén jön ki, mert húszszor hallott mindent, akkor jut el másokhoz az üzenet, mondta Magyar Péter a Fókuszcsoport videójában."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/31/szar-valaszolta-magyar-peter-nagy-adam-kerdesere-hogy-milyen-hatassal-van-az-emberi-kapcsolataira-a-miniszterelnoki-munkaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PUJy6FdHYagZoNws.png",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/31/szar-valaszolta-magyar-peter-nagy-adam-kerdesere-hogy-milyen-hatassal-van-az-emberi-kapcsolataira-a-miniszterelnoki-munkaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-644f4ae453d72674c1",
-      "r": "Gazdaság",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T10:37:31+00:00",
-      "t": "Standard: A magyar kormány hagyta magát befűzni Trumpék propagandacéljaira?",
-      "s": "Válogatásunk a világlapok írásaiból",
-      "p": [
-        "Válogatásunk a világlapok írásaiból"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/360/20261031_nemzetkozi-lapszemle-izrael-trump-ukrajna-nemetorszag-rubio"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb8cebc5-c54e-4632-86fd-283c23db392f.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/360/20261031_nemzetkozi-lapszemle-izrael-trump-ukrajna-nemetorszag-rubio",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-645d876ffa778c6af6",
-      "r": "Kultúra",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T10:21:04+00:00",
-      "t": "Stern Lili lett a Trafó vezetője",
-      "s": "A nyertes pályázó 2016 óta dolgozik a kortárs tánc és a független előadó-művészet területén.",
-      "p": [
-        "A nyertes pályázó 2016 óta dolgozik a kortárs tánc és a független előadó-művészet területén."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/kultura/20261031_stern-lili-lett-a-trafo-vezetoje"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a4008f6-59b3-4760-bb82-910a4d6f3cca.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/kultura/20261031_stern-lili-lett-a-trafo-vezetoje",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-1ecbc5c70c92f07f5c",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T10:02:35+00:00",
-      "t": "Bejártuk a debreceni Arany Bikát, aminek felújításába előbb egy vállalkozónak, majd az MCC-nek is beletört a bicskája",
-      "s": "Letaglózó állapotokat találtunk az épületegyüttesben, aminek egyik fele feltétlenül megmentendő műemlék, másik fele pedig kérdés nélkül bontandó paneldoboz. De milyen jövő vár a szállodára, aminek legfelső szintjén több szobát is vastag galambguánó-szőnyeg tölt meg, a fűtési rendszer pedig szürreálisabb, mint a Dalí-életmű? Helyszíni riport.",
-      "p": [
-        "Letaglózó állapotokat találtunk az épületegyüttesben, aminek egyik fele feltétlenül megmentendő műemlék, másik fele pedig kérdés nélkül bontandó paneldoboz. De milyen jövő vár a szállodára, aminek legfelső szintjén több szobát is vastag galambguánó-szőnyeg tölt meg, a fűtési rendszer pedig szürreálisabb, mint a Dalí-életmű? Helyszíni riport."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/31/bejartuk-a-debreceni-arany-bikat-aminek-felujitasaba-elobb-egy-vallalkozonak-majd-az-mcc-nek-is-beletort-a-bicskaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8P5WUJkr4MrJmOWHs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/31/bejartuk-a-debreceni-arany-bikat-aminek-felujitasaba-elobb-egy-vallalkozonak-majd-az-mcc-nek-is-beletort-a-bicskaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-e6218e2fc9ab0e089a",
-      "r": "Kultúra",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:59:00+00:00",
-      "t": "Egoista, önhitt és könyörtelen – nem épít hőskultuszt a franciák De Gaulle-filmeposza",
-      "s": "A temetők tele vannak pótolhatatlan férfiakkal, mondta az egykoron dicsőségre ítélt férfi, a múlt hét óta a magyar mozikban is látható francia film hőse. Charles de Gaulle több volt, mint a hazája válságos helyzetében is hajlíthatatlan nemzeti ikon.",
-      "p": [
-        "A temetők tele vannak pótolhatatlan férfiakkal, mondta az egykoron dicsőségre ítélt férfi, a múlt hét óta a magyar mozikban is látható francia film hőse. Charles de Gaulle több volt, mint a hazája válságos helyzetében is hajlíthatatlan nemzeti ikon."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/360/20261031_hvg-charles-de-gaulle-az-ellenallas-hajnala-film"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/64a3fa98-0811-4b14-9f67-2da1c2c58d4f.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/360/20261031_hvg-charles-de-gaulle-az-ellenallas-hajnala-film",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-d05786466ebf951d18",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:53:46+00:00",
-      "t": "Le Monde: Kisvárdán megkönnyebbültek Seszták Miklós letartóztatása után",
-      "s": "A mindent elárasztó propaganda miatt sokan nem is tudták a kisvárosban, mik zajlanak arrafelé.",
-      "p": [
-        "A mindent elárasztó propaganda miatt sokan nem is tudták a kisvárosban, mik zajlanak arrafelé."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/360/20261031_le-monde-kisvardan-megkonnyebbultek-sesztak-miklos-letartoztatasa-utan"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/753c5aad-9700-4c9b-a658-f34649ce072d.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/360/20261031_le-monde-kisvardan-megkonnyebbultek-sesztak-miklos-letartoztatasa-utan",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-406bd830192465bfe1",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:52:57+00:00",
-      "t": "G7: drasztikusan csökkent a nyelvvizsgázók száma tíz év alatt",
-      "s": "A fiatalok nyelvtudása javult, de így is az uniós sor végén kullogunk idegennyelv-tudásban.",
-      "p": [
-        "A fiatalok nyelvtudása javult, de így is az uniós sor végén kullogunk idegennyelv-tudásban."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261031_egyre-kevesebben-nyelvvizsgaznak"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6f6a1a8f-9d3a-4bed-a137-6efa5cb7c535.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261031_egyre-kevesebben-nyelvvizsgaznak",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-963b1a1895f32ad14e",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:30:53+00:00",
-      "t": "ENSZ-főtitkár kerestetik: kilencre emelkedett a jelöltek száma",
-      "s": "Orbán Viktor nincs köztük, pedig Donald Trump bedobta a nevét lehetséges ENSZ-főtitkárként.",
-      "p": [
-        "Orbán Viktor nincs köztük, pedig Donald Trump bedobta a nevét lehetséges ENSZ-főtitkárként."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/vilag/20261031_ensz-fottkari-poszt-kilencre-emelkedett-jeloltek-szama"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/17bc6c27-d323-4e22-87f7-47a04ba80f57.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/vilag/20261031_ensz-fottkari-poszt-kilencre-emelkedett-jeloltek-szama",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-fd78545ab490942982",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:04:15+00:00",
-      "t": "„Ha történik velünk valami, mindent két gyermekünk örököl” - végrendeletet készített Bodnár Attila és Pap Rita",
-      "s": "„Nekem is megvannak a magam egészségi problémái, ráadásul Rita két éve stroke-ot kapott” - mesélte a zenész.",
-      "p": [
-        "„Nekem is megvannak a magam egészségi problémái, ráadásul Rita két éve stroke-ot kapott” - mesélte a zenész."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261031_vegrendeletet-keszitett-bodnar-attila-es-pap-rita"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dbae98f7-4965-4248-b9f8-cd4a8e97a93b.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261031_vegrendeletet-keszitett-bodnar-attila-es-pap-rita",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-4be28c7acc8caf334f",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "t": "Az ország legjobb gimnáziumai az idegennyelvi érettségi alapján",
-      "s": "A HVG top 100 gimnáziumi rangsora összeállításánál lehetőség van különböző alrangsorok kialakítására is. Ezúttal azoknak a gimnáziumoknak a TOP10-es listáját közöljük, ahol a nyelvi érettségi átlaga a legjobb volt.",
-      "p": [
-        "A HVG top 100 gimnáziumi rangsora összeállításánál lehetőség van különböző alrangsorok kialakítására is. Ezúttal azoknak a gimnáziumoknak a TOP10-es listáját közöljük, ahol a nyelvi érettségi átlaga a legjobb volt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/360/20261031_az-orszag-legjobb-gimnaziumai-az-idegennyelvi-erettsegi-alapjan"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6577cd47-ed01-45cc-ae2c-a88e847a7d8a.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/360/20261031_az-orszag-legjobb-gimnaziumai-az-idegennyelvi-erettsegi-alapjan",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-c3247c0318a2afe16f",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T08:54:28+00:00",
-      "t": "Világszerte több mint száz kikötőben sztrájkoltak a dokkmunkások a fegyverszállítások ellen",
-      "s": "Olaszországtól kezdve egészen Indiáig a tiltakozással arra is fel akarták hívni a figyelmet, hogy a Perzsa-öböltől a Fekete-tengerig zajló háborúkban egyre több tengerész veszti életét.",
-      "p": [
-        "Olaszországtól kezdve egészen Indiáig a tiltakozással arra is fel akarták hívni a figyelmet, hogy a Perzsa-öböltől a Fekete-tengerig zajló háborúkban egyre több tengerész veszti életét."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/31/vilagszerte-tobb-mint-szaz-kikotoben-sztrajkoltak-a-dokkmunkasok-a-fegyverszallitasok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PUFBfHwMncz13ehms.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/31/vilagszerte-tobb-mint-szaz-kikotoben-sztrajkoltak-a-dokkmunkasok-a-fegyverszallitasok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-aaa2a7e5e5ed67e2e0",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T08:46:38+00:00",
-      "t": "Átláthatatlan a helyzet a lengyel Alkotmánybíróságnál",
-      "s": "Még az a veszély is fennáll, hogy a köztársasági elnök és az Ab elnöke személyes összeütközésbe kerül a kormány utasítását teljesítő, az Ab-elnök megbízott utódját védő rendőrökkel.",
-      "p": [
-        "Még az a veszély is fennáll, hogy a köztársasági elnök és az Ab elnöke személyes összeütközésbe kerül a kormány utasítását teljesítő, az Ab-elnök megbízott utódját védő rendőrökkel."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/vilag/20261031_atlathatatlan-a-helyzet-a-lengyel-alkotmanybirosagnal"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/79c980ac-119b-4e8e-b7b7-2cba787994de.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/vilag/20261031_atlathatatlan-a-helyzet-a-lengyel-alkotmanybirosagnal",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-37a8119ca5afb80589",
-      "r": "Gazdaság",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T08:40:27+00:00",
-      "t": "Gazdasági szakadék alakult ki Magyarországon, így néz ki",
-      "s": "Jelentős különbségek alakultak ki a magyarországi régiók gazdasági teljesítményében az elmúlt években. Az Eurostat adatai szerint 2024-ben a magyar GDP 11,4 százalékkal haladta meg a 2020-as szintet, ám a növekedés területileg rendkívül egyenlőtlenül oszlott meg. Pest megyében 20,3, Budapesten 17 százalékos volt a bővülés, addig a Dél-Alföldön mindössze 3 százalékkal nőtt, Észa",
-      "p": [
-        "Jelentős különbségek alakultak ki a magyarországi régiók gazdasági teljesítményében az elmúlt években. Az Eurostat adatai szerint 2024-ben a magyar GDP 11,4 százalékkal haladta meg a 2020-as szintet, ám a növekedés területileg rendkívül egyenlőtlenül oszlott meg. Pest megyében 20,3, Budapesten 17 százalékos volt a bővülés, addig a Dél-Alföldön mindössze 3 százalékkal nőtt, Észa"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/gazdasag/20261031_gdp-novekedes-eurostat-statisztika-magyarorszag"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/30dc0ae3-2283-4887-8f59-56f0654b237c.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/gazdasag/20261031_gdp-novekedes-eurostat-statisztika-magyarorszag",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-3e814537b9afcfbf4f",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T08:24:07+00:00",
-      "t": "Kiskunhalasra vitték át Varga-Bajusz Veronikát",
-      "s": "Az NKA-ügy miatt letartóztatott fideszes politikust különösen jelentős vagyoni hátrányt okozó, bűnszövetségben elkövetett hűtlen kezeléssel gyanúsítják.",
-      "p": [
-        "Az NKA-ügy miatt letartóztatott fideszes politikust különösen jelentős vagyoni hátrányt okozó, bűnszövetségben elkövetett hűtlen kezeléssel gyanúsítják."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261031_kiskunhalasra-vittek-varga-bajusz-veronikat"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bf6603e5-7347-4ec4-a172-c743a7b3c270.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261031_kiskunhalasra-vittek-varga-bajusz-veronikat",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-3b74825281c9b4947d",
-      "r": "Gazdaság",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T08:06:20+00:00",
-      "t": "Kiszervezték a kormány alól a vasútfejlesztést",
-      "s": "A beruházások gyorsabb lefolytatását remélik az intézkedéstől.",
-      "p": [
-        "A beruházások gyorsabb lefolytatását remélik az intézkedéstől."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/gazdasag/20261031_kiszerveztek-a-kormany-alol-a-vasutfejlesztest"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bc9f795d-e2d5-4439-a441-82b7d5eea5d1.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/gazdasag/20261031_kiszerveztek-a-kormany-alol-a-vasutfejlesztest",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-8f74f6c4c258c95b04",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:51:28+00:00",
-      "t": "Blikk: elkelt Magyar Péter és Varga Judit egykori közös, csokos balatonhenyei háza",
-      "s": "299 millió forintot kértek az ingatlanért, amit a Szép Házak magazin is címlapra tett",
-      "p": [
-        "299 millió forintot kértek az ingatlanért, amit a Szép Házak magazin is címlapra tett"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261031_varga-judit-magyar-peter-balatoni-nyaralo-balatonhenye"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9eae8687-675a-426c-8062-3bcf6d578bcb.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261031_varga-judit-magyar-peter-balatoni-nyaralo-balatonhenye",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-d06306d8b1edb4ae6a",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:47:22+00:00",
-      "t": "Népszava: megszűnt, de nem szűnt meg",
-      "s": "Online és a Népszabadság hetilap mellékletében mégis lesz Népszava, „markáns, sajátos profillal”.",
-      "p": [
-        "Online és a Népszabadság hetilap mellékletében mégis lesz Népszava, „markáns, sajátos profillal”."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/31/nepszava-megszunt-de-nem-szunt-meg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8LZmpmynUZiFagMEs.png",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/31/nepszava-megszunt-de-nem-szunt-meg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }
