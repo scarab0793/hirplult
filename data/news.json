@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T09:43:42.706258+00:00",
+  "updated_at": "2026-10-31T10:29:05.129410+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -9,6 +9,214 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-645d876ffa778c6af6",
+      "r": "Kultúra",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:21:04+00:00",
+      "t": "Stern Lili lett a Trafó vezetője",
+      "s": "A nyertes pályázó 2016 óta dolgozik a kortárs tánc és a független előadó-művészet területén.",
+      "p": [
+        "A nyertes pályázó 2016 óta dolgozik a kortárs tánc és a független előadó-művészet területén."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/kultura/20261031_stern-lili-lett-a-trafo-vezetoje"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a4008f6-59b3-4760-bb82-910a4d6f3cca.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kultura/20261031_stern-lili-lett-a-trafo-vezetoje",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-5ddfc2461bf0b37a1a",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:14:01+00:00",
+      "t": "Elárulták, mi okozta Lauren Bennett, a Party Rock Anthem énekesnőjének korai halálát",
+      "s": "37 éves korában meghalt Lauren Bennett brit énekesnő, aki az LMFAO világsikerű, Party Rock Anthem című slágerében működött közre. The post Elárulták, mi okozta Lauren Bennett, a Party Rock Anthem énekesnőjének korai halálát first appeared on 24.hu .",
+      "p": [
+        "37 éves korában meghalt Lauren Bennett brit énekesnő, aki az LMFAO világsikerű, Party Rock Anthem című slágerében működött közre. The post Elárulták, mi okozta Lauren Bennett, a Party Rock Anthem énekesnőjének korai halálát first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/kultura/2026/10/31/lauren-bennett-halalanak-oka-party-rock-anthem/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-836266542-e1793441511997-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kultura/2026/10/31/lauren-bennett-halalanak-oka-party-rock-anthem/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-265f7e84b73b2ed719",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:07:05+00:00",
+      "t": "„Nagyon komolyan vesszük a helyzetet” – még telefonon sem beszélhet a futballról a lábadozó Bayern-edző",
+      "s": "Első a gyógyulás! The post „Nagyon komolyan vesszük a helyzetet” – még telefonon sem beszélhet a futballról a lábadozó Bayern-edző first appeared on 24.hu .",
+      "p": [
+        "Első a gyógyulás! The post „Nagyon komolyan vesszük a helyzetet” – még telefonon sem beszélhet a futballról a lábadozó Bayern-edző first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/10/31/vincent-kompany-agyhartyagyulladas-bayern-munchen-futballtilalom/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/043_dpa-pa_260910-99-602697_dpai-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/10/31/vincent-kompany-agyhartyagyulladas-bayern-munchen-futballtilalom/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-1ecbc5c70c92f07f5c",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:02:35+00:00",
+      "t": "Bejártuk a debreceni Arany Bikát, aminek felújításába előbb egy vállalkozónak, majd az MCC-nek is beletört a bicskája",
+      "s": "Letaglózó állapotokat találtunk az épületegyüttesben, aminek egyik fele feltétlenül megmentendő műemlék, másik fele pedig kérdés nélkül bontandó paneldoboz. De milyen jövő vár a szállodára, aminek legfelső szintjén több szobát is vastag galambguánó-szőnyeg tölt meg, a fűtési rendszer pedig szürreálisabb, mint a Dalí-életmű? Helyszíni riport.",
+      "p": [
+        "Letaglózó állapotokat találtunk az épületegyüttesben, aminek egyik fele feltétlenül megmentendő műemlék, másik fele pedig kérdés nélkül bontandó paneldoboz. De milyen jövő vár a szállodára, aminek legfelső szintjén több szobát is vastag galambguánó-szőnyeg tölt meg, a fűtési rendszer pedig szürreálisabb, mint a Dalí-életmű? Helyszíni riport."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/bejartuk-a-debreceni-arany-bikat-aminek-felujitasaba-elobb-egy-vallalkozonak-majd-az-mcc-nek-is-beletort-a-bicskaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8P5WUJkr4MrJmOWHs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/bejartuk-a-debreceni-arany-bikat-aminek-felujitasaba-elobb-egy-vallalkozonak-majd-az-mcc-nek-is-beletort-a-bicskaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-7a7d7ff6bee0811c31",
+      "r": "Gazdaság",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:02:11+00:00",
+      "t": "„Itt mindenki bűnszervezetet emleget” – újságírói munka a Matolcsy család ügyei körül",
+      "s": "A Matolcsy György és családja körüli gyanús ügyekről már évek, sőt egy évtized óta rendszeresen beszámol a magyar sajtó. The post „Itt mindenki bűnszervezetet emleget” – újságírói munka a Matolcsy család ügyei körül first appeared on 24.hu .",
+      "p": [
+        "A Matolcsy György és családja körüli gyanús ügyekről már évek, sőt egy évtized óta rendszeresen beszámol a magyar sajtó. The post „Itt mindenki bűnszervezetet emleget” – újságírói munka a Matolcsy család ügyei körül first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/10/31/matolcsy-nemzetibank-alapitvany-kozpenz-video/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/mnb-cover-jw-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/matolcsy-nemzetibank-alapitvany-kozpenz-video/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-e6218e2fc9ab0e089a",
+      "r": "Kultúra",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:59:00+00:00",
+      "t": "Egoista, önhitt és könyörtelen – nem épít hőskultuszt a franciák De Gaulle-filmeposza",
+      "s": "A temetők tele vannak pótolhatatlan férfiakkal, mondta az egykoron dicsőségre ítélt férfi, a múlt hét óta a magyar mozikban is látható francia film hőse. Charles de Gaulle több volt, mint a hazája válságos helyzetében is hajlíthatatlan nemzeti ikon.",
+      "p": [
+        "A temetők tele vannak pótolhatatlan férfiakkal, mondta az egykoron dicsőségre ítélt férfi, a múlt hét óta a magyar mozikban is látható francia film hőse. Charles de Gaulle több volt, mint a hazája válságos helyzetében is hajlíthatatlan nemzeti ikon."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/360/20261031_hvg-charles-de-gaulle-az-ellenallas-hajnala-film"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/64a3fa98-0811-4b14-9f67-2da1c2c58d4f.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_hvg-charles-de-gaulle-az-ellenallas-hajnala-film",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-d05786466ebf951d18",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:53:46+00:00",
+      "t": "Le Monde: Kisvárdán megkönnyebbültek Seszták Miklós letartóztatása után",
+      "s": "A mindent elárasztó propaganda miatt sokan nem is tudták a kisvárosban, mik zajlanak arrafelé.",
+      "p": [
+        "A mindent elárasztó propaganda miatt sokan nem is tudták a kisvárosban, mik zajlanak arrafelé."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/360/20261031_le-monde-kisvardan-megkonnyebbultek-sesztak-miklos-letartoztatasa-utan"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/753c5aad-9700-4c9b-a658-f34649ce072d.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_le-monde-kisvardan-megkonnyebbultek-sesztak-miklos-letartoztatasa-utan",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-406bd830192465bfe1",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:52:57+00:00",
+      "t": "G7: drasztikusan csökkent a nyelvvizsgázók száma tíz év alatt",
+      "s": "A fiatalok nyelvtudása javult, de így is az uniós sor végén kullogunk idegennyelv-tudásban.",
+      "p": [
+        "A fiatalok nyelvtudása javult, de így is az uniós sor végén kullogunk idegennyelv-tudásban."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261031_egyre-kevesebben-nyelvvizsgaznak"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6f6a1a8f-9d3a-4bed-a137-6efa5cb7c535.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261031_egyre-kevesebben-nyelvvizsgaznak",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
     {
       "id": "rss-9c9a1feadcd3468937",
       "r": "Közélet",
@@ -426,58 +634,6 @@
       "cred": "Kép: HVG – eredeti cikk"
     },
     {
-      "id": "rss-b17e59469b2e9a5af2",
-      "r": "Külföld",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:51:03+00:00",
-      "t": "Amerikában attól tartanak, hogy Trump újra megtámadja Iránt, ha veszítenek a republikánusok a félidős választásokon",
-      "s": "„Ha Donald Trump úgy érzi, hogy zavarban van, vagy jogfosztottnak érzi magát, akkor valami merészet tesz.” The post Amerikában attól tartanak, hogy Trump újra megtámadja Iránt, ha veszítenek a republikánusok a félidős választásokon first appeared on 24.hu .",
-      "p": [
-        "„Ha Donald Trump úgy érzi, hogy zavarban van, vagy jogfosztottnak érzi magát, akkor valami merészet tesz.” The post Amerikában attól tartanak, hogy Trump újra megtámadja Iránt, ha veszítenek a republikánusok a félidős választásokon first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kulfold/2026/10/31/trump-felidos-valasztas-usa-iran-tamadas-ujrainditasa/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2302461368-e1793432996398-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kulfold/2026/10/31/trump-felidos-valasztas-usa-iran-tamadas-ujrainditasa/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-0a915d6e8309db455a",
-      "r": "Kultúra",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:50:37+00:00",
-      "t": "Michael Douglas szerint a szexjelenetek forgatásánál egyetlen dolog számít igazán",
-      "s": "Douglas korábban meglehetősen kritikusan beszélt az intimitás-koordinátorok alkalmazásáról. Most más megvilágításban beszélt az erotikus jelenetekről. The post Michael Douglas szerint a szexjelenetek forgatásánál egyetlen dolog számít igazán first appeared on 24.hu .",
-      "p": [
-        "Douglas korábban meglehetősen kritikusan beszélt az intimitás-koordinátorok alkalmazásáról. Most más megvilágításban beszélt az erotikus jelenetekről. The post Michael Douglas szerint a szexjelenetek forgatásánál egyetlen dolog számít igazán first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/elet-stilus/2026/10/31/michael-douglas-szexjelenet-forgatas/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2301814302-e1793432174681-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/elet-stilus/2026/10/31/michael-douglas-szexjelenet-forgatas/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-d06306d8b1edb4ae6a",
       "r": "Közélet",
       "c": "444",
@@ -528,32 +684,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/gazdasag/20261031_koltsegvetes-2027-penzugyminiszterium-torveny-parlament",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-ab46512bb865f27227",
-      "r": "Belpolitika",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:31:13+00:00",
-      "t": "Bóka János: A Fideszé a legerősebb politikai közösség Magyarországon",
-      "s": "Szerinte őszre el akarták őket takarítani, de nem sikerült. A Tisza közösségét nem tartja valódi közösségnek. The post Bóka János: A Fideszé a legerősebb politikai közösség Magyarországon first appeared on 24.hu .",
-      "p": [
-        "Szerinte őszre el akarták őket takarítani, de nem sikerült. A Tisza közösségét nem tartja valódi közösségnek. The post Bóka János: A Fideszé a legerősebb politikai közösség Magyarországon first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/10/31/boka-janos-a-fidesz-a-legerosebb/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-1134245058-e1793431863573-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/10/31/boka-janos-a-fidesz-a-legerosebb/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-e33d3f30b13ac2cdf1",
@@ -1438,136 +1568,6 @@
       "imgs": "444",
       "imgl": "https://444.hu/2026/10/30/stern-lili-lett-a-trafo-uj-igazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-f4499dd2968a02567b",
-      "r": "Belpolitika",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:05:14+00:00",
-      "t": "Nyílt pályázatot hirdetett a kormány négy állami cég vezetésére",
-      "s": "A felhívásokat a Tudományos és Technológiai Minisztérium tette közzé.",
-      "p": [
-        "A felhívásokat a Tudományos és Technológiai Minisztérium tette közzé."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261030_kormany-allami-cegek-vezetoi-palyazatok-tudomanyos-technologiai-miniszterium"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b53d4ccc-0cff-4f9d-b458-c5a4e95ce43d.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261030_kormany-allami-cegek-vezetoi-palyazatok-tudomanyos-technologiai-miniszterium",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-49fb4f49a61c5258aa",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:03:58+00:00",
-      "t": "Csaknem nyolcmillió embert vontak felelősségre korrupció miatt Kínában Hszi Csin-ping vezetése alatt",
-      "s": "Köztük 963 magas rangú tisztviselőt.",
-      "p": [
-        "Köztük 963 magas rangú tisztviselőt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/30/csaknem-nyolcmillio-embert-vontak-felelossegre-korrupcio-miatt-kinaban-hszi-csin-ping-vezetese-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/6lt5DehidtxGKeBcs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/30/csaknem-nyolcmillio-embert-vontak-felelossegre-korrupcio-miatt-kinaban-hszi-csin-ping-vezetese-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-ce87af6c28c01845ae",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:03:00+00:00",
-      "t": "Új módon lehet olcsó repjegyeket keresni",
-      "s": "Bővültek a repülőjegy-keresési lehetőségek: a ChatGPT-ben, a Claude-ban és a Geminiben is elérhetővé teszi valós idejű keresőmotorját a kiwi.com. Az utazók természetes nyelven megfogalmazott kérdéseikkel is kereshetnek repjegyeket.",
-      "p": [
-        "Bővültek a repülőjegy-keresési lehetőségek: a ChatGPT-ben, a Claude-ban és a Geminiben is elérhetővé teszi valós idejű keresőmotorját a kiwi.com. Az utazók természetes nyelven megfogalmazott kérdéseikkel is kereshetnek repjegyeket."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/tudomany/20261030_valos-ideju-repulojegy-kereses-kiwi-ai-chatgpt-gemini-claug"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/806a3087-7fa9-4355-8ffd-0dba1cba42cd.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/tudomany/20261030_valos-ideju-repulojegy-kereses-kiwi-ai-chatgpt-gemini-claug",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-07a2e6e9a3b28a5339",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:03:00+00:00",
-      "t": "Testet kapott a mesterséges intelligencia, ami azután történt, az meghatározza a jövőt",
-      "s": "A kínai AgiBot által fejlesztett rendszer, a Go-3 Preview öt nap alatt 28-ról 85 százalékra növelte a hatékonyságát a fizikai világban.",
-      "p": [
-        "A kínai AgiBot által fejlesztett rendszer, a Go-3 Preview öt nap alatt 28-ról 85 százalékra növelte a hatékonyságát a fizikai világban."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/tudomany/20261030_mesterseges-intelligencia-agibot-go3"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7ef6d6f6-16ca-4260-b74e-5dbcc91568fa.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/tudomany/20261030_mesterseges-intelligencia-agibot-go3",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-eb9a2472964cff582d",
-      "r": "Külföld",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T16:58:42+00:00",
-      "t": "Trump meggondolta magát, mégis elmegy Kansasba és Iowába",
-      "s": "Csütörtök este még arról beszélt, hogy nem megy a két államba, de az AP szerint ez már elmúlt.",
-      "p": [
-        "Csütörtök este még arról beszélt, hogy nem megy a két államba, de az AP szerint ez már elmúlt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261030_donald-trump-kampany-gyules-kansas-iowa"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/321cb550-40ad-4097-b6a3-fdccc72ae0d7.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261030_donald-trump-kampany-gyules-kansas-iowa",
-      "cred": "Kép: HVG – eredeti cikk"
     }
   ]
 }
