@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:49:41.554943+00:00",
+  "updated_at": "2026-10-31T13:53:05.501699+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -43,12 +43,16 @@
       "st": "Jelentett",
       "time": "okt. 31.",
       "published_at": "2026-10-31T13:41:25+00:00",
-      "t": "Angela Merkel szerint a következő német elnöknek nőnek kell lennie",
-      "s": "Angela Merkel, Németország korábbi kancellárja azt javasolta, hogy a következő szövetségi elnök nő legyen, hangsúlyozva, hogy a 77 éves német történelem során még soha nem töltötte be ezt a pozíciót nő.",
+      "t": "Angela Merkel szerint a következő német szövetségi elnöknek nőnek kell lennie",
+      "s": "Angela Merkel volt német kancellár nyilvánosan javasolta, hogy Németország következő szövetségi elnöke legyen nő, hangsúlyozva, hogy az ország 77 éves történelme során még soha nem töltötte be ezt a tisztséget női politikus.",
       "p": [
-        "Angela Merkel felhívta a figyelmet arra, hogy a német szövetségi elnöki posztot eddig kizárólag férfiak töltötték be.",
-        "A volt kancellár javaslata szerint ideje lenne, hogy egy nő vegye át ezt a tisztséget, ezzel is elősegítve a nemek közötti egyenlőséget a német politikában.",
-        "Merkel érvelése szerint a változás fontos lépés lenne a német társadalom és politika fejlődése szempontjából."
+        "Angela Merkel, aki 2005 és 2021 között vezette Németországot, a Magenta TV-nek adott interjújában fejtette ki véleményét arról, hogy a következő szövetségi elnök személye nő legyen. Kiemelte, hogy a német államfői pozíciót eddig kizárólag férfiak töltötték be, és szerinte eljött az ideje, hogy ez a hagyomány megtörjön.",
+        "A volt kancellár nem nevezett meg konkrét jelölteket, de elmondta, hogy ismer olyan nőket, akik méltóak lennének a tisztség betöltésére. Hangsúlyozta, hogy a nők politikai szerepvállalása különleges, és saját tapasztalatai alapján tudja, milyen előítéletekkel és nehézségekkel kell szembenézniük a nőknek a politikai életben, különösen magas pozíciókban.",
+        "Merkel beszámolt arról is, hogy politikai pályafutása kezdetén, amikor nőügyi miniszterként dolgozott, és később kancellárjelöltként indult, számos alkalommal tapasztalt nemi alapú előítéleteket. Például említette, hogy előfordult, hogy a viták során a férfi politikusok a feje fölött beszéltek, vagy nem vették komolyan a női politikusokat. Ezek az élmények alakították ki benne a szerepmodell tudatát, amely szerint ki kell állni a nyilvánosság elé és meg kell mutatni a nők képességeit a vezetői pozíciókban.",
+        "A német szövetségi elnököt a Szövetségi Közgyűlés választja meg, amely 1260 tagból áll, fele-fele arányban a Bundestag és a tartományi parlamentek képviselőiből. A jelenlegi elnök, Frank-Walter Steinmeier két ciklus után már nem indulhat újra, így a jövő év január 30-án választják meg az utódját. Merkel javaslata tehát időben érkezik, és a politikai közéletben is várhatóan komoly visszhangot kelt.",
+        "Angela Merkel visszavonulása után is aktív maradt a közéletben, és nemrégiben egy róla készült portré is bemutatásra került Berlinben. Ez a festmény a német hagyományoknak megfelelően készült el, és tovább erősíti Merkel képét, mint az ország első női kancellárját, aki meghatározó szerepet játszott a német és európai politikában.",
+        "Merkel véleménye szerint a nemzetközi politikai színtéren sem számítanak a személyes tulajdonságok, mint a nem vagy életkor, hanem kizárólag az ország érdekei dominálnak. Ezért is fontos, hogy a nők egyenlő eséllyel vehessenek részt a legmagasabb szintű döntéshozatalban, így a szövetségi elnöki poszton is.",
+        "A volt kancellár megítélése szerint a politikában a nők gyakran más kommunikációs stílust követnek, például inkább vitázni szeretnek, mint választási beszédeket tartani, ami szintén hozzájárulhat ahhoz, hogy kevesebb nő kerül vezető pozícióba. Merkel személyes tapasztalatai alapján azonban úgy véli, hogy a női vezetők fontos szerepet tölthetnek be a politikai életben, és példaként szolgálhatnak a jövő generációi számára."
       ],
       "cav": "",
       "op": "",
@@ -1213,37 +1217,30 @@
       "cred": "Kép: 444 – eredeti cikk"
     },
     {
-      "id": "merged-1a7e54c20787a0b9f6",
+      "id": "rss-50c5ab4923ed88b791",
       "r": "Külföld",
-      "c": "Hírpult",
+      "c": "HVG",
       "w": "",
       "st": "Jelentett",
       "time": "okt. 31.",
       "published_at": "2026-10-31T07:24:20+00:00",
-      "t": "Az Egyesült Államok 500 Patriot légvédelmi rakétát értékesít Ukrajnának",
-      "s": "Az amerikai kormány 2,1 milliárd dollár értékben ad el 500 Patriot légvédelmi rakétát Ukrajnának, amelyhez Kanada, Németország és Norvégia is hozzájárul.",
+      "t": "500 Patriot rakétát ad el Ukrajnának az amerikai kormány",
+      "s": "A vételár 2,1 milliárd dollár - Kanada, Németország és Norvégia is hozzájárul.",
       "p": [
-        "Az Egyesült Államok 500 Patriot légvédelmi rakétát értékesít Ukrajnának, a tranzakció összértéke 2,1 milliárd dollár.",
-        "A vételár kifizetésében Kanada, Németország és Norvégia is részt vesz, támogatva ezzel Ukrajna önvédelmi képességeinek jelentős erősítését.",
-        "A Patriot rakéták beszerzése várhatóan jelentősen növeli Ukrajna légvédelmi kapacitását."
+        "A vételár 2,1 milliárd dollár - Kanada, Németország és Norvégia is hozzájárul."
       ],
-      "cav": "",
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
       "src": [
         [
           "HVG",
           "https://hvg.hu/vilag/20261031_500-patriot-raketat-ad-el-ukrajnanak-amerikai-kormany"
-        ],
-        [
-          "444",
-          "https://444.hu/2026/10/30/az-usa-500-patriot-legvedelmi-raketat-ad-el-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d24ef48f-1e81-4706-8458-55ed665232b9.jpg",
       "imgs": "HVG",
       "imgl": "https://hvg.hu/vilag/20261031_500-patriot-raketat-ad-el-ukrajnanak-amerikai-kormany",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-9c09d9d89a4874ad0a",
@@ -1504,6 +1501,32 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/elet/20261030_isztambuli-egyezmeny-demonstracio-feminizmus-ratifikacio-nougy-noi-muhely",
       "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-c3253446523c85e8bb",
+      "r": "Külföld",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 30.",
+      "published_at": "2026-10-30T20:04:04+00:00",
+      "t": "Az USA 500 Patriot légvédelmi rakétát ad el Ukrajnának",
+      "s": "2,1 milliárd dollár az ára, Kanada és uniós országok fogják kifizetni. Ezzel nagyot nő Ukrajna önvédelmi képessége.",
+      "p": [
+        "2,1 milliárd dollár az ára, Kanada és uniós országok fogják kifizetni. Ezzel nagyot nő Ukrajna önvédelmi képessége."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/30/az-usa-500-patriot-legvedelmi-raketat-ad-el-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PTPWdtuHNb0UyHRs.webp",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/az-usa-500-patriot-legvedelmi-raketat-ad-el-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-88dd326d19d767838b",
