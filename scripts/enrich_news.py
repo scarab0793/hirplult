@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Optional, limited AI rewriting of matching RSS reports."""
-import json, os, re, hashlib, urllib.request
+import json, os, re, hashlib, urllib.request, urllib.error
 from pathlib import Path
 P=Path("data/news.json")
 STOP=set("hogy mint után miatt szerint magyar most több egyik másik ezzel azzal között".split())
@@ -22,8 +22,18 @@ def compose(group,key):
  req=urllib.request.Request("https://api.openai.com/v1/chat/completions",
  data=json.dumps(body).encode(),headers={"Authorization":"Bearer "+key,
  "Content-Type":"application/json"},method="POST")
- with urllib.request.urlopen(req,timeout=45) as response:
-  output=json.load(response)
+ try:
+  with urllib.request.urlopen(req,timeout=45) as response:
+   output=json.load(response)
+ except urllib.error.HTTPError as exc:
+  try:
+   details=json.loads(exc.read(4096).decode('utf-8','replace'))
+   info=details.get('error',{})
+   code=str(info.get('code') or info.get('type') or 'unknown')
+  except (ValueError,AttributeError):
+   code='unknown'
+  # Do not print response bodies, request headers or credentials.
+  raise RuntimeError('OpenAI API HTTP '+str(exc.code)+'; error code: '+re.sub(r'[^a-zA-Z0-9_-]','',code)[:80]) from None
  return json.loads(output["choices"][0]["message"]["content"])
 def main():
  key=os.getenv("OPENAI_API_KEY","").strip()
@@ -54,8 +64,12 @@ def main():
     src=[[x["c"],x["src"][0][1]] for x in group],cav="",op="",ai_edited=True)
    result.append(merged);count+=1
   except Exception as exc:
-   print("Skipping failed AI report:",type(exc).__name__)
+   print('AI report failed:',str(exc)[:180])
    result.extend(group)
+   if isinstance(exc,RuntimeError) and any(x in str(exc) for x in ('HTTP 400','HTTP 401','HTTP 402','HTTP 403','HTTP 404','HTTP 429')):
+    print('Stopping AI calls for this run; check API billing, project permissions, model access and quota.')
+    result.extend(x for x in rows if x['id'] not in used)
+    break
  if count:
   data["items"]=sorted(result,key=lambda x:x.get("published_at",""),reverse=True)
   P.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
