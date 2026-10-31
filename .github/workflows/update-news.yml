@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/fetch_news.py'
       - '.github/workflows/update-news.yml'
+      - 'scripts/enrich_news.py'
 permissions:
   contents: write
 concurrency:
@@ -24,6 +25,11 @@ jobs:
           python-version: '3.12'
       - name: Collect recent RSS headlines
         run: python scripts/fetch_news.py
+      - name: Optional AI editorial enrichment (max 3 reports)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HIRPULT_AI_MAX_ARTICLES: '3'
+        run: python scripts/enrich_news.py
       - name: Commit data changes
         run: |
           git add data/news.json
