@@ -214,22 +214,35 @@ home();
 // Load timestamped RSS news; editorial records remain unchanged.
 async function loadNews(){
  try {
-  const response=await fetch("data/news.json",{cache:"no-store"});
-  if(!response.ok)return;
-  const payload=await response.json();
-  if(!Array.isArray(payload.items))return;
-  const allowed=new Set(["24.hu","Telex","HVG","444"]);
+  const [liveResponse,archiveResponse]=await Promise.all([
+   fetch("data/news.json",{cache:"no-store"}),
+   fetch("data/editorial.json",{cache:"no-store"})
+  ]);
+  const live=liveResponse.ok?await liveResponse.json():{items:[]};
+  const archive=archiveResponse.ok?await archiveResponse.json():{items:[]};
+  const editorial=Array.isArray(archive.items)?archive.items:[];
+  const overrides=new Map(editorial.filter(i=>i&&i.id&&i.ai_edited).map(i=>[i.id,i]));
+  for(let n=0;n<items.length;n++){
+   const newer=overrides.get(items[n].id);
+   if(newer)items[n]={...items[n],...newer};
+  }
   const known=new Set(items.map(i=>i.id));
-  const incoming=payload.items.filter(i=>i && typeof i.id==="string" && !known.has(i.id) && typeof i.t==="string" && typeof i.published_at==="string" && allowed.has(i.c) && Array.isArray(i.src) && i.src[0] && /^https:\/\//.test(i.src[0][1]));
-  incoming.sort((a,b)=>Date.parse(b.published_at)-Date.parse(a.published_at));
-  if(!incoming.length)return;
-  items.unshift(...incoming);
-  // Merge RSS and editorial records into one newest-first national timeline.
+  const incoming=[...(Array.isArray(live.items)?live.items:[]),...editorial]
+   .filter(i=>i&&typeof i.id==="string"&&typeof i.t==="string"&&Array.isArray(i.src)&&i.src[0]&&/^https:\/\//.test(i.src[0][1]));
+  // An editorial record supersedes its short RSS version.
+  const unique=new Map(incoming.map(i=>[i.id,i]));
+  for(const i of incoming)if(i.ai_edited)unique.set(i.id,i);
+  for(const i of unique.values()){
+   if(known.has(i.id)){
+    const n=items.findIndex(x=>x.id===i.id);
+    if(n>=0&&i.ai_edited)items[n]={...items[n],...i};
+   }else{items.push(i);known.add(i.id);}
+  }
   const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
-  const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\S+)\s+(\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
+  const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\\S+)\\s+(\\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
   items.sort((a,b)=>stamp(b)-stamp(a));
-  if(view==="nat" && typeof home==="function")home();
- }catch(err){console.warn("News RSS data unavailable",err)}
+  if(view==="nat"&&typeof home==="function")home();
+ }catch(err){console.warn("News data unavailable",err);}
 }
 loadNews();
 </script>
