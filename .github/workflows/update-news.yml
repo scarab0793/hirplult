@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '10 5,11,17 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch_news.py'
+      - '.github/workflows/update-news.yml'
 permissions:
   contents: write
 concurrency:
@@ -11,6 +16,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
