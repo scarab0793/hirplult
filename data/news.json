@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T09:29:48.958170+00:00",
+  "updated_at": "2026-10-31T09:43:42.706258+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -9,6 +9,58 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-9c9a1feadcd3468937",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:37:21+00:00",
+      "t": "Bántalmazta 72 éves anyját egy sződligeti férfi, majd nem engedte, hogy a kiérkező mentők ellássák az asszonyt",
+      "s": "A konfliktus abból alakult ki, hogy a nő szerint túl hangosan szólt a zene, ezért arra kérte a fiát, hogy kapcsolja ki. The post Bántalmazta 72 éves anyját egy sződligeti férfi, majd nem engedte, hogy a kiérkező mentők ellássák az asszonyt first appeared on 24.hu .",
+      "p": [
+        "A konfliktus abból alakult ki, hogy a nő szerint túl hangosan szólt a zene, ezért arra kérte a fiát, hogy kapcsolja ki. The post Bántalmazta 72 éves anyját egy sződligeti férfi, majd nem engedte, hogy a kiérkező mentők ellássák az asszonyt first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/10/31/szodliget-bantalmazta-az-anyjat/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/central-0803252717-1-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/szodliget-bantalmazta-az-anyjat/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-963b1a1895f32ad14e",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:30:53+00:00",
+      "t": "ENSZ-főtitkár kerestetik: kilencre emelkedett a jelöltek száma",
+      "s": "Orbán Viktor nincs köztük, pedig Donald Trump bedobta a nevét lehetséges ENSZ-főtitkárként.",
+      "p": [
+        "Orbán Viktor nincs köztük, pedig Donald Trump bedobta a nevét lehetséges ENSZ-főtitkárként."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261031_ensz-fottkari-poszt-kilencre-emelkedett-jeloltek-szama"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/17bc6c27-d323-4e22-87f7-47a04ba80f57.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_ensz-fottkari-poszt-kilencre-emelkedett-jeloltek-szama",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
     {
       "id": "rss-9d0527f75d3edf357a",
       "r": "Közélet",
@@ -616,9 +668,9 @@
       "time": "okt. 31.",
       "published_at": "2026-10-31T07:01:00+00:00",
       "t": "„A 27 százalékos áfa óriási ösztönző a rendszer megkerülésére” – mitől menne jobban a magyar zöldség-gyümölcs ágazat?",
-      "s": "Wgyszerre szorítja a munkaerőhiány, a klímaváltozás, az importverseny és a szabályozási környezet a magyar zöldség- és gyümölcstermelőket – mondja Nagypéter Sándor, a DélKerTÉSZ (a Délalföldi Kertészek Szövetkezetének) elnöke. Interjú.",
+      "s": "Egyszerre szorítja a munkaerőhiány, a klímaváltozás, az importverseny és a szabályozási környezet a magyar zöldség- és gyümölcstermelőket – mondja Nagypéter Sándor, a DélKerTÉSZ (a Délalföldi Kertészek Szövetkezetének) elnöke. Interjú.",
       "p": [
-        "Wgyszerre szorítja a munkaerőhiány, a klímaváltozás, az importverseny és a szabályozási környezet a magyar zöldség- és gyümölcstermelőket – mondja Nagypéter Sándor, a DélKerTÉSZ (a Délalföldi Kertészek Szövetkezetének) elnöke. Interjú."
+        "Egyszerre szorítja a munkaerőhiány, a klímaváltozás, az importverseny és a szabályozási környezet a magyar zöldség- és gyümölcstermelőket – mondja Nagypéter Sándor, a DélKerTÉSZ (a Délalföldi Kertészek Szövetkezetének) elnöke. Interjú."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -632,32 +684,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/360/20261031_hvg-nagypeter-sandor-delkertesz-zoldseg-gyumolcs-agazat",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-c5d44f80cff35421cd",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T07:00:33+00:00",
-      "t": "„Ha megtörténik a baj, az visszafordíthatatlan” – a százezer ember ellátását biztosító vízbázist féltik a fertőrákosiak a tervezett reptérfejlesztéstől",
-      "s": "Felesleges reptérfejlesztés, ami veszélybe sodorja a Sopront és környékét ellátó föld alatti víztározót – vagy a szigorú szabályoknak megfelelő, sportolási célokon kívül közösségi funkciót is betöltő szerelemprojekt? Késhegyig menő vita alakult ki a piuszpusztai reptér fejlesztése körül. The post „Ha megtörténik a baj, az visszafordíthatatlan” – a százezer ember ellátását bizto",
-      "p": [
-        "Felesleges reptérfejlesztés, ami veszélybe sodorja a Sopront és környékét ellátó föld alatti víztározót – vagy a szigorú szabályoknak megfelelő, sportolási célokon kívül közösségi funkciót is betöltő szerelemprojekt? Késhegyig menő vita alakult ki a piuszpusztai reptér fejlesztése körül. The post „Ha megtörténik a baj, az visszafordíthatatlan” – a százezer ember ellátását bizto"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/10/31/repter-fejlesztes-ivovizbazis-fertorakos-24extra/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-1137236545_kiem-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/10/31/repter-fejlesztes-ivovizbazis-fertorakos-24extra/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-a90531a1f090c41e2a",
@@ -1542,32 +1568,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/elet/20261030_donald-trump-kampany-gyules-kansas-iowa",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-89f413632c36d45352",
-      "r": "Sport",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T16:57:08+00:00",
-      "t": "Újra bocsánatot kért a nő, aki beszart a fitneszverseny közben, mégis folytatta",
-      "s": "Joanna Wietrzyk a kretén sportok Eszenyi Enikője.",
-      "p": [
-        "Joanna Wietrzyk a kretén sportok Eszenyi Enikője."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/30/ujra-bocsanatot-kert-a-no-aki-beszart-a-fitneszverseny-kozben-megis-folytatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PTCs9Lg5RSmGWB0s.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/30/ujra-bocsanatot-kert-a-no-aki-beszart-a-fitneszverseny-kozben-megis-folytatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }
