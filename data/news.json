@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:29:05.129410+00:00",
+  "updated_at": "2026-10-31T10:51:41.966807+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -9,6 +9,58 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-fb95fb98b3b5a4d7ae",
+      "r": "Belpolitika",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:46:10+00:00",
+      "t": "„Szar” – válaszolta Magyar Péter Nagy Ádám kérdésére, hogy milyen hatással van az emberi kapcsolataira a miniszterelnöki munkája",
+      "s": "Ruff Bálinttól tanulta meg, hogy amikor neki már egy téma a könyökén jön ki, mert húszszor hallott mindent, akkor jut el másokhoz az üzenet, mondta Magyar Péter a Fókuszcsoport videójában.",
+      "p": [
+        "Ruff Bálinttól tanulta meg, hogy amikor neki már egy téma a könyökén jön ki, mert húszszor hallott mindent, akkor jut el másokhoz az üzenet, mondta Magyar Péter a Fókuszcsoport videójában."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/10/31/szar-valaszolta-magyar-peter-nagy-adam-kerdesere-hogy-milyen-hatassal-van-az-emberi-kapcsolataira-a-miniszterelnoki-munkaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PUJy6FdHYagZoNws.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/szar-valaszolta-magyar-peter-nagy-adam-kerdesere-hogy-milyen-hatassal-van-az-emberi-kapcsolataira-a-miniszterelnoki-munkaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-644f4ae453d72674c1",
+      "r": "Gazdaság",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T10:37:31+00:00",
+      "t": "Standard: A magyar kormány hagyta magát befűzni Trumpék propagandacéljaira?",
+      "s": "Válogatásunk a világlapok írásaiból",
+      "p": [
+        "Válogatásunk a világlapok írásaiból"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/360/20261031_nemzetkozi-lapszemle-izrael-trump-ukrajna-nemetorszag-rubio"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bb8cebc5-c54e-4632-86fd-283c23db392f.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_nemzetkozi-lapszemle-izrael-trump-ukrajna-nemetorszag-rubio",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
     {
       "id": "rss-645d876ffa778c6af6",
       "r": "Kultúra",
@@ -1516,58 +1568,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/itthon/20261030_trabanttal-szaladgalunk-a-mercedesek-kozott-magyar-kibervedelem-a-fulkeben",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-11af218ea94808b32a",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:26:24+00:00",
-      "t": "Börtönbe kerül a mentősofőr, aki embertelen módon bánt egy roma beteggel",
-      "s": "A mentőápoló megúszta a börtönt, de így is komoly büntetést kapott.",
-      "p": [
-        "A mentőápoló megúszta a börtönt, de így is komoly büntetést kapott."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/30/bortonbe-kerul-a-mentosofor-aki-embertelen-modon-bant-egy-roma-beteggel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8IFqM40orGU41LVtfs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/30/bortonbe-kerul-a-mentosofor-aki-embertelen-modon-bant-egy-roma-beteggel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-281d403d91272dda1e",
-      "r": "Kultúra",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 30.",
-      "published_at": "2026-10-30T17:18:43+00:00",
-      "t": "Stern Lili lett a Trafó új igazgatója",
-      "s": "Januártól veszi át az összművészeti intézmény vezetését.",
-      "p": [
-        "Januártól veszi át az összművészeti intézmény vezetését."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/10/30/stern-lili-lett-a-trafo-uj-igazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PSxLT5kJcWLI9Bcs.png",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/10/30/stern-lili-lett-a-trafo-uj-igazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }
