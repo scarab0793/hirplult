@@ -197,6 +197,10 @@ async function loadNews(){
   incoming.sort((a,b)=>Date.parse(b.published_at)-Date.parse(a.published_at));
   if(!incoming.length)return;
   items.unshift(...incoming);
+  // Merge RSS and editorial records into one newest-first national timeline.
+  const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
+  const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\S+)\s+(\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
+  items.sort((a,b)=>stamp(b)-stamp(a));
   if(view==="nat" && typeof home==="function")home();
  }catch(err){console.warn("News RSS data unavailable",err)}
 }
