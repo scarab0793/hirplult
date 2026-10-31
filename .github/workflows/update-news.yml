@@ -31,4 +31,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Refresh Hírpult RSS headlines"
-          git push
+          # Rebase onto latest main so concurrent website edits do not reject the update.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "Rebase conflict; stopping without overwriting remote changes"
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push raced with another commit; retrying ($attempt/5)"
+            sleep 3
+          done
+          echo "Unable to push news update after retries"
+          exit 1
