@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Optional, limited AI rewriting of matching RSS reports."""
 import json, os, re, hashlib, urllib.request, urllib.error
+from html.parser import HTMLParser
+from html import unescape
 from pathlib import Path
 P=Path("data/news.json")
 STOP=set("hogy mint után miatt szerint magyar most több egyik másik ezzel azzal között".split())
@@ -9,11 +11,46 @@ def words(s):
 def similar(a,b):
  x,y=words(a["t"]),words(b["t"])
  return bool(x and y and len(x&y)>=3 and len(x&y)/min(len(x),len(y))>=.65)
+class ArticleParser(HTMLParser):
+ def __init__(self):
+  super().__init__();self.depth=0;self.ignore=0;self.parts=[];self.buffer=[];self.capture=0
+ def handle_starttag(self,tag,attrs):
+  attrs=dict(attrs)
+  if tag in ('script','style','nav','footer','aside','header','form','svg'):
+   self.ignore+=1
+  if tag=='article':self.depth+=1
+  if tag=='p' and not self.ignore:
+   self.capture+=1;self.buffer=[]
+ def handle_data(self,data):
+  if self.capture and not self.ignore:self.buffer.append(data)
+ def handle_endtag(self,tag):
+  if tag=='p' and self.capture:
+   value=' '.join(''.join(self.buffer).split())
+   if len(value)>75 and len(value)<2500:self.parts.append(value)
+   self.capture=0;self.buffer=[]
+  if tag=='article' and self.depth:self.depth-=1
+  if tag in ('script','style','nav','footer','aside','header','form','svg') and self.ignore:self.ignore-=1
+def source_text(url):
+ req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; HirpultNewsBot/1.0; +https://hirplult.info)','Accept':'text/html'})
+ try:
+  with urllib.request.urlopen(req,timeout=12) as response:
+   if 'html' not in response.headers.get('Content-Type',''):return ''
+   raw=response.read(650000).decode('utf-8','replace')
+  parser=ArticleParser();parser.feed(raw)
+  parts=parser.parts
+  # Only use accessible editorial paragraphs as factual reference, never republish them.
+  return '\\n'.join(parts[:28])[:9500] if len(parts)>=4 else ''
+ except (OSError,ValueError,UnicodeError):
+  return ''
 def compose(group,key):
- evidence=[{"source":x["c"],"title":x["t"],"summary":x["s"][:450]} for x in group]
+ evidence=[{"source":x["c"],"title":x["t"],"summary":x["s"][:450],"article_reference":source_text(x["src"][0][1])} for x in group]
+ if not any(len(x["article_reference"])>=1200 for x in evidence):
+  raise ValueError("Insufficient full-source text for a substantial article")
  instruction=("Write an original factual Hungarian news report using ONLY these RSS summaries. "
+ "Use the accessible article_reference passages as evidence, not as text to copy. "
+ "Write a substantial news article of 450-700 Hungarian words in 6-9 informative paragraphs ONLY if supported by evidence. "
  "Never invent facts, quotes, details, or background. Distinguish uncertain claims. "
- "Do not copy the original wording. When evidence is thin, keep the report short. "
+ "Do not copy the original wording, sentence structures, or distinctive phrases. When evidence is thin, do not generate an article. "
  "Return a JSON object with title, lead, paragraphs (array of strings). "
  "Do not add sources to the text. Evidence: "+json.dumps(evidence,ensure_ascii=False))
  body={"model":os.getenv("HIRPULT_AI_MODEL","gpt-4.1-mini"),
@@ -55,7 +92,7 @@ def main():
   try:
    article=compose(group,key)
    paragraphs=article.get("paragraphs",[])
-   if not article.get("title") or not article.get("lead") or not isinstance(paragraphs,list) or not paragraphs:
+   if not article.get("title") or not article.get("lead") or not isinstance(paragraphs,list) or len(paragraphs)<5 or sum(len(str(p)) for p in paragraphs)<1800:
     raise ValueError("Incomplete generated report")
    merged=dict(a)
    merged.update(id="merged-"+hashlib.sha256("|".join(sorted(x["id"] for x in group)).encode()).hexdigest()[:18],
