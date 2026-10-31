@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T09:11:52.898181+00:00",
+  "updated_at": "2026-10-31T09:29:48.958170+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -9,6 +9,58 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-9d0527f75d3edf357a",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:19:55+00:00",
+      "t": "Magyar szereplője is lesz 2027-ben az olasz Ázsia Expressznek",
+      "s": "A tíz versenyzőpáros közt Tassi Rózsa is ott van, aki férjével, a felnőttfilmes sztárral, Rocco Siffredivel vág bele az olasz kalandba. The post Magyar szereplője is lesz 2027-ben az olasz Ázsia Expressznek first appeared on 24.hu .",
+      "p": [
+        "A tíz versenyzőpáros közt Tassi Rózsa is ott van, aki férjével, a felnőttfilmes sztárral, Rocco Siffredivel vág bele az olasz kalandba. The post Magyar szereplője is lesz 2027-ben az olasz Ázsia Expressznek first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/elet-stilus/2026/10/31/olasz-azsia-expressz-pechino-express-tassi-rozsa/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2180323845-e1793438289697-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/elet-stilus/2026/10/31/olasz-azsia-expressz-pechino-express-tassi-rozsa/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-f51861da51918597d4",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 31.",
+      "published_at": "2026-10-31T09:10:11+00:00",
+      "t": "Elszállították Kecskemétről Varga-Bajusz Veronikát, „feltehetőleg rosszabb körülmények közé”",
+      "s": "A letartóztatásban ülő volt államtitkár ügyvédje mondta ezt, bár hivatalos értesítést még nem kapott erről. The post Elszállították Kecskemétről Varga-Bajusz Veronikát, „feltehetőleg rosszabb körülmények közé” first appeared on 24.hu .",
+      "p": [
+        "A letartóztatásban ülő volt államtitkár ügyvédje mondta ezt, bár hivatalos értesítést még nem kapott erről. The post Elszállították Kecskemétről Varga-Bajusz Veronikát, „feltehetőleg rosszabb körülmények közé” first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/10/31/varga-bajusz-veronika-borton-kecskemet-kiskunhalas/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/d__hr20261001070-e1793437722440-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/varga-bajusz-veronika-borton-kecskemet-kiskunhalas/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
     {
       "id": "rss-fd78545ab490942982",
       "r": "Közélet",
@@ -30,10 +82,10 @@
           "https://hvg.hu/elet/20261031_vegrendeletet-keszitett-bodnar-attila-es-pap-rita"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dbae98f7-4965-4248-b9f8-cd4a8e97a93b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261031_vegrendeletet-keszitett-bodnar-attila-es-pap-rita",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-07b1182f09d7f5c14e",
@@ -56,10 +108,10 @@
           "https://24.hu/tudomany/2026/10/31/etiopia-gyarmatositas-olaszorszag-afrika-history/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/054_eli1978_kiemelt2-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/tudomany/2026/10/31/etiopia-gyarmatositas-olaszorszag-afrika-history/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-4be28c7acc8caf334f",
@@ -82,10 +134,10 @@
           "https://hvg.hu/360/20261031_az-orszag-legjobb-gimnaziumai-az-idegennyelvi-erettsegi-alapjan"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6577cd47-ed01-45cc-ae2c-a88e847a7d8a.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_az-orszag-legjobb-gimnaziumai-az-idegennyelvi-erettsegi-alapjan",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-c3247c0318a2afe16f",
@@ -108,10 +160,10 @@
           "https://444.hu/2026/10/31/vilagszerte-tobb-mint-szaz-kikotoben-sztrajkoltak-a-dokkmunkasok-a-fegyverszallitasok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PUFBfHwMncz13ehms.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/vilagszerte-tobb-mint-szaz-kikotoben-sztrajkoltak-a-dokkmunkasok-a-fegyverszallitasok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-aaa2a7e5e5ed67e2e0",
@@ -134,10 +186,10 @@
           "https://hvg.hu/vilag/20261031_atlathatatlan-a-helyzet-a-lengyel-alkotmanybirosagnal"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/79c980ac-119b-4e8e-b7b7-2cba787994de.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_atlathatatlan-a-helyzet-a-lengyel-alkotmanybirosagnal",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-37a8119ca5afb80589",
@@ -160,10 +212,10 @@
           "https://hvg.hu/gazdasag/20261031_gdp-novekedes-eurostat-statisztika-magyarorszag"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/30dc0ae3-2283-4887-8f59-56f0654b237c.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261031_gdp-novekedes-eurostat-statisztika-magyarorszag",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-2d996407a8d36959d5",
@@ -186,10 +238,10 @@
           "https://24.hu/kulfold/2026/10/31/ensz-fotitkar-hivatalos-jelolte-orban-viktor/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/central-1119101067-e1793435373783-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kulfold/2026/10/31/ensz-fotitkar-hivatalos-jelolte-orban-viktor/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-3e814537b9afcfbf4f",
@@ -212,10 +264,10 @@
           "https://hvg.hu/itthon/20261031_kiskunhalasra-vittek-varga-bajusz-veronikat"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bf6603e5-7347-4ec4-a172-c743a7b3c270.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261031_kiskunhalasra-vittek-varga-bajusz-veronikat",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-3b74825281c9b4947d",
@@ -238,10 +290,10 @@
           "https://hvg.hu/gazdasag/20261031_kiszerveztek-a-kormany-alol-a-vasutfejlesztest"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bc9f795d-e2d5-4439-a441-82b7d5eea5d1.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261031_kiszerveztek-a-kormany-alol-a-vasutfejlesztest",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-0989eb8bc1e0db1401",
@@ -264,10 +316,10 @@
           "https://24.hu/belfold/2026/10/31/24per7-szerbia-vajdasag-romsics-ignac-ungvary-rudolf/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/24per7_10_30-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/24per7-szerbia-vajdasag-romsics-ignac-ungvary-rudolf/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-c082dc9e4b19d54096",
@@ -290,10 +342,10 @@
           "https://24.hu/belfold/2026/10/31/forsthoffer-agnes-halottak-napja-koporso-ellenzek-fidesz/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/central-1098136399-e1793433533864-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/forsthoffer-agnes-halottak-napja-koporso-ellenzek-fidesz/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-8f74f6c4c258c95b04",
@@ -316,10 +368,10 @@
           "https://hvg.hu/itthon/20261031_varga-judit-magyar-peter-balatoni-nyaralo-balatonhenye"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9eae8687-675a-426c-8062-3bcf6d578bcb.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261031_varga-judit-magyar-peter-balatoni-nyaralo-balatonhenye",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-b17e59469b2e9a5af2",
@@ -342,10 +394,10 @@
           "https://24.hu/kulfold/2026/10/31/trump-felidos-valasztas-usa-iran-tamadas-ujrainditasa/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2302461368-e1793432996398-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kulfold/2026/10/31/trump-felidos-valasztas-usa-iran-tamadas-ujrainditasa/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-0a915d6e8309db455a",
@@ -368,10 +420,10 @@
           "https://24.hu/elet-stilus/2026/10/31/michael-douglas-szexjelenet-forgatas/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/gettyimages-2301814302-e1793432174681-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/elet-stilus/2026/10/31/michael-douglas-szexjelenet-forgatas/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-d06306d8b1edb4ae6a",
@@ -394,10 +446,10 @@
           "https://444.hu/2026/10/31/nepszava-megszunt-de-nem-szunt-meg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8LZmpmynUZiFagMEs.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/nepszava-megszunt-de-nem-szunt-meg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-053e2ed0b549db7851",
@@ -420,10 +472,10 @@
           "https://hvg.hu/gazdasag/20261031_koltsegvetes-2027-penzugyminiszterium-torveny-parlament"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ef9f9217-e9d7-47be-98ec-9ad3374f3d06.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261031_koltsegvetes-2027-penzugyminiszterium-torveny-parlament",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-ab46512bb865f27227",
@@ -446,10 +498,10 @@
           "https://24.hu/belfold/2026/10/31/boka-janos-a-fidesz-a-legerosebb/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/central-1134245058-e1793431863573-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/boka-janos-a-fidesz-a-legerosebb/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-e33d3f30b13ac2cdf1",
@@ -472,10 +524,10 @@
           "https://444.hu/2026/10/31/az-europai-diplomatak-nem-voltak-hajlandoak-szergej-lavrovval-pozolni-igy-inkabb-nem-csinaltak-csoportkepet-a-g20-ak-kulugyminiszterei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PU9JF4LjwSs1GLmBs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/az-europai-diplomatak-nem-voltak-hajlandoak-szergej-lavrovval-pozolni-igy-inkabb-nem-csinaltak-csoportkepet-a-g20-ak-kulugyminiszterei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-50c5ab4923ed88b791",
@@ -498,10 +550,10 @@
           "https://hvg.hu/vilag/20261031_500-patriot-raketat-ad-el-ukrajnanak-amerikai-kormany"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d24ef48f-1e81-4706-8458-55ed665232b9.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261031_500-patriot-raketat-ad-el-ukrajnanak-amerikai-kormany",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-9c09d9d89a4874ad0a",
@@ -524,10 +576,10 @@
           "https://444.hu/2026/10/31/benyujtotta-a-2027-es-koltsegvetes-tervezetet-a-kormany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PO7WAyPNaWPmOWHs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/benyujtotta-a-2027-es-koltsegvetes-tervezetet-a-kormany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-6c864432190a3931fb",
@@ -550,10 +602,10 @@
           "https://hvg.hu/tudomany/20261031_plasztikai-sebeszet-mesterseges-intelligencia-ai-szepsegideal"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cf5e0e77-ff74-45a5-92d9-1d5d44969c6b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261031_plasztikai-sebeszet-mesterseges-intelligencia-ai-szepsegideal",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-24a458a22929930827",
@@ -576,10 +628,10 @@
           "https://hvg.hu/360/20261031_hvg-nagypeter-sandor-delkertesz-zoldseg-gyumolcs-agazat"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/de58a892-94c9-412c-8d7e-64e0521e028d.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_hvg-nagypeter-sandor-delkertesz-zoldseg-gyumolcs-agazat",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-c5d44f80cff35421cd",
@@ -602,62 +654,10 @@
           "https://24.hu/belfold/2026/10/31/repter-fejlesztes-ivovizbazis-fertorakos-24extra/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-d3972855ab7ade3ba6",
-      "r": "Kultúra",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T06:55:26+00:00",
-      "t": "Húsz év után végleg véget ér a Gyilkos elmék, volt olyan színész, aki a bejelentés előtt 1,5 órával értesült erről",
-      "s": "Különös, hiszen 2026-ban az Egyesült Államok egyik legnézettebb streamingprodukciója volt a Gyilkos elmék: 13,15 milliárd percnyi megtekintéssel. The post Húsz év után végleg véget ér a Gyilkos elmék, volt olyan színész, aki a bejelentés előtt 1,5 órával értesült erről first appeared on 24.hu .",
-      "p": [
-        "Különös, hiszen 2026-ban az Egyesült Államok egyik legnézettebb streamingprodukciója volt a Gyilkos elmék: 13,15 milliárd percnyi megtekintéssel. The post Húsz év után végleg véget ér a Gyilkos elmék, volt olyan színész, aki a bejelentés előtt 1,5 órával értesült erről first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kultura/2026/10/31/gyilkos-elmek-elkaszalas-sorozat/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-da9aabf8f0abb80631",
-      "r": "Gazdaság",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "okt. 31.",
-      "published_at": "2026-10-31T06:45:25+00:00",
-      "t": "Benyújtották a költségvetést: indul a nyugdíjas SZÉP-kártya, marad a 13. és a 14. havi nyugdíj egyheti összege",
-      "s": "A rezsivédelemhez se nyúlnak, a vagyonadó 15 ezer magyart érint majd, bevezetik a szén-dioxid-adót. The post Benyújtották a költségvetést: indul a nyugdíjas SZÉP-kártya, marad a 13. és a 14. havi nyugdíj egyheti összege first appeared on 24.hu .",
-      "p": [
-        "A rezsivédelemhez se nyúlnak, a vagyonadó 15 ezer magyart érint majd, bevezetik a szén-dioxid-adót. The post Benyújtották a költségvetést: indul a nyugdíjas SZÉP-kártya, marad a 13. és a 14. havi nyugdíj egyheti összege first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/fn/gazdasag/2026/10/31/2027-es-koltsegvetes-mirol-szol-tervezet-nyugdij/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://s.24.hu/app/uploads/2026/10/central-1137236545_kiem-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/10/31/repter-fejlesztes-ivovizbazis-fertorakos-24extra/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-a90531a1f090c41e2a",
@@ -680,10 +680,10 @@
           "https://444.hu/2026/10/31/hetvegi-olvasnivalok-valasztasokrol-mamelukokrol-szefekrol-es-hasonloakrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8FXl3OA8E6CnfINEs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/hetvegi-olvasnivalok-valasztasokrol-mamelukokrol-szefekrol-es-hasonloakrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-9522379750daf2fd7f",
@@ -706,10 +706,10 @@
           "https://444.hu/2026/10/31/a-rendorsegnek-kellett-biztositani-a-lengyel-alkotmanybirosag-epuletet-a-tuntetoktol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PU5uryJePcG1eT16Ls.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/a-rendorsegnek-kellett-biztositani-a-lengyel-alkotmanybirosag-epuletet-a-tuntetoktol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-57a5ee368d782e43cc",
@@ -732,10 +732,10 @@
           "https://444.hu/2026/10/31/a-levalthatatlanok-levaltasa-mit-uzen-magyarorszag-es-szerbia-a-vilagnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PRYc4Cn1p6k29Y1R2s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/31/a-levalthatatlanok-levaltasa-mit-uzen-magyarorszag-es-szerbia-a-vilagnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-73973cf8d016f2de09",
@@ -758,10 +758,10 @@
           "https://hvg.hu/360/20261031_bpkurir-gulyas-eszter-komar-gergo-bessenyei-istvan"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/059c6433-ba4a-4181-bf59-0a3d5071678d.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261031_bpkurir-gulyas-eszter-komar-gergo-bessenyei-istvan",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-d10ce97c5fbb664073",
@@ -784,10 +784,10 @@
           "https://hvg.hu/sport/20261030_szoboszlai-dominik-visszateres-serules-liverpool"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5a79d20e-964d-465b-b7d0-3430fbb87b02.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/sport/20261030_szoboszlai-dominik-visszateres-serules-liverpool",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-0f1e3682cbcb3f0e65",
@@ -810,10 +810,10 @@
           "https://hvg.hu/vilag/20261030_tuntetes-olaszorszag-torino-roma-osszecsapas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/56cc07c6-79ce-42d2-96fe-b2d24eef9600.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261030_tuntetes-olaszorszag-torino-roma-osszecsapas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-ada492ddcb8c9cfa27",
@@ -836,10 +836,10 @@
           "https://hvg.hu/elet/20261030_isztambuli-egyezmeny-demonstracio-feminizmus-ratifikacio-nougy-noi-muhely"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6693f56a-6e54-4033-90ae-3b15a24129f7.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_isztambuli-egyezmeny-demonstracio-feminizmus-ratifikacio-nougy-noi-muhely",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-c3253446523c85e8bb",
@@ -862,10 +862,10 @@
           "https://444.hu/2026/10/30/az-usa-500-patriot-legvedelmi-raketat-ad-el-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PTPWdtuHNb0UyHRs.webp",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/az-usa-500-patriot-legvedelmi-raketat-ad-el-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-88dd326d19d767838b",
@@ -888,10 +888,10 @@
           "https://444.hu/2026/10/30/a-levegoben-forditotta-vissza-gepet-a-lengyel-elnok-mert-varsoban-valsag-van-az-alkotmanybirosagnal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PTP1PkodnN61Ym12Ws.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/a-levegoben-forditotta-vissza-gepet-a-lengyel-elnok-mert-varsoban-valsag-van-az-alkotmanybirosagnal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-d7e1356857403ea4fc",
@@ -914,10 +914,10 @@
           "https://hvg.hu/vilag/20261030_orban-viktor-milorad-dodik-latogatas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2e83f96f-99f4-4f81-b0ca-9be16547a5f2.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261030_orban-viktor-milorad-dodik-latogatas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-ca4e602cc2293f8272",
@@ -940,10 +940,10 @@
           "https://hvg.hu/elet/20261030_vademeles-ice-ugynok-mexikoi-ferfi-houston-gazolas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dd3f8f7b-136e-4cf1-b605-40a943165083.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_vademeles-ice-ugynok-mexikoi-ferfi-houston-gazolas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-ad56ecf94b1b460ec8",
@@ -966,10 +966,10 @@
           "https://444.hu/2026/10/30/de-miert-eppen-felcsut-teszi-fel-a-kerdest-orban-viktor-kedvenc-lapja-ha-igy-megy-tovabb-az-exkormanyfo-kenytelen-lesz-lemondani-az-elofizeteset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/7pZKlc6hNgWWciLms.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/de-miert-eppen-felcsut-teszi-fel-a-kerdest-orban-viktor-kedvenc-lapja-ha-igy-megy-tovabb-az-exkormanyfo-kenytelen-lesz-lemondani-az-elofizeteset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-711e06e82033ece8ce",
@@ -992,10 +992,10 @@
           "https://444.hu/2026/10/30/orban-viktor-epp-a-boszniai-szerb-koztarsasag-elitelt-elnokevel-rakijazik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PTMjVC7eJpdtVV4s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/orban-viktor-epp-a-boszniai-szerb-koztarsasag-elitelt-elnokevel-rakijazik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-41f4522012ca2ad2f1",
@@ -1018,10 +1018,10 @@
           "https://hvg.hu/itthon/20261030_magyar-peter-schiffer-andras-nyilt-level-matolcsy-gyorgy-vezetoszar"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f1e03186-19f2-456d-b1f9-d5b7e5f74e7a.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261030_magyar-peter-schiffer-andras-nyilt-level-matolcsy-gyorgy-vezetoszar",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-afd242a09c3a8c344d",
@@ -1044,10 +1044,10 @@
           "https://hvg.hu/elet/20261030_forgalmi-muszaki-zaszlomenet-teherauto"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/46d3018f-583d-47a5-b7df-1581c0514931.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_forgalmi-muszaki-zaszlomenet-teherauto",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-0c29d0f033cbddcc30",
@@ -1070,10 +1070,10 @@
           "https://444.hu/2026/10/30/merre-tovabb-rakpart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8Lr9Tna3uUUNmOWGs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/merre-tovabb-rakpart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-622883af29039f8265",
@@ -1096,10 +1096,10 @@
           "https://hvg.hu/tudomany/20261030_audiophile-fm-jo-zene-streaming-internetes-radioadok-gyujtemenye-app"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4c42bdf8-b22c-4fec-955b-8f49ba4f2bb6.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261030_audiophile-fm-jo-zene-streaming-internetes-radioadok-gyujtemenye-app",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-fd3433bbe1dab2f9fd",
@@ -1122,10 +1122,10 @@
           "https://hvg.hu/elet/20261030_halloween-sor-teszt-kezmuves-sor-kisuzemi-sorfozde-mad-scientist-horizont-feher-nyul-oribird-szentandrasi"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a2f32348-b471-4d40-8dd5-e48056271161.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_halloween-sor-teszt-kezmuves-sor-kisuzemi-sorfozde-mad-scientist-horizont-feher-nyul-oribird-szentandrasi",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-0b3035a57be78308db",
@@ -1148,10 +1148,10 @@
           "https://hvg.hu/itthon/20261030_birosag-cered-keseles-letartoztatas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ccabe721-cd40-4829-b2ed-dfe04bc8bc0b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261030_birosag-cered-keseles-letartoztatas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-7220fdcb38ef263f86",
@@ -1174,10 +1174,10 @@
           "https://444.hu/2026/10/30/hatalyon-kivul-helyeztek-az-orban-hazi-epitesze-ellen-kamarai-buntetest-uj-eljaras-kovetkezik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8EL8rvaXbbpttWVEs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/hatalyon-kivul-helyeztek-az-orban-hazi-epitesze-ellen-kamarai-buntetest-uj-eljaras-kovetkezik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-b09e188d65aeefe344",
@@ -1200,10 +1200,10 @@
           "https://hvg.hu/elet/20261030_donald-trump-norvegia-szarfeszek-orszag-norveg-turisztikai-hivatal-reakcio"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/63f2e2cf-3c5c-46e5-a95c-8fdf991aeda2.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_donald-trump-norvegia-szarfeszek-orszag-norveg-turisztikai-hivatal-reakcio",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-f7fdb95f988feef6f4",
@@ -1226,10 +1226,10 @@
           "https://444.hu/2026/10/30/vadat-emeltek-a-futva-menekulo-mexikoi-munkast-pick-uppal-uldozo-majd-szandekosan-eluto-ice-ugynok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PTIw0hTFEL1icPSs.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/vadat-emeltek-a-futva-menekulo-mexikoi-munkast-pick-uppal-uldozo-majd-szandekosan-eluto-ice-ugynok-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-15daa25edbb287f677",
@@ -1252,10 +1252,10 @@
           "https://hvg.hu/tudomany/20261030_hasnyalmirigyrak-tumor-vakcina-oltas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5e8a7039-9cf4-4d62-97ca-9f7b231b1995.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261030_hasnyalmirigyrak-tumor-vakcina-oltas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-e7075aa527b8feb972",
@@ -1278,10 +1278,10 @@
           "https://hvg.hu/itthon/20261030_magyar-peteregyiptomi-elnok-talalkozo-dunakeszi-jarmujavito-megallapodas"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/dd3013e9-9a10-4eb6-8eec-9ee4bcc7b043.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261030_magyar-peteregyiptomi-elnok-talalkozo-dunakeszi-jarmujavito-megallapodas",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-013e165f6d9f9c1019",
@@ -1304,10 +1304,10 @@
           "https://hvg.hu/elet/20261030_mihalyvari-farkas-viktoria-kiugrott-vall"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/829c95c4-6805-4a55-9363-612dc922eea8.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_mihalyvari-farkas-viktoria-kiugrott-vall",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-fd061e62efc1114b42",
@@ -1330,10 +1330,10 @@
           "https://444.hu/2026/10/30/negy-allami-ceg-elere-is-nyilt-palyazatot-hirdetett-a-tudomanyos-es-technologiai-miniszterium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8MnxjNnVFqBi1kT1AJs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/negy-allami-ceg-elere-is-nyilt-palyazatot-hirdetett-a-tudomanyos-es-technologiai-miniszterium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-791da5459e8cd89a0e",
@@ -1356,10 +1356,10 @@
           "https://hvg.hu/itthon/20261030_trabanttal-szaladgalunk-a-mercedesek-kozott-magyar-kibervedelem-a-fulkeben"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/150e2762-1f09-4b94-aa8f-1cc974cee488.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261030_trabanttal-szaladgalunk-a-mercedesek-kozott-magyar-kibervedelem-a-fulkeben",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-11af218ea94808b32a",
@@ -1382,10 +1382,10 @@
           "https://444.hu/2026/10/30/bortonbe-kerul-a-mentosofor-aki-embertelen-modon-bant-egy-roma-beteggel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8IFqM40orGU41LVtfs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/bortonbe-kerul-a-mentosofor-aki-embertelen-modon-bant-egy-roma-beteggel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-281d403d91272dda1e",
@@ -1408,10 +1408,10 @@
           "https://444.hu/2026/10/30/stern-lili-lett-a-trafo-uj-igazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PSxLT5kJcWLI9Bcs.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/stern-lili-lett-a-trafo-uj-igazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-f4499dd2968a02567b",
@@ -1434,10 +1434,10 @@
           "https://hvg.hu/itthon/20261030_kormany-allami-cegek-vezetoi-palyazatok-tudomanyos-technologiai-miniszterium"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b53d4ccc-0cff-4f9d-b458-c5a4e95ce43d.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261030_kormany-allami-cegek-vezetoi-palyazatok-tudomanyos-technologiai-miniszterium",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-49fb4f49a61c5258aa",
@@ -1460,10 +1460,10 @@
           "https://444.hu/2026/10/30/csaknem-nyolcmillio-embert-vontak-felelossegre-korrupcio-miatt-kinaban-hszi-csin-ping-vezetese-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/6lt5DehidtxGKeBcs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/csaknem-nyolcmillio-embert-vontak-felelossegre-korrupcio-miatt-kinaban-hszi-csin-ping-vezetese-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     },
     {
       "id": "rss-ce87af6c28c01845ae",
@@ -1486,10 +1486,10 @@
           "https://hvg.hu/tudomany/20261030_valos-ideju-repulojegy-kereses-kiwi-ai-chatgpt-gemini-claug"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/806a3087-7fa9-4355-8ffd-0dba1cba42cd.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261030_valos-ideju-repulojegy-kereses-kiwi-ai-chatgpt-gemini-claug",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-07a2e6e9a3b28a5339",
@@ -1512,10 +1512,10 @@
           "https://hvg.hu/tudomany/20261030_mesterseges-intelligencia-agibot-go3"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7ef6d6f6-16ca-4260-b74e-5dbcc91568fa.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261030_mesterseges-intelligencia-agibot-go3",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-eb9a2472964cff582d",
@@ -1538,10 +1538,10 @@
           "https://hvg.hu/elet/20261030_donald-trump-kampany-gyules-kansas-iowa"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/321cb550-40ad-4097-b6a3-fdccc72ae0d7.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261030_donald-trump-kampany-gyules-kansas-iowa",
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-89f413632c36d45352",
@@ -1564,10 +1564,10 @@
           "https://444.hu/2026/10/30/ujra-bocsanatot-kert-a-no-aki-beszart-a-fitneszverseny-kozben-megis-folytatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
+      "img": "https://assets.4cdn.hu/kraken/8PTCs9Lg5RSmGWB0s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/ujra-bocsanatot-kert-a-no-aki-beszart-a-fitneszverseny-kozben-megis-folytatta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }
