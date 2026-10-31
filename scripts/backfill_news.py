@@ -7,7 +7,7 @@ existing stories when source reporting is inaccessible.
 import json,os,re,urllib.request,urllib.error
 from pathlib import Path
 from enrich_news import compose,source_text
-SOURCE=Path("data/editorial-source.json")
+SOURCE=Path("index.html")
 DEST=Path("data/editorial.json")
 def main():
  if not SOURCE.exists():
@@ -17,7 +17,11 @@ def main():
  if not key:
   print("No API key; backfill skipped")
   return
- entries=json.loads(SOURCE.read_text(encoding="utf-8"))
+ html=SOURCE.read_text(encoding="utf-8")
+ marker="const items="
+ start=html.find(marker)
+ if start<0:raise ValueError("Embedded article catalog not found")
+ entries,_=json.JSONDecoder().raw_decode(html[start+len(marker):].lstrip())
  old=json.loads(DEST.read_text(encoding="utf-8")) if DEST.exists() else {"items":[]}
  completed={x["id"] for x in old["items"]}
  limit=max(0,min(3,int(os.getenv("HIRPULT_BACKFILL_BATCH","2"))))
