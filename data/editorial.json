@@ -634,6 +634,71 @@
       "imgl": "https://index.hu/belfold/2026/10/29/december-24-munkaszuneti-nap-tarsadalmi-egyeztetes-ledolgozas-torvenyjavaslat/",
       "cred": "Fotó: Stiller Ákos / Bloomberg / Getty Images (illusztráció)",
       "ai_edited": true
+    },
+    {
+      "id": "oni-ogyi-novembertol",
+      "r": "Közélet",
+      "c": "Egészségügy",
+      "w": "",
+      "st": "Megerősített",
+      "time": "okt. 29.",
+      "t": "November 1-jétől két új intézetre válik szét a Nemzeti Népegészségügyi és Gyógyszerészeti Központ",
+      "s": "A Magyar Közlönyben megjelent kormányrendelet értelmében november elsejétől létrejön az Országos Népegészségügyi Intézet és az Országos Gyógyszerészeti Intézet, amelyek a Nemzeti Népegészségügyi és Gyógyszerészeti Központból válnak ki, és önálló jogutódként működnek tovább.",
+      "p": [
+        "A kormány november 1-jétől átalakítja a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (NNGYK) szervezeti felépítését, amelynek eredményeként két önálló intézmény jön létre: az Országos Népegészségügyi Intézet (ONI) és az Országos Gyógyszerészeti Intézet (OGYI). Az átszervezés célja a feladatok hatékonyabb ellátása és a szakmai fókuszok elkülönítése.",
+        "Az újonnan létrejövő Országos Népegészségügyi Intézet az országos tisztifőorvos irányítása alatt áll majd. Feladatai közé tartozik az országos népegészségügyi programok kidolgozása, irányítása és koordinálása, valamint a programok végrehajtásának területi és helyi szintű szervezése. Az ONI emellett ellátja a közegészségügyi, járványügyi, mikrobiológiai, egészségfejlesztési, egészségügyi igazgatási és munkaegészségügyi szakfelügyeleti feladatokat is.",
+        "Az intézet felelős továbbá az emberen végzett orvostudományi kutatások szabályozásáért, valamint az emberi felhasználásra szánt vizsgálati készítmények és orvostechnikai eszközök klinikai vizsgálatának engedélyezési eljárásáért. Az ONI gondoskodik a hazai éves oltóanyag beszerzéséről, nyilvántartásáról, elosztásáról és kiszállításáról is.",
+        "Az Országos Népegészségügyi Intézet emellett jelentős szerepet vállal a drogpolitikai stratégiai döntések megalapozásában. Adatgyűjtéssel és elemzéssel támogatja a Nemzeti Drogellenes Stratégia végrehajtását, közreműködik az irányelvek és standardok kidolgozásában, valamint koordinálja a megelőző és felvilágosító szolgáltatások rendszerét, kapcsolatot tartva az elterelésben érintett szolgáltatókkal.",
+        "Az Országos Gyógyszerészeti Intézet a gyógyszerészeti államigazgatás központi szerveként működik majd. Feladatai közé tartozik a gyógyszerek, orvostechnikai eszközök és in vitro diagnosztikai eszközök hatósági felügyelete, engedélyezési és piacfelügyeleti tevékenységek ellátása, valamint a gyógyszerbiztonság biztosítása. Az OGYI továbbá támogatja a gyógyszer-, biotechnológiai, orvostechnikai és digitális egészségügyi innováció szabályozási környezetének fejlesztését.",
+        "Az OGYI emellett részt vesz a szabályozástudomány fejlesztésében, elősegíti az innovatív egészségügyi technológiák biztonságos és hatékony alkalmazását, valamint statisztikai adatokat gyűjt és elemez a gyógyszerészeti területen. Az intézet vezetőjének kinevezésére korábban Szepezdi Zsuzsanna neve került elő, aki az egészségügyi miniszter bejelentése szerint irányítani fogja az új szervezetet.",
+        "Fontos hangsúlyozni, hogy az átszervezés nem érinti a folyamatban lévő ügyeket, azok határidejét, az eljárási cselekmények érvényességét, illetve az ügyfelek eljárási jogait. Mindkét intézet az NNGYK jogutódjaként működik, így a korábbi feladatok és jogok átruházása zökkenőmentesen történik meg.",
+        "Az intézményrendszer átalakítása várhatóan hozzájárul a népegészségügyi és gyógyszerészeti feladatok hatékonyabb ellátásához, valamint a szakmai fókuszok tisztább elkülönítéséhez. Az ONI és az OGYI önálló működése lehetővé teszi, hogy mindkét terület a maga specifikus kihívásaira koncentráljon, miközben együttműködve szolgálják a magyar egészségügy érdekeit."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "Index: Létrejön az Országos Népegészségügyi Intézet és az Országos Gyógyszerészeti Intézet",
+          "https://index.hu/belfold/2026/10/29/orszagos-nepegeszsegugyi-intezet-orszagos-gyogyszereszeti-intezet-hegedus-zsolt-szepezdi-zsuzsanna/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7072/70728/707281/70728115_5216911_3a2786f981ee3bc662375b1e0130f765_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/10/29/orszagos-nepegeszsegugyi-intezet-orszagos-gyogyszereszeti-intezet-hegedus-zsolt-szepezdi-zsuzsanna/",
+      "cred": "Fotó: Papajcsik Péter / Index",
+      "ai_edited": true
+    },
+    {
+      "id": "catl-debrecen-jogeros-itelet",
+      "r": "Közélet",
+      "c": "Környezet",
+      "w": "",
+      "st": "Megerősített",
+      "time": "okt. 29.",
+      "t": "Jogerősen elutasította a bíróság a civilek keresetét a debreceni CATL-gyár környezethasználati engedélye ellen",
+      "s": "A Debreceni Törvényszék végleges döntést hozott a debreceni CATL akkumulátorgyár egységes környezethasználati engedélyével kapcsolatos perben, elutasítva a civilek keresetét, akik a gyár működésének jogszerűségét kérdőjelezték meg.",
+      "p": [
+        "A Debreceni Törvényszék 2026 októberében hozott ítéletében jogerősen elutasította a helyi magánszemélyek és civil szervezetek keresetét, akik a kínai CATL akkumulátorgyár egységes környezethasználati engedélyének jogszerűségét vitatták. A per 2023 márciusában indult, amikor a felperesek a Hajdú-Bihar Vármegyei Kormányhivatal által kiadott engedélyt támadták meg, ám a bíróság mostani döntése szerint a keresetek nem megalapozottak.",
+        "A bíróság ítéletében kiemelte, hogy az engedélyt 2023 óta négy alkalommal módosították, és a negyedik, 2025-ben elfogadott módosítás alapjaiban változtatta meg a gyár műszaki paramétereit. Ez a módosítás már a per folyamatában lépett életbe, ezért a bíróság nem vizsgálhatta a korábbi, 2023-as engedélyt, amely ellen a civilek keresetet nyújtottak be. Az eredeti engedély ugyanis már nem létezik az eredeti formájában.",
+        "A negyedik módosítás részletesen szabályozza a gyár működését, többek között a területfoglalást, a technológiai folyamatokat, valamint a vízfelhasználás és a szennyvízkezelés feltételeit. Jelentős változás történt a vízhasználatban, amely csökkent, és megjelent a szürke víz alkalmazásának lehetősége is. Emellett módosultak a hulladékkezelési előírások, a kibocsátott szennyezőanyagok mennyisége, valamint a levegőbe és a környezetbe jutó zajterhelés adatai is.",
+        "Az ítélet indoklása szerint a negyedik módosítás lefedi az összes olyan műszaki és jogszabályi feltételt, amelyeket a felperesek a keresetükben kifogásoltak. Ugyanakkor a civilek nem éltek jogorvoslattal az utolsó módosítás ellen, így az jogerőssé vált, és a bíróság nem vizsgálhatta annak jogszerűségét. A korábbi engedélyekkel kapcsolatos kifogások emiatt nem voltak érvényesek a perben.",
+        "A bíróság továbbá megállapította, hogy a kormányhivatal folyamatosan ellenőrzi a gyár működését, és törvényességi felügyeleti jogkörrel rendelkezik. Amennyiben szabálytalanságot vagy az engedélytől eltérő működést tapasztal, a hatóság jogosult az engedély felülvizsgálatára, módosítására vagy visszavonására. Szükség esetén a gyárat a tevékenység felfüggesztésére vagy korlátozására is kötelezheti.",
+        "Az ítélet tehát megerősíti, hogy a debreceni CATL akkumulátorgyár a jelenleg hatályos, 2025-ben módosított egységes környezethasználati engedély alapján működik, amely megfelel a jogszabályi előírásoknak. A civilek által kifogásolt korábbi engedély már nem releváns, és a bíróság nem találta megalapozottnak a kereseteket sem az anyagi, sem az eljárásjogi kérdésekben.",
+        "Ez a döntés fontos mérföldkő a debreceni gyár működésének jogi környezetében, és egyben jelzi, hogy a hatóságok szigorúan felügyelik a környezetvédelmi előírások betartását. A gyár működésének további szabályozása és ellenőrzése a kormányhivatal hatáskörébe tartozik, amely szükség esetén beavatkozhat a környezetvédelmi szempontok érvényesítése érdekében."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "Index: Jogerős döntés született a debreceni CATL-gyár ügyében, a bíróság elutasította a civilek keresetét",
+          "https://index.hu/belfold/2026/10/29/debrecen-catl-akkumulatorgyar-kereset-civilek-elutasitas-birosag/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7229/72298/722987/72298705_5328219_bb91d27193810c8871575aa0248ef80b_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/10/29/debrecen-catl-akkumulatorgyar-kereset-civilek-elutasitas-birosag/",
+      "cred": "Fotó: Czeglédi Zsolt / MTI",
+      "ai_edited": true
     }
   ]
 }
