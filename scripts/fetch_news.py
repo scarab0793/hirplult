@@ -21,6 +21,12 @@ OUT = Path("data/news.json")
 MONTHS = {1:"jan.",2:"febr.",3:"márc.",4:"ápr.",5:"máj.",6:"jún.",7:"júl.",8:"aug.",9:"szept.",10:"okt.",11:"nov.",12:"dec."}
 def clean(s):
     return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
+def clean_summary(s):
+    text=clean(s)
+    # WordPress RSS appends an English syndication footer to Hungarian excerpts.
+    text=re.sub(r"\\s*The post\\s+.+?\\s+first appeared on\\s+.+?(?:\\s*\\.|$)", "", text, flags=re.I)
+    text=re.sub(r"\\s*The post\\s+.*$", "", text, flags=re.I)
+    return text.strip()
 def child(node, name):
     for x in node:
         if x.tag.rsplit("}",1)[-1] == name: return x.text or ""
@@ -84,7 +90,7 @@ def collect(name, feed, host, now):
         date=date.astimezone(dt.timezone.utc)
         age=(now-date).total_seconds()
         if age < -3600 or age > 72*3600: continue
-        summary=clean(child(node,"description") or child(node,"summary") or child(node,"content"))[:380]
+        summary=clean_summary(child(node,"description") or child(node,"summary") or child(node,"content"))[:380]
         if len(summary)<25: summary=title
         tags=" ".join(clean(x.text) for x in node if x.tag.rsplit("}",1)[-1]=="category")
         image=feed_image(node)
