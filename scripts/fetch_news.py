@@ -18,6 +18,7 @@ SOURCES = [
     ("444", "https://444.hu/feed", "444.hu"),
 ]
 OUT = Path("data/news.json")
+HISTORY = Path("data/news-history.json")
 MONTHS = {1:"jan.",2:"febr.",3:"márc.",4:"ápr.",5:"máj.",6:"jún.",7:"júl.",8:"aug.",9:"szept.",10:"okt.",11:"nov.",12:"dec."}
 def clean(s):
     return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
@@ -126,6 +127,12 @@ def main():
     rows=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:60]
     if not rows: raise RuntimeError("No valid recent articles; previous data preserved")
     OUT.parent.mkdir(parents=True,exist_ok=True)
+    history=json.loads(HISTORY.read_text(encoding="utf-8")) if HISTORY.exists() else {"items":[]}
+    seen={x["id"]:x for x in history["items"]}
+    for x in existing+rows:
+        if x.get("id","").startswith("rss-") and x["id"] not in seen:seen[x["id"]]=x
+    history["items"]=list(seen.values())[-1500:]
+    HISTORY.write_text(json.dumps(history,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     OUT.write_text(json.dumps({"updated_at":now.isoformat(),"sources_ok":success,"sources_failed":failed,"items":rows},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(f"Updated {len(rows)} headlines; OK: {success}; failed: {failed}")
 if __name__=="__main__": main()
