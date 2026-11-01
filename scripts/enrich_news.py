@@ -50,7 +50,8 @@ def compose(group,key):
   raise ValueError("Insufficient full-source text for a substantial article")
  instruction=("Write an original factual Hungarian news report using ONLY these RSS summaries. "
  "Use the accessible article_reference passages as evidence, not as text to copy. "
- "Write a substantial news article of 450-700 Hungarian words in 6-9 informative paragraphs ONLY if supported by evidence. "
+ "Create a standalone original Hungarian news article from the verified facts in the accessible sources. Aim for 450-700 words in 6-9 substantive paragraphs only where supported. "
+ "This is not a paragraph-by-paragraph rewrite or translation: independently organize the story and explain the verified facts, while avoiding the source wording, ordering, and expressive details. "
  "Never invent facts, quotes, details, or background. Distinguish uncertain claims. "
  "Do not copy the original wording, sentence structures, or distinctive phrases. When evidence is thin, do not generate an article. "
  "Write all prose entirely in Hungarian; preserve only proper names, official titles and indispensable technical terms in their original language. Never include RSS boilerplate such as The post or first appeared on. "
@@ -82,15 +83,20 @@ def main():
   return
  data=json.loads(P.read_text(encoding="utf-8"))
  rows=data.get("items",[])
+ archive=Path("data/editorial.json")
+ historical=json.loads(archive.read_text(encoding="utf-8")) if archive.exists() else {"items":[]}
+ done={x["id"] for x in historical["items"]}
  used=set();result=[];count=0
  limit=max(0,min(5,int(os.getenv("HIRPULT_AI_MAX_ARTICLES","3"))))
  for a in rows:
   if a["id"] in used:continue
+  if a["id"] in done:
+   result.append(a);used.add(a["id"]);continue
   group=[a];used.add(a["id"])
   for b in rows:
    if b["id"] not in used and b["c"]!=a["c"] and similar(a,b):
     group.append(b);used.add(b["id"])
-  if len(group)<2 or count>=limit:
+  if count>=limit:
    result.extend(group);continue
   try:
    article=compose(group,key)
@@ -98,11 +104,13 @@ def main():
    if not article.get("title") or not article.get("lead") or not isinstance(paragraphs,list) or len(paragraphs)<5 or sum(len(str(p)) for p in paragraphs)<1800:
     raise ValueError("Incomplete generated report")
    merged=dict(a)
-   merged.update(id="merged-"+hashlib.sha256("|".join(sorted(x["id"] for x in group)).encode()).hexdigest()[:18],
+   merged.update(id=a["id"],
     t=str(article["title"])[:180],s=str(article["lead"])[:500],
     p=[str(p) for p in paragraphs[:12]],c="Hírpult",
     src=[[x["c"],x["src"][0][1]] for x in group],cav="",op="",ai_edited=True)
    result.append(merged);count+=1
+   historical["items"].append(merged)
+   done.add(a["id"])
   except Exception as exc:
    print('AI report failed:',str(exc)[:180])
    result.extend(group)
