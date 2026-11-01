@@ -142,12 +142,11 @@ function row(i){
 function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();open(a.dataset.id)})}
 function home(){
  const cnt=c=>c=="Mind"?items.length:items.filter(i=>i.r==c).length;
- const th=["Wekerle+","MNB-ügy"].map(w=>{const l=items.filter(i=>i.w==w);return `<button class="thread" data-t="${w}" aria-pressed="${thr==w}"><b>${w}</b><span>${l[0].t}</span></button>`}).join("");
+ thr="";
  app.innerHTML=`<div class="shell"><nav class="rail" aria-label="Rovatok"><h2>Rovatok</h2>${cats.map(c=>`<button class="sec" data-c="${c}" aria-pressed="${c==cat}">${c}</button>`).join("")}</nav>
  <div class="main"><input type="search" class="search" id="q" placeholder="Keresés a hírekben" aria-label="Keresés a hírekben" value="${esc(term)}">
- <div class="threads" aria-label="Fókuszban lévő témák">${th}</div><div id="list"></div></div></div>`;
+ <div id="list"></div></div></div>`;
  app.querySelectorAll("[data-c]").forEach(b=>b.onclick=()=>{cat=b.dataset.c;home()});
- app.querySelectorAll("[data-t]").forEach(b=>b.onclick=()=>{thr=thr==b.dataset.t?"":b.dataset.t;home()});
  document.getElementById("q").oninput=e=>{term=e.target.value.toLowerCase();list()};
  list();document.title="Hírpult";
 }
