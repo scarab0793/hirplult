@@ -22,8 +22,15 @@ def main():
  start=html.find(marker)
  if start<0:raise ValueError("Embedded article catalog not found")
  entries,_=json.JSONDecoder().raw_decode(html[start+len(marker):].lstrip())
+ history=Path("data/news-history.json")
+ if history.exists():
+  entries+=json.loads(history.read_text(encoding="utf-8")).get("items",[])
+ current=Path("data/news.json")
+ if current.exists():
+  entries+=json.loads(current.read_text(encoding="utf-8")).get("items",[])
  old=json.loads(DEST.read_text(encoding="utf-8")) if DEST.exists() else {"items":[]}
  completed={x["id"] for x in old["items"]}
+ entries=list({x["id"]:x for x in entries if x.get("id")}.values())
  limit=max(0,min(3,int(os.getenv("HIRPULT_BACKFILL_BATCH","2"))))
  count=0
  for item in entries:
