@@ -1,7 +1,8 @@
-name: Update Hírpult news (3x daily)
+name: Update Hírpult news (UK daytime)
 on:
   schedule:
-    - cron: '10 5,11,17 * * *'
+    # Hourly candidate ticks; the UK-local gate below selects actual runs.
+    - cron: '0 5-20 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -24,19 +25,41 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check UK-local update window
+        id: schedule_gate
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import datetime as dt
+          import os
+          from zoneinfo import ZoneInfo
+          local = dt.datetime.now(ZoneInfo("Europe/London"))
+          hour = local.hour
+          weekday = local.weekday() < 5
+          allowed = (6 <= hour <= 20 and hour % 2 == 0) if weekday else (6 <= hour <= 18 and (hour - 6) % 3 == 0)
+          should_run = os.environ["EVENT_NAME"] != "schedule" or allowed
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write(f"run={str(should_run).lower()}\n")
+          print(f"UK local time: {local.isoformat()}, run: {should_run}")
+          PY
       - name: Collect recent RSS headlines
+        if: steps.schedule_gate.outputs.run == 'true'
         run: python scripts/fetch_news.py
       - name: Optional AI editorial enrichment (max 3 reports)
+        if: steps.schedule_gate.outputs.run == 'true'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           HIRPULT_AI_MAX_ARTICLES: '3'
         run: python scripts/enrich_news.py
       - name: Backfill historical stories (max 2 per run)
+        if: steps.schedule_gate.outputs.run == 'true'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           HIRPULT_BACKFILL_BATCH: '2'
         run: python scripts/backfill_news.py
       - name: Commit data changes
+        if: steps.schedule_gate.outputs.run == 'true'
         run: |
           git add data/news.json data/editorial.json data/news-history.json
           if git diff --cached --quiet; then exit 0; fi
