@@ -38,7 +38,7 @@ jobs:
         run: python scripts/backfill_news.py
       - name: Commit data changes
         run: |
-          git add data/news.json data/editorial.json
+          git add data/news.json data/editorial.json data/news-history.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
