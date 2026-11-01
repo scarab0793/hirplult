@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "id": "kreml-europa-tarsalas-nov-1",
+      "r": "Külföld",
+      "c": "Ukrajna-háború",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T11:27:00+00:00",
+      "t": "Kreml: Európa jelenlegi hozzáállása mellett haszontalan lenne a részvétele a rendezési tárgyalásokon",
+      "s": "Dmitrij Peszkov, a Kreml szóvivője vasárnap azt mondta, hogy Európa az ukrajnai háború lezárásáról szóló tárgyalásokon részt kellene vegyen, de jelenlegi álláspontja mellett a részvétele haszontalan lenne.",
+      "p": [
+        "A 444 beszámolója szerint Peszkov az orosz Russia-1 televízióban úgy fogalmazott, hogy a kérdés 'nagyon bonyolult': az európai országoknak elvileg a tárgyalóasztalnál lenne a helyük. Hozzátette azonban, hogy a jelenlegi európai hozzáállás mellett a részvétel haszontalan lenne, ezért nincsenek jelen. A szóvivő szerint Brüsszel továbbra is Oroszország stratégiai vereségében gondolkodik.",
+        "A cikk ismerteti az amerikai külügyminiszter, Marco Rubio és Szergej Lavrov vasárnapi beszélgetését az atlantai G20-külügyminiszteri találkozó mellett. A megbeszélésen a felek egy lehetséges Trump–Putyin találkozót vitattak meg, amely a november közepi APEC-csúcson lehet. A cél a decemberi miami G20-csúcs előkészítése volt, ahová Trump Putyint meghívta; Trump szerint nincs akadálya annak, hogy Zelenszkijt is meghívják.",
+        "A 444 emlékeztet arra, hogy Putyin 2022. február 4-én indította a háborút, amelyet az Ukrajnának nyújtott nyugati segítség nélkül nem lehetne megállítani."
+      ],
+      "cav": "A Kreml-idézetek a 444 beszámolójából származnak; a Russia-1 műsorát közvetlenül nem néztük meg. A Rubio–Lavrov találkozó részleteit a cikk ismerteti, a tárgyalások tényleges időpontja még bizonytalan.",
+      "op": "Szubjektív nézőpont: A Kreml ismert érve, hogy az európai részvétel 'haszontalan', önmagában a tárgyalási feltételek csökkentésére szolgál. Az Európa nélküli béketárgyalás azonban az ukrán fél és a kontinens biztonsági érdekeinek figyelmen kívül hagyása lenne, ezért a kérdés nem csak az oroszok és az amerikaiak ügye.",
+      "src": [
+        [
+          "444: Kreml: Európa „jelenlegi hozzáállása” mellett „haszontalan” lenne a részvétele a rendezési tárgyalásokon",
+          "https://444.hu/2026/11/01/kreml-europa-jelenlegi-hozzaallasa-mellett-haszontalan-lenne-a-reszvetele-a-rendezesi-targyalasokon"
+        ]
+      ]
+    },
+    {
+      "id": "szerb-ukp-vezeto-orizetbe-nov-1",
+      "r": "Külföld",
+      "c": "Szerbia",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T10:56:00+00:00",
+      "t": "Saját beosztottjai vettek őrizetbe a szerb bűnügyi rendőrség vezetőjét, Vučić egyik bizalmasát",
+      "s": "Marko Kricak, a szerb bűnügyi rendőrség (UKP) vezetőjét hivatali visszaélés gyanújával vasárnap reggel őrizetbe vették, a belgrádi legfelsőbb ügyészség utasítására; ugyanebben a műveletben Bosko Sekulovic, a bűnüldözési szolgálat vezetője is őrizetbe került.",
+      "p": [
+        "A HVG tudósítása szerint az UKP vezetőjét a saját beosztottjai vették őrizetbe. Az ügy a május 12-i belgrádi étteremben elkövetett gyilkossággal függ össze. Az MTI-összefoglaló szerint az ügyben Saša Vuković a vádlott, öt másik személyt pedig a holttest elrejtésében és bizonyítékok megsemmisítésében való közreműködéssel vádolnak.",
+        "A szerb sajtó, köztük a Radar hetilap szerint Kricakot bizonyítékok meghamisításával és tanúk, gyanúsítottak nyomásgyakorlásával gyanúsítják. Több gyanúsított rendőri erőszakról számolt be, és az ügyészség ezeket a panaszokat kínzás miatti vizsgálatba továbbította. Egy korábbi belgrádi rendőrfőkapitány, Veselin Milić nevét az eredeti feljelentés is említi.",
+        "Kricak 2025 tüntetéseinek rendőri fellépéséhez is kapcsolódott. A HVG szerint a most megválasztott, diákok vezette Egyetemista Lista október 25-i győzelme után több rendőri és titkosszolgálati vezető leváltását követelték, köztük Kricakét, aki addig nem mondott le. A Radar szerint Kricak az első hivatalban lévő UKP-vezető, akit őrizetbe vettek."
+      ],
+      "cav": "Az ügy részletei jelentős részben a szerb sajtóra és az ügyészségi közleményekre épülnek; a vádak még nem bizonyítottak. A Radar hetilapra és az MTI-közvetítésre hivatkozott információk nem függetlenül ellenőrzöttek.",
+      "op": "Szubjektív nézőpont: Ha a gyanúsítások igazolódnak, az eset a szerb rendőrség és a politikai hatalom összefonódásának egyik legerősebb jele lehet. A tények azonban még nem döntöttek el; a vádlottak védelmének szava is számít.",
+      "src": [
+        [
+          "HVG: Saját beosztottjai vettek őrizetbe egy szerb rendőrségi vezetőt, Vucic egyik bizalmasát",
+          "https://hvg.hu/vilag/20261101_szerbia-bunugyi-rendorseg-marko-kricsak-orizetbe-vetel-alekszandar-vucsics"
+        ],
+        [
+          "444: Őrizetbe vették a szerb bűnügyi rendőrség vezetőjét, Aleksandar Vučić bizalmasát",
+          "https://444.hu/2026/11/01/orizetbe-vettek-a-szerb-bunugyi-rendorseg-vezetojet-aleksandar-vucic-bizalmasat"
+        ]
+      ]
+    },
+    {
+      "id": "trump-wsj-per-elutasitas-nov-1",
+      "r": "Külföld",
+      "c": "Egyesült Államok",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T11:36:00+00:00",
+      "t": "Elutasította a bíróság Trump 10 milliárd dolláros perét a Wall Street Journal ellen",
+      "s": "Darrin Gayles szövetségi bíró elutasította Donald Trump rágalmazási keresetét a Wall Street Journal, annak anyavállalata és Rupert Murdoch ellen, amely a lap Jeffrey Epsteinnek írt születésnapi levelének közlése miatt indult.",
+      "p": [
+        "A HVG beszámolója szerint Darrin Gayles bíró a 10 milliárd dolláros rágalmazási pert elutasította. Az alperesek a Wall Street Journal, a Dow Jones és Rupert Murdoch voltak. A per a lap 2003-as cikkéhez kötődött, amely szerint Trump egy Epsteinnek készült születésnapi könyvbe rajzolt meztelen nő mellé levelet írt. Trump tagadja, hogy a levelet megírta vagy aláírta.",
+        "A bíró szerint Trump ügyvédeinek érvelése, miszerint a lapnak figyelmen kívül kellett volna hagynia a beszámolót, mert Trump a riportereknek tagadta a levél szerzőségét, ellentmond az amerikai alkotmány sajtószabadságra vonatkozó védelmének. Az indoklás szerint ez az érvelés azt jelentené, hogy bármely közszereplő kivédheti a kellemetlen információkat pusztán azzal, hogy tagadja azokat. A HVG a BBC-re hivatkozva a keresetet 'szalmaszálakba kapaszkodásnak' nevezte.",
+        "Ez a második elutasítás: Trump korábbi, 20 milliárd dolláros keresete is hasonló sorsra jutott. A HVG összefoglalása szerint az újabb döntés olyan módon zárja ki a per újraindítását, hogy a 10 milliárd dolláros kereset nem terjeszthető elő újra."
+      ],
+      "cav": "A teljes bírósági határozatot nem láttuk; az indoklást a HVG beszámolója alapján ismertetjük. Az 'újraindítás kizárása' részletét a cikk összefoglalója adja, a jogi végkimenetelt a bíró határozata pontosítja.",
+      "op": "Szubjektív nézőpont: A sajtószabadság védelme itt a legfontosabb tanulság: egy közszereplő nem kerülheti el a kritikus újságírást azzal, hogy egyszerűen tagadja a tényeket. A bíró döntése erős precedens a visszatérő, pénzügyi fenyegetéssel kísért perekkel szemben.",
+      "src": [
+        [
+          "HVG: Elbukott Trump Wall Street Journal elleni pere, amit azért indított, mert a lap közölte az Epstein-levelet",
+          "https://hvg.hu/elet/20261101_egyesult-allamok-donald-trump-per-wall-street-journal-jeffrey-epstein-noalak-level"
+        ]
+      ]
+    },
+    {
+      "id": "lengyel-alkotmanybirosag-valsag-nov-1",
+      "r": "Belpolitika",
+      "c": "Nemzetközi kitekintő",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T10:17:00+00:00",
+      "t": "Lengyel alkotmányos válság: az Európai Bizottság is az Alkotmánybíróság működését sürgeti",
+      "s": "Az Alkotmánybíróság körüli vita Varsóban tovább mélyült: az Európai Bizottság a lengyel hatóságoktól a helyes működést és az uniós bírósági ítéletek betartását várja, miközben Tusk és Nawrocki elnök egymásra vádat zúdít.",
+      "p": [
+        "A Bizottság szóvivője szombat késő este azt közölte, hogy a lengyel hatóságoknak biztosítaniuk kell, hogy az Alkotmánybíróság a lengyel alkotmánnyal és az Európai Unió Bíróságának ítéleteivel összhangban működjön. A HVG beszámolója szerint a Bizottság ezzel gyakorlatilag ugyanazt az álláspontot képviseli, mint a jelenlegi kormány, és nem az államfő oldalát.",
+        "Az elmúlt hetekben a Velencei Bizottság október 13-i véleménye szerint a Szejm jogosult alkotmánybírókat választani, és Karol Nawrocki elnöknek esküt kellene tennie velük. A megtagadás miatt a nyolc újonnan megválasztott bíróból öt nem tud dolgozni. Donald Tusk esti tévébeszédében a kormány nevében azt ígérte, hogy kompromisszum nélkül helyreállítják a jogállamiságot. Az elnök és az ellenzék ezt elutasította, és egymást vádolja a jogsértéssel.",
+        "Az Alkotmánybíróság korábbi elnöke és helyettese egy új vezető miatt nem léphetett be az épületbe. A Legfelsőbb Bíróság elnöke teljes ülést hívott össze, de a hatás várhatóan korlátozott lesz, mert a testület vezetését és tagjait a kormány nem ismeri el. A HVG tudósítása szerint Varsóban szombat éjjel nyugalom volt, a tüntetők és az ellenzék pedig elutasította Tusk beszédét."
+      ],
+      "cav": "A Viktor Orbán Facebook-posztjára vonatkozó 24.hu-cikket nem tudtuk megnyitni, ezért nem hivatkozzuk; az Orbán-idézet az HVG beszámolójából származik. A Bizottság és a kormány álláspontját a HVG összefoglalója alapján írtuk le, az eredeti nyilatkozatokat nem ellenőriztük közvetlenül.",
+      "op": "Szubjektív nézőpont: Az uniós jogállamisági kérdés nem a kormánypártok és a baloldal közti csatározás tárgya. Orbán posztja a lengyel bírósági vitát a 'brüsszeli önkény' kifejezésre egyszerűsíti, miközben az Európai Bizottság és az uniós bíróság már korábban is kimondta, hogy a jelenlegi Alkotmánybíróság működése kérdéses. Ezt a helyzetet érdemes a tényekhez mérni, nem a politikai szövegekhez.",
+      "src": [
+        [
+          "HVG: Lengyel alkotmányos válság: megszólalt az Európai Bizottság és Orbán Viktor is",
+          "https://hvg.hu/vilag/20261101_lengyel-alkotmanyos-valsag-megszolalt-az-europai-bizottsag"
+        ]
+      ]
+    },
+    {
       "w": "",
       "st": "Megerősített",
       "time": "okt. 30.",
