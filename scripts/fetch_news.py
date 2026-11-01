@@ -16,6 +16,11 @@ SOURCES = [
     ("Telex", "https://telex.hu/rss", "telex.hu"),
     ("HVG", "https://hvg.hu/rss", "hvg.hu"),
     ("444", "https://444.hu/feed", "444.hu"),
+    ("Index", "https://index.hu/24ora/rss/", "index.hu"),
+    ("Portfolio", "https://www.portfolio.hu/rss/all.xml", "portfolio.hu"),
+    ("Origo", "https://www.origo.hu/publicapi/hu/rss/origo/articles", "origo.hu"),
+    ("Népszava", "https://nepszava.hu/rss", "nepszava.hu"),
+    ("Nemzeti Sport", "https://www.nemzetisport.hu/publicapi/hu/rss/nso/articles", "nemzetisport.hu"),
 ]
 OUT = Path("data/news.json")
 HISTORY = Path("data/news-history.json")
