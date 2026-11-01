@@ -374,6 +374,70 @@
         ]
       ],
       "ai_edited": true
+    },
+    {
+      "w": "",
+      "st": "Jelentett",
+      "time": "okt. 30.",
+      "cav": "",
+      "img": "https://assets.4cdn.hu/kraken/7yURl1jtWvzxwmews-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/10/30/a-rezsimnek-dolgozo-eszak-koreai-hackerek-lophattak-el-a-binace-ugyfeleinek-dollarmilliardjait",
+      "cred": "Fotó: STR / NurPhoto via AFP",
+      "id": "binance-rekord-kriptolopas",
+      "r": "Külföld",
+      "c": "Technológia",
+      "t": "Rekordméretű kriptolopás: Észak-koreai hackereket gyanítanak a Binance elleni támadás mögött",
+      "s": "Több mint 6,3 milliárd dollár értékű kriptovalutát lophattak el a világ legnagyobb kriptotőzsdéjéből, a Binance-ból, amelynek hátterében vélhetően észak-koreai hackercsoport áll. A cég közlése szerint a lopott összegből 3 milliárd dollár nyomára bukkantak és befagyasztották, az ügyfelek kárát pedig teljes egészében megtérítik.",
+      "p": [
+        "A Binance, a világ egyik legnagyobb kriptotőzsdéje, történetének legnagyobb biztonsági incidensét élte át, amikor hackerek több mint 6,3 milliárd dollárnyi kriptovalutát tulajdonítottak el a platformról. Bár a támadás pontos részletei és a felelősök kiléte még nem teljesen tisztázott, a legtöbb iparági elemző és forrás egybehangzóan az észak-koreai rezsimhez köthető hackercsoportot, a TraderTraitor nevű csoportot gyanítja a támadás mögött.",
+        "A Binance vezetősége közölte, hogy a lopott összegből mintegy 3 milliárd dollár nyomára már rátaláltak, és ezeket az összegeket sikerült befagyasztaniuk. Ez jelentős előrelépés a kár enyhítése érdekében, ugyanakkor a teljes veszteség még így is hatalmas, hiszen a maradék 3,3 milliárd dollár sorsa bizonytalan. A TRM Labs nevű elemző cég szerint a lopott összegből körülbelül 2,4 milliárd dollárnak már nem valószínű, hogy nyomára bukkannak a hatóságok vagy a tőzsde szakemberei.",
+        "A Binance vezérigazgatója hangsúlyozta, hogy a cég minden ügyfél kárát teljes egészében megtéríti, ami a kriptovilágban nem megszokott lépés, hiszen a kriptovaluták esetében a kártérítés nem kötelező jogi követelmény, ellentétben a hagyományos banki betétekkel. Ez a vállalás komoly anyagi terhet jelenthet a tőzsde számára, különösen, ha nem sikerül további összegeket visszaszerezni a támadásból.",
+        "Az első hírek szerint a behatolók egy gazdátlan laptop segítségével jutottak be a Binance rendszerébe, azonban a cég később megerősítette, hogy a támadás több fronton zajlott, és komplex módszerekkel törték fel a platform biztonsági védelmét. A Binance ígéretet tett arra, hogy a hétfői naptól ismét lehetővé teszik a pénzmozgást a felhasználói számlákon, így a kereskedés fokozatosan visszaállhat a normális kerékvágásba.",
+        "Ez a lopás minden idők legnagyobb kriptovaluta-támadása, amely messze meghaladja az eddigi rekordot, egy tavalyi dubaji kriptotőzsde elleni támadást, ahol 1,5 milliárd dollár értékű kriptovalutát tulajdonítottak el. Az FBI vizsgálatai szerint ott is észak-koreai hackerek álltak a támadás mögött, ami megerősíti a gyanút, hogy a mostani esetben is hasonló szereplők lehetnek érintettek.",
+        "A kriptovaluták piacán a hír vegyes reakciókat váltott ki. A bitcoin árfolyama az incidens hírére először enyhe csökkenést mutatott, körülbelül 3 ezer dollárral esett az 80 ezer dolláros szint közeléből. Több szakértő azonban arra figyelmeztet, hogy a kereskedés még mindig korlátozott a Binance-on, amely a világ legnagyobb forgalmú kriptotőzsdéje, így a piac mozgása még nem tekinthető véglegesnek vagy megbízhatónak.",
+        "A lopott összeg forintban átszámítva mintegy 2060 milliárd forintot tesz ki, ami jól érzékelteti a támadás nagyságrendjét és a kriptovaluta-piac sebezhetőségét. A történtek rámutatnak arra, hogy a digitális pénzek biztonsága továbbra is komoly kihívásokat jelent, és a hatóságok, valamint a piaci szereplők számára is fontos feladat a védelem és a visszaélések elleni fellépés erősítése."
+      ],
+      "op": "",
+      "src": [
+        [
+          "444: A rezsimnek dolgozó észak-koreai hackerek lophatták el a Binance ügyfeleinek dollármilliárdjait",
+          "https://444.hu/2026/10/30/a-rezsimnek-dolgozo-eszak-koreai-hackerek-lophattak-el-a-binace-ugyfeleinek-dollarmilliardjait"
+        ]
+      ],
+      "ai_edited": true
+    },
+    {
+      "w": "",
+      "st": "Megerősített",
+      "time": "okt. 30.",
+      "cav": "",
+      "img": "https://kep.cdn.index.hu/1/0/7231/72315/723151/72315137_5329367_7fe3d4a8a49c9538788455feb41acbfe_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/10/30/egyiptom-magyarorszag-baka-andras-abdel-fattah-esz-szisz-koztarsasagi-elnok-talalkozo/",
+      "cred": "",
+      "id": "esz-szisi-budapest-baka-andras",
+      "r": "Külföld",
+      "c": "Diplomácia",
+      "t": "Stabil és erős a magyar–egyiptomi stratégiai partnerség, hangsúly a közös kihívásokon",
+      "s": "Abdel-Fattáh esz-Szíszi egyiptomi államfő negyedik alkalommal látogatott Magyarországra, ahol Baka András köztársasági elnökkel tárgyalt a két ország közötti kapcsolatok megerősítéséről és a jövőbeni együttműködés lehetőségeiről.",
+      "p": [
+        "Október 30-án, pénteken fogadta Baka András köztársasági elnök Egyiptom államfőjét, Abdel-Fattáh esz-Szíszit a Sándor-palotában. A találkozó után mindkét vezető megerősítette, hogy a magyar–egyiptomi kapcsolatok stabilak és a két ország elkötelezett a további együttműködés mellett.",
+        "Baka András a megbeszélés elején felidézte, hogy Magyarország és Egyiptom diplomáciai kapcsolatai közel százéves múltra tekintenek vissza, ám a két nép közötti barátság és együttműködés több száz évre nyúlik vissza. Kiemelte, hogy a kölcsönös tisztelet és a stratégiai partnerségi megállapodás tovább erősítette a két ország viszonyát.",
+        "A magyar államfő különösen fontos mérföldkőnek nevezte a 2028-as évet, amikor a diplomáciai kapcsolatok felvételének századik évfordulóját ünneplik. Baka András meggyőződése szerint a következő évtizedekben a partnerség még szorosabbá válhat, és a két ország együttműködése új területeken is kibővülhet.",
+        "A jövőbeni együttműködés konkrét témái között említette a közel-keleti helyzetet, a Gázai övezetben zajló konfliktust, a terrorizmus elleni küzdelmet, valamint az illegális migráció kérdését. Ezek a problémák nemcsak a térség országait, hanem az Európai Uniót is érintik, ezért Baka András hangsúlyozta, hogy az EU és Egyiptom közötti stratégiai partnerség kulcsfontosságú a közös kihívások hatékony kezelése érdekében.",
+        "Abdel-Fattáh esz-Szíszi államfő visszaemlékezett arra, hogy ez már a negyedik alkalom, amikor Magyarországon tartózkodik, ami szerinte jól tükrözi a kétoldalú kapcsolatok erősségét és stabilitását. Kiemelte, hogy 2023 óta stratégiai partnerség köti össze a két országot, és fontosnak tartják a kapcsolatok minden területen történő megerősítését.",
+        "Az egyiptomi elnök külön köszönetet mondott Magyarországnak az eddigi támogatásáért a palesztinkérdésben, amely országa számára kiemelt jelentőségű. Esz-Szíszi hangsúlyozta, hogy céljuk a térségben a fegyveres műveletek megszüntetése, a humanitárius segítség eljuttatása a Gázai övezetbe, valamint a palesztin területek újjáépítésének mielőbbi megkezdése.",
+        "A látogatás további célja az együttműködés új területeinek feltérképezése volt, és az egyiptomi elnök diplomatikusan meghívta Baka Andrást Egyiptomba, hogy tovább mélyítsék a két ország közötti kapcsolatokat. A nap folyamán Abdel-Fattáh esz-Szíszi nemcsak a köztársasági elnökkel, hanem Magyar Péter miniszterelnökkel is találkozott, ami tovább erősítheti a kétoldalú párbeszédet és együttműködést."
+      ],
+      "op": "",
+      "src": [
+        [
+          "Index: A magyar és az egyiptomi elnök szerint is stabilak a magyar–egyiptomi kapcsolatok",
+          "https://index.hu/belfold/2026/10/30/egyiptom-magyarorszag-baka-andras-abdel-fattah-esz-szisz-koztarsasagi-elnok-talalkozo/"
+        ]
+      ],
+      "ai_edited": true
     }
   ]
 }
