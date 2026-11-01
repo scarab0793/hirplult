@@ -152,8 +152,8 @@ function home(){
 }
 function list(){
  const el=document.getElementById("list");
- const l=items.filter(i=>(cat=="Mind"||i.r==cat)&&(!thr||i.w==thr)&&(i.t+" "+i.s).toLowerCase().includes(term));
- if(!l.length){el.innerHTML='<p class="empty">Nincs találat. Töröld a keresést, vagy válassz másik rovatot.</p>';return}
+ const l=items.filter(i=>Array.isArray(i.p)&&i.p.join(" ").length>=1200&&(cat=="Mind"||i.r==cat)&&(!thr||i.w==thr)&&(i.t+" "+i.s).toLowerCase().includes(term));
+ if(!l.length){el.innerHTML='<p class="empty">Ebben a rovatban még nincs elkészült részletes cikk. A rövid RSS-ajánlókat nem jelenítjük meg teljes cikként.</p>';return}
  let h="",d=null;
  for(const i of l){const dv=dayVal(i.time);if(dv!==d){d=dv;h+=`<div class="day">${DAYS[dv]||i.time}</div>`}h+=row(i)}
  el.innerHTML=h;bind();
