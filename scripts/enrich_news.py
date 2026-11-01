@@ -42,8 +42,10 @@ def source_text(url):
   return '\\n'.join(parts[:28])[:9500] if len(parts)>=4 else ''
  except (OSError,ValueError,UnicodeError):
   return ''
+def strip_feed_footer(text):
+ return re.sub(r"\\s*The post\\s+.*$", "", str(text), flags=re.I).strip()
 def compose(group,key):
- evidence=[{"source":x["c"],"title":x["t"],"summary":x["s"][:450],"article_reference":source_text(x["src"][0][1])} for x in group]
+ evidence=[{"source":x["c"],"title":x["t"],"summary":strip_feed_footer(x["s"])[:450],"article_reference":source_text(x["src"][0][1])} for x in group]
  if not any(len(x["article_reference"])>=1200 for x in evidence):
   raise ValueError("Insufficient full-source text for a substantial article")
  instruction=("Write an original factual Hungarian news report using ONLY these RSS summaries. "
@@ -51,6 +53,7 @@ def compose(group,key):
  "Write a substantial news article of 450-700 Hungarian words in 6-9 informative paragraphs ONLY if supported by evidence. "
  "Never invent facts, quotes, details, or background. Distinguish uncertain claims. "
  "Do not copy the original wording, sentence structures, or distinctive phrases. When evidence is thin, do not generate an article. "
+ "Write all prose entirely in Hungarian; preserve only proper names, official titles and indispensable technical terms in their original language. Never include RSS boilerplate such as The post or first appeared on. "
  "Return a JSON object with title, lead, paragraphs (array of strings). "
  "Do not add sources to the text. Evidence: "+json.dumps(evidence,ensure_ascii=False))
  body={"model":os.getenv("HIRPULT_AI_MODEL","gpt-4.1-mini"),
