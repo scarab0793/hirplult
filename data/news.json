@@ -1,27 +1,60 @@
 {
-  "updated_at": "2026-11-01T17:41:12.851005+00:00",
+  "updated_at": "2026-11-01T17:46:45.440862+00:00",
   "sources_ok": [
     "24.hu",
-    "Telex",
     "HVG",
     "444"
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    "Telex: HTTPError: HTTP Error 403: Forbidden"
+  ],
   "items": [
+    {
+      "id": "rss-1687a47ba72c08c4e3",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T17:40:22+00:00",
+      "t": "Kiírták az MTI vezérigazgatói pályázatát",
+      "s": "Az új vezérigazgató legfontosabb feladata a korábbi politikai függőség megszüntetése lesz.",
+      "p": [
+        "Az új vezérigazgató legfontosabb feladata a korábbi politikai függőség megszüntetése lesz."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/01/kiirtak-az-mti-vezerigazgatoi-palyazatat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/88ed0ALoz0uE16ejgs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/01/kiirtak-az-mti-vezerigazgatoi-palyazatat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
     {
       "id": "rss-5ebddb960c165f9b72",
       "r": "Sport",
-      "c": "24.hu",
+      "c": "Hírpult",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:39:30+00:00",
-      "t": "Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját",
-      "s": "A Real Madrid idegenben győzte le a Racing Santandert, így tapad a Barcelona, Atlético kettősre. The post Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját first appeared on 24.hu .",
+      "t": "Mbappé vezérletével magabiztosan nyert a Real Madrid a Racing Santander otthonában",
+      "s": "A Real Madrid 3-0-ra győzött idegenben a Racing Santander ellen a spanyol labdarúgó-bajnokság 11. fordulójában, ezzel továbbra is szorosan követi a tabella élén álló Barcelonát és Atlético Madridot.",
       "p": [
-        "A Real Madrid idegenben győzte le a Racing Santandert, így tapad a Barcelona, Atlético kettősre. The post Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját first appeared on 24.hu ."
+        "A spanyol LaLiga 11. fordulójában a Real Madrid a Racing Santander vendégeként lépett pályára, ahol 3-0-s győzelmet aratott. Ez a találkozó volt az első bajnoki mérkőzésük 2012 óta, amelyen a két csapat egymás ellen játszott, és a hazaiak számára ez volt az idénybeli első vereségük saját közönségük előtt.",
+        "A mérkőzés már a 11. percben megnyílt a Real Madrid előtt, amikor Kylian Mbappé értékesített egy tizenegyest. A francia támadó ezzel tovább növelte lenyűgöző statisztikáját, hiszen a spanyol bajnokságban eddig 24 különböző csapat ellen szerzett gólt, összesen 68 találatot jegyezve. Ez a teljesítmény kiemeli Mbappé kiemelkedő szerepét a Real támadósorában.",
+        "Nem sokkal a vezető gól után Jude Bellingham is betalált, aki a félpályáról indított akciót követően cselezte ki a kapust, majd a hálóba lőtt. Ez a találat tovább növelte a madridiak fölényét, akik a mérkőzés első félidejében már kétgólos előnyt szereztek.",
+        "A félidő hajrájában Yan Diomande is beköszönt, aki a tizenhatos vonalán kívülről egy erős lövéssel növelte a Real előnyét. Ez a bombagól végül a mérkőzés végeredményét is meghatározta, hiszen a második játékrészben már nem esett több találat.",
+        "Érdekesség, hogy 2024 májusa óta ez volt az első alkalom, hogy a Real Madrid idegenbeli bajnoki mérkőzésen legalább három gólt szerzett. Ez a teljesítmény azt mutatja, hogy José Mourinho irányítása alatt a csapat támadójátéka hatékony és eredményes, még idegenben is.",
+        "A második félidő eseménydúsabb volt ugyan, de a Real Madrid nem tudta tovább növelni az előnyét. Bellingham egy les miatt meg nem adott gólt jegyzett, míg Mbappé egyszer a kapufát találta el. Ezek a helyzetek azonban nem befolyásolták a mérkőzés kimenetelét, amely magabiztos madridi sikert hozott.",
+        "A győzelemnek köszönhetően a Real Madrid továbbra is szorosan követi a tabella élén álló Barcelonát, amelytől három ponttal, valamint az Atlético Madridtól, amelytől egy ponttal van lemaradva. Ez a helyzet izgalmassá teszi a bajnokság további küzdelmeit, ahol a Real továbbra is esélyes a bajnoki címre."
       ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "cav": "",
       "op": "",
       "src": [
         [
@@ -32,7 +65,8 @@
       "img": "https://s.24.hu/app/uploads/2026/11/kylian-mbappe-gettyimages-2302993916-1024x576.jpg",
       "imgs": "24.hu",
       "imgl": "https://24.hu/sport/foci/2026/11/01/rxaing-real-madrid-kylian-mbappe-yan-diomande-bombagol/",
-      "cred": "Kép: 24.hu – eredeti cikk"
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
     },
     {
       "id": "rss-4d32fd3b9e8b331c19",
@@ -89,17 +123,23 @@
     {
       "id": "rss-f28699f0163efcb1a0",
       "r": "Kultúra",
-      "c": "HVG",
+      "c": "Hírpult",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:28:00+00:00",
-      "t": "Forog-e Krzysztof Kieslowski a sírjában? – kritika a Párhuzamos történetekről",
-      "s": "Csoda, hogy még nem lázadtak fel a kitalált szereplők által kitalált szereplők. Ha van egy kis bátorságuk, szakszervezetbe tömörülve követelik, hogy legközelebb ne rajtuk vezessék le metafikciós dühüket a filmművészet megfáradt művelői. Megnéztük a kétszeres Oscar-díjas Asghar Farhadi sztárokkal teletömött filmjét.",
+      "t": "Asghar Farhadi új filmje a Kieslowski-örökség árnyékában: a Párhuzamos történetek kritikája",
+      "s": "A kétszeres Oscar-díjas rendező, Asghar Farhadi legújabb alkotása, a Párhuzamos történetek a legendás lengyel filmrendező, Krzysztof Kieslowski örökségét idézi meg, miközben a metafikció és a fikció határain játszik. A film azonban megosztó fogadtatásban részesült, és felveti a kérdést, vajon mennyire sikerült méltó módon továbbvinni Kieslowski hagyatékát.",
       "p": [
-        "Csoda, hogy még nem lázadtak fel a kitalált szereplők által kitalált szereplők. Ha van egy kis bátorságuk, szakszervezetbe tömörülve követelik, hogy legközelebb ne rajtuk vezessék le metafikciós dühüket a filmművészet megfáradt művelői. Megnéztük a kétszeres Oscar-díjas Asghar Farhadi sztárokkal teletömött filmjét."
+        "Asghar Farhadi, a Nader és Simin – Egy elválás története, valamint Az ügyfél rendezője, legújabb filmjében, a Párhuzamos történetekben a francia filmművészet kiemelkedő alakjaival dolgozott együtt. A film egy hajléktalan fiatalember és egy különc írónő találkozásán keresztül bontakozik ki, akik egy párizsi lakásban osztoznak, tele kéziratokkal és egerekkel. A történet középpontjában a fikció és a valóság összefonódása áll, amelyben a szereplők életre kelnek, és befolyásolni kezdik egymás sorsát.",
+        "A Párhuzamos történetek egy korábbi, Kieslowski által írt forgatókönyv továbbgondolása, amely a Dekalóg című sorozat hatodik részének folytatásaként is értelmezhető. Farhadi a filmben megtartotta a kukkolás motívumát és Zbigniew Preisner zenéjét, amelyek egyértelműen a lengyel rendező munkásságára utalnak. A filmben Isabelle Huppert, Vincent Cassel, Virginie Efira és Pierre Niney alakítják a szomszédokat, akik egy hangstúdióban dolgoznak, miközben a kukkoló írónő életét ismerjük meg.",
+        "A film metafikciós jellege miatt a szereplők nem csupán passzív alanyok, hanem a történet alakítóivá válnak, miközben a fikció és a valóság határai elmosódnak. Ez a megközelítés azonban nem újdonság a filmművészetben, és korábban más alkotók, például Pedro Almodóvar is foglalkoztak hasonló témákkal. Farhadi azonban a 139 perces játékidő alatt még tovább mélyíti ezt a metafikciós játékot, amely egyes nézők számára túl hosszúnak és túlírt dramaturgiának tűnhet.",
+        "A kritikák szerint a film legnagyobb problémája, hogy bár a Kieslowski-örökségre épít, nem sikerül megragadnia azt a mélységet és belső világot, amely az eredeti műveket jellemezte. A történet inkább mechanikus dramaturgiával és kényszeres művészetcsinálással operál, miközben a valódi érzelmi és lélektani rétegek hiányoznak. Ez a hiányosság különösen szembetűnő a színészi játékban is: Isabelle Huppert a megszokott eleganciával jelenik meg, míg Vincent Cassel alakítása időnként hiteltelennek hat.",
+        "A filmben megjelenő hétköznapi alakok és a mindennapi élet apró részletei – például a bútorok vagy a hangstúdió zajai – ugyan színesítik a képet, de nem képesek ellensúlyozni a történet túlírását és a metafikciós elemek túlzott használatát. A forgatókönyvben szereplő egerek és a lakás titkos lakói is inkább csak további rétegeket próbálnak adni a filmhez, anélkül, hogy valódi mélységet vagy új értelmet nyújtanának.",
+        "A Párhuzamos történetek így egy olyan alkotás, amely egyszerre tiszteleg Kieslowski előtt és kísérletet tesz az örökség továbbvitelére, ugyanakkor nem tudja elkerülni a korábbi próbálkozások hibáit. A film arra is rávilágít, hogy a nagy elődök munkásságának folytatása különösen nehéz feladat, amelyhez nem elég a formai elemek átvétele, hanem a belső tartalom és a művészi szellem megértése is szükséges.",
+        "Összességében Farhadi filmje egy ambiciózus, de megosztó mű, amely a metafikció és a fikció határain játszik, miközben a Kieslowski által megteremtett világot próbálja újraértelmezni. Bár a film nem válik a lengyel rendező munkásságának méltó folytatásává, érdekes kísérletként szolgál arra, hogy a kortárs filmművészet miként viszonyulhat a múlt nagy alkotóihoz."
       ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "cav": "",
       "op": "",
       "src": [
         [
@@ -110,7 +150,8 @@
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4b9ea6f8-6528-4d0b-89c3-98bc47cf5b91.jpg",
       "imgs": "HVG",
       "imgl": "https://hvg.hu/elet/20261101_asghar-farhadi-isabelle-huppert-parhuzamos-tortenetek",
-      "cred": "Kép: HVG – eredeti cikk"
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
     },
     {
       "id": "rss-709168a4d71007c664",
@@ -141,17 +182,23 @@
     {
       "id": "rss-a3ce7d6d1208e0b7e8",
       "r": "Közélet",
-      "c": "24.hu",
+      "c": "Hírpult",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:14:10+00:00",
-      "t": "Öt tinédzsert késeltek meg egy Halloween-buliban Angliában",
-      "s": "A rendőrség jelenleg is keresi az elkövetőket. The post Öt tinédzsert késeltek meg egy Halloween-buliban Angliában first appeared on 24.hu .",
+      "t": "Öt tinédzsert késeltek meg egy Halloween-buliban Angliában, lövöldözés volt az USA-ban, Magyarországon édességbe rejtett szöget találtak",
+      "s": "Halloween alkalmából több országban is súlyos incidensek történtek: Angliában egy házibuliban öt tinédzsert késeltek meg, az Egyesült Államokban egy egyetemi környéki bulin lövöldözés tört ki, míg Magyarországon édességbe rejtett szöget találtak, de sérülés nem történt.",
       "p": [
-        "A rendőrség jelenleg is keresi az elkövetőket. The post Öt tinédzsert késeltek meg egy Halloween-buliban Angliában first appeared on 24.hu ."
+        "Dél-Angliában, Eastleigh városában egy Halloween-összejövetelen öt tinédzsert késeltek meg. Az eset egy házibuliban történt, ahol az elkövetők meghívás nélkül jelentek meg, majd ismeretlen okból támadtak az ott tartózkodókra. A sérültek között három 16 és két 17 éves fiú volt, akiket súlyos sérülésekkel szállítottak kórházba. Az elkövetők a helyszínről elmenekültek, a rendőrség pedig jelenleg is keresi őket.",
+        "A rendőrség arra kéri a szemtanúkat, a buli résztvevőit és mindenkit, aki információval rendelkezik az esetről, hogy jelentkezzenek. Az elkövetőkről egyelőre csak annyit tudni, hogy egy ismeretlen csoport tagjai lehetnek. A helyszínen mentőautók és mentőhelikopter is megjelent, és szemtanúk beszámolója szerint az egyik sérült kiabálva menekült a házból, miközben két másik személy üldözte.",
+        "Az angliai késelés mellett az Egyesült Államokban, Newark városában, a Delaware Egyetem környékén is súlyos incidens történt egy Halloween-bulin. Itt lövöldözés tört ki, amelynek következtében hat embert szállítottak kórházba. A rendőrség egyelőre nem közölt részleteket az elkövetőkről vagy a támadás okairól.",
+        "Magyarországon szerencsére nem történt sérülés, azonban egy másik aggasztó esetre derült fény. Gyömrőn, a Liget Lakóparkban rendezett Halloween eseményen a gyerekeknek kiosztott édességek között szöget találtak. Az önkormányzat felhívta a szülők figyelmét, hogy alaposan vizsgálják át az édességeket, mielőtt a gyerekek elfogyasztanák azokat.",
+        "Az angliai és amerikai események rávilágítanak arra, hogy a Halloween ünneplése nem mindenhol zajlik biztonságosan, és a rendőrségek fokozott figyelmet fordítanak az ilyen rendezvényekre. A brit hatóságok különösen aktívak a nyomozásban, hogy mielőbb kézre kerítsék a késelés elkövetőit, míg az amerikai rendőrség továbbra is gyűjti az információkat a lövöldözés kapcsán.",
+        "A magyarországi eset ugyan nem vezetett sérüléshez, de jól mutatja, hogy a biztonságos ünneplés érdekében a szülőknek is érdemes fokozottan odafigyelniük a gyerekek környezetére és az általuk kapott ajándékokra. Az önkormányzatok és a helyi közösségek szerepe is fontos a hasonló esetek megelőzésében és a gyors reagálásban.",
+        "Összességében a Halloween idei ünneplése több országban is komoly kihívásokkal járt, amelyek a közbiztonság és a közösségi felelősségvállalás kérdéseit vetik fel. A hatóságok mindhárom helyszínen arra törekednek, hogy a jövőben hasonló események ne fordulhassanak elő, és a családok nyugodtan ünnepelhessenek."
       ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "cav": "",
       "op": "",
       "src": [
         [
@@ -162,7 +209,8 @@
       "img": "https://s.24.hu/app/uploads/2026/11/000_ge9wv-e1793552588124-1024x575.jpg",
       "imgs": "24.hu",
       "imgl": "https://24.hu/kulfold/2026/11/01/keseles-halloween-anglia-tinedzserek/",
-      "cred": "Kép: 24.hu – eredeti cikk"
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
     },
     {
       "id": "rss-4777dcd02448a3417a",
@@ -198,10 +246,10 @@
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:08:06+00:00",
-      "t": "Ferihegyen fotóztak le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát",
-      "s": "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotóztak le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu .",
+      "t": "Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát",
+      "s": "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu .",
       "p": [
-        "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotóztak le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu ."
+        "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu ."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -1541,32 +1589,6 @@
       "imgs": "Telex",
       "imgl": "https://telex.hu/belfold/2026/11/01/orban-viktor-reakcio-lengyelorszag-alkotmanybirosag-donald-tusk",
       "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-a3d657a1b10a3165eb",
-      "r": "Külföld",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T11:27:40+00:00",
-      "t": "Kreml: Európa „jelenlegi hozzáállása” mellett „haszontalan” lenne a részvétele a rendezési tárgyalásokon",
-      "s": "Kifogásolják, hogy Brüsszel továbbra is Oroszország stratégiai vereségét akarja elérni.",
-      "p": [
-        "Kifogásolják, hogy Brüsszel továbbra is Oroszország stratégiai vereségét akarja elérni."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/01/kreml-europa-jelenlegi-hozzaallasa-mellett-haszontalan-lenne-a-reszvetele-a-rendezesi-targyalasokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8M63fAbo9JJxsQccs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/01/kreml-europa-jelenlegi-hozzaallasa-mellett-haszontalan-lenne-a-reszvetele-a-rendezesi-targyalasokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }
