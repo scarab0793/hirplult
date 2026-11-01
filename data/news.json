@@ -1,33 +1,626 @@
 {
-  "updated_at": "2026-11-01T18:08:16.696323+00:00",
+  "updated_at": "2026-11-01T21:07:42.418290+00:00",
   "sources_ok": [
     "24.hu",
-    "Telex",
     "HVG",
     "444"
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    "Telex: HTTPError: HTTP Error 403: Forbidden"
+  ],
   "items": [
     {
-      "id": "rss-b43cade53b896d273d",
-      "r": "Kultúra",
+      "id": "rss-aa42792e46df4daf61",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T20:48:52+00:00",
+      "t": "Kalózok foglaltak el egy iráni hajót",
+      "s": "Attól félnek a tengeri közlekedés biztonságán dolgozók, hogy a kalózok az elrabolt hajóról indítanának újabb támadásokat.",
+      "p": [
+        "Attól félnek a tengeri közlekedés biztonságán dolgozók, hogy a kalózok az elrabolt hajóról indítanának újabb támadásokat."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261101_iran-szomalia-hajo-kalozok"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b3d23eec-ddae-4f18-b27a-7b6555b7bc3c.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261101_iran-szomalia-hajo-kalozok",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-d8cfe5ff34368dc8ee",
+      "r": "Gazdaság",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T20:35:48+00:00",
+      "t": "Búcsúzik az Otthon Start és az árréstop, itt a Wekerle Plusz – Gazdasági bejárat",
+      "s": "Megjelent a Gazdasági bejárat új adása, a hét gazdasági híreivel. Megtörtént, amire mindenki várt, benyújtották a Tisza-kormány első költségvetési javaslatát. Ahogy már a tervezetből is kiderült, kivezetik az árréstopot és a Wekerle Plusz felváltja az Otthon Startot. De jó vagy rossz ez nekünk? Miért nevezhető kompromisszumosnak a 2027-es költségvetés, és melyik az a részlete, ",
+      "p": [
+        "Megjelent a Gazdasági bejárat új adása, a hét gazdasági híreivel. Megtörtént, amire mindenki várt, benyújtották a Tisza-kormány első költségvetési javaslatát. Ahogy már a tervezetből is kiderült, kivezetik az árréstopot és a Wekerle Plusz felváltja az Otthon Startot. De jó vagy rossz ez nekünk? Miért nevezhető kompromisszumosnak a 2027-es költségvetés, és melyik az a részlete, "
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/gazdasag/20261101_bucsuzik-az-otthon-start-es-az-arrestop-itt-a-wekerle-plusz-gazdasagi-bejarat-7-resz"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aa561af3-7774-4ee3-8271-95a81f6bfada.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261101_bucsuzik-az-otthon-start-es-az-arrestop-itt-a-wekerle-plusz-gazdasagi-bejarat-7-resz",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-8a7ebee00b7b993a75",
+      "r": "Közélet",
       "c": "Hírpult",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
-      "published_at": "2026-11-01T18:03:15+00:00",
-      "t": "Molnár Áronék filmjét tíz nappal a forgatás előtt állították le, most közösségi támogatást keresnek",
-      "s": "Molnár Áron és társulata, a Loupe Színházi Társulás egy különleges filmtervvel készült, amelyet azonban tíz nappal a forgatás kezdete előtt váratlanul leállítottak. A csapat most független produkcióként szeretné megvalósítani a Becsapódás című alkotást, és a közönség, valamint támogató partnerek segítségét kéri.",
+      "published_at": "2026-11-01T20:32:41+00:00",
+      "t": "Késik a Budapest–Belgrád vasútvonal személyforgalma, Vitézy Dávid túl optimistának bizonyult az októberi indulással kapcsolatban",
+      "s": "A Budapest–Belgrád vasútvonal magyarországi szakaszán a személyforgalom elindítása késik, miután a hatósági engedélyek kiadása tovább tart a vártnál. Vitézy Dávid elismerte, hogy az októberi indulásra vonatkozó korábbi ígéret túl optimista volt.",
       "p": [
-        "A Loupe Színházi Társulás, amelynek művészeti vezetője Molnár Áron, egy saját színházi előadásuk alapján készített filmtervet dolgozott ki Becsapódás címmel. A film különlegessége lett volna, hogy az eredeti színdarab szereplői – Molnár Áron mellett Földes Eszter, Lengyel Tamás és Ullmann Mónika – szerepelnek benne, és az alkotást egyetlen, megszakítás nélküli felvételben forgatták volna le, ami magyar filmként újdonságnak számított volna.",
-        "A forgatókönyvet Horváth János Antal rendező és Veres Attila, az Itt érzem magam otthon című film írója közösen fejlesztette, így a szöveg a mai kor igényeihez igazodott. A társulat már megkezdte a jelmez- és kamerapróbákat, valamint a díszlet összeállítását, és a forgatás novemberben indult volna. A produkció mögött egy magyar filmgyártó cég is állt, amely partnerként vett részt a munkában.",
-        "Azonban tíz nappal a tervezett forgatás előtt a filmgyártó cég egyetlen emailben közölte, hogy kiszáll a projektből. A döntésről semmilyen előzetes egyeztetés nem történt, és a társulat nem kapott lehetőséget arra, hogy közösen keressenek megoldást a felmerült problémákra. A cég a stáb többi tagját is értesítette a forgatás elmaradásáról, miközben a társulatot azóta sem keresték meg telefonon vagy más módon.",
-        "Ez a váratlan lépés jelentős bizonytalanságot és csalódottságot okozott a stábban, akik azonban nem adják fel a film elkészítésének tervét. A társulat bejelentette, hogy 2027-ben független produkcióként kívánják megvalósítani a Becsapódás című filmet, amelynek teljes költségvetése körülbelül 120 millió forint. Ennek egy részét saját forrásból fedezik, a fennmaradó összeget pedig támogatók és a közönség segítségével szeretnék összegyűjteni.",
-        "Fontos hangsúlyozniuk, hogy nem közösségi finanszírozásra gondolnak, nem szeretnék a közönséget túlzott anyagi terhek alá helyezni. Ehelyett olyan vállalatokat, befektetőket és mecénásokat keresnek, akik nem csupán támogatók, hanem valódi partnerek szeretnének lenni a projektben, és közösen alakítanának ki egy mindkét fél számára előnyös együttműködést.",
-        "A Loupe Színházi Társulás korábbi munkái alapján azt szeretnék bizonyítani, hogy a függetlenség nem jelent kompromisszumot a minőség vagy a szakmaiság terén. Most ezt a függetlenséget kívánják a filmgyártásban is megvalósítani, állami finanszírozás nélkül, művészileg ambiciózus és professzionális alkotást létrehozva.",
-        "A társulat a közösségi médiában arra kérte követőit, hogy ha ismernek olyan cégeket, vállalatvezetőket vagy mecénásokat, akik érdeklődhetnek a projekt iránt, segítsenek összekötni őket. Ezzel a lépéssel szeretnék biztosítani, hogy a Becsapódás film végül elkészülhessen, és a magyar filmgyártásban egyedülálló módon valósulhasson meg."
+        "A Budapest–Belgrád vasútvonal magyarországi szakaszán a személyforgalom elindítása nem történt meg az eredetileg tervezett októberi időpontban. Vitézy Dávid, a projekt egyik vezetője az RTL Híradónak adott interjújában elismerte, hogy a korábbi, október második felére ígért indulás túlzottan optimista volt, és a hatósági engedélyek kiadása tovább tart a vártnál.",
+        "A késlekedés fő oka a vasútvonalon alkalmazott kínai vonatbefolyásoló rendszer és az európai ETCS (European Train Control System) szabványok közötti technikai összehangolás nehézségeiben keresendő. Ez a műszaki kihívás jelentősen meghosszabbította a tesztelési és engedélyezési folyamatokat, amelyek nélkül a személyszállítás nem kezdődhet meg a vonalon.",
+        "Vitézy Dávid hangsúlyozta, hogy a pálya és a szerelvények műszakilag készen állnak a forgalomra, azonban a forgalom megkezdéséhez szükséges két minőségbiztosítási és hatósági tanúsítvány még nem került kiadásra. Ezek az engedélyek elengedhetetlenek ahhoz, hogy a vasútvonal megfeleljen a hazai és európai vasútbiztonsági előírásoknak, és utasokat szállíthasson.",
+        "A szakmai háttérrel rendelkező Andó Gergely közlekedési szakértő szerint a MÁV már november 7-re vezényelt vasutasokat a vonalra, ami arra utal, hogy a vasúttársaság készen áll a személyforgalom elindítására, amint a hiányzó engedélyek megérkeznek. Ez a lépés azt jelzi, hogy a projekt műszaki szempontból a befejezéshez közelít, és a késedelem elsősorban adminisztratív jellegű.",
+        "A Budapest–Belgrád vasútvonal megvalósítása mintegy 800 milliárd forintból történt, és elsősorban a fővárostól délre fekvő települések lakóinak mindennapi közlekedését, valamint ingázását hivatott megkönnyíteni. A vasútvonal fejlesztése régóta várt beruházásnak számít, amely jelentős mértékben javíthatja a térség közlekedési infrastruktúráját.",
+        "A projekt kivitelezése során számos nehézség és késedelem jelentkezett, amelyekről a sajtó többször beszámolt. A műszaki és adminisztratív problémák egyaránt hozzájárultak ahhoz, hogy a személyforgalom elindítása nem történt meg a korábban jelzett időpontban. A jelenlegi helyzetben a hatósági engedélyek kiadása a legfontosabb lépés a forgalom megkezdéséhez.",
+        "Összességében a Budapest–Belgrád vasútvonal magyarországi szakaszának személyforgalma továbbra is várat magára, amíg a szükséges tanúsítványok meg nem érkeznek. A projekt vezetői és szakértői szerint a műszaki feltételek adottak, és a közeljövőben várható a forgalom elindítása, amint a hatósági engedélyek rendelkezésre állnak."
       ],
       "cav": "",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/01/vitezy-david-budapest-belgrad-vasut/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-1124250278-e1793564631352-1024x590.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/01/vitezy-david-budapest-belgrad-vasut/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-12f70af20787a8b127",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T20:25:31+00:00",
+      "t": "Valaki Tuzson Bence-plakátnak öltözött Halloweenre",
+      "s": "Váratlan értelmet nyert a nagy tavaszi plakátolás.",
+      "p": [
+        "Váratlan értelmet nyert a nagy tavaszi plakátolás."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261101_tuzson-bence-plakat-halloween"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9ef9b529-7933-4006-81ca-1cf0897071fd.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261101_tuzson-bence-plakat-halloween",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-b084d94d6d8a46b809",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T20:06:36+00:00",
+      "t": "A nap legfontosabb hírei – 2026.11.01.",
+      "s": "Mészáros Lőrincék és a nyugdíjrészletek is megjöttek. The post A nap legfontosabb hírei – 2026.11.01. first appeared on 24.hu .",
+      "p": [
+        "Mészáros Lőrincék és a nyugdíjrészletek is megjöttek. The post A nap legfontosabb hírei – 2026.11.01. first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/01/a-nap-legfontosabb-hirei-2026-11-01/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-0757011231-e1793563495588-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/01/a-nap-legfontosabb-hirei-2026-11-01/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-0b22218144f4856f2a",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:49:39+00:00",
+      "t": "Újraindul a Binance, ahonnan 6,3 milliárd dollárnyi betétet loptak el hekkerek",
+      "s": "A cég magára vállalja az ellopott összegek pénzügyi terhét.",
+      "p": [
+        "A cég magára vállalja az ellopott összegek pénzügyi terhét."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/01/ujraindul-a-binance-ahonnan-63-milliard-dollarnyi-betetet-loptak-el-hekkerek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/7uF2KutpmVpN132hMs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/01/ujraindul-a-binance-ahonnan-63-milliard-dollarnyi-betetet-loptak-el-hekkerek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-2f4c3997676807a1ef",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:43:01+00:00",
+      "t": "Michael Mann véletlenül lábon lőtte saját magát",
+      "s": "Egy lőtéren szenvedett balesetet a rendező, aki egyébként rutinos sportlövő.",
+      "p": [
+        "Egy lőtéren szenvedett balesetet a rendező, aki egyébként rutinos sportlövő."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/kultura/20261101_michael-mann-baleset-loter"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/45d8783f-ee87-4994-9edf-fd27978982f8.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kultura/20261101_michael-mann-baleset-loter",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-6331d1a157374a85f4",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:34:41+00:00",
+      "t": "Hátrányból fordítva nyert az Újpest a Nyíregyháza ellen az OTP Bank Ligában",
+      "s": "Az Újpest labdarúgócsapata a 12. forduló zárómérkőzésén 2-1-re győzött a Nyíregyháza Spartacus otthonában, így továbbra is veretlen hazai pályán a Szusza Ferenc Stadionban az idei szezonban.",
+      "p": [
+        "Az OTP Bank Liga 12. fordulójának vasárnapi mérkőzésén az Újpest a Szusza Ferenc Stadionban fogadta a Nyíregyháza Spartacust. A találkozó során a vendégek szerezték meg a vezetést, ám a hazai csapat a második félidőben fordítani tudott, és végül 2-1-es győzelmet aratott.",
+        "A mérkőzés elején az Újpest dominált a mezőnyben, azonban a helyzetek kialakításával nehézségekbe ütközött. A Nyíregyháza ezzel szemben veszélyesebbnek bizonyult, különösen fejjel, Marko Kvasina révén. A vendégek az első félidő közepén szereztek vezetést Katona Bálint góljával, amelyet a VAR-ellenőrzés után érvényesnek ítéltek, annak ellenére, hogy az asszisztens előzetesen lest jelzett.",
+        "Az Újpest azonban nem hagyta magát, és a szünet előtt Krajcsovics Ábel egy szép ívelt lövéssel egyenlített, így 1-1-es állással vonultak pihenőre a csapatok. Ez a találat megadta a lila-fehérek lendületét a második félidőre.",
+        "A fordulás után az Újpest továbbra is aktívabban játszott, és több helyzetet is kialakított, ám a Nyíregyháza kapusa, Dala Martin több bravúrt is bemutatott, megakadályozva a hazaiak vezető gólját. A vendégek védelme is többször hatékonyan avatkozott közbe, így a mérkőzés továbbra is nyitott maradt.",
+        "A vezetést végül az Újpest szerezte meg a második félidő közepén egy szerencsés góllal. Aljosa Matko lövése a kapufáról pattant vissza, majd a védő Rocco Zikovic fejéről Etienne Amenyido elé került, aki ollózó mozdulattal talált a hálóba. Ez a találat döntötte el a mérkőzést a hazaiak javára.",
+        "A hátralévő időben az Újpest továbbra is támadott, de a Nyíregyháza kapusa és védői több ígéretes próbálkozást is hárítottak. A mérkőzés legnagyobb védését azonban az újpesti kapus, Szappanos Péter mutatta be a hosszabbításban, amikor a bal kapufa tövénél a gólvonalról ütötte ki a labdát, megőrizve ezzel a hazai vezetést.",
+        "Ezzel a győzelemmel az Újpest továbbra is veretlen maradt hazai pályán az idei szezonban, ahol eddig csak egyszer, 1980-ban szenvedett vereséget a Nyíregyháza ellen. A lila-fehérek az OTP Bank Liga 12. fordulójában negyedszer is fordítani tudtak hazai mérkőzésükön, és továbbra is erősnek bizonyulnak a Szusza Ferenc Stadionban.",
+        "A Nyíregyháza Spartacus számára a mérkőzés különösen megterhelő volt, hiszen az elmúlt hét napban mintegy 1300 kilométert utaztak három idegenbeli találkozóra, Felcsútra, Putnokra és Budapestre, ami vélhetően befolyásolta a csapat teljesítményét a fővárosban."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/01/ujpest-nyiregyhaza-labdarugo-nb-i/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/amenyido-1024x576.png",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/11/01/ujpest-nyiregyhaza-labdarugo-nb-i/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-ce63f31cba6eaa2eb3",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:34:27+00:00",
+      "t": "Ellopták egy magyar nő kerekesszékét a malagai repülőtéren, a spanyol rendőrség nyomoz",
+      "s": "Egy magyar nő több mint egymillió forint értékű, újonnan készült kerekesszékét lopták el a malagai repülőtéren. Az eset miatt a spanyol rendőrség nyomoz, a légitársaságtól pedig kártérítést vár a sértett családja.",
+      "p": [
+        "Lakatos Emese, aki a Wizz Air budapesti félmaratonján nyert egy utazási kupont, családjával utazott Spanyolországba, amikor a malagai repülőtéren eltűnt a több mint egymillió forint értékű kerekesszéke. A 30 éves nő öt évig várta az új, speciális, kézi hajtású handbike-ként is használható kerekesszéket, amely mindössze két héttel az utazás előtt készült el.",
+        "Az eset különösen súlyos, mert a gépen nem tartózkodott más kerekesszékes utas, így kizárták, hogy a szék összecserélődött volna valaki mással. A család szerint a repülőtéri dolgozók nem tudtak érdemi segítséget nyújtani, csupán annyit ígértek, hogy értesítik őket, ha megtalálják a kerekesszéket.",
+        "A nő édesanyja elmondása szerint egy spanyol reptéri alkalmazott tanúja volt annak, hogy valaki a kerekesszékben ült, majd kísérőjével sietve távozott a repülőtérről. Ez az információ arra utal, hogy a lopás nem véletlen vagy figyelmetlenség következménye, hanem szándékos cselekmény lehetett.",
+        "Az eltűnést a család azonnal bejelentette a spanyol rendőrségen, amely jelenleg is nyomoz az ügyben. A kerekesszék azonban a bejelentés óta sem került elő, és a légitársaságtól sem érkezett kártérítés a család részére.",
+        "A Wizz Air közleményében azt állította, hogy a biztonsági kamerák felvételei szerint a kerekesszéket a repülőgép ajtajához szállították, és onnan tűnhetett el, vélhetően más utasok által. Ez a magyarázat azonban nem nyugtatja meg a sértettet és családját, akik szerint a légitársaság felelőssége is felmerül az eset kapcsán.",
+        "Lakatos Emese a kerekesszék hiányában a reptéren kapott kölcsön egy másik szék segítségével tudott közlekedni Spanyolországban, ami azonban nem pótolja az elveszett, személyre szabott eszközt, amelyet hosszú idő alatt készítettek el számára.",
+        "Az eset rávilágít arra, hogy a repülőtereken és légitársaságoknál milyen fontos a mozgáskorlátozott utasok eszközeinek biztonságos kezelése és védelme. A család kártérítést vár a Wizz Airtől, miközben a spanyol hatóságok továbbra is vizsgálják az ügyet."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261101_repuloter-kerekesszek-lopas"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/kulfold/2026/11/01/malaga-kerekesszek-lopas-wizzair/"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/74d97b28-e44b-46ff-b1f6-e55097d33a20.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261101_repuloter-kerekesszek-lopas",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-3b7083c78d89d06209",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:23:11+00:00",
+      "t": "Gázolt a vonat Budaörsön",
+      "s": "Négyszázan utaztak a vonaton.",
+      "p": [
+        "Négyszázan utaztak a vonaton."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261101_gazolt-a-vonat-budaorson"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fbc8e8bb-baa4-4734-8b27-97e0063c8d7b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261101_gazolt-a-vonat-budaorson",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-ce67e9e045fbaa09d0",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:11:13+00:00",
+      "t": "Korábban képtelenségnek hitték: miniszerveket és tumoravatárokat növeszt a sejtkutatás úttörője",
+      "s": "Meritxell Huch sejtbiológus tagja volt annak a kutatócsoportnak, amely a világon elsőként hozott létre „miniatűr szerveket” laboratóriumban. Egészen addig a tudóstársadalom azt hitte, az ilyesmi teljes képtelenség. The post Korábban képtelenségnek hitték: miniszerveket és tumoravatárokat növeszt a sejtkutatás úttörője first appeared on 24.hu .",
+      "p": [
+        "Meritxell Huch sejtbiológus tagja volt annak a kutatócsoportnak, amely a világon elsőként hozott létre „miniatűr szerveket” laboratóriumban. Egészen addig a tudóstársadalom azt hitte, az ilyesmi teljes képtelenség. The post Korábban képtelenségnek hitték: miniszerveket és tumoravatárokat növeszt a sejtkutatás úttörője first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/tudomany/2026/11/01/meritxell-huch-interju-organoidok-miniszervek-24extra/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/central-1142941748-masolat-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/tudomany/2026/11/01/meritxell-huch-interju-organoidok-miniszervek-24extra/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-f15e870569085e0dcb",
+      "r": "Külföld",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:09:40+00:00",
+      "t": "Orbán Anita: Az elmúlt harminc évben nem volt példa olyan találkozókra, amik most történtek",
+      "s": "Szijjártónak négy évébe telt, hogy fogadja az amerikai külügyminiszter. The post Orbán Anita: Az elmúlt harminc évben nem volt példa olyan találkozókra, amik most történtek first appeared on 24.hu .",
+      "p": [
+        "Szijjártónak négy évébe telt, hogy fogadja az amerikai külügyminiszter. The post Orbán Anita: Az elmúlt harminc évben nem volt példa olyan találkozókra, amik most történtek first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/01/orban-anita-marco-rubio-usa-talalkozo/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-1122066403-e1793560165296-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/01/orban-anita-marco-rubio-usa-talalkozo/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-c337d7b10d4fe30b4f",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:05:25+00:00",
+      "t": "Kimész a domboldalra, kitermelsz magadnak vályogot, elkészíted az otthonod",
+      "s": "Elegük lett a városi létből, a Nógrád megyei Béren az otthonukat is maguknak készítik el, „mint a madarak”.",
+      "p": [
+        "Elegük lett a városi létből, a Nógrád megyei Béren az otthonukat is maguknak készítik el, „mint a madarak”."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/01/kimesz-a-domboldalra-kitermelsz-magadnak-valyogot-elkeszited-az-otthonod?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PDIaDXl2aVYUyHQs.webp",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/01/kimesz-a-domboldalra-kitermelsz-magadnak-valyogot-elkeszited-az-otthonod?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-f6c5dc878da157acd8",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T19:01:12+00:00",
+      "t": "Vitézy elismerte, túl optimista volt, amikor októberi indulást ígért a Budapest–Belgrád vonalra",
+      "s": "Megkérdezték a minisztert, miért nincs még mindig forgalom a Budapest–Belgrád vasúton, ha azt októberre ígérte.",
+      "p": [
+        "Megkérdezték a minisztert, miért nincs még mindig forgalom a Budapest–Belgrád vasúton, ha azt októberre ígérte."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/kkv/20261101_vitezy-david-budapest-belgrad-vasut-indulas"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/206be1b0-93c0-401b-9581-90db26b698e8.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kkv/20261101_vitezy-david-budapest-belgrad-vasut-indulas",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-8691eaf77d640faf8b",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:47:38+00:00",
+      "t": "Michael Mann véletlenül lábon lőtte magát",
+      "s": "A filmrendezőt kórházba szállították, de hamarosan hazaengedik.",
+      "p": [
+        "A filmrendezőt kórházba szállították, de hamarosan hazaengedik."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/01/michael-mann-veletlenul-labon-lotte-magat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PWRQxWmEa9P1JLsGs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/01/michael-mann-veletlenul-labon-lotte-magat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-f88d187c3b11c274d5",
+      "r": "Külföld",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:32:54+00:00",
+      "t": "Márki-Zay Péter, Iványi Gábor és az ukrán elnöki hivatal vezetője is részt vett a kijevi Nagy Imre-szobor avatásán",
+      "s": "Legközelebb Vaszil Sztusz ukrán költőnek állítanak szobrot Budapesten.",
+      "p": [
+        "Legközelebb Vaszil Sztusz ukrán költőnek állítanak szobrot Budapesten."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/01/marki-zay-peter-ivanyi-gabor-es-az-ukran-elnoki-hivatal-vezetoje-is-reszt-vett-a-kijevi-nagy-imre-szobor-avatasan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PWQNvLinPWsOCG8s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/01/marki-zay-peter-ivanyi-gabor-es-az-ukran-elnoki-hivatal-vezetoje-is-reszt-vett-a-kijevi-nagy-imre-szobor-avatasan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-04bba1e432bf21c179",
+      "r": "Belpolitika",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:31:07+00:00",
+      "t": "Le kell írniuk az MTI élére pályázóknak, hogyan állnának ellen a politikai nyomásnak",
+      "s": "Kiírták a pályázatot az MTI vezérigazgatói posztjára.",
+      "p": [
+        "Kiírták a pályázatot az MTI vezérigazgatói posztjára."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261101_palyazat-mti-vezerigazgato-kozmedia"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6f5e19e8-dc72-4111-b63b-1eec8db89047.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261101_palyazat-mti-vezerigazgato-kozmedia",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-81483baf0799ac92ce",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:27:00+00:00",
+      "t": "„Gyakran a nulla nyelvtudással induló tanulóink használják a legmagasabb szinten az angolt” – kinek való a két tanítási nyelvű iskola?",
+      "s": "A két tanítási nyelvű oktatás nemcsak a magabiztos nyelvtudásról szól, hanem egy másfajta tanulási és gondolkodási szemléletet is ad a diákoknak – véli Tóthmátyásné Zuggó Tünde, a Pasaréti Szabó Lőrinc Magyar–Angol Két Tanítási Nyelvű Általános Iskola és Gimnázium igazgatója.",
+      "p": [
+        "A két tanítási nyelvű oktatás nemcsak a magabiztos nyelvtudásról szól, hanem egy másfajta tanulási és gondolkodási szemléletet is ad a diákoknak – véli Tóthmátyásné Zuggó Tünde, a Pasaréti Szabó Lőrinc Magyar–Angol Két Tanítási Nyelvű Általános Iskola és Gimnázium igazgatója."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/360/20261101_ket-tanitasi-nyelvu-iskola-pasareti-szabo-lorinc-interju"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/bf5f72ee-715b-4654-9bb6-2bc5d069f5ec.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/360/20261101_ket-tanitasi-nyelvu-iskola-pasareti-szabo-lorinc-interju",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-fcdc411fd9bd3b743c",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:26:54+00:00",
+      "t": "Szoboszlai csereként tért vissza, otthon veszített rangadót a Liverpool",
+      "s": "Egy korai védelmi hibát kihasználva nyert az Anfielden az Arsenal. The post Szoboszlai csereként tért vissza, otthon veszített rangadót a Liverpool first appeared on 24.hu .",
+      "p": [
+        "Egy korai védelmi hibát kihasználva nyert az Anfielden az Arsenal. The post Szoboszlai csereként tért vissza, otthon veszített rangadót a Liverpool first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/01/liverpool-arsenal-szoboszlai-dominik-visszatert/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/szoboszlai-arsenal-gettyimages-2303009813-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/11/01/liverpool-arsenal-szoboszlai-dominik-visszatert/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-9a59978b2d006a0d5d",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:21:47+00:00",
+      "t": "Belekötöttek Zugló polgármesterébe az Örs vezér téri aluljáróban, betemetné az egészet",
+      "s": "Pokoli állapotok a föld alatti kerülethatáron.",
+      "p": [
+        "Pokoli állapotok a föld alatti kerülethatáron."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261101_belekotottek-zuglo-polgarmesterebe-az-ors-vezer-teri-aluljaroban-betemetne-az-egeszet"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1e5b972b-f3d2-4cb8-a6ee-60e2d5d61a4f.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261101_belekotottek-zuglo-polgarmesterebe-az-ors-vezer-teri-aluljaroban-betemetne-az-egeszet",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-71109758aff1ee246d",
+      "r": "Kultúra",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:15:00+00:00",
+      "t": "Miért van mindenki oda Grönlandért?",
+      "s": "Az Egyesült Államok és Dánia közelmúltbeli civódása, majd megállapodása ismét reflektorfénybe helyezte Grönlandot, amelyért stratégiai fekvése és ásványkincsei miatt versengenek a nagyhatalmak. Szerkesztett részlet Elizabeth Buchanan ausztrál geopolitikai szakértő Foglaljuk el Grönlandot! című könyvéből.",
+      "p": [
+        "Az Egyesült Államok és Dánia közelmúltbeli civódása, majd megállapodása ismét reflektorfénybe helyezte Grönlandot, amelyért stratégiai fekvése és ásványkincsei miatt versengenek a nagyhatalmak. Szerkesztett részlet Elizabeth Buchanan ausztrál geopolitikai szakértő Foglaljuk el Grönlandot! című könyvéből."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/hvgkonyvek/20261101_miert-van-mindenki-oda-gronlandert"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2c0e1dfe-a879-40d8-b65b-bac2959543a4.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/hvgkonyvek/20261101_miert-van-mindenki-oda-gronlandert",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-e49db4eb4cf30790b5",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:12:45+00:00",
+      "t": "Elgázolt egy embert a vonat Budaörsnél",
+      "s": "400-an utaztak a szerelvényen. The post Elgázolt egy embert a vonat Budaörsnél first appeared on 24.hu .",
+      "p": [
+        "400-an utaztak a szerelvényen. The post Elgázolt egy embert a vonat Budaörsnél first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/01/budaors-vonat-gazolas-baleset/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-1065674275-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/01/budaors-vonat-gazolas-baleset/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-b43cade53b896d273d",
+      "r": "Kultúra",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 1.",
+      "published_at": "2026-11-01T18:03:15+00:00",
+      "t": "Tíz nappal a forgatás előtt egyetlen emaillel állították le Molnár Áronék filmjét, most mégis megcsinálnák",
+      "s": "A magyar filmgyártó cé az utolsó pillanatban lépett le. Most a közönség segítségét kérik, hogy a Becsapódás elkészülhessen. The post Tíz nappal a forgatás előtt egyetlen emaillel állították le Molnár Áronék filmjét, most mégis megcsinálnák first appeared on 24.hu .",
+      "p": [
+        "A magyar filmgyártó cé az utolsó pillanatban lépett le. Most a közönség segítségét kérik, hogy a Becsapódás elkészülhessen. The post Tíz nappal a forgatás előtt egyetlen emaillel állították le Molnár Áronék filmjét, most mégis megcsinálnák first appeared on 24.hu ."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
       "src": [
         [
@@ -38,8 +631,7 @@
       "img": "https://s.24.hu/app/uploads/2026/11/central-1039622848-e1793554731880-1024x576.jpg",
       "imgs": "24.hu",
       "imgl": "https://24.hu/kultura/2026/11/01/loupe-tarsulas-molnar-aron-becsapodas-film/",
-      "cred": "Kép: 24.hu – eredeti cikk",
-      "ai_edited": true
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-6d01c0a2556fe30b76",
@@ -75,7 +667,7 @@
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:52:15+00:00",
-      "t": "Az M0-áson és az M7-esen is burkolatot javítanak hétfőtől",
+      "t": "Az M0-son és az M7-esen is burkolatot javítanak hétfőtől",
       "s": "Érdemes hosszabb menetidővel tervezni.",
       "p": [
         "Érdemes hosszabb menetidővel tervezni."
@@ -96,24 +688,17 @@
     {
       "id": "rss-a1ad82b41c8a9c5ff6",
       "r": "Közélet",
-      "c": "Hírpult",
+      "c": "HVG",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:51:01+00:00",
-      "t": "Újraindította a Binance a kifizetéseket a történelmi hackertámadás után",
-      "s": "A világ legnagyobb kriptotőzsdéje, a Binance fokozatosan helyreállítja a kifizetési szolgáltatásait, miután egy eddig példátlan méretű hackertámadás során több mint 6 milliárd dollár értékű kriptovalutát loptak el. A cég vállalta, hogy a veszteségeket nem a felhasználókra hárítja, és a biztonsági ellenőrzések befejezése után folytatja a szolgáltatások visszaállítását.",
+      "t": "Újraindította a Binance a kifizetéseket a gigantikus hackertámadás után",
+      "s": "Ismét lehet használni a világ legnagyobb kriptotőzsdéjét, bár némi akadozásra még érdemes felkészülni.",
       "p": [
-        "A Binance, a világ legnagyobb kriptotőzsdéje, a múlt héten súlyos biztonsági incidens áldozata lett, amikor hackerek több mint 6,3 milliárd dollár értékű kriptovalutát tulajdonítottak el a platformról. Ez az összeg átszámítva mintegy 2060 milliárd forintnak felel meg, és a kriptovaluta-piac történetének egyik legnagyobb lopásaként tartják számon.",
-        "A támadás következtében a Binance pénteken leállította a kifizetési szolgáltatásait, hogy megakadályozza a további károkat és megkezdje a helyreállítási folyamatot. A cég közleménye szerint a biztonsági szakértők azonnal megkezdték az incidens kivizsgálását és a rendszer megerősítését.",
-        "Vasárnap délután, közép-európai idő szerint, a Binance bejelentette, hogy fokozatosan újraindítja a kifizetéseket. Elsőként tizenöt kriptovaluta, köztük a Bitcoin, az Ethereum és a Solana tranzakciói váltak ismét elérhetővé. A cég azonban figyelmeztetett, hogy a rendszer működése még nem teljesen zökkenőmentes, és egyes felhasználók lassabb válaszidőkre számíthatnak.",
-        "A Binance vezetése hangsúlyozta, hogy a hackertámadásból eredő veszteségeket a vállalat saját tartalékai és biztosítási alapja fedezi, így a felhasználók nem szenvednek anyagi kárt. A cég egy mintegy egymilliárd dolláros bitcoin-tartalékalapot is mozgósít a kárpótlás érdekében, biztosítva, hogy minden érintett ügyfél visszakapja a pénzét.",
-        "Az FBI szombaton közölte, hogy a támadás mögött egy észak-koreai hackercsoport állhat, amelyet a világ egyik legnagyobb és legösszetettebb bankrablásaként tartanak számon. A hatóságok jelenleg is nyomoznak az ügyben, és igyekeznek feltárni a támadás részleteit és a felelősök kilétét.",
-        "A Binance lépései és a gyors reagálás jelentős bizalmat kelthet a kriptovaluta-piac szereplőiben, különösen egy ilyen súlyos incidens után. A cég elkötelezett amellett, hogy megerősítse biztonsági protokolljait, és megakadályozza a hasonló esetek jövőbeni előfordulását.",
-        "A kriptotőzsde felhasználói számára fontos, hogy továbbra is figyelemmel kísérjék a hivatalos közleményeket, mivel a kifizetések teljes körű helyreállítása fokozatosan történik, és a rendszer még átmenetileg instabil lehet.",
-        "Ez az eset ismét ráirányítja a figyelmet a kriptovaluták biztonsági kihívásaira, és arra, hogy a digitális pénzek kezelése során milyen fontos a megbízható és biztonságos infrastruktúra fenntartása."
+        "Ismét lehet használni a világ legnagyobb kriptotőzsdéjét, bár némi akadozásra még érdemes felkészülni."
       ],
-      "cav": "",
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
       "src": [
         [
@@ -124,8 +709,7 @@
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a06faa40-5c78-4543-b865-0397852f1e5c.jpg",
       "imgs": "HVG",
       "imgl": "https://hvg.hu/kkv/20261101_binance-hacker-tamadas-ujraindulas-kripto-tozsde",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
+      "cred": "Kép: HVG – eredeti cikk"
     },
     {
       "id": "rss-1687a47ba72c08c4e3",
@@ -156,23 +740,17 @@
     {
       "id": "rss-5ebddb960c165f9b72",
       "r": "Sport",
-      "c": "Hírpult",
+      "c": "24.hu",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 1.",
       "published_at": "2026-11-01T17:39:30+00:00",
-      "t": "Mbappé vezérletével magabiztosan nyert a Real Madrid a Racing Santander otthonában",
-      "s": "A Real Madrid 3-0-ra győzött a Racing Santander vendégeként a spanyol labdarúgó-bajnokság 11. fordulójában, ezzel továbbra is szorosan követi a tabella élén álló Barcelonát és Atlético Madridot.",
+      "t": "Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját",
+      "s": "A Real Madrid idegenben győzte le a Racing Santandert, így tapad a Barcelona, Atlético kettősre. The post Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját first appeared on 24.hu .",
       "p": [
-        "A spanyol LaLiga 11. fordulójában a Real Madrid idegenben lépett pályára a Racing Santander ellen, amely a 2012-es találkozójuk óta először fogadta ismét a királyi gárdát a bajnokságban. A mérkőzésen a vendégek már az első félidőben eldöntötték a három pont sorsát, 3-0-s előnnyel vonulhattak szünetre.",
-        "A mérkőzés első gólját a 11. percben Kylian Mbappé szerezte egy tizenegyesből. A francia csatár ezzel tovább növelte lenyűgöző statisztikáját, hiszen a spanyol bajnokságban eddig 24 különböző csapat ellen talált be, összesen 68 gólt jegyezve. Ez a teljesítmény kiemelkedő a ligában szereplő támadók között.",
-        "Nem sokkal az első találat után Jude Bellingham is beköszönt, aki a félpályáról indult meg, majd cselezte át a hazai kapust, és biztosan helyezte a labdát a hálóba. Ez a gól tovább növelte a Real Madrid fölényét, amelyet a 36. percben Yan Diomande bombagólja tett teljessé, aki a tizenhatos vonalán kívülről lőtt a kapuba.",
-        "Ez volt az első alkalom 2024 májusa óta, hogy a Real Madrid egy idegenbeli bajnokin legalább három gólt szerzett, ami jelzi a csapat támadójátékának erősödését és hatékonyságát. A hazaiak számára ez volt az idénybeli első vereségük hazai pályán, amely komoly érvágás a Racing Santander számára.",
-        "A második félidő már kevesebb izgalmat hozott, a Real Madrid inkább az eredmény megtartására törekedett. Bellinghamnek volt egy les miatt érvénytelenített találata, míg Mbappé egyszer a kapufát találta el, de ezek nem változtattak a végeredményen. A csapat stabil védekezéssel és kontrollált játékkal őrizte meg előnyét a mérkőzés végéig.",
-        "A győzelemnek köszönhetően José Mourinho irányítása alatt álló Real Madrid továbbra is szorosan tapad a tabella élén álló Barcelonára, amely mögött három pont a különbség. Az Atlético Madrid mögött pedig mindössze egy pont a hátrányuk, így a bajnoki címért folytatott verseny rendkívül szorosnak ígérkezik a szezon további részében.",
-        "Összességében a Real Madrid magabiztos és hatékony játékkal rukkolt elő a Racing Santander otthonában, amely megerősítette a csapat helyét a bajnokság élmezőnyében, és jó alapot teremtett a további sikerekhez."
+        "A Real Madrid idegenben győzte le a Racing Santandert, így tapad a Barcelona, Atlético kettősre. The post Mbappé gólja indította be a Realt, Mourinho csapata már az első félidőben lerendezte a bajnokiját first appeared on 24.hu ."
       ],
-      "cav": "",
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
       "src": [
         [
@@ -183,8 +761,7 @@
       "img": "https://s.24.hu/app/uploads/2026/11/kylian-mbappe-gettyimages-2302993916-1024x576.jpg",
       "imgs": "24.hu",
       "imgl": "https://24.hu/sport/foci/2026/11/01/rxaing-real-madrid-kylian-mbappe-yan-diomande-bombagol/",
-      "cred": "Kép: 24.hu – eredeti cikk",
-      "ai_edited": true
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-4d32fd3b9e8b331c19",
@@ -289,110 +866,6 @@
       "imgs": "Telex",
       "imgl": "https://telex.hu/zacc/2026/11/01/mariah-carey-visszaszamolas-karacsony",
       "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-a3ce7d6d1208e0b7e8",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T17:14:10+00:00",
-      "t": "Öt tinédzsert késeltek meg egy Halloween-buliban Angliában",
-      "s": "A rendőrség jelenleg is keresi az elkövetőket. The post Öt tinédzsert késeltek meg egy Halloween-buliban Angliában first appeared on 24.hu .",
-      "p": [
-        "A rendőrség jelenleg is keresi az elkövetőket. The post Öt tinédzsert késeltek meg egy Halloween-buliban Angliában first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kulfold/2026/11/01/keseles-halloween-anglia-tinedzserek/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/000_ge9wv-e1793552588124-1024x575.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kulfold/2026/11/01/keseles-halloween-anglia-tinedzserek/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-4777dcd02448a3417a",
-      "r": "Kultúra",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T17:11:55+00:00",
-      "t": "Mi köze egy rózsaszín rajzfilmkutyának Az ördögűzőhöz és miért van ennyi hegymászós film mostanában?",
-      "s": "Új részhez érkezett szubjektív film- és sorozatajánlónk: túlteng a streaming a hegymászós filmektől, de a nosztalgiafaktor is igen erős a hónapban. The post Mi köze egy rózsaszín rajzfilmkutyának Az ördögűzőhöz és miért van ennyi hegymászós film mostanában? first appeared on 24.hu .",
-      "p": [
-        "Új részhez érkezett szubjektív film- és sorozatajánlónk: túlteng a streaming a hegymászós filmektől, de a nosztalgiafaktor is igen erős a hónapban. The post Mi köze egy rózsaszín rajzfilmkutyának Az ördögűzőhöz és miért van ennyi hegymászós film mostanában? first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kultura/2026/11/01/kepernyoido-streaming-ajanlo-filmek-sorozatok/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/ill24_kepernyoido_1028-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kultura/2026/11/01/kepernyoido-streaming-ajanlo-filmek-sorozatok/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-bc6e2c9518194830ba",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T17:08:06+00:00",
-      "t": "Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát",
-      "s": "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu .",
-      "p": [
-        "Szpottolták a Mészáros-klánt Ferihegyen. The post Ferihegyen fotózták le a magángépükből kiszálló Mészáros Lőrincet és Várkonyi Andreát first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/01/dubaj-magangep-meszaros-lorinc-varkonyi-andrea-ferihegy/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/central-0801620667-e1793552821991-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/01/dubaj-magangep-meszaros-lorinc-varkonyi-andrea-ferihegy/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-44d0a15e997983a78a",
-      "r": "Sport",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T17:06:58+00:00",
-      "t": "A Fradi a Paksot verte, a hajrában bukott el otthon a Felcsút a Loki ellen",
-      "s": "A címvédő ETO zárja az élen a fordulót, miután kikapott a Puskás Akadémia. The post A Fradi a Paksot verte, a hajrában bukott el otthon a Felcsút a Loki ellen first appeared on 24.hu .",
-      "p": [
-        "A címvédő ETO zárja az élen a fordulót, miután kikapott a Puskás Akadémia. The post A Fradi a Paksot verte, a hajrában bukott el otthon a Felcsút a Loki ellen first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/sport/foci/2026/11/01/labdarugo-nb-i-ferencvaros-paks-felcsut-debrecen/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/yusuf-d__yt20261101003-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/sport/foci/2026/11/01/labdarugo-nb-i-ferencvaros-paks-felcsut-debrecen/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-ac71ce71e36254a6f7",
@@ -603,32 +1076,6 @@
       "cred": "Kép: 444 – eredeti cikk"
     },
     {
-      "id": "rss-6961b7b0b0aa5cb9db",
-      "r": "Külföld",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T16:12:34+00:00",
-      "t": "Donald Trump saját magának öltözött a Mar-a-Lago-i Halloween-partyn",
-      "s": "Népszerűtlen jelmezt választott. The post Donald Trump saját magának öltözött a Mar-a-Lago-i Halloween-partyn first appeared on 24.hu .",
-      "p": [
-        "Népszerűtlen jelmezt választott. The post Donald Trump saját magának öltözött a Mar-a-Lago-i Halloween-partyn first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kulfold/2026/11/01/donald-trump-halloween-party-jelmez/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/67a93c82-44f9-4c93-b45e-36ca95b1cbca-e1793549466910-1024x577.jpeg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kulfold/2026/11/01/donald-trump-halloween-party-jelmez/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-3f3e45e42ca5ccc662",
       "r": "Külföld",
       "c": "HVG",
@@ -707,32 +1154,6 @@
       "cred": ""
     },
     {
-      "id": "rss-1795b3879386d147a6",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T16:01:41+00:00",
-      "t": "Kigyulladt egy szeméttelep Kecskeméten",
-      "s": "Ezer négyzetméteren ég a tűz. The post Kigyulladt egy szeméttelep Kecskeméten first appeared on 24.hu .",
-      "p": [
-        "Ezer négyzetméteren ég a tűz. The post Kigyulladt egy szeméttelep Kecskeméten first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/01/kigyulladt-egy-szemettelep-kecskemeten/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-0803252762-4-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/01/kigyulladt-egy-szemettelep-kecskemeten/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
       "id": "rss-553a539bfe2a3fe142",
       "r": "Közélet",
       "c": "HVG",
@@ -757,58 +1178,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/elet/20261101_olaszorszag-napoly-utazas-repuloter-lezaras-felujitas",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-5f28a72ba3e009530e",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T16:00:35+00:00",
-      "t": "Papp László Tamás: Az ügynök nem kuriózum, nem rémisztő szörny, hanem nagyon is átlagember",
-      "s": "Meggyőződéses kommunistaként teljes mértékben egyetértettem a diktatúra céljaival, beleértve a titkosszolgálatainak működését is. The post Papp László Tamás: Az ügynök nem kuriózum, nem rémisztő szörny, hanem nagyon is átlagember first appeared on 24.hu .",
-      "p": [
-        "Meggyőződéses kommunistaként teljes mértékben egyetértettem a diktatúra céljaival, beleértve a titkosszolgálatainak működését is. The post Papp László Tamás: Az ügynök nem kuriózum, nem rémisztő szörny, hanem nagyon is átlagember first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/01/papp-laszlo-tamas-az-ugynok-nem-kuriozum-nem-remiszto-szorny-hanem-nagyon-is-atlagember/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/dszzs20260929026_kiemelt-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/01/papp-laszlo-tamas-az-ugynok-nem-kuriozum-nem-remiszto-szorny-hanem-nagyon-is-atlagember/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-d137ccaf8b58742643",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T15:44:08+00:00",
-      "t": "A britek több mint fele újra csatlakozna az EU-hoz",
-      "s": "Májushoz képest emelkedett az EU-csatlakozás híveinek aránya. The post A britek több mint fele újra csatlakozna az EU-hoz first appeared on 24.hu .",
-      "p": [
-        "Májushoz képest emelkedett az EU-csatlakozás híveinek aránya. The post A britek több mint fele újra csatlakozna az EU-hoz first appeared on 24.hu ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/kulfold/2026/11/01/nagy-britannia-europai-unio-csatlakozas/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/075_szymanowicz-protesta250129_npriz-e1793547723382-1024x575.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kulfold/2026/11/01/nagy-britannia-europai-unio-csatlakozas/",
-      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-d266feee1d9b2cc01a",
@@ -1199,396 +1568,6 @@
       "imgs": "Telex",
       "imgl": "https://telex.hu/kulfold/2026/11/01/a-varos-ahova-senki-sem-fog-repulni-novemberben-napoly",
       "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-77db733bea980cb87a",
-      "r": "Közélet",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T14:05:09+00:00",
-      "t": "Négy ukrán régiót ért orosz légicsapás, több százezer ember maradt áram nélkül",
-      "s": "Az ukránok egy Nyizsnyij Novgorod térségében található ipari létesítményre csaptak le.",
-      "p": [
-        "Az ukránok egy Nyizsnyij Novgorod térségében található ipari létesítményre csaptak le."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/kulfold/2026/11/01/ukrajna-oroszorszag-haboru-legicsapas-dronok"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793541709-temp-d2latm0o2o75fnocjlg_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/kulfold/2026/11/01/ukrajna-oroszorszag-haboru-legicsapas-dronok",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-0c23591689316491f0",
-      "r": "Külföld",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:44:46+00:00",
-      "t": "A putyinista Milorad Dodikot is meghívták Trump rezidenciájára",
-      "s": "A MAGA-mozgalom félidős választás utáni eseményére.",
-      "p": [
-        "A MAGA-mozgalom félidős választás utáni eseményére."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/01/a-putyinista-milorad-dodikot-is-meghivtak-trump-rezidenciajara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8EamFg0WvmqvW4LJs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/01/a-putyinista-milorad-dodikot-is-meghivtak-trump-rezidenciajara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-b99ac411170dfcee85",
-      "r": "Közélet",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:28:45+00:00",
-      "t": "Radnai Márk: Munkacsoportot hoznak létre a Palatinus-tó megmentésére",
-      "s": "A Tisza párt alelnöke szerint harmincöt településről érkeztek hozzászólások a tó ügyében indított egyeztetés során.",
-      "p": [
-        "A Tisza párt alelnöke szerint harmincöt településről érkeztek hozzászólások a tó ügyében indított egyeztetés során."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/belfold/2026/11/01/palatinos-to-vizszint-radnai-mark-komarom-esztergom-megye-dorog"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793539611-temp-q1153q7p3c8p3denhho_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/01/palatinos-to-vizszint-radnai-mark-komarom-esztergom-megye-dorog",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-c98fedc683e14c38c6",
-      "r": "Külföld",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:27:53+00:00",
-      "t": "A Kreml haszontalannak tartja, hogy Európa részt vegyen a rendezési tárgyalásokon",
-      "s": "Közben az orosz támadások miatt több százezer ember maradt áram nélkül Ukrajnában.",
-      "p": [
-        "Közben az orosz támadások miatt több százezer ember maradt áram nélkül Ukrajnában."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/vilag/20261101_orosz-ukran-haboru-rendezes-europa-dimitrij-peszkov-jurij-usakov-volodimir-zelenszkij"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/21364b3b-3556-4038-8fed-14c345dcb830.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/vilag/20261101_orosz-ukran-haboru-rendezes-europa-dimitrij-peszkov-jurij-usakov-volodimir-zelenszkij",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-95dd5ea5af34cbd983",
-      "r": "Külföld",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:23:31+00:00",
-      "t": "Trump az Egyesült Államokba menekült Flávio Bolsonaroról: Addig maradhat itt, ameddig csak akar",
-      "s": "Marco Rubio mindeközben szombaton arról beszélt, az amerikai kormány nem segített Bolsonaro szökésében.",
-      "p": [
-        "Marco Rubio mindeközben szombaton arról beszélt, az amerikai kormány nem segített Bolsonaro szökésében."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/kulfold/2026/11/01/donald-trump-reakcio-flavio-bolsonaro-tartozkodas-egyesult-allamok"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793537153-temp-d079epimspkefokhbbj_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/kulfold/2026/11/01/donald-trump-reakcio-flavio-bolsonaro-tartozkodas-egyesult-allamok",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-eddcdf57744a35129a",
-      "r": "Kultúra",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:15:31+00:00",
-      "t": "Ben Lerner: Átirat (részlet)",
-      "s": "Az amerikai Ben Lerner regénye a 21. századi lét legfontosabb kérdéseit feszegeti. Olvasson bele!",
-      "p": [
-        "Az amerikai Ben Lerner regénye a 21. századi lét legfontosabb kérdéseit feszegeti. Olvasson bele!"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/karakter/konyvespolc/2026/11/01/ben-lerner-atirat-reszlet"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261028/1793199404-temp-hu8skbbr9qs79okhddi_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/karakter/konyvespolc/2026/11/01/ben-lerner-atirat-reszlet",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-b82268107afd5f9474",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T13:02:24+00:00",
-      "t": "Rappelő polgármester, rockerekkel éneklő asszonykórus, olimpikon szövegíró – itt vannak a legjobb településhimnuszok",
-      "s": "Számos magyar településnek van saját himnusza. Van, amelyiket a helyi kántor írta, másikat rockzenekar dolgozta fel, de olyan is akad, amelyiknek saját emléktáblája is van.",
-      "p": [
-        "Számos magyar településnek van saját himnusza. Van, amelyiket a helyi kántor írta, másikat rockzenekar dolgozta fel, de olyan is akad, amelyiknek saját emléktáblája is van."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/01/rappelo-polgarmester-rockerekkel-eneklo-asszonykorus-olimpikon-szovegiro-itt-vannak-a-legjobb-telepuleshimnuszok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PTTnxXGgLChzwYqs.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/01/rappelo-polgarmester-rockerekkel-eneklo-asszonykorus-olimpikon-szovegiro-itt-vannak-a-legjobb-telepuleshimnuszok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-5bedb25e6dbe93e223",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T12:47:19+00:00",
-      "t": "Hidroplán szállt le a Dunán a Római-partnál",
-      "s": "Nemcsak az ország, de Közép-Európa egyetlen működőképes és aktívan használt hidroplánját többször is láthatták mostanában az óbudaiak.",
-      "p": [
-        "Nemcsak az ország, de Közép-Európa egyetlen működőképes és aktívan használt hidroplánját többször is láthatták mostanában az óbudaiak."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261101_hidroplan-romai-part-repules-oktatas"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/5ea6d14b-eac7-4ef9-b950-03554de28553.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261101_hidroplan-romai-part-repules-oktatas",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-d0fb2310a1b2a6e1f7",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T12:36:58+00:00",
-      "t": "Dúl a cidri: a szezon leghidegebb hajnalán vagyunk túl",
-      "s": "Dúl a cidri: a szezon leghidegebb hajnalán vagyunk túl",
-      "p": [
-        "Dúl a cidri: a szezon leghidegebb hajnalán vagyunk túl"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/01/dul-a-cidri-a-szezon-leghidegebb-hajnalan-vagyunk-tul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/87IKlODtmTCeLNBss.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/01/dul-a-cidri-a-szezon-leghidegebb-hajnalan-vagyunk-tul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-32664c8e7baec038f7",
-      "r": "Közélet",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T12:36:41+00:00",
-      "t": "Az évszázad végére három részre szakadhat a Balaton",
-      "s": "A pesszimista számítás szerint folyamatos vízpótlásra is szükség lesz.",
-      "p": [
-        "A pesszimista számítás szerint folyamatos vízpótlásra is szükség lesz."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/belfold/2026/11/01/balaton-vizszint-vizpotlas-klimavaltozas"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793536441-temp-16bviq1vof435hnnomb_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/01/balaton-vizszint-vizpotlas-klimavaltozas",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-055e673bc8c00bf7f3",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T12:30:11+00:00",
-      "t": "Per vár a McDonald's-ra, mert nem sertésborda van a McRib szendvicsben",
-      "s": "A McDonald's megpróbálta elejét venni a jogi eljárásnak, azzal érvelve, hogy nem elvárható, hogy az legyen egy szendvicsben, amit a reklámok sugallnak.",
-      "p": [
-        "A McDonald's megpróbálta elejét venni a jogi eljárásnak, azzal érvelve, hogy nem elvárható, hogy az legyen egy szendvicsben, amit a reklámok sugallnak."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261101_per-var-az-amerikai-mcdonald-s-ra-mert-nem-sertesborda-van-a-mcrib-szendvicsben"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/75618623-54af-4a5d-97bb-358156d1d207.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261101_per-var-az-amerikai-mcdonald-s-ra-mert-nem-sertesborda-van-a-mcrib-szendvicsben",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-8cabf39a76e74845c0",
-      "r": "Közélet",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T12:27:05+00:00",
-      "t": "Hogy milyen lesz a jövőben Magyarország időjárása? Anatólia klímája egy kiváló előkép",
-      "s": "Mikor fognak a budai lakásokban is hörögni a csapok? Lesznek-e magyar eukaliptuszerdők? Milyen bajokat hoz az aszály és felmelegedés a föld alatt? Interjúnk Nagy Balázzsal, az ELTE Földrajztudományi Központjának vezetőjével.",
-      "p": [
-        "Mikor fognak a budai lakásokban is hörögni a csapok? Lesznek-e magyar eukaliptuszerdők? Milyen bajokat hoz az aszály és felmelegedés a föld alatt? Interjúnk Nagy Balázzsal, az ELTE Földrajztudományi Központjának vezetőjével."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/szepkilatas/2026/11/01/aszaly-duna-talajviz-sivatagosodas-anatolia"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261020/1792489523-temp-9o7ko6mgci1i5dheiln_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/szepkilatas/2026/11/01/aszaly-duna-talajviz-sivatagosodas-anatolia",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-82d31b19047fee952d",
-      "r": "Belpolitika",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T11:58:24+00:00",
-      "t": "Feldúlták a dédnagyapja sírját, de nem haragszik – erről posztolt halottak napja előtt a miniszterelnök",
-      "s": "Azt, hogy pontosan mikor és miért történt mindez, nem lehet tudni.",
-      "p": [
-        "Azt, hogy pontosan mikor és miért történt mindez, nem lehet tudni."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/belfold/2026/11/01/feldultak-magyar-peter-dednagyapjanak-sirjat"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793533307-temp-1r2tbhqpfmfsanmmmpm_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/01/feldultak-magyar-peter-dednagyapjanak-sirjat",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-7a6fff8d3beb624987",
-      "r": "Külföld",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T11:57:54+00:00",
-      "t": "Oroszország szerint jelenleg nem lenne haszna, ha Európa is részt venne az Ukrajnával és az Egyesült Államokkal tervezett tárgyalásokon",
-      "s": "A Kreml szóvivője szerint ehhez Európának először meg kellene változtatnia az Oroszországgal kapcsolatos álláspontját.",
-      "p": [
-        "A Kreml szóvivője szerint ehhez Európának először meg kellene változtatnia az Oroszországgal kapcsolatos álláspontját."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/kulfold/2026/11/01/europa-oroszorszag-ukrajna-beketargyalasok"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261101/1793534188-temp-dfk71nn903h1aapdjil_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/kulfold/2026/11/01/europa-oroszorszag-ukrajna-beketargyalasok",
-      "cred": "Kép: Telex – eredeti cikk"
-    },
-    {
-      "id": "rss-93752960fdfca9e683",
-      "r": "Közélet",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 1.",
-      "published_at": "2026-11-01T11:53:43+00:00",
-      "t": "Orbán Viktor megszakértette a varsói eseményeket",
-      "s": "Kulcsszavak: Brüsszel, baloldal, önkény.",
-      "p": [
-        "Kulcsszavak: Brüsszel, baloldal, önkény."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/01/orban-viktor-megszakertette-a-varsoi-esemenyeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/7WGZkQClE7aynvbws.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/01/orban-viktor-megszakertette-a-varsoi-esemenyeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
     }
   ]
 }

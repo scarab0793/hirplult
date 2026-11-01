@@ -569,6 +569,71 @@
       "imgl": "https://hvg.hu/gazdasag/20261030_165-millio-forint-benko-tibor-honvedelmi-miniszter-budaorsi-haz-szolgalati-lakas-vasarlas",
       "cred": "HVG / Fazekas István",
       "ai_edited": true
+    },
+    {
+      "id": "2027-adotorvenyek-benyujtas-minimalnyugdij",
+      "r": "Gazdaság",
+      "c": "Adó",
+      "w": "",
+      "st": "Megerősített",
+      "time": "okt. 28.",
+      "t": "Jelentős adócsökkentés és nyugdíjemelés jön 2027-ben Magyarországon",
+      "s": "A magyar kormány benyújtotta az Országgyűlésnek a 2027-es adótörvényeket és a minimálnyugdíj emeléséről szóló javaslatot, amely jelentős változásokat hoz a személyi jövedelemadóban, a családi pótlékban és a nyugdíjakban.",
+      "p": [
+        "A 2027-es évre vonatkozó adótörvényeket és a minimálnyugdíj emelését célzó javaslatot a kormány a közelmúltban terjesztette az Országgyűlés elé. A pénzügyminiszter bejelentése szerint a tervezett intézkedések elsősorban a munkavállalók, a nyugdíjasok és a családok anyagi helyzetének javítását célozzák meg, miközben a gazdaság jelentős szereplői nagyobb mértékben járulnak hozzá a közteherhez.",
+        "Az egyik legfontosabb változás a minimálbér személyi jövedelemadójának csökkentése, amely 9 százalékra mérséklődik. Ez a módosítás évente mintegy 240 ezer forinttal növeli a minimálbéren dolgozók nettó jövedelmét. Emellett bevezetnek egy fokozatosan csökkenő adójóváírást havi bruttó 680 ezer forintos jövedelemig, amely körülbelül 2,5 millió embert érint majd Magyarországon.",
+        "A családi pótlék összegének megduplázása szintén része a javaslatcsomagnak, ami jelentős támogatást jelent a gyermekes családok számára. Ez az intézkedés a családok anyagi biztonságát kívánja erősíteni, hozzájárulva a gyermeknevelés költségeinek enyhítéséhez.",
+        "A nyugdíjasok helyzetének javítása érdekében a legkisebb nyugdíjat 2008 óta először jelentősen, 28 500 forintról 120 ezer forintra emelnék. Ez a lépés a leginkább rászoruló idősek anyagi helyzetén javítana, és a nyugdíjrendszer igazságosságát kívánja növelni.",
+        "A vállalkozások számára szintén kedvező változások várhatók: a kisebb cégek továbbra is élvezhetik a 9 százalékos társasági adó előnyeit, míg az új lakások áfája 5 százalékon marad, határidő nélkül. Ezek az intézkedések ösztönözhetik a beruházásokat és a gazdasági növekedést a következő években.",
+        "A közteher-növelés terhe azonban nem egyenlően oszlik meg: a leggazdagabbak, a legnagyobb vállalatok, valamint az energiacégek, bankok, biztosítók és kereskedelmi láncok nagyobb mértékben járulnak hozzá az állami bevételekhez. A társasági adó és az innovációs járulék változásai révén a kormány 240 milliárd forintos többletbevételre számít, az energiacégektől és a bankoktól pedig további több tízmilliárd forint bevétel várható.",
+        "Újra bevezetik a reklámadót 2027 januárjától, amely a nagyobb bevétellel rendelkező vállalkozásokat érinti. Az adó mértéke a bevétel nagyságától függően 2,5 és 7,5 százalék között alakul, míg az 500 millió forint alatti bevételű cégek mentesülnek az adó alól. Ez az intézkedés a reklámszektorban működő nagyvállalatok közteher-vállalását kívánja növelni.",
+        "Összességében a kormány célja, hogy a munkából élők adóterheit csökkentse, a családok és nyugdíjasok anyagi helyzetét javítsa, miközben a gazdaság legjelentősebb szereplői nagyobb arányban járulnak hozzá a közteherhez. A benyújtott törvényjavaslatok megvalósulása jelentős hatással lehet a magyar gazdaság és társadalom jövőjére."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "Origo: Jön az adócsökkentés és a nagy nyugdíjemelés: benyújtotta a kormány az új törvényeket",
+          "https://www.origo.hu/gazdasag/2026/10/ado-adotorvenyek-orszaggyules-karman-andras"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/10/gLf8sdoY22YSqCMblyB_M09XS52gbqlw7FHGcg0XYhU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I1ZjM3ZmQzMzc0NTQ1YzU5ZDBjMWYyODRmNDFmNjM2.webp",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/gazdasag/2026/10/ado-adotorvenyek-orszaggyules-karman-andras",
+      "cred": "Mediaworks",
+      "ai_edited": true
+    },
+    {
+      "id": "december-24-munkaszuneti-nap-tervezet",
+      "r": "Közélet",
+      "c": "Munka",
+      "w": "",
+      "st": "Megerősített",
+      "time": "okt. 29.",
+      "t": "Társadalmi egyeztetésre bocsátották a december 24-i munkaszüneti nap bevezetésének tervezetét",
+      "s": "A kormány társadalmi egyeztetésre bocsátotta azt a törvényjavaslatot, amely december 24-ét munkaszüneti nappá nyilvánítaná 2026-tól. A javaslat szerint a kieső munkanapot egy szombati napon kellene ledolgozni, a társadalmi véleményezés december 5-ig tart.",
+      "p": [
+        "A kormány hivatalosan is társadalmi egyeztetésre bocsátotta azt a törvényjavaslatot, amely december 24-ét munkaszüneti nappá nyilvánítaná. Amennyiben a javaslatot elfogadják, 2026-tól a karácsony előtti nap már nem csak pihenőnapként, hanem hivatalos munkaszüneti napként lesz számon tartva Magyarországon. A kieső munkanapot egy szombati napon, december 12-én kellene ledolgozni, így a munkaidő éves kerete nem változna jelentősen.",
+        "A javaslatot Kalázdi-Kerekes Kinga, Molnár Zoltán és Hantosi István, a Tisza képviselői nyújtották be az Országgyűlés elnökének szeptember 23-án. A kezdeményezés célja, hogy a december 24-ei nap hivatalosan is munkaszüneti nappá váljon, ezzel is megkönnyítve a családok számára az ünnepi készülődést és a karácsonyi időszak megkezdését.",
+        "A munka törvénykönyve lehetőséget ad arra, hogy a foglalkoztatáspolitikáért felelős miniszter évente rendeletben szabályozza az általános munkarendben dolgozók munkaidő-beosztását a munkaszüneti napok miatt. Ez a szabályozás biztosítja, hogy a munkaszüneti napok beiktatása ne okozzon jelentős fennakadásokat a munkahelyeken, és a kieső napokat megfelelően pótolják.",
+        "Érdekesség, hogy a december 24-e munkaszüneti nappá nyilvánítására irányuló országos népszavazási kezdeményezés nem gyűjtötte össze a szükséges aláírásmennyiséget. A Kereskedelmi Alkalmazottak Szakszervezete által indított kezdeményezést a Nemzeti Választási Bizottság (NVB) hivatalosan elutasította, mivel az érvényes aláírások száma nem érte el a százezres határt.",
+        "Az NVB április közepén hitelesítette a népszavazási kérdést, az aláírásgyűjtés pedig május közepétől szeptember közepéig tartott. A szakszervezet szeptember 10-én adta le az aláírásgyűjtő íveket, azonban a Nemzeti Választási Iroda előzetes számításai alapján az érvényes aláírások száma még a százezret sem érte el, ezért azokat nem ellenőrizték tételesen.",
+        "A társadalmi egyeztetés jelenleg november 5-ig tart, ez idő alatt bárki észrevételeket tehet a javaslattal kapcsolatban. Amennyiben a véleményezés eredményeként a törvényjavaslatot elfogadják, a változás 2026-tól léphet életbe, és a december 24-ei nap hivatalosan is munkaszüneti nappá válik Magyarországon.",
+        "Ez a lépés összhangban áll a munkaidő-beosztás rugalmasabbá tételével, és a családok ünnepi időszakának megkönnyítésével. A javaslat elfogadása után a munkáltatóknak és a munkavállalóknak is alkalmazkodniuk kell a megváltozott munkarendhez, különösen a decemberi időszakban."
+      ],
+      "cav": "",
+      "op": "",
+      "src": [
+        [
+          "Index: Társadalmi egyeztetésre bocsátotta a kormány december 24. munkaszüneti nappá nyilvánítását",
+          "https://index.hu/belfold/2026/10/29/december-24-munkaszuneti-nap-tarsadalmi-egyeztetes-ledolgozas-torvenyjavaslat/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7228/72287/722871/72287179_5327411_564ad9b8f53f7e37441feff3bc3432ba_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/10/29/december-24-munkaszuneti-nap-tarsadalmi-egyeztetes-ledolgozas-torvenyjavaslat/",
+      "cred": "Fotó: Stiller Ákos / Bloomberg / Getty Images (illusztráció)",
+      "ai_edited": true
     }
   ]
 }
