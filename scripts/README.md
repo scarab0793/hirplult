@@ -31,7 +31,9 @@ Ha valami nem stimmel, a modell egyszer javíthat. Ha utána sem megy át, a cik
 | `ANTHROPIC_API_KEY` | Secrets and variables → Actions → **Secrets** | az API-kulcs |
 | `ANTHROPIC_WORKSPACE_ID` | ugyanott, **Variables** (nem kötelező) | csak akkor kell, ha a kulcs nincs egy munkaterülethez kötve és a hívás erről szóló hibát ad |
 
-Hasznos környezeti változók: `HIRPULT_AI_MAX_ARTICLES` (cikk/futás, alap 6, legfeljebb 12), `HIRPULT_AI_MAX_CALLS` (API-hívás/futás, alap 16), `HIRPULT_AI_MODEL`, `HIRPULT_KEEP_DAYS` (alap 10).
+| `HIRPULT_AI_MODEL` | ugyanott, **Variables** (nem kötelező) | a modell cseréje; üresen `claude-haiku-5-5` (például `claude-sonnet-5-5` erősebb, de drágább) |
+
+Hasznos környezeti változók a szkriptekben: `HIRPULT_AI_MAX_ARTICLES` (cikk/futás, alap 6, legfeljebb 12), `HIRPULT_AI_MAX_CALLS` (API-hívás/futás, alap 16), `HIRPULT_KEEP_DAYS` (alap 10).
 
 ## Próba
 

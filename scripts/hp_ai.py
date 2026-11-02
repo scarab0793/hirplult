@@ -18,7 +18,7 @@ import urllib.error
 import urllib.request
 
 API_BASE = os.getenv("ANTHROPIC_BASE_URL", "https://api.anthropic.com").rstrip("/")
-MODEL = os.getenv("HIRPULT_AI_MODEL", "claude-haiku-5-5")
+MODEL = os.getenv("HIRPULT_AI_MODEL", "").strip() or "claude-haiku-5-5"
 API_VERSION = "2023-06-01"
 USAGE = {"calls": 0, "input_tokens": 0, "output_tokens": 0}
 SECTIONS = ("Belpolitika", "Gazdaság", "Külföld", "Közélet", "Sport", "Kultúra")

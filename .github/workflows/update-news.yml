@@ -63,6 +63,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           # Only needed if the API key is not tied to one workspace (repository variable, optional).
           ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
+          # Optional repository variable to switch model; empty means claude-haiku-5-5.
+          HIRPULT_AI_MODEL: ${{ vars.HIRPULT_AI_MODEL }}
           HIRPULT_AI_MAX_ARTICLES: '6'
         run: python scripts/enrich_news.py
       - name: Lengthen catalog stories (paused, set the batch above 0 to enable)
@@ -70,6 +72,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
+          HIRPULT_AI_MODEL: ${{ vars.HIRPULT_AI_MODEL }}
           HIRPULT_BACKFILL_BATCH: '0'
         run: python scripts/backfill_news.py
       - name: Commit data changes
