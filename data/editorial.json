@@ -1750,6 +1750,169 @@
       "imgl": "https://index.hu/belfold/2026/11/02/nav-kutatas-budapesti-alapitvany-kozpenz-2024-es-onkormanyzati-valasztas-kampany/",
       "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
+    },
+    {
+      "id": "rss-b3e67321622cda3174",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T13:40:00+00:00",
+      "t": "Októberben példátlan havi veszteséget szenvedett az orosz hadsereg az ukrán vezérkar szerint",
+      "s": "Az ukrán vezérkar jelentése szerint idén októberben szenvedte el legnagyobb havi veszteségét az orosz hadsereg a 2022-ben indított teljes körű invázió óta. A Kyiv Independent beszámolója alapján ugyanebben a hónapban az ukrán védők több területet szabadítottak fel, mint amennyit a támadók elfoglaltak.",
+      "p": [
+        "A Portfolio háborús hírösszefoglalója az ukrán vezérkar jelentésére hivatkozva írja, hogy a 2022 óta eltelt időszakban idén októberben volt a legnagyobb havi orosz veszteség. Az ukrán védők emellett több területet szabadítottak fel a hónapban, mint amennyit a támadóknak sikerült elfoglalniuk, ezt a Kyiv Independent közölte. A számok forrása a kijevi hadsereg, ezeket a cikk nem ellenőrizte függetlenül.",
+        "Az ukrán katonai hírszerzés (HUR) jelentése alapján az RBK Ukraine arról számolt be, hogy felrobbant az orosz légierő legújabb Szu–57-es többfeladatú vadászgépe az ahtubinszki katonai repülőtéren. Az Ukrán Védelmi Hírszerzés (DIU) pedig az egyik orosz Gerbera-2 drón képességeit hozta nyilvánosságra, szerinte az eredmények jelentős orosz fejlődésre utalnak.",
+        "A forrásokban szerepel egy hackertámadás is: az ukrán légvédelmi riasztórendszert ért támadás miatt sokan hamis felhívásokat kaptak, ezt a Kyiv Independent írta meg. Az éjszakai dróntámadásokról két, egymással nem összevethető adat érkezett. Kijev szerint Oroszország 193 drónt indított, ebből 154-et hatástalanítottak, 26 esetben pedig becsapódásokról számoltak be. Moszkva jelentése szerint a légvédelem 212 alkalommal intézkedett, ugyanakkor nem közölte, hány eszközzel támadta az országot, és az sem derült ki, történtek-e becsapódások.",
+        "A diplomáciai fejleményekből a Portfolio összefoglalója szerint Volodimir Zelenszkij nyitott a Vlagyimir Putyinnal való találkozóra, és megnevezte a lehetséges helyszínt is. Dmitrij Peszkov, a Kreml sajtótitkára szerint az előkészületek zajlanak, de hivatalos döntés még nincs. A Sencsenben rendezendő APEC-csúcson várhatóan részt vevő Putyin Hszi Csin-pinggel is találkozhat. A Wall Street Journal szerint az Egyesült Államok azt szeretné, ha Oroszország újraindítaná a földgázszállítást az Ukrajnán átvezető vezetékeken, egy energetikai tűzszünet céljával a közelgő tél előtt. A pontos moszkvai álláspont a rövid összefoglalóból nem derül ki.",
+        "Melania Trump, az amerikai first lady a herszoni Oleszkijben létrejött átmeneti tűzszünetet méltatta, és azt mondta, hogy mintegy 800 embert sikerült kimenekíteni. Ez a szám a közlésben csak az ő állításán alapul. Donald Trump egy iowai kampánygyűlésen azt mondta, hogy az Egyesült Államok hírszerzési adatokat gyűjt a riválisai ellen. A Deutsche Welle szerint Oroszország hamarosan befejezi a Kalinyingrádi exklávéban épülő nagy radarkomplexumot, amellyel szinte egész Európát megfigyelhetik."
+      ],
+      "cav": "A cikk nagy része ukrán és orosz hadsereg-, illetve hatósági közlésekre épül, amelyeket a források nem ellenőriztek. A címben szereplő puccsra utaló állítást a látható szöveg nem támasztja alá, ezért nem szerepel a leírásban. Több adat másodkézből, összefoglalók formájában érkezett, a kijevi és a moszkvai számok pedig ellentmondanak egymásnak.",
+      "op": "A háborús adatok többsége az egyik fél közléséből származik, ezért a Kreml vagy Kijev számait nem érdemes ellenőrzés nélkül tényként kezelni. Ha a legfontosabb információkat is a hadviselő felek szolgáltatják, a nyilvánosságnak kell visszakérdeznie. Miért nem kapunk függetlenül ellenőrzött képet arról, ami a fronton és a diplomáciában valóban történik?",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/global/20261102/sulyos-veszteseget-szenvedtek-az-oroszok-puccs-soporheti-el-putyint-haborus-hireink-hetfon-873458"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/u/k/r/ukrajna-tuzerseg-frontvonal-donbasz-haboru-oroszorszag-865862.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/global/20261102/sulyos-veszteseget-szenvedtek-az-oroszok-puccs-soporheti-el-putyint-haborus-hireink-hetfon-873458",
+      "cred": "Kép: Portfolio – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-eca4827f431d43b356",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T13:37:26+00:00",
+      "t": "Sonnevend Pált választotta elnökévé az Alkotmánybíróság",
+      "s": "Az Alkotmánybíróság hétfői teljes ülése titkos szavazással Sonnevend Pált választotta meg elnökének, aki a törvény alapján azonnal hivatalba is lépett. A Fidesz szerint a megválasztás nem törvényes.",
+      "p": [
+        "A HVG beszámolója szerint az Alkotmánybíróság hétfői teljes ülésén titkos szavazással Sonnevend Pált választották a testület elnökévé. A döntésről a testület honlapján adtak hírt. Megbízatása három évre szól, és a megválasztásával az alkotmánybírósági törvény alapján hivatalba is lépett.",
+        "Az új elnök pályázatában a bizalom helyreállítását nevezte meg elsődleges feladatként. Emellett a testület belső összetartásának erősítéséről és az európai testvérintézményekkel fenntartott kapcsolatok újjáépítéséről beszélt.",
+        "Sonnevend Pál az ELTE Állam- és Jogtudományi Karán végzett 1995-ben, PhD-fokozatát Heidelbergben szerezte. 2017 óta az ELTE egyetemi tanára, 2019 és 2025 között a kar dékánja volt. A korábbi években Sólyom László tanácsadójaként dolgozott az Alkotmánybíróságon, majd két köztársasági elnök munkáját segítette alkotmányjogi tanácsadóként.",
+        "Az Országgyűlés júliusban 138 igen szavazattal, hat nem ellenében választotta meg alkotmánybírónak, Hende Csaba megüresedő helyére. Hende a tizenhetedik Alaptörvény-módosítással bevezetett, tizenkét éves korlátozás miatt távozott a testületből. A módosítás alapján Polt Péter mandátuma szeptember 1-jén járt le, a hetvenedik életév betöltése miatt. Polt azóta a strasbourgi bírósághoz fordult menesztése miatt.",
+        "A Fidesz közleményében azt állítja, hogy Sonnevend Pál „nem legitim módon lett alkotmánybíró”, ezért az elnöki tisztség sem illeti meg. A párt szerint a Tisza alkotmányellenesen foglalta el a helyet. A testület elnöki jogköreit eddig Czine Ágnes elnökhelyettes gyakorolta, akinek megbízatása november közepén jár le. Az elnöki pályázat október elején jelent meg, a benyújtási határidő október 26. volt, a döntésre pedig nyolc napot írtak elő."
+      ],
+      "cav": "A részletek nagyrészt egyetlen forrásból, a HVG cikkéből származnak, a másik forrásból csak rövid összefoglaló volt elérhető. A szavazati arányt a testületi ülésen nem közölték, a Fidesz állítását pedig a párt közleménye alapján idézzük, nem független forrásból ellenőrzött tényként.",
+      "op": "Az Alkotmánybíróság élén most olyan vezető áll, akinek legitimitását a Fidesz nyíltan megkérdőjelezi, és ezt nem lehet pusztán szavazati aránnyal elintézni. A bizalom helyreállítása csak akkor lesz hiteles, ha a testület érdemi döntésekkel és átlátható eljárással bizonyítja működését, nem csupán személyi cserékkel.",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/02/sonnevend-pal-alkotmanybirosag-elnok/"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261102_sonnevend-pal-alkotmanybirosag-elnok"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/sonnevend-e1793626533663-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/02/sonnevend-pal-alkotmanybirosag-elnok/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-66c913a471aedb5d96",
+      "r": "Gazdaság",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T13:37:00+00:00",
+      "t": "Forráshiányra hivatkozva utasítják el az agrár-beruházási pályázatokat, a minisztérium megerősítette",
+      "s": "Az Index értesülése szerint három KAP-beruházási kiírás keretét teljesen lekötötték, ezért sok gazdálkodó pénzhiányra hivatkozó elutasítást kapott. Az agrártárca elismerte a forráskimerülés miatti döntéseket, és a várakozás hosszáért a korábbi kormányt tette felelőssé.",
+      "p": [
+        "Az Index saját információkra hivatkozva arról írt, hogy nagy számban utasítanak el agrárberuházási kérelmeket. Egyes vállalkozások két évig vártak a döntésre, majd végül pénzhiányra hivatkozó határozatot kaptak. A lap szerint az érintettek egy része már régóta tervezett fejlesztésekkel próbálkozott, de a várakozás miatt nem tudta megvalósítani őket.",
+        "Az érintett három konstrukció a terménytisztítók, tárolók, szárítók és vetőmagüzemek fejlesztését, az állattartó telepek fejlesztését, valamint a feldolgozóüzemek komplex korszerűsítését öleli fel. A KAP Nemzeti Irányító Hatóság október 15-i tájékoztatása szerint ezekre a kiírásokra rendelkezésre álló összeget teljes egészében lekötötték. Az ügy tehát három beruházási kiírást érint, és nem az agrártámogatások egészének megszűnéséről van szó.",
+        "A lekötés ugyanakkor nem azt jelenti, hogy minden megítélt összeget ki is fizettek, vagy hogy minden beruházás készen van. Egy banki forrás szerint a hatóság korábban rendszeresen túlkötötte a kereteket, arra számítva, hogy a nyertesek egy része visszalép. A felszabaduló pénz ezért nem kerül automatikusan a most elutasított pályázókhoz.",
+        "Ugyanez a forrás szerint a megfelelési ponthatárt 97 pontra emelték, és a háttérben egy agrárpolitikai irányváltás húzódhat, mivel az új vezetés más támogatási rendszert szeretne. Ezt az Index csak a forrás értelmezéseként közölte, független megerősítést nem talált rá. A minisztérium a döntéseket pénzügyi és jogszabályi kényszerrel indokolja.",
+        "A gazdálkodók az Index információi szerint üzleti terveket készíttettek és eleget tettek az adminisztratív előírásoknak, a támogatásra várva pedig csak a legszükségesebb munkákat végezték el. Emiatt előkészítési költségek merültek fel, a beruházások pedig elhúzódtak. A pályázatíró cégek szerint az elutasítások a munkahelyeiket is veszélybe sodorhatják.",
+        "Az érintett gazdák számára továbbra sincs biztos időpont egy újabb lehetőségre. A hatósági közlemény a 2028-tól induló programozási időszak előkészítését említette, közeli újranyitást azonban nem ígért.",
+        "Az Index a cikk megjelenése előtt megkereste az agrártárcát, amely utólag válaszolt. A minisztérium megerősítette, hogy a források kimerülése miatt utasítanak el pályázatokat. Hangsúlyozta, hogy ha egy keretet teljesen lekötöttek, fedezet nélkül nincs újabb kötelezettségvállalási lehetőség, és a szakmai megfelelés önmagában nem jelent automatikus jogosultságot. Szerintük a gazdálkodók érdeke „átlátható, kiszámítható és jogszerű” támogatási rendszer.",
+        "A tárca az elhúzódó elbírálást az előző kormány idejére vezeti vissza, amely szerinte közel két évig nem hozott döntést számos benyújtott pályázatról, így a kérelmek nagy részének elbírálása a jelenlegi kormányzatra maradt. A minisztérium szerint a támogatási döntésekben nem lehet szerepe a politikai hovatartozásnak, az etnikai származásnak vagy a vallási meggyőződésnek, és az egyenlő bánásmód minden pályázóra egyformán vonatkozik. Az álláspont szerint a forráshiányos elutasítás nem politikai döntés, hanem a pénzügyi és jogszabályi korlátok következménye."
+      ],
+      "cav": "A banki forrás szerint a döntések hátterében agrárpolitikai irányváltás állhat, ezt azonban a minisztérium pénzügyi és jogszabályi kényszerrel magyarázza, és független megerősítés nincs. A felszabaduló keretek sorsáról, a kifizetett és elkészült beruházásokról, valamint a pályázatíró cégek érintettségének mértékéről a rendelkezésre álló információk nem adnak pontos képet.",
+      "op": "Ha egy támogatási rendszer évekig halogatja a döntéseket, majd a bizonytalanságot forráshiánnyal magyarázza, az a gazdálkodók pénzét és idejét viseli. A minisztériumnak nyilvánosan meg kell mondania, hány pályázat rekedt évekig a rendszerben, és miért nem igazodtak a keretek a valós igényekhez. Ki vállalja a felelősséget, ha a következő ciklus is hasonlóan zárul?",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/gazdasag/2026/11/02/agrar-agrarium-tamogatas-gazdak-gazdalkodok-agrarminiszterium-kozos-agrarpolitika-kap-tamogatasok/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7237/72376/723764/72376483_5333683_7a838a824d6bc969503f15eb51ce80b4_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/gazdasag/2026/11/02/agrar-agrarium-tamogatas-gazdak-gazdalkodok-agrarminiszterium-kozos-agrarpolitika-kap-tamogatasok/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6d3cba3c477dea6926",
+      "r": "Gazdaság",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T13:36:41+00:00",
+      "t": "Nyílt nap a Metrodom River lakóparkban: 712 lakás, öt ütemben, részletfizetési lehetőséggel",
+      "s": "A forrás szerint a budapesti 11. kerületi Metrodom River lakópark november 13-án és 14-én nyílt napot tart. A fejlesztő az ingatlanok árával, fizetési feltételeivel és energetikai besorolásával kapcsolatos előnyöket emeli ki.",
+      "p": [
+        "A Lágymányosi-öböl és a Rákóczi híd szomszédságában épülő lakópark nyílt napját a Budafoki út 64–66. szám alatt tartják. A szöveg szerint a látogatók kisebb csoportokban, szakértő kísérettel járhatják be a területet, megnézhetik a mintalakást, a lobbyt és több szabad otthont is. A részvétel ingyenes, de a korlátozott létszám miatt előzetes regisztrációhoz kötött.",
+        "A beszámoló szerint a Duna-partig nyúló, háromhektáros területen öt ütemben összesen 712 lakás épül. A negyedik ütem otthonai 2027 tavaszán költözhetők lesznek. A fejlesztő saját fitnesz- és wellnessközpontot, co-working irodát és közösségi nappalit ígér, a harmadik ütem átadását követően pedig közösségi csónakházat is.",
+        "A családoknak szánt elemek közül az írás kiemeli, hogy a lakópark felszínét nem terheli gépjárműforgalom, az autók a mélygarázsokban parkolnak, és minden beálló mellett elektromosautó-töltő csatlakozási lehetőség van. Említi az önkormányzati óvodát, a családi bölcsődét és a babajátszószobát is. A közlekedésre nézve a 133E és a 103-as buszokat, valamint az 1-es és 41-es villamosokat sorolja fel.",
+        "Az energetikai részben a szöveg szerint az okosotthon-rendszer és a hibrid hűtő-fűtő megoldás révén az épületek a hatályos jogszabályok szerinti „A” vagy annál kedvezőbb besorolást érhetnek el. Ez a fejlesztő állítása, amelyet a cikk nem támaszt alá független adatokkal.",
+        "Pénzügyi oldalról a legnagyobb ígéret a negyedik ütemre most elérhető, több millió forintos kedvezmény, amely összességében akár öt százalékos árelőnyt is jelenthet. A rozsdaövezeti akcióterületre hivatkozva a szöveg szerint a jogszabályi feltételek teljesülése esetén az ingatlanok 5 százalékos áfatartalommal vásárolhatók meg, az áfa pedig az arra jogosultak számára visszaigényelhető. A részletek a kormányrendeletben meghatározott feltételekhez kötöttek. A fizetési konstrukció szerint a szerződéskötéskor a vételár tíz százaléka fizetendő, a fennmaradó 90 százalékot pedig a birtokbaadás előtt kell rendezni."
+      ],
+      "cav": "A szöveg láthatóan a fejlesztő saját promóciós közleménye, nem független újságírói munka. Az energetikai besorolás, az öt százalékos árelőny és az áfa-visszatérítés feltételei nincsenek részletezve, és a forrás nem nevezi meg a jogosultsági szabályokat. Az összegek és az átadási határidők egyoldalú állítások.",
+      "op": "Egy lakásvásárlás évtizedekre meghatározza a családok mérlegét, ezért a reklámszöveg nem pótolhatja a világos tájékoztatást. A kedvezmények, az áfa-visszatérítés és az energiaosztály feltételeit a vevőknek szerződés előtt, írásban kell látniuk, nem egy nyílt napi sétán. Aki ilyen ígéreteket tesz, annak meg kell mutatnia a számokat is.",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/fn/gazdasag/2026/11/02/duna-parti-eleterzes-es-premium-okosotthonok-a-metrodom-river-lakopark-nyilt-napjan/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/river-04-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/fn/gazdasag/2026/11/02/duna-parti-eleterzes-es-premium-okosotthonok-a-metrodom-river-lakopark-nyilt-napjan/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-93b6b0b3b644db161c",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T13:33:01+00:00",
+      "t": "Zelenszkij Törökország közvetítésében bízik a háború lezárásához",
+      "s": "Volodimir Zelenszkij ukrán elnök szerint Ankara segíthet a háború diplomáciai rendezésében, és a személyes csúcstalálkozóra is nyitott. Az álláspontját a CNN Türknek adott interjúban fejtette ki.",
+      "p": [
+        "Volodimir Zelenszkij ukrán elnök szerint Vlagyimir Putyinnal is leülhetne tárgyalni Törökországban, ha erre sor kerül. Az elképzelését a CNN Türknek adott interjúban ismertette, a szombati isztambuli megbeszélése után, amelyen Recep Tayyip Erdogan török elnökkel egyeztetett.",
+        "A beszélgetésben Zelenszkij arra kérte Ankarát, vállaljon közvetítő szerepet. Szerinte Erdogan kapcsolatai Donald Trumppal és Putyinnal is hasznosak lehetnek, Törökországot pedig „gyakorlatias és reális” partnernek nevezte a jövőbeli Moszkva–Kijev tárgyalásokon.",
+        "A háromoldalú vezetői csúcs gondolata a források szerint már korábban is felmerült. Az elnök közölte, Kijev elfogadja, ha a törökök ezt sikerre tudják vinni, a legfelső szintű találkozót pedig a háború lezárásának feltételeként jelölte meg.",
+        "A nyilatkozat előtt a várakozások szerint novemberben Abu-Dzabiban ülnének tárgyalóasztalhoz Ukrajna, Oroszország és az Egyesült Államok képviselői. Zelenszkij szerint a napirenden az energetikai és tengeri területekre korlátozott részleges tűzszünet, valamint a foglyok cseréje szerepelhet.",
+        "A The Kyiv Independent értesülése szerint a Kreml régóta kerüli a személyes találkozó gondolatát, és inkább telefonos egyeztetést javasol. Ez másodkézből származó információ, a Kreml hivatalos reakciója a rendelkezésre álló anyagban nem szerepel.",
+        "Zelenszkij október 31-én Isztambulban találkozott Erdogannal, hogy a kétoldalú kapcsolatokról és a Fekete-tengeri biztonsági helyzetről egyeztessenek. Közben az orosz támadások miatt több százezer ember maradt áram nélkül Ukrajnában."
+      ],
+      "cav": "Az összefoglaló elsősorban az ukrán elnök saját nyilatkozatára épül, a Kreml álláspontja csak a Kyiv Independent értesülésére hivatkozik. A tárgyalások időpontja és résztvevői csak várakozásként szerepelnek, ezért bizonytalanok.",
+      "op": "Ha egy ország vezetője békéről beszél, a szavak mögött mindig az számít, milyen lépések követik. Zelenszkij közvetítőt keres, de a Kreml válasza és a tárgyalások tényleges kerete még hiányzik. Addig a diplomáciai ígéretek hitelét a konkrét tűzszüneti és fogolycsere-eredmények döntik el, nem a szép mondatok.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261102_ukrajna-oroszorszag-habor-beketargyalas-torokorszag-zelenszkij-putyin-erdogan"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/84d01d98-b895-48b3-9c90-a8358ce4532c.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261102_ukrajna-oroszorszag-habor-beketargyalas-torokorszag-zelenszkij-putyin-erdogan",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
     }
   ]
 }
