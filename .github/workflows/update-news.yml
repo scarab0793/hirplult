@@ -1,9 +1,18 @@
-name: DISABLED - Legacy Hírpult news updater
-# Retained for reference only. Claude now owns news publishing.
-# No schedule, push or manual triggers; job is explicitly disabled.
+name: Update Hírpult news (UK daytime)
 on:
+  schedule:
+    # Hourly candidate ticks. The gate below turns them into about four runs a day,
+    # at least 3.5 hours apart, between 07:00 and 20:59 UK time, so a delayed tick is not lost.
+    - cron: '17 5-20 * * *'
   workflow_dispatch:
-
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch_news.py'
+      - 'scripts/enrich_news.py'
+      - 'scripts/backfill_news.py'
+      - 'scripts/hp_ai.py'
+      - '.github/workflows/update-news.yml'
 permissions:
   contents: write
 concurrency:
@@ -11,7 +20,6 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
-    if: ${{ false }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
