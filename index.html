@@ -133,13 +133,14 @@ function newsFallback(i){
  const svg='<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360"><rect width="640" height="360" fill="'+color+'"/><circle cx="540" cy="70" r="150" fill="#ffffff" opacity=".07"/><path d="M0 295L640 145" stroke="#ffffff" stroke-width="16" opacity=".12"/><text x="35" y="168" fill="#ffffff" font-family="Arial,sans-serif" font-size="56" font-weight="bold">HÍRPULT</text><text x="37" y="215" fill="#ffffff" font-family="Arial,sans-serif" font-size="25">'+(i.r||"Hírek")+'</text></svg>';
  return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg);
 }
+function articleUrl(id){return "#/article/"+encodeURIComponent(id)}
 function row(i){
  const fallback=newsFallback(i);
  const image=i.img&&/^https:\/\//.test(i.img)?i.img:fallback;
  return `<article class="row${i.lead?" lead":""}" data-r="${esc(i.r)}"><div class="gut"><span class="tag">${esc(i.r)}</span><span class="sub">${esc(i.c)}${i.w?" · "+esc(i.w):""}</span></div>
- <div><img class="news-image" src="${esc(image)}" data-fallback="${esc(fallback)}" alt="${i.img?"Hírillusztráció":"Hírpult rovatillusztráció"}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=this.dataset.fallback"><small class="news-credit">${i.img?`Kép: ${esc(i.imgs||i.c)} · <a href="${esc(i.imgl||i.src?.[0]?.[1]||"#")}" target="_blank" rel="noopener noreferrer">Eredeti forrás</a>`:"Illusztráció: Hírpult"}</small><h3><a class="t" href="#" data-id="${esc(i.id)}">${esc(i.t)}</a></h3><p>${esc(i.s)}</p><a class="more" href="#" data-id="${esc(i.id)}">${i.ai_edited?"Hírpult-cikk":"Hírösszefoglaló"} →</a></div></article>`;
+ <div><img class="news-image" src="${esc(image)}" data-fallback="${esc(fallback)}" alt="${i.img?"Hírillusztráció":"Hírpult rovatillusztráció"}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=this.dataset.fallback"><small class="news-credit">${i.img?`Kép: ${esc(i.imgs||i.c)} · <a href="${esc(i.imgl||i.src?.[0]?.[1]||"#")}" target="_blank" rel="noopener noreferrer">Eredeti forrás</a>`:"Illusztráció: Hírpult"}</small><h3><a class="t" href="${articleUrl(i.id)}" data-id="${esc(i.id)}">${esc(i.t)}</a></h3><p>${esc(i.s)}</p><a class="more" href="${articleUrl(i.id)}" data-id="${esc(i.id)}">${i.ai_edited?"Hírpult-cikk":"Hírösszefoglaló"} →</a></div></article>`;
 }
-function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();open(a.dataset.id)})}
+function bind(){app.querySelectorAll("[data-id]").forEach(a=>a.onclick=e=>{e.preventDefault();location.hash="/article/"+encodeURIComponent(a.dataset.id);open(a.dataset.id)})}
 function home(){
  const cnt=c=>c=="Mind"?items.length:items.filter(i=>i.r==c).length;
  thr="";
@@ -164,10 +165,10 @@ function open(id){
  ${i.op?`<div class="cav op"><b>Szubjektív nézőpont</b>${i.op}</div>`:""}
  ${i.ai_edited?"":i.cav?`<div class="cav"><b>Amit érdemes tudni</b>${i.cav}</div>`:""}
  <div class="srcs"><b>Forrás${i.src.length>1?"ok":""}:</b> ${i.src.map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])}</a>`).join(" · ")}</div></div>`;
- document.getElementById("bk").onclick=home;
+ document.getElementById("bk").onclick=()=>{location.hash="/";home()};
  document.title=i.t+" – Hírpult";window.scrollTo(0,0);
 }
-document.getElementById("home").onclick=e=>{e.preventDefault();thr="";cat="Mind";term="";home()};
+document.getElementById("home").onclick=e=>{e.preventDefault();location.hash="/";thr="";cat="Mind";term="";home()};
 
 const COUNTY_ALL=COUNTY.map(i=>Object.assign({},i,{r:i.m}));
 const MKEY=t=>{const M={"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11};const m=String(t).match(/^(\S+)\s+(\d{1,2})/);return m?(M[m[1]]||0)*100+ +m[2]:0};
@@ -209,7 +210,9 @@ home=function(){
   if(view=="megye"){megye();return}
   weather();
 };
-home();
+function routeArticle(){const m=location.hash.match(/^#\/article\/(.+)$/);if(m){let id;try{id=decodeURIComponent(m[1])}catch{return false}if(items.concat(COUNTY).some(i=>i.id===id)){open(id);return true}}return false}
+window.addEventListener("hashchange",()=>{if(!routeArticle())home()});
+if(!routeArticle())home();
 // Load timestamped RSS news; editorial records remain unchanged.
 async function loadNews(){
  try {
@@ -240,7 +243,7 @@ async function loadNews(){
   const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
   const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\\S+)\\s+(\\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
   items.sort((a,b)=>stamp(b)-stamp(a));
-  if(view==="nat"&&typeof home==="function")home();
+  if(!routeArticle()&&view==="nat"&&typeof home==="function")home();
  }catch(err){console.warn("News data unavailable",err);}
 }
 loadNews();
