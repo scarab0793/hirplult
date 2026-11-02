@@ -14,13 +14,13 @@ Az oldal (`index.html`) a `data/news.json` és a `data/editorial.json` tartalmá
 
 A modell cikket, „Amit érdemes tudni” és „Szubjektív nézőpont” dobozt, valamint rovatot ad vissza. A kód ezután ellenőrzi:
 
-- minden szám szerepel-e a forrásban (a vélemény sem hozhat be új számot),
+- minden szám szerepel-e a forrásban, számjeggyel és betűvel kiírva is (a vélemény sem hozhat be újat; az „egy”, „hat”, „hét” szavakat nem vizsgálja),
 - minden idézet szó szerint megvan-e a forrásban és legfeljebb 12 szó,
 - a szöveg nem ismétli-e szó szerint a forrást (hatszavas részletek átfedése legfeljebb 15%),
 - a hossz arányos-e a forrás hosszával (nem tölt ki üres helyet),
 - nincs benne HTML/markdown és nincs benne utalás mesterséges intelligenciára.
 
-Ha valami nem stimmel, a modell egyszer javíthat. Ha utána sem megy át, a cikk **nem jelenik meg**, a következő futásban még egyszer próbálkozik, azután lemond róla (`data/ai-state.json`). Olvashatatlan (fizetőfalas) forrásnál azonnal lemond, API-hívás nélkül.
+Ha valami nem stimmel, vagy a válasz nem érvényes JSON (például elírt idézőjel), a modell egyszer javíthat. Ha utána sem megy át, a cikk **nem jelenik meg**, a következő futásban még egyszer próbálkozik, azután lemond róla (`data/ai-state.json`). Olvashatatlan (fizetőfalas) forrásnál azonnal lemond, API-hívás nélkül.
 
 „Megerősített” címkét az kap, amelyiknél legalább két különböző kiadó vagy egy hivatalos forrás szerepel, egyébként „Jelentett”.
 

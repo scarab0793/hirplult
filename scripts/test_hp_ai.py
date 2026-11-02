@@ -71,6 +71,44 @@ class Checks(unittest.TestCase):
         self.assertTrue(any("words" in p for p in check(GOOD, target=400)))
 
 
+class SpelledNumbers(unittest.TestCase):
+    def test_values(self):
+        v = hp_ai.spelled_value
+        self.assertEqual([v("három"), v("huszonöt"), v("harmincöt"), v("tizenhárom"), v("milliárd"), v("hármat")],
+                         [3, 25, 35, 13, 10**9, 3])
+        for word in ("egy", "hét", "ötlet", "negyedik", "tizenegy"[:5], "alapkamat"):
+            self.assertIsNone(v(word), word)
+
+    def test_invented_spelled_number_is_flagged(self):
+        bad = dict(GOOD, op=GOOD["op"] + " Legalább tizenkét ember bukhat meg ezen.")
+        self.assertTrue(any("number" in p and "tizenkét" in p for p in check(bad)))
+
+    def test_spelled_number_matching_digits_is_allowed(self):
+        ok = dict(GOOD, op=GOOD["op"] + " A kamat öt és fél százalék maradt.")
+        self.assertEqual(check(ok), [])
+
+    def test_unmatched_spelled_number_with_other_digit_is_flagged(self):
+        bad = dict(GOOD, op=GOOD["op"] + " Kilenc évig így marad.")
+        self.assertTrue(any("kilenc" in p for p in check(bad)))
+
+
+class JsonRepair(unittest.TestCase):
+    def test_bad_json_gets_a_repair_round(self):
+        evidence = [{"title": "t", "summary": SOURCE, "published": "", "article_reference": SOURCE}]
+        good = json.dumps(dict(GOOD), ensure_ascii=False)
+        replies = iter(['{"title": "rossz "idézet"", "lead": "x"}', good])
+        seen = []
+
+        def fake_ask(system, messages, key, max_tokens=8000):
+            seen.append(len(messages))
+            return next(replies)
+
+        with mock.patch.object(hp_ai, "ask", fake_ask), mock.patch.object(hp_ai, "target_words", lambda t: 100):
+            article = hp_ai.write_article(evidence, "k")
+        self.assertEqual(seen, [1, 3])
+        self.assertEqual(article["title"], GOOD["title"])
+
+
 class Client(unittest.TestCase):
     def reply(self, blocks, stop="end_turn"):
         return {"content": blocks, "stop_reason": stop, "usage": {"input_tokens": 10, "output_tokens": 5}}

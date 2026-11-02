@@ -122,7 +122,8 @@ def parse_json(text):
     start, end = text.find("{"), text.rfind("}")
     if start < 0 or end <= start:
         raise ValueError("no JSON object in the reply")
-    return json.loads(text[start : end + 1])
+    # strict=False tolerates raw line breaks inside strings, a common slip.
+    return json.loads(text[start : end + 1], strict=False)
 
 
 # ------------------------------------------------------------------------ checks
@@ -147,6 +148,66 @@ def words(text):
 
 def _shingles(ws, n=6):
     return {" ".join(ws[i : i + n]) for i in range(len(ws) - n + 1)}
+
+
+_UNITS = {"egy": 1, "kettő": 2, "két": 2, "három": 3, "hárm": 3, "négy": 4, "öt": 5, "nyolc": 8, "kilenc": 9}
+_TENS = {"tíz": 10, "húsz": 20, "harminc": 30, "negyven": 40, "ötven": 50, "hatvan": 60, "hetven": 70,
+         "nyolcvan": 80, "kilencven": 90}
+_TEEN = {"tizen": 10, "huszon": 20}
+_MAGNITUDE = {"száz": 100, "ezer": 1000, "millió": 10**6, "milliárd": 10**9}
+# "egy" (article), "hat" (verb) and "hét" (week) are too ambiguous to check.
+_SKIP = {"egy", "hat", "hét"}
+_SUFFIX = re.compile(r"(?:ban|ben|ra|re|án|én|an|en|on|ön|ról|ről|nak|nek|val|vel|tól|től|ig|ként|szor|szer|ször|"
+                     r"os|es|ös|as|ik|at|et|ot|öt|t|k|i|é|a|e|ra|ból|ből|hoz|hez|höz|ért)+$")
+
+
+def _is_tail(rest):
+    return rest == "" or bool(_SUFFIX.fullmatch(rest))
+
+
+def spelled_value(token):
+    """Value of a Hungarian number word such as 'három', 'huszonöt' or 'milliárd'; None if it is not one."""
+    for stem in sorted({*_UNITS, *_TENS, *_MAGNITUDE, *_TEEN}, key=len, reverse=True):
+        if not token.startswith(stem):
+            continue
+        rest = token[len(stem):]
+        if stem in _TENS or stem in _TEEN:
+            base = _TENS.get(stem) or _TEEN[stem]
+            # compounds first: harmincöt, huszonkét, tizenhárom
+            for unit in sorted(_UNITS, key=len, reverse=True):
+                if rest.startswith(unit) and _is_tail(rest[len(unit):]) and unit not in _SKIP:
+                    return base + _UNITS[unit]
+            return base if stem in _TENS and _is_tail(rest) else None
+        value = _UNITS.get(stem) or _MAGNITUDE.get(stem)
+        return value if stem not in _SKIP and _is_tail(rest) else None
+    return None
+
+
+def spelled_numbers(text):
+    return {spelled_value(t) for t in words(text)} - {None}
+
+
+def unsupported_spelled(output_text, corpus):
+    """Spelled-out numbers in the output with no matching digits or word in the evidence."""
+    have = spelled_numbers(corpus)
+    digit_values = set()
+    for token in numbers(corpus):
+        try:
+            number = float(token.replace(",", "."))
+            digit_values.add(number)
+            digit_values.add(float(int(number)))  # "öt és fél" for 5,5
+        except ValueError:
+            pass
+    biggest = max(digit_values, default=0)
+    missing = []
+    for token in words(output_text):
+        value = spelled_value(token)
+        if value is None or value in have or float(value) in digit_values:
+            continue
+        if value in _MAGNITUDE.values() and biggest >= value:
+            continue
+        missing.append(token)
+    return sorted(set(missing))
 
 
 def target_words(reference_text):
@@ -190,6 +251,10 @@ def problems(article, corpus, references, target):
     if unknown:
         found.append("these numbers do not appear in the evidence, remove or correct them: " + ", ".join(unknown[:12]))
 
+    spelled = unsupported_spelled(everything, corpus)
+    if spelled:
+        found.append("these spelled-out numbers do not appear in the evidence, remove or correct them: " + ", ".join(spelled[:8]))
+
     corpus_words = " ".join(words(corpus))
     for quote in _QUOTE.findall(everything):
         quote_words = words(quote)
@@ -227,6 +292,7 @@ FIELDS (all Hungarian, natural, Hungarian typographic quotes „ ”)
 - title: factual headline, at most 120 characters.
 - lead: one or two sentences.
 - paragraphs: 3 to 9 strings, no markdown, no HTML.
+- JSON validity: inside strings use only the typographic quotes „ ” (never the straight " character) and no raw line breaks.
 - section: exactly one of Belpolitika, Gazdaság, Külföld, Közélet, Sport, Kultúra.
 - cav ("Amit érdemes tudni"): 1-3 sentences on what the sources do not say, what is second-hand, or where the
   sources disagree. Empty string if there is nothing to flag.
@@ -234,6 +300,15 @@ FIELDS (all Hungarian, natural, Hungarian typographic quotes „ ”)
   liberal, rule-of-law, transparency-minded spirit, reasoned and fair. It may judge and conclude, but it must not
   introduce any fact or number that is not in the evidence, must not insult anyone, and must stay restrained when
   the story is a tragedy, an accident or a crime against a person.
+  Take a clear position; do not hedge and do not write a summary. Name what is at stake (public money, rule of law,
+  transparency, accountability, ordinary people), and end with a pointed conclusion, demand or question.
+  Avoid platitudes ("fontos, hogy", "érdemes figyelni"). Style examples only, never reuse their content or facts:
+    - "Ha egy döntés titkosításra szorul, az ritkán a polgárok érdekét szolgálja. A nyilvánosság nem kegy, hanem
+      ellenőrzési jog, és aki ezt akadálynak tekinti, annak van oka félni a kérdésektől."
+    - "Jó hír, hogy a hatóságok végre lépnek, de a nyomozás hitelét az fogja eldönteni, hogy a végén is ennyire
+      gyorsak lesznek-e, ha a gyanú magasabb körökbe vezet."
+    - "Az intézkedés a hétköznapi embereknél csapódik le, nem ott, ahol a pénz valóban elfolyik. Addig nem
+      beszélhetünk takarékosságról, amíg a számlát mindig ugyanazok fizetik."
 
 Never mention AI, models, automation, rewriting or RSS. Output ONLY the JSON object:
 {"title": "", "lead": "", "paragraphs": [""], "section": "", "cav": "", "op": ""}"""
@@ -250,8 +325,11 @@ def write_article(evidence, key):
     user = json.dumps({"target_words": target, "evidence": evidence}, ensure_ascii=False)
     messages = [{"role": "user", "content": user}]
     reply = ask(SYSTEM, messages, key)
-    article = parse_json(reply)
-    found = problems(article, corpus, references, target)
+    try:
+        article = parse_json(reply)
+        found = problems(article, corpus, references, target)
+    except ValueError as exc:  # includes json.JSONDecodeError
+        article, found = None, [f"the reply is not valid JSON ({str(exc)[:80]}); inside strings use only „ ” quotes, never the straight \" character"]
     if found:
         messages += [
             {"role": "assistant", "content": reply},
