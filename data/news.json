@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-11-02T12:17:40.475200+00:00",
+  "updated_at": "2026-11-02T12:29:37.146675+00:00",
   "sources_ok": [
     "24.hu",
+    "Telex",
     "HVG",
     "444",
     "Index",
@@ -10,10 +11,372 @@
     "Népszava",
     "Nemzeti Sport"
   ],
-  "sources_failed": [
-    "Telex: HTTPError: HTTP Error 403: Forbidden"
-  ],
+  "sources_failed": [],
   "items": [
+    {
+      "id": "rss-ce6c77eb4243c9dc13",
+      "r": "Közélet",
+      "c": "Index",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:24:00+00:00",
+      "t": "Kirúgták a magyar futballválogatott csatárának edzőjét",
+      "s": "Csupán egy sikerrel áll a csapat – igaz, az óriási skalp volt.",
+      "p": [
+        "Csupán egy sikerrel áll a csapat – igaz, az óriási skalp volt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/sport/futball/2026/11/02/hollandia-ado-den-haag-robin-peter-menesztes-barany-donat-valogatott/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7239/72393/723937/72393735_5334867_5a5daf8ea20cf4bb412ed76aee6852d0_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/sport/futball/2026/11/02/hollandia-ado-den-haag-robin-peter-menesztes-barany-donat-valogatott/",
+      "cred": "Kép: Index – eredeti cikk"
+    },
+    {
+      "id": "rss-33ac34805ce4828110",
+      "r": "Gazdaság",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:24:00+00:00",
+      "t": "Izmosodik a forint: 365 alatt jár az euró",
+      "s": "Kivárás jellemzi a nemzetközi devizapiacokat az amerikai félidős választások és a héten esedékes jegybanki kamatdöntések előtt. Az euró a tizenhét havi mélypont közelében, 1,1182 dollár körül stagnál, miután a Fitch Ratings pénteken negatívra rontotta Franciaország adósbesorolásának kilátását. A forint eközben erősödik, az euró 365,5, a dollár pedig 326,5 forint körül jár. A be",
+      "p": [
+        "Kivárás jellemzi a nemzetközi devizapiacokat az amerikai félidős választások és a héten esedékes jegybanki kamatdöntések előtt. Az euró a tizenhét havi mélypont közelében, 1,1182 dollár körül stagnál, miután a Fitch Ratings pénteken negatívra rontotta Franciaország adósbesorolásának kilátását. A forint eközben erősödik, az euró 365,5, a dollár pedig 326,5 forint körül jár. A be"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/deviza/20261102/izmosodik-a-forint-365-alatt-jar-az-euro-873492"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1408275715-581006.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/deviza/20261102/izmosodik-a-forint-365-alatt-jar-az-euro-873492",
+      "cred": "Kép: Portfolio – eredeti cikk"
+    },
+    {
+      "id": "rss-00f613e77914de1061",
+      "r": "Közélet",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:22:10+00:00",
+      "t": "Bombafenyegetést kapott egy Szófiába tartó utasszállító, magyar Gripenek kísérték Ferihegyre",
+      "s": "Londonból indult a Wizz Air járata, itt szakította meg az útját.",
+      "p": [
+        "Londonból indult a Wizz Air járata, itt szakította meg az útját."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/02/honvedseg-legiero-bomba-fenyegetes-ruszin-szendi-romulusz"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261102/1793621585-temp-l511o3c3nsbe6nnfdcj_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/02/honvedseg-legiero-bomba-fenyegetes-ruszin-szendi-romulusz",
+      "cred": "Kép: Telex – eredeti cikk"
+    },
+    {
+      "id": "rss-c7024c80c0a774aee0",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:21:12+00:00",
+      "t": "Bombafenyegetést kapott a Londonból Szófiába tartó Wizz Air-járat, magyar Gripen biztosította a leszállását Budapesten",
+      "s": "A vadászgép az akciót követően visszatért a kecskeméti bázisra, a további intézkedéseket rendőrség vette át – közölte Ruszin-Szendi Romulusz.",
+      "p": [
+        "A vadászgép az akciót követően visszatért a kecskeméti bázisra, a további intézkedéseket rendőrség vette át – közölte Ruszin-Szendi Romulusz."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261102_bombafenyegetes-utasszallito-repulo-wizz-air-magyar-gripen-ruszin-szendi-romulusz"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8842b37f-8b6d-4b93-8310-67b0b1582a0e.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261102_bombafenyegetes-utasszallito-repulo-wizz-air-magyar-gripen-ruszin-szendi-romulusz",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-d6bb7a46f830ef6a58",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:20:57+00:00",
+      "t": "Magyar Péter: a hatalom nem leplezheti tovább a múltat",
+      "s": "Magyar szerint a rendszerváltás óta egymást követő kormányok kivétel nélkül elszabotálták az ügynökakták nyilvánosságra hozatalát és az iratokat politikai manipulációra használták.",
+      "p": [
+        "Magyar szerint a rendszerváltás óta egymást követő kormányok kivétel nélkül elszabotálták az ügynökakták nyilvánosságra hozatalát és az iratokat politikai manipulációra használták."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/02/magyar-peter-a-hatalom-nem-leplezheti-tovabb-a-multat/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-1122496196-1024x683.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/02/magyar-peter-a-hatalom-nem-leplezheti-tovabb-a-multat/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-9a5a53c4cd868febe9",
+      "r": "Közélet",
+      "c": "Index",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:20:45+00:00",
+      "t": "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk",
+      "s": "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk",
+      "p": [
+        "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/02/orszaggyules-parlament-magyar-peter-miniszterelnok-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-ket-lepesben-harminchat-eves-adossagot-torlesztunk/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7239/72393/723939/72393939_5992a3d184baeefab4fa1fc900965791_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/02/orszaggyules-parlament-magyar-peter-miniszterelnok-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-ket-lepesben-harminchat-eves-adossagot-torlesztunk/",
+      "cred": "Kép: Index – eredeti cikk"
+    },
+    {
+      "id": "rss-4bde2ca71a54da63d4",
+      "r": "Belpolitika",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:20:35+00:00",
+      "t": "Nem sikerült megállapodni a költségvetésről, benyújtotta lemondását a belga miniszterelnök",
+      "s": "Fülöp király megfontolja a miniszterelnök lemondását, és tárgyalásokat kezdeményez a koalíciós pártok vezetőivel az elhúzódó kormányválság elkerülése érdekében.",
+      "p": [
+        "Fülöp király megfontolja a miniszterelnök lemondását, és tárgyalásokat kezdeményez a koalíciós pártok vezetőivel az elhúzódó kormányválság elkerülése érdekében."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261102_belga-miniszterelnok-lemondas-kormanyvalsag-koltsegvetes-belgium"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2c0005ad-f08f-495a-9ac9-c6f88148d459.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261102_belga-miniszterelnok-lemondas-kormanyvalsag-koltsegvetes-belgium",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-62acc382e249ee2bd6",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:20:00+00:00",
+      "t": "Hat év után megszólal Siklósi Örs utolsó, kiadatlan AWS-dala",
+      "s": "A dalt 2020-ban, egy évvel az énekes halála előtt rögzítették.",
+      "p": [
+        "A dalt 2020-ban, egy évvel az énekes halála előtt rögzítették."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/kultura/2026/11/02/siklosi-ors-szellemidezes-aws/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/26ef7435-87ff-4fd0-8fc7-bc1fe67a226f-e1793621530448-1024x675.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kultura/2026/11/02/siklosi-ors-szellemidezes-aws/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-28e8f87956957f45ed",
+      "r": "Közélet",
+      "c": "444",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:19:58+00:00",
+      "t": "Bombafenyegetés miatt magyar Gripen biztosította egy repülőgép leszállását Budapesten",
+      "s": "Londonból Szófiába tartott a járat, amikor bombafenyegetést kapott, majd Budapesttől kérte a leszállási lehetőséget.",
+      "p": [
+        "Londonból Szófiába tartott a járat, amikor bombafenyegetést kapott, majd Budapesttől kérte a leszállási lehetőséget."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/02/bombafenyegetes-miatt-magyar-gripen-biztositotta-egy-repulogep-leszallasat-budapesten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8NmglJuuBb7ArLZVs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/02/bombafenyegetes-miatt-magyar-gripen-biztositotta-egy-repulogep-leszallasat-budapesten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk"
+    },
+    {
+      "id": "rss-bebeb1e4961d8e8a4d",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:18:53+00:00",
+      "t": "Adni és kapni – apró novemberi gesztusok, amelyek mindenkivel jót tesznek",
+      "s": "November – sokan az év legszörnyűbb hónapjának tartják. Ez talán nem is véletlen, hiszen az időjárás",
+      "p": [
+        "November – sokan az év legszörnyűbb hónapjának tartják. Ez talán nem is véletlen, hiszen az időjárás"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/elet-stilus/2026/11/02/adni-es-kapni-apro-novemberi-gesztusok-amelyek-mindenkivel-jot-tesznek/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/10/pexels-ketut-subiyanto-4623358-1024x681.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/elet-stilus/2026/11/02/adni-es-kapni-apro-novemberi-gesztusok-amelyek-mindenkivel-jot-tesznek/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-5efdba35055e987ddb",
+      "r": "Közélet",
+      "c": "Index",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:18:00+00:00",
+      "t": "Bombariadó volt a Wizz Air egyik járatán, Gripenek kísérték Budapestre a repülőt",
+      "s": "Ferihegyen tűzoltók, rendőrök és terrorelhárítók várták a gépet.",
+      "p": [
+        "Ferihegyen tűzoltók, rendőrök és terrorelhárítók várták a gépet."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/02/liszt-ferenc-repuloter-bombafenyegetes-london-szofia-wizz-air-jarat-magyar-honvedseg-gripen/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/5705/57059/570594/57059437_4219605_84266bee84c9ed5687d1032954dead62_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/02/liszt-ferenc-repuloter-bombafenyegetes-london-szofia-wizz-air-jarat-magyar-honvedseg-gripen/",
+      "cred": "Kép: Index – eredeti cikk"
+    },
+    {
+      "id": "rss-b274724c2b53d0fb47",
+      "r": "Közélet",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:16:20+00:00",
+      "t": "Hidroplán röpködött hétvégén a Dunán a Rómainál, de nem mindenkinek tetszett",
+      "s": "A Kerékpárosklub elnöke kiakadt a zajon, a szervező cég szerint pedig ez egy tesztüzem volt: megszerezték a szükséges engedélyeket és maximálisan ügyeltek a biztonságra.",
+      "p": [
+        "A Kerékpárosklub elnöke kiakadt a zajon, a szervező cég szerint pedig ez egy tesztüzem volt: megszerezték a szükséges engedélyeket és maximálisan ügyeltek a biztonságra."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/szepkilatas/2026/11/02/romai-part-hidroplan-kurti-gabor"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261102/1793621577-temp-rcugmd0bhr8a3aglgbi_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/szepkilatas/2026/11/02/romai-part-hidroplan-kurti-gabor",
+      "cred": "Kép: Telex – eredeti cikk"
+    },
+    {
+      "id": "rss-ed7410e920c75cb894",
+      "r": "Belpolitika",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:16:13+00:00",
+      "t": "2027 februárjáig közzéteszik a beszervezési dossziékat is",
+      "s": "Az ügynökakták feltárása 2027. február 25-ig, a kommunizmus áldozatainak emléknapjáig tart.",
+      "p": [
+        "Az ügynökakták feltárása 2027. február 25-ig, a kommunizmus áldozatainak emléknapjáig tart."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/02/2027-februarjaig-kozzeteszik-a-beszervezesi-dossziekat-is/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/central-1122496196-1024x683.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/02/2027-februarjaig-kozzeteszik-a-beszervezesi-dossziekat-is/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-7f174fd24f17846733",
+      "r": "Gazdaság",
+      "c": "Index",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:16:00+00:00",
+      "t": "Vége az olcsó repülésnek, nagy drágulás jöhet a Ryanairnél",
+      "s": "Akár 20 százalékos jegyáremelésre is szükség lehet.",
+      "p": [
+        "Akár 20 százalékos jegyáremelésre is szükség lehet."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/gazdasag/2026/11/02/ryanair-repulojegy-aremeles-olajar/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/4522/45229/452291/45229102_3450138_83353d3f3544a7c0375d5bfd1a14aab7_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/gazdasag/2026/11/02/ryanair-repulojegy-aremeles-olajar/",
+      "cred": "Kép: Index – eredeti cikk"
+    },
     {
       "id": "rss-002ed8d44eb5610e26",
       "r": "Közélet",
@@ -178,7 +541,7 @@
       "st": "Jelentett",
       "time": "nov. 2.",
       "published_at": "2026-11-02T12:10:45+00:00",
-      "t": "Indul a négynapos parlamenti hét – kövesse élőben a HVG-n!",
+      "t": "Magyar Péter az ügynökaktákról: Eleinte több lesz a kérdés, mint a válasz – kövesse élőben a parlament ülését a HVG-n!",
       "s": "Hétfőtől csütörtökig minden nap ülésezik a parlament, kedden szavazhatják meg Fejes Pétert legfőbb ügyésznek.",
       "p": [
         "Hétfőtől csütörtökig minden nap ülésezik a parlament, kedden szavazhatják meg Fejes Pétert legfőbb ügyésznek."
@@ -205,9 +568,9 @@
       "time": "nov. 2.",
       "published_at": "2026-11-02T12:10:30+00:00",
       "t": "Getto Józsefre emlékeztek",
-      "s": "Getto Józsefre emlékeztek",
+      "s": "95. életévében elhunyt Getto József, SZDSZ-es rendszerváltó politikus.",
       "p": [
-        "Getto Józsefre emlékeztek"
+        "95. életévében elhunyt Getto József, SZDSZ-es rendszerváltó politikus."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -535,6 +898,32 @@
       "cred": "Kép: Index – eredeti cikk"
     },
     {
+      "id": "rss-c39712c4fa32dccb71",
+      "r": "Gazdaság",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:01:00+00:00",
+      "t": "Tisza-kormány: Fejes Pétert támogatja a TISZA, fontos döntések jönnek a parlamentben",
+      "s": "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, ",
+      "p": [
+        "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, "
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1967690224-orszaghaz-parlament-budapest-magyarorszag-varoskep-epiteszet-epulet-864952.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468",
+      "cred": "Kép: Portfolio – eredeti cikk"
+    },
+    {
       "id": "rss-0cf8e64a2b7709fb54",
       "r": "Közélet",
       "c": "Portfolio",
@@ -633,7 +1022,7 @@
           "https://www.portfolio.hu/befektetes/20261102/ezekkel-a-befektetesekkel-lehetett-iden-nagyot-kaszalni-es-hatalmasat-bukni-873568"
         ]
       ],
-      "img": "https://cdn.portfolio.hu/articles/images-xl/g/e/t/gettyimages-2261899201-grafikon-tozsde-technikai-elemzes-arfolyam-kereskedes-reszveny-befektet-864510.jpg",
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2261899201-grafikon-tozsde-technikai-elemzes-arfolyam-kereskedes-reszveny-befektet-864510.jpg",
       "imgs": "Portfolio",
       "imgl": "https://www.portfolio.hu/befektetes/20261102/ezekkel-a-befektetesekkel-lehetett-iden-nagyot-kaszalni-es-hatalmasat-bukni-873568",
       "cred": "Kép: Portfolio – eredeti cikk"
@@ -663,6 +1052,32 @@
       "imgs": "Origo",
       "imgl": "https://www.origo.hu/teve/2026/11/liptai-claudia-mokka-visszateres",
       "cred": "Kép: Origo – eredeti cikk"
+    },
+    {
+      "id": "rss-0e9d7a9aaace69f1d4",
+      "r": "Belpolitika",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T11:57:42+00:00",
+      "t": "Magyar Péter: 36 éves adósságot törlesztünk az ügynökakták nyilvánosságával, véget vetünk az egykori politikai elit árulásának",
+      "s": "Szerdától kereshető lesz a rendszerváltás előtti ügynökakták egy része, a miniszterelnök azt mondta: senkit nem akarnak megbélyegezni vagy megszégyeníteni, a továbblépéshez hozzátartozik az okozott sérelmek kimondása és a bocsánatkérés. Kövesse velünk percről percre a mai eseményeket.",
+      "p": [
+        "Szerdától kereshető lesz a rendszerváltás előtti ügynökakták egy része, a miniszterelnök azt mondta: senkit nem akarnak megbélyegezni vagy megszégyeníteni, a továbblépéshez hozzátartozik az okozott sérelmek kimondása és a bocsánatkérés. Kövesse velünk percről percre a mai eseményeket."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/02/magyar-peter-napirend-elott-parlament-december-24-munkaszuneti-nap-tokealapok"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261102/1793622257-temp-c31vufb0okd62gocgbn_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/02/magyar-peter-napirend-elott-parlament-december-24-munkaszuneti-nap-tokealapok",
+      "cred": "Kép: Telex – eredeti cikk"
     },
     {
       "id": "rss-ed97925d595e6c9b15",
@@ -770,16 +1185,16 @@
     },
     {
       "id": "rss-fc2e2ea6d3982db9d8",
-      "r": "Belpolitika",
+      "r": "Közélet",
       "c": "Index",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 2.",
       "published_at": "2026-11-02T11:55:00+00:00",
-      "t": "Magyar Péter újra a parlamentben, a miniszterelnök beszédével indul a hét - Az Országgyűlés ülése",
-      "s": "Magyar Péter újra a parlamentben, a miniszterelnök beszédével indul a hét - Az Országgyűlés ülése",
+      "t": "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk - Az Országgyűlés ülése",
+      "s": "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk - Az Országgyűlés ülése",
       "p": [
-        "Magyar Péter újra a parlamentben, a miniszterelnök beszédével indul a hét - Az Országgyűlés ülése"
+        "Magyar Péter: Két lépésben harminchat éves adósságot törlesztünk - Az Országgyűlés ülése"
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -1011,9 +1426,9 @@
       "time": "nov. 2.",
       "published_at": "2026-11-02T11:42:05+00:00",
       "t": "Legalább két balatonnyi víz hiányzik a talajból Magyarországon",
-      "s": "A 2022-es aszályt sokáig történelmi viszonyítási pont volt, de az idei év első kilenc hónapjára tovább fokozódott a vízhiány Magyarországon.",
+      "s": "A 2022-es aszály sokáig történelmi viszonyítási pont volt, de az idei év első kilenc hónapjára tovább fokozódott a vízhiány Magyarországon.",
       "p": [
-        "A 2022-es aszályt sokáig történelmi viszonyítási pont volt, de az idei év első kilenc hónapjára tovább fokozódott a vízhiány Magyarországon."
+        "A 2022-es aszály sokáig történelmi viszonyítási pont volt, de az idei év első kilenc hónapjára tovább fokozódott a vízhiány Magyarországon."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -1055,30 +1470,30 @@
       "cred": "Kép: Nemzeti Sport – eredeti cikk"
     },
     {
-      "id": "rss-a55ae8d84c656eb88f",
+      "id": "rss-4e918240b307c7c19d",
       "r": "Gazdaság",
-      "c": "24.hu",
+      "c": "Telex",
       "w": "",
       "st": "Jelentett",
       "time": "nov. 2.",
-      "published_at": "2026-11-02T11:38:14+00:00",
-      "t": "Elnézést kért az OTP, mert kétszer vontak le pénzt a korábbi vásárlásokkor",
-      "s": "Technikai hiba történhetett.",
+      "published_at": "2026-11-02T11:41:25+00:00",
+      "t": "A magas üzemanyagárak miatt a Ryanair jövőre megemelné a repülőjegyek árát",
+      "s": "A légitársaság szerint az iráni háború miatt annyira megnőttek a költségei, hogy kénytelen több intézkedést is mérlegelni.",
       "p": [
-        "Technikai hiba történhetett."
+        "A légitársaság szerint az iráni háború miatt annyira megnőttek a költségei, hogy kénytelen több intézkedést is mérlegelni."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
       "src": [
         [
-          "24.hu",
-          "https://24.hu/fn/gazdasag/2026/11/02/otp-kettos-levonas-szamla/"
+          "Telex",
+          "https://telex.hu/gazdasag/2026/11/02/ryanair-berfagyasztas-repulojegy-aremeles-uzemanyagar"
         ]
       ],
-      "img": "https://s.24.hu/app/uploads/2026/11/central-1033293014-e1793619415509-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/fn/gazdasag/2026/11/02/otp-kettos-levonas-szamla/",
-      "cred": "Kép: 24.hu – eredeti cikk"
+      "img": "https://assets.telex.hu/images/20261102/1793619611-temp-h2p8a8qg2b74fleeonb_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/gazdasag/2026/11/02/ryanair-berfagyasztas-repulojegy-aremeles-uzemanyagar",
+      "cred": "Kép: Telex – eredeti cikk"
     },
     {
       "id": "rss-0d9b7dea06204efbdc",
@@ -1157,422 +1572,6 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/vilag/20261102_egyesult-allamok-terrorveszely-figyelmeztetes-moszkva-fszb-tinedzser-letartoztatas",
       "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-30ee54cbddfda3e6a5",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:30:00+00:00",
-      "t": "Komoly indulatokat váltott ki az, ami Kerkez Milossal történt Liverpoolban",
-      "s": "Komoly indulatokat váltott ki az, ami Kerkez Milossal történt Liverpoolban",
-      "p": [
-        "Komoly indulatokat váltott ki az, ami Kerkez Milossal történt Liverpoolban"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/sport/sport-futball/2026/11/kerkez-milos-liverpool-arsenal-szabaly"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/SYMmVbFc76kNHXsr6z2v7STtS2wklfEQGH87jE9Yyi8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzUxNTk3OTE0Y2U3OTRhZjU4N2NkNjJlMTkwOWJhNjBm.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/sport/sport-futball/2026/11/kerkez-milos-liverpool-arsenal-szabaly",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-af2d43044b11787b0a",
-      "r": "Közélet",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:28:00+00:00",
-      "t": "Megszabadulna III. Károlytól, mint uralkodtól a fennhatósága alá tartozó sziget, sőt jóvátételt is követel",
-      "s": "Antigua és Barbuda miniszterelnöke felszólította Andy Burnham brit kormányfőt, hogy a puszta bocsánatkérésen túl fizessen jóvátételt az Egyesült Királyság transzatlanti rabszolga-kereskedelemben betöltött szerepéért. Gaston Browne a Nemzetközösség csúcstalálkozója és III. Károly király karibi látogatása kapcsán beszélt erről, egyúttal felvetette az államforma-váltás lehetőségét",
-      "p": [
-        "Antigua és Barbuda miniszterelnöke felszólította Andy Burnham brit kormányfőt, hogy a puszta bocsánatkérésen túl fizessen jóvátételt az Egyesült Királyság transzatlanti rabszolga-kereskedelemben betöltött szerepéért. Gaston Browne a Nemzetközösség csúcstalálkozója és III. Károly király karibi látogatása kapcsán beszélt erről, egyúttal felvetette az államforma-váltás lehetőségét"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261102/megszabadulna-iii-karolytol-mint-uralkodtol-a-fennhatosaga-ala-tartozo-sziget-sot-jovatetelt-is-kovetel-873572"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/a/n/t/antigua-barbuda-karib-szigetek-tengerpart-tenger-sziget-nyaralas-turizmus-utazas-hajo-kikoto-te-865986.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/global/20261102/megszabadulna-iii-karolytol-mint-uralkodtol-a-fennhatosaga-ala-tartozo-sziget-sot-jovatetelt-is-kovetel-873572",
-      "cred": "Kép: Portfolio – eredeti cikk"
-    },
-    {
-      "id": "rss-6f3dd37908e9cccffb",
-      "r": "Gazdaság",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:27:00+00:00",
-      "t": "Több mint háromszorosára ugrott a magyar lakosság fizetőképessége",
-      "s": "Jelentősen, éves összevetésben több mint 200 százalékkal javult, vagyis háromszorosára ugrott a magyar lakosság fizetőképessége 2026 harmadik negyedévére. A kedvező adatokat elsősorban a reáljövedelmek emelkedése és a háztartások erős megtakarítási hajlandósága fűti, a háttérben azonban továbbra is egy általános gazdasági fellendülés nélküli, döntően a belső fogyasztásra épülő ",
-      "p": [
-        "Jelentősen, éves összevetésben több mint 200 százalékkal javult, vagyis háromszorosára ugrott a magyar lakosság fizetőképessége 2026 harmadik negyedévére. A kedvező adatokat elsősorban a reáljövedelmek emelkedése és a háztartások erős megtakarítási hajlandósága fűti, a háttérben azonban továbbra is egy általános gazdasági fellendülés nélküli, döntően a belső fogyasztásra épülő "
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/bank/20261102/tobb-mint-haromszorosara-ugrott-a-magyar-lakossag-fizetokepessege-873594"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/i/n/t/intrum-331853.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/bank/20261102/tobb-mint-haromszorosara-ugrott-a-magyar-lakossag-fizetokepessege-873594",
-      "cred": "Kép: Portfolio – eredeti cikk"
-    },
-    {
-      "id": "rss-bac99fef6c3a1d4b89",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:26:30+00:00",
-      "t": "Egy negyvenes anyuka meghalt, egyéves gyermeke megsérült a Bögöténél történt balesetben",
-      "s": "Kórházba vitték a kicsit a mentők.",
-      "p": [
-        "Kórházba vitték a kicsit a mentők."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/02/bogote-halalos-baeset-anya-gyermeke/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/central-0803252769-53-1024x576.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/02/bogote-halalos-baeset-anya-gyermeke/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-6b31a71f564e4fc3f9",
-      "r": "Közélet",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:25:00+00:00",
-      "t": "A Real Madrid új sztárjának gesztusától elalélt a rivális szurkolótábora is – videó!",
-      "s": "Olyan történt vele, ami Vinícius Júniorral aligha fog.",
-      "p": [
-        "Olyan történt vele, ami Vinícius Júniorral aligha fog."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/sport/futball/2026/11/02/la-liga-racing-santander-real-madrid-yan-diomande-video/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7239/72393/723933/72393311_5334839_9395aeb49c58464ac6e7197b2b11b0c9_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/sport/futball/2026/11/02/la-liga-racing-santander-real-madrid-yan-diomande-video/",
-      "cred": "Kép: Index – eredeti cikk"
-    },
-    {
-      "id": "rss-647fdeebf2607f6a2d",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:22:29+00:00",
-      "t": "Öt helyszínen is házkutatást tartott a NAV: kampányra költötte az állami támogatást az egyik alapítvány",
-      "s": "Az ötmillió forintos költségvetési támogatást plakátok készítésére költötték az önkormányzati választás előtt.",
-      "p": [
-        "Az ötmillió forintos költségvetési támogatást plakátok készítésére költötték az önkormányzati választás előtt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261102_nav-hazkutatas-kampany-alapitvany"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fe36aa86-a0f6-443d-ad5e-cb0e9ef98a29.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261102_nav-hazkutatas-kampany-alapitvany",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-53b1e82bf37819cc51",
-      "r": "Sport",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:22:25+00:00",
-      "t": "Így működött a sporttao – minden 300 millió feletti programra kormányzati jóváhagyás kellett",
-      "s": "A kormány által közzétettek szerint kívülről egyszerűnek tűnhet a rendszer, de a jogszabályok mögé nézve jóval összetettebb a kép.",
-      "p": [
-        "A kormány által közzétettek szerint kívülről egyszerűnek tűnhet a rendszer, de a jogszabályok mögé nézve jóval összetettebb a kép."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/sport/2026/11/02/sporttao-program-kormanyzati-jovahagyas-300-millio-felett/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/10/central-0919885543-e1793175287462-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/sport/2026/11/02/sporttao-program-kormanyzati-jovahagyas-300-millio-felett/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-ce0f6daedc878b2d15",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:22:07+00:00",
-      "t": "Meghalt egy nő, miután árokba borult autójával Bögöte közelében, egy kisgyerek is utazott vele",
-      "s": "A gyereket a mentők kórházba vitték.",
-      "p": [
-        "A gyereket a mentők kórházba vitték."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/kek-hirek/2026/11/baleset-auto-bogote"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/10/VGfSP2mUArPr0SLWEZJLwG7BnV9iUtK0OTlx8gtZkeY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VlZWVjN2I3ZjJlMjRkOTQ4OTkwYWRiNTYyYzBhZjRh.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/kek-hirek/2026/11/baleset-auto-bogote",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-4e5c54c208b3091607",
-      "r": "Közélet",
-      "c": "Nemzeti Sport",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:21:48+00:00",
-      "t": "Videó: Szappanos Péter hatalmas védése kellett a ráadásban az Újpest győzelméhez",
-      "s": "A volt válogatott kapus Temesvári Attila közeli fejesét védte nem sokkal a lefújás előtt.",
-      "p": [
-        "A volt válogatott kapus Temesvári Attila közeli fejesét védte nem sokkal a lefújás előtt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/labdarugo-nb-i/2026/11/video-szappanos-peter-hatalmas-vedese-kellett-a-raadasban-az-ujpest-gyozelmehez"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/fr2-gx3OMfpPPkLhnOng4XXYLmC3NEt5Xl6OUk7T_ts/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzFhMmNhZmE1MjBkMDRmYmM4MThjZWE0YmZlYzU4NTQ5.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/labdarugo-nb-i/2026/11/video-szappanos-peter-hatalmas-vedese-kellett-a-raadasban-az-ujpest-gyozelmehez",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk"
-    },
-    {
-      "id": "rss-cb4f87334cad834db9",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:20:32+00:00",
-      "t": "Fidesz: Magyar Péterék az átverés költségvetését nyújtották be, azoktól is elvesznek, akiknek látszólag adnak",
-      "s": "Az ellenzéki párt szerint rosszul járnak a fiatalok, a nyugdíjasok és a lakásvásárlók is.",
-      "p": [
-        "Az ellenzéki párt szerint rosszul járnak a fiatalok, a nyugdíjasok és a lakásvásárlók is."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/belpol/2026/11/boka-janos-es-paloc-andre-sajtotajekoztatoja-a-koltsegvetesrol-eloben-az-origon"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/aUL1zBpn80B7VuXHO78oae4VLb3FE12LnAH-niAKoT4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg0ZDU4ZDhlZTg4NTQ5MDg4NDY3MzhhYjA2YTBlNzBj.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/belpol/2026/11/boka-janos-es-paloc-andre-sajtotajekoztatoja-a-koltsegvetesrol-eloben-az-origon",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-e6771fa1f879801675",
-      "r": "Gazdaság",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:19:00+00:00",
-      "t": "Véghajrában kapcsoltak rá a lakásvásárlók, megrohanták a piacot az Otthon Start utolsó napjaiban",
-      "s": "38 százalékkal több telefonos érdeklődés érkezett.",
-      "p": [
-        "38 százalékkal több telefonos érdeklődés érkezett."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/gazdasag/2026/11/02/otthon-start-program-kivezetes-utolso-napok-ingatlanok-erdeklodes/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7238/72389/723894/72389413_5334589_2f372135642fecac52d6e02f238defcc_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/gazdasag/2026/11/02/otthon-start-program-kivezetes-utolso-napok-ingatlanok-erdeklodes/",
-      "cred": "Kép: Index – eredeti cikk"
-    },
-    {
-      "id": "rss-2c2b78eac620748425",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:15:16+00:00",
-      "t": "Újabb hackertámadás Európában: szupermarketek hűtőit vették célba",
-      "s": "Nem ez az első ilyen alkalom.",
-      "p": [
-        "Nem ez az első ilyen alkalom."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/techbazis/2026/11/hackertamadas-europaban-szupermarket-hutorendszer"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/92MBVcFiSHn31xeDhEjlTYO1Xf3SBSOnrmz1KA3q7js/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2EyZmMxMTVlZWQ0NTQzYjZhMjFjMTIzMTUyNTM4MDA0.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/techbazis/2026/11/hackertamadas-europaban-szupermarket-hutorendszer",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-12ae58892a365f4796",
-      "r": "Közélet",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:14:25+00:00",
-      "t": "Bezuhant a Ryanair profitja",
-      "s": "A duplázódó üzemanyagárak állnak a háttérben.",
-      "p": [
-        "A duplázódó üzemanyagárak állnak a háttérben."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/kkv/20261102_ryanair-uzemanyag-aremelkedes-profit"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/85955e0c-faa6-464c-aded-b1de986c4820.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/kkv/20261102_ryanair-uzemanyag-aremelkedes-profit",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-475a3e665a3cef48ff",
-      "r": "Közélet",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:13:00+00:00",
-      "t": "A Fidesz Császár Attilát jelölte a Független Közmédia Testületbe, őt és a Mi Hazánk aspiránsát elutasították",
-      "s": "A KDNP jelöltje azonban zöld utat kapott.",
-      "p": [
-        "A KDNP jelöltje azonban zöld utat kapott."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/02/csaszar-attila-fidesz-jeloles-fuggetlen-kozmedia-testulet-muvelodesi-bizottsag-ules/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7239/72392/723927/72392743_5334811_fa8edb999eeef0280955a87b29c80583_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/belfold/2026/11/02/csaszar-attila-fidesz-jeloles-fuggetlen-kozmedia-testulet-muvelodesi-bizottsag-ules/",
-      "cred": "Kép: Index – eredeti cikk"
-    },
-    {
-      "id": "rss-b8978616491591d600",
-      "r": "Közélet",
-      "c": "Nemzeti Sport",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:11:43+00:00",
-      "t": "Mildner Nimród és Tamás Rebeka a legjobb ötben zárt az ifjúsági olimpián",
-      "s": "A dakari játékokon 28 sportoló képviseli hazánkat 13 sportágban.",
-      "p": [
-        "A dakari játékokon 28 sportoló képviseli hazánkat 13 sportágban."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/egyeb-egyeni/2026/11/mildner-nimrod-es-tamas-rebeka-a-legjobb-otben-zart-az-ifjusagi-olimpian"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/YjszufXdJQ0CWARoRSlC3OndBCIwAkQdBrvhwWgAUnw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJhNDgxOWNmMzE0ZjRiMDdiODZjNWRkYjkyNzJkN2Q4.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/egyeb-egyeni/2026/11/mildner-nimrod-es-tamas-rebeka-a-legjobb-otben-zart-az-ifjusagi-olimpian",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk"
-    },
-    {
-      "id": "rss-665e26cb07e594b197",
-      "r": "Külföld",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:10:00+00:00",
-      "t": "Úgy tűnik, hamar megbukott Trump nagy béketerve: Moszkva szerint ez lehetetlen",
-      "s": "A Wall Street Journal hosszú cikket közölt, amely szerint az Egyesült Államok szeretné elérni, hogy orosz gázt szállítsanak Európának, ezzel hozzájárulva az orosz-ukrán háború lezárásához. Most megjött Moszkva értékelése a felvetésről, amit Dmitrij Peszkov, a Kreml sajtótitkára prezentált – számolt be a TASzSz.",
-      "p": [
-        "A Wall Street Journal hosszú cikket közölt, amely szerint az Egyesült Államok szeretné elérni, hogy orosz gázt szállítsanak Európának, ezzel hozzájárulva az orosz-ukrán háború lezárásához. Most megjött Moszkva értékelése a felvetésről, amit Dmitrij Peszkov, a Kreml sajtótitkára prezentált – számolt be a TASzSz."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261102/ugy-tunik-hamar-megbukott-trump-nagy-beketerve-moszkva-szerint-ez-lehetetlen-873592"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/e/s/z/eszaki-aramlat-515533.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/global/20261102/ugy-tunik-hamar-megbukott-trump-nagy-beketerve-moszkva-szerint-ez-lehetetlen-873592",
-      "cred": "Kép: Portfolio – eredeti cikk"
     }
   ]
 }
