@@ -16,7 +16,7 @@ OUT = Path("data/24hu.json")
 MONTHS = {1:"jan.",2:"febr.",3:"márc.",4:"ápr.",5:"máj.",6:"jún.",7:"júl.",8:"aug.",9:"szept.",10:"okt.",11:"nov.",12:"dec."}
 def clean(s):
     s = re.sub(r"<[^>]*>", " ", s or "")
-    return re.sub(r"\\s+", " ", unescape(s)).strip()
+    return re.sub(r"\s+", " ", unescape(s)).strip()
 def category(title, tags):
     v = (title+" "+tags).lower()
     for words, name in [(("gazdaság","forint","infláció","bank","adózás"),"Gazdaság"),(("sport","foci","labdarúg","olimpia"),"Sport"),(("film","színház","zene","könyv"),"Kultúra"),(("ukrajna","oroszország","trump","eu ","izrael"),"Külföld"),(("kormány","parlament","miniszter","választás","politika"),"Belpolitika")]:
@@ -50,6 +50,6 @@ def main():
     out=out[:15]
     if not out: raise RuntimeError("No recent 24.hu RSS items; keeping previous data unchanged")
     OUT.parent.mkdir(parents=True,exist_ok=True)
-    OUT.write_text(json.dumps({"updated_at":now.isoformat(),"source":"24.hu RSS","items":out},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    OUT.write_text(json.dumps({"updated_at":now.isoformat(),"source":"24.hu RSS","items":out},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("24.hu records:",len(out))
 if __name__=="__main__": main()

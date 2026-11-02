@@ -1,16 +1,18 @@
 name: Update Hírpult news (UK daytime)
 on:
   schedule:
-    # Hourly candidate ticks; the UK-local gate below selects actual runs.
+    # Hourly candidate ticks. The gate below turns them into about four runs a day,
+    # at least 3.5 hours apart, between 07:00 and 20:59 UK time, so a delayed tick is not lost.
     - cron: '17 5-20 * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'scripts/fetch_news.py'
-      - '.github/workflows/update-news.yml'
       - 'scripts/enrich_news.py'
       - 'scripts/backfill_news.py'
+      - 'scripts/hp_ai.py'
+      - '.github/workflows/update-news.yml'
 permissions:
   contents: write
 concurrency:
@@ -19,26 +21,35 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check UK-local update window
+      - name: Check update window
         id: schedule_gate
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
           python - <<'PY'
           import datetime as dt
+          import json
           import os
+          from pathlib import Path
           from zoneinfo import ZoneInfo
-          local = dt.datetime.now(ZoneInfo("Europe/London"))
-          hour = local.hour
-          weekday = local.weekday() < 5
-          allowed = (6 <= hour <= 20 and hour % 2 == 0) if weekday else (6 <= hour <= 18 and (hour - 6) % 3 == 0)
-          should_run = os.environ["EVENT_NAME"] != "schedule" or allowed
+          now = dt.datetime.now(dt.timezone.utc)
+          local = now.astimezone(ZoneInfo("Europe/London"))
+          should_run = True
+          if os.environ["EVENT_NAME"] == "schedule":
+              should_run = 7 <= local.hour <= 20
+              path = Path("data/news.json")
+              if should_run and path.exists():
+                  try:
+                      last = dt.datetime.fromisoformat(json.loads(path.read_text(encoding="utf-8"))["updated_at"])
+                      should_run = now - last >= dt.timedelta(hours=3, minutes=30)
+                  except (ValueError, KeyError, OSError):
+                      pass
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
               out.write(f"run={str(should_run).lower()}\n")
           print(f"UK local time: {local.isoformat()}, run: {should_run}")
@@ -46,35 +57,41 @@ jobs:
       - name: Collect recent RSS headlines
         if: steps.schedule_gate.outputs.run == 'true'
         run: python scripts/fetch_news.py
-      - name: Optional AI editorial enrichment (max 3 reports)
+      - name: Write articles with Claude (max 6 per run)
         if: steps.schedule_gate.outputs.run == 'true'
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          HIRPULT_AI_MAX_ARTICLES: '3'
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Only needed if the API key is not tied to one workspace (repository variable, optional).
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
+          HIRPULT_AI_MAX_ARTICLES: '6'
         run: python scripts/enrich_news.py
-      - name: Backfill historical stories (max 2 per run)
+      - name: Lengthen catalog stories (paused, set the batch above 0 to enable)
         if: steps.schedule_gate.outputs.run == 'true'
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          HIRPULT_BACKFILL_BATCH: '2'
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
+          HIRPULT_BACKFILL_BATCH: '0'
         run: python scripts/backfill_news.py
       - name: Commit data changes
         if: steps.schedule_gate.outputs.run == 'true'
+        env:
+          # A test run started from another branch commits to that branch only, never to the live main.
+          BRANCH: ${{ github.ref_name }}
         run: |
-          git add data/news.json data/editorial.json data/news-history.json
+          git add data/news.json data/editorial.json data/news-history.json data/ai-state.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Refresh Hírpult RSS headlines"
-          # Rebase onto latest main so concurrent website edits do not reject the update.
+          # Rebase onto the latest branch tip so concurrent website edits do not reject the update.
           for attempt in 1 2 3 4 5; do
-            git fetch origin main
-            if ! git rebase origin/main; then
+            git fetch origin "$BRANCH"
+            if ! git rebase "origin/$BRANCH"; then
               git rebase --abort || true
               echo "Rebase conflict; stopping without overwriting remote changes"
               exit 1
             fi
-            if git push origin HEAD:main; then
+            if git push origin "HEAD:$BRANCH"; then
               exit 0
             fi
             echo "Push raced with another commit; retrying ($attempt/5)"

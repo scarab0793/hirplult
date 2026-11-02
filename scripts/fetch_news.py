@@ -30,8 +30,7 @@ def clean(s):
 def clean_summary(s):
     text=clean(s)
     # WordPress RSS appends an English syndication footer to Hungarian excerpts.
-    text=re.sub(r"\\s*The post\\s+.+?\\s+first appeared on\\s+.+?(?:\\s*\\.|$)", "", text, flags=re.I)
-    text=re.sub(r"\\s*The post\\s+.*$", "", text, flags=re.I)
+    text=re.sub(r"\s*The post\s+.*$", "", text, flags=re.I)
     return text.strip()
 def child(node, name):
     for x in node:

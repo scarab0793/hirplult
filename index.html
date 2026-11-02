@@ -153,7 +153,7 @@ function home(){
 }
 function list(){
  const el=document.getElementById("list");
- const l=items.filter(i=>Array.isArray(i.p)&&i.p.join(" ").length>=1200&&(cat=="Mind"||i.r==cat)&&(!thr||i.w==thr)&&(i.t+" "+i.s).toLowerCase().includes(term));
+ const l=items.filter(i=>Array.isArray(i.p)&&i.p.join(" ").length>=800&&(cat=="Mind"||i.r==cat)&&(!thr||i.w==thr)&&(i.t+" "+i.s).toLowerCase().includes(term));
  if(!l.length){el.innerHTML='<p class="empty">Ebben a rovatban még nincs elkészült részletes cikk. A rövid RSS-ajánlókat nem jelenítjük meg teljes cikként.</p>';return}
  let h="",d=null;
  for(const i of l){const dv=dayVal(i.time);if(dv!==d){d=dv;h+=`<div class="day">${DAYS[dv]||i.time}</div>`}h+=row(i)}
@@ -214,6 +214,8 @@ function routeArticle(){const m=location.hash.match(/^#\/article\/(.+)$/);if(m){
 window.addEventListener("hashchange",()=>{if(!routeArticle())home()});
 if(!routeArticle())home();
 // Load timestamped RSS news; editorial records remain unchanged.
+// An empty "op"/"cav" from the data files never erases a box the story already has.
+const mergeItem=(base,extra)=>{const x={...extra};for(const k of ["op","cav"])if(!x[k])delete x[k];return{...base,...x}};
 async function loadNews(){
  try {
   const [liveResponse,archiveResponse]=await Promise.all([
@@ -226,7 +228,7 @@ async function loadNews(){
   const overrides=new Map(editorial.filter(i=>i&&i.id&&i.ai_edited).map(i=>[i.id,i]));
   for(let n=0;n<items.length;n++){
    const newer=overrides.get(items[n].id);
-   if(newer)items[n]={...items[n],...newer};
+   if(newer)items[n]=mergeItem(items[n],newer);
   }
   const known=new Set(items.map(i=>i.id));
   const incoming=[...(Array.isArray(live.items)?live.items:[]),...editorial]
@@ -237,11 +239,11 @@ async function loadNews(){
   for(const i of unique.values()){
    if(known.has(i.id)){
     const n=items.findIndex(x=>x.id===i.id);
-    if(n>=0&&i.ai_edited)items[n]={...items[n],...i};
+    if(n>=0&&i.ai_edited)items[n]=mergeItem(items[n],i);
    }else{items.push(i);known.add(i.id);}
   }
   const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
-  const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\\S+)\\s+(\\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
+  const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\S+)\s+(\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
   items.sort((a,b)=>stamp(b)-stamp(a));
   if(!routeArticle()&&view==="nat"&&typeof home==="function")home();
  }catch(err){console.warn("News data unavailable",err);}
