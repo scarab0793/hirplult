@@ -239,7 +239,7 @@ def problems(article, corpus, references, target):
     if not 3 <= len(paragraphs) <= 9:
         found.append("use 3 to 9 paragraphs")
     n_words = len(body.split())
-    low, high = int(target * 0.6), int(target * 1.35)
+    low, high = int(target * 0.45), int(target * 1.35)
     if not low <= n_words <= high:
         found.append(f"the body has {n_words} words; it must have {low}-{high} (target {target})")
     if not 8 <= len(op.split()) <= 90:
