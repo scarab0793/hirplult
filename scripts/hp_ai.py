@@ -19,6 +19,11 @@ import urllib.request
 
 API_BASE = os.getenv("ANTHROPIC_BASE_URL", "https://api.anthropic.com").rstrip("/")
 MODEL = os.getenv("HIRPULT_AI_MODEL", "").strip() or "claude-haiku-5-5"
+# Lower effort means less thinking, which is most of the output tokens (and of the cost).
+# The API default for Haiku 5.5 is "medium"; this site uses "low" unless a variable says otherwise.
+EFFORTS = ("low", "medium", "high", "xhigh", "max")
+_effort = os.getenv("HIRPULT_AI_EFFORT", "").strip().lower() or "low"
+SETTINGS = {"effort": _effort if _effort in EFFORTS else "low"}
 API_VERSION = "2023-06-01"
 USAGE = {"calls": 0, "input_tokens": 0, "output_tokens": 0}
 SECTIONS = ("Belpolitika", "Gazdaság", "Külföld", "Közélet", "Sport", "Kultúra")
@@ -87,6 +92,8 @@ def _text_of(out):
 def ask(system, messages, key, max_tokens=8000):
     """Send one request and return the reply text. `messages` must end with a user turn."""
     body = {"model": MODEL, "max_tokens": max_tokens, "system": system, "messages": messages}
+    if SETTINGS["effort"]:
+        body["output_config"] = {"effort": SETTINGS["effort"]}
     forced = os.getenv("ANTHROPIC_AUTH_SCHEME", "").strip().lower()
     schemes = [forced] if forced else ["x-api-key", "bearer"]
     last = None
@@ -96,6 +103,12 @@ def ask(system, messages, key, max_tokens=8000):
                 return _text_of(_post(body, key, scheme))
             except ApiError as exc:
                 last = exc
+                if exc.status == 400 and "output_config" in body and re.search(r"effort|output_config", exc.detail, re.I):
+                    # The effort setting is only an optimisation: never let it stop the run.
+                    print("Warning: the API rejected the effort setting; continuing without it.")
+                    body.pop("output_config")
+                    SETTINGS["effort"] = ""
+                    continue
                 if exc.status in (0, 429, 500, 502, 503, 529) and attempt < 2:
                     time.sleep(8 * (attempt + 1))
                     continue

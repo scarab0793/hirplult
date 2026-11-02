@@ -103,6 +103,42 @@ class Client(unittest.TestCase):
             hp_ai.ask("sys", [{"role": "user", "content": "hi"}], "k")
         self.assertEqual(schemes, ["x-api-key", "bearer"])
 
+    def test_low_effort_is_sent_by_default(self):
+        sent = []
+        hp_ai.SETTINGS["effort"] = "low"
+
+        def fake_post(body, key, scheme):
+            sent.append(dict(body))
+            return self.reply([{"type": "text", "text": "{}"}])
+
+        with mock.patch.object(hp_ai, "_post", fake_post):
+            hp_ai.ask("sys", [{"role": "user", "content": "hi"}], "k")
+        self.assertEqual(sent[0]["output_config"], {"effort": "low"})
+
+    def test_rejected_effort_is_dropped_and_not_sent_again(self):
+        sent = []
+        hp_ai.SETTINGS["effort"] = "low"
+
+        def fake_post(body, key, scheme):
+            sent.append("output_config" in body)
+            if "output_config" in body:
+                raise hp_ai.ApiError(400, "invalid_request_error: output_config: Extra inputs are not permitted")
+            return self.reply([{"type": "text", "text": "{}"}])
+
+        try:
+            with mock.patch.object(hp_ai, "_post", fake_post):
+                hp_ai.ask("sys", [{"role": "user", "content": "hi"}], "k")
+                hp_ai.ask("sys", [{"role": "user", "content": "again"}], "k")
+        finally:
+            hp_ai.SETTINGS["effort"] = "low"
+        self.assertEqual(sent, [True, False, False])
+
+    def test_other_400_errors_still_fail(self):
+        hp_ai.SETTINGS["effort"] = "low"
+        with mock.patch.object(hp_ai, "_post", mock.Mock(side_effect=hp_ai.ApiError(400, "invalid_request_error: bad model"))):
+            with self.assertRaises(hp_ai.ApiError):
+                hp_ai.ask("sys", [{"role": "user", "content": "hi"}], "k")
+
     def test_refusal_is_a_value_error(self):
         with mock.patch.object(hp_ai, "_post", lambda *a: self.reply([], stop="refusal")):
             with self.assertRaises(ValueError):
