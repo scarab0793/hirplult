@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:46:36.242732+00:00",
+  "updated_at": "2026-11-02T12:49:49.215128+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -14,6 +14,58 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-b8d53f3919a99dd0f8",
+      "r": "Közélet",
+      "c": "Nemzeti Sport",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:47:37+00:00",
+      "t": "Kötöttfogású remeklés, női és szabadfogású realitás – Bácsi Péterrel értékeltük a birkózó-vb-t",
+      "s": "„Azért ha előzetesen azt mondom, hogy két döntősünk lesz, lehet, hogy sokan furcsán néztek volna rám.”",
+      "p": [
+        "„Azért ha előzetesen azt mondom, hogy két döntősünk lesz, lehet, hogy sokan furcsán néztek volna rám.”"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/birkozas/2026/11/kotottfogasu-remekles-noi-es-szabadfogasu-realitas-bacsi-peterrel-ertekeltuk-a-birkozo-vb-t"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/ST8Vs7dB6TxOetxCZ1dELGYjhJkzxHIFByB0eGqm8b4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwYThkMTM1NGM2MzRmMGI5OWQyYTA4Y2VlMDhiNjE5.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://nemzetisport.hu/birkozas/2026/11/kotottfogasu-remekles-noi-es-szabadfogasu-realitas-bacsi-peterrel-ertekeltuk-a-birkozo-vb-t",
+      "cred": "Kép: Nemzeti Sport – eredeti cikk"
+    },
+    {
+      "id": "rss-9342ce2fe7b0a2ea83",
+      "r": "Kultúra",
+      "c": "Origo",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:46:53+00:00",
+      "t": "Itt a felvétel: LMBTQ-könyvbemutatót szerveztek a gyülekezeti teremben, kiskamaszokat megcélozva",
+      "s": "Eredetileg a Fasori gimnáziumba tervezték az eseményt.",
+      "p": [
+        "Eredetileg a Fasori gimnáziumba tervezték az eseményt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/belpol/2026/11/kepregeny-kereszteny-meleg-lmbtq-gender"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/3xguO4Ikmecn1ftUg83-HT3uJf04jiwP_ZvHHNbxkDE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U0MDBmODAzMDQ5NTQ2NDk4ZTMwZTU3OWM5MTFjZWVh.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/belpol/2026/11/kepregeny-kereszteny-meleg-lmbtq-gender",
+      "cred": "Kép: Origo – eredeti cikk"
+    },
     {
       "id": "rss-0e9bdd0cb6d0ba367d",
       "r": "Külföld",
@@ -171,6 +223,32 @@
       "cred": "Kép: Telex – eredeti cikk"
     },
     {
+      "id": "rss-c39712c4fa32dccb71",
+      "r": "Gazdaság",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 2.",
+      "published_at": "2026-11-02T12:38:00+00:00",
+      "t": "Tisza-kormány: Fejes Pétert támogatja a TISZA, fontos döntések jönnek a parlamentben",
+      "s": "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, ",
+      "p": [
+        "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, "
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1967690224-orszaghaz-parlament-budapest-magyarorszag-varoskep-epiteszet-epulet-864952.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468",
+      "cred": "Kép: Portfolio – eredeti cikk"
+    },
+    {
       "id": "rss-2aa2fdc01a86bdc2ca",
       "r": "Gazdaság",
       "c": "Portfolio",
@@ -191,7 +269,7 @@
           "https://www.portfolio.hu/gazdasag/20261102/meglepi-a-kormany-amire-36-eve-varnak-a-magyarok-873620"
         ]
       ],
-      "img": "https://cdn.portfolio.hu/articles/images-xl/d/_/h/d-hr20261019020-866018.jpg",
+      "img": "https://pcdn.hu/articles/images-xl/d/_/n/d-noe20261102002-866024.jpg",
       "imgs": "Portfolio",
       "imgl": "https://www.portfolio.hu/gazdasag/20261102/meglepi-a-kormany-amire-36-eve-varnak-a-magyarok-873620",
       "cred": "Kép: Portfolio – eredeti cikk"
@@ -1289,32 +1367,6 @@
       "cred": "Kép: Index – eredeti cikk"
     },
     {
-      "id": "rss-c39712c4fa32dccb71",
-      "r": "Gazdaság",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T12:01:00+00:00",
-      "t": "Tisza-kormány: Fejes Pétert támogatja a TISZA, fontos döntések jönnek a parlamentben",
-      "s": "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, ",
-      "p": [
-        "A TISZA-frakció támogatja Fejes Péter legfőbb ügyésszé választását. A parlamentben fontos döntések jönnek: napirenden lesznek a nyilvános ügynöklisták és a magántőkealapok, a milliárdosok vagyonadója, az új legfőbb ügyész megválasztása, a december 24-i munkaszüneti nap és a költségvetés is, az ülés 13 órakor kezdődik. Kapitány István gazdasági és energetikai miniszter közölte, "
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1967690224-orszaghaz-parlament-budapest-magyarorszag-varoskep-epiteszet-epulet-864952.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/gazdasag/20261102/tisza-kormany-fejes-petert-tamogatja-a-tisza-fontos-dontesek-jonnek-a-parlamentben-873468",
-      "cred": "Kép: Portfolio – eredeti cikk"
-    },
-    {
       "id": "rss-0cf8e64a2b7709fb54",
       "r": "Közélet",
       "c": "Portfolio",
@@ -1521,58 +1573,6 @@
       "imgs": "Origo",
       "imgl": "https://www.origo.hu/belpol/2026/11/orszaggyules-parlament-magyar-peter-vitak-2026-11-02",
       "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-b3e67321622cda3174",
-      "r": "Közélet",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:56:00+00:00",
-      "t": "Súlyos veszteséget szenvedtek az oroszok, puccs söpörheti el Putyint – Háborús híreink hétfőn",
-      "s": "A 2022-ben indított teljes körű invázió kezdete óta idén októberben szenvedte el a legnagyobb havi veszteségét az orosz hadsereg az ukrán vezérkar jelentése szerint. Az ukrán védők emellett több területet szabadítottak fel a hónapban, mint amennyit a támadóknak sikerült elfoglalniuk - számolt be a Kyiv Independent . Vlagyimir Putyin a háború folytatásával maga teremti meg egy e",
-      "p": [
-        "A 2022-ben indított teljes körű invázió kezdete óta idén októberben szenvedte el a legnagyobb havi veszteségét az orosz hadsereg az ukrán vezérkar jelentése szerint. Az ukrán védők emellett több területet szabadítottak fel a hónapban, mint amennyit a támadóknak sikerült elfoglalniuk - számolt be a Kyiv Independent . Vlagyimir Putyin a háború folytatásával maga teremti meg egy e"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261102/sulyos-veszteseget-szenvedtek-az-oroszok-puccs-soporheti-el-putyint-haborus-hireink-hetfon-873458"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/u/k/r/ukrajna-tuzerseg-frontvonal-donbasz-haboru-oroszorszag-865862.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/global/20261102/sulyos-veszteseget-szenvedtek-az-oroszok-puccs-soporheti-el-putyint-haborus-hireink-hetfon-873458",
-      "cred": "Kép: Portfolio – eredeti cikk"
-    },
-    {
-      "id": "rss-6f05aa6e6da83259f7",
-      "r": "Külföld",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T11:56:00+00:00",
-      "t": "Felrobbant Oroszország legmodernebb, ötödik generációs Szu-57-es vadászgépe: itt vannak a részletek",
-      "s": "Felrobbant az orosz légierő legújabb, Szu–57-es többfeladatú vadászgépe az ahtubinszki katonai repülőtéren – közölte az ukrán katonai hírszerzés (HUR) jelentése alapján az RBK Ukraine .",
-      "p": [
-        "Felrobbant az orosz légierő legújabb, Szu–57-es többfeladatú vadászgépe az ahtubinszki katonai repülőtéren – közölte az ukrán katonai hírszerzés (HUR) jelentése alapján az RBK Ukraine ."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261102/felrobbant-oroszorszag-legmodernebb-otodik-generacios-szu-57-es-vadaszgepe-itt-vannak-a-reszletek-873602"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/s/z/u/szu-57-vadaszgep-orosz-legiero-ez-a-tipus-nem-harcol-ukrajnaban-legyszi-ne-hasznald-ukrajna-565190.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/global/20261102/felrobbant-oroszorszag-legmodernebb-otodik-generacios-szu-57-es-vadaszgepe-itt-vannak-a-reszletek-873602",
-      "cred": "Kép: Portfolio – eredeti cikk"
     }
   ]
 }
