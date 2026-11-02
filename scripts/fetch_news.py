@@ -20,6 +20,7 @@ SOURCES = [
     ("Portfolio", "https://www.portfolio.hu/rss/all.xml", "portfolio.hu"),
     ("Origo", "https://www.origo.hu/publicapi/hu/rss/origo/articles", "origo.hu"),
     ("Népszava", "https://nepszava.hu/rss", "nepszava.hu"),
+    ("Blikk", "https://www.blikk.hu/rss", "blikk.hu"),
     ("Nemzeti Sport", "https://www.nemzetisport.hu/publicapi/hu/rss/nso/articles", "nemzetisport.hu"),
 ]
 OUT = Path("data/news.json")
