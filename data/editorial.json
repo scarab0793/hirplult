@@ -1913,6 +1913,131 @@
       "imgl": "https://hvg.hu/vilag/20261102_ukrajna-oroszorszag-habor-beketargyalas-torokorszag-zelenszkij-putyin-erdogan",
       "cred": "Kép: HVG – eredeti cikk",
       "ai_edited": true
+    },
+    {
+      "id": "rss-2fc5cfb14fcb8fc783",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 3.",
+      "published_at": "2026-11-03T12:44:49+00:00",
+      "t": "Szoboszlai Dominik a combsérülése utáni visszatérésről beszélt",
+      "s": "A Liverpool középpályása a három kihagyott mérkőzés után újra pályára lépett, és a Liverpool Echónak nyilatkozva elmondta, hogyan érzi magát. A Blikk a lap szerint közölt részleteket.",
+      "p": [
+        "Szoboszlai Dominik újra pályára lépett a Liverpoolban. A magyar válogatott csapatkapitánya combizomprobléma miatt három mérkőzést hagyott ki. Az Arsenal elleni, 1–0-ra elveszített rangadó 58. percében állt be csereként.",
+        "A Blikk beszámolója szerint a 26 éves játékos korábban a Brentford elleni bajnokin már visszatért, de az első félidőben le kellett cserélni. A 69-szeres válogatott játékos a Liverpool Echónak azt mondta, nehéz időszakon van túl. Szavai szerint „A legrosszabb dolog az, amikor megsérülsz”, és a lelátóról kell nézni a csapattársakat.",
+        "A nyilatkozat szerint a Manchester City és a LASK Linz elleni mérkőzést is kihagyta, majd rövid pihenő után úgy érezte, jól van. Hogy túl korán tért-e vissza, arra nem válaszolt: ezt „titok marad”-ként említette. Azt viszont elmondta, hogy inkább a szívére hallgat, nem a testére.",
+        "A Liverpool legközelebb szerdán, a Bajnokok Ligájában a Fenerbahce vendége lesz."
+      ],
+      "cav": "Az információk a Blikk összefoglalójára és a Liverpool Echónak adott interjúra támaszkodnak, a nyilatkozatot tehát másodkézből ismerjük. A játékos egészségi állapotáról és a visszatérés időzítéséről a források nem mondanak többet, a korábbi visszatérés körülményeit pedig a játékos maga nem fejtette ki.",
+      "op": "Egy élsportolónál a visszatérés sietése nem magánügy, hiszen a klub és a válogatott eredményessége is ezen múlik. Szoboszlai őszinteségét elismerésre méltónak tartjuk, de a kérdés nyitva marad: ki felel, ha a testi jelzések háttérbe szorulnak?",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/kulfoldi-foci/premier-league-szoboszlai-dominik-liverpool-serules-visszateres/hxst812"
+        ]
+      ],
+      "img": "https://ocdn.eu/pulscms/MDA_/0d27d7979550dc356332d41dedc28a6a.jpg",
+      "imgs": "Blikk",
+      "imgl": "https://www.blikk.hu/sport/kulfoldi-foci/premier-league-szoboszlai-dominik-liverpool-serules-visszateres/hxst812",
+      "cred": "Kép: Blikk – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-2c426a04e7ed170881",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 3.",
+      "published_at": "2026-11-03T12:43:21+00:00",
+      "t": "Megnyíltak a szavazóhelyiségek az amerikai félidős választáson, Obama és Trump élesen vitázik",
+      "s": "Az Egyesült Államokban november 3-án zajló félidős választáson megnyíltak a keleti parti szavazóhelyiségek. A kampány utolsó szakaszában Barack Obama és Donald Trump is egymást bírálta.",
+      "p": [
+        "A keleti parti szavazóhelyiségek magyar idő szerint délben nyíltak meg, a helyi reggel hat órától adhatnak le voksot az amerikai választópolgárok. A voksolás elsősorban a képviselőházról, a szenátusról és 36 kormányzóról dönt, de a szavazók Donald Trump második ciklusáról is ítéletet mondanak.",
+        "XIV. Leó pápa levélben voksolt, amivel a Vatikán szerint a katolikus egyház történetében először fordult elő, hogy egy pápa szekuláris választáson szavazott. Szavazólevelét Chicagóba küldte. A Szentatya emlékeztetett arra is, hogy perui évei alatt minden alkalommal élt választójogával, ha erre jogosult volt, és a részvételre bíztatta a híveket.",
+        "Obama Georgiában, Morrow városában Jon Ossoff demokrata szenátor és Keisha Lance Bottoms mellett kampányolt. Trumpot a vámintézkedések és az iráni háború miatt bírálta, és közölte, hogy a közelgő döntéseknek erkölcsi súlyuk is van.",
+        "Obama szerint Trump a hivatalát saját magának, családjának és közeli embereinek meggazdagodására használja. Példaként kriptovalutás üzleteket és a gyermekei vállalkozásainak juttatott, adófizetői pénzből finanszírozott szerződéseket hozott fel. Állítása szerint az elnök milliárdokat keresett, miközben egyetlen republikánus képviselő sem vonta felelősségre ezekért az ügyletekért.",
+        "Trump tíz nappal a félidős választás előtt, feleségével együtt Palm Beachben szavazott. Floridában Byron Donaldst és Ashley Moody szenátort támogatja. A voksolás után a korrupcióról, az iráni tárgyalásokról és a választások tisztaságáról beszélt, és azt állította, hogy a demokrata többségű Los Angelesben érvénytelen szavazólapok vannak. A felmérések szerint a republikánusok elveszíthetik kongresszusi többségüket."
+      ],
+      "cav": "Obama vádjai és Trump Los Angeles-i állítása a két politikus kijelentése, a forrásokban nincs ellenőrzött bizonyíték mellettük. A pápa szavazásáról a Vatikán közleménye alapján számolnak be, a felmérésekről pedig csak általánosságban szólnak.",
+      "op": "Ha egy elnök a hivatalát a saját családja gazdagodására használja, az nem pártkérdés, hanem a közpénzek és az elszámoltathatóság ügye. Trump és csapata ugyanúgy köteles konkrét adatokkal igazolni az érvénytelen szavazólapokra vonatkozó állítását, mint ahogy Obamától is számon kell kérni a vádak bizonyítását.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/megnyiltak-az-elso-szavazohelyisegek/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7240/72403/724030/72403099_c4cf9a0cd32be144328cebd68649b41b_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/megnyiltak-az-elso-szavazohelyisegek/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-a84a5f283266aecc0a",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 3.",
+      "published_at": "2026-11-03T12:43:02+00:00",
+      "t": "Obama a hivatali visszaélésekkel vádolta Trumpot a félidős választások előtt",
+      "s": "Barack Obama Georgiában bírálta Donald Trumpot, míg az amerikai elnök Ohióban és Floridában igyekezett mozgósítani a szavazóit. A november 3-i félidős voksoláson a képviselőházról, a szenátusról és 36 kormányzóról döntenek.",
+      "p": [
+        "Obama Morrow városában lépett fel, ahol Jon Ossoff demokrata szenátor újraválasztását és Keisha Lance Bottoms támogatását kérte. Az Index beszámolója szerint a vámpolitika és az iráni háború miatt is kritizálta Trumpot, és erkölcsi felelősségre hívta fel a jelenlegi döntéshozókat.",
+        "A volt elnök szerint Trump a hivatalát saját magának, családjának és közeli köreinek gazdagítására használja. Példaként kriptovalutás üzleteket és a gyermekei vállalkozásainak juttatott, adófizetői pénzből finanszírozott megrendeléseket hozott fel. Állítása szerint az elnök milliárdokat keresett hivatali ideje alatt, a republikánus képviselők pedig egyikük sem vonta számonkérés alá ezeket az ügyleteket.",
+        "Donald Trump és felesége már tíz nappal a félidős választás előtt, a floridai Palm Beachben adta le szavazatát. A voksolás után az elnök a korrupcióról, az Iránnal folytatott tárgyalásokról és a választások tisztaságáról nyilatkozott, miközben a felmérések szerint a republikánusok elveszíthetik kongresszusi többségüket.",
+        "Floridában Trump Byron Donalds republikánus képviselőt és Ashley Moody republikánus szenátort támogatta. Moody jelenleg Marco Rubio korábbi szenátusi helyét tölti be. Az elnök azt állította, hogy a demokrata többségű Los Angelesben érvénytelen szavazólapok lennének, ám a beszámoló ezt nem igazolja.",
+        "Magyar idő szerint délben nyitottak meg a keleti parti szavazóhelyiségek, helyi idő szerint pedig reggel hat órától adhatják le voksaikat az amerikai választópolgárok. A cikk szerint a szavazás a képviselőház és a szenátus összetételéről szól, ám a választók Trump második ciklusáról is véleményt formálnak.",
+        "Az Index összefoglalója szerint XIV. Leó levélben szavazott, ami a katolikus egyház történetében példátlan. A pápa a voksát Chicagóba küldte, és mindenkit arra buzdított, éljen választójogával. A Vatikán közleménye szerint perui tartózkodása alatt minden alkalommal élt szavazati jogával, amikor erre jogosult volt."
+      ],
+      "cav": "Obama vádjai és Trump állításai politikai kijelentések, a beszámoló nem ellenőrzi őket. A Los Angeles-i szavazólapokra vonatkozó állítás alátámasztatlan. A pápai szavazásról szóló részek másodkézből, az Index összefoglalójából származnak, az eredeti közleményt nem láttuk.",
+      "op": "Ha egy volt elnök a vagyonszerzés vádját hozza fel, a választóknak joguk van tudni, mi igaz ebből. Az adófizetői pénzből kötött szerződések ügye nem pártkérdés, hanem a jogállam és az átláthatóság próbája. Kíváncsi lennék, hogy a republikánus képviselők hajlandók-e végre érdemben válaszolni erre.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/barack-obama-is-beszallt-a-kuzdelembe-elesen-biralta-donald-trumpot/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7240/72403/724031/72403173_a5769c7344e2e1c3ba7435fbcccb1b68_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/barack-obama-is-beszallt-a-kuzdelembe-elesen-biralta-donald-trumpot/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-d5448c3f2024af47ac",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 3.",
+      "published_at": "2026-11-03T12:38:30+00:00",
+      "t": "Trump már tíz nappal a félidős választás előtt leadta voksát, Obama erkölcsi kérdéseket vetett fel",
+      "s": "Donald Trump a floridai Palm Beachben szavazott a november 3-i amerikai félidős választások előtt, Barack Obama pedig Georgiában bírálta az elnököt. XIV. Leó pápa levélben adta le szavazatát.",
+      "p": [
+        "Az elnök és felesége a választás előtt több mint egy héttel, Floridában adta le voksát. A szavazás után Trump a korrupció vádjáról, az iráni tárgyalásokról és a választások tisztaságáról nyilatkozott. Az Index beszámolója szerint a felmérések a republikánusok többségvesztését jósolják.",
+        "Trump Floridában Byron Donalds képviselőjelöltet és Ashley Moody szenátorjelöltet támogatja. Moody Marco Rubio korábbi szenátusi helyét tölti be, Rubio jelenleg a külügyminiszter. Az elnök szerint a demokrata többségű Los Angelesben érvénytelen szavazólapok vannak, ezt az állítást a cikk nem támasztja alá, és a forrás nem közöl hozzá adatot.",
+        "A választás november 3-án zajlik, és elsősorban a képviselőház és a szenátus összetételéről dönt, emellett 36 kormányzóról is. Magyar idő szerint délben nyitottak meg a keleti parti szavazóhelyiségek, a helyi lakosok reggel hat órától szavazhatnak.",
+        "XIV. Leó pápa levélben szavazott az amerikai félidős választásokon. A Vatikán közleménye szerint ez az egyháztörténetben először fordult elő, hogy pápa világi választáson voksolt. A szavazatot Chicagóba küldte, és a híveket is arra biztatta, hogy éljenek jogukkal. A közlemény azt is megerősítette, hogy perui évei alatt minden alkalommal szavazott.",
+        "Barack Obama a georgiai Morrow városában Jon Ossoff demokrata szenátor újraválasztását és Keisha Lance Bottoms támogatását kérte, miközben Trumpot bírálta. A vámintézkedések és az iráni háború mellett erkölcsi kérdéseket is felvetett, és azt mondta, a közelgő döntéseknek erkölcsi dimenziójuk is van. Azzal vádolta az elnököt, hogy hivatalát saját és közeliei meggazdagítására használja, példaként kriptovalutás üzleteket és a gyermekei cégeinek adófizetői pénzből finanszírozott szerződéseit említette.",
+        "Obama szerint Trump milliárdokat keresett elnökként, és egyetlen republikánus képviselő sem vonta felelősségre ezekért az ügyletekért. Ezek a volt elnök politikai állításai, a cikk nem ismerteti az ügyletek részleteit vagy az érintett hatóságok álláspontját."
+      ],
+      "cav": "A forrás csak összefoglalót közöl, így nem derül ki, hogy Trump Los Angelesre vonatkozó állítását és Obama korrupciós vádjait mivel támasztják alá. A pápai szavazásról szóló információt a Vatikán közleményére hivatkozva közli a cikk, a felmérések eredményeit pedig nem részletezi.",
+      "op": "A választási tisztaságra vonatkozó vád bizonyíték nélkül kikezdi a demokrácia alapjait, és ezt egy hivatalban lévő elnöknek különösen óvatosan kellene kezelnie. Ha a közéleti szereplők a szavazatok hitelét kérdőjelezik meg, a számonkérés nem politikai ízlés kérdése. Az amerikai választópolgárnak joga van ahhoz, hogy az állításokat ellenőrizhető eljárásban, nyilvánosan megvizsgálják.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/donald-trump-mar-tiz-nappal-ezelott-leadta-a-voksat/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7240/72403/724036/72403621_53dcfbc7cd879c15d50683b8c83807f6_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/donald-trump-mar-tiz-nappal-ezelott-leadta-a-voksat/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
     }
   ]
 }
