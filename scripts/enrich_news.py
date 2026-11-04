@@ -158,7 +158,7 @@ def main():
     max_calls = int(os.getenv("HIRPULT_AI_MAX_CALLS", "16"))
     count, stop = 0, False
 
-    # Cluster the same story across outlets first, then write the stories covered by the most outlets first,
+    # Cluster the same story across outlets first, then write the stories covered by the most outlets (same topic) first,
     # so the day's big story is not crowded out by single-source items. The sort is stable (newest first inside a tier).
     used, groups = set(), []
     for a in rows:
@@ -171,7 +171,18 @@ def main():
                 group.append(b)
                 used.add(b["id"])
         groups.append(group)
-    groups.sort(key=lambda g: -min(len({x["c"] for x in g}), 4))
+    title_words = {x["id"]: words(x["t"]) for x in rows}
+
+    def buzz(group):
+        """How many other outlets run a headline on the same topic (two shared distinctive words)."""
+        shared = set()
+        for a in group:
+            for b in rows:
+                if b["c"] != a["c"] and len(title_words[a["id"]] & title_words[b["id"]]) >= 2:
+                    shared.add(b["c"])
+        return max(len({x["c"] for x in group}) - 1, len(shared))
+
+    groups.sort(key=lambda g: -min(buzz(g), 4))
 
     for group in groups:
         if stop or count >= limit or hp_ai.USAGE["calls"] >= max_calls:
