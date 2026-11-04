@@ -182,6 +182,14 @@ class Client(unittest.TestCase):
             with self.assertRaises(ValueError):
                 hp_ai.ask("sys", [{"role": "user", "content": "hi"}], "k")
 
+    def test_unescaped_quotes_are_salvaged(self):
+        bad = ('{"title": "Cím", "lead": "Azt mondta, "nem megyünk"; kész.", "paragraphs": ["Első, "idézet" itt, hosszabb szöveg.", '
+               '"Második bekezdés rendes szöveggel."], "section": "Külföld", "cav": "", "op": "Vélemény."}')
+        article = hp_ai.parse_json(bad)
+        self.assertEqual(article["lead"], "Azt mondta, „nem megyünk”; kész.")
+        self.assertEqual(len(article["paragraphs"]), 2)
+        self.assertEqual(article["section"], "Külföld")
+
     def test_parse_json_ignores_fences(self):
         self.assertEqual(hp_ai.parse_json("```json\n{\"x\": 2}\n```"), {"x": 2})
 

@@ -122,8 +122,52 @@ def parse_json(text):
     start, end = text.find("{"), text.rfind("}")
     if start < 0 or end <= start:
         raise ValueError("no JSON object in the reply")
-    # strict=False tolerates raw line breaks inside strings, a common slip.
-    return json.loads(text[start : end + 1], strict=False)
+    body = text[start : end + 1]
+    try:
+        # strict=False tolerates raw line breaks inside strings, a common slip.
+        return json.loads(body, strict=False)
+    except ValueError:
+        return _salvage(body)
+
+
+_KEYS = ("title", "lead", "paragraphs", "section", "cav", "op")
+
+
+def _salvage(body):
+    """Rebuild the article when the model left a straight double quote unescaped inside a string."""
+    marks = []
+    for key in _KEYS:
+        match = re.search(r'"%s"\s*:' % key, body)
+        if not match:
+            raise ValueError("the reply is not valid JSON and fields are missing")
+        marks.append((match.start(), match.end(), key))
+    marks.sort()
+    values = {}
+    for i, (_, value_start, key) in enumerate(marks):
+        value_end = marks[i + 1][0] if i + 1 < len(marks) else len(body)
+        values[key] = body[value_start:value_end].strip().rstrip("}").strip().rstrip(",").strip()
+
+    def unquote(value):
+        value = value.strip()
+        if value.startswith('"'):
+            value = value[1:]
+        if value.endswith('"'):
+            value = value[:-1]
+        value = value.replace('\\"', '"')
+        parts = value.split('"')
+        # alternate opening and closing quotes so the quotation check still sees them
+        out = parts[0]
+        for i, part in enumerate(parts[1:]):
+            out += ("„" if i % 2 == 0 else "”") + part
+        return out.strip()
+
+    raw = values["paragraphs"].strip()
+    if raw.startswith("[") and raw.endswith("]"):
+        raw = raw[1:-1]
+    paragraphs = [unquote(x) for x in re.split(r'"\s*,\s*"(?=[^"]{20})', raw.strip()[1:-1] if raw.strip().startswith('"') else raw)]
+    article = {k: unquote(values[k]) for k in _KEYS if k != "paragraphs"}
+    article["paragraphs"] = [x for x in paragraphs if x]
+    return article
 
 
 # ------------------------------------------------------------------------ checks

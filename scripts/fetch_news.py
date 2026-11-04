@@ -129,7 +129,7 @@ def main():
         date=parse_date(item.get("published_at"))
         if date and date.tzinfo and -3600 <= (now-date).total_seconds() <= 72*3600:
             unique[item["id"]]=item
-    rows=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:60]
+    rows=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:150]
     if not rows: raise RuntimeError("No valid recent articles; previous data preserved")
     OUT.parent.mkdir(parents=True,exist_ok=True)
     history=json.loads(HISTORY.read_text(encoding="utf-8")) if HISTORY.exists() else {"items":[]}
