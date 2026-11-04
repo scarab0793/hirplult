@@ -4178,6 +4178,324 @@
       "imgl": "",
       "cred": "",
       "ai_edited": true
+    },
+    {
+      "id": "rss-08096a40ff09f0ef12",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T15:34:05+00:00",
+      "t": "A Kreml szerint Trumpnak a félidős választások után is folytatnia kell a béketeremtést",
+      "s": "Dmitrij Peszkov, Vlagyimir Putyin sajtótitkára bízik abban, hogy Donald Trump a félidős választások után is folytatja az ukrajnai konfliktus rendezésére irányuló erőfeszítéseit. A Telex beszámolója szerint a demokraták győzelme után a Kongresszus fékezőerejéről kérdezve Peszkov annyit válaszolt: „ez Amerika belügye”.",
+      "p": [
+        "Oroszország abban bízik, hogy Donald Trump amerikai elnök a félidős választások után is folytatja az ukrajnai háború lezárására irányuló béketeremtő munkáját – közölte szerdán Dmitrij Peszkov, Vlagyimir Putyin sajtótitkára. A Telex a TASZSZ-re hivatkozva írta meg a nyilatkozatot.",
+        "Peszkov szerint már történtek előrelépések, és hamarosan a háromoldalú tárgyalások következő fordulójára kerül sor. Azt is elmondta, hogy Moszkva reméli, Melania Trump humanitárius tevékenysége is folytatódik.",
+        "Arra a kérdésre, hogy a most már demokrata többségű Kongresszus nem fogja-e akadályozni az elnök erőfeszítéseit, a sajtótitkár csak ennyit felelt: „ez Amerika belügye”.",
+        "A forrás szerint a demokraták óriási győzelmet arattak a keddi félidős választásokon, így Trumpnak második elnöksége hátralévő két évében egy teljesen demokrata többségű törvényhozással kell dolgoznia. A cikk szerint a rendeleti kormányzás révén az elnök továbbra is érvényesítheti az akaratát, a külpolitikában pedig a Kongresszus beleszólása kisebb, de a változás a Fehér Házban sem hagyható figyelmen kívül."
+      ],
+      "cav": "Az információk egyetlen forrásból, a Telex összefoglalójából származnak, amely Peszkov nyilatkozatát a TASZSZ-re hivatkozva közli. A „előrelépések” és a „háromoldalú tárgyalások” részleteiből a cikk semmit nem árul el, a midterm-eredményekről szóló keretezést pedig a lap saját hivatkozásai adják, nem a kremlin nyilatkozata.",
+      "op": "A Kreml üzenete elsősorban arról szól, hogy Moszkva a washingtoni belpolitikai erőviszonyokban is lehetőséget lát a saját érdekei szolgálatára. Az ukrajnai béke azonban nem alku tárgya lehet a hatalmi pozíciók fölött. Azt kellene számon kérni, kik és milyen feltételekről tárgyalnak, és ezt a nyilvánosságnak is joga lenne megtudni.",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793805864-temp-gp0p7qi0uuvm2bbfihd_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-3093520a43206ab2b3",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T14:36:11+00:00",
+      "t": "Szigeti Ferenc szerint volt megkeresés, de soha nem szervezték be, a dokumentumok szerint mégis szerepel a nyitottaktak.hu oldalon",
+      "s": "A Karthago zenekar vezetője reagált arra, hogy a nyitottaktak.hu felületén közzétett iratok között szerepel a neve. Szigeti Ferenc szerint megkeresés volt, de a beszervezés nem történt meg.",
+      "p": [
+        "A Karthago zenekar vezetője, Szigeti Ferenc az MTI-nek nyilatkozott arról, hogy a nyitottaktak.hu felületen szerdán közzétett dokumentumok között szerepel a 6-os kartonja. Szerinte „Valóban volt egy megkeresés”, de a kísérlet nem járt sikerrel, és soha nem szervezték be.",
+        "A HVG szerint az iratok alapján a rendszerváltás előtt a Magyar Rádió zenei szerkesztőjeként dolgozó Szigeti Ferenc beszervezési időpontja 1988. május 9. volt. A dokumentum szerint a műveletet a Belügyminisztérium III/III-as Főcsoportfőnökségéről Gábor Róbert rendőrszázados végezte, a fedőnév pedig „Csabai Vilmos” volt.",
+        "Szigeti elmondása szerint új útlevelére várt, amikor levélben értesítették, hogy a XIII. kerületbe kell mennie. Ott egy rendőrtiszt arra kérte, hogy beszéljen rá egy zenészbarátját, hogy ne kampányoljon az SZDSZ-nek a koncertjükön. Szigeti azt mondta, nem ígérte meg, hogy intézkedik, csak azt vállalta, hogy beszél a kollégájával, ám ezt később nem tette meg.",
+        "Az elbeszélés szerint a rendőrtiszt nyáron, a balatonszéplaki üdülőben felhívta, és Siófokon találkoztak. Szigeti ezt nem fenyegetésként élte meg, a tiszt pedig azt mondta, hogy a dolog úgysem lesz aktuális. Ezután már nem találkoztak: „Soha többé nem láttam.”",
+        "A nyitottaktak.hu oldalon szerdán vált elérhetővé a rendszerváltás előtti állambiztonsági szolgálatok által beszervezett hálózati személyek neve és adata. A HVG gyűjtése szerint a nevek között politikusok, egyházi személyek, zenészek, színészek, műsorvezetők és ügyvédek is szerepelnek. Az oldal a kormány állítása szerint egykori állambiztonsági ügynökök adatait teszi közzé.",
+        "Az Alkotmányvédelmi Hivatal szerint a listán nem szerepel mindenki: mintegy két és fél ezer, 1990 előtt szolgáló ügynök adatait titokban tartják."
+      ],
+      "cav": "Szigeti Ferenc beszámolója saját emlékezetén alapul, a beszervezés körülményeit a közzétett iratok nem mutatják meg. A források a személyek számában eltérnek: az egyik helyen 60 ezer, máshol 53 ezer hálózati személyről esik szó. A dokumentumok között hamis iratok is lehetnek, a név szerinti azonosítás ezért önmagában nem bizonyít semmit.",
+      "op": "A nyilvánosság ellenőrzési jog, de ehhez az kell, hogy a közölt adatokat a kontextusukkal együtt lehessen értelmezni. Egy név egy irat alapján nem jelent megbélyegzést, és egy emlékezés sem helyettesíti a forrás hitelességének vizsgálatát. Az érintettek jogai és a történelmi igazság csak akkor fér meg egymással, ha a döntéshozók nyíltan megmondják, mit tudnak és mit nem.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261104_szigeti-ferenc-karthago-beszervezes-ugynokaktak"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/08282c40-d2a5-49f5-abb0-83ec79d0c83b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261104_szigeti-ferenc-karthago-beszervezes-ugynokaktak",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-5594d6497d1dde8fa9",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T16:33:41+00:00",
+      "t": "Nyilas Zoltán András lett a dunamelléki református püspök, Balog Zoltán korszaka véget ért",
+      "s": "A Dunamelléki Református Egyházkerület tisztújításán Nyilas Zoltán András korábbi északpesti esperes kapott bizalmat a püspöki posztra. Az egyházkerületet 2021 óta vezető Balog Zoltán a mostani választáson már nem indult újra.",
+      "p": [
+        "Az egyházkerület hivatalos tájékoztatása szerint a szavazók döntöttek a püspöki székről. A 292 érvényes szavazólap alapján a többséget Nyilas Zoltán szerezte meg, a pontos szavazatszámot a rendelkezésre álló összefoglaló nem közli.",
+        "A világi vezetői tisztséget, a főgondnoki posztot Szathmáry Gergely Zoltán nyerte 164 szavazattal, míg Szalai Zsolt 127 voksot kapott.",
+        "Az új püspök 1999-ben szerzett teológus diplomát a Károli Gáspár Református Egyetemen. Segédlelkészként Őrszentmiklóson kezdte, később Szokolyán szolgált, 2006-tól pedig a Pomáz-Csobánkai Református Társegyházközség parókus lelkésze volt. Az egyházkormányzatban az Északpesti Református Egyházmegyében jegyzőként, főjegyzőként, 2015-től esperesként dolgozott.",
+        "Balog Zoltán, a korábbi emberierőforrás-miniszter 2021 óta irányította az egyházkerületet. Az összefoglaló szerint a 2024-es elnöki kegyelmi botrány után az országos zsinati elnöki posztot feladta, dunamelléki püspökként azonban hivatalban maradt.",
+        "A reformátusok tisztújítása mind a négy magyarországi egyházkerületet érinti, a megválasztott vezetők mandátuma hat évre szól. A folyamat utolsó állomása 2027 februárjában várható, amikor az újonnan felálló Zsinat megválasztja az országos vezetőket."
+      ],
+      "cav": "A forrás nem közli a püspöki választás pontos szavazatszámát, és a 2024-es botrány részleteiről is csak egy mondatot ad. Az adatok az egyházkerület hivatalos tájékoztatásán alapulnak, a többi háttér a cikk saját összefoglalása.",
+      "op": "Egy egyházi tisztújításban is az számít, hogy a szavazás átlátható és ellenőrizhető legyen. A hívek joga tudni, mekkora volt a különbség és milyen múlttal rendelkezik az új vezető. Az egyházkerületnek érdemes lenne közzétennie a részletes eredményt.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/balog-zoltan-nyilas-zoltan-dunamelleki-puspokseg/84zm6d4"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": "",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6a01e5ec8fcd8f6b86",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T16:32:22+00:00",
+      "t": "Trump a Fox News-t okolja a félidős választási vereségért",
+      "s": "A republikánus párt a félidős választáson súlyos vereséget szenvedett, a demokraták visszaszerezték a kongresszust. Donald Trump ezután elsősorban a számára baráti Fox News csatornát bírálta.",
+      "p": [
+        "A beszámoló szerint a félidős választáson összeomlott a republikánus párt, a demokraták sorra aratták a történelmi sikereket, és meggyőző fölénnyel visszafoglalták a kongresszust. Donald Trump ezt követően elsősorban a Fox News bírálatára koncentrált, amelyet a forrás szerint a vereség egyik okaként jelölt meg.",
+        "Az amerikai elnök több posztban is a csatornát tette felelőssé, azzal érvelve, hogy a Fox folyamatosan és következetesen teret ad a demokrata ellenzéknek. A forrás szerint a demokratákat gúnyos becenévvel illette, amely az angol „dumb”, vagyis hülye szóra utal.",
+        "Trump kifogásolta a Fox News választási műsorának több elemét. Nehezményezte, hogy a csatorna interjút közölt Bill de Blasióval, New York korábbi demokrata polgármesterével, akit szerinte a város valaha volt legrosszabb vezetője volt. Bírálta a csatorna közvélemény-kutatásait is, és egy műsorvezetőjét is személyesen támadta.",
+        "A nézettséggel kapcsolatban Trump azt állította, hogy a Fox nézői elpártoltak tőle, és a csatorna nézettsége jelentősen csökkent. A beszámoló szerint ezt a csökkenést közvetlenül a csatorna politikai hozzáállásának tulajdonította, nem pedig saját népszerűségének változásának.",
+        "A New York Timesnak Trump azt mondta, elfogadja az eredményeket, és kész együttműködni a demokratákkal. Később ugyanennek a lapnak azt is elmondta, szerinte azért alakult így a helyzet, mert ő nem szerepelt a szavazólapon. Az Associated Pressnek pedig elismerte, hogy az iráni háború a vereség egy részéért felelős."
+      ],
+      "cav": "A nézettségi adatokat és a közvélemény-kutatásokra vonatkozó állításokat Trump saját posztjaiban fogalmazta meg, független forrás nem erősíti meg őket. A választási eredmények részletei és a vereség okai szintén csak a beszámoló idézett nyilatkozataira támaszkodnak.",
+      "op": "Egy elnök, aki a saját médiájának kritikáját a választási vereség magyarázatává teszi, nem a számok elemzésével, hanem a hangulatával dolgozik. A demokratikus elszámoltatáshoz az kell, hogy a vezetők a vereség okait vállalják, ne pedig a kritikus újságírókat és műsorvezetőket hibáztassák.„]",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/kulfold/2026/11/04/trump-felidos-valasztas-fox-news/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/000_c2lm34c-e1793809903997-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/kulfold/2026/11/04/trump-felidos-valasztas-fox-news/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-bd7d8d14bd726f9129",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T16:23:00+00:00",
+      "t": "Szita Károly szerint nincs új az ügynökvád, a történész szerint a karton egyértelmű",
+      "s": "A 32 éve hivatalban lévő kaposvári polgármester tagadja, hogy ügynök lett volna. Állambiztonsági iratai újra kereshetővé váltak, és a Portfolio szerint a történész Ungváry Krisztián szerint a feltöltött kartonból egyértelműen kiderül a beszervezés.",
+      "p": [
+        "Szita Károly kaposvári polgármester szerint az ellene felhozott ügynökvád nem újdonság. Reagálása arra szól, hogy a kereshetővé vált állambiztonsági iratok között szerepel az ő 6-os kartonja, és mágnesszalagon is van róla adat, a Portfolio beszámolója szerint.",
+        "A városvezető azt mondta: „Nem voltam ügynök, soha nem ártottam senkinek.” Hangsúlyozta, hogy 2005-ben már hasonló vádakkal próbálták ellehetetleníteni, és szerinte ezt a választások előtt rendszeresen megismétlik. Mint mondta, 2005-ben feljelentést tett a Központi Nyomozó Ügyészségen, amely megállapította, hogy az iratokat manipulálták. A tettes kilétét azonban nem sikerült azonosítani.",
+        "Az ügyben Ungváry Krisztián történész is megszólalt, aki már 2005-ben kikérte és tanulmányozta Szita kartonját és kézzel írt jelentéseit. A 24.hu kérdésére most úgy fogalmazott, hogy a feltöltött 6-os karton gazdag adattartalma önmagában egyértelműen bizonyítja a beszervezés tényét. Érvként a napló-, dosszié- és irattári számot említette.",
+        "A beszámoló szerint Szita Károly megbízatása 1980-as beszervezése után kilenc évvel, 1989-ben szűnt meg. Ez az időrend a cikk egyik kiegészítő mondatában szerepel, külön forrás megjelölése nélkül.",
+        "A rendelkezésre álló összefoglalóból nem derül ki, hogy a kartonban szereplő adatok pontosan mit tartalmaznak, és hogy az ügyészségi eljárás lezárult-e, illetve mi lett az eredménye. A polgármester állításait és a történész értékelését is a nyilvánosságban elérhető információk alapján lehet megítélni, az iratok teljes körű elemzése nélkül."
+      ],
+      "cav": "A forrás összefoglalója csak részletekben tartalmazza a történetet, és a 2005-ös ügyészségi megállapításokat Szita Károly saját szavai alapján közli, nem független dokumentum alapján. A beszervezés időpontja és a megbízatás megszűnése egy kiegészítő mondatból származik, ezért másodkézből, megerősítés nélkül szerepel.",
+      "op": "Ha egy közszereplő ügynökmúltját a nyilvános iratok már kereshetővé tették, a kérdés nem az, hogy kellemetlen-e a vád, hanem az, hogy az iratok valóban mit mutatnak. A tisztázás a tényeken múlik, nem a sértettségen, és a választók jogos igénye, hogy ezt teljes nyilvánosságban lássák.„]",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260316077-866932.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306",
+      "cred": "Kép: Portfolio – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-e6deaae2b1532b0c27",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T16:05:00+00:00",
+      "t": "Amorim szerint a Ferencváros elleni meccs többet árul el a Milanról, mint az Inter elleni derbi",
+      "s": "A Milan edzője, Ruben Amorim a csütörtöki Európa-liga-mérkőzés előtt óvatosságra intett, és szerinte a Ferencváros elleni találkozó többet mond majd csapatáról, mint a hétvégi városi rangadó.",
+      "p": [
+        "A milánói csapat a hétvégén 3-1-re nyert az Inter ellen, ám Amorim szerint egy ilyen győzelem önmagában nem garantálja a folytatást. A 41 éves portugál szakember a csütörtöki mérkőzést megelőző szerdai sajtótájékoztatón elsősorban a csapat hullámzó teljesítményéről beszélt.",
+        "Amorim szerint a Milan bármelyik meccset megnyerheti és elveszítheti, akár a Serie A-ban, akár az Európa-ligában. Az edző hangsúlyozta, hogy ma már minden csapat minden ellenfelet ismer, ezért bármi előfordulhat.",
+        "Az olasz klub mellett Antonio Cassano korábbi válogatott játékos is megszólalt. Cassano szerint a Milannak és a Juventusnak sem szabad félvállról vennie a nemzetközi tapasztalattal rendelkező Ferencvárost.",
+        "Amorim a csütörtöki találkozót rendkívül fontosnak nevezte, és a győzelmet tűzte ki célul, annak ellenére, hogy rotációra is számít. A hosszú idény és a játékosokra nehezedő terhelés miatt néhány futballistája pihenőt kaphat.",
+        "A portugál edző a Fradit szervezett, komoly egyéniségekkel rendelkező csapatnak tartja, amely saját játékidentitással bír. Külön említette Yusufot, akit szélsőként és középcsatárként is be lehet vetni, valamint Nagy Ádámot, akinek játékintelligenciáját és helyzetfelismerését dicsérte.",
+        "Amorim szerint a Ferencvárosnak nincs mit veszítenie, és nyerni akar, a San Siro azonban a Milané, amit meg kell mutatniuk. A találkozóra csütörtökön 18.45-kor kerül sor, a hárompontos Milan és a három forduló után veretlen Ferencváros összecsapásán."
+      ],
+      "cav": "A forrás a nyilatkozatokat és Cassano véleményét másodkézből közli, a beágyazott, angol nyelvű idézeteket pedig nem lehet önállóan ellenőrizni. A cikk nem tér ki arra, hogy a rotáció pontosan mely játékosokat érinti.",
+      "op": "A nagy klubok nyilvános ígéretei és nyilatkozatai is számítanak, mert a szurkolók és a közvélemény ezekre épít. Amorim tisztességes szavai rendben vannak, de a csütörtöki pálya majd megmutatja, mennyit érnek ezek a mondatok. Vajon a Milan az ellenfelét tényleg komolyan veszi, vagy csak a fontos meccseken figyel?",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/sport/sport-futball/2026/11/fradi-ruben-amorim-ac-milan-ftc-el-sajtotajekoztato"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/WJoWLjYlNKIsEfzK-wQ3mwf8oXjK1F7LcBlXMWuInwk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQwNzk2ZDJiNTNjYjRiNWRiYzk1MDhkMTI0YWNkOGVl.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/sport/sport-futball/2026/11/fradi-ruben-amorim-ac-milan-ftc-el-sajtotajekoztato",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-abf8858181813904a2",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T15:58:54+00:00",
+      "t": "Éles tárgyakat találtak halloweeni édességekben Ausztriában és Németországban is",
+      "s": "Ausztriában és Németországban is találtak tűket és más éles tárgyakat gyerekeknek szánt halloweeni édességekben. Magyarországon a rendőrség büntetőeljárást indított egy gyömrői eset miatt.",
+      "p": [
+        "A HVG a BBC beszámolójára hivatkozva írt arról, hogy halloweeni édességekben éles tárgyakat találtak Ausztriában is. Az osztrák belügyminiszter, Gerhard Karner a jelentés szerint gyáva, rosszindulatú és egyes esetekben életveszélyes cselekménynek minősítette az incidenseket.",
+        "Ausztriában egy tízéves gyermek szenvedett könnyű szájsérülést. Johanna Mikl-Leitner alsó-ausztriai kormányzó szerint a tetteseknek a törvények előtt kell felelniük. Azt mondta: „Gyermekeink megérdemlik a gondtalan gyermekkort”.",
+        "Németországban is hasonló esetek fordultak elő. Bremervördében egy kilencéves kislány nyelve sérült meg, miután megevett egy csokoládét, amelynek belsejében 5 centiméteres tűt találtak.",
+        "Magyarországon a rendőrség a Gyömrőn tartott halloweeni utcai rendezvény után indított eljárást súlyos testi sértés kísérletének gyanúja miatt ismeretlen tettes ellen. A közlés szerint valaki tűket és szögeket rejtett a kihelyezett cukorkákba.",
+        "Közép-Frankföldön a rendőrség figyelmeztette a szülőket a lehetséges veszélyekre, miután egy anya tűt talált gyermeke csokijában. Később az anya visszament a rendőrségre, és elmondta, hogy a gyermeke beismerte: ő tette a tűt az édességbe."
+      ],
+      "cav": "A cikk a BBC beszámolójára épül, így az osztrák és német adatok másodkézből származnak, a pontos esetszám nem derül ki. A frankföldi történetben az első tájékoztatás később módosult, a tűt végül a gyermek beismerése szerint helyezte el, ezt az állítást a források nem tudják függetleníteni. A gyömrői ügyben a tettes kiléte nem ismert.",
+      "op": "Gyerekeket célzó, akár életveszélyes cselekménynél nincs helye óvatoskodásnak: a hatóságoknak gyorsan és nyilvánosan kell tisztázniuk, mi történt. A szülők bizalma abban is múlik, hogy a rendőrség nemcsak figyelmeztet, hanem számon is kér. Kérdés, hogy az eljárások végén kiderül-e a valódi elkövető, vagy marad a bizonytalanság.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261104_ausztria-eles-targyak-halloweeni-edesseg-cukor-csokolade"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9c0efab7-fdff-4e28-828a-79d94d111d7b.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261104_ausztria-eles-targyak-halloweeni-edesseg-cukor-csokolade",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-7a5c6ebd6a2a2bfe69",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T15:54:04+00:00",
+      "t": "Nyilas Zoltán András lett a Dunamelléki Református Egyházkerület új püspöke",
+      "s": "A Dunamelléki Református Egyházkerület új püspöke Nyilas Zoltán András északpesti esperes lett, aki Balog Zoltán utódja. Az egyházkerület szerdai honlapközleménye szerint a szavazatok többségét szerezte meg.",
+      "p": [
+        "Az egyházkerület közlése alapján a püspöki posztra leadott 292 érvényes szavazatból 172 jutott Nyilas Zoltán Andrásra, a másik jelölt, Lovas András 120 voksot kapott. Balog Zoltán 2021 óta vezette az egyházkerületet, most nem indult a választáson.",
+        "A főgondnoki tisztségben Szathmáry Gergely Zoltán lett a győztes, 291 érvényes szavazatból 164-et szerzett, Szalai Zsolt 127 szavazatot kapott. A megbízatások hat évre szólnak.",
+        "Nyilas Zoltán 1975-ben született Budapesten, teológiai tanulmányait 1994 és 1999 között a Károli Gáspár Református Egyetem Hittudományi Karán végezte. Lelkipásztori pályája a Szokolyai Református Egyházközségben és a Pomáz–Csobánkai Református Társegyházközségben folytatódott, 2015 óta északpesti esperes.",
+        "A cikk említi, hogy a kegyelmi ügy kirobbanása után Balog Zoltán lemondott a református egyház zsinati elnökségéről, püspöki címét azonban megtartotta. Az összefüggést a források nem részletezik.",
+        "A tisztújítás a Magyarországi Református Egyházban mind a négy egyházkerületet érinti. Az új zsinat várhatóan 2027 februárjában ülésezik, és ekkor választja meg elnökét, alelnökét és jegyzőit."
+      ],
+      "cav": "A forrás egyetlen cikk, amely az egyházkerület közleményére hivatkozik; a szavazási adatokat a bizottság közölte, függetlenül nem ellenőriztük. Balog Zoltán nem indulásának okáról és a kegyelmi üggyel való kapcsolatáról a szöveg nem nyilatkozik.",
+      "op": "Egy egyházi vezetőváltásnál a nyilvánosság joga ugyanúgy megilleti az híveket, mint bármely közintézmény ügyeit. Üdvözlendő, hogy a szavazatok számai nyilvánosak, de a kegyelmi üggyel összefüggő lemondás hátteréről a közösségnek is joga volna érdemi magyarázatot kapni.„]",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793807426-temp-me7c06om4hlt3lccmlk_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-9a9a57fef3040752da",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T15:49:36+00:00",
+      "t": "A MÚOSZ szerint etikai vétséget követett el az RTL a Gryllus Dorka-féle rosszullét-jelenettel",
+      "s": "A MÚOSZ Etikai Bizottsága szerint az RTL Reggeli című műsora etikai vétséget követett el azzal, hogy egy előre megrendezett élő adásbeli rosszulléttel tévesztette meg a nézőket. A panasz a Media1 főszerkesztőjétől érkezett.",
+      "p": [
+        "Az etikai testület 86-2026-os határozatában, amelyet 2026. november 3-án hozott, megalapozottnak találta a panaszt. Szerinte a közönség tudatos becsapása nem fér össze a szakmai szabályokkal, még akkor sem, ha a háttérben a menopauza témájának népszerűsítése állt.",
+        "Az eset október 12-én történt. Gryllus Dorka színművész az adásban rosszullétet adott elő, miközben Barabás Éva műsorvezető segítségére sietett. A Blikk beszámolója szerint a nézők napokkal később tudták meg, hogy promócióról volt szó, a csatorna pedig öt nap elteltével tájékoztatta őket. A HVG szerint a színésznő a jelenetben furcsán viselkedett, remegett a keze, és nehezen talált szavakat.",
+        "A testület különösen kifogásolta, hogy élő műsorban, kereskedelmi céllal keltettek egészségügyi vészhelyzet benyomását, a közönséget pedig nem világosították fel azonnal a megrendezésről. Szerinte az ilyen fogások hosszabb távon a médiába vetett bizalmat koptatják, mert egy későbbi, valódi eset is könnyen tűnhet reklámnak. A DM drogérialánc kampányával kapcsolatban kimondták, hogy a hirdetői érdekek nem előzhetik meg a szerkesztői döntéseket és a függetlenséget.",
+        "Eltérnek a vélemények arról, mennyit tudott a műsorvezető. Gryllus Dorka korábbi nyilatkozata szerint Barabás Éva be volt avatva, a határozat indoklása viszont abból indult ki, hogy nem tudott az előkészített akcióról. Személyes felelősséget vagy szankciót a dokumentum nem állapított meg. A HVG szerint a MÚOSZ azt is leszögezte, hogy a szerkesztőknek meg kell akadályozniuk, hogy a stáb tagjai tudtukon kívül részesei legyenek megtévesztő kampánynak.",
+        "Mélyebb vizsgálat nem indult, mert az RTL elismerte felelősségét, a Reggeli főszerkesztője, Márkus Kata pedig távozott a posztjáról. A testület arra kéri a hazai médiaszolgáltatókat, hogy építsenek ki belső védelmi rendszert a reklámozók szerkesztőségi befolyása és a nézők érzelmi manipulálása ellen.",
+        "A műsorszolgáltatókat tömörítő, médiahatósági társszabályozóként működő MEME vezetőségében az RTL és a TV2 vezérigazgatója is helyet foglal. A Blikk szerint az egyesület eddig nem foglalt érdemben állást, az illetékességre hivatkozva. A HVG beszámolója alapján a Gazdasági Versenyhivatal, az Önszabályozó Reklámtestület és a PR-szakma érdekképviselete is foglalkozott az üggyel, az eljárásaik kimenetelére vonatkozó információ azonban nincs a forrásokban. A határozat ellen a kézhezvételtől számított 15 napon belül lehet felülvizsgálatot kérni."
+      ],
+      "cav": "A forrásokban a műsorvezető tudásáról szóló állítások ellentmondanak egymásnak: Gryllus Dorka szerint Barabás Éva be volt avatva, a MÚOSZ határozata szerint nem. Az RTL belső döntéseiről és Márkus Kata távozásának körülményeiről az anyagok nem szólnak részletesen, a többi hatóság és szervezet eljárásának kimenetele pedig nem ismert.",
+      "op": "Ha egy kereskedelmi kampány a nézők valódi aggodalmát használja ki, az a csatornán túl az egész médiába vetett bizalmat rendíti meg. A főszerkesztő távozása kevés: a közönségnek azt kell tudnia, ki döntött az akcióról, és mikor. Ideje, hogy a médiapiac önszabályozó testületei nyíltan válaszoljanak erre a kérdésre.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/gryllus-dorka-rtl-reggeli-muosz-etikai-vetseg/sp31heh"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261104_etikai-vetseg-gryllus-dorka-rtl-muosz-dm-mediahack-menopauza"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7fd03624-18cf-4b84-ba8d-6bc09caf6331.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261104_etikai-vetseg-gryllus-dorka-rtl-muosz-dm-mediahack-menopauza",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-a285c5c879bdc52e72",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T15:43:14+00:00",
+      "t": "Ókovács Szilveszter bírósághoz fordul az Operaház-menesztése miatt, és Magyar Pétert is bírálja",
+      "s": "A menesztett Ókovács Szilveszter a Blikknek azt mondta, bíróság elé viszi a főigazgatói posztjáról szóló döntést. A vele szemben felhozott vádakat pontatlannak, torznak és megalapozatlannak nevezte.",
+      "p": [
+        "A Magyar Állami Operaház átvilágítását követően azonnali hatállyal menesztették Ókovács Szilveszter főigazgatót. A döntés nagy visszhangot keltett, az egykori vezető pedig a Blikk megkeresésére reagált az ellene megfogalmazott vádakra.",
+        "Az átvilágítás során több kifogás is felmerült a vezetői munkájával kapcsolatban. A Blikk szerint ezek között szerepel, hogy miniszteri jóváhagyás nélkül fizetett ki célprémiumokat, valamint külön juttatásokat kapott kommunikációs feladatokért. Ókovács Szilveszter ezeket határozottan visszautasította.",
+        "A vizsgálat több százmillió forintos karmesteri szerződésekkel és egyes produkciók költségeinek átláthatóságával kapcsolatban is hiányosságokat említett, a főigazgató ezeket is megalapozatlannak tartja. Állítása szerint a megállapítások még a minisztérium szerint sem voltak a felmentő irat tartalmának részei. Ezt a közlést a forrás nem ellenőrzi.",
+        "Ókovács Szilveszter a menesztését jogellenesnek tartja: elmondása szerint nem ért egyet sem az indokokkal, sem az eljárással, sem a jogkövetkezménnyel. Visszahelyezést és kártalanítást is perelni fog. Szerinte az elmúlt fél évben nem kapott lehetőséget egyeztetésre.",
+        "A volt főigazgató a Tisza-kormány tagjai közül Tarr és Nagy Ervin urakat bírálta, akik szerint fél éven át nem adtak életjelet a főigazgatónak. A Blikk szerint a Tisza Párt elnökét, Magyar Pétert is kritizálta, aki szerinte megváltozott.",
+        "Felesége, Máthé Zsuzsi a napokban a Parlamentben állt ki férje mellett. Ókovács Szilveszter szerint felesége arra akart rámutatni, hogy Magyar Péter nemrég még tőle kért segítséget, ez a mondat azonban csak a férj elbeszélésében szerepel.",
+        "Az egykori főigazgató szerint az Operaház munkatársai támogatáscsökkenéstől, előadástörléstől és leépítéstől tartanak. Magyar Péterről 2022-ben még nyilvánosan pozitívan nyilatkozott, a mostani konfliktus kapcsán viszont azt mondta: „Péter változott meg.”"
+      ],
+      "cav": "Az átvilágítás részleteit, a karmesteri szerződésekre és a produkciók költségeire vonatkozó megállapításokat, valamint a minisztérium állítólagos álláspontját kizárólag Ókovács Szilveszter közli, a független dokumentumok nem szerepelnek a forrásban. A Magyar Péterre és a kormány tagjaira vonatkozó állítások is csak az érintett elbeszélését tükrözik, a másik fél válasza nem ismert.",
+      "op": "Ha egy főigazgatót átvilágítás után azonnal menesztenek, a közpénz felhasználásáról szóló vádaknak nyilvánosnak kell lenniük. Az eddigi vita vádak és cáfolat között zajlik, az igazságot a bíróság dönti el. Addig a közintézmény sorsa nem lehet politikai szóváltás tárgya.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/okovacs-szilveszter-menesztes-operahaz/ksyvg8b"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": "",
+      "ai_edited": true
     }
   ]
 }
