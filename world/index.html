@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Hirpult World</title>
+<meta name="description" content="Global news in many languages, with a point of view.">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Literata:opsz,wght@7..72,400;7..72,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f6f7f9;--panel:#fff;--ink:#12151c;--muted:#5d6472;--line:#dfe2e8;--accent:#1f4fe0;--ok:#1d7a4a;--warn:#a15c00;--soft:#eef1f7;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1117;--panel:#161a22;--ink:#e8ebf1;--muted:#9aa3b2;--line:#272d38;--accent:#7ea2ff;--ok:#5fcf98;--warn:#e6b55a;--soft:#1c212b;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 "Literata","Noto Serif",Georgia,serif;padding-inline:max(16px,env(safe-area-inset-left,0px))}
+html[lang=ar] body,html[lang=fa] body,html[lang=he] body{font-family:"Noto Naskh Arabic","Noto Sans Hebrew","Segoe UI",Tahoma,sans-serif;line-height:1.8}
+html[lang=ja] body{font-family:"Noto Sans JP","Hiragino Sans","Yu Gothic",sans-serif}
+html[lang=zh] body{font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif}
+.wrap{max-width:1180px;margin:0 auto}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:20px 0 16px;border-bottom:1px solid var(--line)}
+.logo{font:800 30px/1 "Archivo",Arial,sans-serif;letter-spacing:-.02em;margin:0}
+.logo a{color:inherit;text-decoration:none}.logo i{font-style:normal;color:var(--accent)}
+.tagline{display:inline-block;margin-inline-start:14px;font:500 13px/1 "JetBrains Mono",monospace;color:var(--muted);vertical-align:middle}
+.tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+select,.home{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font:600 14px "Archivo",sans-serif;color:var(--ink);text-decoration:none}
+.shell{display:grid;grid-template-columns:200px minmax(0,1fr);gap:36px;padding-top:22px;padding-bottom:48px}
+.rail{position:sticky;top:12px;align-self:start;display:flex;flex-direction:column;gap:2px}
+.sec{display:flex;justify-content:space-between;align-items:center;gap:10px;background:none;border:0;border-inline-start:3px solid transparent;padding:8px 10px;text-align:start;cursor:pointer;font:600 15px/1.2 "Archivo",sans-serif}
+.sec .n{font:400 12px "JetBrains Mono",monospace;color:var(--muted)}
+.sec:hover{background:var(--soft)}.sec[aria-pressed=true]{background:var(--soft);border-inline-start-color:var(--accent)}
+.main{min-width:0}
+.search{width:100%;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 14px;font:400 15px "Archivo",sans-serif;margin-bottom:16px}
+.day{position:sticky;top:0;background:var(--bg);z-index:2;font:500 12px/1 "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);padding:22px 0 10px;border-bottom:1px solid var(--line)}
+.row{display:grid;grid-template-columns:120px minmax(0,1fr);gap:20px;padding:20px 0;border-bottom:1px solid var(--line)}
+.gut{font:400 12px/1.5 "JetBrains Mono",monospace;color:var(--muted)}
+.tag{font:500 11px/1.2 "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.06em;color:var(--accent)}
+.st{display:block;margin-top:6px;font:500 12px "JetBrains Mono",monospace}.st.c{color:var(--ok)}.st.u{color:var(--warn)}
+.row h3{font:700 22px/1.25 "Archivo","Noto Sans",sans-serif;margin:0 0 6px;text-wrap:balance}
+.row.lead h3{font-size:clamp(28px,4vw,38px);font-weight:800;line-height:1.12}
+.row p{margin:0 0 8px}
+.row a.t{color:inherit;text-decoration:none;cursor:pointer}.row a.t:hover{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--accent)}
+.th{float:inline-end;width:132px;height:88px;object-fit:cover;border-radius:6px;margin:2px 0 8px 16px;background:var(--soft)}
+[dir=rtl] .th{margin:2px 16px 8px 0}
+.empty{padding:40px 0;color:var(--muted)}
+.full{max-width:700px;margin:0 auto;padding:28px 0 20px}
+.back{background:none;border:0;padding:0;margin-bottom:18px;color:var(--accent);font:600 15px "Archivo",sans-serif;cursor:pointer}
+.full h2{font:800 clamp(30px,6vw,46px)/1.12 "Archivo","Noto Sans",sans-serif;margin:12px 0 14px;text-wrap:balance}
+.full .lede{font-size:20px;line-height:1.5;font-weight:600;margin:0 0 20px}
+.full p{margin:0 0 16px}
+.hero{width:100%;max-height:420px;object-fit:cover;border-radius:10px;background:var(--soft)}
+.credit{font:400 12px/1.4 "JetBrains Mono",monospace;color:var(--muted);margin:6px 0 20px}
+.credit a,.srcs a{color:var(--accent)}
+.box{border-inline-start:4px solid var(--accent);background:var(--panel);padding:12px 16px;margin:20px 0;border-radius:4px}
+.box b{display:block;font:600 12px "JetBrains Mono",monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin-bottom:4px}
+.box.know{border-inline-start-color:var(--warn)}.box.know b{color:var(--warn)}
+.mt{font:400 12px "JetBrains Mono",monospace;color:var(--muted);margin:24px 0 8px}
+.srcs{font-size:15px}
+@media(max-width:760px){.shell{grid-template-columns:1fr;gap:16px}.rail{position:static;flex-direction:row;flex-wrap:wrap;gap:6px}.sec{border:1px solid var(--line);border-radius:999px;padding:6px 12px}.row{grid-template-columns:1fr;gap:6px}.th{width:92px;height:68px}}
+</style></head>
+<body><div class="wrap">
+<header class="bar">
+ <h1 class="logo"><a href="./" id="logo">Hirpult<i>.</i>World</a><span class="tagline" id="tagline"></span></h1>
+ <div class="tools"><a class="home" id="home" href="../">Hírpult</a><label><span class="vh" id="lblLang" hidden></span><select id="lang" aria-label="Language"></select></label></div>
+</header>
+<div class="shell"><nav class="rail" id="rail"></nav><main class="main" id="app" aria-live="polite"></main></div>
+</div>
+<script>
+"use strict";
+const NATIVE={en:"English",hu:"Magyar",de:"Deutsch",es:"Español",fr:"Français",pt:"Português",pl:"Polski",sk:"Slovenčina",sl:"Slovenščina",sr:"Srpski",ro:"Română",ru:"Русский",bg:"Български",el:"Ελληνικά",tr:"Türkçe",ar:"العربية",he:"עברית",fa:"فارسی",ja:"日本語",zh:"中文"};
+const RTL=new Set(["ar","he","fa"]);
+const SEC=["World","Europe","Americas","Middle East","Asia-Pacific","Africa","Business","Technology","Science","Health","Climate","Sport","Culture"];
+const UI={
+en:{tag:"News, with a point of view",all:"Latest",view:"Our view",know:"Worth knowing",src:"Sources",back:"← Back to the news",search:"Search headlines",mt:"Machine-translated from English. Check the original sources for accuracy.",c:"Confirmed by several outlets",u:"Reported by one outlet",img:"Image",orig:"original article",none:"No articles yet.",sec:["World","Europe","Americas","Middle East","Asia-Pacific","Africa","Business","Technology","Science","Health","Climate","Sport","Culture"]},
+hu:{tag:"Hírek, nézőponttal",all:"Legfrissebb",view:"Szubjektív nézőpont",know:"Amit érdemes tudni",src:"Források",back:"← Vissza a hírekhez",search:"Keresés a címekben",mt:"Angolból gépi fordítással készült. A pontosságot az eredeti forrásokban ellenőrizd.",c:"Több kiadó megerősítette",u:"Egy kiadó jelentette",img:"Kép",orig:"eredeti cikk",none:"Még nincs cikk.",sec:["Világ","Európa","Amerika","Közel-Kelet","Ázsia és Óceánia","Afrika","Gazdaság","Technológia","Tudomány","Egészség","Éghajlat","Sport","Kultúra"]},
+de:{tag:"Nachrichten mit Standpunkt",all:"Aktuell",view:"Unsere Sicht",know:"Gut zu wissen",src:"Quellen",back:"← Zurück zu den Nachrichten",search:"Schlagzeilen durchsuchen",mt:"Maschinell aus dem Englischen übersetzt. Genauigkeit bitte an den Originalquellen prüfen.",c:"Von mehreren Medien bestätigt",u:"Von einem Medium berichtet",img:"Bild",orig:"Originalartikel",none:"Noch keine Artikel.",sec:["Welt","Europa","Amerika","Naher Osten","Asien-Pazifik","Afrika","Wirtschaft","Technologie","Wissenschaft","Gesundheit","Klima","Sport","Kultur"]},
+es:{tag:"Noticias, con punto de vista",all:"Última hora",view:"Nuestra opinión",know:"Conviene saber",src:"Fuentes",back:"← Volver a las noticias",search:"Buscar titulares",mt:"Traducido automáticamente del inglés. Compruebe la exactitud en las fuentes originales.",c:"Confirmado por varios medios",u:"Informado por un medio",img:"Imagen",orig:"artículo original",none:"Aún no hay artículos.",sec:["Mundo","Europa","América","Oriente Medio","Asia-Pacífico","África","Economía","Tecnología","Ciencia","Salud","Clima","Deportes","Cultura"]},
+fr:{tag:"L'actualité, avec un point de vue",all:"À la une",view:"Notre point de vue",know:"À savoir",src:"Sources",back:"← Retour aux actualités",search:"Rechercher dans les titres",mt:"Traduit automatiquement de l'anglais. Vérifiez l'exactitude dans les sources originales.",c:"Confirmé par plusieurs médias",u:"Rapporté par un média",img:"Image",orig:"article original",none:"Pas encore d'articles.",sec:["Monde","Europe","Amériques","Moyen-Orient","Asie-Pacifique","Afrique","Économie","Technologie","Science","Santé","Climat","Sport","Culture"]},
+pt:{tag:"Notícias, com ponto de vista",all:"Últimas",view:"A nossa opinião",know:"Convém saber",src:"Fontes",back:"← Voltar às notícias",search:"Pesquisar manchetes",mt:"Traduzido automaticamente do inglês. Verifique a exatidão nas fontes originais.",c:"Confirmado por vários meios",u:"Reportado por um meio",img:"Imagem",orig:"artigo original",none:"Ainda sem artigos.",sec:["Mundo","Europa","Américas","Médio Oriente","Ásia-Pacífico","África","Economia","Tecnologia","Ciência","Saúde","Clima","Desporto","Cultura"]},
+pl:{tag:"Wiadomości z punktem widzenia",all:"Najnowsze",view:"Nasz punkt widzenia",know:"Warto wiedzieć",src:"Źródła",back:"← Wróć do wiadomości",search:"Szukaj w nagłówkach",mt:"Tłumaczenie maszynowe z angielskiego. Dokładność sprawdź w oryginalnych źródłach.",c:"Potwierdzone przez kilka mediów",u:"Podał jeden serwis",img:"Zdjęcie",orig:"oryginalny artykuł",none:"Brak artykułów.",sec:["Świat","Europa","Ameryka","Bliski Wschód","Azja i Pacyfik","Afryka","Biznes","Technologia","Nauka","Zdrowie","Klimat","Sport","Kultura"]}
+};
+const FONTS={ar:"Noto+Naskh+Arabic:wght@400;700",fa:"Noto+Naskh+Arabic:wght@400;700",he:"Noto+Sans+Hebrew:wght@400;700",ja:"Noto+Sans+JP:wght@400;700",zh:"Noto+Sans+SC:wght@400;700",ru:"Noto+Serif:wght@400;700",bg:"Noto+Serif:wght@400;700",el:"Noto+Serif:wght@400;700"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"#";
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+const S={lang:"en",langs:["en"],items:[],tr:{},section:"",q:"",open:""};
+const params=new URLSearchParams(location.search);
+async function getJSON(path){try{const r=await fetch(path,{cache:"no-cache"});if(!r.ok)throw 0;return await r.json()}catch(e){return null}}
+function ui(){return UI[S.lang]||UI.en}
+function secName(id){const i=SEC.indexOf(id);return i<0?id:(ui().sec[i]||id)}
+function view(a){const t=S.lang==="en"?null:S.tr[a.id];return{t:t?t.t:a.t,s:t?t.s:a.s,p:t?t.p:a.p,cav:t?t.cav:a.cav,op:t?t.op:a.op,mt:!!t}}
+function fmtDay(d){try{return new Intl.DateTimeFormat(S.lang,{weekday:"long",day:"numeric",month:"long"}).format(d)}catch(e){return d.toDateString()}}
+function fmtTime(d){try{return new Intl.DateTimeFormat(S.lang,{hour:"2-digit",minute:"2-digit"}).format(d)}catch(e){return ""}}
+function setLang(l,push){
+ S.lang=l;document.documentElement.lang=l;document.documentElement.dir=RTL.has(l)?"rtl":"ltr";
+ store.set("hw-lang",l);
+ if(FONTS[l]&&!document.getElementById("f-"+l)){const k=document.createElement("link");k.id="f-"+l;k.rel="stylesheet";k.href="https://fonts.googleapis.com/css2?family="+FONTS[l]+"&display=swap";document.head.appendChild(k)}
+ $("#tagline").textContent=ui().tag;
+ const sel=$("#lang");sel.innerHTML=S.langs.map(c=>`<option value="${c}" ${c===l?"selected":""}>${esc(NATIVE[c]||c)}</option>`).join("");
+ const done=()=>{render()};
+ if(l==="en"){S.tr={};done()}else getJSON("../data/world/i18n/"+l+".json").then(t=>{S.tr=t||{};done()});
+}
+function pick(){
+ const want=params.get("lang")||store.get("hw-lang")||(navigator.language||"en").slice(0,2).toLowerCase();
+ return S.langs.includes(want)?want:"en";
+}
+function url(){const u=new URL(location.href);u.search="";if(S.lang!=="en")u.searchParams.set("lang",S.lang);if(S.open)u.searchParams.set("a",S.open);return u.pathname+u.search}
+function go(push){history[push?"pushState":"replaceState"](null,"",url())}
+function renderRail(){
+ const counts={};S.items.forEach(a=>counts[a.section]=(counts[a.section]||0)+1);
+ const mk=(id,label,n)=>`<button class="sec" data-s="${esc(id)}" aria-pressed="${S.section===id}"><span>${esc(label)}</span><span class="n">${n}</span></button>`;
+ $("#rail").innerHTML=mk("",ui().all,S.items.length)+SEC.filter(s=>counts[s]).map(s=>mk(s,secName(s),counts[s])).join("");
+}
+function render(){
+ renderRail();
+ const app=$("#app");
+ const a=S.open&&S.items.find(x=>x.id===S.open);
+ if(a){return renderArticle(app,a)}
+ const q=S.q.toLowerCase();
+ const list=S.items.filter(x=>(!S.section||x.section===S.section)&&(!q||(view(x).t+" "+view(x).s).toLowerCase().includes(q)));
+ let html=`<input class="search" id="q" type="search" placeholder="${esc(ui().search)}" value="${esc(S.q)}" aria-label="${esc(ui().search)}">`;
+ if(!list.length)html+=`<div class="empty">${esc(ui().none)}</div>`;
+ let day="";
+ list.forEach((x,i)=>{
+  const d=new Date(x.published_at),v=view(x),key=d.toDateString();
+  if(key!==day){day=key;html+=`<div class="day">${esc(fmtDay(d))}</div>`}
+  html+=`<article class="row${i===0&&!S.q?" lead":""}"><div class="gut"><span class="tag">${esc(secName(x.section))}</span><br>${esc(fmtTime(d))}<span class="st ${x.confirmed?"c":"u"}">${esc(x.confirmed?ui().c:ui().u)}</span></div><div>${x.img?`<img class="th" src="${esc(safeUrl(x.img))}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<h3><a class="t" data-a="${esc(x.id)}" href="?a=${esc(x.id)}">${esc(v.t)}</a></h3><p>${esc(v.s)}</p></div></article>`;
+ });
+ app.innerHTML=html;
+ const q2=$("#q");q2.addEventListener("input",e=>{S.q=e.target.value;const pos=e.target.selectionStart;render();const n=$("#q");n.focus();n.setSelectionRange(pos,pos)});
+}
+function renderArticle(app,a){
+ const v=view(a),d=new Date(a.published_at);
+ document.title=v.t+" – Hirpult World";
+ const credit=a.img?`<div class="credit">${esc(ui().img)}: ${esc(a.img_outlet||"")} – <a href="${esc(safeUrl(a.img_link))}" rel="noopener noreferrer" target="_blank">${esc(ui().orig)}</a></div>`:"";
+ app.innerHTML=`<div class="full"><button class="back" id="bk">${esc(ui().back)}</button>
+ <div><span class="tag">${esc(secName(a.section))}</span> · <span class="gut">${esc(fmtDay(d))}, ${esc(fmtTime(d))}</span></div>
+ <h2>${esc(v.t)}</h2><p class="lede">${esc(v.s)}</p>
+ ${a.img?`<img class="hero" src="${esc(safeUrl(a.img))}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">${credit}`:""}
+ ${(v.p||[]).map(p=>`<p>${esc(p)}</p>`).join("")}
+ ${v.cav?`<div class="box know"><b>${esc(ui().know)}</b>${esc(v.cav)}</div>`:""}
+ ${v.op?`<div class="box"><b>${esc(ui().view)}</b>${esc(v.op)}</div>`:""}
+ <div class="srcs"><b>${esc(ui().src)}:</b> ${a.src.map(s=>`<a href="${esc(safeUrl(s[1]))}" rel="noopener noreferrer" target="_blank">${esc(s[0])}</a>`).join(" · ")}</div>
+ ${v.mt?`<div class="mt">${esc(ui().mt)}</div>`:""}</div>`;
+ $("#bk").onclick=()=>{S.open="";document.title="Hirpult World";go(true);render();window.scrollTo(0,0)};
+ window.scrollTo(0,0);
+}
+document.addEventListener("click",e=>{
+ const s=e.target.closest(".sec");if(s){S.section=s.dataset.s;S.open="";render();return}
+ const a=e.target.closest("a[data-a]");if(a){e.preventDefault();S.open=a.dataset.a;go(true);render()}
+});
+$("#lang").addEventListener("change",e=>{setLang(e.target.value);go(false)});
+window.addEventListener("popstate",()=>{const p=new URLSearchParams(location.search);S.open=p.get("a")||"";render()});
+(async()=>{
+ const [man,art]=await Promise.all([getJSON("../data/world/manifest.json"),getJSON("../data/world/articles.json")]);
+ S.items=(art&&art.items)||[];
+ S.langs=(man&&man.languages)||["en"];
+ S.open=params.get("a")||"";
+ setLang(pick());
+})();
+</script></body></html>
