@@ -5,7 +5,7 @@ Napi négy futás (6, 10, 13 és 16 óra, angliai idő szerint), a `.github/work
 ## Lépések
 
 1. `fetch_news.py` – 9 forrás RSS-e (a Telex a GitHub-futtatóról jelenleg 403-at ad, ilyenkor a korábbi adat marad). Eredmény: `data/news.json` (utolsó 72 óra) és `data/news-history.json`.
-2. `enrich_news.py` – futásonként legfeljebb 6 történetből cikket ír a Claude API-val (`claude-haiku-5-5`). A forráscikket letölti, és csak abból dolgozik. Eredmény: `data/editorial.json` (az RSS-ből készült cikkeket 10 napig tartja meg).
+2. `enrich_news.py` – futásonként legfeljebb 10 történetből cikket ír a Claude API-val (`claude-haiku-5-5`). A forráscikket letölti, és csak abból dolgozik. Eredmény: `data/editorial.json` (az RSS-ből készült cikkeket 10 napig tartja meg).
 3. `backfill_news.py` – a régi katalóguscikkek bővítése. **Alapból szünetel** (`HIRPULT_BACKFILL_BATCH: '0'`), mert a katalóguscikkek készek. Ha be van kapcsolva, a meglévő „Amit érdemes tudni” és „Szubjektív nézőpont” dobozokat nem írja felül.
 
 Az oldal (`index.html`) a `data/news.json` és a `data/editorial.json` tartalmát futás közben fésüli össze.
@@ -35,7 +35,7 @@ Ha valami nem stimmel, vagy a válasz nem érvényes JSON (például elírt idé
 
 | `HIRPULT_AI_EFFORT` | ugyanott, **Variables** (nem kötelező) | a „gondolkodás” mennyisége: `low` (alap, olcsóbb), `medium` (a modell saját alapja), `high`, `xhigh`, `max` |
 
-Hasznos környezeti változók a szkriptekben: `HIRPULT_AI_MAX_ARTICLES` (cikk/futás, alap 6, legfeljebb 12), `HIRPULT_AI_MAX_CALLS` (API-hívás/futás, alap 16), `HIRPULT_KEEP_DAYS` (alap 10).
+Hasznos környezeti változók a szkriptekben: `HIRPULT_AI_MAX_ARTICLES` (cikk/futás, alap 6, itt 10, legfeljebb 12), `HIRPULT_AI_MAX_CALLS` (API-hívás/futás, alap 16, itt 24), `HIRPULT_KEEP_DAYS` (alap 10).
 
 ## Próba
 
