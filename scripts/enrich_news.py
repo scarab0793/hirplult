@@ -21,6 +21,7 @@ NEWS = Path("data/news.json")
 EDITORIAL = Path("data/editorial.json")
 STATE = Path("data/ai-state.json")
 KEEP_DAYS = int(os.getenv("HIRPULT_KEEP_DAYS", "10"))
+MAX_TRIES = 3  # a story that fails the checks is retried in later runs; unreadable sources count as MAX_TRIES at once
 # A story counts as "Megerősített" with two different publishers or one official source.
 OFFICIAL_HOSTS = ("mnb.hu", "kormany.hu", "parlament.hu", "ksh.hu", "police.hu", "eurostat", "europa.eu", "mti.hu")
 STOP = set("hogy mint után miatt szerint magyar most több egyik másik ezzel azzal között".split())
@@ -155,12 +156,13 @@ def main():
     done = {x["id"] for x in archive["items"]}
     limit = max(0, min(12, int(os.getenv("HIRPULT_AI_MAX_ARTICLES", "6"))))
     max_calls = int(os.getenv("HIRPULT_AI_MAX_CALLS", "16"))
-    used, count, stop = set(), 0, False
+    count, stop = 0, False
 
+    # Cluster the same story across outlets first, then write the stories covered by the most outlets first,
+    # so the day's big story is not crowded out by single-source items. The sort is stable (newest first inside a tier).
+    used, groups = set(), []
     for a in rows:
-        if stop or count >= limit or hp_ai.USAGE["calls"] >= max_calls:
-            break
-        if a["id"] in used or a["id"] in done or failed.get(a["id"], 0) >= 2:
+        if a["id"] in used or a["id"] in done or failed.get(a["id"], 0) >= MAX_TRIES:
             continue
         group = [a]
         used.add(a["id"])
@@ -168,10 +170,17 @@ def main():
             if b["id"] not in used and b["id"] not in done and b["c"] != a["c"] and similar(a, b):
                 group.append(b)
                 used.add(b["id"])
+        groups.append(group)
+    groups.sort(key=lambda g: -min(len({x["c"] for x in g}), 4))
+
+    for group in groups:
+        if stop or count >= limit or hp_ai.USAGE["calls"] >= max_calls:
+            break
+        a = group[0]
         try:
             article = compose(group, key)
         except NoSource:
-            failed[a["id"]] = 2  # paywalled or unreadable: do not try again
+            failed[a["id"]] = MAX_TRIES  # paywalled or unreadable: do not try again
             continue
         except ValueError as exc:
             failed[a["id"]] = failed.get(a["id"], 0) + 1
