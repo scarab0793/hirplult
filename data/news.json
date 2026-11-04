@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-11-04T09:06:20.472149+00:00",
+  "updated_at": "2026-11-04T09:11:05.428255+00:00",
   "sources_ok": [
     "24.hu",
+    "Telex",
     "HVG",
     "444",
     "Index",
@@ -11,10 +12,112 @@
     "Blikk",
     "Nemzeti Sport"
   ],
-  "sources_failed": [
-    "Telex: HTTPError: HTTP Error 403: Forbidden"
-  ],
+  "sources_failed": [],
   "items": [
+    {
+      "id": "rss-975815b1b8242c1b65",
+      "r": "Belpolitika",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:06:35+00:00",
+      "t": "Bóka János az ügynökakták megnyitásáról: Újra politikai cirkusz van",
+      "s": "A Fidesz frakcióvezetője szerint ez az esemény arra tökéletesen alkalmas, hogy „újra politikai cirkuszt generáljon és elvegye az emberek figyelmét a valóban fontos problémákról.”",
+      "p": [
+        "A Fidesz frakcióvezetője szerint ez az esemény arra tökéletesen alkalmas, hogy „újra politikai cirkuszt generáljon és elvegye az emberek figyelmét a valóban fontos problémákról.”"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/ugynokaktak/2026/11/04/fidesz-boka-janos-ugynokaktak"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793783009-temp-5o1igubt7m7scaimgji_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/ugynokaktak/2026/11/04/fidesz-boka-janos-ugynokaktak",
+      "cred": "Kép: Telex – eredeti cikk"
+    },
+    {
+      "id": "rss-e75175dfb2da417fde",
+      "r": "Közélet",
+      "c": "Index",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:06:00+00:00",
+      "t": "A Barcelona sztárja a két gólja ellenére nem akart a futballról beszélgetni",
+      "s": "A Manchester United vezetőedzője elmondta, mikor ér igazán sokat a drámai győzelem.",
+      "p": [
+        "A Manchester United vezetőedzője elmondta, mikor ér igazán sokat a drámai győzelem."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/sport/futball/2026/11/04/labdarugo-bajnokok-ligaja-negyedik-fordulo-barcelona-aston-villa-raphinha-manchester-united-as-roma-michael-carrick/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7241/72411/724116/72411659_5336191_42544a54b0e0a7d8d7a6cecb0f57c01c_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/sport/futball/2026/11/04/labdarugo-bajnokok-ligaja-negyedik-fordulo-barcelona-aston-villa-raphinha-manchester-united-as-roma-michael-carrick/",
+      "cred": "Kép: Index – eredeti cikk"
+    },
+    {
+      "id": "rss-34f911be1d733be4d6",
+      "r": "Közélet",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:06:00+00:00",
+      "t": "Orosz provokációt füleltek le a NATO határánál, elszabadultak az indulatok egy ukrán bázisnál – Háborús híreink Ukrajnából szerdán",
+      "s": "Donald Tusk lengyel miniszterelnök kedden bejelentette, hogy provokációt akadályoztak meg Lengyelország és Oroszországnál határánál a kalinyingrádi exklávénál – írja az Onet.pl . Összecsapások törtek ki a tüntetők és a hatóságok között hétfő késő este egy Kijev közelében található katonai körletnél, miután a közösségi médiában hírek terjedtek el az ott elhelyezett újoncok állít",
+      "p": [
+        "Donald Tusk lengyel miniszterelnök kedden bejelentette, hogy provokációt akadályoztak meg Lengyelország és Oroszországnál határánál a kalinyingrádi exklávénál – írja az Onet.pl . Összecsapások törtek ki a tüntetők és a hatóságok között hétfő késő este egy Kijev közelében található katonai körletnél, miután a közösségi médiában hírek terjedtek el az ott elhelyezett újoncok állít"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/global/20261104/orosz-provokaciot-fuleltek-le-a-nato-hataranal-elszabadultak-az-indulatok-egy-ukran-bazisnal-haborus-hireink-ukrajnabol-szerdan-874110"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/u/k/r/ukran-katona-ukrajna-harcter-oroszorszag-frontvonal-866670.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/global/20261104/orosz-provokaciot-fuleltek-le-a-nato-hataranal-elszabadultak-az-indulatok-egy-ukran-bazisnal-haborus-hireink-ukrajnabol-szerdan-874110",
+      "cred": "Kép: Portfolio – eredeti cikk"
+    },
+    {
+      "id": "rss-e8ff7cf8fe93fb172a",
+      "r": "Közélet",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:06:00+00:00",
+      "t": "Vége a méregdrága jutalékoknak: gyökeres fordulat jön a nyugdíjcélú megtakarításoknál számos európai országban",
+      "s": "Alapjaiban rendezi át az európai életbiztosítási piacot a költségek radikális leszorítására irányuló szabályozói nyomás és az olcsó digitális versenytársak térnyerése. A folyamat legmarkánsabb példája a német nyugdíjreform, amely 2027 januárjától eltörli a kötelező százszázalékos tőkegaranciát, és 1 százalékban maximálja az államilag támogatott standard nyugdíjtermékek éves köl",
+      "p": [
+        "Alapjaiban rendezi át az európai életbiztosítási piacot a költségek radikális leszorítására irányuló szabályozói nyomás és az olcsó digitális versenytársak térnyerése. A folyamat legmarkánsabb példája a német nyugdíjreform, amely 2027 januárjától eltörli a kötelező százszázalékos tőkegaranciát, és 1 százalékban maximálja az államilag támogatott standard nyugdíjtermékek éves köl"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/befektetes/20261104/vege-a-meregdraga-jutalekoknak-gyokeres-fordulat-jon-a-nyugdijcelu-megtakaritasoknal-szamos-europai-orszagban-874150"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1182778625-befektetes-tozsde-penzugy-reszvenypiac-arfolyam-technikai-elemzes-meg-866738.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/befektetes/20261104/vege-a-meregdraga-jutalekoknak-gyokeres-fordulat-jon-a-nyugdijcelu-megtakaritasoknal-szamos-europai-orszagban-874150",
+      "cred": "Kép: Portfolio – eredeti cikk"
+    },
     {
       "id": "rss-ab9f1d209a453a5275",
       "r": "Közélet",
@@ -40,6 +143,58 @@
       "imgs": "Origo",
       "imgl": "https://www.origo.hu/kek-hirek/2026/11/busz-tuz-2-es-fout",
       "cred": "Kép: Origo – eredeti cikk"
+    },
+    {
+      "id": "rss-cb07f3277a02663e3c",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:05:25+00:00",
+      "t": "NKA-ügy: Karácsonyig biztosan rács mögött marad Bús Balázs",
+      "s": "Ezt követően a bíróság már csak az ülés megtartása mellett dönthet a letartóztatás meghosszabbításáról.",
+      "p": [
+        "Ezt követően a bíróság már csak az ülés megtartása mellett dönthet a letartóztatás meghosszabbításáról."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261104_bus-balazs-nka-ugy-letartoztatas-meghosszabbitas-karacsony"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/12efca20-12bb-4b0b-8c40-eea8d48c32ea.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261104_bus-balazs-nka-ugy-letartoztatas-meghosszabbitas-karacsony",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-05fa51f3c061ffcfa5",
+      "r": "Gazdaság",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:05:22+00:00",
+      "t": "Tárkányi Zsolt nyilvánosságra hozta Szijjártóék CATL-lel kötött szándéknyilatkozatát",
+      "s": "Számos ponton aládolgozott volna az állam és az önkormányzat a kínai akkugyárnak.",
+      "p": [
+        "Számos ponton aládolgozott volna az állam és az önkormányzat a kínai akkugyárnak."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/fn/gazdasag/2026/11/04/tarkanyi-zsolt-szijjarto-catl-szandeknyilatkozat/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/catl-e1793782994771-1024x577.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/fn/gazdasag/2026/11/04/tarkanyi-zsolt-szijjarto-catl-szandeknyilatkozat/",
+      "cred": "Kép: 24.hu – eredeti cikk"
     },
     {
       "id": "rss-95e2e6da0b3cd1ec97",
@@ -170,32 +325,6 @@
       "imgs": "24.hu",
       "imgl": "https://24.hu/belfold/2026/11/04/ennel-szelesebb-korben-nem-hoztak-sehol-nyilvanossagra-iratokat/",
       "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-34f911be1d733be4d6",
-      "r": "Közélet",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T09:01:00+00:00",
-      "t": "Orosz provokációt füleltek le a NATO határánál, elszabadultak az indulatok egy ukrán bázisnál – Háborús híreink Ukrajnából szerdán",
-      "s": "Donald Tusk lengyel miniszterelnök kedden bejelentette, hogy provokációt akadályoztak meg Lengyelország és Oroszországnál határánál a kalinyingrádi exklávénál – írja az Onet.pl . Összecsapások törtek ki a tüntetők és a hatóságok között hétfő késő este egy Kijev közelében található katonai körletnél, miután a közösségi médiában hírek terjedtek el az ott elhelyezett újoncok állít",
-      "p": [
-        "Donald Tusk lengyel miniszterelnök kedden bejelentette, hogy provokációt akadályoztak meg Lengyelország és Oroszországnál határánál a kalinyingrádi exklávénál – írja az Onet.pl . Összecsapások törtek ki a tüntetők és a hatóságok között hétfő késő este egy Kijev közelében található katonai körletnél, miután a közösségi médiában hírek terjedtek el az ott elhelyezett újoncok állít"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261104/orosz-provokaciot-fuleltek-le-a-nato-hataranal-elszabadultak-az-indulatok-egy-ukran-bazisnal-haborus-hireink-ukrajnabol-szerdan-874110"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/u/k/r/ukran-katona-ukrajna-harcter-oroszorszag-frontvonal-866670.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/global/20261104/orosz-provokaciot-fuleltek-le-a-nato-hataranal-elszabadultak-az-indulatok-egy-ukran-bazisnal-haborus-hireink-ukrajnabol-szerdan-874110",
-      "cred": "Kép: Portfolio – eredeti cikk"
     },
     {
       "id": "rss-3597450a6aa6e41932",
@@ -406,6 +535,32 @@
       "cred": "Kép: Index – eredeti cikk"
     },
     {
+      "id": "rss-4fa7b1941190f16d86",
+      "r": "Közélet",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:58:39+00:00",
+      "t": "Már biztos, hogy a szentestét is börtönben tölti Bús Balázs",
+      "s": "Másodfokon is döntöttek az NKA volt alelnöke letartóztatásának meghosszabbításáról.",
+      "p": [
+        "Másodfokon is döntöttek az NKA volt alelnöke letartóztatásának meghosszabbításáról."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/04/bus-balazs-borton-letartoztatas-meghosszabbitas-december-25"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793782679-temp-s6g2v72sufn9bmnfcep_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/04/bus-balazs-borton-letartoztatas-meghosszabbitas-december-25",
+      "cred": "Kép: Telex – eredeti cikk"
+    },
+    {
       "id": "rss-1252b3a4a82f1afcd6",
       "r": "Sport",
       "c": "24.hu",
@@ -596,9 +751,9 @@
       "time": "nov. 4.",
       "published_at": "2026-11-04T08:56:00+00:00",
       "t": "Amerikai választás 2026: történelmi vereséget szenvedett Trump pártja, mindent vittek a demokraták",
-      "s": "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták, több republikánus fellegv",
+      "s": "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták , több republikánus felleg",
       "p": [
-        "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták, több republikánus fellegv"
+        "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták , több republikánus felleg"
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -690,6 +845,32 @@
       "imgs": "",
       "imgl": "",
       "cred": ""
+    },
+    {
+      "id": "rss-666da35efaabe37817",
+      "r": "Gazdaság",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:53:53+00:00",
+      "t": "31 százalékkal több új lakást adtak át az év első 9 hónapjában, mint egy évvel korábban",
+      "s": "A KSH adatai szerint eddig valamivel több, mint 22 ezer új lakás építésére adtak ki engedélyt idén.",
+      "p": [
+        "A KSH adatai szerint eddig valamivel több, mint 22 ezer új lakás építésére adtak ki engedélyt idén."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/gazdasag/2026/11/04/ksh-lakasepites-lakaspiac"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793782372-temp-pj7jm5esfqhe7iiinib_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/gazdasag/2026/11/04/ksh-lakasepites-lakaspiac",
+      "cred": "Kép: Telex – eredeti cikk"
     },
     {
       "id": "rss-0f03b4c85d5140c14f",
@@ -950,6 +1131,32 @@
       "imgs": "24.hu",
       "imgl": "https://24.hu/belfold/2026/11/04/magyar-peter-36-eves-mulasztast-kell-most-rendezni/",
       "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
+      "id": "rss-1314ba6749826ae9ad",
+      "r": "Gazdaság",
+      "c": "Telex",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:43:52+00:00",
+      "t": "Többezer ázsiai munkavállalónak gyorsított vízum, bérlakások ezrei – újabb részleteket közölt Tárkányi az Orbán-kormány CATL-nek tett ígéreteiből",
+      "s": "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel.",
+      "p": [
+        "A Közlekedési és Beruházási Minisztérium államtitkára több oldalt is közzétett abból a szándéknyilatkozatból, amit 2022 augusztusában kötött az Orbán-kormány a kínai céggel."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/gazdasag/2026/11/04/tarkanyi-zsolt-catl-szandeknyilatkozat-vendegmunkasok-telekvasarlas-kepzesek"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261104/1793781730-temp-7106t8uhf31qelpbnig_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/gazdasag/2026/11/04/tarkanyi-zsolt-catl-szandeknyilatkozat-vendegmunkasok-telekvasarlas-kepzesek",
+      "cred": "Kép: Telex – eredeti cikk"
     },
     {
       "id": "rss-33b3946376cd194033",
@@ -1366,214 +1573,6 @@
       "imgs": "24.hu",
       "imgl": "https://24.hu/kultura/2026/11/04/john-lewis-karacsonyi-reklam-2026-kristin-scott-thomas/",
       "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-7784c1784295a77eb0",
-      "r": "Közélet",
-      "c": "24.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:36:13+00:00",
-      "t": "Nyilvánossá teszik az ügynökaktákat",
-      "s": "Élő közvetítésünk az Állambiztonsági Szolgálatok Történeti Levéltárának eseményéről, melyen nyilvánosságra hozzák az ügynökaktákat.",
-      "p": [
-        "Élő közvetítésünk az Állambiztonsági Szolgálatok Történeti Levéltárának eseményéről, melyen nyilvánosságra hozzák az ügynökaktákat."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/04/nyilvanosak-ugynokaktak-magyar-peter-allambiztonsag-iratok/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/ugynokaktak-e1793777428502.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/04/nyilvanosak-ugynokaktak-magyar-peter-allambiztonsag-iratok/",
-      "cred": "Kép: 24.hu – eredeti cikk"
-    },
-    {
-      "id": "rss-dfdb1ece98de8a91dc",
-      "r": "Belpolitika",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:35:46+00:00",
-      "t": "Magyarország szembenéz a múltjával, megnyílnak az ügynökakták – élőben a kormány sajtótájékoztatója",
-      "s": "36 év után válnak nyilvánossá azok az adatok, amelyekből jobban megérthetjük a kommunista rendszer jelentési hálózatát. Magyar Péter, Tarr Zoltán és az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója, Cseh Gergő Bendegúz sajtótájékoztatója percről percre.",
-      "p": [
-        "36 év után válnak nyilvánossá azok az adatok, amelyekből jobban megérthetjük a kommunista rendszer jelentési hálózatát. Magyar Péter, Tarr Zoltán és az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója, Cseh Gergő Bendegúz sajtótájékoztatója percről percre."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261104_kommunizmus-ugynokaktak-megnyitasa-sajtotajekoztato-magyar-peter"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6ed4247a-4310-4212-968b-c976281dbf86.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261104_kommunizmus-ugynokaktak-megnyitasa-sajtotajekoztato-magyar-peter",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-38b68747180f88d387",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:35:00+00:00",
-      "t": "Aktabontás előtt – A Nemzet Művésze bevallotta ügynökmúltjtát",
-      "s": "Magyarország első Kossuth-díjas fotográfusát 1957-ben, egyetemistaként szervezte be az állambiztonság ügynöknek.",
-      "p": [
-        "Magyarország első Kossuth-díjas fotográfusát 1957-ben, egyetemistaként szervezte be az állambiztonság ügynöknek."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/belpol/2026/11/ugynok-akta-muvesz-korniss-peter-foto-mult"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/ywg-oXevUt8qjkvoKO6aSZSXzXT-ykdMVsTC9bzupyQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2I0ODI1NTU4ZmE2NDQ3MDE5MWYzZDU4Zjc2MzNjYTZl.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/belpol/2026/11/ugynok-akta-muvesz-korniss-peter-foto-mult",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-0c03c3adbc80eb88ae",
-      "r": "Közélet",
-      "c": "Nemzeti Sport",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:30:58+00:00",
-      "t": "BL: Senki állását nem kell megmentenünk – Bruno Fernandes",
-      "s": "Carrick a győzelem után sem alszik nyugodtabban, Gasperini kiakadt a United büntetőjén.",
-      "p": [
-        "Carrick a győzelem után sem alszik nyugodtabban, Gasperini kiakadt a United büntetőjén."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/bajnokok-ligaja/2026/11/bl-senki-allasat-nem-kell-megmentenunk-bruno-fernandes"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/MozFJx2MNOzNOZCagnyGirdY5KIVjKeB384IPlMtoEE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzM3ZmFmMDY1OWI3MTQ2MTFhZjUyNjQ2YjI0OWM2Njk3.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/bajnokok-ligaja/2026/11/bl-senki-allasat-nem-kell-megmentenunk-bruno-fernandes",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk"
-    },
-    {
-      "id": "rss-c3a5267d22891a8b92",
-      "r": "Gazdaság",
-      "c": "444",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:30:24+00:00",
-      "t": "Több mint 2,5 éve volt ennyire jó formában a magyar ipar",
-      "s": "Szeptemberben is lendületes növekedést sikerült összehoznia az ágazatnak, így 2,5 év után ismét elérte a 2021-es év átlagteljesítményét az ipar.",
-      "p": [
-        "Szeptemberben is lendületes növekedést sikerült összehoznia az ágazatnak, így 2,5 év után ismét elérte a 2021-es év átlagteljesítményét az ipar."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/04/tobb-mint-25-eve-volt-ennyire-jo-formaban-a-magyar-ipar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/7yCzWat57rec29A1Qms.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/04/tobb-mint-25-eve-volt-ennyire-jo-formaban-a-magyar-ipar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk"
-    },
-    {
-      "id": "rss-4cdd4ea6655da11517",
-      "r": "Közélet",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:30:00+00:00",
-      "t": "Újabb profit warning a BMW-től, felgyorsítják a leépítéseket",
-      "s": "Csökkent a BMW bevétele és profitja a harmadik negyedévben, a kínai eladások negyedével estek vissza. A német autógyártó az átalakítás felgyorsításának költségei miatt ismét rontotta éves kilátásait, az autógyártás üzemi marzsát már nulla körülire várja. A program Németországban nyolcezer munkahely megszüntetését érinti.",
-      "p": [
-        "Csökkent a BMW bevétele és profitja a harmadik negyedévben, a kínai eladások negyedével estek vissza. A német autógyártó az átalakítás felgyorsításának költségei miatt ismét rontotta éves kilátásait, az autógyártás üzemi marzsát már nulla körülire várja. A program Németországban nyolcezer munkahely megszüntetését érinti."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/uzlet/20261104/ujabb-profit-warning-a-bmw-tol-felgyorsitjak-a-leepiteseket-874152"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/b/m/w/bmw-866724.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/uzlet/20261104/ujabb-profit-warning-a-bmw-tol-felgyorsitjak-a-leepiteseket-874152",
-      "cred": "Kép: Portfolio – eredeti cikk"
-    },
-    {
-      "id": "rss-26fbf9f4920cb7faa9",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:30:00+00:00",
-      "t": "Újabb orosz–ukrán tárgyalás jön, Moszkva már a főtárgyaló személyéről is döntött",
-      "s": "Újabb orosz–ukrán tárgyalás jön, Moszkva már a főtárgyaló személyéről is döntött",
-      "p": [
-        "Újabb orosz–ukrán tárgyalás jön, Moszkva már a főtárgyaló személyéről is döntött"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/kulpol/2026/11/oroszorszag-ukrajna-targyalas-abu-dzabi-november"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/fg3l9zdNraqd-NK_0wgDqvpfiilpLRfm9S_9h6ZYyU4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JiMDg3YzA3NGIxZDQ1NjZiNmRiYjM2ZWY0YmNlMThh.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/kulpol/2026/11/oroszorszag-ukrajna-targyalas-abu-dzabi-november",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-7b61660b73c3d36640",
-      "r": "Gazdaság",
-      "c": "Blikk",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:30:00+00:00",
-      "t": "Ezért kaphatunk a banktól kosarat, ha számlát akarunk nyitni: ezerféle előírásnak kell megfelelni",
-      "s": "„Számlát nyitottam volna a banknál, de a személyi igazolványom elmosódott számaira hivatkozva elutasították. Joguk volt ehhez?” – tette fel a kérdést a hajdúnánási A. Péter. A választ Binder István, az MNB felügyeleti szóvivője Blikk jegybankára adta meg az érdeklődőnek.",
-      "p": [
-        "„Számlát nyitottam volna a banknál, de a személyi igazolványom elmosódott számaira hivatkozva elutasították. Joguk volt ehhez?” – tette fel a kérdést a hajdúnánási A. Péter. A választ Binder István, az MNB felügyeleti szóvivője Blikk jegybankára adta meg az érdeklődőnek."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/eletmod/tippek/bankszamlanyitas-biztonsagi-eloirasok/ymbjsyg"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
     }
   ]
 }
