@@ -1,6 +1,6 @@
 # Hírpult – automatikus frissítés
 
-Napi négy futás (kb. 7, 11, 15 és 19 óra, angliai idő szerint), a `.github/workflows/update-news.yml` indítja.
+Napi négy futás (6, 10, 13 és 16 óra, angliai idő szerint), a `.github/workflows/update-news.yml` indítja.
 
 ## Lépések
 

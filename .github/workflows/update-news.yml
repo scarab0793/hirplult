@@ -1,8 +1,8 @@
 name: Update Hírpult news (UK daytime)
 on:
   schedule:
-    # Hourly candidate ticks. The gate below turns them into about four runs a day,
-    # at least 3.5 hours apart, between 07:00 and 20:59 UK time, so a delayed tick is not lost.
+    # Hourly candidate ticks. The gate below turns them into four runs a day, at 06:00, 10:00,
+    # 13:00 and 16:00 UK time, so a delayed tick is not lost.
     - cron: '17 5-20 * * *'
   workflow_dispatch:
   push:
@@ -42,12 +42,15 @@ jobs:
           local = now.astimezone(ZoneInfo("Europe/London"))
           should_run = True
           if os.environ["EVENT_NAME"] == "schedule":
-              should_run = 7 <= local.hour <= 20
+              # Four daily slots in UK local time. A delayed tick still runs its slot later.
+              slots = [local.replace(hour=h, minute=0, second=0, microsecond=0) for h in (6, 10, 13, 16)]
+              passed = [slot for slot in slots if slot <= local]
+              should_run = bool(passed)
               path = Path("data/news.json")
               if should_run and path.exists():
                   try:
                       last = dt.datetime.fromisoformat(json.loads(path.read_text(encoding="utf-8"))["updated_at"])
-                      should_run = now - last >= dt.timedelta(hours=3, minutes=30)
+                      should_run = last < max(passed)
                   except (ValueError, KeyError, OSError):
                       pass
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
