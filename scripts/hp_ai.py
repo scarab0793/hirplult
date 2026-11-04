@@ -463,7 +463,8 @@ _DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹０１２３４
 def digit_runs(text):
     """Digit sequences with separators removed, so 1,250 / 1.250 / 1 250 / ١٢٥٠ compare equal."""
     text = text.translate(_DIGITS)
-    text = re.sub(r"(?<=\d)[ .,\u00a0\u202f\u066c\u066b](?=\d)", "", text)
+    # only thousands-style groups (exactly three digits follow) are merged: "1 250", "1.250", "1,250"
+    text = re.sub(r"(?<=\d)[ .,\u00a0\u202f\u066c](?=\d{3}(?!\d))", "", text)
     return re.findall(r"\d+", text)
 
 
