@@ -1,5 +1,9 @@
 name: Update Hirpult World (international edition)
 on:
+  schedule:
+    # Hourly candidate ticks; the gate turns them into runs at 06:00, 10:00, 13:00 and 16:00 UK time
+    # (a delayed tick still runs its slot later). Offset from the Hungarian update.
+    - cron: '37 5-20 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,9 +22,40 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Check update window
+        id: schedule_gate
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import datetime as dt
+          import json
+          import os
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+          now = dt.datetime.now(dt.timezone.utc)
+          local = now.astimezone(ZoneInfo("Europe/London"))
+          should_run = True
+          if os.environ["EVENT_NAME"] == "schedule":
+              slots = [local.replace(hour=h, minute=0, second=0, microsecond=0) for h in (6, 10, 13, 16)]
+              passed = [slot for slot in slots if slot <= local]
+              should_run = bool(passed)
+              path = Path("data/world/queue.json")
+              if should_run and path.exists():
+                  try:
+                      last = dt.datetime.fromisoformat(json.loads(path.read_text(encoding="utf-8"))["updated_at"])
+                      should_run = last < max(passed)
+                  except (ValueError, KeyError, OSError):
+                      pass
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write(f"run={str(should_run).lower()}\n")
+          print(f"UK local time: {local.isoformat()}, run: {should_run}")
+          PY
       - name: Collect international RSS headlines
+        if: steps.schedule_gate.outputs.run == 'true'
         run: python scripts/world_fetch.py
       - name: Write English articles with Claude
+        if: steps.schedule_gate.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
@@ -29,6 +64,7 @@ jobs:
           HIRPULT_WORLD_MAX: '12'
         run: python scripts/world_write.py
       - name: Translate the articles
+        if: steps.schedule_gate.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
@@ -38,6 +74,7 @@ jobs:
           HIRPULT_WORLD_MAX_TRANSLATIONS: '160'
         run: python scripts/world_translate.py
       - name: Commit data changes
+        if: steps.schedule_gate.outputs.run == 'true'
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
