@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T09:02:51.983011+00:00",
+  "updated_at": "2026-11-04T09:06:20.472149+00:00",
   "sources_ok": [
     "24.hu",
     "HVG",
@@ -15,6 +15,162 @@
     "Telex: HTTPError: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "id": "rss-ab9f1d209a453a5275",
+      "r": "Közélet",
+      "c": "Origo",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:05:53+00:00",
+      "t": "Kigyulladt egy menetrend szerinti busz a 2-es főúton",
+      "s": "A sofőr fékezte meg a lángokat.",
+      "p": [
+        "A sofőr fékezte meg a lángokat."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/kek-hirek/2026/11/busz-tuz-2-es-fout"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/06/248XAUcpIcEL5dnfMUuVuPhPWar4kyQkDIrG9KsvOuY/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q5YTE2NmEzYTQ4MTRkODJhYjZjMzFkZDQxMTUwNWNk.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/kek-hirek/2026/11/busz-tuz-2-es-fout",
+      "cred": "Kép: Origo – eredeti cikk"
+    },
+    {
+      "id": "rss-95e2e6da0b3cd1ec97",
+      "r": "Közélet",
+      "c": "Blikk",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:05:07+00:00",
+      "t": "Kiderült! Ekkor tér vissza Borbás Marcsi a képernyőre: ő lesz a műsorvezető első vendége",
+      "s": "November 8-án, vasárnap 17:40-kor indul Borbás Marcsi új műsora, A kertem konyhája a TV4-en. Az első epizódban Marcsi az őrségi kertjébe kalauzolja a nézőket, ahol a nyár gazdag termései kerülnek a középpontba. A frissen szüretelt zöldségekből rakott patisszont készít, miközben első vendégével, Szende Gabi fermentálásoktatóval a tartósítás hagyományos módszereit is bemutatja. A",
+      "p": [
+        "November 8-án, vasárnap 17:40-kor indul Borbás Marcsi új műsora, A kertem konyhája a TV4-en. Az első epizódban Marcsi az őrségi kertjébe kalauzolja a nézőket, ahol a nyár gazdag termései kerülnek a középpontba. A frissen szüretelt zöldségekből rakott patisszont készít, miközben első vendégével, Szende Gabi fermentálásoktatóval a tartósítás hagyományos módszereit is bemutatja. A"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sztarvilag/filmklikk/borbas-marcsi-a-kertem-konyhaja-tv4/ps5nee9"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-9127152adb79b9f806",
+      "r": "Sport",
+      "c": "Blikk",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:04:09+00:00",
+      "t": "Drámai vallomást tett Michael Schumacher közeli barátja: „A család hozott egy döntést”",
+      "s": "Tizenhárom éve hiába várnak a szurkolók, Michael Schumacher családja semmi konkrétumot nem közöl a hétszeres Forma–1-es legenda állapotáról. A Ferrari egykori pilótája 2013-ban szenvedett síbalesetet, amely után az orvosok fél évig mesterséges kómában tartották, majd genfi otthonába szállították, ahol azóta is ápolják. A családi házba keveseknek van bejárása, az egyik közeli ba",
+      "p": [
+        "Tizenhárom éve hiába várnak a szurkolók, Michael Schumacher családja semmi konkrétumot nem közöl a hétszeres Forma–1-es legenda állapotáról. A Ferrari egykori pilótája 2013-ban szenvedett síbalesetet, amely után az orvosok fél évig mesterséges kómában tartották, majd genfi otthonába szállították, ahol azóta is ápolják. A családi házba keveseknek van bejárása, az egyik közeli ba"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/forma-1/forma-1-ferrari-michael-schumacher-baleset-allapot-csalad-dontes/nw1lfqw"
+        ]
+      ],
+      "img": "https://ocdn.eu/pulscms/MDA_/f17dcbd60dd38db13f246f961573aaee.jpg",
+      "imgs": "Blikk",
+      "imgl": "https://www.blikk.hu/sport/forma-1/forma-1-ferrari-michael-schumacher-baleset-allapot-csalad-dontes/nw1lfqw",
+      "cred": "Kép: Blikk – eredeti cikk"
+    },
+    {
+      "id": "rss-223eb5fbea596a1bf7",
+      "r": "Közélet",
+      "c": "HVG",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:03:00+00:00",
+      "t": "Szivárognak a részletek: ezt tudja majd az iPhone 18",
+      "s": "Tovább bírhatja és fürgébb is lehet az iPhone 18, amely várhatóan 2027 tavaszán kerül majd a boltok polcaira. Sajnos úgy tűnik, jön majd egy újabb áremelés is.",
+      "p": [
+        "Tovább bírhatja és fürgébb is lehet az iPhone 18, amely várhatóan 2027 tavaszán kerül majd a boltok polcaira. Sajnos úgy tűnik, jön majd egy újabb áremelés is."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/tudomany/20261104_apple-iphone-18-ujdonsagok-szivarogtatas"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8151d0b9-26df-4601-9877-30d3f60a1218.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261104_apple-iphone-18-ujdonsagok-szivarogtatas",
+      "cred": "Kép: HVG – eredeti cikk"
+    },
+    {
+      "id": "rss-02fa96d7d119b4303e",
+      "r": "Közélet",
+      "c": "Nemzeti Sport",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:02:49+00:00",
+      "t": "Esterházy Márton: Varga Barnabást lehetetlen semlegesíteni a levegőben",
+      "s": "KEZDÉS: 18.45. Az 1985–1986-os UEFA-kupa első fordulójában találkozott először az AEK és a Real Madrid, az első mérkőzés egyik hősét, Esterházy Mártont kérdeztük az akkori párharcról, az athéni örökségéről, valamint az athéni klubban játszó két magyarról.",
+      "p": [
+        "KEZDÉS: 18.45. Az 1985–1986-os UEFA-kupa első fordulójában találkozott először az AEK és a Real Madrid, az első mérkőzés egyik hősét, Esterházy Mártont kérdeztük az akkori párharcról, az athéni örökségéről, valamint az athéni klubban játszó két magyarról."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/bajnokok-ligaja/2026/11/esterhazy-marton-varga-barnabast-lehetetlen-semlegesiteni-a-levegoben"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/a3mYpNKw3hVyxn6QiMEwot2yPDSBSw06laHoT06cnvg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxNzU1MzRiNThkZDQ5MWFhOGRhOGVhYWI2NmEyMTg3.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://nemzetisport.hu/bajnokok-ligaja/2026/11/esterhazy-marton-varga-barnabast-lehetetlen-semlegesiteni-a-levegoben",
+      "cred": "Kép: Nemzeti Sport – eredeti cikk"
+    },
+    {
+      "id": "rss-8828e9578fb8d8f02e",
+      "r": "Közélet",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:01:42+00:00",
+      "t": "„Ennél szélesebb körben nem hoztak sehol nyilvánosságra iratokat”",
+      "s": "Cseh Gergő Bendegúz szerint ennél szélesebb körben nem hoztak sehol nyilvánosságra iratokat. Szerinte idáig azért nem hozták nyilvánosságra az iratokat, mert a politikai elit szereplőire és rokonaikra vonatkozóan sok érzékeny adat keletkezett volna, és ez visszatartó erő lehetett.",
+      "p": [
+        "Cseh Gergő Bendegúz szerint ennél szélesebb körben nem hoztak sehol nyilvánosságra iratokat. Szerinte idáig azért nem hozták nyilvánosságra az iratokat, mert a politikai elit szereplőire és rokonaikra vonatkozóan sok érzékeny adat keletkezett volna, és ez visszatartó erő lehetett."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/04/ennel-szelesebb-korben-nem-hoztak-sehol-nyilvanossagra-iratokat/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/ugynokaktak-e1793777428502.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/belfold/2026/11/04/ennel-szelesebb-korben-nem-hoztak-sehol-nyilvanossagra-iratokat/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
     {
       "id": "rss-34f911be1d733be4d6",
       "r": "Közélet",
@@ -250,6 +406,32 @@
       "cred": "Kép: Index – eredeti cikk"
     },
     {
+      "id": "rss-1252b3a4a82f1afcd6",
+      "r": "Sport",
+      "c": "24.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:58:32+00:00",
+      "t": "„Cserben hagytam a játékosokat” – mondta Gulácsiék edzője a súlyos BL-pofon után",
+      "s": "A Villarreal úgy kapott ki hazai pályán 6-0-ra a címvédő PSG-től, hogy már a 17. percben négygólos hátrányban volt.",
+      "p": [
+        "A Villarreal úgy kapott ki hazai pályán 6-0-ra a címvédő PSG-től, hogy már a 17. percben négygólos hátrányban volt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/04/bajnokok-ligaja-villarreal-psg-inigo-perez-gulacsi-peter/"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/gulacsi-peter-gettyimages-2303375548-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/11/04/bajnokok-ligaja-villarreal-psg-inigo-perez-gulacsi-peter/",
+      "cred": "Kép: 24.hu – eredeti cikk"
+    },
+    {
       "id": "rss-62ec418c60e0f89601",
       "r": "Közélet",
       "c": "Portfolio",
@@ -414,9 +596,9 @@
       "time": "nov. 4.",
       "published_at": "2026-11-04T08:56:00+00:00",
       "t": "Amerikai választás 2026: történelmi vereséget szenvedett Trump pártja, mindent vittek a demokraták",
-      "s": "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. A Kongresszus alsóházában szinte borítékolható volt a demokrata többség, és az előrejelzések szerint így is lett. A kérdés már csak az, hogy mekkorára fog nyúlni a demokraták mandátumfölénye. Bár pá",
+      "s": "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták, több republikánus fellegv",
       "p": [
-        "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. A Kongresszus alsóházában szinte borítékolható volt a demokrata többség, és az előrejelzések szerint így is lett. A kérdés már csak az, hogy mekkorára fog nyúlni a demokraták mandátumfölénye. Bár pá"
+        "Amerika választ: az összes, 435 képviselőházi hely sorsáról döntenek az Egyesült Államok választópolgárai, miközben a szenátori mandátumok mintegy harmada szerepel a szavazólapokon. Úgy tűnik, egyáltalán nem hazudtak a felmérések, amikor valóságos kék hullámot jeleztek előre: a szenátusi, kongresszusi és kormányzóválasztásokon is taroltak a demokraták, több republikánus fellegv"
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -621,7 +803,7 @@
       "st": "Jelentett",
       "time": "nov. 4.",
       "published_at": "2026-11-04T08:48:34+00:00",
-      "t": "Pórul járhat, aki így üzletel a Vinteden: erre rálát a NAV",
+      "t": "Pórul járhat, aki így üzletel a Vinteden: ráláthat a NAV az eladásaira",
       "s": "Egyre népszerűbb a használt ruhák és egyéb megunt holmik eladása a Vinteden, ám nem mindenki tudja, hogy bizonyos esetekben adófizetési kötelezettség is keletkezhet. Ráadásul az online piacterek meghatározott értékhatár vagy eladásszám felett adatokat szolgáltatnak az adóhatóságnak, így a NAV is értesülhet a tranzakciókról.",
       "p": [
         "Egyre népszerűbb a használt ruhák és egyéb megunt holmik eladása a Vinteden, ám nem mindenki tudja, hogy bizonyos esetekben adófizetési kötelezettség is keletkezhet. Ráadásul az online piacterek meghatározott értékhatár vagy eladásszám felett adatokat szolgáltatnak az adóhatóságnak, így a NAV is értesülhet a tranzakciókról."
@@ -1392,188 +1574,6 @@
       "imgs": "",
       "imgl": "",
       "cred": ""
-    },
-    {
-      "id": "rss-b6bf3d11ef04434845",
-      "r": "Belpolitika",
-      "c": "Blikk",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:29:26+00:00",
-      "t": "Perceken belül megnyílnak a titkos ügynökakták: Magyar Péter és Tarr Zoltán az Állambiztonsági Szolgálatok Történeti Levéltárában tart sajtótájékoztatót",
-      "s": "Történelmi jelentőségű fordulóponthoz érkezett a magyarországi múltfeltárás ügye: a mai napon hivatalosan is megnyílnak a nyilvánosság előtt az eddig szigorúan elzárt és titkosított állambiztonsági ügynökakták. Délelőtt fél tíztől Magyar Péter miniszterelnök, Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter és az Állambiztonsági Szolgálatok Történeti Levélt",
-      "p": [
-        "Történelmi jelentőségű fordulóponthoz érkezett a magyarországi múltfeltárás ügye: a mai napon hivatalosan is megnyílnak a nyilvánosság előtt az eddig szigorúan elzárt és titkosított állambiztonsági ügynökakták. Délelőtt fél tíztől Magyar Péter miniszterelnök, Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter és az Állambiztonsági Szolgálatok Történeti Levélt"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/politika/magyar-politika/ugynokaktak-magyar-peter-tarr-zoltan-allambiztonsag-sajtotajekoztato/vbzql0n"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-37fa35bd51489144a6",
-      "r": "Közélet",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:26:33+00:00",
-      "t": "Az emlékezés napja alkalmából szólalt meg Orbán Viktor",
-      "s": "A volt miniszterelnök bejegyzésében az 1956-os hősök előtt tiszteleg.",
-      "p": [
-        "A volt miniszterelnök bejegyzésében az 1956-os hősök előtt tiszteleg."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/belpol/2026/11/orban-viktor-emlekezes-napja-november-4"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/Idnee19rfSVcJEkHsgDGzocAaxEBh8xCoReUpzSkQlE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMwYmFkNGNhNjRiNTQ5YzZiNDZiODU1ZTQ0OTY2MDdk.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/belpol/2026/11/orban-viktor-emlekezes-napja-november-4",
-      "cred": "Kép: Origo – eredeti cikk"
-    },
-    {
-      "id": "rss-583c0d4451a8845569",
-      "r": "Sport",
-      "c": "Blikk",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:26:11+00:00",
-      "t": "Fellázadt a jégkorongvilág: nem akarnak játszani az oroszokkal",
-      "s": "Óriási botrány fenyegeti a nemzetközi jégkorongsportot. A Nemzetközi Sportdöntőbíróság (CAS) múlt heti határozatában kimondta, hogy az orosz válogatottakat vissza kell engedni a világversenyekre. A döntés után a sportág élvonala azonnal lázadásba kezdett: Svédország, Norvégia, Csehország, Dánia és Lettország is bejelentette, hogy bojkottálja az oroszok elleni mérkőzéseket.",
-      "p": [
-        "Óriási botrány fenyegeti a nemzetközi jégkorongsportot. A Nemzetközi Sportdöntőbíróság (CAS) múlt heti határozatában kimondta, hogy az orosz válogatottakat vissza kell engedni a világversenyekre. A döntés után a sportág élvonala azonnal lázadásba kezdett: Svédország, Norvégia, Csehország, Dánia és Lettország is bejelentette, hogy bojkottálja az oroszok elleni mérkőzéseket."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/sport/orosz-jegkorong-norvegia-csehorszag-dania-lettorszag-oroszorszag-iihf-ukrajna/dgvqmep"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-193de38304e5005939",
-      "r": "Sport",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:25:01+00:00",
-      "t": "Focistamúlt ide vagy oda, csúnyán kifogott Soós Dávidon az Ázsia Expressz focis feladata",
-      "s": "Focistamúlt ide vagy oda, csúnyán kifogott Soós Dávidon az Ázsia Expressz focis feladata",
-      "p": [
-        "Focistamúlt ide vagy oda, csúnyán kifogott Soós Dávidon az Ázsia Expressz focis feladata"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/mindekozben/poszt/2026/11/04/azsia-expressz-soos-david-focis-feladat-nehezen-ment/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7241/72411/724113/72411345_25ca469cf0add88968ba09dff4074792_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/mindekozben/poszt/2026/11/04/azsia-expressz-soos-david-focis-feladat-nehezen-ment/",
-      "cred": "Kép: Index – eredeti cikk"
-    },
-    {
-      "id": "rss-ae621abadb0c836f0c",
-      "r": "Belpolitika",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:24:52+00:00",
-      "t": "Marabu Féknyúz: Föltárulás",
-      "s": "Ebbe már valaki belekotorászott!",
-      "p": [
-        "Ebbe már valaki belekotorászott!"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261104_marabu-feknyuz-foltarulas-ugynokaktak-allambiztonsag"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0521d08c-8d08-4f1b-bd54-c2264a4d589c.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261104_marabu-feknyuz-foltarulas-ugynokaktak-allambiztonsag",
-      "cred": "Kép: HVG – eredeti cikk"
-    },
-    {
-      "id": "rss-3c51496fe5951dfdc4",
-      "r": "Közélet",
-      "c": "Nemzeti Sport",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:24:29+00:00",
-      "t": "Vitek Dárius: Hedajati végigdarálta a mezőnyt",
-      "s": "A 27 éves birkózó zsinórban harmadszor nyert érmet világversenyen.",
-      "p": [
-        "A 27 éves birkózó zsinórban harmadszor nyert érmet világversenyen."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/birkozas/2026/11/vitek-darius-hedajati-vegigdaralta-a-mezonyt"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/EZadl1baMZ1Y0zJgNqQksWjE0jHX2m0uU5BYPJBIKxc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2U2NGRkYjVlZDEwMTRkY2JhNTQwZmZiN2FiMWYxMDk2.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/birkozas/2026/11/vitek-darius-hedajati-vegigdaralta-a-mezonyt",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk"
-    },
-    {
-      "id": "rss-08e5a06d3eacaea028",
-      "r": "Közélet",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T08:24:00+00:00",
-      "t": "Új fejezet nyílhat a szerb–magyar kapcsolatokban Magyar Péter győzelme után",
-      "s": "„A politikai hatalmak és vezetőik jönnek és mennek, de a népek közötti barátság megmarad” – hangsúlyozta a szerb szakszervezeti szövetség.",
-      "p": [
-        "„A politikai hatalmak és vezetőik jönnek és mennek, de a népek közötti barátság megmarad” – hangsúlyozta a szerb szakszervezeti szövetség."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/04/magyar-peter-szerbia-tisza-nemzetkozi-kapcsolatok/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/6904/69047/690472/69047257_5096173_280f9c13eff1d8d3bf542a165848a400_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/belfold/2026/11/04/magyar-peter-szerbia-tisza-nemzetkozi-kapcsolatok/",
-      "cred": "Kép: Index – eredeti cikk"
     }
   ]
 }

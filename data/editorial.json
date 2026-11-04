@@ -2750,6 +2750,191 @@
       "imgl": "https://www.portfolio.hu/ingatlan/20261104/nagy-fordulat-johet-a-budapesti-lakasoknal-megszolalt-karacsony-gergely-a-megfizetheto-otthonokrol-874142",
       "cred": "Kép: Portfolio – eredeti cikk",
       "ai_edited": true
+    },
+    {
+      "id": "rss-dfdb1ece98de8a91dc",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:35:46+00:00",
+      "t": "Megnyílnak az ügynökakták: szerdától hozzáférhetők a 6-os kartonok, a B-dossziék később",
+      "s": "A kormány sajtótájékoztatóján bejelentettek, hogy 36 év után nyilvánossá válnak a kommunista állambiztonság jelentési hálózatára vonatkozó iratok. A B-dossziék egy része csak később kerül fel.",
+      "p": [
+        "A sajtótájékoztatón Magyar Péter, Tarr Zoltán és Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója vett részt, a HVG percről percre közvetítette az eseményt.",
+        "A HVG beszámolója szerint a közbeszédben elterjedt „ügynöklista” kifejezés félrevezető, mert ilyen nyilvántartás Magyarországon nem létezik. A hálózati személyek adatai szétszóródtak: az ÁBTL-nél, a működő nemzetbiztonsági szolgálatoknál, önkormányzatoknál és magánszemélyeknél is megtalálhatók, a dokumentumok nagy része pedig az elmúlt évtizedekben titkosítva volt.",
+        "Szerdától a 6-os kartonok, a mágnesszalagok és a B-naplók iratanyaga válik bárki számára hozzáférhetővé. A B-dossziék tartalmát az ÁBTL még anonimizálja a megfigyelt személyek védelmében. Egy részük február 25-ig, a kommunizmus áldozatainak emléknapjáig kerül fel a honlapra, a többi ennél később.",
+        "A forrás hangsúlyozza, hogy a kereshető adatbázisban szereplő név önmagában nem bizonyítja az együttműködést, csak azt, hogy valamikor felmerült a beszervezés szándéka. Az 50-60 ezer nevet tartalmazó adatbázis hiányos, a hálózat akár háromszor ekkora is lehetett, ezért az sem biztos, hogy aki nem szerepel benne, nem jelentett."
+      ],
+      "cav": "A tudósítás egyetlen forrásra támaszkodik, a sajtótájékoztató részleteit nem ellenőriztük. A HVG szerint a B-dossziék egy része még nincs kész, ezért a végleges kép később árnyalódhat.",
+      "op": "Az iratok nyilvánossága helyes lépés, mert a múlt feldolgozása csak ellenőrizhető adatokra épülhet. Ugyanakkor a névlisták hiányossága miatt senkit sem szabad a puszta szereplés alapján megbélyegezni, és a kormánynak világosan kell kommunikálnia, mit mutatnak és mit nem a dokumentumok.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261104_kommunizmus-ugynokaktak-megnyitasa-sajtotajekoztato-magyar-peter"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6ed4247a-4310-4212-968b-c976281dbf86.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261104_kommunizmus-ugynokaktak-megnyitasa-sajtotajekoztato-magyar-peter",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-b57ac3c7bb9d1b7421",
+      "r": "Gazdaság",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:50:00+00:00",
+      "t": "Az Otthon Start kifutása felpörgette a lakáshiteleket, jövőre visszaeshet a piac",
+      "s": "Az Erste Bank szerint az Otthon Start kifutása megduplázta a lakáshitel-befogadásokat az elmúlt három hétben. A bankszektor idei kihelyezése a 3000 milliárd forintot is meghaladhatja, jövőre viszont 2000 milliárd forint körülre eshet vissza a bank várakozásai szerint.",
+      "p": [
+        "A Portfolio beszámolója szerint az Erste Banknál az Otthon Start program kifutása miatt az elmúlt három hétben a szokásosnál jóval több lakáshitel-befogadás történt, a szám gyakorlatilag megduplázódott.",
+        "A cikk szerint az előrehozott kereslet is közrejátszhat abban, hogy a bankszektor lakáshitel-kihelyezése idén a 3000 milliárd forintot is meghaladhatja, ami akár abszolút történelmi csúcsot jelenthet. Jövőre azonban a bank várakozásai szerint a volumen 2000 milliárd forint környékére eshet vissza.",
+        "A források szerint a bankszektor a különterhek kapcsán továbbra is a „rendszerváltásra” vár, és bízik abban, hogy a változtatás hamarosan megvalósul.",
+        "A bank várakozása alapján a Wekerle Plusz felújítási programhoz kapcsolódó, 3%-os kamatozású, családi házakra szánt kamattámogatott hiteleket a bankszektor nyújthatja. A 0%-os kamatozású társasházi hitelek várhatóan az MFB mérlegében szerepelnek, és együttesen legjobb esetben a lakáshitel-folyósítások 8-10%-át tehetik ki."
+      ],
+      "cav": "A cikk csak az Erste Bank várakozásait és becsléseit említi, független adatforrás nélkül; a jövő évi visszaesés és a 8-10%-os arány előrejelzés. A „rendszerváltás” fogalma a rendelkezésre álló szövegből nem derül ki, a különterhek konkrét tartalma is hiányzik. A rövid összefoglaló szövege csonka, az idei csúcsra vonatkozó megfogalmazás sem teljes.",
+      "op": "A lakáshitelek felpörgése mögött egy állami program lezárása áll, a piac tehát nem önmagától mozdult. Aki a közpénzből támogatott hiteleket kezeli, köteles megmutatni, mekkora haszon jut a családoknak és mekkora a bankoknak. Mikor lesznek nyilvánosak ezek a számok?",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/bank/20261104/erste-1000-milliard-forinttal-eshet-vissza-a-lakashitelpiac-tovabbra-is-var-a-rendszervaltasra-a-bankszektor-874156"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/e/r/s/erste-9-721299.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/bank/20261104/erste-1000-milliard-forinttal-eshet-vissza-a-lakashitelpiac-tovabbra-is-var-a-rendszervaltasra-a-bankszektor-874156",
+      "cred": "Kép: Portfolio – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-26fbf9f4920cb7faa9",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T08:30:00+00:00",
+      "t": "Abu-Dzabiban folytatódnak az orosz–ukrán tárgyalások, Moszkva Medinszkijt küldi",
+      "s": "November 10. és 11. között az Egyesült Arab Emírségek fővárosában ismét találkoznak az orosz és az ukrán küldöttek, az Egyesült Államok közvetítésével. A Kreml szerint Moszkvát Vlagyimir Medinszkij vezeti.",
+      "p": [
+        "A tárgyalások időpontját Steve Witkoff, Donald Trump különmegbízottja jelentette be. Szavai szerint nem háromoldalú egyeztetés lesz: a delegációk közvetlenül tárgyalnak egymással, az amerikaiak pedig közvetítőként vesznek részt.",
+        "Dmitrij Peszkov, az orosz elnök szóvivője megerősítette a dátumot. Közlése szerint Moszkvát Vlagyimir Medinszkij, Vlagyimir Putyin elnöki tanácsadója képviseli, aki korábban is az orosz delegáció élén állt az amerikai és ukrán egyeztetéseken.",
+        "Witkoff a napirendről is beszélt: a háború utáni biztonsági garanciák, a feszültség enyhítése, a humanitárius ügyek és a békéhez vezető lépések kerülnek terítékre. Az amerikai közvetítők a héten Franciaország, Németország, Nagy-Britannia, az Európai Unió és a NATO képviselőivel is ülnek majd asztalhoz, a Kijevben, Oslóban és Szentpéterváron tartott találkozókat pedig előrelépésként értékelte.",
+        "Mindkét fél munkamegbeszélésnek nevezi az abu-dzabi találkozót, és áttörést egyelőre nem várnak tőle. Moszkva kitart területi követelései mellett, amelyeket Kijev elfogadhatatlannak tart, a tűzszünetet pedig az orosz vezetés sem teljes, sem részleges formában nem támogatja.",
+        "Volodimir Zelenszkij ukrán elnök novemberben újra jelezte, hogy kész háromoldalú csúcstalálkozóra Putyinnal és Trumpnal. Szerinte a háború lezárásának bizonyos kérdéseit csak az államfők tudják eldönteni.",
+        "A rendelkezésre álló információk alapján a tárgyalások tartalmáról csupán általános keretek ismertek, konkrét megállapodási pontokról a közlések nem szólnak."
+      ],
+      "cav": "A cikk az Origo összefoglalójára támaszkodik, a tárgyalásokról szóló adatok nagyrészt Witkoff és a Kreml nyilatkozataiból származnak, így másodkézből. Az ukrán álláspont csak Zelenszkij rövid utalásában szerepel, a várható eredmények ismeretlenek.",
+      "op": "Ezek a tárgyalások az ukrán és az orosz emberek mindennapjairól szólnak, nem csupán diplomáciai díszletről. Ha a felek tartós békéről beszélnek, a tűzszünet elutasítása nehezen fér össze a szavakkal. Mikor lesz végre olyan eredmény, amelyet a háborúban élők is a sajátjuknak érezhetnek?",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/kulpol/2026/11/oroszorszag-ukrajna-targyalas-abu-dzabi-november"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/fg3l9zdNraqd-NK_0wgDqvpfiilpLRfm9S_9h6ZYyU4/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JiMDg3YzA3NGIxZDQ1NjZiNmRiYjM2ZWY0YmNlMThh.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/kulpol/2026/11/oroszorszag-ukrajna-targyalas-abu-dzabi-november",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-95e2e6da0b3cd1ec97",
+      "r": "Kultúra",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:05:07+00:00",
+      "t": "Borbás Marcsi új műsora, az A kertem konyhája november 8-án indul a TV4-en",
+      "s": "Borbás Marcsi új műsora, az A kertem konyhája november 8-án, vasárnap 17:40-kor indul a TV4-en. A Blikk összefoglalója szerint az első epizódban a kert termései és a fermentálás kerülnek a középpontba.",
+      "p": [
+        "Borbás Marcsi új főzős-kertészeti műsora, az A kertem konyhája november 8-án, vasárnap 17:40-kor indul a TV4-en. A Blikk beszámolója szerint a műsor első epizódjában a nézők az őrségi kertbe látogatnak, ahol a nyár termései állnak a középpontban.",
+        "A friss szüretelt zöldségekből a házigazda patisszont készít. Első vendége Szende Gabi fermentálásoktató, aki a tartósítás hagyományos módszereit mutatja be. A TV4 közlése szerint a fermentálás egyszerű, egészséges és fenntartható megoldás, amelyet a nézők otthon is kipróbálhatnak.",
+        "A műsor sajátos hangulatát Marcsi húsz macskája adja, amelyek a kert állandó lakói, és a források szerint gyakran váratlanul \"segítenek\" a forgatásokon. A beszámoló szerint a cicák többsége nehéz sorsú, korábban kidobott állat volt, akiket Marcsi beoltatott és ivartalanított. A közlés ezt nem részletezi, a források alapján nem ellenőrizhető, hány állat került így hozzá, és milyen körülmények között.",
+        "A szervezők leírása szerint a sorozat az évszakok váltakozását követi. Marcsi vendégül lát kertészeket, séfeket és az Őrség különleges személyiségeit, illetve maga is útra kel új ötletek és bevált módszerek gyűjtésére. Az ismertetők a műsort a kertészkedés és a főzés kedvelőinek, valamint a helyi alapanyagok iránt érdeklődőknek ajánlják.",
+        "A Blikk említi azt is, hogy Marcsi nemrég egy másik műsorban, Sváby András Útközben elmeséled című adásában egykori szerelmével, dr. Buda László pszichiáterrel együtt tűnt fel. A beszámoló szerint a két régi ismerős gimnáziumi éveikre, Bajára emlékezett vissza. Ez a rész a műsor tartalmához nem kapcsolódik, és a cikk nem tér ki további részletekre.",
+        "A csatorna kínálatában az A kertem konyhája mellett Borbás Marcsi további két műsora, az Elgurulva és az Átvinni a napot az égen is helyet kap, amelyek minden vasárnap látható sorozatok a TV4-en."
+      ],
+      "cav": "A forrás a csatorna közleményére támaszkodó, reklámszerű összefoglaló, független megfigyelés nincs benne. A macskák sorsáról és a fermentálásról szóló állítások a műsor leírásából származnak, és nem ellenőrzöttek; a Sváby-adásra vonatkozó részletek másodkézből származnak.",
+      "op": "Jó, hogy a műsor a kidobott állatok sorsát is említi, de az állatjóléti vállalás csak akkor hiteles, ha a nézők a gondozás részleteit is megismerhetik. A kedvesség nem helyettesíti az átláthatóságot, és egy népszerű műsor esetében is joggal várhatunk pontos számokat.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sztarvilag/filmklikk/borbas-marcsi-a-kertem-konyhaja-tv4/ps5nee9"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": "",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-9127152adb79b9f806",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:04:09+00:00",
+      "t": "Schumacher közeli barátja szerint a család nem oszt meg információt a legenda állapotáról",
+      "s": "Tizenhárom éve nem tudni részletesen Michael Schumacher egészségi állapotáról. Florian König, a német Forma–1-es kommentátor a Sport Bild részére adott interjúban azt mondta, ő sem kérdez rá, mert a család így döntött.",
+      "p": [
+        "A hétszeres Forma–1-es világbajnok 2013-ban síbalesetet szenvedett, azóta a genfi otthonában ápolják. A családi házba csak kevesen juthatnak be, a szurkolók pedig hiába várnak konkrétumokra.",
+        "Florian König, aki pályafutása nagy részét végigkísérte, és baráti kapcsolatban áll a családdal, elmondta, hogy látogatásain sok mindenről beszélgetnek, Schumacher állapotáról azonban nem. Szerinte a család úgy döntött, hogy nem adnak ki információt, és ezt Corinna Schumacher kérte.",
+        "König beszámolt arról is, hogy rajongók tömegesen keresik meg, de konkrétumot ő sem tud mondani. Szerinte teljesen érthető az érdeklődés, hiszen a szurkolók évtizedeken át részesei voltak a pilóta sikereinek.",
+        "A beszámoló szerint a család a balesete után szűkítette a látogatók körét, mert korábban többen továbbadták, milyen állapotban van a legenda. Sajtóhírek alapján a rokonokon kívül csak néhány közeli munkatárs és egykori csapattárs juthat be az otthonba.",
+        "A családot emellett zsarolási kísérletek is érték. A közlés szerint 2014-ben egy helikopteres mentőszolgálat vezetője próbálta meg ellopni a pilóta orvosi dokumentumait, és 50 000 euróért, nagyjából 18 millió forintért több európai médiumnak kínálta azokat."
+      ],
+      "cav": "Schumacher jelenlegi állapotáról nincs hivatalos családi közlés, így a szurkolók kérdéseire csak König interjúra épülő, közvetett válasza áll rendelkezésre. A zsarolási ügyről szóló részletek sajtóhírekre hivatkoznak, a cikk nem közöl további forrást vagy a büntetőeljárás állásáról szóló információt.",
+      "op": "Egy magánember súlyos állapota nem közügy minden részletében, és a családnak joga van titokban tartani. Ugyanakkor a rajongók türelme nem jogosítja fel a médiát a találgatásra, és a dokumentumokért folytatott kísérlet azt mutatja, mennyire kiszolgáltatott ez a helyzet. Ki felel azért, ha a magánszféra védelme csak egy zsarolási kísérleten múlik?",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/forma-1/forma-1-ferrari-michael-schumacher-baleset-allapot-csalad-dontes/nw1lfqw"
+        ]
+      ],
+      "img": "https://ocdn.eu/pulscms/MDA_/f17dcbd60dd38db13f246f961573aaee.jpg",
+      "imgs": "Blikk",
+      "imgl": "https://www.blikk.hu/sport/forma-1/forma-1-ferrari-michael-schumacher-baleset-allapot-csalad-dontes/nw1lfqw",
+      "cred": "Kép: Blikk – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-223eb5fbea596a1bf7",
+      "r": "Gazdaság",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 4.",
+      "published_at": "2026-11-04T09:03:00+00:00",
+      "t": "Szivárgások szerint az iPhone 18 tavasszal érkezik, és drágulhat is",
+      "s": "Az Apple alapmodelljének következő generációja a várakozások szerint 2027 tavaszán jelenhet meg, és a szivárgások alapján újabb áremelés sem zárható ki. A részletek egyelőre nem megerősítettek.",
+      "p": [
+        "A HVG beszámolója szerint az Apple idén szeptemberi bemutatóján a sima iPhone 18 nem szerepelt, a cég csak az iPhone 18 Pro és 18 Pro Max modellekről, valamint az új iPhone Duóról jelentette be a részleteket. Az iPhone 18, az iPhone 18e és az iPhone Air 2 ehelyett körülbelül fél évvel később, tavasszal mutatkozhat be.",
+        "Az információk nagy része a Digital Chat Station nevű szivárogtatótól származik, akinek a Weibón közzétett bejegyzését a 9to5Mac részletezi. Az állítások szerint az iPhone 18 valamivel nagyobb akkumulátort és új, 2 nanométeres gyártási technológiájú A20 lapkát kaphat. A szivárogtató azt is jelezte, hogy a 18 Pro-sorozatnál látott kisebb Dynamic Island nem jelenik meg az új telefonon.",
+        "Az ár kapcsán a HVG rossz hírként említi, hogy a telefon drágább lesz. Idén a 18 Pro és 18 Pro Max dollárban drágult, de a forint erősödése miatt a magyar piacon forintban pontosan ugyanannyiba kerültek, mint egy évvel korábban. Hogy ez az alapmodellnél is megismétlődik-e, egyelőre nem ismert.",
+        "A korábbi szivárogtatások szerint a memória mennyisége is nőhet, bár csak minimálisan. A további részletekről nincs megbízható információ."
+      ],
+      "cav": "Az egész kép egyetlen szivárogtató állításaira és korábbi, nem hivatalos szivárogtatásokra épül, az Apple részéről az anyagban nincs megerősítés. Az áremelés ténye a forgalmazás és az árfolyam alakulásától is függ, így a magyar forintos árról csak feltételezés van.",
+      "op": "Ha egy drágulás a forint erősségétől függ, akkor a fogyasztó nem a cég jóindulatában bízhat, hanem egy árfolyamon. Az Apple-nek érdemes lenne világosan megmondania, mi alapján állapítja meg a magyar árakat, mert a vásárlók ezt a számlán fizetik meg.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/tudomany/20261104_apple-iphone-18-ujdonsagok-szivarogtatas"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8151d0b9-26df-4601-9877-30d3f60a1218.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/tudomany/20261104_apple-iphone-18-ujdonsagok-szivarogtatas",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
     }
   ]
 }
