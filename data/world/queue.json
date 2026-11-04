@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:44:37.139563+00:00",
+ "updated_at": "2026-11-04T19:44:53.717721+00:00",
  "outlets_ok": [
   "Al Jazeera",
   "BBC News",
@@ -12,6 +12,786 @@
  "failed": [],
  "items": [
   {
+   "id": "w-ab6227946c676582",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T19:38:56+00:00",
+   "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
+   "summary": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: ‘They just couldn’t transfer that love’ Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy ",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+   "img": "https://i.guim.co.uk/img/media/7a8bd3750c750b297a4c920a60870a4149438d7e/1059_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=cbcc48e725a6caf433cdc9b825897c28"
+  },
+  {
+   "id": "w-41816c05805f718b",
+   "outlet": "BBC News",
+   "section": "Business",
+   "published_at": "2026-11-04T19:38:53+00:00",
+   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+   "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"
+  },
+  {
+   "id": "w-8ac51c2467da75b5",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T19:30:41+00:00",
+   "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+   "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-aa26893ae720947f",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T19:30:11+00:00",
+   "title": "MEPs debate EU enlargement at Euronews Summit in Brussels",
+   "summary": "As the European Commission released its latest progress report on candidate countries, MEPs Riho Terras (EPP) and Pasquale Tridico (The Left Group) go head to head over one of Europe's most ambitious political projects.",
+   "url": "https://www.euronews.com/2026/11/04/meps-debate-eu-enlargement-at-euronews-summit-in-brussels",
+   "img": ""
+  },
+  {
+   "id": "w-2736e0359f273eaa",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T19:30:00+00:00",
+   "title": "36 years later: Hungary opens Communist-era secret service files",
+   "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
+   "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-acf9388514c0e126",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T19:28:32+00:00",
+   "title": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more – live",
+   "summary": "All the latest from the seven 8pm GMT kick-offs Kane’s Ballon d’Or party gives way to hangover for Bayern Live scores | League phase standings | Football Daily In more logical news, Kylian Mbappé has found the net for Real Madrid, so Mourinho’s men could still dig themselves out of an almighty Champions League hole. Not many would have put money on neither Liverpool nor Madrid winning their games this evening, mind. Less than 10 minutes remaining",
+   "url": "https://www.theguardian.com/football/live/2026/nov/04/champions-league-slavia-prague-v-arsenal-rb-leipzig-v-manchester-city-and-more-live",
+   "img": "https://i.guim.co.uk/img/media/43c23b27c86c2559972414714cc01eed4c84c032/0_379_4739_3793/master/4739.jpg?width=140&quality=85&auto=format&fit=max&s=cc7e0317edd197f0b7632974d307603b"
+  },
+  {
+   "id": "w-2b114bace06ca2da",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T19:28:23+00:00",
+   "title": "Fenerbahce v Liverpool: Champions League – live",
+   "summary": "Minute-by-minute updates on the early kick-off in Turkey Liverpool fizzle out against Arsenal | Email Simon The players are on the pitch! And while the tournament anthem rings out, the Fenerbahce midfielder Yuksek gives his mascot a fairly intense cheek massage. The players are gathering in the tunnel, while outside rain continues to fall, and Gala’s Freed from Desire rings out. Continue reading...",
+   "url": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
+   "img": "https://i.guim.co.uk/img/media/5b95e388447c7b69e9a66d8911e7d1497f09a489/197_0_3548_2839/master/3548.jpg?width=140&quality=85&auto=format&fit=max&s=0e580103cb623cda4ac0f60366f34caf"
+  },
+  {
+   "id": "w-3c604011f3361a3a",
+   "outlet": "The Guardian",
+   "section": "Middle East",
+   "published_at": "2026-11-04T19:22:43+00:00",
+   "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+   "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship has become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+   "img": "https://i.guim.co.uk/img/media/2202de8c581f688521245d585949d988a8fc66e4/599_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=960c93d9640b07a1543ca05ea25960a1"
+  },
+  {
+   "id": "w-fb84f6b5973c4d99",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T19:22:09+00:00",
+   "title": "WHO approves trials for two new Ebola vaccines",
+   "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-6b3ae8ffe49db499",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T19:22:04+00:00",
+   "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+   "summary": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? The United States woke up to a radically altered political landscape on Wednesday after Donald Trump was dealt a devastating blow in the midterm elections, in which his Republican party was strip",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+   "img": "https://i.guim.co.uk/img/media/ff53595f7c0d654c2917588b3e1f8a5748be4758/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8f7db534c9fa6b4c2e70e10fa6fe554d"
+  },
+  {
+   "id": "w-7b9e12945e79a5d9",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T19:19:34+00:00",
+   "title": "Miami helicopter crash leaves one person dead and two injured",
+   "summary": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport Sign up for the Breaking News US newsletter email A helicopter crash in Miami on Wednesday morning has left one person dead and two others injured. Authorities including the US Coast Guard responded to the crash at approximately 11.30am on Wednesday. According to the USCG, the helicopter – a Robinson R44 II – was carrying three peop",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
+   "img": "https://i.guim.co.uk/img/media/157f2a5a0de5bb6ace8ad6263cbf141355fdf029/999_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=2572adbe119a7eb9addef3040124702c"
+  },
+  {
+   "id": "w-0218fb985c639493",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T19:18:47+00:00",
+   "title": "US midterms 2026: What key races remain undecided?",
+   "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-2fae946d3cbb5d62",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T19:15:50+00:00",
+   "title": "How US midterm results could reshape Trump’s foreign policy",
+   "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-027c3b707cf30a19",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T19:13:37+00:00",
+   "title": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+   "summary": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans Jon Rosenthal has won a seat on the Texas railroad commission, a powerful state regulatory agency, beating out two challengers including the controversial Republican nominee Bo French whose campaign ignited a firestorm over his bigoted remarks . Rosenthal, a Democrat, will join the three-member body that Democrats ha",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+   "img": "https://i.guim.co.uk/img/media/3c9eec11b49f5a75d8054bf512ea21155939c311/235_51_2006_1604/master/2006.jpg?width=140&quality=85&auto=format&fit=max&s=9ad55e2d92048b06ae7b92722dd690af"
+  },
+  {
+   "id": "w-99ce4cf8c5d26c35",
+   "outlet": "BBC News",
+   "section": "Business",
+   "published_at": "2026-11-04T19:07:49+00:00",
+   "title": "Poundland owner in crunch talks as retailer's collapse looms",
+   "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg"
+  },
+  {
+   "id": "w-0a54d6ef3ceecaf6",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T19:03:08+00:00",
+   "title": "The great sleeping giant of America has awakened | Robert Reich",
+   "summary": "The real question in my mind is whether Democrats will take advantage of the new age of populism The great sleeping giant of the US has awakened, taken a hard look at what’s become of the nation, and roared a thunderous “NO!” What occurred on Tuesday was not – as some are saying – the inevitable midterm swing of the pendulum against the party in power. Texas hasn’t elected a Democratic senator since 1988. The last time Kansas elected a Democratic",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/democrats-elected-us-awakening",
+   "img": "https://i.guim.co.uk/img/media/9d391bc73d0f2c4fb6d3757599f20b1c32fdc8af/527_0_4349_3480/master/4349.jpg?width=140&quality=85&auto=format&fit=max&s=0844efc303d5064475bde060c20d9e37"
+  },
+  {
+   "id": "w-9ef6fec150ea164c",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T19:02:48+00:00",
+   "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
+   "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body The total hasn’t entirely stopped rising yet, still clicking away towards a final tally. Still, Fifa has already announced that it surpassed its own lofty revenue projections for the 2026 World Cup, bringing in $15bn, significantly more than anticipated. It appears that a third of that total – $5bn – came from ticket sales and hospitality al",
+   "url": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
+   "img": "https://i.guim.co.uk/img/media/64ece25ea3c69d73275864317d01a846505f265c/591_0_4774_3820/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f74b6eae82d05325fb72d610f78f1423"
+  },
+  {
+   "id": "w-5214bcfc64ddab6a",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T18:53:42+00:00",
+   "title": "Deontay Wilder to face unbeaten Opetaia on Fury v Joshua undercard in Cardiff",
+   "summary": "Wilder, 41, has won 43 of his 45 victories by knockout Australian cruiserweight champion moves up in weight Cardiff showdown will stream worldwide on Netflix Deontay Wilder, the former World Boxing Council heavyweight champion, will face unbeaten Australian cruiserweight world champion Jai Opetaia on the undercard of Tyson Fury’s showdown with Anthony Joshua in Cardiff on 11 December, organizers announced on Wednesday. Opetaia will move up to hea",
+   "url": "https://www.theguardian.com/sport/2026/nov/04/deontay-wilder-jai-opetaia-fury-joshua-undercard-cardiff-boxing",
+   "img": "https://i.guim.co.uk/img/media/a77bfe84681e9018f1583db68408e31854f12ce2/255_0_3878_3103/master/3878.jpg?width=140&quality=85&auto=format&fit=max&s=586ef96b13163b78645d2e32ddad4af6"
+  },
+  {
+   "id": "w-621fa16fb3ceeefc",
+   "outlet": "The Guardian",
+   "section": "Technology",
+   "published_at": "2026-11-04T18:53:31+00:00",
+   "title": "‘Wellness is on the ballot’: Why did so many pilates studios tell me to vote in the midterms?",
+   "summary": "Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Your local pilates instructors only want you to do two things: breathe through your side-planks and vote. In the days leading up to the US midterm elections, a wave of posts from fitness and wellness accounts blanketed Instagram, eschewing their typical messaging around the importance of strengthening your core in favor of the importa",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting",
+   "img": "https://i.guim.co.uk/img/media/8ad166b15b06ef0640fce66a4dcb41b3d9cdbb25/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=f93a802c5e1bbea593c04342608d89ac"
+  },
+  {
+   "id": "w-bc84531bd1fd0ff2",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T18:52:25+00:00",
+   "title": "The biggest winners and losers of the 2026 US midterms",
+   "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-cc2c9c35f61a5029",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:47:56+00:00",
+   "title": "California progressive Randy Villegas wins redrawn House seat for Democrats",
+   "summary": "Community college professor unseats incumbent Republican David Valdao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with major progressive endorsements, has won the race for California’s 22nd congressional district. He unseats the six-term, incumbent Republican congressman, David Valadao, in a district that was considered the only true toss-up across the state of California after being redrawn under Proposit",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+   "img": "https://i.guim.co.uk/img/media/3e9249221b60a5d2637555f16a0c2b1d3804a3b8/369_0_4566_3654/master/4566.jpg?width=140&quality=85&auto=format&fit=max&s=30f5b9e0e43e76f988ed54c87909fa5b"
+  },
+  {
+   "id": "w-915c2ce9eb748cb4",
+   "outlet": "BBC News",
+   "section": "Europe",
+   "published_at": "2026-11-04T18:47:32+00:00",
+   "title": "EU rules on Artificial Intelligence devices will apply in NI",
+   "summary": "Some EU rules on Artificial Intelligence will apply in Northern Ireland, the UK government says.",
+   "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png"
+  },
+  {
+   "id": "w-5f42af14116ca6d1",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T18:45:00+00:00",
+   "title": "Fact check: Examining viral narratives after the US midterm elections",
+   "summary": "As Democrats celebrate major gains, false claims about election fraud have spread. Viral posts alleging illegal voting and election rigging are intended to fuel doubt about the integrity of the vote. DW checks the facts.",
+   "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-9344d7e0b1c0d271",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-04T18:37:34+00:00",
+   "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+   "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
+   "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7348x4899+0+0/resize/7348x4899!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2Fcb%2F1c82b58740c485cb5879a6cd5e34%2Fgettyimages-2303022928.jpg"
+  },
+  {
+   "id": "w-80288d0d08c447b4",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:37:24+00:00",
+   "title": "Democrats’ triumph deals devastating blow to Trump - The Latest",
+   "summary": "Democrats have won a historic sweep in the US midterm elections, winning back control of Congress in a major setback for Donald Trump. Senate seats went blue in traditional Republican strongholds such as Texas, South Carolina and Kansas, where the Democrats had their first win since 1932. Voters have sent a strong message of discontent to the Trump administration over the economy, the cost of living and rising gas prices. Trump is now a lame-duck",
+   "url": "https://www.theguardian.com/news/video/2026/nov/04/democrats-triumph-deals-devastating-blow-to-trump-the-latest",
+   "img": "https://i.guim.co.uk/img/media/ae2fd36eb5afc1294a788ea4f7a5b961ea6c590d/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=7e96dfe13d07097817317cd5004735ab"
+  },
+  {
+   "id": "w-56ddeecf2a40fd95",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:35:18+00:00",
+   "title": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
+   "summary": "Trump’s rout could be part of a democratic spring that began in Hungary. But will it extend to the French elections next May? Hungary, Brazil, Serbia, and now the US. So far this year, when their hand has been held to the stove, voters have chosen what the Texas senator-elect James Talarico, the new face of the US’s Christian left, campaigned on as a “politics of love”: a society where we aren’t at each other’s throats, or a police state at ours.",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
+   "img": "https://i.guim.co.uk/img/media/5340a9d241e6fabf0dbf7f253e2f3e695f49f155/234_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=945ce7f34d89c392b6c9fbc3c0ba9601"
+  },
+  {
+   "id": "w-a5025b249020fa9c",
+   "outlet": "BBC News",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:35:07+00:00",
+   "title": "Trump's loss limits powers at home, but it will likely be different abroad",
+   "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+   "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1c3/live/ed878090-d880-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "w-acdea8f2c2c371b2",
+   "outlet": "BBC News",
+   "section": "Africa",
+   "published_at": "2026-11-04T18:34:19+00:00",
+   "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+   "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+   "url": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "id": "w-b360bcdbf5f4c1d5",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:31:13+00:00",
+   "title": "The Guardian view on the US midterms: joy for Democrats, a rout for Republicans and a reprieve for democracy | Editorial",
+   "summary": "Voters have delivered a damning verdict on Donald Trump’s presidency with this Congressional landslide Bitter experience made Democrats wary of believing that the blue wave predicted by polls would materialise. What arrived was not just victory but a rout: control of Congress and a Republican wipeout . It was an astounding humiliation for a president whose political brand is power. Donald Trump won it back in 2024 by promising voters lower prices",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-the-us-midterms-joy-for-democrats-a-rout-for-republicans-and-a-reprieve-for-democracy",
+   "img": "https://i.guim.co.uk/img/media/371023e84b2006475fe025cc0ab2a21fc1e20a09/155_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=c7804e2628ad3b1309c95ecc1cd9ad01"
+  },
+  {
+   "id": "w-f91fb83aa4950fd5",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:30:22+00:00",
+   "title": "Ten historic firsts: the winning US midterm candidates making waves",
+   "summary": "US voters elected the first black female governor and the first Muslim to the Senate on a night of history US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? The US midterm elections have ushered in a slew of historic wins, shattering racial and gender ceilings, among other barriers, for races at the state and national level. Here are some of the ways ",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-historic-firsts",
+   "img": "https://i.guim.co.uk/img/media/6c2579f60cad0b00f1c594d753b1837b6fc3806d/320_0_3185_2549/master/3185.jpg?width=140&quality=85&auto=format&fit=max&s=1550bf7696f0dd2bf34f7b092ca9010c"
+  },
+  {
+   "id": "w-575fd50b2beb30d9",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T18:26:53+00:00",
+   "title": "Bob Dylan meets Pope Leo XIV in the Vatican, with music, faith and a rosary gift",
+   "summary": "Bob Dylan meets Pope Leo XIV in the Vatican. The Pontiff gives him a rosary, the Nobel laureate gives him his autobiography. Tomorrow, the concert in Rome.",
+   "url": "https://www.euronews.com/2026/11/04/bob-dylan-meets-pope-leo-xiv-in-the-vatican-with-music-faith-and-a-rosary-gift",
+   "img": ""
+  },
+  {
+   "id": "w-9aa01155d2e9936c",
+   "outlet": "The Guardian",
+   "section": "Africa",
+   "published_at": "2026-11-04T18:18:37+00:00",
+   "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+   "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. “A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established p",
+   "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+   "img": "https://i.guim.co.uk/img/media/22d88a4e5887695fa17d85593fd7c9e807599182/872_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e75a89393e422c54d1dcf69d2965d49d"
+  },
+  {
+   "id": "w-6bf7d234fe5c399c",
+   "outlet": "The Guardian",
+   "section": "Technology",
+   "published_at": "2026-11-04T18:18:34+00:00",
+   "title": "Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
+   "summary": "As tech bosses get richer and ordinary Americans struggle, Democrats put the case against the US’s grotesque unfairness – and voters responded Remember the “vibe shift”? Just last year, columnists and corporate boardrooms alike declared that the second coming of Donald Trump meant the old rules of politics and even everyday civility were roadkill. “I feel liberated,” one top banker told the Financial Times . “We can say ‘retard’ and ‘pussy’ witho",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats",
+   "img": "https://i.guim.co.uk/img/media/73618ab8b6d811e77f7452581287487b8d706e0a/242_0_2421_1937/master/2421.jpg?width=140&quality=85&auto=format&fit=max&s=b5f15fa28ce64a7da8a1c6c8bb821a02"
+  },
+  {
+   "id": "w-9f09984a2f3c5cc1",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T18:14:23+00:00",
+   "title": "Lions’ Jack Campbell making progress on movement in upper body after injury during game",
+   "summary": "Linebacker has ‘full movement in lower body’ 26-year-old was injured making tackle on Sunday Detroit Lions linebacker Jack Campbell says he has regained some movement in his body after sustaining a serious neck injury during his team’s win over the Minnesota Vikings on Sunday. The 26-year-old was treated for nine minutes on the field after making a tackle during Sunday’s game. Players from both teams were visibly distraught as Campbell received m",
+   "url": "https://www.theguardian.com/sport/2026/nov/04/jack-campbell-injury-update-nfl",
+   "img": "https://i.guim.co.uk/img/media/c67eb72affb0cfec9adfe80b33570c2d6cb52cd3/948_0_6600_5281/master/6600.jpg?width=140&quality=85&auto=format&fit=max&s=2a26f2353f22955b5ae7059a8d5be9be"
+  },
+  {
+   "id": "w-b9a891085eb130bf",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-04T18:14:13+00:00",
+   "title": "Mike Johnson will step aside as top House Republican next Congress",
+   "summary": "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+   "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Fff%2F33c85d5b400284e3f7b3c31f3ecb%2Fap26305774437048.jpg"
+  },
+  {
+   "id": "w-c309b314833db2ec",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T18:13:01+00:00",
+   "title": "Key moments as Democrats sweep to victories in US midterms",
+   "summary": "Democrats have been celebrating across the US after a series of victories saw them take control of both chambers.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-adb7f6d808770f7a",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-04T18:07:57+00:00",
+   "title": "Husband who invited men to rape wife asked for an online review, court told",
+   "summary": "Nine men on trial in Manchester accused of either taking part in abuse or encouraging offending on internet A husband who invited other men to rape and sexually assault his wife arranged for “more and more individuals” to visit his marital home, as he resolved “to satisfy his own perversity”, a jury has been told. The husband, who is in his 60s and from Stockport in Greater Manchester, has pleaded guilty to more than 60 offences against his wife.",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
+   "img": "https://i.guim.co.uk/img/media/6df429e85c7bdbc9465a384c2b8f0b2b69749b3f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=81b4cf1e7e67e2bed909122bb6c14f99"
+  },
+  {
+   "id": "w-88f9d49da7c4d9a7",
+   "outlet": "BBC News",
+   "section": "Culture",
+   "published_at": "2026-11-04T18:03:46+00:00",
+   "title": "Sheryl Crow reveals 'incredible' Welsh heritage",
+   "summary": "The nine-time Grammy winner recalled visiting Wales for the first time in about 1990 with her parents.",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d1/live/9a2d3090-d842-11f1-9a87-07a62b4549a2.jpg"
+  },
+  {
+   "id": "w-9dcb8c3c3c2a2c5e",
+   "outlet": "BBC News",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:01:31+00:00",
+   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+   "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "id": "w-dd4127a56a946ffa",
+   "outlet": "BBC News",
+   "section": "Americas",
+   "published_at": "2026-11-04T18:01:27+00:00",
+   "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+   "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b9/live/4db96180-d864-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "w-7b31d5ddc7788b75",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T18:01:05+00:00",
+   "title": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout",
+   "summary": "Corruption in government was high on the minds of US voters as they dealt US President Donald Trump’s party a chastening defeat in midterm elections, toppling Republican strongholds like dominoes and flipping both chambers of Congress. Triumphant Democrats have warned the Trump administration to “lawyer up”; how they go about tackling alleged graft and abuse of power could shape both their own fortunes and the country’s politics.",
+   "url": "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop",
+   "img": "https://s.france24.com/media/display/4e0e449a-d844-11f1-b10d-1beafce15fea/w:1024/p:16x9/2026-11-02T203404Z-53214534-RC2VFOA5BYP8-RTRMADP-3-USA-TRUMP-LINCOLNMEMORIAL.jpg"
+  },
+  {
+   "id": "w-52d38fee291d839b",
+   "outlet": "The Guardian",
+   "section": "Middle East",
+   "published_at": "2026-11-04T18:00:40+00:00",
+   "title": "Win or lose? Inside the 6 November Guardian Weekly",
+   "summary": "Who will control the Knesset? Plus: why the argument over autism? Get the Guardian Weekly delivered to your home address I’m writing this as the world wakes up to news of a blue wave of Democrat wins in the US midterms. What they mean for America and the world will be the subject of next week’s issue but this week we are focusing on Israel. As seasoned Knesset watchers know, the plethora of parties on the ballot and proportional representation ra",
+   "url": "https://www.theguardian.com/news/2026/nov/04/win-or-lose-inside-the-6-november-guardian-weekly",
+   "img": "https://i.guim.co.uk/img/media/2a96da3930cd0ea7b326b36e24160220cb5c9003/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=aa8fdf35e165f7616940528fba88d9e0"
+  },
+  {
+   "id": "w-c061b3c0641b161e",
+   "outlet": "BBC News",
+   "section": "Health",
+   "published_at": "2026-11-04T17:58:59+00:00",
+   "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+   "summary": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
+   "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e4/live/bcaf3470-d878-11f1-a364-a1fce50dd192.jpg"
+  },
+  {
+   "id": "w-2b7df10c99a79605",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T17:57:00+00:00",
+   "title": "French blood banks targeted by refrigerator cyberattack",
+   "summary": "A cyberattack had attempted to destroy blood plasma by raising the temperatures in cold storage facilities past the boiling point.",
+   "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-c95994f1830fc681",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:54:48+00:00",
+   "title": "Danish students join European protest wave against education funding cuts",
+   "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-e99c6f8b95fa57c0",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T17:49:34+00:00",
+   "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
+   "summary": "Erin Ogunkeye is pleased to welcome Adam Jentleson, President of the Searchlight Institute and author of Supermajority: How Democrats Can Build Lasting Power, For Jentleson, the Democrats' sweeping midterm victory represents far more than the familiar backlash against an incumbent president. \"This is a once-in-a-generation event.\" But electoral breadth presents a governing dilemma. Can a coalition stretching from progressive reformers to cultural",
+   "url": "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement",
+   "img": "https://s.france24.com/media/display/5514019c-d873-11f1-8b6b-a575454bc579/w:1024/p:16x9/EN-20261104-163331-164341-CS.jpg"
+  },
+  {
+   "id": "w-420dcbd51301ca2f",
+   "outlet": "BBC News",
+   "section": "World",
+   "published_at": "2026-11-04T17:45:58+00:00",
+   "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+   "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+   "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"
+  },
+  {
+   "id": "w-ba66139d0b6a35ef",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T17:44:07+00:00",
+   "title": "‘Thrilled, scared but hopeful’: readers react to historic Democratic victory in US midterms",
+   "summary": "Excitement over midterm election results tempered by worry of return to ‘business as usual’ in Congress and US Send us your questions about the midterm results US midterms 2026 live – latest updates Guardian readers from around the world have shared their reactions to the results of the US midterm elections on Tuesday night. Here’s what they had to say. Continue reading...",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/reactions-midterm-election-results-democrats",
+   "img": "https://i.guim.co.uk/img/media/bcb2ddad0991597484996736701c82c6a6d513aa/41_0_7212_5769/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=63f08d6885dc8577edbe0dece2bbdbcb"
+  },
+  {
+   "id": "w-efe820017b371644",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:41:48+00:00",
+   "title": "Netanyahu bet on Trump – but both lost",
+   "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-df65679b7673187c",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-04T17:38:36+00:00",
+   "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+   "summary": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
+   "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7930x5287+0+0/resize/7930x5287!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2F4b%2Ffdb054e64aa0889d47c5d95552ea%2Fgettyimages-2302266084.jpg"
+  },
+  {
+   "id": "w-bd42de26fb1f1bcf",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:30:13+00:00",
+   "title": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
+   "summary": "Dozens of Santas gathered at Rio de Janeiro's iconic Christ the Redeemer statue to celebrate their graduation. The 55 new recruits are preparing to spread Christmas cheer across Brazil.",
+   "url": "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer",
+   "img": ""
+  },
+  {
+   "id": "w-8426b27a2065a136",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T17:23:54+00:00",
+   "title": "Rory McIlroy backs claim that LIV tried to ‘destroy’ DP World Tour",
+   "summary": "McIlroy: ‘LIV turned pro golf into an arms race’ DP chief executive: ‘We pay everyone on time’ Rory McIlroy voiced his support on Wednesday for the DP World Tour chief executive’s claim that LIV Golf’s goal was to “destroy” the European golf circuit. The six-time major winner and former world No 1 spoke ⁠with the media on Wednesday before the Abu Dhabi Championship and was asked about Guy Kinnings’ recent interview with the Scotsman . Continue re",
+   "url": "https://www.theguardian.com/sport/2026/nov/04/rory-mcilroy-liv-golf-destroy-dp-world-tour",
+   "img": "https://i.guim.co.uk/img/media/7c8cb64453b4c8485c66cd8d432794782aa0c920/253_0_2961_2368/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=bdd0551831c5ea91e1fc2c59f0282509"
+  },
+  {
+   "id": "w-ba5faf293d8af6f1",
+   "outlet": "BBC News",
+   "section": "Culture",
+   "published_at": "2026-11-04T17:23:26+00:00",
+   "title": "Tributes paid to drummer with dozens of number ones",
+   "summary": "Amarillo singer Tony Christie says Clem Cattini was a \"world class\" musician and gentleman.",
+   "url": "https://www.bbc.co.uk/news/articles/c317kjwj18wzo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f086/live/2a22f6e0-d86f-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "id": "w-5e78d761eec1fb87",
+   "outlet": "BBC News",
+   "section": "Americas",
+   "published_at": "2026-11-04T17:21:32+00:00",
+   "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
+   "summary": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
+   "url": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f8/live/10a6e110-d863-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "id": "w-c5638ed5ef549f12",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:18:50+00:00",
+   "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+   "summary": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-89c4bb68575a6555",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:16:07+00:00",
+   "title": "Just six climate actions could save 1.6 million lives a year, WHO says",
+   "summary": "The WHO is urging governments to scale up six measures to tackle the health impacts of climate change, saying they could save millions of lives while delivering major economic benefits.",
+   "url": "https://www.euronews.com/2026/11/04/just-six-climate-actions-could-save-16-million-lives-a-year-who-says",
+   "img": ""
+  },
+  {
+   "id": "w-7172e97506c7a7f4",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T17:16:00+00:00",
+   "title": "The 2011 discovery of the neo-Nazi terror cell the NSU exposed biases in German law enforcement and media",
+   "summary": "Many questions still surround the National Socialist Underground whose existence was revealed by neo-Nazi terrorist Beate Zschäpe on November 4, 2011. How has German society reacted to NSU crimes? Has justice been done?",
+   "url": "https://www.dw.com/en/the-2011-discovery-of-the-neo-nazi-terror-cell-the-nsu-exposed-biases-in-german-law-enforcement-and-media/a-79857781?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-c48c333ca030ebb0",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T17:15:33+00:00",
+   "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+   "summary": "Stance signals vice-president seeks to distance himself from the unpopular conflict ahead of possible 2028 run US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want to know about the results? JD Vance said on Wednesday that the war against Iran doomed the Republican party in the US midterm elections, which are widely seen as a sweeping rebuke of Donald Trump’s presidency. The intervention signals t",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+   "img": "https://i.guim.co.uk/img/media/ee69b910f8c59a69398546091aae23d6c7536aeb/582_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=6d97a6048b2596e73338b299d352425d"
+  },
+  {
+   "id": "w-e4d7d333f36849d8",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:14:21+00:00",
+   "title": "Palestinian citizens of Israel face intimidation after election success",
+   "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-cfbe7248e86e8102",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-04T17:08:29+00:00",
+   "title": "Mike Johnson says he will not pursue House minority leader role – reports",
+   "summary": "Reported move from Republican speaker of House comes in light of party’s disastrous midterms defeat US midterms 2026 live – latest updates Tell us: what do you want to know about the midterm election results? Mike Johnson , the Republican speaker of the House, has said he is not planning to pursue the role of minority leader once his party loses its majority in the chamber, according to multiple reports. Coming in light of Republicans’ disastrous",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
+   "img": "https://i.guim.co.uk/img/media/bfbd5bcc0d20249a1bd0721d60fcc41cef9cd629/63_0_4110_3287/master/4110.jpg?width=140&quality=85&auto=format&fit=max&s=615bce038d072c5b5d3cfc09f3063345"
+  },
+  {
+   "id": "w-8f4ddbc2ba6b31f8",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:07:03+00:00",
+   "title": "As maritime threats grow, France pushes to strengthen Europe's naval power",
+   "summary": "France is at the forefront of efforts to strengthen Europe's naval capabilities. Its growing naval arsenal is on display this week at Euronaval, the world's largest naval defence show, held annually near Paris.",
+   "url": "https://www.euronews.com/2026/11/04/as-maritime-threats-grow-france-pushes-to-strengthen-europes-naval-power",
+   "img": ""
+  },
+  {
+   "id": "w-4525a1c6e60790fe",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:06:56+00:00",
+   "title": "WHO backs trials for two new vaccines against Ebola outbreak",
+   "summary": "The vaccine trials could offer new hope in the fight against an outbreak caused by an Ebola strain with no approved vaccine.",
+   "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak",
+   "img": ""
+  },
+  {
+   "id": "w-b0563bdb296ee7f0",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:05:12+00:00",
+   "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
+   "summary": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono.",
+   "url": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-6ecb55df0f3bfdbc",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T17:05:09+00:00",
+   "title": "The new Congress may struggle to push a progressive agenda",
+   "summary": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-f8c11d69e1a2da3f",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-04T17:01:31+00:00",
+   "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
+   "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "img": "https://i.guim.co.uk/img/media/2e561cbb6409fbdb9d404590fb61932c4a3b8429/398_0_6159_4927/master/6159.jpg?width=140&quality=85&auto=format&fit=max&s=0f80bb32c2e11abd5f9f64ed5b145837"
+  },
+  {
+   "id": "w-236199fba94f93f0",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:00:40+00:00",
+   "title": "Grand Voyager in Copenhagen: cycling, culture and Nordic cuisine",
+   "summary": "Copenhagen, Denmark’s capital, is known for its colourful architecture, rich cultural heritage and relaxed way of life. It’s a city where historic landmarks and modern Scandinavian design sit together. One of the best ways to discover the city is with a local guide. In this episode of Grand Voyager,",
+   "url": "https://www.euronews.com/2026/11/04/grand-voyager-in-copenhagen-cycling-culture-and-nordic-cuisine",
+   "img": ""
+  },
+  {
+   "id": "w-7a6c62dfcd2bd281",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T17:00:39+00:00",
+   "title": "Six Nations and Sanzaar agree to sell global broadcast rights together in unique deal",
+   "summary": "Rugby’s biggest unions aiming to grow revenues New rights management agency to oversee sales The Six Nations and Sanzaar unions have agreed to sell all their media rights and commercial deals collectively for the first time in a new revenue-sharing model. In an innovative arrangement that is the first of its kind in sport, the southern hemisphere nations will receive a share of the profits generated by the Six Nations and British & Irish Lions to",
+   "url": "https://www.theguardian.com/sport/2026/nov/04/rugby-union-six-nations-sanzaar-lions-broadcast-commercial-rights",
+   "img": "https://i.guim.co.uk/img/media/2b0095a7360d498a401515b298fee5b7e17b6773/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff62424436cccc57b013786d14d4558b"
+  },
+  {
+   "id": "w-c1c77eb682bfe82c",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-04T17:00:39+00:00",
+   "title": "Borthwick given RFU backing for World Cup even if England flop in Nations Championship",
+   "summary": "RFU chief Bill Sweeney offers full support to Borthwick England boosted by fly-half Fin Smith returning to training Steve Borthwick has been given the Rugby Football Union’s ­unequivocal backing to lead England into next year’s World Cup even if the side flop this autumn. In September Borthwick’s contract was extended to after the 2028 Six Nations, despite England’s worst ever Six Nations performance this year, to avoid speculation in the buildup",
+   "url": "https://www.theguardian.com/sport/2026/nov/04/steve-borthwick-rugby-world-cup-rfu-backing-england",
+   "img": "https://i.guim.co.uk/img/media/24a814b17f4b00814315e218113abaf5ceb4b2e1/214_0_2863_2290/master/2863.jpg?width=140&quality=85&auto=format&fit=max&s=5d8f356ecfa723bc06ef401d1dcfc17f"
+  },
+  {
+   "id": "w-4ad52d3584ccd8fe",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T17:00:26+00:00",
+   "title": "Latest news bulletin | November 4th, 2026 – Evening",
+   "summary": "Catch up with the most important stories from around Europe and beyond this November 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "url": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening",
+   "img": ""
+  },
+  {
+   "id": "w-9eb298186d7fe664",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T17:00:09+00:00",
+   "title": "European leaders welcome Democrats' US midterms election win",
+   "summary": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican party. FRANCE 24's Dave Keating has more.",
+   "url": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
+   "img": "https://s.france24.com/media/display/ae4696b0-d870-11f1-8249-bf1914cabd52/w:1024/p:16x9/capture-88cd0a37.jpg"
+  },
+  {
+   "id": "w-bd1aee5121d935c5",
+   "outlet": "BBC News",
+   "section": "Middle East",
+   "published_at": "2026-11-04T16:59:15+00:00",
+   "title": "Iran's chief negotiator says Americans voted 'no to war'",
+   "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "w-44ea7f745375cd42",
+   "outlet": "The Guardian",
+   "section": "Culture",
+   "published_at": "2026-11-04T16:54:44+00:00",
+   "title": "Herbert Blomstedt, renowned conductor with a seven-decade career, dies aged 99",
+   "summary": "The much loved Swedish-American musician, particularly known for his work with the San Francisco Symphony and Leipzig Gewandhaus, continued performing until earlier this year The conductor Herbert Blomstedt has died aged 99. His career stretched over an extraordinary seven decades and he continued to conduct and tour into his late 90s; his final concert was earlier this year, aged 98. Born in Massachusetts, US, in July 1927 to Swedish parents, th",
+   "url": "https://www.theguardian.com/music/2026/nov/04/herbert-blomstedt-renowned-conductor-with-a-seven-decade-career-dies-aged-99",
+   "img": "https://i.guim.co.uk/img/media/60525a43bad3a839697dc99851283fddbae2536a/472_0_4721_3777/master/4721.jpg?width=140&quality=85&auto=format&fit=max&s=9e010bba4febc61a4ac59b97ac000760"
+  },
+  {
+   "id": "w-466ff9f5f4fae6b4",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T16:51:39+00:00",
+   "title": "US midterms bring a wave of historic firsts as minorities win key races",
+   "summary": "US midterms bring a wave of historic firsts as minorities win key races: The first Native American female senator in Minnesota, the first openly gay male senator in New Hampshire, the first Muslim senator in Michigan and the country's first Black female governor in Georgia. FRANCE 24's Elitsa Gadeva has more.",
+   "url": "https://www.france24.com/en/us-midterms-bring-a-wave-of-historic-firsts-as-minorities-win-key-races",
+   "img": "https://s.france24.com/media/display/9b1eb92e-d86f-11f1-bf0c-d18c5759e759/w:1024/p:16x9/capture-b3063e07.jpg"
+  },
+  {
+   "id": "w-b3baa850b1002537",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T16:50:06+00:00",
+   "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+   "summary": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on Wednesday attributed Republican losses in the US midterm elections to Washington's war with Iran, telling lawmakers that American efforts to pressure Tehran had failed. Democrats won control of both chambers of Congress in Tuesday's midterm elections.",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+   "img": "https://s.france24.com/media/display/9760657e-d86c-11f1-98f7-695cb59fade5/w:1024/p:16x9/mini3-3.jpg"
+  },
+  {
+   "id": "w-8243b0b2566bb178",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T16:48:34+00:00",
+   "title": "UK: Police arrest Palestine Action supporters outside Supreme Court",
+   "summary": "Police arrested supporters of Palestine Action outside the Supreme Court in London, United Kingdom, on Wednesday 4 November, as a legal battle over the British government's ban on the group resumed.",
+   "url": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court",
+   "img": ""
+  },
+  {
+   "id": "w-1406536fe3a00648",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T16:47:27+00:00",
+   "title": "UK parliament risks 'catastrophic failure' after renovation delay",
+   "summary": "The Palace of Westminster could risk severe damage as the ageing building's renovation has been continuously postponed over political disagreements.",
+   "url": "https://www.euronews.com/2026/11/04/uk-parliament-risks-catastrophic-failure-after-renovation-delay",
+   "img": ""
+  },
+  {
+   "id": "w-f58d5e5cbae7c74c",
+   "outlet": "The Guardian",
+   "section": "Culture",
+   "published_at": "2026-11-04T16:47:15+00:00",
+   "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+   "summary": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi and children Bonifacio and Beat",
+   "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+   "img": "https://i.guim.co.uk/img/media/200f4cf3cbea53e1603982201c59d54825ccfb60/324_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=db952823de612983007e304c16abdb05"
+  },
+  {
+   "id": "w-86de370c3725b05a",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T16:42:59+00:00",
+   "title": "REPLAY: Senate Democratic leader Chuck Schumer on US midterms",
+   "summary": "The US Senate Democratic leader Chuck Schumer talked to the press after the midterm election results. Democrats are riding their sweep of Congress into a new era, eager to meet voter demands for change with plans to tackle high costs of living and confront President Donald Trump's final years in the White House.",
+   "url": "https://www.france24.com/en/replay-senate-democratic-leader-chuck-schumer-on-us-midterms",
+   "img": "https://s.france24.com/media/display/878e1e82-d86e-11f1-9a80-695cb59fade5/w:1024/p:16x9/capture-67a85a1e.jpg"
+  },
+  {
    "id": "w-d5e5792c8441f427",
    "outlet": "BBC News",
    "section": "Africa",
@@ -22,26 +802,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
   },
   {
-   "id": "w-ab6227946c676582",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T16:39:17+00:00",
-   "title": "US midterm elections 2026 live updates: Vance blames Iran war for Republicans’ brutal midterms losses as Democrats retake Congress",
-   "summary": "Vice-president says ‘it’s obvious to almost everyone’ that Iran war is ‘reason we lost’; Mike Johnson won’t seek House leadership role Track live results from all 50 states Full report: Democrats win control of Congress Tell us: how do you feel about the midterm results? Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy Nas",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-   "img": "https://i.guim.co.uk/img/media/2289c25cb92bd6c75d4bf752e0d4b85e41ef3df2/459_0_4162_3329/master/4162.jpg?width=140&quality=85&auto=format&fit=max&s=a37e30fba224c1ad24396d53cfe4ebb3"
-  },
-  {
-   "id": "w-2b114bace06ca2da",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-04T16:38:51+00:00",
-   "title": "Fenerbahce v Liverpool: Champions League – live",
-   "summary": "Minute-by-minute updates on the early kick-off in Turkey Liverpool fizzle out against Arsenal | Email Simon The teams have been named, and here they jolly well are! Five changes for Liverpool, with Florian Wirtz and Alexander Isak among those dropping to the bench and Joe Gomez and Kostas Tsimikas among those hopping into the first XI. Fenerbahce: Ederson, Nelson Semedo, Skriniar, Oppong, Brown, Guendouzi, Kante, Yuksek, Greenwood, Lukaku, Kahvec",
-   "url": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-   "img": "https://i.guim.co.uk/img/media/a29029a46669d560f1c658be7fcae715a5ca19d7/375_0_4994_3996/master/4994.jpg?width=140&quality=85&auto=format&fit=max&s=62bf2a5bffb04b6b1a518480522c7250"
-  },
-  {
    "id": "w-847d94d16f5c2e7d",
    "outlet": "The Guardian",
    "section": "Americas",
@@ -50,6 +810,16 @@
    "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy Business live – latest updates US midterm elections – live updates After US midterms, what will lame duck Trump mean for global economy? US stocks have surged as investors digest the Democrats’ victories in the midterm elections, lifted by hopes that Donald Trump’s turbulent policymaking would be restrained and shaking off initial fears",
    "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
    "img": "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=893b0115f42782d7afa7bc67f68cf280"
+  },
+  {
+   "id": "w-399f9fafd53c3767",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-04T16:37:49+00:00",
+   "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+   "summary": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+   "img": ""
   },
   {
    "id": "w-d22974efd97b6794",
@@ -76,30 +846,30 @@
    "outlet": "BBC News",
    "section": "Europe",
    "published_at": "2026-11-04T16:31:14+00:00",
-   "title": "Brigitte Bardot inheritance row deepens after private letter leaked",
+   "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
    "summary": "In the letter, the late French actress says her partner Bernard de Chiara was \"incapable\" of giving \"support, a tenderness, a presence\".",
    "url": "https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5a/live/e353adf0-d863-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "id": "w-f8c11d69e1a2da3f",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-04T16:29:21+00:00",
-   "title": "Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live",
-   "summary": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "img": "https://i.guim.co.uk/img/media/2e561cbb6409fbdb9d404590fb61932c4a3b8429/398_0_6159_4927/master/6159.jpg?width=140&quality=85&auto=format&fit=max&s=0f80bb32c2e11abd5f9f64ed5b145837"
   },
   {
    "id": "w-38eadf69e106854c",
    "outlet": "BBC News",
    "section": "Technology",
    "published_at": "2026-11-04T16:26:15+00:00",
-   "title": "French blood supplies impacted by freezer hacks as theories swirl about culprits",
+   "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
    "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
    "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "id": "w-595e74419046d0e1",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T16:24:56+00:00",
+   "title": "US Midterms: How will Trump manage working with Democrats?",
+   "summary": "Democrats are riding their sweep of Congress into a new era, eager to meet voter demands for change with plans to tackle high costs of living. How will Donald Trump manage to work with them? FRANCE 24's Ophelie Jacobson has more.",
+   "url": "https://www.france24.com/en/us-midterms-how-will-trump-manage-working-with-democrats",
+   "img": "https://s.france24.com/media/display/b177d7d6-d86b-11f1-99dd-bf1914cabd52/w:1024/p:16x9/capture-17cb98fc.jpg"
   },
   {
    "id": "w-951e39881d2d02f3",
@@ -117,7 +887,7 @@
    "section": "Sport",
    "published_at": "2026-11-04T16:23:02+00:00",
    "title": "Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death",
-   "summary": "Owono says he feels ‘immense pain’ over tragedy He gets backing from Andorra teammate The FC Andorra goalkeeper Jesús Owono said on Wednesday he was enduring the “hardest days of my life” after the death of the Tenerife striker Jesús de Miguel, with whom he collided during a Spanish second division match on Monday. “These are being the hardest days of my life,” Owono said in a statement published by his club. “I find it hard to find the words and",
+   "summary": "Owono says he feels ‘huge pain’ over tragedy Investigation into medical attention De Miguel received The FC Andorra goalkeeper Jesús Owono said he was enduring the “hardest days of my life” after he was involved in the collision that led to the death of the Tenerife striker Jesús de Miguel. Owono had raced out of his goal and crashed into De Miguel in added time at the end of the Spanish second division match on Monday afternoon, causing the stri",
    "url": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
    "img": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
   },
@@ -166,10 +936,30 @@
    "outlet": "The Guardian",
    "section": "Europe",
    "published_at": "2026-11-04T16:09:19+00:00",
-   "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – Europe live",
+   "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
    "summary": "School in Komyshuvakha in the Zaporizhzhia region was struck on Monday Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine, Reuters said. In comments ‌broadcast by Russian state ​media, Kremlin spokesperson Dmitry Peskov said: “We ⁠are sincerely ​counting on [Trump] ​continuing ​his peacemaking ​efforts.“ “Governi",
    "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
    "img": "https://i.guim.co.uk/img/media/e0cb5d88bda0606809e4be729804001f7a8c9e93/664_0_5088_4071/master/5088.jpg?width=140&quality=85&auto=format&fit=max&s=78a2e6ac8ef74e1fc8998639bfbb4c1b"
+  },
+  {
+   "id": "w-e3ed6aa1e4378072",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T16:09:00+00:00",
+   "title": "Tale of 2 midterms: Republican redistricting 'backfired' while Democrats 'exceeded all expectations'",
+   "summary": "Following a resounding Midterm election defeat, Is MAGA Losing Its Grip on the Republican Party? Erin Ogunkeye is pleased to welcome Bryan Lanza, Republican strategist and Partner in Mercury's Washington DC office. \"The big thing about MAGA was confrontation, in your face,\" explained Lanza. But following a veritable blue wave, he believes the electorate has delivered a warning: \"We need to move beyond that.\" While Donald Trump has acknowledged th",
+   "url": "https://www.france24.com/en/tale-of-2-midterms-republican-redistricting-backfired-while-democrats-exceeded-all-expectations",
+   "img": "https://s.france24.com/media/display/4e019f00-d868-11f1-87e9-bf1914cabd52/w:1024/p:16x9/EN-20261104-151157-152106-CS.jpg"
+  },
+  {
+   "id": "w-a33952c2b930a246",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-04T16:08:41+00:00",
+   "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
+   "summary": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
+   "url": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5762x3841+0+0/resize/5762x3841!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F26%2F3935db6f4ae99857128157abbc43%2Fgettyimages-2303018490.jpg"
   },
   {
    "id": "w-c1cf3e50fc1864a1",
@@ -192,12 +982,22 @@
    "img": "https://i.guim.co.uk/img/media/2a93f1501ef9ad49bab6fef5ee59dc4a5af2e1b6/785_0_5678_4542/master/5678.jpg?width=140&quality=85&auto=format&fit=max&s=a3337712fdf286d47927c41ca8d109f3"
   },
   {
+   "id": "w-6a13fd719356954a",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-04T15:54:58+00:00",
+   "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+   "summary": "Following the US midterms, US President Donald Trump could face a turbulent final two years in office. From budget battles to potential impeachment proceedings, what does the new political balance of power mean for his presidency? FRANCE 24's International Affairs Editor Philip Turle breaks it down.",
+   "url": "https://www.france24.com/en/video/20261104-trump-after-the-midterms-gridlock-impeachment-and-succession",
+   "img": "https://s.france24.com/media/display/4965c0ca-d863-11f1-acf9-d18c5759e759/w:1024/p:16x9/mini2-6.jpg"
+  },
+  {
    "id": "w-1d64cefdaaaafd68",
    "outlet": "The Guardian",
    "section": "World",
    "published_at": "2026-11-04T15:54:19+00:00",
    "title": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
-   "summary": "Jason Beer KC will examine ‘policies and procedures’ in tragic case of the university’s youngest black professor The lead barrister for the Post Office Horizon inquiry has been appointed to head an independent review into the death of Cambridge academic Jason Arday. Jason Beer KC will examine the handling of allegations of “research and other misconduct” made against Arday before his resignation as well as the university’s recruitment and support",
+   "summary": "Jason Beer KC will examine university’s handling of claims against Arday and protection offered to academics in spotlight The lead barrister for the Post Office Horizon inquiry has been appointed to head an independent review into the death of the Cambridge academic Jason Arday. Jason Beer KC will examine the handling of allegations of research and other misconduct made against Arday before his resignation as well as the university’s recruitment ",
    "url": "https://www.theguardian.com/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review",
    "img": "https://i.guim.co.uk/img/media/f2b11433fe6a4e276c2594f779870a25470a56f3/479_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=4187a072481c0140349db3aee147a31c"
   },
@@ -242,16 +1042,6 @@
    "img": "https://i.guim.co.uk/img/media/537ec856066045f324f9d6bb89a717ca8322717a/945_19_4440_3551/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=29e74d6f345de80c08e9bd4ae18f0b54"
   },
   {
-   "id": "w-99ce4cf8c5d26c35",
-   "outlet": "BBC News",
-   "section": "Business",
-   "published_at": "2026-11-04T15:45:11+00:00",
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg"
-  },
-  {
    "id": "w-208d404b28e92d82",
    "outlet": "France 24",
    "section": "World",
@@ -292,6 +1082,16 @@
    "img": ""
   },
   {
+   "id": "w-f55a3ee3bd2f1cd2",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T15:40:00+00:00",
+   "title": "Gold for Palestine: Meet junior karate champ Mariam Bsharat",
+   "summary": "The occupied West Bank is not an obvious breeding ground for sporting success. But Mariam Bsharat, 17, has beaten the odds to become a karate world champion and is making a new life in Germany.",
+   "url": "https://www.dw.com/en/gold-for-palestine-meet-junior-karate-champ-mariam-bsharat/a-79851806?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
    "id": "w-696f91851c91899e",
    "outlet": "Al Jazeera",
    "section": "World",
@@ -320,16 +1120,6 @@
    "summary": "The late-night host reacted to Democrats’ House and Senate victories and weighed in on what this means for Trump On his late-night show, Jimmy Kimmel weighed in on the midterm election results as they were happening, celebrating landmark wins for Democrats in key battleground states. Continue reading...",
    "url": "https://www.theguardian.com/culture/2026/nov/04/jimmy-kimmel-midterms-trump",
    "img": "https://i.guim.co.uk/img/media/0e7d462ac56e15436cfd41c81015f2781d3a3f16/466_0_2008_1606/master/2008.jpg?width=140&quality=85&auto=format&fit=max&s=d056c08660c09acdca0fbc02b47097b4"
-  },
-  {
-   "id": "w-cfbe7248e86e8102",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T15:36:38+00:00",
-   "title": "Mike Johnson says he will not pursue House minority leader role – reports",
-   "summary": "Reported move from Republican speaker of House comes in light of party’s disastrous midterms defeat US midterms 2026 live – latest updates Tell us: what do you want to know about the midterm election results? Mike Johnson, the Republican speaker of the House, has said he is not planning to pursue the role of minority leader once his party loses its majority in the chamber, according to multiple reports. Coming in light of Republicans’ disastrous ",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
-   "img": "https://i.guim.co.uk/img/media/bfbd5bcc0d20249a1bd0721d60fcc41cef9cd629/63_0_4110_3287/master/4110.jpg?width=140&quality=85&auto=format&fit=max&s=615bce038d072c5b5d3cfc09f3063345"
   },
   {
    "id": "w-c8005ae7d1479784",
@@ -376,7 +1166,7 @@
    "outlet": "BBC News",
    "section": "Europe",
    "published_at": "2026-11-04T15:28:18+00:00",
-   "title": "Secret police files released in Hungary, 47 years after fall of communism",
+   "title": "Secret police files released in Hungary, 37 years after fall of communism",
    "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
    "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"
@@ -386,7 +1176,7 @@
    "outlet": "Al Jazeera",
    "section": "World",
    "published_at": "2026-11-04T15:28:00+00:00",
-   "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+   "title": "Trump says Iran war justified despite polls drubbing",
    "summary": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
    "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
    "img": ""
@@ -462,21 +1252,11 @@
    "img": ""
   },
   {
-   "id": "w-41816c05805f718b",
-   "outlet": "BBC News",
-   "section": "Business",
-   "published_at": "2026-11-04T15:13:14+00:00",
-   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-   "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"
-  },
-  {
    "id": "w-b05276dc56f35632",
    "outlet": "Al Jazeera",
    "section": "World",
    "published_at": "2026-11-04T15:13:00+00:00",
-   "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+   "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
    "summary": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.",
    "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
    "img": ""
@@ -484,10 +1264,10 @@
   {
    "id": "w-87766790029eea88",
    "outlet": "The Guardian",
-   "section": "Sport",
+   "section": "Americas",
    "published_at": "2026-11-04T15:10:43+00:00",
    "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
-   "summary": "Mauricio Pochettino names 26-man roster to face Haiti McKennie and Sullivan among notable inclusions Quarter-final matches set for Miami, Cincinnati Mauricio Pochettino has selected his 26-man roster for the United States’ Concacaf Nations League quarter-final matches against Haiti, including recalls for Christian Pulisic, Weston McKennie and Folarin Balogun. After 13 players earned their first caps in the previous window, only two selections cou",
+   "summary": "Mauricio Pochettino names 25-man roster to face Haiti McKennie and Sullivan among notable inclusions Quarter-final matches set for Miami, Cincinnati Mauricio Pochettino has selected his 25-man roster for the United States’ Concacaf Nations League quarter-final matches against Haiti, including recalls for Christian Pulisic, Weston McKennie and Folarin Balogun. After 13 players earned their first caps in the previous window, only two selections cou",
    "url": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
    "img": "https://i.guim.co.uk/img/media/0bb5f880eb7f985cf0f72b2fd84755f3e0f08863/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=240a947ee74b98fb51bc1945d6e16411"
   },
@@ -574,7 +1354,7 @@
   {
    "id": "w-399dc84681c3d3c3",
    "outlet": "BBC News",
-   "section": "Europe",
+   "section": "Americas",
    "published_at": "2026-11-04T15:01:10+00:00",
    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
    "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
@@ -597,7 +1377,7 @@
    "section": "Americas",
    "published_at": "2026-11-04T15:00:37+00:00",
    "title": "Democrats warn Trump officials to keep records or risk criminal penalties after midterm victories",
-   "summary": "Exclusive: letter sent to department and agency heads signals Democrats will look to investigate Trump officials A group of Democratic lawmakers are asking leaders in the Trump administration to preserve records in accordance with federal law or risk criminal penalties after voters across the country gave Democrats control of Congress. In a letter sent out to department and agency heads Wednesday morning, Bobby Scott, the top Democrat on the Hous",
+   "summary": "Exclusive: Letter sent to department and agency heads signals Democrats will look to investigate Trump officials A group of Democratic lawmakers are asking leaders in the Trump administration to preserve records in accordance with federal law or risk criminal penalties after voters across the country gave Democrats control of Congress. In a letter sent out to department and agency heads on Wednesday morning, Bobby Scott, the top Democrat on the H",
    "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-warn-trump-officials-preserve-records",
    "img": "https://i.guim.co.uk/img/media/3cfdc54c1d52a73e69c838d45553fcd5e9fb5274/467_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=aca02d4edf109c132f52adf56d7c1dfd"
   },
@@ -637,7 +1417,7 @@
    "section": "Sport",
    "published_at": "2026-11-04T14:48:17+00:00",
    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-   "summary": "Madrid hope to bring in forward during January United to consider legal action if they feel rules broken Real Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club believe any rules have been broken. Madrid have offered the 16-year-old forward a multi-year contract and, subject to final talks, hope to bring him to the club in January. Gabriel is registered with United’s academy until the end ",
+   "summary": "Madrid hope to bring in forward during January United to consider legal action if they feel rules broken Real Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club believe any rules have been broken. Madrid have offered the 16‑year‑old forward a multi‑year contract and, subject to final talks, hope to bring him to the Bernabéu in January. Gabriel is registered with United’s academy until the ",
    "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
    "img": "https://i.guim.co.uk/img/media/878adb1955bcd3465818deffd928ff1fe2cb863e/229_150_2083_1665/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=b57b5ef1034ed05b766e49ee74e002e6"
   },
@@ -772,16 +1552,6 @@
    "img": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
   },
   {
-   "id": "w-915c2ce9eb748cb4",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-04T14:10:08+00:00",
-   "title": "EU rules on Artificial Intelligence devices will apply in NI",
-   "summary": "Some EU rules on Artificial Intelligence will apply in Northern Ireland, the UK government says.",
-   "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cca/live/56b2f880-d857-11f1-94f3-cf7d1e52bb8c.png"
-  },
-  {
    "id": "w-2c93d178ce34df53",
    "outlet": "Al Jazeera",
    "section": "World",
@@ -834,7 +1604,7 @@
   {
    "id": "w-6c7136f17ee062bb",
    "outlet": "The Guardian",
-   "section": "World",
+   "section": "Technology",
    "published_at": "2026-11-04T14:00:37+00:00",
    "title": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
    "summary": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independent thinktank the Centre for Public Integrity said. ",
@@ -1017,14 +1787,14 @@
    "section": "Technology",
    "published_at": "2026-11-04T13:22:28+00:00",
    "title": "French blood banks hacked in latest cyber-attack on Europe",
-   "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products Europe live – latest updates France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temperature and defrosting ",
+   "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temperature and defrosting thresholds had been raised to",
    "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
    "img": "https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=140&quality=85&auto=format&fit=max&s=35fae51e2686a84fe83678ec82fcd2a1"
   },
   {
    "id": "w-3ca7838c63315898",
    "outlet": "BBC News",
-   "section": "World",
+   "section": "Europe",
    "published_at": "2026-11-04T13:21:01+00:00",
    "title": "Nadal set to join Real Madrid board of directors",
    "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
@@ -1070,6 +1840,16 @@
    "summary": "Rebecca Solnit and other leading writers on the epic changes to the political map This is a special election edition of How We Win , a Guardian opinion series with leading thinkers, offering bold ideas for America’s political future. Sign up here to receive future editions in your inbox. Continue reading...",
    "url": "https://www.theguardian.com/commentisfree/2026/nov/04/a-historic-beatdown",
    "img": "https://i.guim.co.uk/img/media/8945d93988ec1deae8a88f45e15477e7af040240/618_0_6178_4943/master/6178.jpg?width=140&quality=85&auto=format&fit=max&s=542027f682fec15e8d688264183b50a2"
+  },
+  {
+   "id": "w-27dfbebc12db3444",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-04T13:12:11+00:00",
+   "title": "'A feeling of redemption': Young voters in Maine hail Democratic victory",
+   "summary": "Young voters in Portland, Maine, have welcomed the Democrats' sweeping victories in the 2026 midterm elections, with celebrations breaking out as results came in. Some described the outcome as a moment of redemption after years of political disappointment.",
+   "url": "https://www.euronews.com/video/2026/11/04/a-feeling-of-redemption-young-voters-in-maine-hail-democratic-victory",
+   "img": ""
   },
   {
    "id": "w-13cb8f58177bbdc1",
@@ -1157,7 +1937,7 @@
    "section": "Sport",
    "published_at": "2026-11-04T12:57:30+00:00",
    "title": "World Series champion Teixeira wins US House seat as former NFL reporter Tafoya’s Senate bid fails",
-   "summary": "Former MLB star wins for Republicans in Texas Turek’s Iowa victory clinches Senate for Democrats Tafoya loses to Peggy Flanagan in Minnesota Former World Series champion turned Republican politician Mark Teixeira will represent ⁠Texas’s 21st Congressional District in Washington after defeating Democrat Kristin Hook in Tuesday’s midterm elections . On Wednesday morning, Teixeira was leading with 54.5% ⁠of the ​votes after 99% of the ballots had be",
+   "summary": "Former MLB star wins for Republicans in Texas Turek’s Iowa victory clinches Senate for Democrats Tafoya loses to Peggy Flanagan in Minnesota Former World Series champion turned Republican politician Mark Teixeira will represent ⁠Texas’s 21st congressional district in Washington after defeating Democrat Kristin Hook in Tuesday’s midterm elections . On Wednesday morning, Teixeira was leading with 54.5% ⁠of the ​votes after 99% of the ballots had be",
    "url": "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections",
    "img": "https://i.guim.co.uk/img/media/5c290c7f681df99a32040b0bb121484c8d019e42/254_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=8903e328291334c331db20a437c6558f"
   },
@@ -1167,7 +1947,7 @@
    "section": "Sport",
    "published_at": "2026-11-04T12:55:19+00:00",
    "title": "Jodie Burrage offered support by WTA after death threats and online abuse",
-   "summary": "British player sent abusive messages after defeat in India WTA says ‘staff in Chennai offering Jodie support’ The WTA has offered additional support to Jodie Burrage after she received death threats and online abuse following a first-round defeat at a tournament in India on Tuesday. Burrage shared a raft of abusive messages sent to her Instagram account after a gruelling 3-6, 6-3, 7-5 defeat by India’s Vaishnavi Adkar at the Chennai Open. The 27-",
+   "summary": "Briton received abusive messages after defeat in India WTA says ‘staff in Chennai offering Jodie support’ The WTA has offered additional support to Jodie Burrage after she received death threats and online abuse following a first-round defeat at a tournament in India on Tuesday. Burrage shared a raft of abusive messages sent to her Instagram account after a gruelling 3-6, 6-3, 7-5 defeat against India’s Vaishnavi Adkar at the Chennai Open. The 27",
    "url": "https://www.theguardian.com/sport/2026/nov/04/jodie-burrage-tennis-offered-support-by-wta-after-death-threats-and-online-abuse",
    "img": "https://i.guim.co.uk/img/media/a4421ee3a5c255ee20480c58150fafa6cb3ebbb9/516_0_3197_2558/master/3197.jpg?width=140&quality=85&auto=format&fit=max&s=f9547f625d2e3b68b45ba2cd82c80da6"
   },
@@ -1199,6 +1979,16 @@
    "title": "US midterms: Democrats win House and Senate from Republicans",
    "summary": "The Democratic Party gained control of the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
    "url": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-5c6fd9a75174eccf",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T12:45:00+00:00",
+   "title": "US midterms: 'Largely true' Iran war led to loss, Trump says",
+   "summary": "The US president still insisted he \"had to do\" the controversial war, after his Vice President Vance also blamed it for the Republican loss. The Democrats now control both the US House and Senate. Follow live.",
+   "url": "https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf",
    "img": ""
   },
   {
@@ -1309,7 +2099,7 @@
    "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
    "summary": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blame US midterms 2026 live – latest updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? In the weeks leading up to Tuesday’s midterm elections, Donald Trump made clear that he would place some blame on his favorite cable channel , Fox News, if his party did poorly. On election ",
    "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
-   "img": "https://i.guim.co.uk/img/media/75c360ad7bdd20b57fc1d244c74d96ea0c7fea77/478_0_2418_1936/master/2418.jpg?width=140&quality=85&auto=format&fit=max&s=680adb2367d006f5937d61cba4536e13"
+   "img": "https://i.guim.co.uk/img/media/de67ae6aae54b626b8a5227703466697b87a5acc/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=683cb6af40a4c28e09dbf5bdfed0ab63"
   },
   {
    "id": "w-e4b56290e0683e9f",
@@ -1320,16 +2110,6 @@
    "summary": "An unlikely mix of political bargains and constitutional confrontation will define the next two years.",
    "url": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
    "img": ""
-  },
-  {
-   "id": "w-bd1aee5121d935c5",
-   "outlet": "BBC News",
-   "section": "Middle East",
-   "published_at": "2026-11-04T12:21:21+00:00",
-   "title": "Iran's chief negotiator says Americans voted 'no to war'",
-   "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
   },
   {
    "id": "w-52bf16126f18703a",
@@ -1462,6 +2242,16 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
   },
   {
+   "id": "w-031b87b09f064539",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-04T11:42:38+00:00",
+   "title": "Stacey Abrams says Democrat wins in Georgia offer opportunity for 'correcting and restoring rights'",
+   "summary": "After a historic election night for Georgia and many southern states, former Georgia gubernatorial candidate Stacey Abrams speaks to Morning Edition about what these wins mean for Democrats.",
+   "url": "https://www.npr.org/2026/11/04/nx-s1-6023305/stacey-abrams-georgia-midterm-results-turnout",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/741x564+0+0/resize/741x564!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F31%2F70e1c1e149fe99a865d95664e082%2Fgettyimages-2296593025.jpg"
+  },
+  {
    "id": "w-dc62a933de1de414",
    "outlet": "Euronews",
    "section": "Europe",
@@ -1499,7 +2289,7 @@
    "title": "‘Frighteningly of the moment’: Steven Sater on his emperor Nero musical and turning JFK’s assassination into a Greek tragedy",
    "summary": "It took the Tony winner 20 years to bring his ‘showman’ tyrant to London. He reflects on its Trumpian parallels, the death of Spring Awakening’s Duncan Sheik and the horrific accident that led him to ancient classics Before Spring Awakening won eight Tony awards in 2007, its dramatist and lyricist Steven Sater had “been struggling financially and professionally for quite a while,” he remembers. “Everyone said at the time: this is where it all sta",
    "url": "https://www.theguardian.com/stage/2026/nov/04/emperor-nero-steven-sater-duncan-sheik-spring-awakening-jfk",
-   "img": "https://i.guim.co.uk/img/media/f0aebec80b48b56d66ae5631b0282fc36f3e5ca9/196_13_2633_2106/master/2633.jpg?width=140&quality=85&auto=format&fit=max&s=6efa25dba95c4f29d7092d5519c4c60e"
+   "img": "https://i.guim.co.uk/img/media/f0aebec80b48b56d66ae5631b0282fc36f3e5ca9/961_736_1062_850/master/1062.jpg?width=140&quality=85&auto=format&fit=max&s=55b672c7119171e486ecbae70ba978c0"
   },
   {
    "id": "w-15a5a7e336b5417d",
@@ -1602,14 +2392,14 @@
    "img": ""
   },
   {
-   "id": "w-6b3ae8ffe49db499",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T11:05:34+00:00",
-   "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-   "summary": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Donald Trump has been dealt a devastating blow to his authority with a succession of crushing defeats in the midterm elections, in which his Republican party was stripped of control of the Senate",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
-   "img": "https://i.guim.co.uk/img/media/ff53595f7c0d654c2917588b3e1f8a5748be4758/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8f7db534c9fa6b4c2e70e10fa6fe554d"
+   "id": "w-a5eb1dc1946431ba",
+   "outlet": "BBC News",
+   "section": "Culture",
+   "published_at": "2026-11-04T11:05:26+00:00",
+   "title": "Comedian Karen Dunbar cancels tour dates claiming promoter has not paid her",
+   "summary": "Dunbar claimed she had only been paid for five of her previous 39 tour dates, a claim disputed by promoter Breakneck Comedy.",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yn338mlyvo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4446/live/87211eb0-d83f-11f1-9a87-07a62b4549a2.jpg"
   },
   {
    "id": "w-08bc62272064cfc6",
@@ -1709,6 +2499,16 @@
    "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
    "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize.",
    "url": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-acaf0bbdfc76f18f",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-04T10:53:00+00:00",
+   "title": "Wawira Njiru, Kenya's school feeder and German Africa Prize recipient",
+   "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize.",
+   "url": "https://www.dw.com/en/wawira-njiru-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf",
    "img": ""
   },
   {
@@ -2187,7 +2987,7 @@
    "section": "Sport",
    "published_at": "2026-11-04T08:00:29+00:00",
    "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-   "summary": "John Aloisi’s side need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch their first title. With one game to go, they still need a point. What was a formality has become a formidable task. The biggest bottle job in Asian football history is very much on and it would be as popular as it would be dramatic. T",
+   "summary": "John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch their first title. With one game to go, they still need a point. What was a formality has become a formidable task. The biggest bottle job in Asian football history is very much on and it would be as popular as it would be dramatic",
    "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
    "img": "https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=fc39238a6707ac80db70b377668785f0"
   },
@@ -2210,806 +3010,6 @@
    "summary": "Canada will not ​let ice hockey players from Russia or Belarus take part ‌in the World Junior Championships next month.",
    "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/c6dxw090qvnzo",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/dc268b70-d821-11f1-a9b6-0f4245e849b7.jpg"
-  },
-  {
-   "id": "w-a8d4833301a32ce3",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:48:54+00:00",
-   "title": "‘We will take back the House in 2028’: US House Speaker Johnson promises Republican comeback",
-   "summary": "US House Speaker Mike Johnson has urged Republicans not to lose hope after Democrats made major gains in the 2026 midterm elections. Johnson vowed that Republicans would double down on their agenda and seek to retake the House in 2028.",
-   "url": "https://www.euronews.com/video/2026/11/04/we-will-take-back-the-house-in-2028-us-house-speaker-johnson-promises-republican-comeback",
-   "img": ""
-  },
-  {
-   "id": "w-a3299f33a927a30e",
-   "outlet": "BBC News",
-   "section": "Science",
-   "published_at": "2026-11-04T07:39:38+00:00",
-   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-   "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-   "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg"
-  },
-  {
-   "id": "w-f3d7548ce45187b8",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:37:25+00:00",
-   "title": "Abdul El-Sayed makes history as first Muslim elected to US Senate",
-   "summary": "Democrat Abdul El-Sayed has won Michigan's Senate race against Republican Mike Rogers, becoming the first Muslim elected to the US Senate. The 42-year-old physician, who represents the progressive wing of the Democratic Party, secured a seat that Republicans had hoped to flip.",
-   "url": "https://www.euronews.com/video/2026/11/04/abdul-el-sayed-makes-history-as-first-muslim-elected-to-us-senate",
-   "img": ""
-  },
-  {
-   "id": "w-971279aba4e38fbd",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:32:31+00:00",
-   "title": "50 million Europeans can’t heat their homes. What is the EU doing to help?",
-   "summary": "Europe enters winter with its gas tanks emptier than at any point since 2011, and EU ministers have offered few binding answers on how to shield households from another energy shock. Watch the video!",
-   "url": "https://www.euronews.com/2026/11/04/50-million-europeans-cant-heat-their-homes-what-is-the-eu-doing-to-help",
-   "img": ""
-  },
-  {
-   "id": "w-3ef2f349ef5787b9",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T07:32:02+00:00",
-   "title": "South Carolina elects Democratic senator for first time in almost three decades",
-   "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "id": "w-981d2a757c8d42c4",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T07:29:51+00:00",
-   "title": "Republican Susan Collins loses Maine seat to Democrat, ending nearly 30 years in the Senate",
-   "summary": "Maine's Senate race was mired in controversy after Democratic nominee Graham Planter withdrew following multiple scandals.",
-   "url": "https://www.bbc.co.uk/news/articles/cred3jj69jvqo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282b/live/912c33e0-d7bd-11f1-8a3d-5320e3fab176.jpg"
-  },
-  {
-   "id": "w-a94a7e02014fa731",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:25:10+00:00",
-   "title": "‘Democrats did a good job’: Trump congratulates Democrats on midterm wins",
-   "summary": "US President Donald Trump has acknowledged that rising petrol prices linked to the war in Iran contributed to his Republican Party's defeat in the midterm elections. He said voters supported his actions against Iran but were reluctant to pay more at the pump. Trump also praised Democrats.",
-   "url": "https://www.euronews.com/video/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
-   "img": ""
-  },
-  {
-   "id": "w-9035bb625b9d0a0d",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:25:07+00:00",
-   "title": "Brussels to host talks on Ukraine's reconstruction with key allies",
-   "summary": "Good morning. I’m Mared Gwyn, holding the newsletter pen this Wednesday morning. Today: Brussels becomes the stage for intensified diplomacy on Ukraine, and I break down the key takeaways from Euronews’ Enlargement Summit.",
-   "url": "https://www.euronews.com/2026/11/04/brussels-to-host-talks-on-ukraines-reconstruction-with-key-allies",
-   "img": ""
-  },
-  {
-   "id": "w-7851958836457501",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T07:23:10+00:00",
-   "title": "Watch: Key moments from the US midterm election results",
-   "summary": "Democrats have won control of the Senate and House of Representatives, taking control of Congress for the rest of Donald Trump's presidency.",
-   "url": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3769/live/dacc0150-d81d-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-1d220d788003b7ca",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:21:16+00:00",
-   "title": "Israel's election commission says no fraud found in last week's vote",
-   "summary": "Prime Minister Benjamin Netanyahu and his supporters have repeatedly made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly with foreign assistance.",
-   "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote",
-   "img": ""
-  },
-  {
-   "id": "w-41afffc9e9cc2e56",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T07:12:21+00:00",
-   "title": "Florida Republicans fend off Democrats as state elects first black governor",
-   "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-   "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg"
-  },
-  {
-   "id": "w-3d64be0d73ce6c37",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:06:41+00:00",
-   "title": "US midterms: What Trump's defeat means for Europe and global markets",
-   "summary": "Democrats have won both chambers of the US Congress. For Europe, the big questions are tariffs and Ukraine, where Trump still holds much of his power.",
-   "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets",
-   "img": ""
-  },
-  {
-   "id": "w-4884cc1b95ccc4b2",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-04T07:02:10+00:00",
-   "title": "Europe Today: Democrats win Senate in rebuke of Trump as Poland’s constitutional crisis drags on",
-   "summary": "A blue wave has swept the US in the midterm elections, with Democrats winning the Senate and heading for a big House majority as votes are still being counted on the West Coast. We bring live analysis from Philadelphia and Brussels, plus Poland’s crisis, Ukraine talks and the EU enlargement race.",
-   "url": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
-   "img": ""
-  },
-  {
-   "id": "w-738b69eb52f60f1e",
-   "outlet": "The Guardian",
-   "section": "Africa",
-   "published_at": "2026-11-04T07:00:28+00:00",
-   "title": "Women behind the lens: ‘I learned early what I was meant to become: a wife, a cook, a keeper of the home’",
-   "summary": "The South African artist Remofiloe Nomandla Mayisela questions the role she was expected to fulfil in her playful self-portraits MilkMaid is part of my photographic series Lipservice, which stars Mrs Martha May, a contemporary makoti (a colloquial South African term for a wife). Mrs May is always dolled up, poised, ready to serve. Here she stands before a wall of long-life milk, face painted in the patches of a dairy cow, a crate balanced on her ",
-   "url": "https://www.theguardian.com/global-development/2026/nov/04/women-behind-the-lens-i-learned-early-what-i-was-meant-to-become-a-wife-a-cook-a-keeper-of-the-home",
-   "img": "https://i.guim.co.uk/img/media/37be326f3748e9a5e5dd4d09d43fe2d94041b96b/730_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=6d7da21a698b46c268363b330220de29"
-  },
-  {
-   "id": "w-d865967783399b75",
-   "outlet": "The Guardian",
-   "section": "Culture",
-   "published_at": "2026-11-04T07:00:27+00:00",
-   "title": "Roll with it! This year’s best portrait photography – in pictures",
-   "summary": "Dashing cowboys, a transgender storm chaser and a fetching mullet are among the subjects of these acclaimed photographs for the Winston Taylor Photo Portrait Prize 2026 Continue reading...",
-   "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/04/winston-taylor-photo-portrait-prize-winners-in-pictures",
-   "img": "https://i.guim.co.uk/img/media/c8fb65722b5c8db5fc4451fe58f77f9a98c1e57c/0_19_4475_3581/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=37deaede8be735162799c1538b718a6c"
-  },
-  {
-   "id": "w-306d1901bb741a1f",
-   "outlet": "The Guardian",
-   "section": "Culture",
-   "published_at": "2026-11-04T07:00:27+00:00",
-   "title": "A Life in Fragments by Marina Litvinenko review – surviving Putin",
-   "summary": "Twenty years on from her husband’s murder, an extraordinary woman reflects on love and resilience Among the many images of violence that might be used to define Putin’s chilly reign, one stands out. The photo of the Russian dissident Alexander Litvinenko – gaze defiant, lying in intensive care – taken in November 2006. Litvinenko had met with visitors from Moscow: they poisoned his tea with radioactive polonium. A public inquiry concluded that Pu",
-   "url": "https://www.theguardian.com/books/2026/nov/04/a-life-in-fragments-by-marina-litvinenko-review-intimate-testimony-of-putins-poisonous-regime",
-   "img": "https://i.guim.co.uk/img/media/535ed565c0ed95ced093fc389da67c8130c79e55/1148_706_1641_1313/master/1641.jpg?width=140&quality=85&auto=format&fit=max&s=b502031f36ee381b397f6605a092f19d"
-  },
-  {
-   "id": "w-e91237d527b6310c",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T06:53:56+00:00",
-   "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-   "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-f5d8bd0bb9535856",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T06:48:14+00:00",
-   "title": "James Talarico wins Senate race in Texas, securing historic victory – video",
-   "summary": "Democrat James Talarico has won the US Senate race in Texas, securing an astonishing and historic victory. Talarico, a state representative, beat the scandal-plagued attorney general Ken Paxton in the most expensive race of this midterms cycle. He is also the first Democrat to win a US Senate seat in the Lone Star state since 1988 Continue reading...",
-   "url": "https://www.theguardian.com/global/video/2026/nov/04/james-talarico-wins-senate-race-in-texas-securing-historic-victory-video",
-   "img": "https://i.guim.co.uk/img/media/b7af18f76d633b0f1848d52053ca9d0b1fbf9ee2/486_0_4575_3660/master/4575.jpg?width=140&quality=85&auto=format&fit=max&s=366317b00794e2bb6e91707b28ddd6e6"
-  },
-  {
-   "id": "w-045220c5b8973d57",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-04T06:34:00+00:00",
-   "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
-   "summary": "Though vote counts are still ongoing, Democrats have won clear majorities in both the US House and Senate. DW takes a look at who voted Republican, who voted Democrat, and what it all means.",
-   "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-0dcd3b5186405378",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T06:30:26+00:00",
-   "title": "‘Democrats need to not blow it’: our panel reacts to the historic midterms | Panel",
-   "summary": "Democrats should take the right lessons from their great night – but will they? Trump has been a disaster for our country. His economic plans are incoherent, the Iran war is making inflation worse, and his complicity with Israel’s crimes in Gaza and other acts of lawlessness, from the extrajudicial killings in the Caribbean to the kidnapping of Maduro, have been combined with a continuing coarsening of American culture. Bhaskar Sunkara is the pre",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/democrats-midterms-reactions-lessons",
-   "img": "https://i.guim.co.uk/img/media/9e8cb473138c250b722e35f98ddf1e77ae1cdd3c/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=86becbfaeae983ab955bbaa4959c0360"
-  },
-  {
-   "id": "w-7692ed35739d8f9a",
-   "outlet": "BBC News",
-   "section": "Science",
-   "published_at": "2026-11-04T06:15:01+00:00",
-   "title": "Tiktoker 'super excited' to co-host BBC nature show",
-   "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
-   "url": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e0/live/7b5d81c0-ce05-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
-   "id": "w-360364430d8e973a",
-   "outlet": "BBC News",
-   "section": "Business",
-   "published_at": "2026-11-04T06:13:19+00:00",
-   "title": "Swim and gym prices set to rise above inflation",
-   "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
-   "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961c/live/00356720-d827-11f1-be97-417dbcdedd32.jpg"
-  },
-  {
-   "id": "w-d43f2c749fb89f57",
-   "outlet": "BBC News",
-   "section": "Science",
-   "published_at": "2026-11-04T06:11:43+00:00",
-   "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-   "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-   "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png"
-  },
-  {
-   "id": "w-e371456970287cff",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-04T06:00:27+00:00",
-   "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
-   "summary": "Exiled journalists at the Barents Observer face growing intimidation as Moscow seeks to control media beyond its borders The official newspaper of the Russian government is an unlikely source of recognition for a European news outlet critical of Vladimir Putin and providing sanctuary to exiled Russian journalists. But in May, two days after Russia tested its new intercontinental ballistic missile system nicknamed “Satan II” by Nato, an article in",
-   "url": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
-   "img": "https://i.guim.co.uk/img/media/2909684178be2eb21122270d50a836a0db9b3426/357_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=0c947a7823427b039d5c87f314d5dc41"
-  },
-  {
-   "id": "w-b0a72a7c1ff712f3",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-04T06:00:27+00:00",
-   "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
-   "summary": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravity Roughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer drug are being grown in the weightlessness of space. The others are testing heat protection materials and navigation systems for when the capsules plunge back through Earth’s atmosphere at hy",
-   "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
-   "img": "https://i.guim.co.uk/img/media/2a865b49da16365d675cc0d538a0b3ce29ad7b76/53_0_1594_1275/master/1594.jpg?width=140&quality=85&auto=format&fit=max&s=ab3d7527a048044825931acb600d4ef9"
-  },
-  {
-   "id": "w-3710b0d6d154510c",
-   "outlet": "The Guardian",
-   "section": "Climate",
-   "published_at": "2026-11-04T06:00:27+00:00",
-   "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
-   "summary": "Exclusive: Ofgem to be given powers to issue fines and rein in bonuses for executives who ‘reward themselves while customers suffer’ Energy bosses in the UK will have their bonuses curtailed when suppliers and brokers break the rules under a crackdown on mis-selling. Through the energy independence bill, which will be introduced on Wednesday, Ofgem will be given new powers to order compensation, impose fines and ban rogue operators that have push",
-   "url": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
-   "img": "https://i.guim.co.uk/img/media/9451a1eefd64acd91ff5845fba31fe228f82a642/173_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=778782461240c077cd48281331544b59"
-  },
-  {
-   "id": "w-732f7d3d18335d59",
-   "outlet": "The Guardian",
-   "section": "Climate",
-   "published_at": "2026-11-04T06:00:27+00:00",
-   "title": "How penguin poo is making Antarctic snow melt faster",
-   "summary": "Researchers find the birds’ guano feeds algal blooms that absorb significantly more solar energy Penguin poo is making the Antarctic snow melt faster, a study shows. As temperatures rise, penguins are waddling closer to the south pole, with potential for this previously unrecognised phenomenon to affect a wider area. Snow algae are tiny single-celled plants that make a home in some of the coldest places on Earth. When nutrients are scarce, the al",
-   "url": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
-   "img": "https://i.guim.co.uk/img/media/72a81acb2bacafc0d5ce6d56f7cc099ef9b46319/328_0_5264_4210/master/5264.jpg?width=140&quality=85&auto=format&fit=max&s=4d764eb41cc96b1bd8822e95a46ae379"
-  },
-  {
-   "id": "w-b409e2558e604c1a",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T06:00:26+00:00",
-   "title": "Red and blue America have united in their hatred for Donald Trump | Ben Davis",
-   "summary": "This election represents a wholesale rejection of Trump and the Republican party, by every single segment of American society In a few years, there’s a good chance we look at Tuesday night as the death knell of Trumpism and the Maga movement. He has indelibly changed the face of American politics, and the basic structure of American institutions. And people are sick of it. Fundamentally, nearly everyone’s lives are worse than they were a decade a",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-republicans-democrats-unpopular",
-   "img": "https://i.guim.co.uk/img/media/067258ace158545540961dc58329b3c90432c420/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7820e01da9141204610a649122fd418b"
-  },
-  {
-   "id": "w-050466970501e3e0",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-04T06:00:26+00:00",
-   "title": "The next global pandemic could be brewing on a mink farm in Utah – and little is being done to stop it | George Monbiot",
-   "summary": "Mink farms are the perfect petri dishes for deadly flu strains to emerge. Yet officials appear to be protecting business interests over human lives Could this be ground zero? Could it be the spot where the next pandemic begins? It’s certainly a candidate, not least because the chain of events that could trigger a plague far worse than Covid-19 looks like the opening sequence of a disaster movie. A really bad disaster movie, in which the levels of",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/global-pandemic-mink-farm-utah-farming-livestock",
-   "img": "https://i.guim.co.uk/img/media/3c03e84ee3043adc322610f9317751ebb30279db/181_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=1b92523f0afcb991a3b879e4ef99a6ce"
-  },
-  {
-   "id": "w-f5794a84539213a0",
-   "outlet": "The Guardian",
-   "section": "Culture",
-   "published_at": "2026-11-04T06:00:26+00:00",
-   "title": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier",
-   "summary": "Not only did Craig insist his 007 die at the end of his run, but now we learn from Dench’s memoir that it was his idea to kill her off too. How will the next Bond top that? Shoot a puppy? Now that the next James Bond actor is on the brink of being unveiled , it may be a good time to take a proper look at the prior 007 with clear eyes. Because, while the reputations of all the previous Bonds have ossified over the years – in chronological order: s",
-   "url": "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes",
-   "img": "https://i.guim.co.uk/img/media/98f1a6227c302cb02d8635c90a00cfd7d5cda2b2/314_39_1754_1404/master/1754.jpg?width=140&quality=85&auto=format&fit=max&s=30a89398b1e6d11f86eab56c87f54545"
-  },
-  {
-   "id": "w-6b7f91f251beeb63",
-   "outlet": "The Guardian",
-   "section": "Africa",
-   "published_at": "2026-11-04T06:00:25+00:00",
-   "title": "Can an African feminist have a white wedding? It’s complicated | Patience Akumu",
-   "summary": "I wanted to be a beacon of black feminist love; my friends and family teased me for being a sellout We had been together 20 years, had two children and had a customary marriage with our village sub-county two years ago without any real plans for a church wedding. So we called our second ceremony a celebration of love and not a wedding. How else would a self-professed African feminist survive being the centre of a colonial and Abrahamic religious ",
-   "url": "https://www.theguardian.com/global-development/2026/nov/04/african-feminist-white-wedding-christian",
-   "img": "https://i.guim.co.uk/img/media/5b22285b48ebdda36cc17951eaf3fe4e5ecdccce/530_125_4844_3875/master/4844.jpg?width=140&quality=85&auto=format&fit=max&s=aad075a469c15911c7e42ac36f5d786c"
-  },
-  {
-   "id": "w-e3e9114326d0b209",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-04T05:58:00+00:00",
-   "title": "India news: Election body opens door for voter reinclusion",
-   "summary": "The Indian poll body said no action will be taken against deleted voters for using Form 6 for re-enrolment in voter rolls. Follow DW for more.",
-   "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-07edaa61c4752bb0",
-   "outlet": "BBC News",
-   "section": "Science",
-   "published_at": "2026-11-04T05:57:48+00:00",
-   "title": "Trust vows to 'maintain spirit' of nature reserve",
-   "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
-   "url": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg"
-  },
-  {
-   "id": "w-10fc158844fa8f9f",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-04T05:31:55+00:00",
-   "title": "The death knell of Trumpism has finally sounded | Moira Donegan",
-   "summary": "The electorate voted decisively to curb the president’s power There’s a certain freedom in low expectations. Going in to Tuesday’s midterm elections, forecasts were so grim for the Republicans that poll watchers started trading a kind of knowing joke: that the results would either mean the end of the Trump era, or the end of the polling profession. Amid those sorts of predictions, any Republican victories would have seemed like a minor miracle. T",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/midterms-trump-era-lame-duck",
-   "img": "https://i.guim.co.uk/img/media/50c1b5626ccecf1937be8a58f32d9e5cdb7cc7b7/168_0_1340_1072/master/1340.jpg?width=140&quality=85&auto=format&fit=max&s=a938e785b2e2994d1f2567b40caa45f4"
-  },
-  {
-   "id": "w-56f159e674197b0b",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-04T05:19:00+00:00",
-   "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
-   "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But does disgust shape our politics, or do our beliefs shape what we find disgusting?",
-   "url": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-184f7ce999a95aac",
-   "outlet": "The Guardian",
-   "section": "Culture",
-   "published_at": "2026-11-04T05:00:26+00:00",
-   "title": "Stick review – you really need Owen Wilson’s beautiful golf comedy in your life",
-   "summary": "TV’s biggest dopamine hit is back, and it is thoroughly spoiling us with amazing new guest stars. What’s more, our hero is coming out of retirement to try to win the US Open! It’s tee time Pryce Cahill (Owen Wilson) isn’t worried about his midlife crisis. “Moses had a crisis! Churchill had a crisis! Charlie Sheen had a crisis!” We’re not worrying, either: Pryce has been living fairly happily through a midlife crisis for as long as we’ve known him",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/04/stick-review-owen-wilson-golf-rhea-seehorn-season-two",
-   "img": "https://i.guim.co.uk/img/media/5da9f6181a70715e657db49fb67ee560fe7c0c35/776_0_3676_2941/master/3676.jpg?width=140&quality=85&auto=format&fit=max&s=f4e78a26a6271e5c0c9bb2db9eafc175"
-  },
-  {
-   "id": "w-ed5d10bf28490ab4",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-04T05:00:25+00:00",
-   "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-   "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukrainian. Ukrainian children who were forced to seek refuge in the UK after Vladimir Putin’s invasion in 2022 say it was “insulting” that their teachers suggested they study Ru",
-   "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
-   "img": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=74b474865059c12e3680ed91f940a352"
-  },
-  {
-   "id": "w-45470b5221194b37",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-04T05:00:24+00:00",
-   "title": "In Kyiv, hackers sent fake alerts about a nuclear apocalypse. We hardly noticed | Diana Berg",
-   "summary": "As Europe erupts in furious protests, we prep for a cold, dark winter. Rage and fear require energy we simply don’t have Explosions woke me at 3am the other night. Sitting on the bathroom floor behind two load-bearing walls, scrolling through Telegram to see where Russian missiles were heading, I noticed the light was on. Power had returned while we slept. On pure autopilot, I stood up, stuffed laundry into the washing machine, set a quick cycle ",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/in-kyiv-hackers-sent-fake-alerts-about-a-nuclear-apocalypse-we-hardly-noticed",
-   "img": "https://i.guim.co.uk/img/media/6792a222f9e2e02716051307dd133c548b732f90/535_0_2879_2306/master/2879.jpg?width=140&quality=85&auto=format&fit=max&s=c8c0ea3d1691d5a4e86e21a09b83a629"
-  },
-  {
-   "id": "w-658b50d7b88d34ab",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T04:53:35+00:00",
-   "title": "What the Democratic takeover of the Senate means for Trump",
-   "summary": "The BBC's North America editor Sarah Smith explains how Democratic control of both chambers could affect the last two years of Donald Trump's presidency.",
-   "url": "https://www.bbc.co.uk/news/videos/cr5ynex46j75o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb51/live/28689b20-d80b-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "id": "w-206e3a8608a1af6d",
-   "outlet": "BBC News",
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-04T03:46:10+00:00",
-   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-   "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-   "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg"
-  },
-  {
-   "id": "w-817d13ab45bb894f",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T03:40:15+00:00",
-   "title": "Sarah Smith on Democrats flipping the House of Representatives",
-   "summary": "The BBC's North America editor Sarah Smith delivers the news: Democrats are projected to flip the House of Representatives from a Republican majority to a Democratic one.",
-   "url": "https://www.bbc.co.uk/news/videos/cwly37l351neo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090e/live/dca7cc60-d800-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-dbe4d99a64fb5879",
-   "outlet": "The Guardian",
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-04T03:00:22+00:00",
-   "title": "Kim Jong-un, crypto bros and a $6.3bn heist – podcast",
-   "summary": "North Korea is said to be behind the theft from the crypto exchange Binance. How did they pull it off and what will they do with the money? Kalyeena Makortoff and Jean H Lee report It was 8pm last Thursday when the panic alarms went off across the crypto world. Binance, the world’s biggest crypto exchange, had been hacked. The cryptocurrency revolution promised to take power from the fusty old central banks and put it in the hands of the people. ",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/04/kim-jong-un-crypto-bros-and-a-63bn-heist-podcast",
-   "img": "https://i.guim.co.uk/img/media/afad22825f94f5127479d270420de0f86b31f54c/778_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=b40cc36566d86af8b7602e43281694ec"
-  },
-  {
-   "id": "w-3d3df0497f285ac4",
-   "outlet": "The Guardian",
-   "section": "Climate",
-   "published_at": "2026-11-04T03:00:22+00:00",
-   "title": "Kashmir’s potato pits are vanishing – and generations of knowledge could be buried for ever",
-   "summary": "Farmers in Gurez store their harvests underground to last the Himalayan winter. As the practice fades, local varieties and handed-down skills are disappearing too Hajra Begum rolls a potato in her hands, checking its skin for cuts, soft spots and signs of rot. After a day harvesting in her family’s field in Chorwan, a remote mountain village in Gurez, Indian-administered Kashmir, she is sorting the crop for winter storage. Some of the potatoes wi",
-   "url": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
-   "img": "https://i.guim.co.uk/img/media/950de4a2edd99a8d0b8da8f912ddbc10c278823a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b7d2024a925d3b916b81e8b3b3dfb427"
-  },
-  {
-   "id": "w-b03cb30753bcc44a",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-04T02:37:21+00:00",
-   "title": "AFL to consider rule changes to add ‘exciting’ Irish flair to women’s competition",
-   "summary": "Irishwoman Kearns lauded for pulling off illegal double Gaelic ‘solo’ AFLW boss says league to look at changing rules after 2026 finals The AFL will look at rule changes in its women’s competition to make it easier for Irish players to add their own flair, in a nod to the almost 50 former Gaelic footballers in the AFLW. One of the main differences between the sister sports, apart from the shape of the ball and field, is the bounce explicitly requ",
-   "url": "https://www.theguardian.com/sport/2026/nov/04/aflw-considers-rule-change-irish-flair-gaelic-football-solo",
-   "img": "https://i.guim.co.uk/img/media/17b4cea20080c059d007c9c3e7c2879c812bfdcb/369_0_3686_2949/master/3686.jpg?width=140&quality=85&auto=format&fit=max&s=a72e12616fd7a638249f28baf83b2c80"
-  },
-  {
-   "id": "w-0efae22d612e9513",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T02:03:34+00:00",
-   "title": "'I am ready to fight' - Senator-elect Chris Pappas celebrates New Hampshire win",
-   "summary": "The Democratic candidate has won the state's open seat, making history as the first openly-gay man elected to the Senate.",
-   "url": "https://www.bbc.co.uk/news/videos/c6y4xz3ypenko",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a81/live/fa653430-d7f2-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-04f335e35da90b5f",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-04T01:31:46+00:00",
-   "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-   "summary": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Carney saying Russian skaters will not be able to compete in ⁠a world junior championship next month due to the war in Ukraine. “While Russia and Belarus are supporting this illegal, unjustifie",
-   "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-   "img": "https://i.guim.co.uk/img/media/f0bbcfe146440a78d027f9f2fbcb5c78f9284465/493_0_4911_3931/master/4911.jpg?width=140&quality=85&auto=format&fit=max&s=e53d6466eac9b04a0121cc2a905364e3"
-  },
-  {
-   "id": "w-e26955f805eb3b0c",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-04T00:52:19+00:00",
-   "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
-   "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
-   "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg"
-  },
-  {
-   "id": "w-bdfaa2ea80f86bad",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-04T00:29:51+00:00",
-   "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
-   "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand A photograph showing thousands of satellites cross-hatching the night sky over New Zealand appeared so extraordinary the astrophotographer who captured it is fighting accusations it was created by AI. To create his spectacular image – now viewed millions of times online – Brendan Larsen spent two hours in September snapping hundreds of photographs ",
-   "url": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
-   "img": "https://i.guim.co.uk/img/media/bd715275e48ac6b5ba2cb5e4a4434d908b8ac664/0_691_2667_2133/master/2667.jpg?width=140&quality=85&auto=format&fit=max&s=ee91421d100c42456da505d7bef4a76f"
-  },
-  {
-   "id": "w-9050ebd292e2dee6",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-04T00:26:48+00:00",
-   "title": "'A brighter future' - why Americans came out to vote",
-   "summary": "Voters in Iowa, Georgia and Ohio spoke to BBC reporters as millions of Americans decide who will control Congress.",
-   "url": "https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c8/live/21e167b0-d7ec-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "id": "w-922101d165c1f9ca",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-04T00:21:00+00:00",
-   "title": "US to cut nearly $4 billion in Israel military aid, Trump says",
-   "summary": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
-   "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-0f0ab228cafb4d56",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-04T00:14:49+00:00",
-   "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-   "summary": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast Canva is cutting or relocating more than 1,200 jobs, representing 22% of its global workforce, as part of a major restructure that includes laying off staff who helped build the Australian-founded design platform. The changes mirror a trend across the t",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-   "img": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a3cd1b1ec9b2997cc425b36c0410e91c"
-  },
-  {
-   "id": "w-674036464ba455a9",
-   "outlet": "BBC News",
-   "section": "Business",
-   "published_at": "2026-11-04T00:09:35+00:00",
-   "title": "Canva announces major job cuts after 'our hardest year yet'",
-   "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-   "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d51/live/dae95de0-d7dc-11f1-ac18-75727aac8238.jpg"
-  },
-  {
-   "id": "w-da121aad814565d0",
-   "outlet": "BBC News",
-   "section": "Technology",
-   "published_at": "2026-11-04T00:04:35+00:00",
-   "title": "Graduates are managing AI - but are they learning much else?",
-   "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-   "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-a87e4e7700d375f3",
-   "outlet": "BBC News",
-   "section": "Health",
-   "published_at": "2026-11-04T00:04:28+00:00",
-   "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
-   "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e3/live/4ea6f3a0-d855-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "id": "w-3b6ab8d64292daa1",
-   "outlet": "BBC News",
-   "section": "World",
-   "published_at": "2026-11-03T23:58:36+00:00",
-   "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-   "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
-   "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "id": "w-a8fcd3d2edf70fcc",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-03T23:37:12+00:00",
-   "title": "Football world mourns Tenerife striker De Miguel",
-   "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-968580948772fb68",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-03T22:45:59+00:00",
-   "title": "Spanish transport minister resigns days after deadly train crash",
-   "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-   "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eee/live/c7353ed0-d81e-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-8fb47c722971ec48",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-03T22:18:45+00:00",
-   "title": "US tech stocks recover after selloff spooks investors over AI spending",
-   "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wall Street, though investors are predicting Democrats get at least a majority in the House and potentially gain seats in the Senate, which could lead to more AI regulation",
-   "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-   "img": "https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=140&quality=85&auto=format&fit=max&s=8238b94676086c03a6d2f7f30f55d524"
-  },
-  {
-   "id": "w-025b7628545b9a87",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-03T22:08:50+00:00",
-   "title": "One dead and another missing in suspected grizzly bear attack in Canada",
-   "summary": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear attacked a group of schoolchildren earlier in the year. On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people o",
-   "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-   "img": "https://i.guim.co.uk/img/media/fceb81be290fbe0b0ac46e0b4dfc0b39aab55c9c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e2bf59e40e4db2e6726b9bd30d40aa7b"
-  },
-  {
-   "id": "w-96fe654d833fe36f",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-03T21:35:42+00:00",
-   "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
-   "summary": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems. The Nobel prize-winning computer scientist told the Guardian he is ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-   "img": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb"
-  },
-  {
-   "id": "w-c95f757c7f745b31",
-   "outlet": "BBC News",
-   "section": "Health",
-   "published_at": "2026-11-03T21:01:00+00:00",
-   "title": "Rural health board shake-up opposed as locals fight cuts to hospital beds",
-   "summary": "The plans would see inpatient beds reduced from 146 to either 90 or 60 in the county.",
-   "url": "https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/4d8ac6c0-d7bc-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-5bb6ba782f19325a",
-   "outlet": "BBC News",
-   "section": "Business",
-   "published_at": "2026-11-03T20:53:03+00:00",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-f39873dd6096280f",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-03T20:42:47+00:00",
-   "title": "Seven flights across Europe targeted by suspected bomb threats",
-   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
-  },
-  {
-   "id": "w-6f234fc6cbe62b15",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-03T20:38:38+00:00",
-   "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-   "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-   "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/42789f10-d7c0-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "id": "w-e9f81d7b8157d059",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-03T20:30:06+00:00",
-   "title": "Google says there’s no way to use Search without using artificial intelligence",
-   "summary": "In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence . The search giant announced a slate of new AI products for classrooms and schools on Tuesday as well as more ways for teachers and schools to limit or restrict use of those AI tools. The company said the schools should have control over whether",
-   "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
-   "img": "https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=140&quality=85&auto=format&fit=max&s=8b6eea525ab2db3209822065ee1072ad"
-  },
-  {
-   "id": "w-e52398fe57f2a9f5",
-   "outlet": "BBC News",
-   "section": "Technology",
-   "published_at": "2026-11-03T20:30:00+00:00",
-   "title": "Tech Life",
-   "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt",
-   "img": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl43cw.jpg"
-  },
-  {
-   "id": "w-c1a490cced86cba7",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-03T20:00:13+00:00",
-   "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-   "summary": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels The UK-EU food produce deal: what was agreed and will it affect shoppers? Andy Burnham is preparing to announce billions of pounds of trade deals with the EU covering everything from youth visas to pet passports under his vision of a much closer relationship with the bloc. With the prime minister scheduled to meet his Euro",
-   "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
-   "img": "https://i.guim.co.uk/img/media/a3bcb1206777f0bbd79cf66d8fe6a3f511a15650/422_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6672ef460ec8e45417c648bf11f56030"
-  },
-  {
-   "id": "w-ce7d4040c787d132",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-03T19:50:27+00:00",
-   "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
-   "summary": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process Nasa ’s Neil Gehrels Swift Observatory, which has spent two decades studying the most powerful explosions in the cosmos, is expected to re-enter the Earth’s atmosphere on Wednesday, burning up in the process. The satellite, which was designed to operate with its three telescopes for just two years, is no longer able to steer or observe, ",
-   "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
-   "img": "https://i.guim.co.uk/img/media/f7af9fa68f7b48223754958631aa09ddb12cd4d5/314_0_2159_1728/master/2159.jpg?width=140&quality=85&auto=format&fit=max&s=a4862cde828a606af011733dd3a253f8"
-  },
-  {
-   "id": "w-806151ae8fa8d39b",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-03T19:12:31+00:00",
-   "title": "Why are fridges being hacked and what could be next? - The Latest",
-   "summary": "Supermarket fridges and freezers in several European countries have malfunctioned after a reported cyber-attack, with their thermostats remotely cranked up. It is unclear who is behind the latest apparent attack but the EU has condemned what it said was ‘a deliberate attempt to disrupt our food supply’. It comes as the UK’s cybersecurity body warns AI-powered malicious software is ‘highly likely’ to be used in hacking attacks against the UK’s pow",
-   "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
-   "img": "https://i.guim.co.uk/img/media/4fa58ad998dd2a9ac5b65218b63f738f79b99865/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=05aa387ccfa9da39d990a2001f4e066f"
-  },
-  {
-   "id": "w-661f7cba25c7352c",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-03T19:00:23+00:00",
-   "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-   "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world’s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to a recruitment scam in September and then a raid la",
-   "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-   "img": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=487438a07d6c27b83b2345b8ed2b3fd0"
-  },
-  {
-   "id": "w-2a9dbf7795b74666",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-03T18:52:07+00:00",
-   "title": "Ryanair passenger says bomb threat was 'traumatic'",
-   "summary": "Sarah Jones says passengers had to wait in a hangar for three hours after landing at Murcia in Spain.",
-   "url": "https://www.bbc.co.uk/news/articles/cj75pg04y231o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f6/live/8e901f80-d7ad-11f1-9092-abeae3cab3b1.jpg"
-  },
-  {
-   "id": "w-37896c48c8df6ed4",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-03T18:07:14+00:00",
-   "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
-   "summary": "It will take decades to rebuild trust in a country that removed a tyrant once – and then reinstated him four years later When Joe Biden entered the White House in 2021 it was possible to believe that Donald Trump’s reign had been an aberration. “America is back. The transatlantic alliance is back,” the new president declared to relieved European leaders shortly after winning the 2020 race. It was true, but not for long. Trump’s defeat proved that",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
-   "img": "https://i.guim.co.uk/img/media/4137f0a1bc75a5496bce34f7c027d9e79a4712d3/217_0_3913_3131/master/3913.jpg?width=140&quality=85&auto=format&fit=max&s=994bf51ecdde44d82ac74120e64ed047"
-  },
-  {
-   "id": "w-7fa776de14bd5e96",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-03T18:01:38+00:00",
-   "title": "BBC Wales cuts risk 'irreversible deterioration', warns first minister",
-   "summary": "He says the corporation could breach its public service obligations if it proceeds as planned.",
-   "url": "https://www.bbc.co.uk/news/articles/ck054qyyr7nyo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c0/live/68ed77b0-d798-11f1-801d-cf196dc7232c.png"
-  },
-  {
-   "id": "w-01b471f0c535da0f",
-   "outlet": "BBC News",
-   "section": "Health",
-   "published_at": "2026-11-03T17:53:42+00:00",
-   "title": "I was told I was too young to have cancer",
-   "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
-   "url": "https://www.bbc.co.uk/news/videos/cwn73nn02dmlo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427d/live/f9c8deb0-d7a6-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "id": "w-18283d0115c7afee",
-   "outlet": "The Guardian",
-   "section": "Climate",
-   "published_at": "2026-11-03T17:49:57+00:00",
-   "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm",
-   "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the warm words for the group from King Charles and the prime minister, Andy Burnham , this week. Amid sharp cuts in the UK’s aid budget overall, the Commonwealth has fared poorly, an analysis of ",
-   "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
-   "img": "https://i.guim.co.uk/img/media/66de6c9a680a2f40d15822be9edd268785931968/242_187_2598_2079/master/2598.jpg?width=140&quality=85&auto=format&fit=max&s=07da96ff9a3a0ad593da0d075ce5de58"
-  },
-  {
-   "id": "w-62f63d270bdd0ebb",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-03T17:45:42+00:00",
-   "title": "USOPC considering plan to sell stake in Team USA as LA Olympics approach",
-   "summary": "US set to host Summer and Winter Olympics USOPC CEO says business model in early stages The US Olympic and Paralympic Committee (USOPC) is in the advanced stages of setting up an entity to sell a stake ⁠in the commercial rights for Team USA in return for capital, according to multiple reports. Any deal would mark a significant shift for the USOPC, a non-profit organization that, unlike many national Olympic committees, relies heavily on sponsorsh",
-   "url": "https://www.theguardian.com/sport/2026/nov/03/usopc-considering-plan-to-sell-stake-in-team-usa-as-la-olympics-approach",
-   "img": "https://i.guim.co.uk/img/media/5a36930e956e0aa7948c00362cbd77aae9ab76ae/396_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ced5e9f8b396b4b66d3ad7d306325410"
-  },
-  {
-   "id": "w-0737759beba760d8",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-03T17:41:37+00:00",
-   "title": "How 'mogging' went from toxic term to mainstream",
-   "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
-   "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d9/live/0bb69cf0-d826-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-81a8947b20870df8",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-03T17:30:19+00:00",
-   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
-   "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “because most Commonwealth countries aren’t doing this”. China did all sorts of things. It’s not out there apologising. The purpose of the apology is to make us look weak. I",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-   "img": "https://i.guim.co.uk/img/media/f61bc27a7893d6c0fe415e9ca2a45d6a8cfda54f/189_84_6141_4913/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=9934cacae4ff01ddf14b2d7fddc6149e"
-  },
-  {
-   "id": "w-4c4f167072fd659b",
-   "outlet": "BBC News",
-   "section": "Science",
-   "published_at": "2026-11-03T17:25:10+00:00",
-   "title": "Action needed to tackle 'biodiversity crisis'",
-   "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
-   "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a6/live/b5b3ff00-d794-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-33d1a53fa02fc496",
-   "outlet": "The Guardian",
-   "section": "Middle East",
-   "published_at": "2026-11-03T17:17:11+00:00",
-   "title": "Trump claims US will end military aid to Israel by end of this year",
-   "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza . In a phone interview with Fox News as voting began on Tuesday morning, the US president said the US would cut nearly $",
-   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-   "img": "https://i.guim.co.uk/img/media/60b8ee8c7578d9966d060062362646a8be71b3ad/225_0_2339_1872/master/2339.jpg?width=140&quality=85&auto=format&fit=max&s=03ec41256beb29a0268c0a565964ade0"
   }
  ]
 }

@@ -2,9 +2,10 @@
  "failed": {
   "w-ab6227946c676582": 3,
   "w-769c989a168d8ff1": 3,
-  "w-208d404b28e92d82": 3
+  "w-208d404b28e92d82": 3,
+  "w-0218fb985c639493": 3,
+  "w-5f42af14116ca6d1": 1,
+  "w-80288d0d08c447b4": 3
  },
- "failed_translations": {
-  "w-847d94d16f5c2e7d:hu": 1
- }
+ "failed_translations": {}
 }
