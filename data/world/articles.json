@@ -1,6 +1,332 @@
 {
- "updated_at": "2026-11-04T19:45:00.489236+00:00",
+ "updated_at": "2026-11-05T13:28:44.108396+00:00",
  "items": [
+  {
+   "id": "w-28665a3ef6a06c74",
+   "member_ids": [
+    "w-28665a3ef6a06c74"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-05T13:20:52+00:00",
+   "t": "Fresh bomb hoaxes disrupt European flights again in a week of threats",
+   "s": "Flights across Europe were hit by bomb threats on Thursday, the second such round this week. Some planes were diverted and others were escorted by fighter jets, and searches reportedly found no explosives.",
+   "p": [
+    "According to the BBC, at least 15 flights were affected on Thursday. Routes bound for Italy, Poland, Bulgaria, Austria and the Czech Republic were among those involved, and the threats came in the same week as an earlier wave.",
+    "One closely watched case involved an Aer Lingus service that left Dublin for Rome. It was redirected to an air base at Evreux in northern France on Thursday morning, and the airline said it landed safely. Separately, a Finnair flight from Helsinki was accompanied into Rome by Italian military jets and touched down on schedule.",
+    "Earlier in the week, eight European flights, two of them from Britain, were targeted by suspected threats. Searches of those aircraft did not uncover explosives. Czech police reported the same outcome for four flights that landed in Prague, while Bulgarian media said three Ryanair flights were escorted by air force jets before landing in Sofia and Plovdiv.",
+    "EU transport commissioner Apostolos Tzitzikostas said it was not yet clear whether the incidents were connected. UK Transport Secretary Heidi Alexander described them as deliberate hoaxes.",
+    "Airport authorities in Rome said the threat against two inbound flights arrived by email. The sender signed it on behalf of a group or individual calling itself “Fighters of the Male State”, which said it was targeting a “feminist regime”. Italian media first reported these details, and Aeroporti di Roma, which runs both of the city’s airports, confirmed them to the BBC.",
+    "Aviation specialists quoted by the BBC offered differing readings. Philip Baum of the University of Coventry said he was surprised by the incidents and warned that a run of hoaxes could breed complacency, so that a genuine threat gets overlooked. Marco Chan of Kingston University said the threats were probably hoaxes, but that treating them as real was the right response. He noted that some experts linked them to a wider pattern of low-cost disruption, and cautioned that three days is too short a period to tell coordinated action from copycats.",
+    "Separately, the BBC reported that on Monday a Wizz Air flight from London Luton to Sofia was escorted to Budapest by a Hungarian fighter jet after a mid-air threat."
+   ],
+   "cav": "The 15-flight figure appears only in the BBC’s summary and is not itemised. The sources do not identify the group behind the email threats or establish any link to the other incidents. Several details, including the Rome reports of anonymous tips, are second-hand.",
+   "op": "Threats against passengers demand more than reassurance. The public has a right to know what investigators have established about who is sending these messages and whether the incidents are connected. Calling them hoaxes may prove accurate, but the label settles nothing until authorities show their working.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+  },
+  {
+   "id": "w-85ac1e330c2f1f91",
+   "member_ids": [
+    "w-85ac1e330c2f1f91",
+    "w-b2bf07c03c94cf29",
+    "w-e0883bc17ec33951"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-05T13:17:25+00:00",
+   "t": "Bomb threats divert flights across Europe as EU says too early to link incidents",
+   "s": "Several commercial flights were diverted or forced to land across Europe on Thursday after bomb threats, days after a similar wave of hoaxes. Authorities reported no devices were found, and the EU has not established whether the incidents are connected.",
+   "p": [
+    "The disruption followed a run of threats on Tuesday that led to emergency searches and a brief closure of an airport outside Warsaw. Live reporting by The Guardian counted 18 affected flights on Thursday, while Al Jazeera cited about 12. The tallies differ between outlets and may change as more reports arrive.",
+    "French authorities said an Aer Lingus flight from Dublin to Rome was steered to Evreux after a suspected threat and accompanied by military aircraft. The office of Prime Minister Sebastien Lecornu said a bomb squad was on site and that 151 passengers and six crew had been brought to safety. Elsewhere, a Ryanair service from London Stansted to Sofia was diverted to Plovdiv in Bulgaria, and a WizzAir flight from Milan Malpensa to Warsaw was rerouted to Vienna, where the airline said it followed its standard safety procedures.",
+    "A Finnair flight from Helsinki to Rome was escorted by a fighter jet and inspected by bomb disposal experts, an airport spokesman told AFP. Italy’s Ansa news agency, citing police sources, said the warning about the Helsinki and Dublin flights arrived in an anonymous email, written in Italian, that was sent to the company that runs Rome’s airports and affiliated firms.",
+    "Spanish authorities said three flights were affected by hoax threats at Madrid’s airport, and that security forces had ruled out any risk. In Bulgaria, three aircraft asked for emergency landings after threats, and inspections found no problems. Czech police said aircraft bound for Prague were searched, with negative results, and that the case has passed to the National Centre against Terrorism, Extremism and Cybercrime. In Brussels, a LOT Polish Airlines flight from Warsaw landed safely after a security warning, and its crew found nothing suspicious on board.",
+    "EU transport commissioner Apostolos Tzitzikostas said it was “too early to draw conclusions” on whether the incidents were linked, while condemning threats against civilians. Aviation analysts quoted by The Guardian noted that fake threats occur every day, yet the number judged credible suggests coordinated action. One analyst described the campaign as loosely organised, with no clear regional focus. Al Jazeera’s correspondent said nobody had yet been identified as responsible.",
+    "Al Jazeera also placed the episode in a wider frame, recalling that the German government has blamed Russia for a failed drone attack on Leipzig airport in August. The outlet found no evidence tying the current threats to that attack or to other recent incidents, though it said European governments are likely to examine such links."
+   ],
+   "cav": "The sources disagree on the number of affected flights: about 12 in Al Jazeera, 15 in a Guardian headline, and 18 in its live tally. Many details, including the Madrid flights and the Romanian clearance of a WizzAir flight, rely on official statements or second-hand reports, and no source has identified who sent the threats.",
+   "op": "Hoax threats that force planes to land and frighten passengers are not harmless pranks, and governments owe the public clear information. Authorities should publish what they know about the emails and calls, and whether they share a source. Openness now will do more to restore confidence in air travel than reassurance alone.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+  },
+  {
+   "id": "w-399dc84681c3d3c3",
+   "member_ids": [
+    "w-399dc84681c3d3c3",
+    "w-d2e66c45a696898b"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-05T13:09:12+00:00",
+   "t": "Melania Trump to host Russian and Ukrainian delegations at White House after Oleshky truce",
+   "s": "US First Lady Melania Trump will host Russian and Ukrainian delegations at the White House on Thursday, a day after Ukraine honoured her with the Order of Princess Olha. Washington credits her with brokering a ceasefire, but neither Moscow nor Kyiv has explained how far her role went.",
+   "p": [
+    "Officials from Moscow and Kyiv are set to be received by the first lady in Washington on Thursday. The gathering precedes negotiations in Abu Dhabi that are intended to bring the Ukraine war to an end. Hopes for a settlement have been revived, even as the invasion approaches its fifth year and closer ties between Donald Trump and Vladimir Putin have prompted worries that the United States might abandon Kyiv.",
+    "On Wednesday, President Volodymyr Zelensky signed a decree conferring the Order of Princess Olha, First Class, on Melania Trump. The document praised her contribution to humanitarian aid for Ukraine and her work on human rights and charity, citing in particular her efforts on behalf of Ukrainian children affected by the conflict.",
+    "The honour follows a limited truce in the Kherson region that enabled several hundred people to leave Oleshky, a city under Russian occupation where supplies of food and medicine had run short for weeks. According to Euronews, the first lady announced the truce last month, and both armies observed it, which allowed roads to be cleared of mines. BBC reporting indicates that the truce has since expired.",
+    "The White House says she started contact between the two countries on her own initiative and secured the pause in fighting, describing it as a first of its kind for an American first lady. Russian and Ukrainian officials both credited her with arranging the truce, yet neither has spelled out what her involvement actually consisted of.",
+    "Kyiv is expected to send ombudsman Dmytro Lubinets and parliamentarian Davyd Arakhamia, who has sat on Ukraine’s negotiating team before. The Kremlin, through spokesman Dmitry Peskov, has named ombudsman Yana Lantratova and Kirill Dmitriev, a businessman with close ties to the Kremlin, as Moscow’s representatives. Euronews reported that the Russian attendance depended on logistics being settled. Lubinets and Lantratova had entered Oleshky together the previous week.",
+    "No agenda for the White House meeting has been made public. The first lady is due to address the Oleshky truce that day, according to the White House website. Zelensky also reported lengthy talks with US envoys Steve Witkoff and Jared Kushner in preparation for the Abu Dhabi round, which would be the first gathering of all three parties since February.",
+    "The UN has earlier this year described the forced transfer of Ukrainian children to Russia as a crime against humanity and a war crime. Kyiv claims nearly 20,000 children have been unlawfully moved to Russia and Belarus since 2022. In 2025 the first lady said she had set up a channel of dialogue with Putin to help reunite children with their families, but otherwise she has kept a low profile on foreign policy."
+   ],
+   "cav": "The sources do not say what the White House meeting will involve, and the first lady’s role in the truce rests on claims from her office and both governments, not independent confirmation. BBC and Euronews also disagree on whether the truce still holds, and give different times for her remarks (16:00 GMT versus 1700 GMT).",
+   "op": "Honours and praise cannot stand in for accountability. When an official without a public mandate is credited with brokering a ceasefire, the public deserves to know what she did, who took part, and what was agreed. Talks on a war that has displaced children should be open to scrutiny, not shaped by vague claims of influence.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no"
+  },
+  {
+   "id": "w-dc8ba062a2994feb",
+   "member_ids": [
+    "w-dc8ba062a2994feb"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-05T12:35:11+00:00",
+   "t": "Trump accepts midterm results as Democrats win broadly and Republicans face a reckoning",
+   "s": "Donald Trump has accepted the results of the US midterm elections, which the Guardian describes as a sweeping win for Democrats. Analysis of the vote points to the Iran war as a major factor in the Republican losses.",
+   "p": [
+    "According to the Guardian’s newsletter coverage, Trump has accepted the midterm results, and the electoral system held up against attempts at election interference. His administration had earlier worked to cast doubt on the outcome, but the worst fears did not materialise, the newsletter says.",
+    "An unnamed Trump adviser told CNN that the result was too large to manipulate, after Democrats took power across the country. Trump appeared in public the day after the vote, mainly to discuss plans for a new White House ballroom.",
+    "The Guardian’s own analysis found that dozens of Republican candidates whom Trump had directly endorsed lost their races, raising questions about the reach of his backing. Senator Susan Collins, who had held her seat in Maine for nearly three decades, was defeated.",
+    "Pete Hegseth, the defence secretary, may be made the scapegoat for the party’s losses, with the war in Iran cited as a key reason for the weak showing. JD Vance has reportedly distanced himself from the decision to strike Iran alongside Israel, and a Democratic-controlled Congress is expected to try to limit future US foreign military action.",
+    "Democrats also gained hundreds of seats in state legislatures. Voters approved nearly every datacentre moratorium on the ballot, while Colorado rejected a conservative measure that would have required police to cooperate with immigration officers. Nevada, Virginia, Missouri and Idaho passed or strengthened protections for reproductive freedom.",
+    "Fox News reported a ratings slump after the vote, and an analysis by Nick Robins-Early described nearly half a billion dollars in midterm spending by Elon Musk as a flop."
+   ],
+   "cav": "The Guardian’s figures on endorsed candidates come from its own analysis, and the claim that Hegseth may take the blame is speculation. The adviser’s remark is second-hand, relayed through CNN, and the sources do not say who the adviser is.",
+   "op": "Accepting a result is the minimum a democracy requires, and it deserves credit. The harder test is whether Congress now uses its powers to scrutinise the war in Iran openly, rather than letting the voters’ verdict fade into rhetoric.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/bc0c045b42ae94c29f26e88819f4272b31d26a2c/1684_863_6100_4880/master/6100.jpg?width=140&quality=85&auto=format&fit=max&s=6ba45d0e03b25a0858a0d84f1f425345",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
+  },
+  {
+   "id": "w-a2b25035540b6845",
+   "member_ids": [
+    "w-a2b25035540b6845",
+    "w-98c24508e394f7ce",
+    "w-c31b712fa5939ff8",
+    "w-d92520ab23f4dd9a"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-05T12:32:36+00:00",
+   "t": "Cristiano Ronaldo announces retirement from international football after row with Portugal coach",
+   "s": "Cristiano Ronaldo has said he will no longer play for Portugal, closing a national-team career that holds the men’s records for appearances and goals. The announcement comes weeks after a dispute with coach Jorge Jesus over playing time.",
+   "p": [
+    "Ronaldo revealed the decision on Thursday in a lengthy video posted to his Instagram account. The 41-year-old said he was giving back the No. 7 shirt after 23 years of wearing it for his country.",
+    "Across his national career, Ronaldo made 234 appearances for Portugal and scored 146 goals, figures that make him the record holder for both categories among men. He captained the team to Euro 2016, its first major title, and later helped it win the Nations League in 2019 and 2025.",
+    "In the message, he said the choice had been difficult and that it had been shaped by emotion as well as reason. He thanked his family, the Portuguese public, and the teammates, coaches and staff he had worked with over the years.",
+    "The Portuguese Football Association (FPF) praised him in a statement, describing him as a figure who had raised the country’s profile and motivated young players. The federation said it plans to hold a tribute so supporters can honour him again.",
+    "The rift began in September. Ronaldo’s last game for Portugal was a 1-0 win over Wales in the Nations League on September 24. Jesus then dropped him to the bench for the next fixture and indicated he would not start the one after that, and Ronaldo left the training camp.",
+    "The accounts differ on what came next. DW reported that the FPF suspended and fined Ronaldo, and that he had been expected back for the November break. Euronews said Jesus later told reporters Ronaldo would be welcome to return, with the decision left to the player. France 24 wrote that the coach had refused to use him in a match.",
+    "Like Lionel Messi, who recently played a farewell match for Argentina, Ronaldo will continue at club level. He is expected to end his club career with Al-Nassr in Saudi Arabia at the close of this season."
+   ],
+   "cav": "The sources disagree on the dispute: some say Jesus left Ronaldo on the bench, while France 24 says the coach refused to use him. The suspension and fine come only from DW, and the tribute’s date and format have not been announced.",
+   "op": "A player may choose when his national career ends, but a row that ends in a walkout deserves a clear public account, not just a farewell video. Fans and federations are owed transparency about the suspension and the terms of any return. The FPF should set out those facts before any tribute turns the final chapter into a celebration.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/05/portugal-great-cristiano-ronaldo-announces-retirement-from-international-football"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/a852fd72-c4af-11f1-9559-29a2e29ae696/w:1024/p:16x9/AP26272841554245.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement"
+  },
+  {
+   "id": "w-018d1a8b61cc8ad6",
+   "member_ids": [
+    "w-018d1a8b61cc8ad6"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-05T12:28:01+00:00",
+   "t": "Cristiano Ronaldo quits Portugal duty in farewell video after months of friction with coach",
+   "s": "Cristiano Ronaldo has told Portuguese fans he is ending his international career. The announcement follows a fine, a suspension and a public dispute with coach Jorge Jesus.",
+   "p": [
+    "Cristiano Ronaldo has said he is stepping away from the national team, according to an Instagram video in which he addressed Portuguese supporters directly. The 41-year-old forward holds the world records for goals (146) and caps (234) for his country, which he has collected since his debut in 2003.",
+    "The exit comes after a turbulent few months. In September, Ronaldo walked out of the squad when he learned he would not start a Nations League game against Denmark. The Portuguese Football Federation (PFF) handed him a £215 fine and a 30-day ban, though the BBC reports that none of Portugal's matches fell within that window.",
+    "Before the video, Ronaldo had put out a long statement insisting he had no plans to retire. In it he accused Jesus of breaking his word on two occasions. The coach responded that he would welcome Ronaldo back. In the farewell clip, Ronaldo did not refer to the row, though he admitted he had made errors.",
+    "His last tournament ended badly. He featured in every game of his sixth World Cup this summer, a campaign that finished when Portugal were knocked out in the last 16 by Spain, who went on to win the title. Media commentators had questioned whether he could still perform at the highest level. Reports also say he was furious after being told to warm up in the second half against Norway without being sent on, the first time since 2008 he had been left out of a competitive Portugal match as a substitute.",
+    "Ronaldo has taken part in six European Championships. Portugal were beaten finalists in 2004 and lifted the trophy in 2016, but failed to get past the World Cup semi-finals during his time with the side. He has worn the captain's armband since 2008 and was part of the winning teams at the Nations League in 2019 and 2025.",
+    "The PFF has said it will not allow his departure to pass without a proper tribute and that it wants to help plan and host one. Portugal are due to announce their squad on Friday for this month's Nations League fixtures, which are at home to Denmark and away to Wales.",
+    "Ronaldo's great rival, Lionel Messi, also ended his international career this year, doing so in October before a crowd of 85,000 in Buenos Aires."
+   ],
+   "cav": "The retirement is known from Ronaldo's own video, and the sources do not say whether the PFF has confirmed the details of any tribute. The dispute with Jesus rests on Ronaldo's statement and on reports of his anger, and the coach's side is only summarised, not quoted in full. His earlier insistence that he would not retire sits uneasily with this announcement.",
+   "op": "A farewell should not bury the questions a career leaves behind. Ronaldo's record deserves honour, but the fine, the suspension and the public clash with his coach are part of how his exit happened. Football's authorities owe fans a clear account of those events, not just a ceremony.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o"
+  },
+  {
+   "id": "w-d8ecd9e4ca5624ca",
+   "member_ids": [
+    "w-d8ecd9e4ca5624ca"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-05T10:42:15+00:00",
+   "t": "Cristiano Ronaldo announces end of Portugal career with 234 caps and 146 goals",
+   "s": "Cristiano Ronaldo has said he will no longer play for Portugal, closing an international career that included six World Cups, a European title and the men’s all-time scoring record. He made the announcement in a lengthy video posted on social media.",
+   "p": [
+    "The 41-year-old framed the decision as a handover to the next generation, describing his years in the national side as a responsibility he carried into stadiums around the world. He said the choice was difficult, weighing emotion as well as reason, and traced his career back to his debut in August 2003.",
+    "His last appearance for Portugal, according to the report, came on 24 September, a 1-0 victory over Wales in the Nations League. Coach Jorge Jesus then left him out of the squad for the next game and indicated he would not be in the starting line-up for the one after that.",
+    "Ronaldo subsequently withdrew from the training camp. The report says the break followed a dispute with Jesus, though Jesus later stated that Ronaldo would be welcome back and that returning was his own decision.",
+    "The Portuguese Football Federation said it was grateful for his service and admired his contribution. It credited him with raising the country’s profile and inspiring young players, and it said it plans a tribute event that would let supporters honour him once more.",
+    "Across his national career, Ronaldo made 234 appearances and scored a record 146 goals, the report notes. The comparison with Lionel Messi was drawn here: Messi ended his international career with Argentina after a farewell match last month.",
+    "Ronaldo will carry on at club level and is expected to conclude his club career at the end of the current season with Al-Nassr in Saudi Arabia. He is working towards 1,000 career goals and currently has 985."
+   ],
+   "cav": "The sources describe the falling-out with Jesus only second-hand and do not give either side’s full account of the dispute. The exact reasons for the break, and whether Ronaldo would ever return, are not clear from the reporting.",
+   "op": "A player’s farewell should be decided openly, not shaped by a quarrel in a training camp. Ronaldo has earned a dignified exit, and the federation’s promised tribute should honour his record without hiding how the final months unfolded. Clear accounts from all sides matter.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-calls-time-on-portugal-career"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/0b01a4b2c3d3e27a3a4f02a9018ebfe62e32674f/0_254_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=044e5a38a3a6980d9d1ed40beab86ad8",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-calls-time-on-portugal-career"
+  },
+  {
+   "id": "w-62fc3db94941045e",
+   "member_ids": [
+    "w-62fc3db94941045e"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-05T09:00:02+00:00",
+   "t": "Tech billionaires face a harder road as Democrats take Congress in the midterms",
+   "s": "Democrats’ midterm gains were helped by voter anger over tech, the rich and the super rich, according to a Guardian commentary, and the tech elite that backed Donald Trump now faces investigations and pressure.",
+   "p": [
+    "The Guardian commentary argues that the photo of Silicon Valley’s richest figures at Donald Trump’s inauguration, with Elon Musk, Bezos and Mark Zuckerberg seated side by side, now looks less like a show of alliance and more like a list of targets for a Congress led by Democrats.",
+    "Democrats took decisive control of the US Congress on Tuesday, flipping seats that had previously seemed safe for Republicans. They also won governors’ mansions across the country, including in Texas, a state the article describes as one of the reddest.",
+    "The piece says voters concerned about corruption punished politicians seen as serving the interests of wealthy tech figures. Texas Democratic representative Greg Casar wrote that voters rejected Republicans in part because they were “bought and paid for” by billionaires from the tech sector, and urged his party to hold them accountable.",
+    "Democrats have promised congressional investigations into tech companies and moratoriums on large datacenters. Gina Hinojosa of Texas, Amy Acton of Ohio and Keisha Lance Bottoms of Georgia have all pledged pauses, and letters asking Nvidia and Amazon to preserve records have reportedly already been sent.",
+    "Musk, who the article says gave $450m to Republican candidates, most of it to Ken Paxton in Texas, had a difficult night. Paxton lost by a wide margin, and Musk later deleted a Tuesday post urging people to vote Republican. The article also notes that Democrats may look at a multibillion dollar merger of SpaceX with another Musk-led company, which holds a $200m contract with the US military.",
+    "The commentary says Zuckerberg could face the kind of inquiry he went through at the end of the 2010s, pointing to his shift to the right under Trump, including his visit to Mar-a-Lago and the end of Meta’s diversity, equity and inclusion program. It describes Sam Altman, the head of one of the leading firms in the sector, as appearing to distance himself from Trump’s approach to regulation of the industry.",
+    "The article concludes that these billionaires are unlikely to repair their public image quickly, because they have said little about affordability and corruption, the issues voters care about most. Its author asks what a billionaire can offer a public angry about prices."
+   ],
+   "cav": "This is a commentary piece, so its predictions about investigations, Zuckerberg and Altman are speculative rather than reported. The $450m figure and the $200m contract value are as stated in the article and are not independently confirmed here.",
+   "op": "Public scrutiny of concentrated wealth and private influence over government is a legitimate demand. It should be pursued through open hearings, published records and the same legal standards that apply to everyone else. Investigations driven by political theatre would weaken the transparency voters are asking for.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=35ad787c95a8cfa59004fd578fcbc90f",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg"
+  },
+  {
+   "id": "w-c39675d166075949",
+   "member_ids": [
+    "w-c39675d166075949",
+    "w-39c786a51ec4aad7",
+    "w-4d179952eb22b593",
+    "w-0f7986070ab62d63",
+    "w-e257b792aa5cf184"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-05T08:07:22+00:00",
+   "t": "Joshua Wong sentenced to further 10 years under Hong Kong national security law",
+   "s": "Former pro-democracy figure Joshua Wong has been jailed for 10 more years for foreign collusion, his second conviction under the city’s national security law. Critics say the case shows the law is being used to silence dissent.",
+   "p": [
+    "Hong Kong’s High Court on Thursday sentenced Joshua Wong, now 30, to 10 years in prison after he pleaded guilty in September to colluding with foreign forces. According to the BBC, prosecutors said Wong conspired with exiled activist Nathan Law and others to lobby foreign governments for sanctions and blockades against Beijing. The activity took place between July and late November 2020, the court heard.",
+    "Presiding judge William Tam said he had considered a 13-year starting point but reduced it to 10 because of Wong’s guilty plea and mitigation, according to Al Jazeera. Tam also said Wong’s role was to supply “underground support” and draw foreign attention to the cause. The new term will run concurrently with the remainder of Wong’s existing sentence, the BBC reported.",
+    "Wong is already serving four years and eight months, imposed in November 2024 for conspiracy to commit subversion over an unofficial primary election. He had been due for release in January 2027. DW reported that the offence of foreign collusion can carry life imprisonment if judged to be of a serious nature, and that Wong has said he never advocated independence for Hong Kong or regime change in China.",
+    "Hong Kong’s chief executive, John Lee, said Wong and Law were among the main culprits responsible for undermining the city’s prosperity and stability. Beijing’s foreign ministry spokesperson, Guo Jiakun, urged “relevant parties” to respect China’s sovereignty and the city’s legal system, and to stop making irresponsible remarks about the case.",
+    "The United States consulate in Hong Kong “strongly condemns” the sentence and called for Wong’s immediate release, saying he had been unjustly imprisoned since December 2020. Taiwan’s top China policy body also criticised what it called endless political persecution of Hong Kong democracy activists. Amnesty International said the sentence was another reminder that the law has become a tool to punish dissent, a view echoed by Human Rights Watch’s Asia director, Elaine Pearson.",
+    "Wong rose to prominence as a teenager, co-founding the Scholarism student group in 2011 and helping to lead the 2014 Umbrella Movement. He later co-founded the Demosisto party with Law, which disbanded in 2020 as the national security law took effect. Authorities argue the law is needed to maintain stability and say it has not weakened the city’s autonomy, while critics say it has silenced opposition.",
+    "Wong’s friend Frances Hui, who is now based in the United States, told the BBC she was heartbroken and outraged by the verdict, describing it as part of a broader political crackdown. Former media tycoon Jimmy Lai received a 20-year sentence under the same law, the BBC noted, making his the harshest term handed down so far."
+   ],
+   "cav": "Sources differ on the exact release date, describing it as January, early next year or January 2027. Wong’s claim that he never sought independence or regime change comes from him and DW reports it without independent confirmation. The sources do not give the full text of the court’s reasoning.",
+   "op": "A sentence for lobbying foreign governments is a sentence for speech, and that should trouble anyone who values open debate. Hong Kong’s courts must show that the law targets genuine threats, not political opposition. Ten more years for a man already behind bars will not reassure a city that has been told its freedoms are secure.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+  },
   {
    "id": "w-6b3ae8ffe49db499",
    "member_ids": [
