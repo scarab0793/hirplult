@@ -6,9 +6,10 @@ Napi négy futás (6, 10, 13 és 16 óra, angliai idő szerint), a `.github/work
 
 1. `fetch_news.py` – 9 forrás RSS-e (a Telex a GitHub-futtatóról jelenleg 403-at ad, ilyenkor a korábbi adat marad). Eredmény: `data/news.json` (utolsó 72 óra) és `data/news-history.json`.
 2. `enrich_news.py` – futásonként legfeljebb 10 történetből cikket ír a Claude API-val (`claude-haiku-5-5`). A forráscikket letölti, és csak abból dolgozik. Eredmény: `data/editorial.json` (az RSS-ből készült cikkeket 10 napig tartja meg).
-3. `backfill_news.py` – a régi katalóguscikkek bővítése. **Alapból szünetel** (`HIRPULT_BACKFILL_BATCH: '0'`), mert a katalóguscikkek készek. Ha be van kapcsolva, a meglévő „Amit érdemes tudni” és „Szubjektív nézőpont” dobozokat nem írja felül.
+3. `dedupe_editorial.py` – összevonja az ugyanarról az eseményről szóló cikkeket (nincs hálózat, nincs API-hívás). A hasonlóságot a `hp_dedupe.py` méri: a címből és a vezetőszövegből a ritka szavak (6 betűre vágva, ritkaság szerint súlyozva) koszinusz-hasonlósága, 0,5-ös küszöbbel és 72 órás ablakkal. Az összevonáskor a legjobb cikk marad (megírt, legtöbb forrású), a többi forrása hozzákerül, a címke újraszámolódik. A még nyers RSS-híreket is a már megírt cikk forrásaihoz fűzi. Csak az `rss-` azonosítójú cikkekhez nyúl, a kézzel írt katalóguscikkekhez soha. Az `enrich_news.py` is ugyanezt a szabályt használja: egy már megírt történetről nem ír második cikket.
+4. `backfill_news.py` – a régi katalóguscikkek bővítése. **Alapból szünetel** (`HIRPULT_BACKFILL_BATCH: '0'`), mert a katalóguscikkek készek. Ha be van kapcsolva, a meglévő „Amit érdemes tudni” és „Szubjektív nézőpont” dobozokat nem írja felül.
 
-Az oldal (`index.html`) a `data/news.json` és a `data/editorial.json` tartalmát futás közben fésüli össze.
+Az oldal (`index.html`) a `data/news.json` és a `data/editorial.json` tartalmát futás közben fésüli össze, és elrejti azt a kártyát, amelynek forráslinkjét egy másik kártya már felsorolja (előbb a megírt, több forrású cikk marad).
 
 ## Egy cikk elkészülése
 

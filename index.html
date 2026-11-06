@@ -237,11 +237,21 @@ async function loadNews(){
   // An editorial record supersedes its short RSS version.
   const unique=new Map(incoming.map(i=>[i.id,i]));
   for(const i of incoming)if(i.ai_edited)unique.set(i.id,i);
-  for(const i of unique.values()){
+  // The same source article must not appear twice. A finished article lists every report it covers, so the
+  // bare RSS cards of those reports (and any other item built on the same link) stay hidden.
+  const urlKey=u=>String(u||"").trim().toLowerCase().replace(/^https?:\/\/(www\.)?/,"").replace(/[?#].*$/,"").replace(/\/+$/,"");
+  const seenUrls=new Set(items.flatMap(i=>(i.src||[]).map(s=>urlKey(s[1]))));
+  const ordered=[...unique.values()].sort((a,b)=>(!!b.ai_edited-!!a.ai_edited)||(b.src.length-a.src.length));
+  for(const i of ordered){
    if(known.has(i.id)){
     const n=items.findIndex(x=>x.id===i.id);
     if(n>=0&&i.ai_edited)items[n]=mergeItem(items[n],i);
-   }else{items.push(i);known.add(i.id);}
+    continue;
+   }
+   const keys=i.src.map(s=>urlKey(s[1]));
+   if(keys.some(k=>seenUrls.has(k)))continue;
+   keys.forEach(k=>seenUrls.add(k));
+   items.push(i);known.add(i.id);
   }
   const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
   const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\S+)\s+(\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};

@@ -16,6 +16,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 import hp_ai
+import hp_dedupe
 
 NEWS = Path("data/news.json")
 EDITORIAL = Path("data/editorial.json")
@@ -23,7 +24,7 @@ STATE = Path("data/ai-state.json")
 KEEP_DAYS = int(os.getenv("HIRPULT_KEEP_DAYS", "10"))
 MAX_TRIES = 3  # a story that fails the checks is retried in later runs; unreadable sources count as MAX_TRIES at once
 # A story counts as "Megerősített" with two different publishers or one official source.
-OFFICIAL_HOSTS = ("mnb.hu", "kormany.hu", "parlament.hu", "ksh.hu", "police.hu", "eurostat", "europa.eu", "mti.hu")
+OFFICIAL_HOSTS = hp_dedupe.OFFICIAL_HOSTS
 STOP = set("hogy mint után miatt szerint magyar most több egyik másik ezzel azzal között".split())
 
 
@@ -33,11 +34,6 @@ class NoSource(ValueError):
 
 def words(s):
     return {w for w in re.findall(r"[a-záéíóöőúüű0-9]{4,}", s.lower()) if w not in STOP}
-
-
-def similar(a, b):
-    x, y = words(a["t"]), words(b["t"])
-    return bool(x and y and len(x & y) >= 3 and len(x & y) / min(len(x), len(y)) >= 0.65)
 
 
 class ArticleParser(HTMLParser):
@@ -158,19 +154,41 @@ def main():
     max_calls = int(os.getenv("HIRPULT_AI_MAX_CALLS", "16"))
     count, stop = 0, False
 
+    # A report whose link a finished article already lists is covered: it must not be written up again.
+    # (Only the first report of a cluster used to be marked done, so the others came back as "new" stories.)
+    covered = hp_dedupe.covered_urls(archive["items"])
+    written = [x for x in archive["items"] if x.get("ai_edited") and str(x.get("id", "")).startswith("rss-") and x.get("published_at")]
+    index = hp_dedupe.Index(rows + written)
+
+    def fresh(x):
+        return x["id"] not in done and hp_dedupe.report_url(x) not in covered
+
     # Cluster the same story across outlets first, then write the stories covered by the most outlets (same topic) first,
     # so the day's big story is not crowded out by single-source items. The sort is stable (newest first inside a tier).
     used, groups = set(), []
     for a in rows:
-        if a["id"] in used or a["id"] in done or failed.get(a["id"], 0) >= MAX_TRIES:
+        if a["id"] in used or not fresh(a) or failed.get(a["id"], 0) >= MAX_TRIES:
             continue
         group = [a]
         used.add(a["id"])
         for b in rows:
-            if b["id"] not in used and b["id"] not in done and b["c"] != a["c"] and similar(a, b):
+            if b["id"] not in used and fresh(b) and b["c"] != a["c"] and hp_dedupe.same_story(index, a, b):
                 group.append(b)
                 used.add(b["id"])
         groups.append(group)
+
+    # A story that already has a finished article (written in an earlier run) gets the new reports as
+    # extra sources instead of a second article. This needs no API call and does not count towards the limit.
+    attached, pending = 0, []
+    for group in groups:
+        article = hp_dedupe.find_written(index, written, group)
+        if article is None:
+            pending.append(group)
+            continue
+        hp_dedupe.merge_into(article, group)
+        covered.update(hp_dedupe.report_url(x) for x in group)
+        attached += 1
+    groups = pending
     title_words = {x["id"]: words(x["t"]) for x in rows}
 
     def buzz(group):
@@ -188,6 +206,12 @@ def main():
         if stop or count >= limit or hp_ai.USAGE["calls"] >= max_calls:
             break
         a = group[0]
+        existing = hp_dedupe.find_written(index, written, group)
+        if existing is not None:  # an article written earlier in this very run already tells the story
+            hp_dedupe.merge_into(existing, group)
+            covered.update(hp_dedupe.report_url(x) for x in group)
+            attached += 1
+            continue
         try:
             article = compose(group, key)
         except NoSource:
@@ -225,6 +249,10 @@ def main():
             if donor:
                 merged.update({k: donor.get(k, "") for k in ("img", "imgs", "imgl", "cred")})
         archive["items"].append(merged)
+        if merged.get("published_at"):
+            written.append(merged)
+            index = hp_dedupe.Index(rows + written)
+        covered.update(hp_dedupe.report_url(x) for x in group)
         done.add(a["id"])
         failed.pop(a["id"], None)
         count += 1
@@ -232,11 +260,12 @@ def main():
     live_ids = {x["id"] for x in rows}
     state["failed"] = {k: v for k, v in failed.items() if k in live_ids}
     pruned = prune(archive["items"], now)
-    if count or len(pruned) != len(archive["items"]):
+    if count or attached or len(pruned) != len(archive["items"]):
         archive["items"] = pruned
         write(EDITORIAL, archive)
     write(STATE, state)
     cost = hp_ai.USAGE["input_tokens"] * 0.10 / 1e6 + hp_ai.USAGE["output_tokens"] * 0.50 / 1e6
+    print(f"Reports attached to existing articles: {attached}")
     print(f"Articles written: {count}; API calls: {hp_ai.USAGE['calls']}; tokens in/out: "
           f"{hp_ai.USAGE['input_tokens']}/{hp_ai.USAGE['output_tokens']} (about ${cost:.3f} at Haiku 5.5 prices)")
 

@@ -10,6 +10,8 @@ on:
     paths:
       - 'scripts/fetch_news.py'
       - 'scripts/enrich_news.py'
+      - 'scripts/hp_dedupe.py'
+      - 'scripts/dedupe_editorial.py'
       - 'scripts/backfill_news.py'
       - 'scripts/hp_ai.py'
       - '.github/workflows/update-news.yml'
@@ -76,6 +78,9 @@ jobs:
           HIRPULT_AI_MAX_ARTICLES: '10'
           HIRPULT_AI_MAX_CALLS: '24'
         run: python scripts/enrich_news.py
+      - name: Merge duplicate stories
+        if: steps.schedule_gate.outputs.run == 'true'
+        run: python scripts/dedupe_editorial.py
       - name: Lengthen catalog stories (paused, set the batch above 0 to enable)
         if: steps.schedule_gate.outputs.run == 'true'
         env:
