@@ -1,6 +1,286 @@
 {
- "updated_at": "2026-11-05T20:49:18.544791+00:00",
+ "updated_at": "2026-11-06T13:12:57.310484+00:00",
  "items": [
+  {
+   "id": "w-09fb401084b6939b",
+   "member_ids": [
+    "w-09fb401084b6939b"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-06T12:57:33+00:00",
+   "t": "Hoax bomb threats force searches and diversions across European flights",
+   "s": "A wave of bomb threats against commercial flights led to searches, diversions and emergency alerts across Europe this week. Authorities said no explosives were found where checks were reported.",
+   "p": [
+    "Hoax bomb threats targeted commercial flights across Europe this week, according to live reporting by The Guardian, which said at least 35 planes had been searched or diverted before Friday. Multiple flights were diverted or forced to make emergency landings, prompting security checks and wider disruption.",
+    "A Romanian airline, Tarom, flight from Prague to Bucharest was among the latest believed to be affected. The aircraft sent a squawk code of 7700, the general emergency signal, before landing safely in Bucharest. The Dutch military police confirmed that it had checked a KLM flight to Amsterdam after a bomb threat and that no explosives were on board. The statement did not name the flight. Local Dutch media said it had come from Prague, and the Guardian identified it as KL1350 on that basis.",
+    "Hungary’s defence minister, Romulusz Ruszin-Szendi, said on Facebook that fighter jets had been scrambled three times to escort civilian flights in Hungarian airspace after reported threats. The alerts included a WizzAir flight from Brussels to Sofia and flights from Prague to Cyprus and Bucharest.",
+    "The Prague airport told the Guardian that nine flights had been affected by bomb threats so far that day. A spokesperson said police had taken the necessary security measures and that “Operations at Prague Airport remain unaffected.” Later, the spokesperson told AFP that at least eight flights to and from Prague had been hit, naming incoming routes from Denmark, Spain and the UK and outgoing routes to the Netherlands, Cyprus, Romania, Italy and the UK.",
+    "Copenhagen police said they had completed checks at the Danish capital’s airport and had been present only as a security measure. They said they did not assess there to be any danger to passengers or others using the airport, and that they were investigating the new threats. A Bulgarian transport ministry spokesperson told AFP that alerts had also been received for two flights to Sofia, and that both had landed safely.",
+    "Flight-tracking data from FlightRadar24 showed planes circling near Prague, with at least four holding near the airport. An AJet service from Istanbul diverted to Vienna after several circles over Prague, but the Guardian said there was no suggestion that it was affected by the threats. The Guardian also reported that at least 17 flights had been disrupted, although details from airports and national authorities had become harder to collect. Eurocontrol’s daily counter put the number of flights in Europe that day at 26,709."
+   ],
+   "cav": "The sources do not agree on exact numbers: the Prague airport gave nine and then eight affected flights, and the reported total of disrupted flights is “at least” 17 without a full list. The identification of the KLM flight comes from local media, not from the Dutch police. The AJet diversion is not linked to the threats by any source.",
+   "op": "Hoaxes that empty skies and tie up fighter jets carry real costs, and the public deserves to know how they are being handled. Airports and police should publish consistent, timely counts and clear confirmations of what was found. Reassurance without transparency only leaves passengers guessing.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+  },
+  {
+   "id": "w-3aa7faa14925f5b2",
+   "member_ids": [
+    "w-3aa7faa14925f5b2"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-06T12:57:33+00:00",
+   "t": "Iran Widens Diplomacy to Moscow and Gulf as Washington Weighs Renewed Strikes",
+   "s": "Iran is pressing diplomatic channels with Russia and Gulf states while the United States signals it could resume large-scale military action. Tehran has set seven conditions before it will discuss its nuclear programme or reopen the Strait of Hormuz.",
+   "p": [
+    "Tehran's outreach comes as Donald Trump has hinted that Washington could return to full-scale strikes on the Islamic republic. Citing a US official, the news website Axios reported that US Central Command was readying for major operations and was only awaiting instructions from Washington. On Thursday, Trump said the US might need to wipe out what remains of Iran's capabilities, and suggested the world would find out soon whether he acts.",
+    "Friction escalated after Iranian forces brought down two American reconnaissance drones near Qeshm island in the Strait of Hormuz, a day after the US had hit targets earlier in the week. Iranian officials have signalled a response should larger American strikes follow.",
+    "A senior Iranian official told Reuters that Tehran had passed Washington a fresh nuclear and peace proposal through Qatari intermediaries, but would only weigh it once the US accepts its seven demands. Those demands reportedly include sanctions relief, the release of frozen Iranian funds and an end to the American naval blockade around Iranian ports near the Strait. Reuters said Washington is reviewing the offer. The US position, by contrast, is that an agreement on Iran's nuclear capacity must form part of any ceasefire before broader talks can resume.",
+    "Mohsen Rezaei, Iran's top security official, travelled to Moscow and met Vladimir Putin at the Kremlin carrying a message from Supreme Leader Mojtaba Khamenei, though Iranian state media gave no details of its substance. Rezaei called the encounter a highly significant exchange, according to the Iranian embassy. He also said the sides had discussed plans for gas pipelines linking Russia and Iran, which he framed as a remedy for Iran's gas shortages and a route for Russian energy exports to neighbouring countries.",
+    "The Financial Times has reported that Russia earlier agreed to provide Iran with 90 helicopter-mounted launchers for precision-guided missiles, despite its own demand for weaponry in the war in Ukraine. The paper based this on a Russian defence manufacturer's production schedule for 2024 and 2025, where the order was logged under a code associated with Iran. Tehran has previously supplied Shahed drones, and Russia has reportedly assisted Iran with supersonic cruise missiles and Verba portable anti-air missiles. Nicole Grajewski of the Carnegie Endowment for International Peace told the paper the arrangement suggested Moscow was less troubled by Western objections than before.",
+    "Iran's Foreign Minister Abbas Araghchi spoke on Thursday with counterparts from the UAE, Saudi Arabia, Kuwait, Turkiye, Qatar and Oman about de-escalation and regional stability. Oman's foreign ministry said safe passage through the Strait of Hormuz was a central topic. Separately, Russia's Foreign Ministry urged its citizens not to travel to Iran, pointing to lingering risks of renewed escalation. Senior Iranian officials have warned that any state assisting a US attack on Iran would become a legitimate target."
+   ],
+   "cav": "The Financial Times figures on the helicopter-mounted launchers come from documents the paper said it examined, and the evidence does not show an official Russian or Iranian response. Iran's claims about its gas refineries and the contents of Rezaei's message from Khamenei remain unverified, and the Kremlin's readout is not described in the sources.",
+   "op": "Diplomacy is welcome, but seven preconditions and open threats of renewed bombing leave civilians and shipping in the Gulf exposed. Any ceasefire should be built on public terms that all sides can be held to. Secret arms deals and closed-door messages make that harder, and the public has a right to know them.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-48c7e6f0c5b5f0cb",
+   "member_ids": [
+    "w-48c7e6f0c5b5f0cb"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-06T12:51:38+00:00",
+   "t": "Russian-linked group denies role in Europe-wide bomb hoax threats to flights",
+   "s": "A group named in hoax bomb threats to Italian airports has denied any involvement, as flights across Europe received warnings this week. No explosives have been found so far.",
+   "p": [
+    "An Aer Lingus flight bound for Rome was redirected to a French military base after receiving a bomb warning. It was one of many alerts reported across the continent this week, including a Ryanair service from Rome to Lisbon and a Wizz Air rotation from Prague to Rome that ended up in Venice.",
+    "The “Male State”, an extremist group with misogynistic views, was named in the threats sent to Italian airports. A Telegram account linked to the group and to its founder, Vladislav Pozdnyakov, told the BBC Russian Service that it had no connection to the emails, saying the group had not existed for many years. The same channel claimed that the group had placed explosives on two inbound aircraft, but no independent source has confirmed this.",
+    "Russia banned the group in 2021, and Pozdnyakov is thought to be living abroad. In some places the organisation now calls itself “Male Legion”.",
+    "The first hoax message, which the BBC has seen, was sent on Thursday morning to several staff members and departments at Aeroporti di Roma, the firm that runs Rome's airports, as well as to accounts at Fiumicino. The sending address seems to be tied to state health services in Bogota, Colombia. The text, written in fluent Italian, said the group had planted explosives on two incoming planes as an assault on what it called Italy's feminist establishment.",
+    "Authorities diverted one of those planes to France, and Italian air force jets escorted the other into Rome. Searches found no explosives on either aircraft or on any other flight that reported a threat. A source at the Rome airport operator said such warnings were highly unusual and could not recall anything comparable in recent years.",
+    "On Friday, several prominent Irish media organisations also received bomb threats, leading to evacuations. The Irish government said the incidents appeared to be a coordinated effort to cause disruption. It is not clear whether airports or airlines in other countries received the same or similar threats, and at least one Friday warning appears to have been made by phone rather than email.",
+    "La Stampa, an Italian newspaper, has asked whether the group is acting as an armed arm of the Russian state, and it appears convinced of the group's responsibility. Bellingcat, which examined the group in 2022, described it as a loud and hostile online supporter of Russia's invasion of Ukraine.",
+    "Italy's defence minister, Guido Crosetto, said a deliberate effort appears to be underway to deepen chaos. He tied the hoax calls to other recent disruptions, including cyber attacks that pushed up supermarket refrigerator temperatures and problems with France's blood supply. Investigators across Europe are still working out who sent the threats and whether they were coordinated or copied by others."
+   ],
+   "cav": "The attribution to the group is disputed: it denies involvement, and the claim of responsibility comes from a channel whose authenticity is not independently confirmed. The Colombian link is only described as an apparent connection, and Crosetto's wider linking of incidents is his own assessment.",
+   "op": "Blaming a group before investigators have established who sent the threats risks confusing the public and rewarding whoever sends them. Authorities should publish what they can verify, and newspapers and ministers should separate evidence from suspicion. Trust in air safety depends on clear, checkable facts.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/b610ac80-d9da-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo"
+  },
+  {
+   "id": "w-96753cec4a160190",
+   "member_ids": [
+    "w-96753cec4a160190"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-06T12:48:00+00:00",
+   "t": "Bomb threats hit Irish broadcaster RTE as flight disruption spreads across Europe",
+   "s": "Irish public broadcaster RTE evacuated its buildings after a bomb threat on Friday, adding media to the targets of a wave of threats that has disrupted flights across Europe. Dublin hosts a high-level EU meeting two days later.",
+   "p": [
+    "Media organisations in Ireland were drawn into a campaign that had already grounded aircraft across the continent for several days. On Friday, RTE said its premises had been cleared after a threat was received, and other news outlets were also reviewing their security.",
+    "An RTE reporter said the group that claimed responsibility for Friday’s threats was the same one that had targeted airlines earlier in the week. Irish Deputy Prime Minister Simon Harris told Cork 96FM radio that it remained unclear whether a lone individual or a coordinated network was behind the campaign.",
+    "Taoiseach Micheál Martin called the situation “worrying”. He said the Gardaí (Irish police) and the Defence Forces were investigating who was responsible. Martin also asked any organisation that gets a similar warning to treat it seriously and inform the police, so investigators can piece together a fuller picture.",
+    "According to RTE’s account of his remarks, Martin said the episode showed how little it takes to disrupt daily life and unsettle people through unconventional tactics. When asked whether the threats were linked to the EU meetings planned for Dublin, he stressed the need to keep those gatherings on schedule, pointing to the number of prime ministers attending and the heavy security planning this demands.",
+    "More than two dozen flights were affected by threats this week, and further incidents were reported on Friday. Police in Denmark and the Czech Republic also responded to threats that later turned out to be false. A Tarom service travelling from Prague to Bucharest was warned, yet reached its planned destination before officials concluded the threat was baseless.",
+    "Police in Copenhagen said officers had attended the airport for a second consecutive day in connection with threats aimed at air traffic. They added that passengers faced no danger and that flights had not been disrupted.",
+    "The report stresses that bomb threats are not rare, but a run of them in such a short span is out of the ordinary. It sets the episode against rising geopolitical tension with Russia and a string of hybrid attacks that have unsettled Europe. The sources do not say who is responsible or whether any connection to those tensions has been established."
+   ],
+   "cav": "The summary describes newsrooms evacuated across Ireland, but the article reports the evacuation only at RTE, with other organisations taking unspecified security measures. The claim that the same group sent threats to airlines and media comes from an RTE reporter and has not been confirmed by officials. Links to Russia are presented as context, not as established fact.",
+   "op": "Threats designed to frighten should not be allowed to hollow out public life. The answer is transparency: officials should explain the investigation as it proceeds, so newsrooms, airlines and citizens can judge the risk rather than guess. Reporting every threat to police, as the Taoiseach urged, is the right instinct.",
+   "confirmed": false,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-flights/a-79875884?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-48a26be0d0669fa5",
+   "member_ids": [
+    "w-48a26be0d0669fa5"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-06T12:45:45+00:00",
+   "t": "Global stocks tumble as tech fears follow Democrats’ midterm win",
+   "s": "Asian markets fell sharply after a heavy sell-off on Wall Street, as investors worried that a Democratic midterm victory could slow the tech investment boom. The Guardian’s live business coverage tracked the losses.",
+   "p": [
+    "Markets across the Asia-Pacific region opened deep in the red after Wall Street suffered steep losses, according to the Guardian’s rolling business coverage. Investors fear that the Democrats’ strong performance in this week’s midterm elections could curb spending on the tech sector’s growth engine.",
+    "Japan’s Nikkei lost almost 6%, its steepest one-day fall since April 7 2025, when tariff worries rattled investors. South Korea’s KOSPI slid 6.7%, while Taiwan’s TAIEX shed 4.5%, the report said.",
+    "The Guardian reported that more than $3.2tn was erased from the US stock market the previous day. The Nasdaq tech index fell 5.5%, the Dow Jones Industrial Average dropped 1,833.06 points, or 3.44%, and the S&P 500 declined 4.36%.",
+    "Makers of memory chips, which had benefited most from the tech spending wave, bore the brunt of the selling. SanDisk dropped 22%, and both Micron and AMD gave up 17% of their value, according to the same account.",
+    "Christopher Forbes, head of Asia and Middle East at CMC Markets, described the session as “a bit of a disaster”. He told Reuters that clients were facing margin calls and complaints, and suggested the shift could signal a wider policy pullback affecting data centres, approvals and equity fundraising.",
+    "Analysts blamed policy uncertainty. Democrats have been more critical of data centres, a stance that could slow the build-out of new computing capacity, particularly given public unease about the sector. Kyle Rodda of Capital.com called the selling a “brutal sell-off”.",
+    "The Guardian noted that nerves were already present before the vote. Overall earnings have disappointed, with the Magnificent Seven companies falling short of growth forecasts and hinting that spending is cooling. The Nasdaq Composite remains up 4.6% since January, though it is more than 10% below its peak.",
+    "Traders are also waiting for the latest US jobs report, which may shed light on the strength of the labour market."
+   ],
+   "cav": "All figures and quotes come from a single live-blog summary by The Guardian, and the report links the sell-off to the midterms through analysts’ interpretation rather than direct evidence. The summary does not explain which Democratic policies would be enacted, and the $3.2tn figure is not independently confirmed here.",
+   "op": "Markets are right to question who bears the cost of a tech boom built on lofty valuations. Policy uncertainty should be settled through open rules and public debate, not left to investor panic. Clear, transparent rules for data centres would serve savers far better than sudden swings in sentiment.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/d02c71f8ac66f5a933ce9e066d4f0fc73a05d3a5/282_0_3436_2750/master/3436.jpg?width=140&quality=85&auto=format&fit=max&s=53290422c3f4fcd63d98da31547a524d",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+  },
+  {
+   "id": "w-fb49530c7306dd97",
+   "member_ids": [
+    "w-fb49530c7306dd97",
+    "w-6e6d0559b30fb175"
+   ],
+   "section": "World",
+   "published_at": "2026-11-06T12:33:32+00:00",
+   "t": "Pope Leo XIV sets off on South America tour, starting in Uruguay",
+   "s": "Pope Leo XIV left Rome on Friday for a tour of Uruguay, Argentina and Peru, which DW describes as the longest and farthest trip of his papacy so far. The Vatican says he is in good health, while DW reports that he is recovering from recent cancer surgery.",
+   "p": [
+    "The pope’s departure from Rome took place shortly after 7 am on Friday, according to the Vatican. Leo is due to touch down in Montevideo, the Uruguayan capital, in the late afternoon local time. The Chicago-born pontiff is starting a journey that will also bring him to Argentina and to Peru, a country where he spent years as a missionary and later as a bishop.",
+    "Leo’s schedule in Uruguay runs for three days. He will hold talks with President Yamandú Orsi and speak to government officials and diplomats. He is also set to lead Vespers at the Montevideo Metropolitan Cathedral and to visit a neighborhood marked by gang violence. Trips to Paysandú and Florida are planned later in the visit.",
+    "From Uruguay the pope moves on to Argentina, with stops in Buenos Aires, Córdoba and Luján. Euronews names these cities but does not mention political meetings. DW reports that Leo is expected to meet President Javier Milei, whose spending cuts have drawn criticism from the Church for hurting social programmes. DW adds that he also plans to meet business figures, unions and social groups.",
+    "In Peru, Euronews lists Chiclayo, Cusco and Pucallpa as stops. DW says the pope will also say Mass in the mountain village of Santa Cruz de Succhabamba and will go to the Amazon city of Pucallpa to meet indigenous communities. DW also points out that Peru’s Catholic population has dropped from 76% in 2013-2014 to roughly 67%.",
+    "Leo’s health is a point of uncertainty. DW says the 71-year-old is recovering from lung cancer surgery performed only three weeks ago. Euronews quotes Maria Montserrat Alvar, the Vatican’s new communications chief, who described the pope’s stamina as excellent and said his doctors feel “very confident”.",
+    "DW describes Uruguay as the most secular country in Latin America. It was the first nation to legalise recreational marijuana and has since approved abortion, same-sex marriage and assisted dying, all over Church objections. Even so, tickets for his prayer vigil at Montevideo’s Centenario Stadium sold out within two days.",
+    "DW also notes that Latin America holds about 40% of the world’s 1.4 billion Catholics, though fewer people there now identify as Catholic. In Argentina, DW cites Pew Research Center figures showing that the share of Catholics fell from roughly 71% at the start of Francis’s papacy to 58% by 2024."
+   ],
+   "cav": "Euronews and DW both describe the Peru stops, and DW adds one Mass site, so the two lists do not conflict. Euronews does not mention a meeting with Milei, which appears only in DW, and the cancer surgery is reported by DW alone. The Vatican’s reassurance about the pope’s health comes through a Euronews quotation.",
+   "op": "A papal tour is a religious event, but the public has a fair interest in the health of a 71-year-old leader on a long journey. Official reassurances are welcome, yet they cannot replace clear, direct information. The Vatican should be open about the pope’s condition so that the faithful and observers can judge for themselves.",
+   "confirmed": true,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-155a35c1e346259d",
+   "member_ids": [
+    "w-155a35c1e346259d",
+    "w-ecd3dc8faa60e1ab"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-06T12:24:52+00:00",
+   "t": "Court pauses work on Trump’s Washington arch for two weeks",
+   "s": "A federal judge has put a 14-day hold on building the 250-foot arch Donald Trump wants in Washington, DC. The hold came shortly after a federal planning panel signed off on the design.",
+   "p": [
+    "Judge Tanya Chutkan issued the order on Friday, according to Al Jazeera. The administration had said building could start as early as Thursday, so the pause arrives just before work was expected to begin.",
+    "The National Capital Planning Commission backed the project by 8-4 after a nine-hour session on Thursday. Dozens of people who oppose the arch spoke against it during that session.",
+    "The decision comes amid several lawsuits against the project. A group of Vietnam War veterans filed one in February. Their filing argues that the arch, planned near Arlington National Cemetery, could obstruct the sightline between the graves and the Lincoln Memorial, a view they describe as deliberately designed to represent national unity.",
+    "Trump first floated the arch last year as a way to commemorate the country’s 250th anniversary. He has pointed to Paris’s Arc de Triomphe, completed in 1836, as a model.",
+    "The arch is one of several Washington projects Trump has put forward. On Friday he also signed a proclamation turning the Oval Office and Cabinet Room into a national monument. Al Jazeera noted that judges have previously blocked many of his plans, and that Democrats’ midterm victories this week could bring those plans under closer review."
+   ],
+   "cav": "The sources describe the pause as temporary and do not say what happens when it ends or how the court will rule on the merits. The veterans’ sightline concerns are claims made in their filing and have not been tested in court. NPR’s summary is brief and does not give the court details or the planning vote.",
+   "op": "Monuments meant to unite a nation should be approved through open, accountable review that gives objectors a real hearing. An 8-4 vote after dozens of objections does not by itself show the process was sound. Courts should test it, and the government should welcome that scrutiny.",
+   "confirmed": true,
+   "src": [
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss"
+    ]
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-152213",
+   "img_outlet": "NPR",
+   "img_link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
+  },
+  {
+   "id": "w-d27cebb427ced91f",
+   "member_ids": [
+    "w-d27cebb427ced91f"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-06T12:00:42+00:00",
+   "t": "Iranians Uncertain After Trump Midterm Setback as Repression Continues",
+   "s": "Iranian officials have celebrated the Republican midterm losses as a rejection of Trump’s war, while people interviewed inside Iran say they expect repression at home to continue whatever happens in Washington, according to The Guardian.",
+   "p": [
+    "Within hours of the US midterm results, which dealt a heavy blow to the Republican party, supporters of the regime gathered in Tehran’s Enghelab Square and burned a large banner depicting Donald Trump, JD Vance, envoy Steve Witkoff and Israeli prime minister Benjamin Netanyahu. Officials have since made combative statements framing the losses as a verdict against Trump’s war on Iran, according to The Guardian.",
+    "Supreme leader Mojtaba Khamenei, whose father Ali Khamenei was killed in strikes in February, declared that the American system was already breaking down. The report adds that state television aired a staged hanging of Trump in Tajrish Square, with an actor wearing a Trump mask and an orange jail uniform.",
+    "Among ordinary Iranians the atmosphere is far more guarded. Many point to a deteriorating economy and do not know what Trump’s setback will mean for their lives. Mehnaz, a Tehran-based journalist, described a mood close to hopelessness, with people trying to work out what comes next.",
+    "Some of the people Mehnaz has spoken to think the midterm loss raises the risk of a renewed full-scale war, since Trump no longer needs to face voters. She is more worried about the regime itself, which she says has been executing people every day, and she expects that to continue with or without a war.",
+    "The Oslo-based group Iran Human Rights (IHR) reports that at least 696 people have been executed in Iran this year. The article does not explain how that count was assembled.",
+    "Alborz, a 36-year-old writer in Tehran, describes shops where people still browse but rarely buy, because prices have climbed so steeply that a single T-shirt now costs what a suit did a year ago. He also says people around him believe a full-scale war is less likely now, though he adds that no one can be certain.",
+    "Noor, 24, from Karaj, spent three weeks in prison after joining protests in January and says she was arrested during the war. She describes the security apparatus as a “well-oiled machine” that keeps working whatever the state of the conflict. Asked about the days ahead, she said no one inside the country can predict what comes next, adding that people have been bracing for the worst all year.",
+    "Moein, a medic in central Iran, says he had underestimated the Islamic Revolutionary Guard Corps, both the loyalty of its members and its strategic skill. He sees a painful paradox in a state that has survived decades of sanctions yet turns its coercive power on its own citizens. Mehnaz, for her part, calls the pro-government celebrations increasingly outrageous, arguing that the Guards have found a new reason to hope for survival."
+   ],
+   "cav": "The accounts from Tehran, Karaj and central Iran are personal interviews and cannot be independently verified from the article alone. The 696 execution figure comes from a single NGO, and the report does not say whether the mock hanging and official statements reflect wider policy. It also does not say whether the midterm result will change US policy toward Iran.",
+   "op": "Official celebrations of a foreign election loss do not answer the question Iranians face at home: what happens to people jailed and executed by their own state. Transparent counts of executions and steady pressure on Tehran would serve those people far better than bonfires and banners. A regime’s confidence should not be measured by the effigies it burns.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/4ad2db19fb3f60969ae35182069c0d53b9e8b31c/932_256_4639_3711/master/4639.jpg?width=140&quality=85&auto=format&fit=max&s=f02fe56c843fec728a9741594d89f37f",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression"
+  },
+  {
+   "id": "w-4baea1587b4eb8d1",
+   "member_ids": [
+    "w-4baea1587b4eb8d1"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-06T06:36:20+00:00",
+   "t": "Judge halts Trump’s triumphal arch construction for 14 days after contested planning approval",
+   "s": "A federal judge has temporarily blocked building work on a planned triumphal arch in Washington that Donald Trump champions. The order arrived hours after a federal planning panel signed off on the monument.",
+   "p": [
+    "Judge Tanya Chutkan, a US district judge, issued a 14-day temporary restraining order in the early hours of Friday, according to the Guardian. The order stops construction on the 250-foot (76-meter) arch.",
+    "The ruling came after a day of government actions. On Thursday the National Capital Planning Commission gave final approval to the structure by an 8-4 vote, at the end of a hearing lasting nearly nine and a half hours. Dozens of witnesses spoke against the plan during that session.",
+    "According to the report, the administration had said building could begin once three steps were complete: the planning approval, a final decision from the interior department authorising construction, and a notice published by the National Park Service.",
+    "Chutkan agreed to the request of the most recent plaintiffs in lawsuits against the arch. She also combined cases brought by the District of Columbia and Virginia with a case filed by a group of Vietnam veterans and an architectural historian.",
+    "The report says it is unclear how much the arch would cost or where the money would come from, though some estimates have reached $100m.",
+    "The commission’s vote split along federal and local lines. Members backing the project were tied to the administration or to the president, while opponents spoke for the city of Washington. The remote hearing repeatedly malfunctioned early on, and many witnesses argued that the arch would erode the dignity of nearby Arlington National Cemetery.",
+    "Mark Paoletta, the commission’s Trump-appointed chair, praised the monument and said Trump was right to want grand monuments. Paoletta is also general counsel for the White House Office of Management and Budget. Commissioner Paul Ingrassia, a General Services Administration lawyer, called the arch “not about politics” but about remembrance and honouring veterans.",
+    "Phil Mendelson, a DC council member who also sits on the panel, argued that Congress had not approved the project or appropriated funds for it. He also said the submitted plans omitted the military use that Trump and other officials had cited. Representative Jared Huffman, a California Democrat who is set to chair the House Natural Resources Committee, called the project ill-advised and illegal, describing it as “a tribute to Donald Trump” rather than to veterans."
+   ],
+   "cav": "This account rests on a single outlet, and the restraining order is temporary, so the legal outcome is open. The administration’s stated aims, and claims about congressional approval and military use, come second-hand or from critics. Huffman’s description of the arch is his own opinion.",
+   "op": "A monument of this scale should not advance on the timetable of the official who wants it built, least of all when critics say Congress has neither approved nor funded it. Courts and the public deserve clear answers on approval, cost and purpose before any concrete is poured. Speed is no substitute for accountability.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/80501b103a6ec118c03b3ae74e80f2703d3be4e3/1131_0_5655_4526/master/5655.jpg?width=140&quality=85&auto=format&fit=max&s=b431b56d08712b5a12d892968bed48ce",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington"
+  },
   {
    "id": "w-3dc806a800bb1540",
    "member_ids": [
