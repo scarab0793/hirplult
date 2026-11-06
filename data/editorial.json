@@ -861,38 +861,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-368801829665398121",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T12:12:00+00:00",
-      "t": "Lemondását ajánlotta fel a belga kormányfő, a király még nem döntött",
-      "s": "Bart De Wever belga kormányfő hétfőn felajánlotta lemondását, miután a koalíció költségvetési egyeztetése eredmény nélkül ért véget. Fülöp király egyelőre nem fogadta el a lemondást, és kompromisszumot kér a pártoktól.",
-      "p": [
-        "A Portfolio a Le Soir belga lap beszámolójára hivatkozva közölte, hogy a kormányfő hétfőn ajánlotta fel lemondását. A háttérben az áll, hogy az ötpárti koalíció pártjai az éjszaka folyamán sem tudtak közös álláspontra jutni a költségvetésről, így a kormány egyik legfontosabb próbáját nem sikerült kiállnia.",
-        "Az uralkodó a döntést egyelőre felfüggesztette. Kedden a kormánypártok vezetőivel tárgyal, pénteken pedig ismét fogadja De Wever-t. Fülöp szerint Belgium a geopolitikai bizonytalanság és a gazdasági nehézségek idején nem engedheti meg magának a hosszú politikai válságot, ezért kompromisszumra biztatott.",
-        "A koalíció a 2029-ig tervezett hiánycsökkentésről nem tudott megállapodni. A kormányfő arra figyelmeztette partnereit, hogy megegyezés nélkül a hitelminősítők leminősíthetik az országot, és pénzügyi kockázatok is felmerülhetnek.",
-        "A tárgyalások egyik vitapontja az volt, hogy 2027-et átmeneti, havi kiadási keretekkel kezdjék-e. De Wever ezt elutasította. Két javaslatát, a miniszteri fizetések csökkentését a tárgyalások idejére, illetve a bérek inflációkövető emelésének befagyasztását, a partnerek sem támogatták.",
-        "A legnagyobb törésvonal az adóemelések és a kiadáscsökkentések aránya. A frankofón liberális MR elutasította az áfa egy százalékponttal történő emelését. A flamand szociáldemokrata Vooruit ezzel szemben az egészségügyi és szociális ellátások inflációkövetését érintő megtakarításokat blokkolta, amelyek az áfa-emelést váltották volna ki. A centrista Les Engagés vasárnap az MR álláspontját erősítette meg, és inkább a tőkenyereség, a tőzsdei ügyletek és egyes vállalati konstrukciók szigorúbb megadóztatását javasolta.",
-        "Egy liberális politikus szerint a közkiadásokat csökkentő reformok nélkül a hiány tovább nő, és újabb adókkal már nem lehet ellensúlyozni. A gazdasági növekedés élénkítését tartotta a rendezett államháztartás feltételének. A flamand kereszténydemokrata CD&V a tárgyalások mielőbbi folytatását sürgette. A Le Soir szerint egyik miniszterelnök-helyettes sem akarja a kormány működésének végét, így a király konzultációi újabb esélyt adhatnak a megegyezésre, bár a koalíció már több saját határidejét is elmulasztotta."
-      ],
-      "cav": "A cikk a Portfolio összefoglalójára épül, amely a Le Soir beszámolóját idézi, így az információk másodkézből származnak. Az forrásokból nem derül ki, hogyan dönt végül a király, és a koalíció jövője nyitott. A nézetkülönbségek a pártok nyilatkozataira támaszkodnak, a konkrét költségvetési számok közül pedig több nincs közölve.",
-      "op": "Egy költségvetési vita elakadása önmagában nem válság, de most a kormányzati hitelesség és a kiszámíthatóság a tét. Szerintünk a pártoknak nyilvánosan meg kellene nevezniük, melyik adóemelést és melyik kiadáscsökkentést támogatják, és ezt számokkal is alá kellene támasztaniuk.",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/gazdasag/20261102/megbukott-a-kormany-de-aztan-megsem-lehetetlen-helyzet-alakul-brusszelben-873614"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/c/a/0/ca00795a-64d9-4e7b-8061-048f12fb99ad-795504.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/gazdasag/20261102/megbukott-a-kormany-de-aztan-megsem-lehetetlen-helyzet-alakul-brusszelben-873614",
-      "cred": "Kép: Portfolio – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-109a99a8129e52f9d0",
       "r": "Külföld",
       "c": "Hírpult",
@@ -1064,7 +1032,7 @@
       "r": "Külföld",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 2.",
       "published_at": "2026-11-02T12:20:35+00:00",
       "t": "Lemondását nyújtotta be a belga miniszterelnök a 2027-es költségvetés körüli vita után",
@@ -1084,6 +1052,10 @@
         [
           "HVG",
           "https://hvg.hu/vilag/20261102_belga-miniszterelnok-lemondas-kormanyvalsag-koltsegvetes-belgium"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261102/megbukott-a-kormany-de-aztan-megsem-lehetetlen-helyzet-alakul-brusszelben-873614"
         ]
       ],
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2c0005ad-f08f-495a-9ac9-c6f88148d459.jpg",
@@ -1221,7 +1193,7 @@
       "r": "Belpolitika",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 2.",
       "published_at": "2026-11-02T12:39:16+00:00",
       "t": "Bóka János szerint a 2027-es költségvetési javaslat adóemeléseket hoz, a Fidesz visszavonását kéri",
@@ -1240,6 +1212,10 @@
         [
           "Telex",
           "https://telex.hu/gazdasag/2026/11/02/fidesz-sajtotajekoztato-koltsegvetes-boka-janos-atveres"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/02/fidesz-sajtotajekoztatas-2027-evi-koltsegvetes-boka-janos/"
         ]
       ],
       "img": "https://assets.telex.hu/images/20261102/1793623130-temp-jf6mjv51n4c48bgkpdj_cimlap-normal.jpg",
@@ -1335,37 +1311,6 @@
         [
           "Index",
           "https://index.hu/belfold/2026/11/02/orszaggyules-parlament-magyar-peter-miniszterelnok-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/-nehez-lesz-sokan-fognak-talalni-csaladtagokat-volt-munkatarsakat---magyar-peter-az-ugynokaktakrol/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-d9f08b24730f1e8c53",
-      "r": "Belpolitika",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 2.",
-      "published_at": "2026-11-02T12:32:00+00:00",
-      "t": "A Fidesz visszavonását kezdeményezi a Tisza-kormány 2027-es költségvetési javaslatát",
-      "s": "A Fidesz-frakció a 2027-es költségvetési javaslat visszavonását kezdeményezi, és azt állítja, hogy a tervezet többeket sújt, mint amennyit segít. Az Index hétfői sajtótájékoztatóról beszámolt szerint Bóka János frakcióvezető volt a fő szónok.",
-      "p": [
-        "A Fidesz-frakció hétfői sajtótájékoztatóján Bóka János frakcióvezető bírálta a Tisza-kormány jövő évi költségvetési javaslatát, amelyről az Index számolt be. A frakcióvezető szerint a tervezet a vállalkozásoknak és a gazdaságnak is árt, a teljesítményt pedig büntetni fogja.",
-        "Bóka János szerint a javaslat huszonhat különböző adóemelést vagy új adónem bevezetését tartalmaz. Ezek között szerepel vagyonadó, a társasági adó emelése, innovációs adó, kiskereskedelmi és reklámadó, jövedéki adó, a cégautók adóztatása, a bányajáradék, a szén-dioxid-adó, valamint a kata duplájára emelése. A frakcióvezető szerint a védett ár kivezetése miatt a benzinkutakon jóval többet kell fizetni.",
-        "A politikus azt is állította, hogy a második heti 14. havi nyugdíj-kifizetést nem vezetnék be, ami szerinte egy átlagos nyugdíjas zsebéből 66 ezer forintot vesz ki. Kitért a lakástámogatási rendszer átalakítására is, amelyről azt mondta, akár 16 millió forint többletkiadást jelenthet a fiatalok számára. Szerinte csökken a diákhitelre, a munkáshitelre, a lakástámogatásokra és a babaváróra szánt összeg.",
-        "Bóka János kifogásolta, hogy a béremeléssel kapcsolatos ígéretek a tervezetben szerinte nem jelennek meg. A Fidesz ezért a javaslat visszavonását kezdeményezi, és csak olyan költségvetést támogatna, amely csökkenti az adókat, segíti a vállalkozásokat és tisztességes béremelést valósít meg.",
-        "A sajtótájékoztatón Palóc André fideszes országgyűlési képviselő is felszólalt, és bemutatta a párt által összeállított véleményezést, amely a tervezetet szintén bírálja."
-      ],
-      "cav": "A cikk kizárólag a Fidesz képviselőinek állításaira épül, a kormány vagy a Tisza reakciója nem szerepel benne. A 66 ezer forintos, a 16 milliós és a huszonhat adóintézkedésre vonatkozó számok a frakcióvezető állításai, a forrásokban nem szerepel ellenőrzésük vagy a tervezet részletes szövege.",
-      "op": "Egy költségvetési tervezet vitája akkor ér valamit, ha a számokat és a hatásokat ellenőrizhető módon ütköztetik. A Fidesz kritikájának érdemi részét a kormány válaszától és a tervezet tényleges szövegétől kellene megítélni, nem egyetlen sajtótájékoztató alapján.",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/02/fidesz-sajtotajekoztatas-2027-evi-koltsegvetes-boka-janos/"
         ]
       ],
       "img": "",
@@ -2972,7 +2917,7 @@
       "r": "Közélet",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T08:41:00+00:00",
       "t": "Bús Balázs letartóztatását december 25-ig meghosszabbították, a törvényszék helybenhagyta",
@@ -2990,71 +2935,16 @@
         [
           "Index",
           "https://index.hu/belfold/2026/11/04/bus-balazs-letartoztatas-kecskemeti-torvenyszek-dontes-karacsony/"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261104_bus-balazs-nka-ugy-letartoztatas-meghosszabbitas-karacsony"
         ]
       ],
       "img": "https://kep.index.hu/1/0/7030/70306/703064/70306449_5186915_b1818a4ebb9ca60c521c7f4d15298dc2_wm.jpg",
       "imgs": "Index",
       "imgl": "https://index.hu/belfold/2026/11/04/bus-balazs-letartoztatas-kecskemeti-torvenyszek-dontes-karacsony/",
       "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-cb07f3277a02663e3c",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T09:05:25+00:00",
-      "t": "Karácsonyig marad rács mögött Bús Balázs, a Kecskeméti Törvényszék meghosszabbította a letartóztatását",
-      "s": "A Kecskeméti Törvényszék újabb időre meghosszabbította Bús Balázs letartóztatását, így a Nemzeti Kulturális Alap volt alelnöke december 25-ig fogdában marad. Őt különösen jelentős vagyoni hátrányt okozó hűtlen kezeléssel gyanúsítják.",
-      "p": [
-        "A bíróság közlése szerint, amelyet az MTI továbbított, a gyanúsított kényszerintézkedését ismét megtoldották, így a volt alelnök a karácsonyi ünnepekig biztosan őrizetben lesz. Óbuda korábbi fideszes polgármesterével szemben a vád szerint az NKA támogatásai körül merült fel a súlyos gyanú.",
-        "Bús Balázst júniusban vették őrizetbe, eleinte harminc napra, majd október végéig hosszabbították az intézkedést. Az ügyészség októberben kérte a további időtartam engedélyezését. A testület szerint továbbra is fennáll a megalapozott gyanú, valamint az, hogy a férfi megszökhet, illetve befolyásolhatja a bizonyítékokat. December 25. után a fenntartáshoz már csak egy tárgyalás tartása vezethet.",
-        "Az ügyészi álláspont szerint a Nemzeti Kulturális Alap 2024 decemberétől kezdve, a jogszabályok és belső szabályok figyelmen kívül hagyásával, 1079 támogatásról döntött, amelyek együttes értéke meghaladja a 17 milliárd forintot. A gyanúsítottat időközben az óbudai korrupciós ügyben is megvádolták, jelenleg a szegedi Csillag börtönben tartózkodik, ahonnan Magyar Péternek üzent."
-      ],
-      "cav": "A forrásokból nem derül ki, milyen bizonyítékokra épül a vád, a 17 milliárdos összeg és az 1079 támogatás az ügyészség állítása, amelyet a bírósági döntés még nem igazolt. Az információk az MTI közlésére támaszkodnak, a börtönből küldött üzenet tartalmáról pedig nincs részlet.",
-      "op": "A letartóztatás meghosszabbítása önmagában nem bűnösség, de ha a közpénzről milliárdos nagyságrendben van szó, a nyilvánosságnak joga van tudni, mi áll a vádak mögött. A bíróság indoklása ismert, az ügyészség számai még nem bizonyítottak. Azt kell számon kérni, halad-e érdemben a nyomozás, nem csak azt, hogy a gyanúsított rács mögött marad-e.",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261104_bus-balazs-nka-ugy-letartoztatas-meghosszabbitas-karacsony"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/12efca20-12bb-4b0b-8c40-eea8d48c32ea.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261104_bus-balazs-nka-ugy-letartoztatas-meghosszabbitas-karacsony",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-05fa51f3c061ffcfa5",
-      "r": "Gazdaság",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T09:05:22+00:00",
-      "t": "Tárkányi Zsolt szerint a Fidesz-kormány közpénzből támogatta volna a CATL debreceni gyárát",
-      "s": "Tárkányi Zsolt tiszás országgyűlési képviselő egy 2022-es szándéknyilatkozatot tett közzé, amely szerint az állam és Debrecen önkormányzata számos területen segítette volna a kínai akkumulátorgyárat. A dokumentumot Magyar Levente államtitkár írta alá.",
-      "p": [
-        "A képviselő bejegyzésében közölt dokumentum szerint az önkormányzat a magántulajdonosoktól megszerzett telkeket saját költségén készítette volna elő a CATL számára. A nyilatkozat szövege szerint a cég „nem köteles a telekáron felül” semmilyen díjat vagy költséget viselni.",
-        "Az ismertetett szöveg alapján a kormány vállalta, hogy a Debrecen 50 kilométeres körzetében, legalább 100 hektáros területekből listát készít a további gyáregységek számára. A munkaerő behozatalát is segítették volna: a bevándorlási és más hivatalokban ügyfélkapcsolati munkatársak gyorsították volna az ügyintézést.",
-        "Tárkányi Zsolt szerint a CATL hosszú távon 1000-2000 körüli, EU-n kívüli munkavállalót igényelt volna. A nyilvánosságra hozott dokumentum ezen túl bérlakásokat és közpénzből finanszírozott képzéseket is említ, a képzési támogatás mértékéről azonban a szöveg ellentmondásos.",
-        "A képviselő állítása szerint a Fidesz-kormány éveken át eltitkolta a dokumentumot. Ezt az állítást a források csak Tárkányi közleményéből ismerik, a kormány vagy a CATL reagálása nem szerepel az anyagban."
-      ],
-      "cav": "Az információk egy ellenzéki országgyűlési képviselő közléséből származnak, a teljes dokumentum hitelességét a források nem vizsgálják. A képzési támogatás összege a szövegben ellentmondásos, és a kormány vagy a cég álláspontja nem ismert.",
-      "op": "Ha egy beruházás ennyi közpénzt és közigazgatási segítséget kap, a nyilvánosságnak joga van tudni, kinek mit ígértek. A titkolózás évekig tartó gyanút szül, és ezt nem a szándéknyilatkozat tartalma, hanem a hallgatás táplálja. Miért nem került hamarabb nyilvánosságra?",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/fn/gazdasag/2026/11/04/tarkanyi-zsolt-szijjarto-catl-szandeknyilatkozat/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/catl-e1793782994771-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/fn/gazdasag/2026/11/04/tarkanyi-zsolt-szijjarto-catl-szandeknyilatkozat/",
-      "cred": "Kép: 24.hu – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -3188,7 +3078,7 @@
       "r": "Gazdaság",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T08:40:40+00:00",
       "t": "Tárkányi Zsolt szerint az Orbán-kormány közpénzből vállalt támogatásokat a CATL debreceni beruházásához",
@@ -3206,6 +3096,10 @@
         [
           "444",
           "https://444.hu/2026/11/04/orbanek-meg-azt-is-beigertek-a-catl-nek-hogy-a-behozott-azsiai-munkavallalokat-is-magyar-kozpenzbol-kepzik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/fn/gazdasag/2026/11/04/tarkanyi-zsolt-szijjarto-catl-szandeknyilatkozat/"
         ]
       ],
       "img": "https://assets.4cdn.hu/kraken/8Opk6uFXUPJs29A1Qms.jpeg",
@@ -3539,7 +3433,7 @@
       "r": "Közélet",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T12:16:33+00:00",
       "t": "Tarr Zoltán édesapja neve is felbukkant a megnyitott állambiztonsági iratok között",
@@ -3559,12 +3453,16 @@
         [
           "Blikk",
           "https://www.blikk.hu/politika/magyar-politika/tarr-zoltan-apja-ugynokaktak/1xjddqb"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261104_tarr-zoltan-apja-beszerveztek"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7fffd986-2686-4b96-b5a5-aa1989dfae05.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261104_tarr-zoltan-apja-beszerveztek",
+      "cred": "Kép: HVG – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -3603,7 +3501,7 @@
       "r": "Közélet",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T11:56:00+00:00",
       "t": "Lefoglalták a lélegeztetőgép-beszerzések bizonyítékait a Külügyminisztériumban",
@@ -3621,6 +3519,10 @@
         [
           "Index",
           "https://index.hu/belfold/2026/11/04/kulugyminiszterium-lelegeztetogep-nemzeti-nyomozo-iroda-lefoglalas/"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/fn/gazdasag/2026/11/04/nni-bizonyitekok-lefoglalas-lkulugyminiszteriumbam-lelegeztetogep-biznisz/"
         ]
       ],
       "img": "https://kep.index.hu/1/0/7049/70499/704998/70499883_5200763_fb5a439c260a74ae9e23cf9965bd720f_wm.jpg",
@@ -3661,68 +3563,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-603d90da980eeedd13",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T11:26:19+00:00",
-      "t": "Tarr Zoltán szerint édesapja nem volt ügynök, a HVG beszervezési kartont talált",
-      "s": "A HVG a nyitottaktak.hu oldalon közzétett dokumentumok között megtalálta Tarr Kálmán református lelkész beszervezési kartonját. Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter szerint édesapja nem végzett ügynöki tevékenységet.",
-      "p": [
-        "A HVG tudósítása szerint Tarr Kálmán református lelkészt 1984-ben szervezték be hazafias alapon, Kovács Kálmán fedőnéven volt titkos megbízott. A lap a nyitottaktak.hu oldalon nyilvánosságra hozott anyagok között bukkant a kartonra, amely a beszervezés tényét rögzíti.",
-        "Tarr Zoltán miniszter a lapnak azt mondta, tudott arról, hogy az állambiztonság megkörnyékezte édesapját, és hogy a 6-os karton kiállításra került. Hozzátette, hogy az édesapja nem folytatott ügynöki tevékenységet és nem adott le jelentéseket.",
-        "A miniszter szerint édesapja írásos igazolással is rendelkezett arról, hogy nem volt ügynök. Az igazolást egy 2002-es bizottsági határozatra hivatkozva idézte, amely szerint az érintett nem végzett az érintett törvény szerinti tevékenységet. Az idézett határozat szövegét a cikk nem közli teljes terjedelmében.",
-        "Tarr Zoltán azt is közölte, hogy a családban ismert volt az édesapja története. Szerinte a most nyilvánosságra kerülő iratok nem szolgáltatnak új információt, így a döntés a téma lezárását jelenti számára.",
-        "A HVG háttéranyagként egy másik interjút is felhasznált, amelyben Takács Tibor történész az állambiztonság Kádár-korabeli működéséről beszélt. Ez az általános kontextus, Tarr Kálmán ügyére vonatkozó állításokat a cikk nem támasztja alá vele.",
-        "Tarr Kálmán 1947-ben született és 2020-ban hunyt el. Kálvin János Kiadó alapító igazgatójaként és a Magyar Bibliatársulat főtitkáraként ismert volt a református egyházi életben, a cikk szerint pedig a kiadás és a szöveggondozás terén végzett munkájáról."
-      ],
-      "cav": "A nem-ügynöki státuszról szóló állítás a miniszter saját értelmezése, a 2002-es határozat tartalmát a cikk nem ellenőrzi teljes szövegben. A beszervezési karton és a miniszteri nyilatkozat ellentmond egymásnak, a források nem döntik el egyértelműen, mit jelent a kartonban szereplő bejegyzés.",
-      "op": "Ha egy közszereplő családi múltja dokumentumokban is megjelenik, a lezárás nem a miniszter mondatától lesz érvényes. A nyilvánosság ellenőrzési jog, nem kegy, és a teljes határozat közzététele tisztázhatná, miért tekinti a kérdést véglegesen lezártnak.",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261104_tarr-zoltan-apja-beszerveztek"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/7fffd986-2686-4b96-b5a5-aa1989dfae05.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261104_tarr-zoltan-apja-beszerveztek",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-b2177e4c916afd3c1a",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T11:21:58+00:00",
-      "t": "Lefoglalták a bizonyítékokat a Külügyminisztériumban a lélegeztetőgép-beszerzések ügyében",
-      "s": "A Nemzeti Nyomozó Iroda a 2020-as lélegeztetőgép-beszerzésekkel kapcsolatos ügyben foglalt le bizonyítékokat a Külügyminisztériumban, a bejelentést Orbán Anita tette közzé Facebook-bejegyzésben. A tárca korábban belső vizsgálatot indított, majd ismeretlen tettes ellen tett feljelentést.",
-      "p": [
-        "Orbán Anita közösségi oldalán számolt be arról, hogy a lefoglalás a beszerzésekhez kapcsolódó dokumentumokat érinti. A bejelentés szerint a nyomozók a minisztériumban keletkezett anyagokat vették birtokba.",
-        "A tárca az idei nyáron átvilágította a 2020-as Covid-beszerzéseket, és feljelentést tett ismeretlen elkövető ellen. Az átvizsgálás során a minisztérium szerint nem került elő olyan irat, amely egyértelműen megmutatná, milyen szempontok alapján határozták meg a szükséges mennyiséget és választották ki a szállítókat. Állítása szerint a vásárlások akár százmilliárdos nagyságrendű kárt okozhattak az államnak.",
-        "Októberben a Győri Járásbíróság két személy letartóztatásáról döntött. A vádhatóság állítása szerint az egyikük a cégcsoport könyvelését látta el, a másik pedig a pénz egy részét egy külföldi cég számlájáról készpénzben vette ki. A gyanú szerint a csoport több mint 3 milliárd forint hasznot tisztított meg, és 660 millió forint adót kerülhetett el, ezt az MTI tudósítása említi.",
-        "A NAV nyomozói október 27-én hajnalban több magyarországi helyszínen, Ausztriában pedig jogsegéllyel hajtottak végre akciót. A hatóságok 1,5 milliárd forintnyi vagyont foglaltak le és zároltak, több embert gyanúsítottként hallgattak ki, közülük kettőt őrizetbe vettek."
-      ],
-      "cav": "A minisztérium kártételre vonatkozó állítása és a bűnszervezeti gyanú egyelőre nem bizonyított, mindkettő a hatóságok közlésén alapul. A pénzügyi adatok többsége másodkézből, az MTI tudósítása alapján származik, a forrásokból nem derül ki, mely részek kerültek már bírósági szakaszba.",
-      "op": "Ha az állam többmilliárdos kárról beszél, a nyilvánosságnak joga van tudni, ki döntött a beszerzésekről és milyen alapon. Egy belső vizsgálat csak akkor ér valamit, ha eredményei ellenőrizhetők, különben a közpénz sorsa továbbra is zárt ajtók mögött dől el.„]",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/fn/gazdasag/2026/11/04/nni-bizonyitekok-lefoglalas-lkulugyminiszteriumbam-lelegeztetogep-biznisz/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/szijjarto_central-1140782302-e1793791299950-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/fn/gazdasag/2026/11/04/nni-bizonyitekok-lefoglalas-lkulugyminiszteriumbam-lelegeztetogep-biznisz/",
-      "cred": "Kép: 24.hu – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-2ca168b8e6959114d0",
       "r": "Közélet",
       "c": "Hírpult",
@@ -3749,34 +3589,7 @@
         [
           "Index",
           "https://index.hu/kultur/2026/11/04/ugynokaktak-szikora-robert-halozati-szemely-nyitott-aktak-r-go-enekes/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/6744/67448/674487/67448755_4979999_9597d7c47bb212c19f5bf5595d172126_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/kultur/2026/11/04/ugynokaktak-szikora-robert-halozati-szemely-nyitott-aktak-r-go-enekes/",
-      "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-11c854618340e9c60e",
-      "r": "Kultúra",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Megerősített",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T12:31:47+00:00",
-      "t": "Szikora Róbert tagadja, hogy jelentett volna az ügynökakták szerint",
-      "s": "Az ügynökakták november 4-i nyilvánosságra kerülésekor Szikora Róbert neve hálózati személyként szerepelt. Az énekes határozottan tagadja, hogy beszervezési nyilatkozatot írt volna alá vagy bárkiről jelentett volna.",
-      "p": [
-        "A nyitottaktak.hu oldalon 2026. november 4-én nyilvánossá vált egykori állambiztonsági hálózati nyilvántartások szerint Szikora Róbert, a Hungária tagja és az R-Go frontembere NANU-NANU néven szerepel. Az iratok szerint 1984. február 10-étől került be a rendszerbe, hivatásos előadóművészként, az Országos Rendező Iroda alkalmazásában, hazafias alapon szervezték be.",
-        "A Blikk beszámolója szerint az énekes határozottan visszautasítja, hogy ügynök lett volna. Azt mondta, soha nem írt alá beszervezést, nem jelentett senkiről, és azt sem tudja, ki és miért adta a fedőnevet. Egy másik beszámoló az Index megkeresésére adott válaszát idézi, amely szerint Szikora kategorikusan kijelentette: nem jelentett senkiről.",
-        "Az énekes a nyolcvanas évek koncertszervezési gyakorlatát idézte fel. Szerinte a zenekar vezetőjeként a fellépések előtt az ORI vezetésével és a rendőrkapitánnyal kellett egyeztetnie, ahol figyelmeztették, mit mondhat, és elvárták, hogy a külföldi utazások után beszámoljon a hangulatról és a disszidensekkel való találkozásokról.",
-        "Az iratokból ugyanakkor nem derül ki egyértelműen, hogy készültek-e jelentések. Az egyik beszámoló szerint a minősítés titkos megbízottat jelöl, ami önmagában sem bizonyítja, hogy valaki másokról írt volna. Az énekes szerint a hatóság szerette volna, ha jelentéseket ír, de erre nem kérték kifejezetten, és ő nem is tett ilyet.",
-        "A nyilvántartásban szereplő több tízezer név között politikusok, művészek és közéleti szereplők is vannak, és nem minden név jelent automatikusan ügynöki tevékenységet. Szikora esetében a dokumentumok és az érintett állítása ellentmond egymásnak, a végső értelmezést a források nem adják meg."
-      ],
-      "cav": "A beszámolók az énekes saját állításait közvetítik, a jelentések meglétére vonatkozó tényeket a közölt iratok nem igazolják egyértelműen. A Blikk és a másik beszámoló részletei eltérő hangsúlyúak, az idézett szavak és a koncertszervezési történetek nem független forrásból származnak.",
-      "op": "A nyilvánosság csak akkor ér valamit, ha az iratok értelmezése nem marad a nyilatkozatok és a névlista közötti üres térben. Egy név az adatbázisban még nem bűn, de a hallgatás sem válasz. Az ügynökakták feldolgozásánál azt kellene megkövetelni, hogy a hatóságok és a sajtó egyaránt megnevezze, mit bizonyít az irat és mit nem.",
-      "src": [
+        ],
         [
           "Blikk",
           "https://www.blikk.hu/sztarvilag/hazai-sztarok/szikora-robert-ugynoklista-megszolalas/5v82xqn"
@@ -3786,10 +3599,10 @@
           "https://24.hu/kultura/2026/11/04/szikora-robert-ugynokaktak-halozati-szemely/"
         ]
       ],
-      "img": "https://s.24.hu/app/uploads/2026/11/central-0528210110-e1793794515189-1024x577.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/kultura/2026/11/04/szikora-robert-ugynokaktak-halozati-szemely/",
-      "cred": "Kép: 24.hu – eredeti cikk",
+      "img": "https://kep.index.hu/1/0/6744/67448/674487/67448755_4979999_9597d7c47bb212c19f5bf5595d172126_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kultur/2026/11/04/ugynokaktak-szikora-robert-halozati-szemely-nyitott-aktak-r-go-enekes/",
+      "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -3860,7 +3673,7 @@
       "r": "Külföld",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T15:55:00+00:00",
       "t": "Peszkov szerint Moszkva bízik abban, hogy Trump folytatja a béketeremtést a félidős választások után",
@@ -3878,6 +3691,14 @@
         [
           "Portfolio",
           "https://www.portfolio.hu/global/20261104/szukszavuan-kommentalta-a-kreml-trump-sulyos-vereseget-ebben-remenykedunk-874302"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/kulpol/2026/11/donald-trump-valasztasi-vereseg-kreml"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas"
         ]
       ],
       "img": "https://pcdn.hu/articles/images-xl/p/u/t/putyin-trump-866928.jpg",
@@ -3923,7 +3744,7 @@
       "r": "Közélet",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 4.",
       "published_at": "2026-11-04T15:06:47+00:00",
       "t": "Szita Károly kartonja nyilvános lett, a kaposvári polgármester tagadja az ügynökséget",
@@ -3942,6 +3763,10 @@
         [
           "HVG",
           "https://hvg.hu/itthon/20261104_szita-karoly-kaposvar-polgarmestere-hatos-karton-ugynokaktak"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/ugynokaktak/2026/11/04/szita-karoly-kaposvar-fidesz-polgarmester-ugynokakta"
         ]
       ],
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/32c04cd8-15c3-491b-b238-bd995f920802.jpg",
@@ -3987,69 +3812,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-232ef0ab43483e89d6",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T14:40:03+00:00",
-      "t": "A Kreml szerint Trump béketárgyalásai a félidős vereség után is folytatódhatnak",
-      "s": "Dmitrij Peszkov, a Kreml szóvivője szerint a washingtoni kongresszusi választás az Egyesült Államok belügye, Moszkva pedig továbbra is számít Donald Trump béketeremtő erőfeszítéseire. A következő háromoldalú tárgyalási forduló időpontját is közölte.",
-      "p": [
-        "Peszkov az orosz elnöki hivatal sajtótájékoztatóján úgy fogalmazott, hogy Donald Trump elnöki megbízatása továbbra is érvényben van, ezért Moszkva szerint a washingtoni vezetés folytatja a béketeremtési törekvéseit. Az Origo beszámolója szerint a szóvivő azt mondta: „Reméljük, hogy mindez folytatódik”.",
-        "A kérdést egy újságíró tette fel, aki arra volt kíváncsi, hogy az amerikai félidős választások befolyásolhatják-e az orosz–amerikai párbeszédet. Arra, hogy az új kongresszusi összetétel akadályozhatja-e Trump törekvéseit, Peszkov röviden válaszolt: ez az Egyesült Államok belügye.",
-        "A november 3-i szavazáson a demokraták mindkét kongresszusi kamarában többséget szereztek. A Decision Desk HQ előzetes adatai szerint a párt 54 szenátusi és 241 képviselőházi helyet nyert, a többséghez 51, illetve 218 mandátum kellett. Ez az Origo szerint húsz év után először fordult elő, hogy egy elnöki párt félidős választáson mindkét kamarát elvesztette.",
-        "A tárgyalások felgyorsulását Vlagyimir Putyin és Steve Witkoff október 21-i szentpétervári találkozója indította el. Peszkov bejelentése szerint a következő háromoldalú fordulót november 10-én és 11-én tartják Abu-Dzabiban, az orosz küldöttséget pedig továbbra is Vlagyimir Megyinszkij vezeti.",
-        "Egyelőre nem tudni, milyen hatással lesz a demokraták kongresszusi többsége Trump mozgásterére és a háború lezárására irányuló diplomáciai folyamatra. A Kreml optimizmusa a forrásban idézett nyilatkozatokon alapul, a demokrata többség konkrét szándékairól a cikk nem ad információt."
-      ],
-      "cav": "A forrás egyetlen cikk, és a Kreml-szóvivő állításait közvetlenül idézi, nem ellenőrzött tényekként. A választási mandátumszámok előzetes adatok, a végleges eredmény ettől eltérhet.",
-      "op": "A Kreml a belpolitikai kérdést egy mondattal elintézte, miközben a béketárgyalások sorsa a nyilvánosság előtt is elszámoltatható kellene hogy legyen. Ha a háromoldalú egyeztetések tartalma zárt marad, a polgárok csak szóvivői mondatokra hagyatkozhatnak. Vajon a most többséghez jutott demokraták kérnek-e majd magyarázatot ezekről a tárgyalásokról?",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/kulpol/2026/11/donald-trump-valasztasi-vereseg-kreml"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/UL0RTbVKE4lhnygllF3UqPumBkaDCeLTD_vlqQjSCj8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzYyYmNmNDkyZTQwYjRkMTliMGFkMjE4NmQ5Zjk0NzM1.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/kulpol/2026/11/donald-trump-valasztasi-vereseg-kreml",
-      "cred": "Kép: Origo – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-b8e58b47adf77dc42a",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T14:22:35+00:00",
-      "t": "Szita Károly tagadja, hogy ügynök volt; kartonját szerdán tették közzé az adatbázisban",
-      "s": "A kaposvári fideszes polgármester szerint a most nyilvánossá vált anyagban nincs új. A nyitottaktak.hu adatbázisába felkerült a neve és a 6-os kartonja, Szita továbbra is tagadja az ügynöklétet.",
-      "p": [
-        "Szita Károly, Kaposvár fideszes polgármestere szerdán lett nyilvános a neve és a 6-os kartonja a nyitottaktak.hu adatbázisában. Reagálásában azt hangsúlyozta, hogy szerinte nincs új információ az ügyben. A kartonban olvasható állítás szerint nemzeti elkötelezettségből vállalta a megbízatást, és titkos megbízottként tevékenykedett.",
-        "A sajtó már 2005-ben beszámolt arról, hogy 1980 és 1989 között Krakus Péter fedőnéven készített jelentéseket az állambiztonságnak. Akkor is elutasította a vádakat, és szerinte a személyes adatait használták vissza, a Krakus Péter fedőnevű ügynök pedig nem ő volt. Szerdán közzétett videójában megismételte, hogy nem volt ügynök, és soha senkinek nem ártott.",
-        "A polgármester úgy véli, hogy az ügynökügyet már 2005-ben is arra használták, hogy ellehetetlenítsék, és ez azóta is minden választás előtt visszatér. Az utolsó voksoláson a szavazatok 52,1 százalékát szerezte meg, így ismét ő lett a város polgármestere.",
-        "Ungváry Krisztián történész a 2005-ös megjelenés után áttekintette a dossziéban található, nem nyilvános jelentéseket. Megállapítása szerint Szita feladata a laktanyák környékén élő külföldiek figyelése volt, emellett a jelentések arra utalnak, hogy a kijelölt feladatokon túl is készségesen tájékoztatta a tartótiszteket. A történész szerint ezekkel az információkkal valószínűleg senkinek nem okozott kárt.",
-        "2018-ban a Magyar Nemzet újabb részleteket közölt a polgármester múltjáról. Ügyvédje hamisnak minősítette az iratokat, és feljelentést tett, az ügyészség azonban vádemelés nélkül zárta le a nyomozást.",
-        "A 24.hu kérdésére Ungváry most úgy fogalmazott, hogy a feltöltött karton részletessége, valamint a naplószám, a dossziészám és az irattári szám önmagában igazolja a beszervezés tényét."
-      ],
-      "cav": "A karton teljes tartalmát a források nem ismertetik, így a beszervezésről szóló állításokat másodkézből, Ungváry értékelése és a karton leírása alapján ismerjük. Szita az ügynökséget továbbra is tagadja, a 2018-as eljárás pedig vádemelés nélkül zárult.",
-      "op": "Egy közszereplő múltjának feltárása nem politikai támadás, hanem ellenőrzési jog. A kérdés az, hogy a dokumentumok hitelességét ki és milyen eljárásban igazolja, és ezt nem a választási kampány ideje dönti el.",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/ugynokaktak/2026/11/04/szita-karoly-kaposvar-fidesz-polgarmester-ugynokakta"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261104/1793802097-temp-ij0p6c7gsit88fhocek_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/ugynokaktak/2026/11/04/szita-karoly-kaposvar-fidesz-polgarmester-ugynokakta",
-      "cred": "Kép: Telex – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-d87c51f724687ea1ef",
       "r": "Közélet",
       "c": "Hírpult",
@@ -4077,6 +3839,10 @@
         [
           "Telex",
           "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/balog-zoltan-nyilas-zoltan-dunamelleki-puspokseg/84zm6d4"
         ]
       ],
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d4e8bbb1-e1be-4aec-84e4-69ba948dea12.jpg",
@@ -4171,99 +3937,6 @@
         [
           "Index",
           "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/a-kreml-remeli-hogy-trump-folytatja-erofesziteseit-az-ukrajnai-rendezes-erdekeben/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-08096a40ff09f0ef12",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T15:34:05+00:00",
-      "t": "A Kreml szerint Trumpnak a félidős választások után is folytatnia kell a béketeremtést",
-      "s": "Dmitrij Peszkov, Vlagyimir Putyin sajtótitkára bízik abban, hogy Donald Trump a félidős választások után is folytatja az ukrajnai konfliktus rendezésére irányuló erőfeszítéseit. A Telex beszámolója szerint a demokraták győzelme után a Kongresszus fékezőerejéről kérdezve Peszkov annyit válaszolt: „ez Amerika belügye”.",
-      "p": [
-        "Oroszország abban bízik, hogy Donald Trump amerikai elnök a félidős választások után is folytatja az ukrajnai háború lezárására irányuló béketeremtő munkáját – közölte szerdán Dmitrij Peszkov, Vlagyimir Putyin sajtótitkára. A Telex a TASZSZ-re hivatkozva írta meg a nyilatkozatot.",
-        "Peszkov szerint már történtek előrelépések, és hamarosan a háromoldalú tárgyalások következő fordulójára kerül sor. Azt is elmondta, hogy Moszkva reméli, Melania Trump humanitárius tevékenysége is folytatódik.",
-        "Arra a kérdésre, hogy a most már demokrata többségű Kongresszus nem fogja-e akadályozni az elnök erőfeszítéseit, a sajtótitkár csak ennyit felelt: „ez Amerika belügye”.",
-        "A forrás szerint a demokraták óriási győzelmet arattak a keddi félidős választásokon, így Trumpnak második elnöksége hátralévő két évében egy teljesen demokrata többségű törvényhozással kell dolgoznia. A cikk szerint a rendeleti kormányzás révén az elnök továbbra is érvényesítheti az akaratát, a külpolitikában pedig a Kongresszus beleszólása kisebb, de a változás a Fehér Házban sem hagyható figyelmen kívül."
-      ],
-      "cav": "Az információk egyetlen forrásból, a Telex összefoglalójából származnak, amely Peszkov nyilatkozatát a TASZSZ-re hivatkozva közli. A „előrelépések” és a „háromoldalú tárgyalások” részleteiből a cikk semmit nem árul el, a midterm-eredményekről szóló keretezést pedig a lap saját hivatkozásai adják, nem a kremlin nyilatkozata.",
-      "op": "A Kreml üzenete elsősorban arról szól, hogy Moszkva a washingtoni belpolitikai erőviszonyokban is lehetőséget lát a saját érdekei szolgálatára. Az ukrajnai béke azonban nem alku tárgya lehet a hatalmi pozíciók fölött. Azt kellene számon kérni, kik és milyen feltételekről tárgyalnak, és ezt a nyilvánosságnak is joga lenne megtudni.",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261104/1793805864-temp-gp0p7qi0uuvm2bbfihd_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/kulfold/2026/11/04/kreml-dmitrij-peszkov-donald-trump-oroszorszag-ukrajna-felidos-valasztas",
-      "cred": "Kép: Telex – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-3093520a43206ab2b3",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T14:36:11+00:00",
-      "t": "Szigeti Ferenc szerint volt megkeresés, de soha nem szervezték be, a dokumentumok szerint mégis szerepel a nyitottaktak.hu oldalon",
-      "s": "A Karthago zenekar vezetője reagált arra, hogy a nyitottaktak.hu felületén közzétett iratok között szerepel a neve. Szigeti Ferenc szerint megkeresés volt, de a beszervezés nem történt meg.",
-      "p": [
-        "A Karthago zenekar vezetője, Szigeti Ferenc az MTI-nek nyilatkozott arról, hogy a nyitottaktak.hu felületen szerdán közzétett dokumentumok között szerepel a 6-os kartonja. Szerinte „Valóban volt egy megkeresés”, de a kísérlet nem járt sikerrel, és soha nem szervezték be.",
-        "A HVG szerint az iratok alapján a rendszerváltás előtt a Magyar Rádió zenei szerkesztőjeként dolgozó Szigeti Ferenc beszervezési időpontja 1988. május 9. volt. A dokumentum szerint a műveletet a Belügyminisztérium III/III-as Főcsoportfőnökségéről Gábor Róbert rendőrszázados végezte, a fedőnév pedig „Csabai Vilmos” volt.",
-        "Szigeti elmondása szerint új útlevelére várt, amikor levélben értesítették, hogy a XIII. kerületbe kell mennie. Ott egy rendőrtiszt arra kérte, hogy beszéljen rá egy zenészbarátját, hogy ne kampányoljon az SZDSZ-nek a koncertjükön. Szigeti azt mondta, nem ígérte meg, hogy intézkedik, csak azt vállalta, hogy beszél a kollégájával, ám ezt később nem tette meg.",
-        "Az elbeszélés szerint a rendőrtiszt nyáron, a balatonszéplaki üdülőben felhívta, és Siófokon találkoztak. Szigeti ezt nem fenyegetésként élte meg, a tiszt pedig azt mondta, hogy a dolog úgysem lesz aktuális. Ezután már nem találkoztak: „Soha többé nem láttam.”",
-        "A nyitottaktak.hu oldalon szerdán vált elérhetővé a rendszerváltás előtti állambiztonsági szolgálatok által beszervezett hálózati személyek neve és adata. A HVG gyűjtése szerint a nevek között politikusok, egyházi személyek, zenészek, színészek, műsorvezetők és ügyvédek is szerepelnek. Az oldal a kormány állítása szerint egykori állambiztonsági ügynökök adatait teszi közzé.",
-        "Az Alkotmányvédelmi Hivatal szerint a listán nem szerepel mindenki: mintegy két és fél ezer, 1990 előtt szolgáló ügynök adatait titokban tartják."
-      ],
-      "cav": "Szigeti Ferenc beszámolója saját emlékezetén alapul, a beszervezés körülményeit a közzétett iratok nem mutatják meg. A források a személyek számában eltérnek: az egyik helyen 60 ezer, máshol 53 ezer hálózati személyről esik szó. A dokumentumok között hamis iratok is lehetnek, a név szerinti azonosítás ezért önmagában nem bizonyít semmit.",
-      "op": "A nyilvánosság ellenőrzési jog, de ehhez az kell, hogy a közölt adatokat a kontextusukkal együtt lehessen értelmezni. Egy név egy irat alapján nem jelent megbélyegzést, és egy emlékezés sem helyettesíti a forrás hitelességének vizsgálatát. Az érintettek jogai és a történelmi igazság csak akkor fér meg egymással, ha a döntéshozók nyíltan megmondják, mit tudnak és mit nem.",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261104_szigeti-ferenc-karthago-beszervezes-ugynokaktak"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/08282c40-d2a5-49f5-abb0-83ec79d0c83b.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/elet/20261104_szigeti-ferenc-karthago-beszervezes-ugynokaktak",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-5594d6497d1dde8fa9",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T16:33:41+00:00",
-      "t": "Nyilas Zoltán András lett a dunamelléki református püspök, Balog Zoltán korszaka véget ért",
-      "s": "A Dunamelléki Református Egyházkerület tisztújításán Nyilas Zoltán András korábbi északpesti esperes kapott bizalmat a püspöki posztra. Az egyházkerületet 2021 óta vezető Balog Zoltán a mostani választáson már nem indult újra.",
-      "p": [
-        "Az egyházkerület hivatalos tájékoztatása szerint a szavazók döntöttek a püspöki székről. A 292 érvényes szavazólap alapján a többséget Nyilas Zoltán szerezte meg, a pontos szavazatszámot a rendelkezésre álló összefoglaló nem közli.",
-        "A világi vezetői tisztséget, a főgondnoki posztot Szathmáry Gergely Zoltán nyerte 164 szavazattal, míg Szalai Zsolt 127 voksot kapott.",
-        "Az új püspök 1999-ben szerzett teológus diplomát a Károli Gáspár Református Egyetemen. Segédlelkészként Őrszentmiklóson kezdte, később Szokolyán szolgált, 2006-tól pedig a Pomáz-Csobánkai Református Társegyházközség parókus lelkésze volt. Az egyházkormányzatban az Északpesti Református Egyházmegyében jegyzőként, főjegyzőként, 2015-től esperesként dolgozott.",
-        "Balog Zoltán, a korábbi emberierőforrás-miniszter 2021 óta irányította az egyházkerületet. Az összefoglaló szerint a 2024-es elnöki kegyelmi botrány után az országos zsinati elnöki posztot feladta, dunamelléki püspökként azonban hivatalban maradt.",
-        "A reformátusok tisztújítása mind a négy magyarországi egyházkerületet érinti, a megválasztott vezetők mandátuma hat évre szól. A folyamat utolsó állomása 2027 februárjában várható, amikor az újonnan felálló Zsinat megválasztja az országos vezetőket."
-      ],
-      "cav": "A forrás nem közli a püspöki választás pontos szavazatszámát, és a 2024-es botrány részleteiről is csak egy mondatot ad. Az adatok az egyházkerület hivatalos tájékoztatásán alapulnak, a többi háttér a cikk saját összefoglalása.",
-      "op": "Egy egyházi tisztújításban is az számít, hogy a szavazás átlátható és ellenőrizhető legyen. A hívek joga tudni, mekkora volt a különbség és milyen múlttal rendelkezik az új vezető. Az egyházkerületnek érdemes lenne közzétennie a részletes eredményt.",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/aktualis/belfold/balog-zoltan-nyilas-zoltan-dunamelleki-puspokseg/84zm6d4"
         ]
       ],
       "img": "",
@@ -4398,37 +4071,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-7a5c6ebd6a2a2bfe69",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T15:54:04+00:00",
-      "t": "Nyilas Zoltán András lett a Dunamelléki Református Egyházkerület új püspöke",
-      "s": "A Dunamelléki Református Egyházkerület új püspöke Nyilas Zoltán András északpesti esperes lett, aki Balog Zoltán utódja. Az egyházkerület szerdai honlapközleménye szerint a szavazatok többségét szerezte meg.",
-      "p": [
-        "Az egyházkerület közlése alapján a püspöki posztra leadott 292 érvényes szavazatból 172 jutott Nyilas Zoltán Andrásra, a másik jelölt, Lovas András 120 voksot kapott. Balog Zoltán 2021 óta vezette az egyházkerületet, most nem indult a választáson.",
-        "A főgondnoki tisztségben Szathmáry Gergely Zoltán lett a győztes, 291 érvényes szavazatból 164-et szerzett, Szalai Zsolt 127 szavazatot kapott. A megbízatások hat évre szólnak.",
-        "Nyilas Zoltán 1975-ben született Budapesten, teológiai tanulmányait 1994 és 1999 között a Károli Gáspár Református Egyetem Hittudományi Karán végezte. Lelkipásztori pályája a Szokolyai Református Egyházközségben és a Pomáz–Csobánkai Református Társegyházközségben folytatódott, 2015 óta északpesti esperes.",
-        "A cikk említi, hogy a kegyelmi ügy kirobbanása után Balog Zoltán lemondott a református egyház zsinati elnökségéről, püspöki címét azonban megtartotta. Az összefüggést a források nem részletezik.",
-        "A tisztújítás a Magyarországi Református Egyházban mind a négy egyházkerületet érinti. Az új zsinat várhatóan 2027 februárjában ülésezik, és ekkor választja meg elnökét, alelnökét és jegyzőit."
-      ],
-      "cav": "A forrás egyetlen cikk, amely az egyházkerület közleményére hivatkozik; a szavazási adatokat a bizottság közölte, függetlenül nem ellenőriztük. Balog Zoltán nem indulásának okáról és a kegyelmi üggyel való kapcsolatáról a szöveg nem nyilatkozik.",
-      "op": "Egy egyházi vezetőváltásnál a nyilvánosság joga ugyanúgy megilleti az híveket, mint bármely közintézmény ügyeit. Üdvözlendő, hogy a szavazatok számai nyilvánosak, de a kegyelmi üggyel összefüggő lemondás hátteréről a közösségnek is joga volna érdemi magyarázatot kapni.„]",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261104/1793807426-temp-me7c06om4hlt3lccmlk_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/04/dunamelleki-reformatus-egyhazkerulet-puspok-nyilas-zoltan-andras-balog-zoltan",
-      "cred": "Kép: Telex – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-9a9a57fef3040752da",
       "r": "Közélet",
       "c": "Hírpult",
@@ -4528,104 +4170,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-499448cdbce4b81b7d",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T12:11:09+00:00",
-      "t": "Varga Mihály meghallgatása kezdődött az MNB-ügyet vizsgáló bizottság előtt, Matolcsy György nem nyilatkozik",
-      "s": "Csütörtökön megkezdődött Varga Mihály meghallgatása az MNB működésével kapcsolatos visszaéléseket vizsgáló parlamenti bizottság előtt. Matolcsy György, akit őrizetbe vettek és letartóztattak, a hallgatás jogával élve nem nyilatkozik, a bizottság pedig később dönt arról, hogyan folytatja a munkáját.",
-      "p": [
-        "Bő egy hónappal Kósa Lajos és Bánki Erik meghallgatása után csütörtökön Varga Mihályt hallgatta meg a vizsgálóbizottság. Az ülést pár perccel 13 óra után kezdte meg a testület. A Telex beszámolója szerint Varga a meghallgatás kezdetére nem érkezett meg a Tisza Kálmán teremhez, de a parlamentben tartózkodott.",
-        "A bizottság eredetileg Matolcsy Györggyel együtt idézte be a jegybank volt vezetőit, ám Matolcsyt azóta letartóztatták, így személyesen nem hallgathatják meg. Az ülés elején Csőszi Attila, a bizottság elnöke ezzel indokolta Matolcsy távollétét. Elmondta, hogy Matolcsy először még eljuttatta a bizottságnak a parlamenti belépéséhez szükséges adatokat, később viszont őrizetbe vették.",
-        "Matolcsy védője, Bátki Pál hosszú levelet küldött, amelyet Csőszi több mint tíz percen keresztül olvasott fel. Ebben közölte, hogy ügyfele a hallgatás jogával él, sem szóbeli, sem írásbeli nyilatkozatot nem tesz, és kérdésekre sem válaszol. A levél szerint egy letartóztatott, de még el nem ítélt személy nyilvános, sajtónyilvános meghallgatása hátrányos, és sérti az emberi méltóságot és az ártatlanság vélelmét. Ha a bizottság mégis meghallgatást tart, azt zárt ülésen tegye, közvetítés és sajtó nélkül. Bátki azt is aggályosnak tartotta, hogy Csőszi korábban „a történelem legnagyobb bankrablásának” nevezte az MNB-ügyet.",
-        "Csőszi továbbra is fontosnak tartja Matolcsy személyes meghallgatását, ezért a Központi Nyomozó Főügyészségtől kért tájékoztatást arról, hogy ez megvalósítható-e. A főügyész helyettese válaszában azt írta, hogy a gyanúsított bizottsági meghallgatása nem veszélyezteti a nyomozást, a gyanúsított azonban nem kíván részt venni rajta. Előállításra nincs törvényes alap, ezért a bizottságnak a büntetés-végrehajtási intézethez kell fordulnia, hogy kiderüljön, megoldható-e a távmeghallgatás.",
-        "A tagok véleménye megoszlott. Hargitai János (KDNP) feleslegesnek tartja Matolcsy meghallgatását, Tuzson Bence (Fidesz) hasonlóan érvelt. Apáti István (Mi Hazánk), a bizottság alelnöke szerint kevés az esély arra, hogy szóra bírnák a volt jegybankelnököt, és patthelyzetre utalt: elővezetni nem lehet, bírságot kiszabni pedig nem érdemes. Weigand István (Tisza) szerint az idézést a letartóztatás előtt, a jogszabályoknak megfelelően küldték ki, a meghallgatás pedig nem sértené Matolcsy jogait. A bizottság végül egyhangúlag úgy döntött, hogy megkeresi az érintett szerveket és Matolcsy ügyvédjét, és egy rövid határidőn belül érkező válasz után új ülésen szavaz a további lehetőségekről.",
-        "Varga Mihály 2013 és 2018 között nemzetgazdasági miniszter, 2018 és 2024 között pénzügyminiszter, 2025-ben pedig Matolcsyt követte a jegybank élén. A beidézése után Facebook-bejegyzésben írta, hogy személyesen vesz részt a meghallgatáson, mivel az MNB korábbi vezetéséhez kötődő ügyek tisztázása mindannyiuk érdeke. Azt is közölte, hogy az új vezetés 2025 áprilisában feljelentést tett az MNB alapítványának ügyében, azóta pedig más ügyekben, de a korábbi vezetést érintően három további feljelentés is született. A beszámoló szerint Varga a meghallgatás elején az MNB függetlenségét hangsúlyozta, és arról beszélt, hogy az alapítványok létrehozása nem példa nélküli Európában. Állítása szerint az Európai Központi Bank is véleményezte az eredeti törvényjavaslatot, és nem kifogásolta azt."
-      ],
-      "cav": "A beszámoló a Telex tudósításán alapul, a Varga Mihály meghallgatásának tartalmáról szóló részek az ő saját érveit tükrözik, és nem ellenőrzött tényeket. Az, hogy a bizottság mikor és milyen formában dönt Matolcsy meghallgatásáról, a források alapján nem derül ki. Bátki Pál levelének tartalmát a Telex olvasta fel, a meghallgatás végkimenetelét pedig a cikk még nem ismerteti.",
-      "op": "Ha egy volt jegybankelnök hallgatással védekezik, a bizottságnak akkor is ki kell derítenie, mit tud az MNB-ügyről, mert a közpénz elszámoltatása nem függhet attól, ki mit hajlandó elmondani. A nyilvánosságot nem szabad a kényelem miatt feláldozni: ha Matolcsy személyes meghallgatását a zárt ülés vagy a patthelyzet elteszi, kinek a bizalmát építi ez a vizsgálat?„]",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/gazdasag/2026/11/05/varga-mihaly-mnb-vizsgalobizottsag-meghallgatas-parlament"
-        ]
-      ],
-      "img": "https://assets.telex.hu/images/20261105/1793884030-temp-q4ld7mjhu5rr8eajaod_cimlap-normal.jpg",
-      "imgs": "Telex",
-      "imgl": "https://telex.hu/gazdasag/2026/11/05/varga-mihaly-mnb-vizsgalobizottsag-meghallgatas-parlament",
-      "cred": "Kép: Telex – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-c2d6f068faac6e7360",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T12:10:23+00:00",
-      "t": "Merkely Béla lemond a Semmelweis Egyetem rektori posztjáról, Magyar Péter szerint „tisztítótűz” halad",
-      "s": "Merkely Béla, a Semmelweis Egyetem rektora bejelentette, hogy az év végével távozik tisztségéből, „bizalmi nehézségekre való tekintettel”. A miniszterelnök Facebook-bejegyzésben reagált a lemondásra.",
-      "p": [
-        "Magyar Péter miniszterelnök a Facebookon azt írta: „Lépésről lépésre halad a tisztítótűz” a felsőoktatásban is. A bejegyzés néhány órával azután jelent meg, hogy Merkely Béla bejelentette távozását.",
-        "Merkely 2018-ban lett a rektor, megbízatása 2028 júniusáig szólt volna. A 2023-as választáson döntő fölénnyel győzött, kihívója Kellermayer Miklós, az orvoskar dékánja volt, aki korábbi kampányvideójában bírálta a rektor tevékenységét.",
-        "Merkelyt korábban összeférhetetlenségi vádak érték, miután kiderült, hogy tulajdonos volt fia cégében, amely az általa vezetett egyetemmel együtt állami pályázatokon nyert százmilliókat. Az ügyben nyomozás indult. A forrás szerint a rektor később kiszállt a cégből, de a projekt így is közpénzt kapott, összesen 600 millió forintot.",
-        "Magyar Hang kiderítése szerint Merkely 2025-ben bruttó 225,5 millió forintot keresett közfeladatai ellátásával összefüggő tisztségeiért. Ezt a HVG a Magyar Hang adatára hivatkozva közli."
-      ],
-      "cav": "A lemondás indokát a rektor szavaival közli a cikk, a „bizalomvesztés” kifejezés azonban már a HVG értelmezése. A jövedelmi adatok és a nyomozás részletei másodkézből származnak, a nyomozás jelenlegi állásáról a forrás nem ír.",
-      "op": "Ha egy egyetemi vezető évekig közpénzes projektek körül mozog, a lemondás önmagában nem zárja le a kérdést. A Semmelweis Egyetem jövője és a közpénzek sorsa szempontjából az lenne a fontos, hogy a nyomozás és a számonkérés is nyilvános legyen.",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261105_halad-a-tisztitotuz-a-felsooktatas-teruleten-is-magyar-peter-reagalt-merkely-bela-rektor-lemondasara"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/f1e03186-19f2-456d-b1f9-d5b7e5f74e7a.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/itthon/20261105_halad-a-tisztitotuz-a-felsooktatas-teruleten-is-magyar-peter-reagalt-merkely-bela-rektor-lemondasara",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-f7fc52cf4e1c2bd1df",
-      "r": "Sport",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Megerősített",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T11:15:57+00:00",
-      "t": "Cristiano Ronaldo azonnali hatállyal visszavonult a portugál válogatottól",
-      "s": "A 41 éves Cristiano Ronaldo bejelentése szerint azonnali hatállyal befejezi válogatottbeli pályafutását. A férfi labdarúgás válogatottsági és gólrekordere a szeptemberi, Wales elleni mérkőzésen lépett pályára utoljára.",
-      "p": [
-        "Cristiano Ronaldo csütörtökön jelentette be, hogy visszavonul a portugál labdarúgó-válogatottól. Az egyik beszámoló az Athletic közlését idézve írja, hogy a bejelentést a közösségi oldalain tette közzé. A HVG szerint ez egy Instagram-videóban történt.",
-        "A 41 éves játékos a szeptemberi, Wales elleni 1–0-s győzelemmel zárta a válogatottbeli szereplését. A következő találkozón már nem állították be, majd a szövetségi kapitánnyal, Jorge Jesusszal kialakult nézeteltérése miatt idő előtt elhagyta az edzőtábort. Emiatt 255 eurós pénzbírságot és 30 napos eltiltást kapott. Akkor még azt írta, nem akar visszavonulni, most mégis ezt jelentette be.",
-        "A két lap szerint Ronaldo a visszavonulását a 23 éven át viselt mezszámhoz, a hetes számhoz kötötte, és arról beszélt, hogy itt az ideje átadnia a helyét a következő generációnak. A HVG idézi azt a mondatát is, amely szerint a válogatottban elért eredményeket nem csupán a gólok és a trófeák jelentik, hanem az emberek, akik a játékhoz kötődtek.",
-        "A statisztikák a két cikkben egybeesnek: Ronaldo 234 válogatott mérkőzésen 146 gólt szerzett, ezzel a férfi labdarúgás történetének rekordere. A 2003-as debütálása óta 2016-ban Európa-bajnoki címet, valamint két Nemzetek Ligája-győzelmet ünnepelhetett Portugáliával. Az első forrás szerint az idei világbajnokságon három gólt szerzett, a csapat pedig a nyolcaddöntőben esett ki. Hat világbajnokságon is játszott és gólt szerzett, ez szintén rekordnak számít.",
-        "A bejelentés néhány hónappal azután érkezett, hogy legnagyobb riválisa, Lionel Messi is visszavonult az argentin válogatottól. Messi októberben, Benin ellen játszotta utolsó mérkőzését, az első forrás szerint.",
-        "A HVG egy korábbi interjút is felidéz Bölöni Lászlóval, aki 2002-ben a Sporting felnőttcsapatához vitte a fiatal Ronaldót. A mesteredző akkor azt mondta, a játékos tehetségét nem ő adta neki. Ez a visszaemlékezés azonban nem a mostani bejelentéshez készült, így a visszavonulás körülményeiről nem mond újat."
-      ],
-      "cav": "A források eltérnek abban, hogy melyik mérkőzésről maradt távol Ronaldo: az első forrás nem nevezi meg az ellenfelet, a HVG szerint a Norvégia elleni találkozón nem lépett pályára. A bejelentés formáját is másként írják le. A Bölöni Lászlóval készült interjú egy évvel korábbi, így nem a mostani történésekről szól, és a visszavonulás hátteréről a cikkek csak a játékos saját szavait közlik.",
-      "op": "Egy nagy pályafutás lezárása nem csupán a sportolóról szól, hanem arról is, hogyan kezelik a válogatott-szintű fegyelmet és a nyilvános konfliktusokat. Ronaldo búcsúja szép szavakkal érkezett, de a szeptemberi kiesés és a kapitánnyal való összeütközés tisztázatlan maradt. Érdemes lenne tudni, a szövetség és a játékos között mi vezetett valójában a végső szakításhoz.",
-      "src": [
-        [
-          "444",
-          "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ],
-        [
-          "HVG",
-          "https://hvg.hu/sport/20261105_cristiano-ronaldo-portugal-valogatott-visszavonulas-bejelentes-foci-ebx"
-        ]
-      ],
-      "img": "https://assets.4cdn.hu/kraken/8PcBS6hfANyB1Njv9s.jpeg",
-      "imgs": "444",
-      "imgl": "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "cred": "Kép: 444 – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-34cd7afec216ec8a23",
       "r": "Sport",
       "c": "Hírpult",
@@ -4654,6 +4198,18 @@
         [
           "Index",
           "https://index.hu/sport/futball/2026/11/05/cristiano-ronaldo-portugal-valogatott-visszavonulas/"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/05/cristiano-ronaldo-visszavonul-a-portugal-valogatottsagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/sport/20261105_cristiano-ronaldo-portugal-valogatott-visszavonulas-bejelentes-foci-ebx"
+        ],
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/minden-mas-foci/2026/11/cristiano-ronaldo-tobbe-nem-jatszik-a-portugal-valogatottban-hivatalos"
         ]
       ],
       "img": "https://assets.telex.hu/images/20261105/1793876884-temp-9muetc4km91qffajhpo_cimlap-normal.jpg",
@@ -4702,6 +4258,10 @@
         [
           "Telex",
           "https://telex.hu/belfold/2026/11/05/merkely-bela-rektor-lemondott-semmelweis-egyetem"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261105_halad-a-tisztitotuz-a-felsooktatas-teruleten-is-magyar-peter-reagalt-merkely-bela-rektor-lemondasara"
         ]
       ],
       "img": "https://assets.4cdn.hu/kraken/8JO0X7cw6SUm1Vz10Xs.jpeg",
@@ -4711,72 +4271,11 @@
       "ai_edited": true
     },
     {
-      "id": "rss-fd9f39e9eca4c5b843",
-      "r": "Sport",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T10:44:33+00:00",
-      "t": "Cristiano Ronaldo visszaadta a portugál válogatottas mezét, többé nem játszik a nemzeti csapatban",
-      "s": "A 41 éves Cristiano Ronaldo a közösségi oldalán jelentette be, hogy visszavonul a portugál válogatottól. Búcsúja előtt a szeptemberi koppenhágai és norvégiai incidensről is beszélt, és bocsánatot kért.",
-      "p": [
-        "Cristiano Ronaldo a közösségi oldalán tett bejelentésben közölte, hogy befejezi a válogatottbeli szereplését. A bejegyzésben visszaadta a portugál csapatban viselt hetes számú mezt, amelyet valójában 2006-tól hordott, miután Luis Figo visszavonult. A 23 évet felölelő pályafutás alatt a csatár 234 mérkőzésen 146 gólt szerzett, ezzel a válogatott rekordere a szereplések és a találatok számát tekintve is.",
-        "A portugál csapattal hat világbajnokságon szerepelt, kétszeres Nemzetek Ligája-győztes (2019, 2025), és 2016-ban Európa-bajnoki aranyérmet nyert. Búcsúüzenetében a portugál szurkolóknak köszönetet mondott, és azt írta, a válogatottól emelt fővel búcsúzik, de továbbra is szurkolni fog a csapatnak.",
-        "A búcsú előzménye a szeptemberi Nemzetek Ligája-időszakra vezethető vissza. Ronaldo a dánok elleni, koppenhágai mérkőzés előtt távozott a szállásról, és otthagyta a nemzeti együttest. Állítása szerint Jorge Jesus kétszer is megszegte a szavát és nem tartotta be az ígéretét. A játékos elmondása szerint a szakvezetővel előzetesen abban állapodtak meg, hogy a norvégok és a dánok elleni találkozót kihagyja, hogy megőrizze fizikai állapotát.",
-        "A forrás szerint a norvégok elleni, 2–1-es győztes meccs napján Jesus mégis azt közölte vele, hogy harminc percre pályára küldi. Ronaldo ezután a második félidőben végig melegített, de nem lépett pályára. Később megbeszélést tartott a szövetségi kapitánnyal, és megállapodtak abban, hogy a sajtótájékoztatón tisztázzák a történteket. Az azt követő nyilvános megszólalások szerint azonban a két fél között nem alakult ki valódi párbeszéd.",
-        "A szaúdi Al-Naszr csatára később közleményben bocsánatot kért azért, mert az első norvég mérkőzés után nem köszöntötte a szurkolókat, és magára hagyta csapattársait. Hangsúlyozta, hogy csapatkapitányként ez súlyosabban esik a latba, és kilátásba helyezte, hogy a rá kiszabott esetleges eltiltás letöltése után újra rendelkezésre áll. Ez a lehetőség azonban a csütörtöki visszavonulási bejelentése után már nem valósul meg."
-      ],
-      "cav": "A történet egyetlen forrásból ismert, és a koppenhágai távozás, valamint a Jesusszal folytatott egyeztetések részletei Ronaldo saját elbeszélésén alapulnak. A szövetségi kapitány vagy a portugál szövetség reakciója nem szerepel az anyagban, így a két fél verziója nem ütköztethető. Az esetleges eltiltásról szóló rész sem tisztázott.",
-      "op": "Egy ilyen fontos ügyben a szurkolóknak és a közvéleménynek joga van tudni, mi történt valójában, nem csupán az egyik fél szavára kell hagyatkozniuk. A nemzeti válogatott a közpénzből és a közös identitásból is él, ezért a nyilvános számonkérés nem presztízskérdés. Ha a szövetség továbbra is hallgat, a bizalom nemcsak a sztárjátékosnál, hanem az egész irányításnál kérdőjeleződik meg.",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/minden-mas-foci/2026/11/cristiano-ronaldo-tobbe-nem-jatszik-a-portugal-valogatottban-hivatalos"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/ttNYecZq4IAVNJmGcSmg8v8M_LCN7-KM8KnGslEdtiQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2ZmMjIzNGJkZDYyZDQ2OWZiYWM2MzcwYjUzZGRjNzQy.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/minden-mas-foci/2026/11/cristiano-ronaldo-tobbe-nem-jatszik-a-portugal-valogatottban-hivatalos",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-74c4c53d45128faea3",
-      "r": "Belpolitika",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T12:57:57+00:00",
-      "t": "Varga Mihály nem érkezett meg időben az MNB-ügyeit vizsgáló bizottság üléséről",
-      "s": "Csütörtökön Varga Mihály meghallgatásával folytatódott a parlamenti vizsgálóbizottság munkája az MNB működésével kapcsolatos visszaélésekről. A jegybankelnök a nyitás idejére nem volt a teremben, Matolcsy György pedig letartóztatása miatt személyesen nem jelenhet meg.",
-      "p": [
-        "A Blikk beszámolója szerint Varga Mihály, a jegybank jelenlegi elnöke a bizottsági ülés kezdetén még nem ült a Tisza Kálmán teremben, miközben a parlamentben már tartózkodott.",
-        "Csőszi Attila, a testület elnöke az ülés elején Matolcsy György távolmaradásáról beszélt. Matolcsy korábban a parlamenti belépéshez szükséges adatokat még benyújtotta, később viszont őrizetbe vették, majd letartóztatták. Vele eredetileg szintén meghallgatást tervezett a bizottság, ez azonban már nem valósulhat meg személyesen.",
-        "Matolcsy védője, Bánki György több mint tíz percen át olvasott fel egy hosszú levelet. A védő szerint a bizottsághoz részletes, érvelő beadványt juttattak el a lehetséges meghallgatás ügyében, amelyre azonban még nem érkezett válasz. Azt kérte, hogy ha a testület a sajtó elé viszi az anyagot, a beadványt egészben tegyék közzé.",
-        "A levél felolvasása után a napirend szerint Varga Mihály következett volna, ám a cikk megjelenéséig ez nem vette kezdetét. Varga korábban a közösségi oldalán azt írta, hogy személyesen is megjelenik, ha kollégái is meghívást kapnak. Szerinte a korábbi jegybanki vezetéshez kapcsolódó kérdések tisztázása közös érdek, és az MNB új vezetése 2025 áprilisában több feljelentést tett az alapítvány ügyeiben, valamint a korábbi vezetés egyes tagjaival kapcsolatban."
-      ],
-      "cav": "A forrás nem magyarázza meg, miért nem érkezett meg időben Varga Mihály, és a napirend módosulásáról sem ír részletesen. A menetre vonatkozó információk a lap szerint nem ellenőrzöttek, a Varga-idézet pedig a saját Facebook-bejegyzéséből származik, ezért a kontextus nem ellenőrizhető.",
-      "op": "Egy parlamenti vizsgálatnál a nyilvánosság nem udvariasság, hanem ellenőrzési jog. Ha a jegybank volt és jelenlegi vezetője késik, a bizottság pedig a hiányzók kérdésében még döntésre vár, a közvélemény joggal kérdezi: mikor kapunk végre érdemi, nyilvános válaszokat?",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/politika/magyar-politika/parlamenti-vizsgalobizottsag-varga-mihaly-nem-jelent-meg-mnb/tyxm0g9"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
-      "ai_edited": true
-    },
-    {
       "id": "rss-d237ee306345ebb2d9",
       "r": "Belpolitika",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 5.",
       "published_at": "2026-11-05T11:46:00+00:00",
       "t": "Varga Mihályt meghallgatta az MNB-ügy vizsgálóbizottsága, Matolcsy György személyes meghallgatása elmarad",
@@ -4796,6 +4295,14 @@
         [
           "Index",
           "https://index.hu/gazdasag/2026/11/05/mnb-botrany-ugy-matolcsy-gyorgy-varga-mihaly-parlament-vizsgalobizottsag-meghallgatas/"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/gazdasag/2026/11/05/varga-mihaly-mnb-vizsgalobizottsag-meghallgatas-parlament"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/parlamenti-vizsgalobizottsag-varga-mihaly-nem-jelent-meg-mnb/tyxm0g9"
         ]
       ],
       "img": "https://kep.index.hu/1/0/5429/54291/542911/54291113_4010365_8fe2bf49cf16e92a85704c764140500a_wm.jpg",
@@ -4876,44 +4383,16 @@
         [
           "Telex",
           "https://telex.hu/belfold/2026/11/05/harom-ulesnapra-kitiltotta-pocs-janost-az-orszaggyulesbol-forsthoffer-agnes"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261105/a-fideszes-pocs-janost-azonnali-hatallyal-hosszabb-idore-kitiltottak-a-magyar-parlamentbol-874586"
         ]
       ],
       "img": "https://kep.index.hu/1/0/7243/72439/724392/72439227_5338165_5b19a0b0654e75d78b75aca3727eda0a_wm.jpg",
       "imgs": "Index",
       "imgl": "https://index.hu/belfold/2026/11/05/pocs-janos-kitiltas-parlament-orszaggyules-forsthoffer-agnes/",
       "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-6a5bf00403d1bce681",
-      "r": "Belpolitika",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T20:23:00+00:00",
-      "t": "Három ülésnapra kitiltották az Országgyűlésből Pócs Jánost, a házelnök szerint ismételt fegyelmi vétségek miatt",
-      "s": "Forsthoffer Ágnes házelnök három ülésnapra kitiltotta a parlamentből Pócs Jánost, a Fidesz képviselőjét. A határozat indoklása szerint a politikus újra zavarta a parlamenti munkát, és nem tett eleget képviselői kötelezettségeinek.",
-      "p": [
-        "A házelnök Facebook-bejegyzésében közölte a döntést, amelynek okaként a parlamenti munka ismételt megzavarását és a képviselői feladatok elhanyagolását jelölte meg. A bejegyzés alapján a szankció közvetlen előzménye egy november 3-i szavazás volt.",
-        "Pócs János a leírás szerint elkésett a gépi szavazásról, majd a le nem adott voksát szóban próbálta utólag érvényesíteni. Ez a teremben nagy felzúdulást keltett, és megakasztotta az ülés menetét. Az ülést vezető Hallerné Nagy Anikó (Tisza Párt) a jegyzők és a képviselők jelzésére végül nem vette figyelembe a szóbeli szavazatot az eredmény kihirdetésekor.",
-        "A képviselő szerint nem állt szándékában megtéveszteni az ülésvezetést, ugyanakkor elismerte, hogy nem volt tisztában a teremben zajló eseményekkel. Forsthoffer Ágnes ezzel szemben azt hangsúlyozta, hogy ez a magatartás senki részéről nem fogadható el, és különösen nem egy olyan rutinos parlamenti tagtól, aki immár ötödik ciklusát tölti. Szerinte a termi kijelzőkről és a saját szavazógépe képernyőjéről egyértelműen látszódhatott volna, hol tart a munka.",
-        "A házelnök október 20-án írásbeli figyelmeztetésben részesítette a politikust. Korábban több alkalommal szóbeli intést és szómegvonást is alkalmazott, ezek a bejegyzés szerint nem hoztak változást. A felsorolt korábbi esetek között szerepel a hangos kiabálás, a páholyban ülőkkel folytatott beszélgetés, a tárgyról való eltérés és a Házat sértő feliratok felmutatása. Emellett előfordult videózás, bingózás, rajzolgatás, valamint provokatív céllal történő újság- és könyvolvasás is az ülésteremben.",
-        "A jogszabály legfeljebb tizenöt naptári napos vagy hat ülésnapos kitiltást tesz lehetővé. A házelnök ennél enyhébb döntést hozott, mert a képviselő cselekedete nem érvénytelenítette az Országgyűlés határozatát, ezért fokozatosan lépve három ülésnapos tiltást rendelt el.",
-        "A kitiltás lényegesen szigorúbb, mint a pusztán a plenáris ülésről távol tartó kizárás. A büntetés ideje alatt Pócs János sem az Országházba, sem az Országgyűlés hivatalainak épületeibe nem léphet be, és a titkos szavazásokon is csak a házelnök által kijelölt helyiségben vehet részt. A határozatot átvette, a döntés ellen pedig nyolc napon belül a Mentelmi Bizottságnál kérhet jogorvoslatot."
-      ],
-      "cav": "A cím hosszabb időre szóló kitiltásról ír, a szöveg viszont három ülésnapról szól, ez az eltérés nincs feloldva. Az eseményeket, a korábbi figyelmeztetéseket és a házelnök értékelését a forrás a házelnöki bejegyzés alapján ismerteti, ezeket függetlenül nem ellenőriztük. Pócs János álláspontja nyilatkozatából ismert, a vita részleteiről a források nem adnak teljes képet.",
-      "op": "A fegyelmi eszközöknek akkor van hitelük, ha kiszámíthatók és mindenkire ugyanúgy vonatkoznak. Az indoklás ebben az ügyben részletes, de a következő hasonló esetnél azt kell látnunk, hogy a házelnök ugyanígy jár-e el. A parlament munkája közpénzből és a választók bizalmából működik, ezért a kitiltások döntéseinek is nyilvánosan ellenőrizhetőnek kell lenniük.",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/gazdasag/20261105/a-fideszes-pocs-janost-azonnali-hatallyal-hosszabb-idore-kitiltottak-a-magyar-parlamentbol-874586"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/p/o/c/pocsjanos-867234.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/gazdasag/20261105/a-fideszes-pocs-janost-azonnali-hatallyal-hosszabb-idore-kitiltottak-a-magyar-parlamentbol-874586",
-      "cred": "Kép: Portfolio – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -4993,6 +4472,10 @@
         [
           "Telex",
           "https://telex.hu/belfold/2026/11/05/panyi-szabolcs-kapja-a-2026-os-magnyitszkij-emberi-jogi-dij-kiemelkedo-ujsagiroi-dijat"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/05/panyi-szabolcs-dij-ujsagiro/"
         ]
       ],
       "img": "https://assets.4cdn.hu/kraken/7d4qqLsMJvPvxsdus.jpeg",
@@ -5002,42 +4485,11 @@
       "ai_edited": true
     },
     {
-      "id": "rss-d62c3d204d921f7b5d",
-      "r": "Sport",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T19:42:57+00:00",
-      "t": "Két Joseph-góllal nyert a Ferencváros a San Siróban, az Európa-ligában a második helyre ugrott",
-      "s": "A Ferencváros 2-0-ra legyőzte a hétszeres BEK/BL-győztes AC Milant az Európa-liga alapszakaszának negyedik fordulójában. Lenny Joseph mindkét gólt megszerezte, a Blikk beszámolója szerint a zöld-fehérek így hibátlanul a tabella második helyére kerültek.",
-      "p": [
-        "A San Siróban, csütörtök este rendezett mérkőzésen a Ferencváros a hazai csapat vendégeként lépett pályára. A Blikk beszámolója szerint a magyar csapat korábban a skót Celticet, a cseh Viktoria Plzeňt és a portugál Torreense-t verte, így az olasz összecsapás jelentette az eddigi legnagyobb feladatot Borbély Balázs együttesének.",
-        "A lelátón nagyjából 6400 magyar szurkoló biztatta a csapatot, a lap pontos számot nem közölt. Az első félidőben a Fradi több veszélyes helyzetet dolgozott ki, Joseph többször is próbálkozott, de a Milan harmadik számú kapusa, Torriani védéseivel a gólt megakadályozta. A hazai csapat kapuja előtt az első félidőben alig volt lövés, a vendégek pedig a szünetre gól nélkül mentek.",
-        "A szünetben Ruben Amorim három cserét is végrehajtott: Moreira, Pulisic és Gila került be. A Milan valamivel agresszívabban kezdte a második félidőt, az 52. percben mégis a Ferencváros szerzett vezetést. A hazai kapus egy hazaadás után elbizonytalanodott, Zachariassen elcsípte a labdát, Joseph pedig üres kapuba gurította. A beszámoló szerint Zachariassen esetleges felrúgásáért is járhatott volna büntető, de erre nem került sor.",
-        "A 66. percben újabb kontránál Zachariassen végigrobogott a pályán, és Josephet szabad helyzetbe juttatta, a haiti csatár így duplázott. A 77. percben a csereként beállt Yusuf kiállítást kapott, miután Gilának ütött. A Milan a hajrában nagy birtoklási fölénybe került, a Fradi azonban tíz emberrel is megőrizte a kétgólos előnyét. A hosszabbításban Madarász is lőhetett volna gólt, de a lövése elment mellette.",
-        "A Blikk szerint a győzelemmel a Ferencváros hibátlan mérleggel a második helyen áll az Európa-liga alapszakaszának tabelláján. A lap azt is jelezte, hogy a Bournemouth a Sparta Praha ellen 1-3-as eredménnyel fordított, ez a tabellát is befolyásolta. A pozíció ennek megfelelően a többi mérkőzés végeredményétől is függ, a beszámoló ezt nem részletezte."
-      ],
-      "cav": "Az összefoglaló a tabellás helyezést és a Bournemouth-Sparta eredményt másodkézből közli, a teljes tabella forrását nem nevezi meg. A pontos nézőszámot a lap csak megközelítésként adta meg.",
-      "op": "Egy idegenbeli 2-0 a Milan ellen sportsikernek jó, de a kiállítás miatt a tíz emberrel játszott hajrá is bizonyítja, hogy a fegyelem még nem stabil. A szurkolóknak az a kérdés, hogy a második hely a folytatásban is megmarad-e.„], ”section_check„: ”Sport",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/sport/magyar-foci/milan-fradi-europa-liga/lwyrpbp"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
-      "ai_edited": true
-    },
-    {
       "id": "rss-d93921c9f1ffdfc1bf",
       "r": "Sport",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 5.",
       "published_at": "2026-11-05T19:39:00+00:00",
       "t": "Két góllal nyert a Ferencváros a Milan otthonában, négy meccsből négy győzelem az Európa-ligában",
@@ -5056,42 +4508,16 @@
         [
           "Index",
           "https://index.hu/sport/futball/2026/11/05/ac-milan-ferencvaros-europa-liga-2026-2027-ligaszakasz-4.-fordulo-san-siro-osszefoglalo/"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/magyar-foci/milan-fradi-europa-liga/lwyrpbp"
         ]
       ],
       "img": "https://kep.index.hu/1/0/7243/72438/724384/72438411_5338105_2b5deb79525ce2903ea8797769d0d65e_wm.jpg",
       "imgs": "Index",
       "imgl": "https://index.hu/sport/futball/2026/11/05/ac-milan-ferencvaros-europa-liga-2026-2027-ligaszakasz-4.-fordulo-san-siro-osszefoglalo/",
       "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-f5a5e1413399860879",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 5.",
-      "published_at": "2026-11-05T17:59:01+00:00",
-      "t": "Panyi Szabolcs nemzetközi emberi jogi díjat kap a 2026-os Magnyitszkij-díjjal",
-      "s": "A Vsquare munkatársa, Panyi Szabolcs a 2026-os Magnyitszkij Emberi Jogi Díj „kiemelkedő újságírói” elismerését kapja. Az újságíró erről a közösségi oldalán számolt be.",
-      "p": [
-        "Panyi Szabolcs, a Vsquare munkatársa a 2026-os Magnyitszkij Emberi Jogi Díj egyik elismerését kapja. Az információ az újságíró közösségi oldalán megjelent beszámolóból származik.",
-        "Az elismerést az orosz befolyás magyarországi működését feltáró munkájáért ítélték oda. A 2015-ben alapított díjat újságírók, politikusok, jogvédők és aktivisták kaphatják, akik a korrupció, az emberi jogi visszaélések és a hatalmi önkény feltárásában vagy elleni küzdelemben kiemelkednek.",
-        "A díj névadója Szergej Magnyitszkij orosz jogász és könyvvizsgáló, aki egy nagy állami korrupciós és adócsalási ügyet tárt fel. Őt később letartóztatták, és 2009-ben, 37 évesen, egy moszkvai börtönben hunyt el. Emlékére született meg a Magnyitszkij-törvény, amely az emberi jogi visszaélésekért és korrupcióért felelős személyek szankcionálását teszi lehetővé.",
-        "Panyi a díjat a jövő héten Londonban veszi át Catherine Beltontól, a The Washington Post oknyomozó újságírójától, a Putin’s People című könyv szerzőjétől."
-      ],
-      "cav": "Az információk Panyi Szabolcs saját beszámolóján alapulnak, független forrásból nem ellenőrizhetők. A jövő hét kifejezés a közlés dátumához kötődik, a londoni átadó pontos időpontja nem ismert.",
-      "op": "Az újságírói munka elismerése fontos jelzés, hiszen a hatalom és a pénz kapcsolatainak feltárása nélkül a nyilvánosság nem tudja ellenőrizni a döntéshozókat. Ha az orosz befolyás kérdése Magyarországon valós közéleti tét, akkor a válaszoknak is a nyilvánosság előtt kell megszületniük.„]",
-      "src": [
-        [
-          "24.hu",
-          "https://24.hu/belfold/2026/11/05/panyi-szabolcs-dij-ujsagiro/"
-        ]
-      ],
-      "img": "https://s.24.hu/app/uploads/2026/11/panyi-1024x575.jpg",
-      "imgs": "24.hu",
-      "imgl": "https://24.hu/belfold/2026/11/05/panyi-szabolcs-dij-ujsagiro/",
-      "cred": "Kép: 24.hu – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -5223,34 +4649,7 @@
         [
           "Blikk",
           "https://www.blikk.hu/aktualis/belfold/gripenek-bombafenyegetesek-felszallas/gfg0j9c"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/11/pEzJUZ4SDR6OcL35OD3atpFVXBmhB-VOqLR9WvWid8A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VhZDAxNTJhN2Y2ZjQ4MzBiNWU5MjIxZmM4NTUyYTYy.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/itthon/2026/11/gripen-riasztas-bombafenyegetes-magyar-legter",
-      "cred": "Kép: Origo – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-3e9ea58e4c78440594",
-      "r": "Belpolitika",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Megerősített",
-      "time": "nov. 6.",
-      "published_at": "2026-11-06T12:37:00+00:00",
-      "t": "Három bombafenyegetett utasszállító miatt riasztották a magyar Gripeneket",
-      "s": "A honvédelmi miniszter szerint néhány órán belül három polgári utasszállító miatt riasztották a magyar vadászgépeket. A NATO mindhárom esetben ALPHA SCRAMBLE-riasztást rendelt el.",
-      "p": [
-        "Ruszin-Szendi Romulusz Facebook-bejegyzésében arról számolt be, hogy a Magyar Honvédség Gripen vadászgépeit néhány órán belül három alkalommal riasztották bombafenyegetés miatt. A gépek éppen kiképzési repülést hajtottak végre, amikor a fenyegetések egymás után érkeztek.",
-        "Az Index összefoglalása szerint az első riasztás délelőtt 9 óra 48 perckor érkezett egy Brüsszelből Szófiába tartó Airbus A321-es miatt. A magyar gépek Kaposvár térségében kezdték kísérni a repülőgépet, amely Szerbia irányába hagyta el az országot. 10 óra 33 perckor újabb riasztás érkezett két, Prágából induló utasszállító miatt: az egyik Ciprusra, a másik Bukarestbe tartott. Ezek 10 óra 45 perc körül léptek ki a román irányban.",
-        "A miniszter szerint a vadászrepülőgépek mindhárom esetben készen álltak a feladatok végrehajtására. A NATO a határszakaszok közelében légi járőrözést rendelt el. Egy másik beszámoló a bejegyzéshez csatolt kép alapján azt írta, hogy az egyik vadászgép a 37-es oldalszámú JAS-39-es volt.",
-        "Egy másik beszámoló arra is emlékeztetett, hogy csütörtökön több európai járatot is bombafenyegetés ért, és tűzszerészeknek kellett átvizsgálniuk gépeket. A Hungarocontrol szerint a magyar légtéren áthaladó géppel kapcsolatban kaptak tájékoztatást, de a fenyegetés nem érintett magyarországi célú vagy onnan induló járatot. Olaszországban pedig hat járat esetében küldtek fenyegetést, amelyet a hírek szerint orosz ultranacionalisták nevében tettek.",
-        "A héten korábban egy Londonból Szófiába tartó Wizz Air-járat is bombafenyegetés miatt szakította meg útját Budapesten, ahol a légierő gépei biztosították a leszállást."
-      ],
-      "cav": "A három riasztásról és a pontos időpontokról egyedül a miniszter közlése és az Index összefoglalója szól, a másik beszámoló nem közöl időpontokat, és a két cikk eltérően beszél az esetek számáról. Az olaszországi fenyegetések és az orosz ultranacionalistákra utaló állítás másodkézből származik, a fenyegetések valódiságáról pedig egyik forrás sem ír.",
-      "op": "A légteret érintő biztonsági események lakossági bizalom nélkül nem kezelhetők. Ha a miniszter Facebook-posztja az egyetlen forrás, a közvélemény joggal várja a hivatalos, dokumentált tájékoztatást arról, hogyan és milyen költséggel zajlott a riasztás.",
-      "src": [
+        ],
         [
           "Index",
           "https://index.hu/belfold/2026/11/06/magyar-honvedseg-gripen-riasztas-bombafebyegetes-utasszallito-repulok/"
@@ -5260,10 +4659,10 @@
           "https://24.hu/belfold/2026/11/06/bombafenyegetes-gripen-riasztas-magyar-legter/"
         ]
       ],
-      "img": "https://kep.index.hu/1/0/4371/43719/437197/43719764_3336470_1f94bd8f4e3da93c952bec1936ea2744_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/belfold/2026/11/06/magyar-honvedseg-gripen-riasztas-bombafebyegetes-utasszallito-repulok/",
-      "cred": "Kép: Index – eredeti cikk",
+      "img": "https://cdn.origo.hu/2026/11/pEzJUZ4SDR6OcL35OD3atpFVXBmhB-VOqLR9WvWid8A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VhZDAxNTJhN2Y2ZjQ4MzBiNWU5MjIxZmM4NTUyYTYy.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/itthon/2026/11/gripen-riasztas-bombafenyegetes-magyar-legter",
+      "cred": "Kép: Origo – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -5336,40 +4735,11 @@
       "ai_edited": true
     },
     {
-      "id": "rss-23ca2b9ff75ebc3ca7",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 6.",
-      "published_at": "2026-11-06T12:16:00+00:00",
-      "t": "Orbán Viktor Matteo Salvinivel tárgyalt, a részleteket viszont nem közölte",
-      "s": "Orbán Viktor a Facebookon számolt be arról, hogy találkozott Matteo Salvini olasz miniszterelnök-helyettessel. A bejegyzés szerint az európai politikai helyzetet és a Patrióták pártcsalád előtt álló feladatokat tekintették át.",
-      "p": [
-        "Az Index beszámolója szerint Orbán Viktor közösségi oldalán, „Meccs utáni after” felütéssel jelentette be a találkozót. A volt magyar kormányfő régi jóbarátjaként írt Salviniről.",
-        "A tárgyalás időzítését a Ferencváros csütörtök esti milánói sikere adta: a magyar csapat 2–0-ra nyert az AC Milan ellen az Európa-liga negyedik fordulójában. A két politikus évek óta szoros kapcsolatot ápol, és mindketten részt vettek a Patrióták Európáért pártcsalád létrehozásában.",
-        "Orbán bejegyzésében nem közölt részleteket arról, hogy pontosan milyen feladatokat tekintettek át, és született-e konkrét megállapodás. Az Index szerint a Fidesz tavaszi választási veresége után Orbán már pártelnökként igyekszik megőrizni szerepét az európai jobboldali szövetségben."
-      ],
-      "cav": "A tudósítás egyetlen forrásra, Orbán Viktor bejegyzésére támaszkodik, így a találkozó tartalmáról csak a politikus saját megfogalmazását ismerjük. A Fidesz választási veresége és Orbán pártelnöki szerepéről szóló megállapítások a cikk értelmezései, a szöveg nem hivatkozik további forrásra.",
-      "op": "Egy közösségi médiás bejegyzés és néhány általános mondat nem elég ahhoz, hogy a közvélemény megítélhesse, miről szólt valójában a találkozó. Ha egy európai pártcsalád ügyeit zárt ajtók mögött intézik, a nyilvánosságnak joga van tudni, milyen döntések születtek. Miért kell a részleteket a politikus jóhiszeműségére bízni?",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/06/orban-viktor-matteo-salvini-fradi-milan-patriota/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7245/72453/724538/72453831_5339183_cbc93ff08775da0a5cb0f6afee574148_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/belfold/2026/11/06/orban-viktor-matteo-salvini-fradi-milan-patriota/",
-      "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-2f862ea30fa449927f",
       "r": "Külföld",
       "c": "Hírpult",
       "w": "",
-      "st": "Jelentett",
+      "st": "Megerősített",
       "time": "nov. 6.",
       "published_at": "2026-11-06T12:33:40+00:00",
       "t": "Orbán Viktor Milánóban tárgyalt Matteo Salvinivel, a Patrióták pártcsaládjáról is szó esett",
@@ -5386,12 +4756,16 @@
         [
           "Blikk",
           "https://www.blikk.hu/politika/vilagpolitika/orban-viktor-milano-talalkozo-matteo-salvini/ehedtgw"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/06/orban-viktor-matteo-salvini-fradi-milan-patriota/"
         ]
       ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
+      "img": "https://kep.index.hu/1/0/7245/72453/724538/72453831_5339183_cbc93ff08775da0a5cb0f6afee574148_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/06/orban-viktor-matteo-salvini-fradi-milan-patriota/",
+      "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -5524,6 +4898,311 @@
       "imgs": "444",
       "imgl": "https://444.hu/2026/11/06/mar-nem-dolgozik-a-kozmedianal-meszaros-zsofia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "cred": "Kép: 444 – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-a5c59b7ef9d9e7fd4f",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T18:24:50+00:00",
+      "t": "Kisrepülőgép zuhant egy németországi autópályára, ketten meghaltak",
+      "s": "Két ember vesztette életét, amikor egy kisrepülőgép az A2-es autópályára zuhant Magdeburg közelében, majd kigyulladt. A baleset okát egyelőre nem ismerik.",
+      "p": [
+        "Egy kisrepülőgép péntek délután Magdeburgtól északkeletre zuhant az A2-es autópályára Németországban, a gép két utasa a helyszínen meghalt – a rendőrség közlése szerint, ahogy azt a források egybehangzóan jelzik. A becsapódás után a gép kigyulladt.",
+        "A mentők megérkezésekor a két utas már nem élt. A hatóságok szerint közúti jármű nem sérült meg a balesetben, a forgalmi adatok alapján azonban az érintett szakaszon, Hannover felé, lezárás volt érvényben, és jelentős dugókra kellett számítani.",
+        "A baleset okát a források szerint egyelőre nem sikerült megállapítani. Hogy a gép pontosan milyen műszaki vagy emberi okból veszített magasságot, az a jelenlegi tudásunk szerint nyitott kérdés.",
+        "Az A2-es autópálya Berlint köti össze Észak-Rajna–Vesztfáliával, és Németország egyik legforgalmasabb kelet-nyugati útvonala. A helyszínen a rendőrség és a mentőegységek még dolgoztak, amikor a tudósítások megjelentek."
+      ],
+      "cav": "A jelentések szerint a két utas már a mentők érkezésekor halott volt, az áldozatok személyéről azonban egyik forrás sem közöl adatot. A DW-re hivatkozó beszámoló és a német rendőrségi közlésre épülő hírek között a részletekben eltérések lehetnek, a dugóra és a lezárásra vonatkozó információk pedig a pillanatnyi helyzetet tükrözik.",
+      "op": "Két ember halála és egy autópálya lezárása nem statisztika, hanem tragédia, ezért itt a visszafogottság a helyes hang. A nyilvánosság joga, hogy megtudjuk, miért zuhant le a gép, és a hatóságoknak ezt a kérdést gyorsan és átláthatóan kell megválaszolniuk.„]",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/vilag/20261106_ksirepulogep-baleset-nemet-autopalya-autobahn-halalhir"
+        ],
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/06/nemetorszag-kisrepulogep-lezuhant-halott-magdeburg/"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/kulfold/repulogep-lezuhant-a2-autopalya-nemetorszag/11lpxh1"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/kulfold/2026/11/06/nemetorszag-berlin-kisrepulo-zunahas"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/06/autopalyara-zuhant-egy-kisrepulo-nemetorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/e44984f9-9305-4409-a94a-ab89286d472a.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/vilag/20261106_ksirepulogep-baleset-nemet-autopalya-autobahn-halalhir",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-967d1cc6392fd92f32",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T17:16:30+00:00",
+      "t": "Kubatov elítélte a milánói Fradi-szurkolók Mussolinit éltető rigmusait",
+      "s": "A Ferencváros csütörtöki milánói győzelmét árnyékolja be, hogy néhány drukkere kirekesztő és fasisztabarát rigmusokat skandált. Kubatov Gábor klubelnök szerint a történtek őszintén felháborítóak.",
+      "p": [
+        "A Ferencváros csütörtök este idegenben 2-0-ra nyert az olasz AC Milan ellen az Európa-ligában. A csapat eddigi négy ligaszakaszbeli mérkőzését mind megnyerte, és 12 ponttal a 3. helyen áll a 36 csapatos főtáblán. A Telex beszámolója szerint a győzelmet azonban a szurkolók egy csoportjának viselkedése homályosította el.",
+        "A lap szerint a Fradi-drukkerek egy része a mérkőzés előtt a milánói dóm előtt gyülekezett, ahol „Meg kell védeni Európát!” feliratú drapériát feszítettek ki. A fekete ruhás szurkolók „Anti LMBTQ” molinót is vittek magukkal a meccsre. A tömegből többen Benito Mussolinit éltető rigmust kezdtek énekelni, miközben a karjukat lengették.",
+        "Kubatov Gábor a klub Facebook-oldalán közzétett videóban elítélte az eseményeket, és a skandálókat a Fradi ellenségeinek nevezte. Szerinte a rigmusok nem a stadionban hangzottak el, ez pedig nem jelent mentséget. Az elnök azt is elmondta, hogy a mérkőzés előtt több ezer e-mailt küldtek a szurkolóknak a viselkedési szabályokról, és kifejezetten kérték, tartózkodjanak minden kirekesztő megnyilvánulástól.",
+        "A klubelnök hangsúlyozta, hogy a drukkerek túlnyomó többsége csütörtökön is méltó volt a Ferencvároshoz. Azt kérte, hogy a rigmusok elindítói ne járjanak többet Fradi-meccsre. Kubatov szerint „soha sehol semmilyen formában nincs helye a kirekesztésnek” a klubban.",
+        "A beszámoló nem tér ki arra, hogy a klub vagy a hatóságok vizsgálatot indítottak-e az ügyben, és azt sem közli, pontosan hány szurkoló vett részt a rigmusokban."
+      ],
+      "cav": "A történetet egyetlen forrás, a Telex beszámolója alapján ismerjük, az események leírása nagyrészt Kubatov Gábor videós nyilatkozatára támaszkodik. A források nem mondják meg, hányan vettek részt a skandálásban, és nem ellenőrizhető, hogy a klub vagy a hatóságok intézkedtek-e.",
+      "op": "A klubelnök határozott elítélése önmagában kevés: a Mussolinit éltető rigmusok és a kirekesztő molinók nem véletlenül kerülnek a meccsre. A klubnak és a szurkolói kultúrának az a dolga, hogy a felelősöket nevesítse és a következményeket nyilvánosan is megmutassa. Hiteles akkor lesz a fellépés, ha a szavak mögött számon kérhető intézkedések állnak.",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/sport/2026/11/06/ferencvaros-szurkolok-milano-kirekeszto-rigmusok-kubatov-gabor-fradi-elnok"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/06/kubatov-gabor-kirekeszto-rigmusok-ferencvaros-ac-milan/"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261106/1793985244-temp-l6p49c3i6t7r9ipmann_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/sport/2026/11/06/ferencvaros-szurkolok-milano-kirekeszto-rigmusok-kubatov-gabor-fradi-elnok",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-2f539f61dec28c4448",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T16:37:39+00:00",
+      "t": "Kubatov Gábor kemény szavakkal reagált a milánói Fradi-szurkolók botrányos viselkedésére",
+      "s": "A Ferencváros csütörtöki milánói győzelmét árnyékolja, hogy a mérkőzés előtt a Dóm téren egyes szurkolók kirekesztő megnyilvánulásokkal hívták fel magukra a figyelmet. Kubatov Gábor klubelnök videóüzenetben reagált.",
+      "p": [
+        "A Ferencváros csütörtök este 2–0-ra győzte le az AC Milant a San Siróban, ami az Index beszámolója szerint ötven év után az első magyar klubsiker itt. Az ünneplést azonban keserűség árnyékolta be, mert a mérkőzés előtt a milánói főtéren gyülekező fradisták egy része botrányt okozott.",
+        "Az olasz ANSA hírügynökség beszámolója szerint egyes drukkerek Benito Mussolini fasiszta diktátort ábrázoló pólókban jelentek meg, politikai tartalmú transzparenseket feszítettek ki. Egy másik hazai beszámoló szerint olasz lapok és videófelvételek kirekesztő, menekült- és LMBTQ-ellenes rigmusokról számoltak be, a Mussolini-éltetés mellett. Volt olyan olasz lap is, amely fasiszta karlendítésekről írt. Az Index ezeket a mozdulatokat úgy írja le, hogy náci karlendítésre emlékeztettek, de a forrásai között nem szerepel pontos leírás arról, hány ember vett részt az eseményekben.",
+        "Kubatov Gábor videóüzenetben reagált, amelyben szerinte azok, akik ezt elindították, nem ismerik a Ferencváros alapértékeit. Az Index szerint azt is hangsúlyozta, hogy a klub a mérkőzés előtt több ezer e-mailben figyelmeztette a szurkolókat a viselkedési szabályokra, köztük a kirekesztő megnyilvánulások tilalmára. Mint fogalmazott: „Senki nem mondhatja, hogy nem tudta”. Szerinte a stadionon kívüli viselkedés sem mentesít senkit a felelősség alól, és a milánói eseményekről szóló hírekben a Ferencváros szurkolótáborának neve jelenik meg, nem az elkövetőké.",
+        "A klubelnök szerint aki nem tud viselkedni, inkább ne járjon többé Fradi-meccsre, és arra is kitért, hogy a kirekesztés elleni fellépésből nem enged, még akkor sem, ha ez a szurkolótábor drasztikus megfogyatkozásával jár. Kubatov ugyanakkor külön kiemelte, hogy a szurkolók túlnyomó többsége méltón képviselte a klubot Milánóban.",
+        "Más hangot ütött meg Orbán Balázs, aki a beszámoló szerint megdicsérte a karlendítő szurkolókat, és „Igazi hazafiak!” felkiáltással méltatta őket. A két megszólalás között éles a különbség, és Orbán Balázs álláspontja, aki a Fidesz-vezérkarhoz tartozik, ellentmond a klubelnök kemény fellépésének.",
+        "A forrásokból nem derül ki, hogy a Dóm téri eseményekért milyen fegyelmi vagy egyéb következmény jár, és hogy a klub vagy a hatóságok vizsgálatot indítottak-e. Ezeket a kérdéseket a jövőbeli fejlemények dönthetik el."
+      ],
+      "cav": "A forrásokban a botrányos megnyilvánulások leírása eltér: az egyik hazai beszámoló fasiszta karlendítésekről ír, az Index náci karlendítésre emlékeztető mozdulatokról, az ANSA-ra hivatkozva pedig Mussolini-pólókról. A résztvevők számáról és azonosságáról egyik forrás sem közöl adatot, az olasz sajtóbeszámolók és videófelvételek tartalmát pedig a cikk nem tudta közvetlenül ellenőrizni.",
+      "op": "A klub ultimátuma helyes irány, de a fegyelem csak akkor hiteles, ha ugyanígy érvényes a politikai támogatásra is. Orbán Balázs dicsérete a kirekesztő megnyilvánulásokat legitimálja, miközben a hazafiság kérdése nem lehet felmentés. Vajon hányan vonják ugyanolyan határozottan felelősségre a tiszteletlenséget, ha az a saját oldalukon történik?",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/06/kubatov-gabor-a-fradistak-milanoi-botranyarol-ezt-nem-fogom-elturni-ha-csak-oten-maradunk-a-lelaton-akkor-oten-maradunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/06/kubatov-gabor-fradi-milano-intelem-kiakadas/"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/sport/sport-futball/2026/11/fradi-milano-dom-ter-kubatov-gabor"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Pe4vrCd8tRX8x6Ss.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/06/kubatov-gabor-a-fradistak-milanoi-botranyarol-ezt-nem-fogom-elturni-ha-csak-oten-maradunk-a-lelaton-akkor-oten-maradunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-afc4ce5e8a86c6bc3a",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T16:21:45+00:00",
+      "t": "Kubatov Gábor a milánói Mussolini-éltetést ítélte el, a klub szerint e-mailben figyelmeztették a szurkolókat",
+      "s": "A Ferencváros elnöke videóban bírálta azokat a szurkolókat, akik a Milan elleni csütörtöki meccs előtt Mussolinit éltettek. Kubatov szerint a jelenet megmagyarázhatatlan volt, a győzelmet pedig beárnyékolta.",
+      "p": [
+        "Kubatov Gábor, a Ferencváros elnöke kemény hangú videóban reagált arra, hogy a Fradi-szurkolók egy része a csütörtöki, Milan elleni meccs előtt Benito Mussolini korábbi olasz fasiszta diktátort éltette. A forrás szerint a csapat az Európa-liga negyedik fordulójában legyőzte az AC Milant a San Siro stadionban, de Kubatov szerint egy megmagyarázhatatlan eset árnyékolta be a győzelmet.",
+        "Az elnök közlése szerint tizenöt éve küzd a kirekesztés ellen, ezért felháborítónak nevezte, ami Milánó Dóm téren történt. Szerinte aki ebben részt vett, az nem ismeri a klub alapértékeit és történelmét, és nem látja, mit kockáztatott.",
+        "Kubatov hangsúlyozta, hogy a klub a meccs előtt több ezer szurkolónak e-mailt küldött, amelyben arra kérte őket, tartózkodjanak minden kirekesztő megnyilvánulástól. Az üzenet szerint a néhány résztvevő tettével a csapattól „a győzelem egy darabját” vették el.",
+        "Kubatov ugyanakkor elismerte, hogy a szurkolók túlnyomó többsége méltóan képviselte a csapatot Milánóban. Azt mondta, a klub továbbra is komolyan kezeli az ilyen megnyilvánulásokat, és a lelátón is csak azok maradhatnak, akik tudják, hogyan kell viselkedni.",
+        "Az ultrák viselkedéséről Orbán Balázs fideszes politikus is írt, aki a magyar szurkolókat büszkének és méltóságteljesnek nevezte. Véleménye Kubatovéval ellentétben a szurkolók tetteit dicsérte, az ügy részleteiről azonban a közölt forrás nem ad többet."
+      ],
+      "cav": "A forrás a videó és Kubatov nyilatkozatai alapján készült; a Mussolini-éltetés pontos módjáról, résztvevőinek számáról és a klub esetleges intézkedéseiről a cikk nem közöl adatot. Orbán Balázs nyilatkozatát a forrás csak idézi, a Mussolini-éltetést ő sem részletezi.",
+      "op": "A klub joggal várja el a szurkolóktól a tiszteletet, de a figyelmeztető e-mail önmagában nem elég, ha a lelátón a kirekesztés mégis megjelenik. Az ügyben az lesz a mérce, hogy a klub konkrétan mit tesz a felelősök ellen, nem csak azt, hogy elítéli őket.„]",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261106_kubatov-gabor-fradi-szurkolok-ultrak-milano-mussolini-ferencvaros-milan-europa-liga"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/6aee5a73-5e6a-4944-8bf5-08013d232a7f.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261106_kubatov-gabor-fradi-szurkolok-ultrak-milano-mussolini-ferencvaros-milan-europa-liga",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6be1090686ad9440e0",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T16:09:41+00:00",
+      "t": "Letartóztatták Thomas Markle-t, Meghan Markle apját gyermekpornográfia birtoklásának gyanújával",
+      "s": "Floridában letartóztatták Thomas Markle-t, Meghan Markle 82 éves apját, gyermekpornográf anyagok birtoklásának gyanúja miatt. A férfi tagadja a vádakat, a beszámolók pedig több ponton eltérnek egymástól.",
+      "p": [
+        "A Telex a CBS információira és a BBC közlésére hivatkozva írja, hogy a rendőrség gyanítja: Thomas Markle gyermekpornográf felvételeket birtokol. A CBS szerint a férfit Floridában tartóztatták le, a letartóztatást pedig az amerikai igazságügyi minisztérium is megerősítette. A Telex szerint pénteken állhat először bíróság elé.",
+        "A minisztérium közleménye szerint a férfi raktárakban tartott anyagokat, köztük olyan explicit fényképeket, amelyeken ő maga is pubertás előtti lányokkal szerepel. A hatóságok 78 tárgyat foglaltak le, többek között negatívokat, könyveket és diákat. Az Origo a Page Six értesülésére hivatkozva azt írja, hogy szövetségi ügynökök a lakóotthonban vették őrizetbe a férfit, a HVG pedig a TMZ-re hivatkozik, és az FBI nevét említi.",
+        "Az ügy a Fülöp-szigeteken kezdődött. Thomas Markle fia, Thomas Markle Jr. állítása szerint apja egykori házában talált az anyagokra, és feljelentést tett. A fülöp-szigeteki belügyminiszter szerint legalább 7500 kép és videó került elő, a Page Six viszont több száz, akár több ezer felvételről számol be. Ezek a számok nem egyeznek egymással.",
+        "Thomas Markle korábban határozottan tagadta a vádakat, és egy beszámoló szerint „beteges hazugságoknak” nevezte őket. A HVG beszámolója szerint azt is mondta, hogy soha nem szerepelt ilyen fényképen, és már közel két éve nincs nála telefonja vagy számítógépe. A sajtóbeszámolók szerint a férfi interjúiban együttműködést ígért a hatóságokkal.",
+        "Meghan Markle közleményben reagált. A Telex szerint azt írta, hogy mélyen megrázta a hír, és a gondolatai a bántalmazás áldozatul eshetett gyermekeknél járnak. A Telex szerint a brit rendőrség 2019-ben tájékoztatta arról, hogy vizsgálják az ügyet, a HVG viszont 2018-as levélről ír, amelyről a hatóságok értesítették. A két évszám közötti különbséget a források nem tisztázzák.",
+        "A családi konfliktus is kirobbant. Az Origo szerint Samantha Markle, a hercegné féltestvére az apját védte, és anyagi érdekből kitalált történetnek nevezte a fia állításait. A sajtóbeszámolók szerint Thomas Markle májusban költözött Floridába, miután a Fülöp-szigeteken agyvérzést kapott, a bal lábát amputálni kellett, és demenciát is diagnosztizáltak nála."
+      ],
+      "cav": "A beszámolók nagyrészt második kézből származó információkra, hatósági közleményekre és meg nem nevezett értesülésekre támaszkodnak. A lefoglalt tárgyak, illetve a felvételek száma, az elfogás körülményei és a korábbi bejelentések dátuma is eltér a forrásokban, ezeket nem lehetett egyeztetni. A férfi bűnösségéről a források nem mondhatnak ítéletet, a vádak bírósági megállapítására még nem került sor.",
+      "op": "A tét elsősorban gyerekek védelme, és ezt a nyomozás eredményessége szolgálná, nem a címlapok versenye. Amíg a számok és a 2018-as, 2019-es dátumok nincsenek tisztázva, a nyilvánosság nem tudhatja, mit tettek a hatóságok és mikor. Kérdés, hogy a vádak a bíróság előtt is megállnak-e.",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/kulfold/2026/11/06/thomas-markle-meghan-markle-apja-letartoztatas-gyerek-bantalmazas"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/06/letartoztattak-meghan-markle-apjat-akit-gyermekek-szexualis-bantalmazasat-abrazolo-anyagok-birtoklasaval-vadolnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261106_thomas-markle-gyermekpornografia-letartoztatas-meghan"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/nagyvilag/2026/11/thomas-markle-letartoztatas"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261106/1793981347-temp-h6n1r4tqq2tv0dfliml_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/kulfold/2026/11/06/thomas-markle-meghan-markle-apja-letartoztatas-gyerek-bantalmazas",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-7ff39bff366393cfe1",
+      "r": "Kultúra",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T16:26:20+00:00",
+      "t": "Elhunyt Gali László, a Gárdonyi Géza Színház egykori igazgató-főrendezője",
+      "s": "Nyolcvanhárom éves korában elhunyt Gali László Jászai Mari-díjas színházi rendező, színházigazgató, a Gárdonyi Géza Színház örökös tagja. A halálhírt a színház Facebook-oldalán tette közzé.",
+      "p": [
+        "A Gárdonyi Géza Színház közlése szerint Gali László csütörtökön hunyt el. A teátrum pénteken, a Facebook-oldalán tudatta a gyászhírt. A bejegyzésben a társulat önálló működésének újraalapítását emelték ki, mint Gali nevéhez köthető legfontosabb eredményt. Az intézmény szerint az 1986 és 1996 közötti igazgató-főrendezői éveivel mély nyomot hagyott Eger kulturális életében.",
+        "Gali László 1943. február 12-én született Debrecenben. A debreceni egyetemen magyar–történelem és népművelés szakon két diplomát szerzett, majd néhány év tanári munka után a Színház- és Filmművészeti Főiskola színházrendezői szakán végzett Major Tamás osztályában. A főiskolai diplomát 33 évesen, 1976-ban kapta meg. Ezt követően a debreceni Csokonai Színház rendezője lett, 1979-től 1986-ig pedig ugyanitt igazgató-főrendezőként dolgozott. Pécsen, Kecskeméten és a Magyar Televízióban is munkát vállalt.",
+        "Pályáján az egri Gárdonyi Géza Színház megalapítását és tíz éven át tartó igazgató-főrendezői munkáját tartotta a legfontosabbnak. 1981 és 1986 között a Színházművészeti Szövetség, a mai nevén Magyar Színházi Társaság elnökségi tagja volt. Haláláig a Pethes–Agárdi-díj kuratóriumának elnökeként dolgozott; a díj fiatal színészházaspárok utazását támogatta. Határon túli színházaknál is dolgozott, és a források szerint mindig fontosnak tartotta a hazai és a külföldi szakmai kapcsolatok építését.",
+        "Rendezéseinek száma a színházi adattár szerint csaknem száz. Klasszikus és kortárs darabokat egyaránt színpadra állított. A kassai Thália Színházban Sütő András Káin és Ábel című művét vitte színre, amelyből 2009-ben filmet is készített. Ugyanebben az évben Alena Melega Ameli sóhaja című darabját rendezte meg, a pécsi Kulturális Központban pedig Federico García Lorca Alvajáró románcát mutatta be. További rendezései között szerepel Arthur Miller A salemi boszorkányok, Tamási Áron Énekes madár és Shakespeare-darabok sora.",
+        "Munkásságáért 1982-ben Jászai Mari-díjat kapott. Színiiskolákban színésznemzedékeket nevelt, ami a közlések szerint szintén hozzátartozott pályája gerincéhez. A hírt az MTI-re hivatkozó Telex is közölte, a részletek többnyire a színház bejegyzésén alapulnak. A források halála körülményeiről nem szólnak."
+      ],
+      "cav": "A halál pontos körülményeiről a cikk forrásai nem írnak. Az életrajzi adatok többsége a Gárdonyi Géza Színház közleményéből származik, így másodkézből, az MTI-re hivatkozva kerültek a cikkekbe. A források egy része eltérően nevezi meg a Pethes–Agárdi-díjat és a Lorca-darab címét, illetve nem egyformán részletezik a színiiskolai tevékenységét.",
+      "op": "Egy színházi életpálya lezárultával a legfontosabb kérdés az, hogy a működő intézmények mennyire őrzik meg a múltjukat. Gali László egri öröksége akkor ér valamit, ha a színház átlátható módon számol el a saját történetével és a közpénzből támogatott programjaival.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/kultura/20261106_gali-laszlo-halalhir-szinhaz-rendezo-jaszai-mari-dijas"
+        ],
+        [
+          "Index",
+          "https://index.hu/kultur/2026/11/06/meghalt-gyasz-gali-laszlo-szinhaz-rendezo/"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/karakter/kultura/2026/11/06/elhunyt-gali-laszlo-rendezo-jaszai-mari-dij-gardonyi-geza-szinhaz"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/53578854-48d7-44fe-b80c-d6f9024475ac.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kultura/20261106_gali-laszlo-halalhir-szinhaz-rendezo-jaszai-mari-dijas",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-ced48c53e909c072d9",
+      "r": "Kultúra",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T18:25:31+00:00",
+      "t": "Megszűnt az Operaház főigazgató-helyettesének munkaviszonya",
+      "s": "Főző Virág, a Magyar Állami Operaház főigazgató-helyettese munkaviszonya pénteken, azonnali hatállyal véget ért. Az intézmény szerint a vezető érintett volt az átvilágítás során feltárt szabálytalanságokban.",
+      "p": [
+        "Az Operaház közleménye szerint a döntés hátterében az áll, hogy a vezető érintett volt az átvilágítás során feltárt, szabálytalannak minősített folyamatokban. A tájékoztatást az intézmény a Telex megkeresésére adta.",
+        "A Telex információi szerint Főző Virág az ELTE Állam- és Jogtudományi Karán szerzett diplomát, 2002 márciusa óta dolgozott az intézményben jogtanácsosként, majd 2014-ben lett főigazgató-helyettes. Az elmúlt években a korábbi főigazgató, Ókovács Szilveszter legközelebbi munkatársa volt. Munkáját ideiglenesen Ivacs Balázs, a megbízott főigazgató végzi.",
+        "Az eseményeket megelőzte, hogy Tarr Zoltán miniszter hétfőn eltávolította Ókovács Szilvesztert az intézmény éléről. Nagy Ervin államtitkár szerint az átvilágítás során döbbenetes részletek kerültek elő. Az ő állítása szerint Ókovács a minisztérium engedélye nélkül, külön juttatásokkal emelte saját javadalmazását.",
+        "Ókovács ezzel szemben úgy fogalmazott, hogy az átvilágítás során senki nem kérte ki a véleményét, megkeresésére pedig nem érkezett válasz. Bejelentette, hogy bírósághoz fordul a menesztése ellen. A rendelkezésre álló beszámolók nem részletezik a szabálytalanságok konkrét tartalmát, és Főző Virág álláspontja sem szerepel bennük."
+      ],
+      "cav": "Az érintett vezető nyilatkozata nem szerepel a forrásokban, és a szabálytalanságok konkrét természete sem derül ki. Az átvilágítás részleteit csak a politikai szereplők közléseiből ismerjük, így ezek az állítások nem ellenőrizhetők.",
+      "op": "Ha egy állami intézmény vezetői prémiumokkal és szabálytalan eljárásokkal kerülnek összefüggésbe, a nyilvánosságnak joga van tudni, mi történt. Egy munkáltatói döntés önmagában nem zárja le az ügyet. Az Operaház hitelét az fogja visszaadni, ha az átvilágítás eredményei nyilvánosan is megismerhetők lesznek.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/operahaz-foigazgato-helyettese-kirugas-fozo-virag/m772qlp"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/karakter/kultura/2026/11/06/azonnali-hatallyal-megszuntettek-az-operahaz-foigazgato-helyettesenek-munkaviszonyat-fozo-virag-okovacs-szilveszter"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261106/1793988419-temp-72a603nq4dt59ojohch_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/karakter/kultura/2026/11/06/azonnali-hatallyal-megszuntettek-az-operahaz-foigazgato-helyettesenek-munkaviszonyat-fozo-virag-okovacs-szilveszter",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-f61d64b6bcb3045a8a",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 6.",
+      "published_at": "2026-11-06T17:12:00+00:00",
+      "t": "Volt ombudsman szerint 2012-ben már tudni lehetett a bicskei gyermekotthoni bántalmazásról",
+      "s": "Szabó Máté, az alapvető jogok korábbi biztosa szerint hivatala 2012-ben már megállapította a bicskei gyermekotthonban történt szexuális bántalmazást és az eltussolási szándékot. A kegyelmi botrányt vizsgáló parlamenti bizottság előtt azt is elmondta, hogy jelentését Balog Zoltán és Polt Péter is megkapta.",
+      "p": [
+        "A kegyelmi botrány felelőseit vizsgáló bizottság pénteki ülésén Szabó Máté azt állította, hogy a bicskei gyermekotthonban zajló szexuális bántalmazás már 2012-ben ismert volt. Az Index és a Telex egyaprósággal eltérően, de mindketten az MTI tudósítására hivatkozva számoltak be erről.",
+        "A volt biztos hivatala a gyerekotthon munkatársainak bejelentése nyomán kezdett vizsgálatot. Szerinte a jelentés szerint nemcsak a bántalmazás volt egyértelműen igazolható, hanem az is, hogy az intézmény vezetése a gyermekek és a személyzet hallgatását próbálta kikényszeríteni. Ezt az összefüggést csak az ő szavaiból ismerjük, a jelentés szövegét a források nem közlik.",
+        "Szabó Máté hangsúlyozta, hogy a vizsgálat nem a történtek tényeire irányult, hanem arra, hogy a rendőrség és az ügyészség tisztességesen kezelte-e a gyerekek ügyét a 2011-ben indult, egy évvel később lezárt nyomozásban. A súlyos hiányosságokat tartalmazó jelentést szerinte eljuttatta Balog Zoltánnak, akkori emberi erőforrás miniszternek és Polt Péter legfőbb ügyésznek, de nem tapasztalta, hogy az ügy ezután komoly nyilvános figyelmet kapott volna.",
+        "A bizottság ugyanezen az ülésen Klötzl Juditot hallgatta meg, az Emberi Erőforrások Minisztériumának korábbi osztályvezetőjét, aki Balog Zoltán volt protokollfőnöke is volt. Őt Vásárhelyi Jánosnak, a bicskei intézmény egykori igazgatójának 2016-os állami elismeréséről kérdezték. Klötzl Judit szerint az ilyen díjak sokszakaszos eljárásban születnek, a kitüntetési osztálynak volt joga rákérdezni a rendőrségnél, folyik-e büntetőeljárás a javasolt személy ellen. Állítása szerint akkor Vásárhelyi ellen nem volt eljárás, a bizottságnak és az ágazati államtitkárságnak viszont az lett volna a dolga, hogy kiszűrje az alkalmatlan jelölteket, ami elmaradt. Azt is mondta, hogy korábban bőven érkeztek jelzések a férfi alkalmatlanságáról.",
+        "A bizottság úgy döntött, hogy kezdeményezi a Fejér Megyei Rendőr-főkapitányság 2011-es, később lezárt nyomozásában részt vett nyomozók és beosztottak meghallgatását. Schummer Orsolya, a testület elnöke (Tisza Párt) az ülés után azt mondta, reméli, a tagok újragondolják azt a korábbi döntést, amely szerint Semjén Zsoltot, a kitüntetési bizottság akkori elnökét nem hallgatják meg.",
+        "A háttérben több, egymással összefüggő ügy áll. Novák Katalin 2023-ban köztársasági elnöki kegyelemben részesítette Kónya Endrét, akiről a Telex szerint Vásárhelyi János helyettese volt. Vásárhelyit kiskorú gondozottak szexuális bántalmazásáért nyolc év fegyházbüntetésre ítélték, Kónyát 2021-ben három év négy hónap börtönre, mert a gyerekek megfélemlítésével és pszichés nyomásgyakorlással próbálta elfedni a bűncselekményeket. Magyar Péter miniszterelnök korábban azt állította, hogy Balog Zoltán javasolta Vásárhelyit kitüntetésre, amit Balog meg is erősített. Ő viszont úgy fogalmazott, hogy a szakmai és erkölcsi ellenőrzés nem az ő feladata volt, miniszterként a kilenc lépcsős felterjesztés hetedik szintjén hozott döntést, és amint jelzést kapott a gyanús esetekről, azonnali vizsgálatot kért."
+      ],
+      "cav": "Szabó Máté 2012-es jelentésének tartalmát csak az ő szavaiból ismerjük, a dokumentumot a források nem idézik, ezért nem ellenőrizhető. Balog Zoltán és Magyar Péter állításai ellentmondanak egymásnak a kitüntetés kezdeményezésének szerepét illetően. A Kónya Endréről és Vásárhelyi Jánosról szóló ítéletekre a Telex hivatkozik, az Index nem.",
+      "op": "Ha 2012-ben már ismert volt a bántalmazás és az eltussolás, a kérdés nem az, hogy tudtak-e róla, hanem az, miért nem lett belőle semmi. A gyerekek védelme nem függhet attól, melyik szint hallgat, és a közvéleménynek joga van megtudni, ki döntött a kitüntetésről, és miért.„]",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/06/kegyelmi-ugy-bicskei-gyermekotthon-parlamenti-vizsgalobizottsag-szabo-mate/"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/06/bicskei-gyerekotthon-bantalmazas-vasarhelyi-janos-konya-endre-balog-zoltan"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7245/72457/724578/72457841_5339451_895a4ab125b25fc2e946db797ac630a0_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/06/kegyelmi-ugy-bicskei-gyermekotthon-parlamenti-vizsgalobizottsag-szabo-mate/",
+      "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
     }
   ]
