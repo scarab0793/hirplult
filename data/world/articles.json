@@ -1,6 +1,304 @@
 {
- "updated_at": "2026-11-07T11:54:31.813812+00:00",
+ "updated_at": "2026-11-07T17:50:49.699654+00:00",
  "items": [
+  {
+   "id": "w-b652c1e8eeb105f6",
+   "member_ids": [
+    "w-b652c1e8eeb105f6"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T17:41:45+00:00",
+   "t": "Six killed and more than a dozen hurt in Kraków shooting, police say",
+   "s": "A gunman opened fire from a moving car in the main square of Kraków, Poland, killing six people and injuring more than a dozen, according to local authorities. The suspect was shot by police and detained, and no motive has been announced.",
+   "p": [
+    "Police began receiving reports at around 3 p.m. local time that someone in a car was shooting at random people entering the city’s main square, a major tourist destination, a police spokesperson said. The gunman fired from the vehicle near Słowacki Street, according to local reports, before officers confronted him near the intersection of Dietla and Stradomska streets.",
+    "Police said the man was wearing military-style attire and used military-type firearms. During the arrest, officers opened fire, and the man returned fire, leaving two police officers among the injured. Authorities said more weapons had been secured in his car. The suspect, who is also in hospital, has not been named by officials.",
+    "Initial reports gave a death toll of five. The regional Małopolska government later said the number of people killed had risen to six, and the Małopolskie region governor, Krzysztof Jan Kleczar, told Polsat News that 12 of the injured were in a life-threatening condition.",
+    "Prime Minister Donald Tusk said that “all circumstances” of the attack were being investigated and travelled to the city. Defence Minister Władysław Kosiniak-Kamysz said he was in contact with the interior minister, the voivode and the emergency services. President Karol Nawrocki said he expected a full explanation of the circumstances.",
+    "Police said the suspect was Polish and rebuked conspiracy theories circulating on social media. Onet, citing police, reported that the man had no identification documents on him and that his identity was established through operational work.",
+    "A man who gave his name as Konrad and said he witnessed the shooting told the news website Interia that he saw shots fired from the driver’s side window. He ran to a police station on the main square and found people lying on the floor inside. His account has not been independently verified.",
+    "The US ambassador to Poland, Tom Rose, described the shooting on X as a mass attack and expressed solidarity with the city. No motive has been announced, and the sources do not say whether the suspect acted alone."
+   ],
+   "cav": "Sources disagree on the death toll: one report cites five dead, while the regional government later said six. Several details, including the account of the witness and the description of the weapons, are second-hand or based on early police statements. The motive remains unknown.",
+   "op": "Attacks on crowded public spaces demand patient, transparent answers rather than speculation. Poland’s promise of a full explanation must be kept in public view, with a verified timeline that residents and the families of the victims can trust. Rebutting online conspiracy theories is only a start; the state owes the city clear facts as the investigation proceeds.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+  },
+  {
+   "id": "w-26814394bd585e33",
+   "member_ids": [
+    "w-26814394bd585e33",
+    "w-65b52f269725d31f"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T16:50:06+00:00",
+   "t": "Italian foreign minister says hackers published his personal data on the dark web",
+   "s": "Italy’s Foreign Minister Antonio Tajani says criminal groups have been releasing his private information and targeting his relatives. Prime Minister Giorgia Meloni has blamed pro-Russian hackers.",
+   "p": [
+    "Tajani wrote on X that, over several days, “cyber-criminals” had posted his personal details on the dark web while asking for more information about him. He argued that this put him at risk of new dangers and attempts to frighten him, though he did not describe what those dangers involved.",
+    "According to Tajani, the people behind the campaign are also going after his family. He connected the episode to Italy’s backing for Ukraine, saying that defending a sovereign state’s freedom and independence has made him a target for groups he called criminal.",
+    "Meloni publicly stood by Tajani and placed the blame on pro-Russian hackers. In a statement, she voiced serious worry about the trade in confidential material concerning government representatives and said it needed to be confronted firmly.",
+    "Meloni also flagged manipulated pictures that she said had been passed around by opposition members. She gave no information about what those pictures depicted.",
+    "Tajani did not say which kinds of information had been exposed. He indicated that the threat had not ended. He also raised the possibility that the attacks were a response to Rome’s work to shore up the digital protections of the Foreign Ministry, a point reported by Al Jazeera.",
+    "Tajani said his ministry was treating the matter seriously and was working with allied governments on a response. Al Jazeera also placed the affair in the context of a series of hoax bomb warnings across Europe, which have led to rerouted flights, alerts at broadcasters and sabotage of supermarket cooling equipment. Those sources do not tie these events to the data leak.",
+    "BBC News notes that Italy has supplied both humanitarian and military aid to Ukraine since Russia’s invasion."
+   ],
+   "cav": "The sources do not identify the hackers beyond Meloni’s attribution to pro-Russian actors, and they do not say what data was published or what the threats involved. Tajani’s link to Ukraine policy and the alleged opposition-shared images rest on his and Meloni’s own statements, without independent detail.",
+   "op": "A minister who says he is being intimidated over a political stance deserves a clear public account of what was exposed and who is responsible. If Rome wants to be trusted on security, it should share enough detail for independent scrutiny, not only condemnation.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
+  },
+  {
+   "id": "w-93a68188c9347541",
+   "member_ids": [
+    "w-93a68188c9347541",
+    "w-f0ee3859e44f66d2",
+    "w-f51ffab85332f09b"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T16:06:58+00:00",
+   "t": "Shooting in Krakow’s main market square leaves at least six dead and wounded, police say",
+   "s": "At least six people were killed and about fifteen injured after a gunman opened fire from a car in the main market square of Krakow, Poland, on Saturday, according to police. The suspected shooter was wounded in an exchange of fire with officers.",
+   "p": [
+    "Police in Krakow, Poland’s second-largest city, said a man drove into the main market square at around 3 pm local time, which is 1400 GMT, and began shooting at people from inside the vehicle. Early reports from the scene varied. One broadcast account, drawing on Reuters, cited at least five dead, while DW reported at least six killed and fifteen injured, with the toll rising in later updates.",
+    "Police said the gunman was reportedly a Polish citizen who acted alone. Officers shot him, and he was being taken to hospital, according to the force’s statement on X. Among the wounded are police officers, DW reported.",
+    "Authorities initially urged people in the immediate vicinity to move to a safe place. Prime Minister Donald Tusk wrote on X that police were investigating the attack and described it as “tragic”. President Karol Nawrocki said his thoughts were with the victims, the wounded and their families.",
+    "Krakow lies about 250 kilometres from Warsaw and has more than 800,000 residents. It is a popular tourist destination, known for the main square, Wawel Castle and the cathedral on Wawel Hill. Al Jazeera’s brief report gave a figure of five dead and at least ten injured.",
+    "Reports say mass shootings are uncommon in Poland. Motive has not been stated in the material available so far, and the accounts of casualty numbers have not yet been reconciled."
+   ],
+   "cav": "The death and injury tolls differ between outlets, and the figures were still being updated when the reports were filed. The gunman’s motive and any wider background are not described in the sources, and the nationality claim is reported rather than confirmed.",
+   "op": "When a gunman fires at random people in a public square, the public needs a clear and timely account of what happened and why. Polish authorities should publish verified casualty figures and the findings of their investigation, so that public trust is not left to rumour.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
+  },
+  {
+   "id": "w-85ece2f5694e6af6",
+   "member_ids": [
+    "w-85ece2f5694e6af6"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-07T15:56:28+00:00",
+   "t": "New Zealand election leaves no clear winner as coalition talks loom",
+   "s": "Preliminary results from New Zealand's weekend election point to a deeply divided parliament, with neither major bloc holding a clear path to government. Official confirmation is not expected until late November.",
+   "p": [
+    "There was no clear winner after New Zealand’s general election on Saturday, and the leaders of the two major parties are preparing for negotiations on forming a coalition government.",
+    "Prime Minister Christopher Luxon’s centre-right National Party won 42 seats, the most of any party, according to preliminary results. That was still 19 short of the simple majority needed to govern. Its coalition partners, ACT and New Zealand First, would give the right-leaning side a slim lead over the left-leaning bloc if a deal could be reached.",
+    "Opposition leader Chris Hipkins, whose Labour Party won 36 seats, did not concede. He said the “shape of the next government” would remain uncertain “for a while”. The Greens were projected to win 16 seats, ACT 13, New Zealand First 12, the Opportunity Party 7 and Te Pāti Māori 5.",
+    "The campaign was shaped largely by the cost of living and unemployment. More than 99 per cent of votes had been counted by the time of reporting, with National and Labour close on vote share. The two major parties together took around 60 per cent, which the BBC described as historically low support.",
+    "Luxon congratulated Hipkins on a “very hard-fought race” and said he would lead a caretaker government until final results are confirmed. The electoral commission is not due to announce the official result until 27 November. Hipkins said the next parliament would require all sides to compromise.",
+    "The Opportunity Party, a centrist group, crossed the 5 per cent threshold to enter parliament for the first time. Its leader, Qiulae Wong, said it would work with either side, though it would first negotiate with the party that wins the most seats. The BBC described it as this election’s kingmaker.",
+    "Election law expert Andrew Geddis of the University of Otago said special votes, including overseas votes, would need to be processed over the next three weeks, and that the outcome could hinge on very fine margins in individual electorates. New Zealand’s mixed-member proportional system makes coalition governments the norm."
+   ],
+   "cav": "The source spells the Labour leader’s name inconsistently and gives only preliminary figures, so seat totals could change once special votes are counted. The claim that the Opportunity Party is a kingmaker is a description by the BBC and expert commentary, not a settled outcome.",
+   "op": "Coalition talks should wait for every vote to be counted and certified, and the commission’s timetable must be respected. Voters deserve transparent results before any deal is struck behind closed doors. The next government will only be legitimate if its making is open to scrutiny.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+  },
+  {
+   "id": "w-44e883a35629d85d",
+   "member_ids": [
+    "w-44e883a35629d85d"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T15:37:50+00:00",
+   "t": "Six killed and 15 injured in Kraków Main Square shooting, Polish authorities say",
+   "s": "At least six people were killed and fifteen injured after a gunman opened fire on the main square of the Polish city of Kraków, according to authorities. The suspected gunman was shot by officers and taken to hospital.",
+   "p": [
+    "The regional government of Małopolska confirmed the casualty figures on Saturday evening. Among the injured were two police officers, one with a gunshot wound and another in very serious condition after three gunshot wounds, who was undergoing surgery, according to police.",
+    "A spokesperson for the local firefighters told Polsat News that the attacker fired from a passing car. Police said the gunman is a Polish citizen and denied reports that a second perpetrator was being sought.",
+    "Numerous police cars and ambulances gathered near St Mary’s Basilica, and a helicopter from the air ambulance service was dispatched to the site. The city office said rescue services were working on the Main Square while police carried out operations in several locations.",
+    "President Karol Nawrocki said he was “deeply concerned” by the events and that the head of the National Security Bureau was travelling to Kraków. The story is still developing, and further details are expected as they emerge."
+   ],
+   "cav": "The sources do not state a motive. The account of the shooting from a passing car comes from a firefighters’ spokesperson speaking to Polsat News, so it is second-hand. The municipal government and regional authorities gave differing sources for the initial information, and the death toll is described as “at least” six.",
+   "op": "A mass shooting in a city centre demands full, prompt disclosure of what happened and why. Officials should clarify the suspect’s circumstances and the police response, so that public trust rests on verifiable facts rather than rumour.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+    ]
+   ]
+  },
+  {
+   "id": "w-8b62aafdbd54da12",
+   "member_ids": [
+    "w-8b62aafdbd54da12"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T15:06:59+00:00",
+   "t": "National Trust members back a tender for a new bank with stronger environmental standards",
+   "s": "Members of the National Trust have voted by a wide margin to seek a new banking partner, a decision aimed at the charity’s ties to Barclays. The trustees have backed the move, though the ballot does not bind them.",
+   "p": [
+    "At its annual general meeting on Saturday, the charity approved a resolution directing it to launch a competitive tender for its banking arrangements. The trustees supported the resolution, according to the Guardian’s report.",
+    "For the first time, the tender would make a demonstrable environmental record a condition for any incoming bank, with a focus on protecting wildlife and cutting emissions. Campaigners counted 53,256 votes in favour and 4,094 against, and argued that charities should hold their lenders to the same green standards they apply to investments and suppliers.",
+    "Not everyone sees the result as a decisive shift. Some sources said the tender is unlikely to start for at least a year, a timeline the report attributes to insiders rather than to the charity itself.",
+    "Sandy Nairne, the board’s deputy chair, told members that the ballot offers trustees a useful gauge of opinion but does not oblige them to act. He said the board would weigh the outcome together with the debate held at the meeting before deciding its next steps.",
+    "Drew James, who proposed the resolution and belongs to Christian Climate Action, described the result as a sign of growing pressure on non-governmental organisations to justify their partners. Supporters contend that keeping Barclays as bank sits badly with the trust’s public warnings about climate change and nature loss, and with its statutory purpose under the National Trust Act 1907.",
+    "Barclays defended its position, saying it was honoured to bank the charity and pointing to more than $300bn (£225bn) of sustainable and transition finance mobilised over three years. Campaigners question how much that total matters, noting that the bank’s latest annual report indicates fossil fuel firms can draw on the fund so long as the money is not earmarked for oil and gas work directly.",
+    "The trustees have also made clear that the tender will not be limited to specialist ethical lenders. In their view, none of those institutions currently offers the cash handling, lending capacity and payments infrastructure a body of the trust’s scale requires, so the major UK clearing banks must remain eligible.",
+    "Restore Trust, a members’ group, said the vote pulls the charity away from its central job of looking after historic buildings and countryside. Its chair, Cornelia van der Poll, made that criticism publicly."
+   ],
+   "cav": "The timing of the tender rests on unnamed insiders, and the report does not confirm when it will begin. The account relies on campaigners’ figures and on statements from Barclays and the trust, which have not been checked independently.",
+   "op": "A charity that urges the public to bank ethically should be prepared to meet that standard itself. The trustees have the final word, and they should publish clear criteria and a timetable, so members can see whether their vote carries weight beyond a signal.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
+  },
+  {
+   "id": "w-f9ce569d6615b2e5",
+   "member_ids": [
+    "w-f9ce569d6615b2e5",
+    "w-3ab4a75fbeb5c49e",
+    "w-4af92177e792adac"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-07T13:48:18+00:00",
+   "t": "New Zealand election too close to call as special votes leave final result weeks away",
+   "s": "New Zealand’s general election failed to produce a decisive result, with the centre-right National Party ahead but no clear path to government yet. Official results may not arrive until late November.",
+   "p": [
+    "Preliminary results from New Zealand’s general election on Saturday left the two main parties close together, with the outcome not expected to be settled for some time. Prime Minister Christopher Luxon’s National Party is the largest party in parliament, but neither the incumbent right-leaning coalition nor the opposition left bloc has a decisive lead.",
+    "According to the Guardian, National won 42 seats on regular votes, with its coalition partners the libertarian Act party on 13 and the populist New Zealand First on 12. That gives the three parties a combined 67 seats, a majority described as wafer thin. The Labour Party, led by Chris Hipkins, won 35 seats, with the Greens on 16, Te Pāti Māori on five and the centrist newcomer Opportunity on seven.",
+    "Special votes, which include overseas ballots and votes cast outside a voter’s electorate, have yet to be counted. Both outlets say these ballots have tended to favour left-leaning parties in recent elections. The Guardian reports that official results are due on 27 November, while DW says the votes are to be counted over the next three weeks.",
+    "Luxon told supporters that the result was “too close to call” and that National had “a pathway to forming the next government”. Hipkins said voters had spoken but that it “may take a bit longer” to work out what they had said, and he urged politicians to find common ground.",
+    "The Opportunity Party could act as kingmaker if the right bloc’s slim majority does not hold. It would be the first new party to clear the 5% threshold since New Zealand adopted its mixed-member proportional system in 1996, according to the Guardian.",
+    "The electoral system also means parliament could grow to 130 seats because of overhang seats, a record under the system. The Guardian reports that National could gain five extra seats, but that several senior ministers, including Nicola Willis and Chris Bishop, would not return to parliament.",
+    "The campaign took place against high prices for basic goods and the country’s highest unemployment in more than a decade, according to DW. Luxon said caretaker conventions would apply while the count continues, and that the daily business of government would carry on.",
+    "Almost 1.7 million of the country’s 3.8 million eligible voters had cast ballots before election day, according to the electoral commission cited by DW."
+   ],
+   "cav": "The sources disagree on how much of the vote was counted, with reports citing 95% and nearly 100% of regular votes, and on the margin between the two main parties, which DW gives as about 3,500 votes and the Guardian as 0.02 percentage points. The Guardian’s description of the left bloc as three seats short does not match its own seat totals, which put it four seats short of 67. The timing of the final results also varies between sources.",
+   "op": "Election outcomes should be settled by transparent counting, not by the impatience of parties eager to claim power. New Zealanders deserve a full, publicly verified count of special votes before any coalition is announced. Any government formed in the coming weeks should be judged on whether it can explain its mandate openly.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+  },
+  {
+   "id": "w-62f39c82b1348381",
+   "member_ids": [
+    "w-62f39c82b1348381"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-07T13:03:03+00:00",
+   "t": "Kyiv faces blackouts and water shortages after Russian strikes on the energy grid, ahead of Abu Dhabi talks",
+   "s": "According to The Guardian, Russia launched a large overnight assault on electricity substations and a bridge over the Dnipro, leaving parts of Kyiv short of power, water and heat. The strikes came just before negotiators from Russia, Ukraine and the US were scheduled to meet in Abu Dhabi.",
+   "p": [
+    "Overnight, Moscow fired 172 drones and 36 ballistic missiles at Kyiv and surrounding regions, according to the report. Volodymyr Zelenskyy accused Russia of trying to “plunge Kyiv and the entire country into a blackout” by hitting energy infrastructure in the capital and a bridge over the Dnipro River.",
+    "The Ukrainian president said the capital was struggling to keep electricity, water and heating running. Five people were hurt, among them a 14-year-old girl. Substations in five regions were targeted, one of which links two nuclear power plants to Kyiv.",
+    "Road traffic was also disrupted. The Northern Bridge, an important transport route, was shut on Saturday so crews could fix damage to the roadway and the power lines beneath it.",
+    "The assault followed a grim stretch for residents, many of whom have endured full-day power cuts and gaps in their water supply. Ukrainian officials argue that the Kremlin is trying to leave civilians without heat through the winter, which they describe as a war crime. The report presents this as their claim, not as an independently established finding.",
+    "Diplomacy is running alongside the military pressure. Negotiators from Russia, Ukraine and the US are due to meet on Tuesday and Wednesday in Abu Dhabi, with the aim of ending the war. Kyiv has little faith that the US-backed process will produce tangible results. In an interview with CNN, Zelenskyy labelled the latest outline from Jared Kushner, Donald Trump’s son-in-law, “Yalta 2.0”, a nod to the 1945 meeting of Stalin, Roosevelt and Churchill that carved up postwar Europe.",
+    "Kushner wrote in a series of social media posts that the discussions would cover a new European security framework and guarantees for Ukraine. The report says this seems to echo a long-standing Kremlin demand that Nato’s expansion across the continent be reversed. On Friday, Trump said a “big beautiful agreement” could be close, one involving “all of Europe”.",
+    "Zelenskyy’s position is that Russia must first end the war and Ukraine must receive meaningful security guarantees. Only after that, depending on the responses, could a wider security architecture be considered. Western diplomats say that accepting Russia’s demands would effectively end Nato. Russia’s defence ministry said Saturday’s strikes targeted energy and transport sites. Since the summer, Russian air attacks on Ukrainian cities have intensified while Moscow’s frontline progress has stalled. Kyiv says Russia lost 54,000 troops, killed or wounded, last month, the highest monthly toll of the war."
+   ],
+   "cav": "The drone and missile counts, the casualty figures and the 54,000 troop loss come from Ukrainian officials or Russia’s defence ministry and are not independently verified in the report. The account of the Kushner blueprint rests largely on Zelenskyy’s remarks and Kushner’s posts, so the actual terms of any proposal remain unclear.",
+   "op": "Any deal affecting Ukraine’s security and Europe’s order must be open about its terms and guarantees. Bombing a city of millions to strengthen a negotiating position is coercion, not diplomacy, and talks that quietly reward such tactics would betray the rule of law they claim to defend.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=3d43b27b3c2c259de81a9207bf8adbd7",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+  },
+  {
+   "id": "w-a09e7cf61f77163c",
+   "member_ids": [
+    "w-a09e7cf61f77163c"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-07T13:00:12+00:00",
+   "t": "Trump names Stephen Miller White House chief of staff after midterm defeat, prompting warnings over executive power",
+   "s": "Donald Trump has appointed Stephen Miller, the architect of his immigration agenda, as White House chief of staff days after Republicans lost control of Congress. Critics say the move signals a more confrontational presidency.",
+   "p": [
+    "Donald Trump on Friday named Stephen Miller as White House chief of staff, a post that takes over from Susie Wiles. The appointment came days after Republicans suffered heavy losses in Tuesday’s midterm elections, which put Democrats back in charge of the House of Representatives and the Senate.",
+    "According to a Guardian commentary, Miller is a 41-year-old longtime advocate of expanded presidential authority. The article describes him as the architect of Trump’s hardline, nativist immigration agenda and says Democrats and civil rights groups have condemned him as a white nationalist. The piece argues that his promotion is a defiant response to voters rather than a sign of humility.",
+    "The author notes that Miller already held a powerful post as deputy chief of staff and is reportedly one of a small group of staffers who approve all executive orders. He is also credited with driving an immigration crackdown that set a target of 3,000 arrests per day, a figure the article says is far above levels under previous administrations. Its account of the enforcement push, including efforts to target people in the country illegally who have no criminal record, is presented as the writer’s reading of policy rather than as an independent finding.",
+    "The article says Trump has signed 292 executive orders in less than two years, a pace it describes as a record for a modern presidency. It accuses him of bypassing Congress on military action and tariffs, withholding approved spending and deploying the National Guard against the wishes of state authorities. Congress, dominated by Republicans, offered little resistance, the piece says.",
+    "Democrats are expected to use their new committee powers to launch investigations, issue subpoenas and hold high-profile hearings. The article says they may examine the Jeffrey Epstein files, the Department of Government Efficiency and how Trump and his family have grown wealthier since his return to office. It also notes that major funding for Immigration and Customs Enforcement in the One Big Beautiful Bill Act will keep the agency financed for the rest of Trump’s term, limiting what Democrats can do to stop it.",
+    "Commentators quoted in the piece expect more conflict. Kurt Bardella, described as an adviser to Democrats in Texas, said Miller has been “the id to Trump’s authoritarian impulses”, and predicted more executive orders and unilateral action. David Cohen, a political science professor at the University of Akron, said Trump appeared “spoiling for a fight” with Democrats. Bill Galston of the Brookings Institution called the appointment hard to read except as a snub to the American public.",
+    "The article also places the moves in a longer history of efforts to expand presidential power, citing Arthur Schlesinger Jr.’s 1973 book The Imperial Presidency and a 1989 counterpoint from the American Enterprise Institute. The piece presents these as background and does not suggest the current White House has explained its reasoning for the appointment."
+   ],
+   "cav": "This is an opinion column, and its characterisations of Miller, of the White House’s intentions and of Democrats’ plans are the author’s and the quoted commentators’. The sources do not include a White House response or Miller’s own account, and the 3,000-arrests target and executive-order count are reported as stated in the piece rather than independently verified.",
+   "op": "The question at stake is whether Congress will still check the executive after an electorate has spoken. Rewarding a chief architect of contested policies with greater influence sends a message about accountability that voters deserve to hear explained. Democrats now hold the tools of oversight, and they should use them in public, under the rule of law.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=140&quality=85&auto=format&fit=max&s=c1b0aa3ba931de7e4d11a316938b8ccf",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms"
+  },
   {
    "id": "w-ef7c346234ee2795",
    "member_ids": [
@@ -297,6 +595,37 @@
    "img_link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
   },
   {
+   "id": "w-30866560e7b8232b",
+   "member_ids": [
+    "w-30866560e7b8232b"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-07T01:04:52+00:00",
+   "t": "Trump names Stephen Miller chief of staff after midterm rebuke over deportations",
+   "s": "Days after US midterm voters rejected Republican candidates, President Donald Trump named Stephen Miller, the architect of his most aggressive immigration policies, as White House chief of staff. Critics say the move signals faster mass deportations.",
+   "p": [
+    "On Tuesday, US midterm voters rejected Republican candidates across the ballot, in states near the southern border and far from it, in blue and deep-red states alike. The result was read as a rebuke of Donald Trump and his mass deportation campaign, which had sent military tanks and masked agents through residential streets.",
+    "On Friday, according to the reporting, Trump did not change course. He named Stephen Miller as his chief of staff. Miller had already been among the most influential figures in the administration’s immigration agenda, serving in earlier roles as a deputy chief of staff and policy adviser.",
+    "The piece credits Miller with a series of violent immigration raids across US cities in the past two years, and with pushing the administration to all but shut down legal immigration. It also describes him as the author of the “Muslim ban” in Trump’s first term and of a zero tolerance policy that separated more than 5,600 children from their parents and caregivers at the US-Mexico border.",
+    "The article says the Wall Street Journal reported that Miller raised the idea of invoking the Insurrection Act after immigration agents shot and killed Alex Pretti, a nurse, during raids in Minneapolis. It also credits him with the legal framework for using the Alien Enemies Act against Venezuelan immigrants, whom it says were expelled to a Salvadoran megaprison.",
+    "Faisal Al-Juburi, co-chief executive of the Texas-based aid group Raíces, said the appointment “signals a doubling down” on the administration’s cruelest impulses. Trump’s defense secretary, Pete Hegseth, praised Miller in a social media post, saying “He never backs down.”",
+    "Democrats who regained control of Congress, governors’ offices and statehouses are expected to press back. Representative Robert Garcia, who is poised to lead the House oversight committee next year, said Miller “should lawyer up” and promised an investigation. Senator Alex Padilla pledged to use oversight, investigations, subpoenas and federal funding leverage.",
+    "The article notes limits on that effort. Immigration enforcement agencies have about $70bn in funding through 2029, Immigration and Customs Enforcement is set to expand its workforce, and arrests and detentions are already at an all-time high. It also reports, citing 2018 events, that Miller reportedly sank a deal that would have given Trump $25bn for a border wall in exchange for protections for undocumented immigrants who came to the US as children."
+   ],
+   "cav": "This is a commentary column, so its characterisations of Miller’s motives and record are the author’s judgement. The Wall Street Journal account of the Insurrection Act discussion and the 2018 deal are second-hand or “reportedly” claims, and the piece does not give Miller’s own response.",
+   "op": "Putting the architect of the deportation drive at the centre of the White House is a test of accountability, not just a personnel choice. Congressional oversight, subpoenas and public records should now be used in full, so that the public can see how these policies are made and who answers for them.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/4c335dc7c5ebfe5400f0bc48dcf393c6617cea91/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ab9e00c284b6f2941a801e39068a3e9a",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration"
+  },
+  {
    "id": "w-a21c6ce96a80ec4b",
    "member_ids": [
     "w-a21c6ce96a80ec4b"
@@ -323,6 +652,38 @@
      "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
     ]
    ]
+  },
+  {
+   "id": "w-20e5ea8a8d513923",
+   "member_ids": [
+    "w-20e5ea8a8d513923"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-06T21:23:54+00:00",
+   "t": "Global stocks slide as tech worries and Democrats’ midterm win rattle markets",
+   "s": "European and Asian stock markets fell sharply on Friday after a rout in US technology shares, which followed the Democrats’ midterm victory. Analysts warned that more selling could follow.",
+   "p": [
+    "European and Asian stock markets fell sharply on Friday, following a sell-off in US technology shares that the Guardian linked to the Democrats’ decisive victory in the midterm elections. The Nasdaq had its worst day in 19 months on Thursday, sinking 5.5%.",
+    "Chip stocks led the decline. According to the report, the memory maker SanDisk tumbled 22% and the hard drive maker Western Digital fell 17%. Wall Street’s volatility gauge, the Vix, jumped by more than 60%, reaching its highest level since the early weeks of the Iran war.",
+    "The selling spread to Asia on Friday. Japan’s Nikkei 225 sank 6%, while South Korea’s Kospi fell more than 6.5%. Christopher Forbes, head of Asia and Middle East at CMC Markets, described the situation as “a bit of a disaster”, saying clients had faced margin calls and complaints.",
+    "In London, the FTSE 100 was at one stage down as much as 2.35% during morning trading, and was poised for its worst day since March. By the close it had recovered some ground and was down 1%, helped by a rise in US stocks when Wall Street reopened. Germany’s Dax fell 2%, France’s Cac 40 dropped 0.8% and Spain’s Ibex lost 0.6%.",
+    "Some relief came in the United States. On Friday the S&P 500 rose 0.3% and the tech-heavy Nasdaq closed up 1%, recovering only part of Thursday’s losses. A stronger-than-expected jobs report showed the US economy added 165,000 jobs in October and the unemployment rate fell to 4.1%.",
+    "Analysts offered differing views on what comes next. Susannah Streeter of Wealth Club pointed to worries that the build-out of datacentres could slow, and to investors becoming nervous about returns on heavy spending. Chris Beauchamp of IG warned there was a risk of “much more selling to come” while fears about the tech sector remain. Mohit Kumar of Jefferies said he did not expect a quick rebound, but did not believe the move marked the start of an unwind of the tech investment trade.",
+    "Despite the losses, most indices remain higher for the year. The Nasdaq Composite is up 6.35% since the start of January, although it is more than 10% below its peak. The FTSE 100 has gained almost 7.5% in 2026, but sits more than 300 points below its record high set in July.",
+    "The turmoil also reached metals markets. Benchmark three-month copper dropped 0.61% and was heading for a 2.79% fall this week, its biggest weekly decline since March. Craig Lang of CRU said copper prices were increasingly shaped by the tech investment market and by sentiment towards datacentre expansion. Investors also said they were watching the oil price and the possibility of a renewed Iran conflict."
+   ],
+   "cav": "The sources link the market fall to the midterm result, but the analysts quoted offer several explanations, mostly centred on doubts about spending on datacentres, and the report does not establish a direct cause. The Iran conflict is mentioned only as a risk that investors are watching.",
+   "op": "Markets are entitled to reprice risk, but investors and voters deserve clear explanations of what drives these swings. Governments should publish data and policy plans openly, so that big tech spending is judged on evidence rather than on rumour and panic.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
   },
   {
    "id": "w-4124fc328a5ee49a",
@@ -1158,280 +1519,6 @@
    "img": "https://i.guim.co.uk/img/media/8be530b5c237fee6a55ec439ba8a4e0c218f7f83/663_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=1a63489bf12b9e911ce58e10795eba5f",
    "img_outlet": "The Guardian",
    "img_link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
-  },
-  {
-   "id": "w-11ddf08904d8536f",
-   "member_ids": [
-    "w-11ddf08904d8536f"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-05T14:37:14+00:00",
-   "t": "Russell Brand in court: the man in the dock was not the showman viewers knew",
-   "s": "A BBC reporter who covered Russell Brand's rape trial at Southwark Crown Court says the man in the dock looked nothing like the flamboyant comedian of his peak fame years. The jury found him guilty of one rape and three sexual assault charges and cleared him of other counts.",
-   "p": [
-    "The BBC’s reporter, who sat a short distance behind Brand in the press seats, describes a defendant who seemed far removed from the television and comedy persona that many people remember from his peak fame years. Over the course of the trial, Brand sat mostly still in a glass-walled dock, showing little visible emotion as the allegations against him were set out in detail over several days.",
-    "After a three-week trial, the 51-year-old was found guilty of one charge of rape and three charges of sexual assault. The jury found him not guilty of two counts of rape and one count of attempted indecent assault. According to the report, the allegations covered a period from 1999 to 2009 and were brought by six women.",
-    "The reporter contrasts the courtroom manner with the evidence. Brand was polite and respectful, holding doors open and thanking court staff. The complainants, by contrast, described a brash and sexually demanding man who, they said, did not accept no for an answer. Some of his old public style did surface outside the building, where he made a beeline for reporters and, on the first day, said he felt “blessed”.",
-    "The coverage also recorded several odd moments. On the first day a man who resembled Brand arrived by car and drew shouted questions before the real Brand stepped out. That man appeared on most days of the trial, and the reporter says it was never clear who he was. Brand, who now presents himself as a Christian influencer, wore several crucifixes, and was seen once handling what looked like prayer beads.",
-    "The reporter says the testimony was harrowing and graphic. Women who gave evidence did so behind a screen, and the reporter found their accounts deeply moving. Brand’s composure rarely cracked. At times he closed his eyes for several seconds, which the reporter suggests may have been prayer or meditation, though this is only an impression. One complainant told the court that blood and faeces had been left on Brand’s bed sheets after she was raped at his house."
-   ],
-   "cav": "This is one reporter’s first-hand impression of courtroom demeanour, not an official account, and the report does not describe sentencing or any appeal. The reporter’s interpretation of Brand closing his eyes is speculative, and the identity of the lookalike is never explained in the source.",
-   "op": "A defendant’s demeanour should never influence a jury, and this account shows why the public must be able to watch trials directly. Open courts let evidence be tested in view of everyone. The public gallery and press benches are not entertainment; they are the safeguard that keeps justice honest.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e2/live/3a920d20-d92a-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo"
-  },
-  {
-   "id": "w-c6cbc568d9b9ff50",
-   "member_ids": [
-    "w-c6cbc568d9b9ff50"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-05T13:32:02+00:00",
-   "t": "Ronaldo’s international retirement draws verdict that his long farewell tarnished a great career",
-   "s": "Cristiano Ronaldo has retired from international football, and Guardian columnist Jonathan Wilson argues that he stayed too long, leaving a legacy shaped by a drawn-out exit. Tributes from Portugal, his clubs and football’s governing body have followed.",
-   "p": [
-    "Wilson opens with the difficulty elite athletes face in choosing when to stop. He argues that the self-belief that carries top sportspeople to the summit can make it hard for them to accept that the time has come. Ronaldo’s retirement, he writes, is a loss for football, and also a reminder of mortality, but he regrets the timing.",
-    "The column traces the problem back to the 2022 World Cup. According to Wilson, Fernando Santos left Ronaldo out of the last-16 tie against Switzerland, and Portugal looked fluent for the first time in years, with Gonçalo Ramos scoring a hat-trick. Even so, many fans in the stadium kept chanting for Ronaldo, and he later scored an offside goal and celebrated with his “Siuuuu” routine.",
-    "Wilson also says Ronaldo’s status made him a political question. He reports that a cabinet minister argued the striker could not be dropped because of the revenue he generated and his value to Portugal’s image.",
-    "Wilson’s account of the most recent years is harsher. He describes Ronaldo weeping after missing a penalty against Slovenia at Euro 2024. At the most recent World Cup, Wilson says, Ronaldo was often out of position and lacked the pace of his peak, and he cites a chance against Spain that was lost when Ronaldo had to turn back.",
-    "Wilson says the national team needed a change. He reports that Jorge Jesus, a 72-year-old coach appointed after the World Cup, did not bring Ronaldo off the bench in the second half of a tight win over Norway. Ronaldo said he had been promised minutes, and he left the squad. The column reports a fine of €255 (£212) and a 30-day ban, imposed in a period when Portugal had no games.",
-    "Tributes followed the announcement. The Portuguese Football Federation praised his dedication and legacy, and Al-Nassr called him an icon. Manchester United, Bruno Fernandes, Diogo Dalot, Pepe and Fifa president Gianni Infantino also paid tribute, with Infantino describing Ronaldo’s international career as part of football’s history.",
-    "Wilson concludes that Ronaldo will be remembered as one of the all-time greats and as a rival to Eusébio as Portugal’s finest player. Yet, in his view, the long goodbye has damaged his reputation. He adds that Ronaldo will return to the Saudi Pro League, where he is chasing a 1,000th career goal."
-   ],
-   "cav": "This is an opinion column, and the account of the fine, the ban and the alleged promise of minutes comes from the writer and has not been independently confirmed here. Wilson also says Ronaldo’s retirement might be a power play to force Jesus out, but he does not establish that.",
-   "op": "Selection decisions in national teams should rest on clear, open reasoning, not on a player’s fame or commercial value. When a star’s place is protected by reputation, the squad and the public both lose. Accountability should apply to legends too.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/249366a1c838cbae96f59631c6cbdf1f695b54b6/0_73_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=2a5bd3ed7aecdbb59c46a2ba1cae0205",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal"
-  },
-  {
-   "id": "w-28665a3ef6a06c74",
-   "member_ids": [
-    "w-28665a3ef6a06c74"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-05T13:20:52+00:00",
-   "t": "Fresh bomb hoaxes disrupt European flights again in a week of threats",
-   "s": "Flights across Europe were hit by bomb threats on Thursday, the second such round this week. Some planes were diverted and others were escorted by fighter jets, and searches reportedly found no explosives.",
-   "p": [
-    "According to the BBC, at least 15 flights were affected on Thursday. Routes bound for Italy, Poland, Bulgaria, Austria and the Czech Republic were among those involved, and the threats came in the same week as an earlier wave.",
-    "One closely watched case involved an Aer Lingus service that left Dublin for Rome. It was redirected to an air base at Evreux in northern France on Thursday morning, and the airline said it landed safely. Separately, a Finnair flight from Helsinki was accompanied into Rome by Italian military jets and touched down on schedule.",
-    "Earlier in the week, eight European flights, two of them from Britain, were targeted by suspected threats. Searches of those aircraft did not uncover explosives. Czech police reported the same outcome for four flights that landed in Prague, while Bulgarian media said three Ryanair flights were escorted by air force jets before landing in Sofia and Plovdiv.",
-    "EU transport commissioner Apostolos Tzitzikostas said it was not yet clear whether the incidents were connected. UK Transport Secretary Heidi Alexander described them as deliberate hoaxes.",
-    "Airport authorities in Rome said the threat against two inbound flights arrived by email. The sender signed it on behalf of a group or individual calling itself “Fighters of the Male State”, which said it was targeting a “feminist regime”. Italian media first reported these details, and Aeroporti di Roma, which runs both of the city’s airports, confirmed them to the BBC.",
-    "Aviation specialists quoted by the BBC offered differing readings. Philip Baum of the University of Coventry said he was surprised by the incidents and warned that a run of hoaxes could breed complacency, so that a genuine threat gets overlooked. Marco Chan of Kingston University said the threats were probably hoaxes, but that treating them as real was the right response. He noted that some experts linked them to a wider pattern of low-cost disruption, and cautioned that three days is too short a period to tell coordinated action from copycats.",
-    "Separately, the BBC reported that on Monday a Wizz Air flight from London Luton to Sofia was escorted to Budapest by a Hungarian fighter jet after a mid-air threat."
-   ],
-   "cav": "The 15-flight figure appears only in the BBC’s summary and is not itemised. The sources do not identify the group behind the email threats or establish any link to the other incidents. Several details, including the Rome reports of anonymous tips, are second-hand.",
-   "op": "Threats against passengers demand more than reassurance. The public has a right to know what investigators have established about who is sending these messages and whether the incidents are connected. Calling them hoaxes may prove accurate, but the label settles nothing until authorities show their working.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
-  },
-  {
-   "id": "w-85ac1e330c2f1f91",
-   "member_ids": [
-    "w-85ac1e330c2f1f91",
-    "w-b2bf07c03c94cf29",
-    "w-e0883bc17ec33951"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-05T13:17:25+00:00",
-   "t": "Bomb threats divert flights across Europe as EU says too early to link incidents",
-   "s": "Several commercial flights were diverted or forced to land across Europe on Thursday after bomb threats, days after a similar wave of hoaxes. Authorities reported no devices were found, and the EU has not established whether the incidents are connected.",
-   "p": [
-    "The disruption followed a run of threats on Tuesday that led to emergency searches and a brief closure of an airport outside Warsaw. Live reporting by The Guardian counted 18 affected flights on Thursday, while Al Jazeera cited about 12. The tallies differ between outlets and may change as more reports arrive.",
-    "French authorities said an Aer Lingus flight from Dublin to Rome was steered to Evreux after a suspected threat and accompanied by military aircraft. The office of Prime Minister Sebastien Lecornu said a bomb squad was on site and that 151 passengers and six crew had been brought to safety. Elsewhere, a Ryanair service from London Stansted to Sofia was diverted to Plovdiv in Bulgaria, and a WizzAir flight from Milan Malpensa to Warsaw was rerouted to Vienna, where the airline said it followed its standard safety procedures.",
-    "A Finnair flight from Helsinki to Rome was escorted by a fighter jet and inspected by bomb disposal experts, an airport spokesman told AFP. Italy’s Ansa news agency, citing police sources, said the warning about the Helsinki and Dublin flights arrived in an anonymous email, written in Italian, that was sent to the company that runs Rome’s airports and affiliated firms.",
-    "Spanish authorities said three flights were affected by hoax threats at Madrid’s airport, and that security forces had ruled out any risk. In Bulgaria, three aircraft asked for emergency landings after threats, and inspections found no problems. Czech police said aircraft bound for Prague were searched, with negative results, and that the case has passed to the National Centre against Terrorism, Extremism and Cybercrime. In Brussels, a LOT Polish Airlines flight from Warsaw landed safely after a security warning, and its crew found nothing suspicious on board.",
-    "EU transport commissioner Apostolos Tzitzikostas said it was “too early to draw conclusions” on whether the incidents were linked, while condemning threats against civilians. Aviation analysts quoted by The Guardian noted that fake threats occur every day, yet the number judged credible suggests coordinated action. One analyst described the campaign as loosely organised, with no clear regional focus. Al Jazeera’s correspondent said nobody had yet been identified as responsible.",
-    "Al Jazeera also placed the episode in a wider frame, recalling that the German government has blamed Russia for a failed drone attack on Leipzig airport in August. The outlet found no evidence tying the current threats to that attack or to other recent incidents, though it said European governments are likely to examine such links."
-   ],
-   "cav": "The sources disagree on the number of affected flights: about 12 in Al Jazeera, 15 in a Guardian headline, and 18 in its live tally. Many details, including the Madrid flights and the Romanian clearance of a WizzAir flight, rely on official statements or second-hand reports, and no source has identified who sent the threats.",
-   "op": "Hoax threats that force planes to land and frighten passengers are not harmless pranks, and governments owe the public clear information. Authorities should publish what they know about the emails and calls, and whether they share a source. Openness now will do more to restore confidence in air travel than reassurance alone.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
-  },
-  {
-   "id": "w-399dc84681c3d3c3",
-   "member_ids": [
-    "w-399dc84681c3d3c3",
-    "w-d2e66c45a696898b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-05T13:09:12+00:00",
-   "t": "Melania Trump to host Russian and Ukrainian delegations at White House after Oleshky truce",
-   "s": "US First Lady Melania Trump will host Russian and Ukrainian delegations at the White House on Thursday, a day after Ukraine honoured her with the Order of Princess Olha. Washington credits her with brokering a ceasefire, but neither Moscow nor Kyiv has explained how far her role went.",
-   "p": [
-    "Officials from Moscow and Kyiv are set to be received by the first lady in Washington on Thursday. The gathering precedes negotiations in Abu Dhabi that are intended to bring the Ukraine war to an end. Hopes for a settlement have been revived, even as the invasion approaches its fifth year and closer ties between Donald Trump and Vladimir Putin have prompted worries that the United States might abandon Kyiv.",
-    "On Wednesday, President Volodymyr Zelensky signed a decree conferring the Order of Princess Olha, First Class, on Melania Trump. The document praised her contribution to humanitarian aid for Ukraine and her work on human rights and charity, citing in particular her efforts on behalf of Ukrainian children affected by the conflict.",
-    "The honour follows a limited truce in the Kherson region that enabled several hundred people to leave Oleshky, a city under Russian occupation where supplies of food and medicine had run short for weeks. According to Euronews, the first lady announced the truce last month, and both armies observed it, which allowed roads to be cleared of mines. BBC reporting indicates that the truce has since expired.",
-    "The White House says she started contact between the two countries on her own initiative and secured the pause in fighting, describing it as a first of its kind for an American first lady. Russian and Ukrainian officials both credited her with arranging the truce, yet neither has spelled out what her involvement actually consisted of.",
-    "Kyiv is expected to send ombudsman Dmytro Lubinets and parliamentarian Davyd Arakhamia, who has sat on Ukraine’s negotiating team before. The Kremlin, through spokesman Dmitry Peskov, has named ombudsman Yana Lantratova and Kirill Dmitriev, a businessman with close ties to the Kremlin, as Moscow’s representatives. Euronews reported that the Russian attendance depended on logistics being settled. Lubinets and Lantratova had entered Oleshky together the previous week.",
-    "No agenda for the White House meeting has been made public. The first lady is due to address the Oleshky truce that day, according to the White House website. Zelensky also reported lengthy talks with US envoys Steve Witkoff and Jared Kushner in preparation for the Abu Dhabi round, which would be the first gathering of all three parties since February.",
-    "The UN has earlier this year described the forced transfer of Ukrainian children to Russia as a crime against humanity and a war crime. Kyiv claims nearly 20,000 children have been unlawfully moved to Russia and Belarus since 2022. In 2025 the first lady said she had set up a channel of dialogue with Putin to help reunite children with their families, but otherwise she has kept a low profile on foreign policy."
-   ],
-   "cav": "The sources do not say what the White House meeting will involve, and the first lady’s role in the truce rests on claims from her office and both governments, not independent confirmation. BBC and Euronews also disagree on whether the truce still holds, and give different times for her remarks (16:00 GMT versus 1700 GMT).",
-   "op": "Honours and praise cannot stand in for accountability. When an official without a public mandate is credited with brokering a ceasefire, the public deserves to know what she did, who took part, and what was agreed. Talks on a war that has displaced children should be open to scrutiny, not shaped by vague claims of influence.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no"
-  },
-  {
-   "id": "w-dc8ba062a2994feb",
-   "member_ids": [
-    "w-dc8ba062a2994feb"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-05T12:35:11+00:00",
-   "t": "Trump accepts midterm results as Democrats win broadly and Republicans face a reckoning",
-   "s": "Donald Trump has accepted the results of the US midterm elections, which the Guardian describes as a sweeping win for Democrats. Analysis of the vote points to the Iran war as a major factor in the Republican losses.",
-   "p": [
-    "According to the Guardian’s newsletter coverage, Trump has accepted the midterm results, and the electoral system held up against attempts at election interference. His administration had earlier worked to cast doubt on the outcome, but the worst fears did not materialise, the newsletter says.",
-    "An unnamed Trump adviser told CNN that the result was too large to manipulate, after Democrats took power across the country. Trump appeared in public the day after the vote, mainly to discuss plans for a new White House ballroom.",
-    "The Guardian’s own analysis found that dozens of Republican candidates whom Trump had directly endorsed lost their races, raising questions about the reach of his backing. Senator Susan Collins, who had held her seat in Maine for nearly three decades, was defeated.",
-    "Pete Hegseth, the defence secretary, may be made the scapegoat for the party’s losses, with the war in Iran cited as a key reason for the weak showing. JD Vance has reportedly distanced himself from the decision to strike Iran alongside Israel, and a Democratic-controlled Congress is expected to try to limit future US foreign military action.",
-    "Democrats also gained hundreds of seats in state legislatures. Voters approved nearly every datacentre moratorium on the ballot, while Colorado rejected a conservative measure that would have required police to cooperate with immigration officers. Nevada, Virginia, Missouri and Idaho passed or strengthened protections for reproductive freedom.",
-    "Fox News reported a ratings slump after the vote, and an analysis by Nick Robins-Early described nearly half a billion dollars in midterm spending by Elon Musk as a flop."
-   ],
-   "cav": "The Guardian’s figures on endorsed candidates come from its own analysis, and the claim that Hegseth may take the blame is speculation. The adviser’s remark is second-hand, relayed through CNN, and the sources do not say who the adviser is.",
-   "op": "Accepting a result is the minimum a democracy requires, and it deserves credit. The harder test is whether Congress now uses its powers to scrutinise the war in Iran openly, rather than letting the voters’ verdict fade into rhetoric.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/bc0c045b42ae94c29f26e88819f4272b31d26a2c/1684_863_6100_4880/master/6100.jpg?width=140&quality=85&auto=format&fit=max&s=6ba45d0e03b25a0858a0d84f1f425345",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
-  },
-  {
-   "id": "w-a2b25035540b6845",
-   "member_ids": [
-    "w-a2b25035540b6845",
-    "w-98c24508e394f7ce",
-    "w-c31b712fa5939ff8",
-    "w-d92520ab23f4dd9a"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-05T12:32:36+00:00",
-   "t": "Cristiano Ronaldo announces retirement from international football after row with Portugal coach",
-   "s": "Cristiano Ronaldo has said he will no longer play for Portugal, closing a national-team career that holds the men’s records for appearances and goals. The announcement comes weeks after a dispute with coach Jorge Jesus over playing time.",
-   "p": [
-    "Ronaldo revealed the decision on Thursday in a lengthy video posted to his Instagram account. The 41-year-old said he was giving back the No. 7 shirt after 23 years of wearing it for his country.",
-    "Across his national career, Ronaldo made 234 appearances for Portugal and scored 146 goals, figures that make him the record holder for both categories among men. He captained the team to Euro 2016, its first major title, and later helped it win the Nations League in 2019 and 2025.",
-    "In the message, he said the choice had been difficult and that it had been shaped by emotion as well as reason. He thanked his family, the Portuguese public, and the teammates, coaches and staff he had worked with over the years.",
-    "The Portuguese Football Association (FPF) praised him in a statement, describing him as a figure who had raised the country’s profile and motivated young players. The federation said it plans to hold a tribute so supporters can honour him again.",
-    "The rift began in September. Ronaldo’s last game for Portugal was a 1-0 win over Wales in the Nations League on September 24. Jesus then dropped him to the bench for the next fixture and indicated he would not start the one after that, and Ronaldo left the training camp.",
-    "The accounts differ on what came next. DW reported that the FPF suspended and fined Ronaldo, and that he had been expected back for the November break. Euronews said Jesus later told reporters Ronaldo would be welcome to return, with the decision left to the player. France 24 wrote that the coach had refused to use him in a match.",
-    "Like Lionel Messi, who recently played a farewell match for Argentina, Ronaldo will continue at club level. He is expected to end his club career with Al-Nassr in Saudi Arabia at the close of this season."
-   ],
-   "cav": "The sources disagree on the dispute: some say Jesus left Ronaldo on the bench, while France 24 says the coach refused to use him. The suspension and fine come only from DW, and the tribute’s date and format have not been announced.",
-   "op": "A player may choose when his national career ends, but a row that ends in a walkout deserves a clear public account, not just a farewell video. Fans and federations are owed transparency about the suspension and the terms of any return. The FPF should set out those facts before any tribute turns the final chapter into a celebration.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/05/portugal-great-cristiano-ronaldo-announces-retirement-from-international-football"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/a852fd72-c4af-11f1-9559-29a2e29ae696/w:1024/p:16x9/AP26272841554245.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement"
-  },
-  {
-   "id": "w-018d1a8b61cc8ad6",
-   "member_ids": [
-    "w-018d1a8b61cc8ad6"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-05T12:28:01+00:00",
-   "t": "Cristiano Ronaldo quits Portugal duty in farewell video after months of friction with coach",
-   "s": "Cristiano Ronaldo has told Portuguese fans he is ending his international career. The announcement follows a fine, a suspension and a public dispute with coach Jorge Jesus.",
-   "p": [
-    "Cristiano Ronaldo has said he is stepping away from the national team, according to an Instagram video in which he addressed Portuguese supporters directly. The 41-year-old forward holds the world records for goals (146) and caps (234) for his country, which he has collected since his debut in 2003.",
-    "The exit comes after a turbulent few months. In September, Ronaldo walked out of the squad when he learned he would not start a Nations League game against Denmark. The Portuguese Football Federation (PFF) handed him a £215 fine and a 30-day ban, though the BBC reports that none of Portugal's matches fell within that window.",
-    "Before the video, Ronaldo had put out a long statement insisting he had no plans to retire. In it he accused Jesus of breaking his word on two occasions. The coach responded that he would welcome Ronaldo back. In the farewell clip, Ronaldo did not refer to the row, though he admitted he had made errors.",
-    "His last tournament ended badly. He featured in every game of his sixth World Cup this summer, a campaign that finished when Portugal were knocked out in the last 16 by Spain, who went on to win the title. Media commentators had questioned whether he could still perform at the highest level. Reports also say he was furious after being told to warm up in the second half against Norway without being sent on, the first time since 2008 he had been left out of a competitive Portugal match as a substitute.",
-    "Ronaldo has taken part in six European Championships. Portugal were beaten finalists in 2004 and lifted the trophy in 2016, but failed to get past the World Cup semi-finals during his time with the side. He has worn the captain's armband since 2008 and was part of the winning teams at the Nations League in 2019 and 2025.",
-    "The PFF has said it will not allow his departure to pass without a proper tribute and that it wants to help plan and host one. Portugal are due to announce their squad on Friday for this month's Nations League fixtures, which are at home to Denmark and away to Wales.",
-    "Ronaldo's great rival, Lionel Messi, also ended his international career this year, doing so in October before a crowd of 85,000 in Buenos Aires."
-   ],
-   "cav": "The retirement is known from Ronaldo's own video, and the sources do not say whether the PFF has confirmed the details of any tribute. The dispute with Jesus rests on Ronaldo's statement and on reports of his anger, and the coach's side is only summarised, not quoted in full. His earlier insistence that he would not retire sits uneasily with this announcement.",
-   "op": "A farewell should not bury the questions a career leaves behind. Ronaldo's record deserves honour, but the fine, the suspension and the public clash with his coach are part of how his exit happened. Football's authorities owe fans a clear account of those events, not just a ceremony.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o"
   }
  ]
 }
