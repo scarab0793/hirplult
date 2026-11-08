@@ -5642,6 +5642,350 @@
       "imgl": "https://index.hu/kulfold/2026/11/07/krakko-lovoldozes-foter-halottak-tamadas/",
       "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
+    },
+    {
+      "id": "rss-f3b03a11540c81e0fa",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T11:33:05+00:00",
+      "t": "Bíróság döntött: az Operaháznak közzé kell tennie a volt főigazgató kifizetéseit",
+      "s": "Vasárnap a K-Monitor arról számolt be, hogy a bíróság az Operaházat kötelezte a volt főigazgató, Ókovács Szilveszter rejtett juttatásainak közzétételére. A kimutatás szerint 2021 és 2025 között az alapfizetésén felül több mint 73,4 millió forintot kapott.",
+      "p": [
+        "Az ügyet Meleghegyi Tamás József gazdasági szakember vitte a bíróság elé a K-Monitor közreműködésével, mert a Magyar Állami Operaház nem akarta megmondani, mennyi pénzt fizetett vezetőinek az elmúlt években. A Telex beszámolója szerint a bíróság nem fogadta el az intézmény érveit, és elrendelte az adatok nyilvánosságra hozatalát.",
+        "A megszerzett kimutatás szerint Ókovács Szilveszter alapfizetésén felül 2021 és 2025 között több mint 73,4 millió forint érkezett a számlájára. Havi alapbére ebben a négy évben 2 millió forintról 4,371 millió forintra nőtt, ami 118,6 százalékos emelkedés. Egyéb jogcímeken járó juttatásai 4,8 millióról 13,6 millió forintra kúsztak fel.",
+        "A legnagyobb tétel 2023-ban jelent meg: abban az évben 33,432 millió forint többletet mutat a dokumentum, amelynek több mint 19 millió forintja szabadságmegváltás volt. Az üzemanyag-térítés összege a vizsgált időszakban 11 964 929 forint volt. Meleghegyi számítása szerint ebből a benzin átlagárával többször is körbe lehetne autózni a Földet az Egyenlítő mentén.",
+        "A vezetők egymásnak is jelentős összegeket fizettek, legalábbis a kimutatás szerint. Ókovács 7,9 millió forint törzsgárdajutalmat kapott, helyettese 9,4 milliót, a főigazgató-helyettes pedig további 5,6 millió forint jutalmat. A 24.hu beszámolója alapján a helyettes munkaviszonyát is megszüntették.",
+        "Ókovácsot november 2-án, azonnali hatállyal menesztette Tarr Zoltán kultúráért és társadalmi kapcsolatokért felelős miniszter, az intézmény átvilágításának megállapításaira hivatkozva. A volt főigazgató szerint nem ismerhette meg a vizsgálat eredményeit, és a véleményét sem kérdezték meg. Nagy Ervin államtitkár ugyanakkor azt mondta, hogy az alapfizetést rendszeresen további juttatások egészítették ki, amelyek engedélyezése körül kifogások merültek fel.",
+        "Az adatokat Meleghegyi a Klikk TV Mélyvíz című műsorában ismertette, a számai tehát a K-Monitor közvetítésén keresztül jutottak el a nyilvánossághoz, nem hivatalos hatósági közlésből származnak. Az Operaház válasza a rendelkezésre álló forrásokban nem szerepel."
+      ],
+      "cav": "A 73,4 millió forintos összeg és a tételes adatok Meleghegyi Tamás József és a K-Monitor közléseire támaszkodnak, a források tehát másodkézből adják vissza őket. Az ítélet szövegét, valamint az Operaház és Ókovács Szilveszter álláspontját a források nem közlik, az engedélyezési kifogásokról pedig csak Nagy Ervin nyilatkozata szól.",
+      "op": "A közpénzből fizetett juttatások megismerése nem kegy, hanem a polgárok joga, és az, hogy ehhez bíróság kellett, komoly figyelmeztetés. Hány más közintézmény titkol hasonló kifizetéseket, és ki fogja ezeket perek nélkül kideríteni?",
+      "src": [
+        [
+          "444",
+          "https://444.hu/2026/11/08/k-monitor-az-alapfizetesen-felul-73-millio-forintot-fizetett-okovacsnak-az-operahaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/karakter/kultura/2026/11/08/73-millio-forintnyi-pluszjuttatas-operahaz-okovacs-szilveszter-ot-ev-alapberen-tul"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/kultura/2026/11/08/okovacs-szilveszter-opera-k-monitor-meleghegyi-tamas/"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/80qeoegUwJnl12rhFs.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/08/k-monitor-az-alapfizetesen-felul-73-millio-forintot-fizetett-okovacsnak-az-operahaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "cred": "Kép: 444 – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-dc35ef72c250b04687",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T09:43:00+00:00",
+      "t": "Félmillió liter kőolaj ömlött ki a horvát Janaf-vezetékből, többen sürgősségi ellátást kaptak",
+      "s": "Egy külső kivitelező munkagépe pénteken megrongálta a horvát Janaf kőolajvezetékét, a vállalat szerint mintegy 500 ezer liter olaj jutott a környezetbe. A vízügyi hatóság eddigi vizsgálatai szerint a felszíni és a felszín alatti vizekben nincs kimutatott szennyezés.",
+      "p": [
+        "Pénteken egy horvát kőolajvezeték megsérült szakaszából nagyjából 500 ezer liter olaj szivárgott a környezetbe, a szennyezett terület pedig megközelítőleg 6600 négyzetméter. A számokat a horvát sajtó vasárnap közölte a Janaf képviselőinek tájékoztatása alapján, a vállalat szombat estig mintegy 200 ezer litert tudott összegyűjteni a kiömlött anyagból.",
+        "A sérülés a Sziszek és Szlavonbród közötti vezeték 88. kilométerénél, Prvca közelében történt. A cég szerint egy külső kivitelező gépe rongálta meg a csővezetéket egy felújítási munka során. A szállítást az érintett szakaszon azonnal leállították, a sérülést szombatra sikerült lezárni, az újraindítás időpontját viszont még nem határozták meg.",
+        "A horvát vízügyi hatóság szerint az olaj körülbelül 6000 négyzetméternyi mezőgazdasági területet szennyezett, emellett a Masic-patak medrének és partjának további 600 négyzetméteres részét. A patak most a szárazság miatt vizet sem tartalmaz, így a kár főként a növényzetet és a talaj felső rétegét érintette. A hatósági mérések eddig nem mutattak ki szennyezést sem a felszíni, sem a felszín alatti vizekben, a víz és a levegő állapotát viszont folyamatosan ellenőrzik.",
+        "A környékbeli településeken érezhető erős szag miatt több mint tizenöten kerestek sürgősségi ellátást fejfájással, hányingerrel és nehézlégzéssel. Az Index horvát beszámolója szerint a vizsgálatok után mindenkit hazaengedtek, kórházi kezelésre senkinek sem volt szüksége. Nova Gradiska polgármestere, Sabina Vlaovic is megerősítette, hogy az ellátottak otthonba térhettek.",
+        "A vállalat jelezte, hogy az olaj összegyűjtése a következő napokban is folytatódik, a visszanyert mennyiséget a rendszerébe juttatják vissza. Ezután a szennyezett talajt elszállítják, a területet pedig rendbe teszik; a teljes kárelhárítás mintegy tíz napot vehet igénybe. A munka után független laboratórium vizsgálja majd a talaj állapotát. A Janaf azt is elismerte, hogy a bűz terjedését egyelőre műszaki eszközökkel nem tudják megfékezni.",
+        "A Janaf az Adria-kőolajvezeték horvátországi üzemeltetője, és a magyar Mol-csoportnak is szállít olajat. Azt, hogy a sérült szakasz leállása fennakadást okozott-e a magyarországi szállításokban, a vállalat egyelőre nem közölte, így ez a kérdés nyitott."
+      ],
+      "cav": "A mennyiségi adatok vállalati és hatósági közlésekre épülnek, a források eltérően kerekítenek (500 ezer, illetve félmillió liter), így a pontos mennyiséget nem független mérés igazolja. A vízminőségi eredmények előzetesek, a magyarországi szállításokra gyakorolt hatás pedig nincs megerősítve; a részleteket másodkézből, horvát sajtó nyomán ismerjük.",
+      "op": "A felelősség kérdése eddig háttérbe szorult, pedig a vezeték védelme közös ügy, és a környező lakók egészsége a tét. Ha egy külső kivitelező gépe ennyi embert kényszerít orvoshoz, a nyilvánosságnak tudnia kell, ki vonható felelősségre és milyen gyorsan. Kérdés, hogy a hatóságok a vizsgálatok teljes eredményeit nyilvánosságra hozzák-e, vagy csak a megnyugtató részleteket kapjuk meg.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/08/janaf-koolajvezetek-szivargas-olajszennyezes-horvatorszag/"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/nagyvilag/2026/11/koolaj-vezetek-horvatorszag-szennyezes"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/gazdasag/20261108_felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7247/72471/724719/72471959_5340443_8b045e782111d44f37ee373931675cda_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/08/janaf-koolajvezetek-szivargas-olajszennyezes-horvatorszag/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-9efa6d2ad58a18d193",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T11:25:00+00:00",
+      "t": "Levélben bocsánatot kért Magyar Pétertől a férfi, aki borral öntötte le Szekszárdon",
+      "s": "A férfi szeptemberi bocsánatkérő levelét Magyar Péter miniszterelnök vasárnap közösségi oldalán tette közzé. A miniszterelnök szerint az ügyet lezártnak tekinti, és nem indít eljárást.",
+      "p": [
+        "Levélben kért bocsánatot Magyar Pétertől az a férfi, aki szeptemberben a Szekszárdi Szüreti Napokon egy pohár borral leöntötte a miniszterelnököt. Magyar Péter vasárnap Facebook-bejegyzésben jelentette be, hogy megkapta a levelet, és azt is közölte, hogy köszöni a gesztust.",
+        "A miniszterelnök a bejegyzés szerint részéről lezártnak tekinti az ügyet, és nem indít eljárást. A hozzá csatolt, szeptember 25-i keltezésű levélben a férfi elismeri, hogy hibázott, és vállalja a felelősséget a magatartásáért. Azt írja: „a történteket utólag mérlegelve magam is belátom”, hogy cselekedete nem volt méltó sem a miniszterelnökhöz, sem a közéleti tisztelet követelményeihez.",
+        "Az incidens szeptember 19-én történt. Magyar Péter akkor az országjárása pécsi állomása után, hazafelé tartva állt meg a Szekszárdi Szüreti Napokon. A források egyetértenek abban, hogy a férfi a rendezvényen öntötte le a miniszterelnököt, a részletekben azonban eltérnek. Az Index azt írja, hogy a férfi a helyiek hívására megálló miniszterelnököt érte, a másik beszámoló szerint viszont az egyik büfénél sorban állt Magyar Péter, amikor a férfi ráöntötte a bort. Ez utóbbi forrás szerint a férfit a biztonsági emberek vezették el a helyszínről.",
+        "A HVG szerint Magyar Péter szeptember 20-án egy videót tett közzé, amelyen látszik, hogy egy pultnál ételt kér, miközben egy férfi kicsit távolabbról ráönt egy pohár bort. A videó tehát a harmadik forrás leírásától is eltér a helyszín tekintetében, ezt a közölt anyagok nem tisztázzák.",
+        "A levél a véleménykülönbségekről is szól: a férfi szerint ezeknek és az azokból fakadó indulatoknak is kizárólag a kulturált véleménynyilvánítás keretei között van helyük. Magyar Péter a korábbi bejegyzésében gúnyosan írt a férfiról, és azt állította, hogy nem volt elég bátor ahhoz, hogy a szemébe nézzen.",
+        "Az Index említi, hogy Magyar Pétert júliusban a Nyugati pályaudvaron köpte le egy férfi, szeptember végén pedig Szolnokon tojással próbálták megdobni az országjárása során. Ezekről az esetekről a többi forrás nem ír, és az sem derül ki, hogy a hatóságok ezekben az ügyekben milyen eljárást indítottak."
+      ],
+      "cav": "A források nem közlik, hogy a rendőrség vagy az ügyészség indított-e eljárást, és a miniszterelnök döntése mire terjed ki. Az incidens helyszínéről és lefolyásáról a források eltérő részleteket adnak, a videóról szóló beszámoló pedig második kézből származik.",
+      "op": "Ha egy közszereplő saját magától dönti el, hogy egy támadást nem vizsgál tovább, az a jogállami eljárás helyett személyes gesztusnak látszik. Egy bocsánatkérés becsülendő, de a nyilvánosságnak joga van tudni, ki dönt a büntetőeljárás indulásáról, és kinek a mérlegelése számít ilyen esetekben.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/08/magyar-peter-szekszard-szureti-napok-bor-leontes-ferfi/"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261108_levelben-kert-bocsanatot-magyar-petertol-a-ferfi-aki-borral-ontotte-le-szekszardon"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/08/bocsanatkeres-borral-leontottek-magyar-peter/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7141/71410/714105/71410501_5265603_16867986c6cafbb1c0968e1e75ca3f62_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/08/magyar-peter-szekszard-szureti-napok-bor-leontes-ferfi/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-f9a584c01458452644",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T11:10:00+00:00",
+      "t": "Major Veronika ezüstérmet szerzett a dohai sportlövő-világbajnokságon, a magyar csapat bronzot nyert",
+      "s": "Major Veronika ezüstérmes lett a nők standard pisztoly számában a dohai sportlövő-világbajnokságon, a magyar csapat pedig bronzérmet szerzett. Major ezzel már három éremnél tart a vb-n.",
+      "p": [
+        "Major Veronika ezüstérmet, a Major, Domsits Olívia, Fábián Sára Ráhel összeállítású csapat bronzérmet nyert vasárnap a nők standard pisztoly számában a dohai sportlövő-világbajnokságon, a Telex az MTI közlése alapján írta meg. A Blikk és a Nemzeti Sport beszámolója szerint a verseny 25 méteres távon zajlott, és 30 lövő indult benne.",
+        "Mivel a szám nem szerepel az olimpia programjában, nem rendeztek döntőt. Az alapversenyt a sorrend döntötte el: az első húsz lövést 150 másodpercenként, a másodikat húszat 20, a harmadikat húszat pedig 10 másodpercenként kellett leadniuk az indulóknak. Major az első két szakaszt is 192 körrel zárta, az utolsóban 184 kört ért el, így összesen 568 körrel végzett.",
+        "Az élmezőny rendkívül szoros volt. A kínai Hsziao Csiazsuj-hszüan 569 körrel nyert, Major egyetlen körrel maradt el tőle. A harmadik helyen az indiai Niveditha Veloor Nair végzett 567 körrel. A források ebben a részben nem egyeznek teljesen: a Nemzeti Sport szerint az indiai lövő mögött ketten zártak 566 körrel, a többi beszámoló ezt nem részletezi.",
+        "A másik két magyar versenyző is eredményesen szerepelt. A Blikk és a Nemzeti Sport adatai szerint Domsits Olívia 557 körrel a kilencedik lett, Fábián Sára Ráhel 551 körrel a 11. helyen végzett. A csapatversenyben a magyar trió 1676 körös eredménnyel lett harmadik a hat egység közül. Az aranyat a kínaiak nyerték 1698 köres világcsúccsal, az indiaiak 1682 körrel álltak a dobogó második fokán.",
+        "Major Veronika a vb-n ezzel már három éremnél tart, a csütörtöki légpisztoly-versenyben harmadik lett. A Telex, a Blikk és a Nemzeti Sport egyaránt úgy számolt be, hogy ezzel megszerezte Magyarország első kvótáját a Los Angeles-i olimpiára. A magyar küldöttségnek Dohában már négy dobogós helye van, szombaton Péni István a férfiak kisöbű szabadpuska fekvő versenyében lett második.",
+        "Az eredmények önmagukban is figyelemre méltók, és a kvótaszerzés az olimpiai felkészülés szempontjából is fontos mérföldkő. A sportolók teljesítménye mellett érdemes lenne azt is látni, milyen feltételek mellett készülnek a versenyzők, hiszen a dobogók mögött hosszú éveknyi munka és támogatás áll."
+      ],
+      "cav": "A források a verseny hivatalos részleteit nagyrészt az MTI közlésére alapozzák, így a körszámok és a helyezések másodkézből származnak. A Nemzeti Sport és a Blikk beszámolója a 566 körös eredmény helyezését nem egyértelműen adja meg, ezért ezt a pontot nem lehet teljes biztonsággal ellenőrizni.",
+      "op": "Egy ilyen eredmény megérdemli az elismerést, és a kvóta a jövő évi olimpiai részvétel reális esélyét jelenti. Ugyanakkor a sportsikerek mögött közpénz és szervezeti háttér áll, ezért joggal kérdezhetjük meg, hogy a támogatási rendszer átlátható-e, és hogy a versenyzők a kiválóság mellett kapnak-e tisztességes feltételeket.„]",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/major-veronika-sportloveszet-vilagbajnoksag-dobogo-doha/qx3h8wc"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/sport/2026/11/08/doha-sportlovo-vb-major-veronika"
+        ],
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/egyeb-egyeni/2026/11/sportlovo-vb-major-veronika-ezust-a-magyar-csapat-bronzermes-noi-standard-pisztolyban"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261108/1794126850-temp-dsfl8kvl7plmfobmebd_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/sport/2026/11/08/doha-sportlovo-vb-major-veronika",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-39d5b3e924c6ab4be7",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T10:13:22+00:00",
+      "t": "Krakkói lövöldözés: hat halott, tizenhat sérült, a rendőri intézkedés szakmai kérdéseit is felvetik",
+      "s": "Hat ember meghalt és tizenhatan megsérültek a szombati krakkói lövöldözésben. Hajós István biztonsági szakértő szerint a lengyel rendőrök helytálltak, a nyilvánosságra került felvételek alapján azonban több szakmai kérdés is felmerülhet.",
+      "p": [
+        "November 7-én, szombat délután a krakkói főtéren fegyveres támadás történt, amelyben hat ember életét vesztette, tizenhatan pedig megsérültek. Az áldozatok között négy nő és két férfi van. A sérültek számát a rendőrök lövésétől megsebesült, jelenleg kórházban kezelt támadóval együtt adták meg. Két rendőr súlyosan megsérült az intézkedés során.",
+        "A támadó a Blikk szerint 24 éves, az Origo szerint 25 éves lengyel férfi. Az elérhető információk alapján AR-15 típusú, félautomata karabéllyal lőtt a főtéren, majd autóval menekült, és több helyszínen is leadott lövéseket. Az autójában további lőfegyvereket, nagy mennyiségű lőszert és katonai jellegű felszerelést találtak, ezek pontos mennyiségét azonban még nem közölték.",
+        "Hajós István szerint a lengyel rendőrség gyorsan kivonult a bejelentésekre, a helyszínre érkező állomány pedig életveszélyben lépett fel a fegyveressel szemben. Az egyik rendőrt egy, a másikat három lövés találta el, mégsem hagyták abba a munkát.",
+        "A szakértő ugyanakkor a nyilvánosságra került videók láttán felvetette, lehetett volna-e korábban megállítani a menekülő autót, akár kényszerítéssel. Hangsúlyozta, hogy ez nem a helyszínen dolgozók hibáztatása, hiszen zsúfolt belvárosban egy ilyen akció komoly veszéllyel járhat. Mindezt az Origo szerint egy friss sajtóközleményben fogalmazta meg.",
+        "A felvételek szerint a támadó járműve egy másik autónak ütközött, majd tűzpárbaj alakult ki. Hogy az ütközés a sofőr hibájából történt-e, vagy az üldözés közben leadott rendőri lövések is szerepet játszottak, egyelőre nem tudni. Ennek tisztázása a vizsgálat dolga lesz.",
+        "A lengyel hatóságok a férfi feltételezett szélsőjobboldali, ultranacionalista nézeteit is vizsgálják, erről Marcin Kierwiński belügyminiszter beszélt. A nyomozás másik szála a családban történt három halálesethez kapcsolódik: a feltételezések szerint a férfi szüleit és testvérét holtan találták az otthonukban, a körülményeket azonban még vizsgálják.",
+        "Mindeddig nem tisztázott, hogy ideológiai indíték, családi konfliktus vagy más ok állt-e a támadás hátterében, és nincs megerősített információ arról sem, hogy a kórházban lévő férfi tett-e vallomást.",
+        "Hajós István személyesen is érintett: családjával a hétvégére Krakkóba terveztek utazni. Ő csütörtökön Milánóba ment a Milan–Fradi mérkőzésre, a családja pénteken csatlakozott volna hozzá. A korábbi milánói zavargások miatt azonban az édesanya a gyerekeket nem vitte el, az alternatív krakkói programot pedig az idő rövidsége miatt már nem tudták átszervezni. Hajós szerint a történtek azt mutatják, hogy egy váratlan fegyveres támadás egy biztonságosnak tartott európai nagyvárosban is pillanatok alatt tömeges tragédiává válhat, a megelőzés, a gyors fellépés és a lakosság tudatossága pedig életeket menthet."
+      ],
+      "cav": "A források a támadó életkorában eltérnek: a Blikk 24, az Origo 25 évesnek írja. Hajós István nyilatkozatai második kézből, egy sajtóközleményre és cikkekre hivatkozva szerepelnek, a hivatalos áldozatszámok és a lőszermennyiség pedig nincs részletesen megerősítve. A motívumra és a vallomásra vonatkozóan sincs megerősített információ.",
+      "op": "A hatóságoknak most a motívum, a családi tragédia és a rendőri döntések tisztázásával kell bizonyítaniuk, hogy a gyors reagálás mögött van érdemi számonkérhetőség. Ha a videókon látszó kérdésekre a vizsgálat nem ad nyilvános választ, a bizalom a rendőrség iránt csorbulhat.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/krakko-rendorseg-szakerto-hajos-istvan/mctq1lm"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/nagyvilag/2026/11/krakko-lovoldozes-hajos-istvan-biztonsagi-szakerto"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/ZwEY0xCBK58i1WzdYdNRTljV65Ea4gyx0OcmnRxrIy0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdjZjE1YWQzYjBjMDQwY2RhMzI0ZDJjZjc0ZWE1Yzdl.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/nagyvilag/2026/11/krakko-lovoldozes-hajos-istvan-biztonsagi-szakerto",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-0003c4abc751feea1f",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T09:38:33+00:00",
+      "t": "57 milliárd forintos országfásítási és települészöldítési programot jelentett be Magyar Péter",
+      "s": "A kormány döntött az országfásítási és települészöldítési programról, amelyre a következő négy évben több mint 57 milliárd forintot fordítanak. A részleteket Magyar Péter a Facebook-oldalán közölte.",
+      "p": [
+        "Magyar Péter vasárnap reggel a Facebook-oldalán tájékoztatta a közvéleményt arról, hogy a kormány döntött a szeptember elején bejelentett átfogó programról. A kormányfő szerint a klímaváltozás hatásainak mérséklése és az életkörülmények javítása érdekében a fás területek növelése és a települések zöldítése lesz a következő évek egyik legfontosabb feladata.",
+        "A közlés szerint a következő négy évben több mint 57 milliárd forintot fordítanak a célra. Ebből 18,2 milliárd forint jut az országfásítási programra, 39,6 milliárd forint pedig a települészöldítésre.",
+        "Az országfásítás keretében legalább 12 millió csemetefát ültetnek el, több mint 1300 hektárnyi erdőt telepítenek, és 20 ezer kilométernyi csatornaszakaszt fásítanak. Ezen belül 4 milliárd forintot a meglévő erdők fenntarthatóbbá tételére fordítanak, egymilliárd forintból pedig integrált erdőtűzvédelmi akciótervet indítanak.",
+        "A települészöldítésről Magyar Péter azt mondta, hogy a cél nem a minél több fa elültetése, hiszen „a fásítás önmagában semmit sem ér”, ha a fasor a következő nyáron kiszárad. A program hosszú távon életképes közkertek, közparkok, fasorok és települési zöldfelületek létrehozását támogatja, valamint a hőszigethatás csökkentését célozza.",
+        "A meglévő zöldfelületek fenntartására is jusson forrás, ezért négyféle önkormányzati pályázatot indítanak, amelyre minden magyar település pályázhat. A kormányfő szerint a projekteknek illeszkedniük kell a helyi klímához, a település adottságaihoz és a vízháztartáshoz.",
+        "Magyar Péter szerint a pályázatok szakmai szervezetek bevonásával valósulnak meg, hogy olyan települések is részt vehessenek, ahol helyben nincs meg a szükséges szakértelem. A programban az erdőgazdaságok, a vízügy, a tájépítészek, a kutatók, az önkormányzatok és a helyi közösségek is szerepet kapnak.",
+        "A bejelentés részletei a kormányfő közlésén alapulnak, független ellenőrzés nélkül. A forrásmegosztás pontos feltételeit és az egyes pályázati kiírásokat a források nem részletezik."
+      ],
+      "cav": "Az adatok a kormányfő Facebook-bejegyzéséből származnak, a kormány hivatalos dokumentumait nem láttuk. A 39,6 milliárd forint település szerinti megoszlását a közlemény egy táblázatban említi, amelyet a forrás szövege nem tartalmaz. A fenntartás hosszú távú költségeiről és a négy év utáni finanszírozásról nincs információ.",
+      "op": "Ez 57 milliárd forint közpénz, ezért a mérce nem a bejelentés látványa, hanem az, hogy a fák tényleg megmaradnak, a pályázatok pedig átláthatóan dőlnek el. Ha a program a korábbi látszatzöldítések útját járja, az adófizetők fizetnek újra. Kérdés, lesz-e nyilvános lista arról, melyik település mennyit kap.„]",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261108/magyar-peter-bejelentette-57-milliard-forintos-programot-indit-a-kormany-orszagfasitasra-es-telepuleszolditesre-874962"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261108_tobb-mint-50-milliardot-forintot-szannak-az-orszag-fasitasara-es-a-telepulesek-zolditesere"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/08/magyar-peter-57-milliard-forintos-orszagfasitasi-es-telepuleszolditesei-program-indul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261108/1794130623-temp-ehsvqj8frlgddagiogh_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-81993c2e892ad0a0f1",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T08:52:00+00:00",
+      "t": "Csaknem 60 milliárdos zöldberuházást jelentett be Magyar Péter",
+      "s": "Magyar Péter miniszterelnök szerint az országfásítási program keretében csaknem 60 milliárd forintot fordítanának fásításra és városi zöldítésre. A részleteket az Index ismertette.",
+      "p": [
+        "A miniszterelnök közlése alapján legalább 12 millió facsemetét ültetnének el, ami több mint 1300 hektárnyi új erdőt hozna létre. Emellett 20 ezer kilométernyi csatorna mentén is fákat telepítenének.",
+        "A települések zöldítésére szánt program legnagyobb tétele, 14,9 milliárd forint, új közparkok létrehozására és a meglévő zöldfelületek összekapcsolására menne. Külön 10 milliárd forintból a városi hőszigethatást mérsékelnék, ahol lehetséges, betonburkolatokat is felbontanának.",
+        "Újabb 10 milliárd forint jutna a meglévő parkok megújítására és az elpusztult fák pótlására. Az iskolák, óvodák és rendelők udvarainak zöld közösségi terekké alakítására 4,4 milliárd forintot különítenének el.",
+        "A már meglévő erdők fenntarthatóbbá tételére négymilliárd forintot szánnának, az integrált erdőtűzvédelmi akcióterv pedig egymilliárd forintból indulna.",
+        "A beszámoló felsorolja a fő tételeket, de nem részletezi, hogy ezek pontosan mekkora részt adnak a bejelentett csaknem 60 milliárdos főösszegből."
+      ],
+      "cav": "Az adatok a miniszterelnöki közlésre és az Index beszámolójára támaszkodnak, a tervek megvalósulásáról a forrás nem szól. A cikk nem magyarázza, hogyan áll össze a bejelentett főösszeg a felsorolt tételekből.",
+      "op": "A zöld beruházásnak akkor van értelme, ha a közpénz látható eredményt hoz, és a források sorsa nyilvános. Ezért kérdés: ki ellenőrzi majd, hogy a csaknem 60 milliárdból valóban fa nő-e ki, és nem csak a bejelentés marad meg?",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/08/zoldpolitika-magyar-peter-fasitas-zoldterulet/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7247/72472/724727/72472793_5340501_149758880aabc2d35587f8a79a12ca33_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/08/zoldpolitika-magyar-peter-fasitas-zoldterulet/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6fc69c3f3be4fd9c35",
+      "r": "Kultúra",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T11:20:00+00:00",
+      "t": "Összeállt az X-Faktor élő show-ba jutó csapata: Gáspár Laci és Majka versenyzői a székes fordulóban",
+      "s": "A Blikk beszámolója szerint összeállt az X-Faktor élő show-ba jutó énekesek csapata, a székes forduló egyik legnagyobb meglepetése pedig az volt, hogy Gáspár Laci piros székét már a fordulót megelőzően egy korábban kiesett versenyző foglalta el.",
+      "p": [
+        "Az RTL tehetségkutatójának második székes fordulója után a Blikk arról számolt be, hogy a mentorok csapatai kialakultak, és a versenyzők készen állnak az élő show-ra. A kiélezett helyzeteket és a nehéz döntéseket a cikk szerint sokan a közönség előtt is éreznek majd.",
+        "Gáspár Laci versenyzői a forduló elején értetlenül fogadták, hogy a három szabad hely egyikén már valaki ült. A mentor ugyanis Solére csapatából kiesett Kovács Anna Sárának adott új esélyt, és rögtön a piros székbe ültette. A cikk szerint a 14 éves lány eredetileg nem Laci csapatában versenyzett, de a mentor nem akarta elengedni a különleges hangú fiatal énekest.",
+        "Majka két foglalt fehér székkel vágott neki a fordulónak, miután ByeAlex csapatából két versenyzőt vett át. A Blikk leírása szerint a mentort többször érték csalódások és váratlan meglepetések, az utolsó szabad helyért pedig komoly küzdelem zajlott.",
+        "A csapatokba került versenyzők személyes történetei is hangsúlyos részei a beszámolónak. A 20 éves kunhegyesi Viktória bátyja, Fehér Krisztián nyomdokaiba szeretne lépni, aki a 2024-es X-Faktor győztese volt. Az aszódi, 27 éves Alexandra szerint egy súlyos betegség, a tüdejében történt kilyukadás és az ismétlődő, azonnali műtétet igénylő állapot készítette fel arra, hogy komolyan kövesse álmait.",
+        "A többi énekes közül a 19 éves Szilver gyermekszínészként kezdte, Bernadett 28 évesen színházban játszik és állatmenhely nagykövete, a 20 éves abonyi WASP pedig tartalomgyártó cégnél dolgozik, és barátaival rappel. Ő kifejezetten örül annak, hogy Majka csapatába került.",
+        "A cikk tehát inkább a versenyzők bemutatására és a műsor dramaturgiájára épül. Azt viszont a beszámoló nem részletezi, hány versenyző jut végül az élő show-ba, és milyen szempontok alapján születtek a mentori döntések."
+      ],
+      "cav": "A beszámoló a Blikk szerkesztői munkája, a versenyzők egészségügyi és családi történeteit a cikk a szereplők elmondása alapján közli, ezeket független forrás nem erősíti meg. A névhasználat sem teljesen egységes: a cikk egyszer Kovács Anna Sárát, másszor csak Annát említ.",
+      "op": "A tehetségkutatóban a személyes tragédiák könnyen műsorelemmé válnak, pedig Alexandra története a tiszteletet érdemli, nem a drámai hangsúlyokat. A produkciónak és a mentoroknak egyaránt tudniuk kell, hol húzódik a határ a történet bemutatása és a nézői érzelmek kiaknázása között.„}]",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/majka-gaspar-laci-x-faktor-rtl-tehetsegkutato-versenyzok-enekes-elo-show/9sf8nnv"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/teve/2026/11/x-faktor-2026-enekesek"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/EJsKO-1Qth4TMtgglF3-im5i4-qYizDwbRZLehXloGw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzVkYmIyNTU4ZDA3OTQzNDU5Yjk5Y2M2NGU5ZTQ4YzRj.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/teve/2026/11/x-faktor-2026-enekesek",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-ed369e8657f92d5e16",
+      "r": "Gazdaság",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 8.",
+      "published_at": "2026-11-08T10:29:21+00:00",
+      "t": "Orbán Viktor a német gazdasági válságot figyelmeztetésnek nevezte a Tisza-kormány politikájára",
+      "s": "Orbán Viktor Facebook-bejegyzésben osztotta meg Hans-Werner Sinn német közgazdász videóját, és szerinte Magyarországra is a német gazdaság sorsa várhat. A Fidesz elnöke a jelenlegi kormányzati politikát figyelmezteti.",
+      "p": [
+        "Orbán Viktor a Facebookon osztotta meg Hans-Werner Sinn videóját, amelyhez azt írta: „Itt a kényelmetlen igazság Európa helyzetéről!”. A Fidesz elnöke szerint Magyarországnak is tanulnia kellene a német gazdaság hanyatlásából, mert a Tisza-kormány politikája hasonló következményekkel fenyegethet.",
+        "A videóban megszólaló Sinn, a müncheni ifo Institut korábbi elnöke, évek óta bírálja a német és az uniós gazdaságpolitikát. Szerinte a német ipar leépülése már 2018 óta tart, és a magas energiaárak, az atomerőművek bezárása, valamint a szigorú klímavédelmi előírások együtt súlyos versenyképességi problémákat okoztak.",
+        "A közgazdász a brüsszeli szabályozásokat, a kedvezőtlen demográfiai folyamatokat és a nemzetközi nehézségeket is a válság okai között említette. A cikk szerint Németország két recessziós év után 2025-ben mindössze 0,2 százalékos növekedést ért el, a bürokratikus terhek pedig tovább nyomták a vállalatokat.",
+        "Orbán Viktor korábban, novemberben azt állította, hogy a 2027-es költségvetés fokozatosan megfojthatja a magyar gazdaságot. A most megosztott videóval azt hangsúlyozta, hogy a német problémák Magyarország számára is figyelmeztetésül szolgálhatnak."
+      ],
+      "cav": "A német gazdasági helyzetről szóló állítások Sinn véleményét tükrözik, a cikk nem ellenőrzi őket. A 2027-es költségvetésre vonatkozó figyelmeztetés csak általánosan szerepel, a forrás nem részletezi, mely tételek okozhatnak gondot.",
+      "op": "A német példa lehet figyelmeztető, de a vita csak akkor ér valamit, ha a kormányzati döntések és a költségvetés számai nyilvánosak és ellenőrizhetők. Ha a Fidesz valódi gazdasági alternatívát kínál, azt konkrét adatokkal kell bizonyítania, nem egy megosztott videóval.",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/belpol/2026/11/tisza-kormany-orban-viktor-nemet-gazdasag-figyelmeztet"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/lVUsNtheVq8NxflbF3wnqoK-aiGMwVY42BYkRrwrTuQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhkZjA5ZjQ2OGE3MTRhMTY4OWE3MjBhYjEzZjRhZmM1.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/belpol/2026/11/tisza-kormany-orban-viktor-nemet-gazdasag-figyelmeztet",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
     }
   ]
 }
