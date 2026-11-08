@@ -1,6 +1,253 @@
 {
- "updated_at": "2026-11-08T12:10:31.196738+00:00",
+ "updated_at": "2026-11-08T18:04:02.669991+00:00",
  "items": [
+  {
+   "id": "w-3340b42b70005f42",
+   "member_ids": [
+    "w-3340b42b70005f42"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-08T17:59:03+00:00",
+   "t": "Krakow shooting: surgeons who were lunching nearby describe treating gunman and officers",
+   "s": "Two surgeons who were eating near Krakow’s Main Market Square when a gunman opened fire say they treated the attacker and two police officers at the scene. One colleague says his actions undoubtedly saved an officer’s life.",
+   "p": [
+    "Professor Michal Pędziwiatr and Dr Mateusz Wierdak were having lunch in central Krakow with their families on Saturday when they heard gunshots, according to local media reports cited by the BBC. The shooting killed six people and injured 15, the BBC reported.",
+    "Pędziwiatr told the Polish outlet Fakt that his son ran up to him and said people were being shot and falling to the ground. When the two doctors reached the scene, they treated both the apparent attacker and the police officers who had been shot while subduing him.",
+    "Wierdak worked on an officer who had been shot in the chest. Describing the emergency treatment, he told Fakt that he “stuffed all the bandages” into the wound. He said that without this, “I don’t know how things would have turned out”, because an ambulance had a long wait to arrive.",
+    "Pędziwiatr said he telephoned John Paul II Hospital, where the thoracic and cardiac surgery department is based, and insisted the officer be taken there. In his view, it offered the best chance of survival because specialists there treated that type of injury.",
+    "The two officers have been named as senior constables Jakub Kulik and Artur Morański. On Sunday they came out of comas. Prime Minister Donald Tusk had earlier hailed both as heroes for preventing further deaths. (The BBC report describes the prime minister’s praise as “true heroes”; the officers’ recovery is reported by the BBC but details of their condition beyond this are not given in the evidence.)",
+    "Prosecutors said the 25-year-old Polish attacker remains in critical condition. They had earlier said he was inspired by “far-right ideologies” and have opened a terror investigation. The National Public Prosecutor’s Office is leading the inquiry through a unit that handles terrorist offences. The attacker is a suspect and has not been tried.",
+    "Among the dead were a British national and an Austrian woman, along with four Poles. Six Dublin Civil Defence volunteers, who were on a city break nearby, also gave medical help after the shooting, RTÉ News reported, quoting officer James McConnell. They provided CPR and haemorrhage control.",
+    "Witnesses described panic in the square. London resident Ruby Catherine Warren said she heard gunfire and ran with her friends until they reached a hotel to hide. Tom Brook, from West Yorkshire, said he was inside a nearby McDonald’s when he heard multiple gunshots, and later saw a body covered in foil blankets about 20 metres away."
+   ],
+   "cav": "The sources do not say whether the attacker acted alone, and the “far-right” motive is a prosecutors’ statement made before any trial. Several details, including the surgeons’ accounts, come through local media reports and may not be fully verified.",
+   "op": "Heroism at the scene deserves praise, but it should not end the story. Prosecutors must explain the motive and the attacker’s path clearly, and the public deserves a transparent account of how the response unfolded.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
+  },
+  {
+   "id": "w-0710a39b76016560",
+   "member_ids": [
+    "w-0710a39b76016560",
+    "w-3797dae49af9b2b8"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-08T17:53:59+00:00",
+   "t": "Eisenkot Begins Bid to Form Israeli Government Without a Clear Majority",
+   "s": "Former military chief Gadi Eisenkot has been given the mandate to form Israel’s next government, despite his bloc lacking a clear majority in parliament. He says Benjamin Netanyahu has brought the country to a historic crisis.",
+   "p": [
+    "Israel’s former military chief Gadi Eisenkot started the task of forming a government on Sunday, reaching out to allies of Benjamin Netanyahu. He said the veteran prime minister had led the country into a historic crisis.",
+    "Eisenkot, 66, leads the Yashar party and has promised to bridge Israel’s deep polarisation. President Isaac Herzog formally gave him a mandate and 28 days to build a government, even though his bloc does not have a clear majority. Herzog can grant a 14-day extension before the mandate must pass to someone else.",
+    "Speaking at a ceremony at the presidential office, Eisenkot said the country was “approaching a point of no return.” He called for a “national emergency government” and said it would require “creative and unconventional political steps.”",
+    "According to the Guardian, Eisenkot has three possible routes. He could agree a power-sharing deal with Netanyahu, win support from Arab-led parties, which several members of his own bloc oppose, or reach an agreement with the ultra-Orthodox parties, who want military exemptions for their community.",
+    "The October election left neither side with a majority. Eisenkot’s opposition bloc won 48 of the 120 seats, while Netanyahu’s camp took 53. Both Arab-majority lists endorsed Eisenkot during consultations with Herzog, and they could now act as kingmakers. Eisenkot has set conditions for any Arab party joining his coalition, including recognition of Israel as a Jewish state and labelling Hamas a terrorist organisation. The more conservative Yisrael Beiteinu party has already said it will not sit with Arab-led parties.",
+    "Eisenkot has also appealed to Netanyahu’s Likud and to the far-right party of finance minister Bezalel Smotrich, but only on the condition that he serve as prime minister. Netanyahu called for a national unity government with Eisenkot on Saturday, though it is unclear whether the two can agree on power sharing. Netanyahu is expected to keep up pressure, warning that any alliance with Arab parties would be a betrayal.",
+    "Netanyahu has repeatedly said the election was “stolen” by Arab parties, but the Guardian reports he has offered little to no evidence. Israel’s Shin Bet security agency is investigating possible foreign interference. The Central Elections Committee and Herzog say the vote was valid, and that any wrongdoing found would not have changed the result significantly.",
+    "Eisenkot, who was military chief from 2015 to 2019, has vowed to crack down on extremist settlers in the West Bank and has described recent attacks as Jewish terror. He opposes a Palestinian state and wants to end Hamas rule in Gaza. If he cannot assemble a coalition, Israel faces fresh elections, having already held five between 2019 and 2022."
+   ],
+   "cav": "The Guardian is the detailed source here; the second outlet’s brief summary adds only that Eisenkot has up to six weeks, which matches the 28 days plus a possible 14-day extension. Netanyahu’s claim of a stolen election is his own and is not supported by the evidence; the outcome of the Shin Bet investigation is not reported.",
+   "op": "Israel’s coalition arithmetic should not override the basic question of how the vote was run and who is accountable for it. Netanyahu’s unsupported fraud claims make transparent answers from the Shin Bet and the elections committee more urgent. Any coalition, whoever leads it, must be judged by whether it restores public trust.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/c89093b1bdff428195f0ad9be24f6d4eac75b842/555_286_3230_2586/master/3230.jpg?width=140&quality=85&auto=format&fit=max&s=e5e03cc0e5601cb1524de4d029ca1130",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+  },
+  {
+   "id": "w-dfb7c585a47464e2",
+   "member_ids": [
+    "w-dfb7c585a47464e2"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-08T17:51:17+00:00",
+   "t": "Collision of two trains south of Cairo kills at least seven, officials say",
+   "s": "Officials say at least seven people died and over a hundred were hurt when two trains struck each other on Sunday south of Cairo. Egypt’s president has called for a swift inquiry.",
+   "p": [
+    "The collision took place in al-Ayyat, a district of Giza province roughly 30 miles south of Cairo. Citing the transport ministry, reports say a service bound for Fayoum, in the south-west, slammed into the back of a train that was headed for Aswan, in the south.",
+    "Officials said an inspection showed the Cairo-Aswan train was standing still on that same line when the impact occurred. The reporting does not explain why it was stopped there, or how the other train ended up on that track.",
+    "Ayman Gamal, a resident of Kafr Girza in al-Ayyat, told the Guardian that bystanders hurried over, dragged survivors out and summoned ambulances. He claimed to have watched around 80 casualties being driven to hospital, and said some travellers were caught in a carriage of the motionless train and did not survive.",
+    "In a post on social media, President Abdel Fatah al-Sisi said he had instructed investigators to act quickly. The Egyptian railway authority said rescue crews and cranes were deployed to remove the debris and bring services back to timetable as soon as possible.",
+    "Rail accidents are a recurring problem in Egypt, where the network has been criticised for poor management and inadequate equipment upkeep. Authorities have launched modernisation programmes in recent years. In September, two freight trains crashed in the same district, leaving the driver and his assistant injured.",
+    "The country’s worst rail tragedy remains the 2002 blaze on an overnight train from Cairo to southern Egypt, which claimed more than 300 lives."
+   ],
+   "cav": "The death toll of at least seven and the figure of more than 100 injured come from officials; the claim of 80 hospital transfers comes from one resident’s account. The cause of the collision has not been established, and the reporting does not say whether the findings will be made public.",
+   "op": "Seven deaths and more than 100 injuries require more than a routine promise of inquiry. The investigation the president ordered should publish its findings, explain why a stationary train was struck on the same track, and name any maintenance failures. Repeated crashes make openness the only credible answer.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+  },
+  {
+   "id": "w-7af5dcbc2062e085",
+   "member_ids": [
+    "w-7af5dcbc2062e085"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-08T15:15:01+00:00",
+   "t": "More than 200 tarantula sightings reported in Austria since September",
+   "s": "Austrian citizens have reported more than 200 tarantula sightings since early September, and experts have verified 175 of them. Most reports come from Styria, Lower Austria and Burgenland.",
+   "p": [
+    "Austria has logged more than 200 tarantula sightings over roughly two months, according to reports gathered through naturbeobachtung.at, a citizen science platform. Experts have verified 175 of them.",
+    "By region, Styria in the southeast leads with 66 reports. Lower Austria counted 49 and Burgenland 43, while Carinthia also registered sightings.",
+    "Autumn is the busiest season for the spiders, which look for protected spots to pass the winter. Occasionally they end up inside homes, apartments and garages. In nature they normally retreat to burrows dug underground and to cracks in rocks.",
+    "Among the standout finds was a South Russian tarantula in Tulln, Lower Austria, well to the northwest of its usual range. Carolina Trcka-Rojas of the Austrian Nature Conservation Association said no sightings had previously been recorded in that surrounding area. In late August, a black-bellied tarantula turned up in Stossau, in the lower Gail valley, the species' westernmost known Austrian record.",
+    "Two tarantula species are generally found in Austria. Both belong to the wolf spider group and may bite when provoked, an event described as uncommon. A bite can hurt and leave redness and swelling, but it is generally not dangerous for healthy adults.",
+    "Historical records place the first documented South Russian tarantula in Austria in the early 1920s, near Lake Neusiedl and Vienna. The black-bellied species was first recorded in Styria during the 1970s.",
+    "Austria is not alone in this trend. A 2025 study reported that tarantulas in Czechia are spreading again after decades of decline, and researchers point to warmer, drier summers as a major factor."
+   ],
+   "cav": "The figures come from a citizen science platform, so they reflect reported sightings rather than measured population changes, and the sources do not say whether the tarantula population is actually growing. The Austrian counts are not broken down by species.",
+   "op": "Open citizen data helps scientists track wildlife, but it should be read with care. Authorities and researchers should publish clear methods and verified counts, so that public alarm does not outrun the evidence.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/08/more-than-200-tarantula-sightings-in-austria-in-two-months"
+    ]
+   ]
+  },
+  {
+   "id": "w-67ce803de4cd90f9",
+   "member_ids": [
+    "w-67ce803de4cd90f9"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-08T14:42:09+00:00",
+   "t": "Diwali lights up India as air pollution clouds the festival in Delhi and Mumbai",
+   "s": "Millions across India are marking Diwali with lamps, fireworks and sweets, but the celebrations are taking place amid rising concern about air quality, especially in the north. The Supreme Court has allowed certified “green” firecrackers in Delhi for a limited period.",
+   "p": [
+    "Across India, millions of people are taking part in Diwali, a Hindu festival held on a moonless night in the month of Kartik. Homes, shrines, workplaces and public streets glow with lamps and bright lights, a display meant to represent the defeat of darkness by illumination.",
+    "Customs vary from region to region and from community to community, yet most celebrations include prayer, get-togethers at home, sweets shared among relatives and friends, and firecrackers. In the days beforehand, people tidy and adorn their houses with flowers and clay lamps called diyas, colourful floor designs appear at doorways, and shops fill with buyers.",
+    "According to the BBC, the festivities are overshadowed by worsening air quality, particularly in northern India. Weather patterns and the burning of crop stubble are cited as contributing factors, and fireworks set off during the holiday can add to the problem. Delhi's pollution has reached hazardous levels, which the broadcaster describes as the worst Diwali for air in a decade, and recent measures do not appear to have worked. Mumbai, the financial capital, has also recorded high readings in recent weeks.",
+    "India's Supreme Court, ruling on Monday, granted a temporary exemption allowing certified “green” firecrackers to be made, sold and set off in Delhi and nearby areas. These devices are designed to produce 20-30% fewer emissions than conventional fireworks. Critics doubt how much they help, and they worry that ordinary firecrackers could still reach the capital from neighbouring states.",
+    "Beyond the fireworks, the festival commemorates Lord Ram's return to Ayodhya after his victory over Ravan, the chief villain of the Ramayana epic. The celebrations unfold over several days. Dhanteras, which began on 6 November, is a day for buying gold, silver or new utensils, considered lucky. Chhoti Diwali brings lamps and, in some homes, firecrackers. The main day involves evening prayers to Lakshmi, goddess of wealth, followed by festive meals. The final day, Bhai Dooj, honours the bond between brothers and sisters.",
+    "Sikhs and Jains also mark the period. Sikhs commemorate the release of their sixth guru, Guru Hargobind, from imprisonment at Gwalior Fort in the early 17th century. For Jains, the day is linked to Lord Mahavira's attainment of moksha, or liberation from rebirth. Indian communities abroad hold their own gatherings and exchange gifts.",
+    "The occasion is also seen as a favourable time for new purchases. India's stock exchanges will hold a one-hour special trading session, known as Muhurat trading, on 8 November this year. In Nepal, where the festival is called Tihar, pets and street animals are honoured."
+   ],
+   "cav": "The source does not say how the “most polluted in a decade” judgement was measured or by whom, and it gives no current air quality readings. The 20-30% emissions figure for green firecrackers comes without independent testing details, and the critics' objections are reported without specifics.",
+   "op": "Celebration should not come at the cost of breathable air for millions of residents. If pollution rules are to mean anything, the court's temporary permission must be paired with transparent monitoring and enforcement, so that citizens can see whether the measures are working.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
+  },
+  {
+   "id": "w-fe43e4b6ce3d3106",
+   "member_ids": [
+    "w-fe43e4b6ce3d3106"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-08T14:26:14+00:00",
+   "t": "Herzog taps Gadi Eisenkot to try forming Israel’s next government",
+   "s": "Israeli President Isaac Herzog has asked Yashar leader Gadi Eisenkot to attempt to build a government after an October election left neither him nor Benjamin Netanyahu with a clear route to power. If Eisenkot succeeds, he would replace Netanyahu as prime minister.",
+   "p": [
+    "Isaac Herzog has selected Gadi Eisenkot, leader of the Yashar party and the most prominent challenger to Benjamin Netanyahu, to attempt to assemble a cabinet. According to the president’s office, Herzog told Eisenkot of his decision late on Saturday. The formal handover was scheduled for a ceremony on Sunday at the presidential residence in Jerusalem.",
+    "The Knesset has been stalemated since the vote on 27 October, when Netanyahu’s religious-nationalist alliance lost its parliamentary majority. Even so, his camp won 53 of the 120 seats, the largest share in the chamber. Eisenkot’s opposition grouping took 48, so neither side reaches the 61 seats needed to govern.",
+    "Eisenkot, 66 and a former army chief, wrote on X that the moment called for a government of national urgency. He also received the backing of both Arab-majority lists, which posted record results and could now decide who governs. Analysts in the sources describe three possible paths: a power-sharing arrangement with Netanyahu, support from Arab-led parties, or a deal with ultra-Orthodox parties that want military exemptions for their community.",
+    "The route ahead is difficult. Eisenkot has attached conditions to any Arab party joining his coalition, among them acknowledging Israel as a Jewish state and classifying Hamas as a terrorist group. Yisrael Beiteinu, one of his partners, has ruled out sitting in a government with Arab-led parties. Equal military service, including an end to the ultra-Orthodox draft exemptions, was a core theme of his campaign.",
+    "Netanyahu has repeatedly said Arab parties stole the election, yet the report says he has produced little to no proof. Israel’s Shin Bet security service has opened an inquiry into possible foreign meddling. The Central Elections Committee and Herzog maintain the vote was valid and that any irregularities would not have materially altered the outcome. Netanyahu has called for a unity government with Eisenkot, but it is unclear whether the two can agree terms on sharing power.",
+    "Eisenkot has promised to curb violent extremist settlers in the West Bank, whose attacks on Palestinians he has described as Jewish terror. He opposes a Palestinian state and has pledged to end Hamas’s control of Gaza. He has 28 days to gather a majority, and Herzog can extend that by 14 days. If no candidate succeeds, Israel faces another election."
+   ],
+   "cav": "The sources do not establish whether Eisenkot can assemble a majority, and Netanyahu’s fraud claims remain unsupported by the evidence. The Shin Bet inquiry is ongoing, so its findings are unknown. The count of this as a sixth election since 2019 is an inference from the five elections the report mentions between 2019 and 2022.",
+   "op": "Whoever governs Israel next will be judged on whether they respect the process that produced them. Unsubstantiated claims that an election was stolen erode public trust, and so do backroom deals dressed up as national unity. Israelis deserve a coalition built on open terms that can withstand scrutiny.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+  },
+  {
+   "id": "w-9add0c107628fa5e",
+   "member_ids": [
+    "w-9add0c107628fa5e"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-08T13:24:00+00:00",
+   "t": "Cop31 talks in Turkey open with pressure for visible climate progress",
+   "s": "Negotiators from roughly 190 countries convene in Antalya on Monday for Cop31, and the host says the summit has to deliver results people can verify. The meeting opens while the strongest El Niño on record is still strengthening.",
+   "p": [
+    "The UN climate conference gets under way on Monday in Antalya, Turkey, drawing world leaders and delegations from about 190 countries. The host has argued that the gathering must yield something measurable that ordinary people can recognise as genuine progress.",
+    "The arrangement is unusual. Turkey is the venue, but Australia will preside over the formal negotiations, a split agreed last year after the two countries put forward competing bids. Chris Bowen, Australia’s climate and energy minister and the president of negotiations, told the Guardian that the talks need concrete steps on cutting emissions and on finance, and that they must move beyond the previous Cops.",
+    "Canberra intends to push for a robust result that addresses low-lying Pacific nations, which it describes as facing an existential danger. Bowen said that only 0.2% of the world’s available climate finance reaches small island developing states for adaptation. Climate advocates, along with more than 500 Australian scientists, counter that the country cannot credibly press this case while it keeps approving new coal and gas developments.",
+    "Adão Soares Barbosa, who chairs the Least Developed Countries group of 44 nations, framed the stakes in starker terms. He said that limiting warming to 1.5C, providing finance that poor countries can count on, strengthening adaptation and tackling loss and damage are essential for survival.",
+    "The United States will again stay away, the second year in a row. A White House spokesperson said the administration wants nothing to do with what it called “extremist climate policies”. Twenty Democratic members of Congress will attend instead. The Guardian reports that their party’s strong showing in the recent midterm elections could allow them to block attempts to roll back pollution rules and to cut support for clean energy.",
+    "The summit’s backdrop is grim. According to the article, more than 50,000 people died in Europe this summer from heatwaves, and a glacier collapse in Nepal set off a landslide that killed more than 1,500 people. The El Niño, which has yet to peak, is described by the article as set to claim hundreds of thousands of lives, though it does not explain how that estimate was reached.",
+    "Turkey, the second host, is pushing for wider adoption of electric vehicles and heat pumps. A proposed goal of supplying 35% of global final energy from electricity by 2035 is expected to be discussed, although some countries oppose it. Both presidencies depend heavily on fossil fuels, and the article says Australia’s centre-left government is off course for its 2050 net zero target."
+   ],
+   "cav": "The article relies on statements from the host, campaigners and officials, and it does not independently verify the death tolls or the El Niño projection. It does not say who produced the 50,000 and 1,500 figures, so they should be read as reported rather than confirmed.",
+   "op": "A summit is only as credible as the promises it keeps. Cop31 should be judged on cuts and finance that reach vulnerable countries, not on speeches from hosts whose fossil fuel industries sit at odds with their message. Clear public accounting of who pays and who receives is the measure that counts.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/master/6003.jpg?width=140&quality=85&auto=format&fit=max&s=83fdd9ee72f2efe6df78f03a7cacbffe",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+  },
+  {
+   "id": "w-59b5aec9ea1019f8",
+   "member_ids": [
+    "w-59b5aec9ea1019f8"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-08T12:46:37+00:00",
+   "t": "European and world leaders offer condolences after Krakow shooting",
+   "s": "Leaders from across Europe and beyond have expressed condolences and solidarity with Poland after a shooting in Krakow that killed people and injured others. Their statements focused on grief and support rather than on details of the attack.",
+   "p": [
+    "News of the shooting in Krakow spread quickly, and governments across Europe responded within a short time. According to the reports, representatives of several European countries, along with the European Union and the United States, expressed sympathy for those affected and condemned violence in all its forms.",
+    "German Chancellor Friedrich Merz said he was moved by the events and described Germany as a friend and partner of Poland. French President Emmanuel Macron wrote of his shock and emotion and pledged solidarity with the Polish people and the families of the victims.",
+    "Italian Prime Minister Giorgia Meloni called the attack a cowardly and unacceptable act of violence. She said her government would defend its security and freedom against every form of terror. British Prime Minister Andy Burnham said he was shocked and saddened, and that the United Kingdom stands with the Polish people.",
+    "Spanish Prime Minister Pedro Sánchez, Latvian President Edgars Rinkēvičs, Lithuanian President Gitanas Nausėda, Romanian President Nicușor Dan and Hungarian Foreign Minister Anita Orban also sent messages of condolence and solidarity. Lithuania’s statement expressed support for President Karol Nawrocki and the Polish people.",
+    "European Commission President Ursula von der Leyen thanked the police officers who, she said, acted at the risk of their lives. European Parliament President Roberta Metsola also thanked the police and emergency services for their rapid intervention and for bringing the situation under control. EU foreign policy chief Kaja Kallas said the tragedy would be felt far beyond Poland’s borders.",
+    "Ukrainian President Volodymyr Zelenskyy described the attack as a shocking crime and said there was no justification for it. He added that he trusted the perpetrator would face justice. US Ambassador to Poland Tom Rose said America stands by Poland in this dark hour.",
+    "The statements do not give a full account of what happened in Krakow, including the number of dead and injured, the location of the shooting beyond the Main Market Square, or whether a suspect has been arrested or charged. Several leaders referred to the victims without describing the circumstances of their deaths."
+   ],
+   "cav": "The sources are mostly leaders’ statements and do not describe the attack in detail, such as casualty figures, a motive or the status of any suspect. Zelenskyy’s reference to a perpetrator is a statement of expectation, not a confirmed identification. Details should be checked against official Polish reports.",
+   "op": "Solidarity after a shooting is easy to declare and harder to sustain. What matters now is that Polish authorities explain who was responsible, how the attack unfolded and whether any security failures need answering. Leaders who promise justice should be judged by whether the investigation is open to scrutiny.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/08/condolences-and-solidarity-european-and-world-leaders-react-to-krakow-shooting"
+    ]
+   ]
+  },
   {
    "id": "w-2c02b424814c04ba",
    "member_ids": [
@@ -1145,384 +1392,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
-  },
-  {
-   "id": "w-1d60a00bd6b725ed",
-   "member_ids": [
-    "w-1d60a00bd6b725ed"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-06T17:40:23+00:00",
-   "t": "Schumer vows Democrats will block a ‘rightwinger’ from the Supreme Court as they prepare for Congress",
-   "s": "Chuck Schumer says Democrats will stop Donald Trump from installing a conservative justice on the US Supreme Court. His remarks preview how the party plans to use its expected power when the new Congress convenes.",
-   "p": [
-    "Chuck Schumer, who is set to become Senate majority leader, has said Democrats will stop Donald Trump from installing a conservative justice on the Supreme Court. In an interview with the Associated Press, he said his party would reject what he called “crappy nominees” for the high court, the lower federal courts and the cabinet.",
-    "The statement offers a glimpse of the agenda Democrats hope to pursue once the new Congress takes office in January, following midterm victories that returned both chambers to their control. Party leaders are preparing a push back against the president and his policies, according to the Guardian.",
-    "Some Democrats are considering investigations into Trump and officials in his administration. Robert Garcia, expected to lead the House oversight committee, told Republicans on Tuesday evening to get legal representation.",
-    "Other lawmakers want to advance bills they promised voters. Democrats expect large majorities in both chambers to pass priorities such as reversing Medicaid reductions from Trump’s “One Big Beautiful Bill” and ending funding for the war in Iran. Trump has signalled he would veto legislation he opposes.",
-    "According to the Guardian, Democrats have won 54 Senate seats for the next Congress, a figure that could reach 56 if their candidates in Mississippi and Alaska prevail. Both contests remain uncalled, though Democrats are ahead in each. As of Friday morning, the party also held at least 253 House seats after gaining more than 40.",
-    "Schumer told the AP he expects his party to have the votes needed to reject Trump’s nominees and block other policies. The court currently has a 6-3 conservative majority, built during Trump’s first term with the appointments of Neil Gorsuch, Brett Kavanaugh and Amy Coney Barrett. Four justices are in their 70s, and the two most conservative, Clarence Thomas and Samuel Alito, are 78 and 76.",
-    "Thomas has not signalled any plan to step down. Alito has rejected reports that he will retire, telling Fox News he will remain on the court for the rest of the term regardless of the Democratic result. Any Trump nominee would need confirmation from the Republican-led Senate, which has roughly six weeks left in its session.",
-    "Republicans are meanwhile examining their defeat. JD Vance conceded that the Iran war fuelled widespread frustration, Senator Ted Cruz blamed tariffs for higher costs, and Florida governor Ron DeSantis said the party’s vote on the Epstein files looked bad.",
-    "Trump’s attention has turned to construction projects in Washington DC. A federal judge halted work on his planned triumphal arch for 14 days, a day after a commission stacked with loyalists approved it. Officials had earlier blamed “vandals” for problems at the Lincoln Memorial Reflecting Pool, but a Trump-appointed US attorney later found the faults stemmed from poor workmanship. The Guardian also reports that Trump spoke at length about the White House ballroom after the midterms and signed a proclamation barring future presidents from changing the design of the Oval Office and Cabinet Room."
-   ],
-   "cav": "This account rests on a single outlet and on Schumer’s own statements about what Democrats will do, which are predictions rather than confirmed actions. Several Senate and House races were still uncalled at the time of reporting, so the seat totals may change. The claims about Thomas and Alito’s retirement plans are second-hand reports.",
-   "op": "Confirmation fights over the Supreme Court are about whether the courts remain a check on power, not only about which party holds a Senate majority. Democrats are right to press for transparency and to scrutinise nominees on their record. The real test will be whether they apply the same standard to every nominee, whichever party is in the White House.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/6a62cdd442159f6f28687357b2680cefc72af9b3/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=bb42266942291b03e50d2e72e57b4a62",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice"
-  },
-  {
-   "id": "w-f3811a8d5b13944b",
-   "member_ids": [
-    "w-f3811a8d5b13944b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T17:14:31+00:00",
-   "t": "Fresh bomb threats disrupt at least 18 flights across Europe as media in Ireland and UK are also hit",
-   "s": "A new round of bomb threats on Friday forced disruption to at least 18 flights in Europe and hit media outlets in Ireland and the UK. The aircraft involved landed without incident, and searches turned up no explosives.",
-   "p": [
-    "Flights to or from nine countries, including Bulgaria, Cyprus, Czechia, France, Hungary, Italy, Portugal, Romania and the UK, were among those hit by the latest alerts. In Denmark, police looked into a threat aimed at Copenhagen airport, yet the airport’s management stated that operations continued as normal.",
-    "Earlier threats on Tuesday and Thursday had already led to at least 35 flights being diverted or searched, which has prompted questions about whether the incidents are coordinated. Eurocontrol, the European air traffic control agency, put Friday’s affected flights at just 0.0674% of the 26,709 flights scheduled across the continent that day. Hungary’s defence minister, Romulusz Ruszin-Szendi, wrote on Facebook that his country had sent fighter jets up three times to accompany civilian planes.",
-    "Separately, threats against Irish media organisations interrupted broadcasts, forced staff out of buildings and led police to search offices and newsrooms. National broadcaster RTÉ later returned to its regular schedule. Britain’s Sky News said it had also received a security threat and had informed the authorities. Earlier in the week, cyber-attacks reportedly hit supermarket refrigeration systems in at least seven European countries.",
-    "Ireland’s taoiseach, Micheál Martin, argued that these threats must be treated seriously, describing them as an attempt to spread fear. Italian prime minister Giorgia Meloni said she could not confirm whether the hoaxes and cyber-attacks were linked, but she argued that both pointed to civilian infrastructure being targeted. A senior Nato military official said the alliance was following developments and working with its members.",
-    "According to several European outlets, a group claiming responsibility sent an email to multiple newsrooms warning of more attacks on transport across the continent. The Guardian said it had decided against publishing the email because its claims could not be verified. Some of Thursday’s threats were signed with a reference to a Russian far-right, ultranationalist movement, but its founder, Vladislav Pozdniakov, denied any involvement in a Telegram post and said the group had been inactive since 2021.",
-    "Investigators say they have found no evidence so far that a hostile state or terror group, such as Russia or Iran, is behind the hoaxes, though inquiries remain open. Some officials believe the disruption may be connected to European backing for Ukraine. Spain’s foreign minister, José Manuel Albares, said investigators needed more time to find those responsible, but added that the recurring pattern looked deliberate. Metropolitan Police chief Mark Rowley urged calm, pointing to the “10p terrorism” era of hoax calls and warning against responding too hastily to every online message."
-   ],
-   "cav": "The group’s claim of responsibility and the signatures on the threats are unverified, and the Guardian did not publish the email. Investigators have not named any culprits, and links to Russia or to Ukraine policy are suspicions rather than established findings. The movement’s denial comes from its founder’s own post.",
-   "op": "Threats that stop travellers and frighten staff deserve firm policing, but also public candour about what investigators know. Governments should not let unproven claims harden into policy by default. Europe’s response must be measured, evidence-led and open to scrutiny.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/1f88c9a52100be8318eb3a96107a54f59d0a5606/205_0_4147_3317/master/4147.jpg?width=140&quality=85&auto=format&fit=max&s=019361f7d5bba2227ccd0b0797d26c42",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-  },
-  {
-   "id": "w-1d2f4ee0d1050f42",
-   "member_ids": [
-    "w-1d2f4ee0d1050f42",
-    "w-eefb9ac1886b7456"
-   ],
-   "section": "World",
-   "published_at": "2026-11-06T16:12:22+00:00",
-   "t": "Midterm results put a crowded field and an open question at the heart of the 2028 race",
-   "s": "Vote counting is still under way in the US midterms, yet both parties are already sizing up their potential 2028 presidential contenders. No one has formally entered the race.",
-   "p": [
-    "Votes were still being tallied when the reports were filed, but the focus has already shifted to who will try to succeed President Donald Trump. According to the BBC, Democrats made large gains in Congress and are expected to head into the 2028 contest with momentum.",
-    "Winning the midterms is no guarantee of winning the presidency two years later. The BBC points to Barack Obama, who won a second term in 2012 after Republicans had made huge gains in 2010. For the moment, prospective candidates are working quietly in the background.",
-    "Several prominent Democrats who were on the ballot appear to have strengthened their national standing. Georgia Senator Jon Ossoff won comfortably in a state that Trump had carried in 2024, and the BBC says his campaign generated several viral moments that raised his profile. Pennsylvania Governor Josh Shapiro easily defeated his Republican opponent, and analysts argued that his appeal in a swing state suggests he could be competitive nationally. Illinois Governor JB Pritzker also prevailed, in a contest that local commentators had framed as a warm-up for a presidential bid.",
-    "California Governor Gavin Newsom was barred from seeking re-election this year, but he still has a stake in a ballot measure that would tax the state’s wealthiest residents, a proposal he opposed.",
-    "On the Republican side, Senator Tom Cotton and Governor Sarah Huckabee Sanders both held their seats in Arkansas, though each took only slightly more than half the vote, a narrower showing than before. Exit polls indicate that part of the shift against the party reflected voter anger at the Trump administration. That could make life harder for likely successors who sit in the current leadership, among them Vice-President JD Vance and Secretary of State Marco Rubio.",
-    "Vance has tried to put distance between himself and the defeat, as well as a military adventure in Iran that the BBC describes as a political failure for his party. The academic Karen Beckwith, of Case Western Reserve University in Ohio, was quoted by the BBC saying that Vance has been the figure most damaged by the campaign. Rubio has rejected reports that he is weighing a departure from his job before a 2028 bid.",
-    "Republicans who sit outside the administration may find it easier to set out their own positions. Senator Ted Cruz, who was not up for election this year, argued that too many party politicians appear indifferent to the economic concerns of voters. Florida Governor Ron DeSantis took a similarly critical line while citing Republican successes in his state.",
-    "A French broadcaster’s summary says Democrats face what could become one of the most crowded and unpredictable presidential primaries in decades, with the party still split over whether to move toward the centre or further left. Jim Messina, a former adviser to Obama, told the BBC that dozens of people are already making moves."
-   ],
-   "cav": "Vote counting was still ongoing when these reports were published, so the final picture may change. The French source was available only as a short summary, and the description of the Iran operation as a political failure is the BBC’s characterisation rather than an established judgement.",
-   "op": "Midterm winners and losers do not settle who will win in 2028, and voters deserve candidates who explain their plans in public. The party that answers the anger in these results honestly, rather than with slogans, will earn the trust that counts.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
-  },
-  {
-   "id": "w-d32891547ec5720d",
-   "member_ids": [
-    "w-d32891547ec5720d"
-   ],
-   "section": "Africa",
-   "published_at": "2026-11-06T15:08:43+00:00",
-   "t": "Kenyan cult leader Paul Mackenzie handed 200-year prison term over Shakahola deaths",
-   "s": "According to The Guardian, Paul Mackenzie, leader of a Kenyan doomsday movement, has been sentenced to 200 years in prison for the deaths of 190 children and one adult. The term follows a conviction handed down in Mombasa about two weeks earlier.",
-   "p": [
-    "Half of the combined term relates to deaths caused by starvation and half to deaths caused by direct violence, the outlet reported. The sentence concludes a case that has been described as one of the worst cult disasters in recent history.",
-    "The verdict was delivered in the coastal city of Mombasa, where the court had found Mackenzie guilty roughly a fortnight before sentencing. Prosecutors argued that, through his church, he pressed followers to deprive themselves and their own offspring of food in the belief that this would spare them at the world’s end. Accomplices reportedly used threats and beatings to enforce those instructions.",
-    "Investigators recovered bodies showing severe malnutrition. Some were concealed in crude burial pits and others were dumped in toilet pits. Some victims were reportedly buried while still alive.",
-    "The affair came to light in 2023, when a tip led police to arrest Mackenzie. Within weeks, excavations had begun in the Shakahola woodland near the coast in south-eastern Kenya. More than 400 bodies have been retrieved, yet most were so badly decayed that only 26 could be identified.",
-    "Mackenzie rejected the murder allegations and told the court he had never compelled anyone to fast. The court did not accept that defence. Justice Diana Kavedza-Mochache, presiding over a hearing that ran for more than eight hours, said some children had been cut off from food while their parents looked on.",
-    "Serious questions remain about how he kept operating. Police searched his premises in 2017, and authorities closed his church in 2019, after which police said he moved to Shakahola. He reportedly barred followers from schooling and from hospital care, calling both satanic. The case has intensified demands for stricter supervision of churches and other faith groups in a country where religion plays a prominent public role.",
-    "The judgment addressed 191 deaths, while inquiries into more than 200 further deaths are still open. Mackenzie also faces terrorism and other charges linked to the forest, which he denies. Prosecutors further allege that, while in custody, he directed the deaths of 52 people in Kwa Binzaro village, about 18 miles from Shakahola. He has pleaded not guilty in that case."
-   ],
-   "cav": "The conviction and sentence are reported here through a single outlet; the sentencing date and whether the terms run concurrently are not stated. The 52 Kwa Binzaro deaths are prosecutors’ allegations, and the 200-plus other deaths under investigation remain unresolved.",
-   "op": "A sentence of this length is the state’s judgment on the killings, but it is not the whole answer. Kenya’s courts have spoken; the public still deserves a clear account of how a man already on police radar in 2017 kept a congregation under his control for years. Accountability must reach the authorities as well as the accused.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/017bd9f3ebe11c01312f4eefff5b6fce391376f3/332_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=de3f13d6c01242a2b2e958fbe65a4439",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-  },
-  {
-   "id": "w-939512efbcd160a4",
-   "member_ids": [
-    "w-939512efbcd160a4"
-   ],
-   "section": "Africa",
-   "published_at": "2026-11-06T14:46:03+00:00",
-   "t": "Kenyan court sentences doomsday cult leader Paul Mackenzie to 200 years for 191 murders",
-   "s": "A Kenyan court has jailed Paul Mackenzie, who led a doomsday cult, for 200 years over the deaths of 191 people, all but one of them children. Twenty-eight others were convicted alongside him.",
-   "p": [
-    "Judge Diana Mochache handed down 100 years for homicide and a further 100 years for starvation-related offences, according to the BBC. Terms within each category run at the same time, while the two categories run one after the other, producing a combined sentence of 200 years.",
-    "Prosecutors said Mackenzie directed followers to fast until death in the belief that this would bring their children to heaven. The judge placed the main responsibility for the deaths on him, describing the episode as one of the deadliest cases of cult activity anywhere in the world.",
-    "Mackenzie, who presented himself as a pastor, was arrested in 2023, after more than 400 bodies were uncovered in shallow graves in Shakahola forest, close to the coast. The inquiry that followed transfixed the country and attracted attention abroad. He also faces separate manslaughter and terrorism charges, which he rejects.",
-    "The state had asked for the death penalty. Mochache accepted that the case qualified for it to be considered, but she chose not to impose it, reasoning that execution would close off any chance of reform. The BBC notes that Kenya has not executed anyone since 1987.",
-    "The judge described the killings as deliberate and planned, and said the accused showed no regret, some even announcing they were prepared to starve themselves. A co-accused reportedly told followers that anyone who refused to fast should be pushed toward heaven by force, the BBC reports. Graves inside the forest were given the name of weddings.",
-    "Post-mortem examinations found that starvation accounted for most deaths, while others involved suffocation, strangulation or injuries to the head. For some victims the cause could not be established because the bodies had decomposed, and several people died shortly after being rescued because they were badly undernourished.",
-    "The case has also raised questions about oversight. Investigations by the state-funded Kenya National Commission on Human Rights concluded that local administrators and police had repeatedly failed to act on the cult’s activities. Francis Wanje, who lost eight relatives, said he went to the police in March 2023 and expected an immediate rescue that never came. A commission of inquiry set up by President William Ruto was later ruled invalid on constitutional grounds."
-   ],
-   "cav": "The sources give 191 murders but more than 400 bodies were found; the evidence does not explain how the court arrived at its count or how the two figures relate. Wanje’s account of police inaction is his own and is not independently confirmed in the evidence. The evidence does not say whether the sentence can be appealed or whether the separate charges have a timetable.",
-   "op": "A long sentence does not answer the question of how a cult operated for so long under official eyes. Kenya owes the Shakahola families a full public account of which officials knew what was happening, and why they did nothing. Justice has been done in court, but accountability for the state’s inaction remains unfinished.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm5yne5984l0o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o"
-  },
-  {
-   "id": "w-09fb401084b6939b",
-   "member_ids": [
-    "w-09fb401084b6939b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T12:57:33+00:00",
-   "t": "Hoax bomb threats force searches and diversions across European flights",
-   "s": "A wave of bomb threats against commercial flights led to searches, diversions and emergency alerts across Europe this week. Authorities said no explosives were found where checks were reported.",
-   "p": [
-    "Hoax bomb threats targeted commercial flights across Europe this week, according to live reporting by The Guardian, which said at least 35 planes had been searched or diverted before Friday. Multiple flights were diverted or forced to make emergency landings, prompting security checks and wider disruption.",
-    "A Romanian airline, Tarom, flight from Prague to Bucharest was among the latest believed to be affected. The aircraft sent a squawk code of 7700, the general emergency signal, before landing safely in Bucharest. The Dutch military police confirmed that it had checked a KLM flight to Amsterdam after a bomb threat and that no explosives were on board. The statement did not name the flight. Local Dutch media said it had come from Prague, and the Guardian identified it as KL1350 on that basis.",
-    "Hungary’s defence minister, Romulusz Ruszin-Szendi, said on Facebook that fighter jets had been scrambled three times to escort civilian flights in Hungarian airspace after reported threats. The alerts included a WizzAir flight from Brussels to Sofia and flights from Prague to Cyprus and Bucharest.",
-    "The Prague airport told the Guardian that nine flights had been affected by bomb threats so far that day. A spokesperson said police had taken the necessary security measures and that “Operations at Prague Airport remain unaffected.” Later, the spokesperson told AFP that at least eight flights to and from Prague had been hit, naming incoming routes from Denmark, Spain and the UK and outgoing routes to the Netherlands, Cyprus, Romania, Italy and the UK.",
-    "Copenhagen police said they had completed checks at the Danish capital’s airport and had been present only as a security measure. They said they did not assess there to be any danger to passengers or others using the airport, and that they were investigating the new threats. A Bulgarian transport ministry spokesperson told AFP that alerts had also been received for two flights to Sofia, and that both had landed safely.",
-    "Flight-tracking data from FlightRadar24 showed planes circling near Prague, with at least four holding near the airport. An AJet service from Istanbul diverted to Vienna after several circles over Prague, but the Guardian said there was no suggestion that it was affected by the threats. The Guardian also reported that at least 17 flights had been disrupted, although details from airports and national authorities had become harder to collect. Eurocontrol’s daily counter put the number of flights in Europe that day at 26,709."
-   ],
-   "cav": "The sources do not agree on exact numbers: the Prague airport gave nine and then eight affected flights, and the reported total of disrupted flights is “at least” 17 without a full list. The identification of the KLM flight comes from local media, not from the Dutch police. The AJet diversion is not linked to the threats by any source.",
-   "op": "Hoaxes that empty skies and tie up fighter jets carry real costs, and the public deserves to know how they are being handled. Airports and police should publish consistent, timely counts and clear confirmations of what was found. Reassurance without transparency only leaves passengers guessing.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
-  },
-  {
-   "id": "w-3aa7faa14925f5b2",
-   "member_ids": [
-    "w-3aa7faa14925f5b2"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-06T12:57:33+00:00",
-   "t": "Iran Widens Diplomacy to Moscow and Gulf as Washington Weighs Renewed Strikes",
-   "s": "Iran is pressing diplomatic channels with Russia and Gulf states while the United States signals it could resume large-scale military action. Tehran has set seven conditions before it will discuss its nuclear programme or reopen the Strait of Hormuz.",
-   "p": [
-    "Tehran's outreach comes as Donald Trump has hinted that Washington could return to full-scale strikes on the Islamic republic. Citing a US official, the news website Axios reported that US Central Command was readying for major operations and was only awaiting instructions from Washington. On Thursday, Trump said the US might need to wipe out what remains of Iran's capabilities, and suggested the world would find out soon whether he acts.",
-    "Friction escalated after Iranian forces brought down two American reconnaissance drones near Qeshm island in the Strait of Hormuz, a day after the US had hit targets earlier in the week. Iranian officials have signalled a response should larger American strikes follow.",
-    "A senior Iranian official told Reuters that Tehran had passed Washington a fresh nuclear and peace proposal through Qatari intermediaries, but would only weigh it once the US accepts its seven demands. Those demands reportedly include sanctions relief, the release of frozen Iranian funds and an end to the American naval blockade around Iranian ports near the Strait. Reuters said Washington is reviewing the offer. The US position, by contrast, is that an agreement on Iran's nuclear capacity must form part of any ceasefire before broader talks can resume.",
-    "Mohsen Rezaei, Iran's top security official, travelled to Moscow and met Vladimir Putin at the Kremlin carrying a message from Supreme Leader Mojtaba Khamenei, though Iranian state media gave no details of its substance. Rezaei called the encounter a highly significant exchange, according to the Iranian embassy. He also said the sides had discussed plans for gas pipelines linking Russia and Iran, which he framed as a remedy for Iran's gas shortages and a route for Russian energy exports to neighbouring countries.",
-    "The Financial Times has reported that Russia earlier agreed to provide Iran with 90 helicopter-mounted launchers for precision-guided missiles, despite its own demand for weaponry in the war in Ukraine. The paper based this on a Russian defence manufacturer's production schedule for 2024 and 2025, where the order was logged under a code associated with Iran. Tehran has previously supplied Shahed drones, and Russia has reportedly assisted Iran with supersonic cruise missiles and Verba portable anti-air missiles. Nicole Grajewski of the Carnegie Endowment for International Peace told the paper the arrangement suggested Moscow was less troubled by Western objections than before.",
-    "Iran's Foreign Minister Abbas Araghchi spoke on Thursday with counterparts from the UAE, Saudi Arabia, Kuwait, Turkiye, Qatar and Oman about de-escalation and regional stability. Oman's foreign ministry said safe passage through the Strait of Hormuz was a central topic. Separately, Russia's Foreign Ministry urged its citizens not to travel to Iran, pointing to lingering risks of renewed escalation. Senior Iranian officials have warned that any state assisting a US attack on Iran would become a legitimate target."
-   ],
-   "cav": "The Financial Times figures on the helicopter-mounted launchers come from documents the paper said it examined, and the evidence does not show an official Russian or Iranian response. Iran's claims about its gas refineries and the contents of Rezaei's message from Khamenei remain unverified, and the Kremlin's readout is not described in the sources.",
-   "op": "Diplomacy is welcome, but seven preconditions and open threats of renewed bombing leave civilians and shipping in the Gulf exposed. Any ceasefire should be built on public terms that all sides can be held to. Secret arms deals and closed-door messages make that harder, and the public has a right to know them.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-48c7e6f0c5b5f0cb",
-   "member_ids": [
-    "w-48c7e6f0c5b5f0cb"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T12:51:38+00:00",
-   "t": "Russian-linked group denies role in Europe-wide bomb hoax threats to flights",
-   "s": "A group named in hoax bomb threats to Italian airports has denied any involvement, as flights across Europe received warnings this week. No explosives have been found so far.",
-   "p": [
-    "An Aer Lingus flight bound for Rome was redirected to a French military base after receiving a bomb warning. It was one of many alerts reported across the continent this week, including a Ryanair service from Rome to Lisbon and a Wizz Air rotation from Prague to Rome that ended up in Venice.",
-    "The “Male State”, an extremist group with misogynistic views, was named in the threats sent to Italian airports. A Telegram account linked to the group and to its founder, Vladislav Pozdnyakov, told the BBC Russian Service that it had no connection to the emails, saying the group had not existed for many years. The same channel claimed that the group had placed explosives on two inbound aircraft, but no independent source has confirmed this.",
-    "Russia banned the group in 2021, and Pozdnyakov is thought to be living abroad. In some places the organisation now calls itself “Male Legion”.",
-    "The first hoax message, which the BBC has seen, was sent on Thursday morning to several staff members and departments at Aeroporti di Roma, the firm that runs Rome's airports, as well as to accounts at Fiumicino. The sending address seems to be tied to state health services in Bogota, Colombia. The text, written in fluent Italian, said the group had planted explosives on two incoming planes as an assault on what it called Italy's feminist establishment.",
-    "Authorities diverted one of those planes to France, and Italian air force jets escorted the other into Rome. Searches found no explosives on either aircraft or on any other flight that reported a threat. A source at the Rome airport operator said such warnings were highly unusual and could not recall anything comparable in recent years.",
-    "On Friday, several prominent Irish media organisations also received bomb threats, leading to evacuations. The Irish government said the incidents appeared to be a coordinated effort to cause disruption. It is not clear whether airports or airlines in other countries received the same or similar threats, and at least one Friday warning appears to have been made by phone rather than email.",
-    "La Stampa, an Italian newspaper, has asked whether the group is acting as an armed arm of the Russian state, and it appears convinced of the group's responsibility. Bellingcat, which examined the group in 2022, described it as a loud and hostile online supporter of Russia's invasion of Ukraine.",
-    "Italy's defence minister, Guido Crosetto, said a deliberate effort appears to be underway to deepen chaos. He tied the hoax calls to other recent disruptions, including cyber attacks that pushed up supermarket refrigerator temperatures and problems with France's blood supply. Investigators across Europe are still working out who sent the threats and whether they were coordinated or copied by others."
-   ],
-   "cav": "The attribution to the group is disputed: it denies involvement, and the claim of responsibility comes from a channel whose authenticity is not independently confirmed. The Colombian link is only described as an apparent connection, and Crosetto's wider linking of incidents is his own assessment.",
-   "op": "Blaming a group before investigators have established who sent the threats risks confusing the public and rewarding whoever sends them. Authorities should publish what they can verify, and newspapers and ministers should separate evidence from suspicion. Trust in air safety depends on clear, checkable facts.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/b610ac80-d9da-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo"
-  },
-  {
-   "id": "w-96753cec4a160190",
-   "member_ids": [
-    "w-96753cec4a160190"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T12:48:00+00:00",
-   "t": "Bomb threats hit Irish broadcaster RTE as flight disruption spreads across Europe",
-   "s": "Irish public broadcaster RTE evacuated its buildings after a bomb threat on Friday, adding media to the targets of a wave of threats that has disrupted flights across Europe. Dublin hosts a high-level EU meeting two days later.",
-   "p": [
-    "Media organisations in Ireland were drawn into a campaign that had already grounded aircraft across the continent for several days. On Friday, RTE said its premises had been cleared after a threat was received, and other news outlets were also reviewing their security.",
-    "An RTE reporter said the group that claimed responsibility for Friday’s threats was the same one that had targeted airlines earlier in the week. Irish Deputy Prime Minister Simon Harris told Cork 96FM radio that it remained unclear whether a lone individual or a coordinated network was behind the campaign.",
-    "Taoiseach Micheál Martin called the situation “worrying”. He said the Gardaí (Irish police) and the Defence Forces were investigating who was responsible. Martin also asked any organisation that gets a similar warning to treat it seriously and inform the police, so investigators can piece together a fuller picture.",
-    "According to RTE’s account of his remarks, Martin said the episode showed how little it takes to disrupt daily life and unsettle people through unconventional tactics. When asked whether the threats were linked to the EU meetings planned for Dublin, he stressed the need to keep those gatherings on schedule, pointing to the number of prime ministers attending and the heavy security planning this demands.",
-    "More than two dozen flights were affected by threats this week, and further incidents were reported on Friday. Police in Denmark and the Czech Republic also responded to threats that later turned out to be false. A Tarom service travelling from Prague to Bucharest was warned, yet reached its planned destination before officials concluded the threat was baseless.",
-    "Police in Copenhagen said officers had attended the airport for a second consecutive day in connection with threats aimed at air traffic. They added that passengers faced no danger and that flights had not been disrupted.",
-    "The report stresses that bomb threats are not rare, but a run of them in such a short span is out of the ordinary. It sets the episode against rising geopolitical tension with Russia and a string of hybrid attacks that have unsettled Europe. The sources do not say who is responsible or whether any connection to those tensions has been established."
-   ],
-   "cav": "The summary describes newsrooms evacuated across Ireland, but the article reports the evacuation only at RTE, with other organisations taking unspecified security measures. The claim that the same group sent threats to airlines and media comes from an RTE reporter and has not been confirmed by officials. Links to Russia are presented as context, not as established fact.",
-   "op": "Threats designed to frighten should not be allowed to hollow out public life. The answer is transparency: officials should explain the investigation as it proceeds, so newsrooms, airlines and citizens can judge the risk rather than guess. Reporting every threat to police, as the Taoiseach urged, is the right instinct.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-flights/a-79875884?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-48a26be0d0669fa5",
-   "member_ids": [
-    "w-48a26be0d0669fa5"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-06T12:45:45+00:00",
-   "t": "Global stocks tumble as tech fears follow Democrats’ midterm win",
-   "s": "Asian markets fell sharply after a heavy sell-off on Wall Street, as investors worried that a Democratic midterm victory could slow the tech investment boom. The Guardian’s live business coverage tracked the losses.",
-   "p": [
-    "Markets across the Asia-Pacific region opened deep in the red after Wall Street suffered steep losses, according to the Guardian’s rolling business coverage. Investors fear that the Democrats’ strong performance in this week’s midterm elections could curb spending on the tech sector’s growth engine.",
-    "Japan’s Nikkei lost almost 6%, its steepest one-day fall since April 7 2025, when tariff worries rattled investors. South Korea’s KOSPI slid 6.7%, while Taiwan’s TAIEX shed 4.5%, the report said.",
-    "The Guardian reported that more than $3.2tn was erased from the US stock market the previous day. The Nasdaq tech index fell 5.5%, the Dow Jones Industrial Average dropped 1,833.06 points, or 3.44%, and the S&P 500 declined 4.36%.",
-    "Makers of memory chips, which had benefited most from the tech spending wave, bore the brunt of the selling. SanDisk dropped 22%, and both Micron and AMD gave up 17% of their value, according to the same account.",
-    "Christopher Forbes, head of Asia and Middle East at CMC Markets, described the session as “a bit of a disaster”. He told Reuters that clients were facing margin calls and complaints, and suggested the shift could signal a wider policy pullback affecting data centres, approvals and equity fundraising.",
-    "Analysts blamed policy uncertainty. Democrats have been more critical of data centres, a stance that could slow the build-out of new computing capacity, particularly given public unease about the sector. Kyle Rodda of Capital.com called the selling a “brutal sell-off”.",
-    "The Guardian noted that nerves were already present before the vote. Overall earnings have disappointed, with the Magnificent Seven companies falling short of growth forecasts and hinting that spending is cooling. The Nasdaq Composite remains up 4.6% since January, though it is more than 10% below its peak.",
-    "Traders are also waiting for the latest US jobs report, which may shed light on the strength of the labour market."
-   ],
-   "cav": "All figures and quotes come from a single live-blog summary by The Guardian, and the report links the sell-off to the midterms through analysts’ interpretation rather than direct evidence. The summary does not explain which Democratic policies would be enacted, and the $3.2tn figure is not independently confirmed here.",
-   "op": "Markets are right to question who bears the cost of a tech boom built on lofty valuations. Policy uncertainty should be settled through open rules and public debate, not left to investor panic. Clear, transparent rules for data centres would serve savers far better than sudden swings in sentiment.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/d02c71f8ac66f5a933ce9e066d4f0fc73a05d3a5/282_0_3436_2750/master/3436.jpg?width=140&quality=85&auto=format&fit=max&s=53290422c3f4fcd63d98da31547a524d",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
-  },
-  {
-   "id": "w-fb49530c7306dd97",
-   "member_ids": [
-    "w-fb49530c7306dd97",
-    "w-6e6d0559b30fb175"
-   ],
-   "section": "World",
-   "published_at": "2026-11-06T12:33:32+00:00",
-   "t": "Pope Leo XIV sets off on South America tour, starting in Uruguay",
-   "s": "Pope Leo XIV left Rome on Friday for a tour of Uruguay, Argentina and Peru, which DW describes as the longest and farthest trip of his papacy so far. The Vatican says he is in good health, while DW reports that he is recovering from recent cancer surgery.",
-   "p": [
-    "The pope’s departure from Rome took place shortly after 7 am on Friday, according to the Vatican. Leo is due to touch down in Montevideo, the Uruguayan capital, in the late afternoon local time. The Chicago-born pontiff is starting a journey that will also bring him to Argentina and to Peru, a country where he spent years as a missionary and later as a bishop.",
-    "Leo’s schedule in Uruguay runs for three days. He will hold talks with President Yamandú Orsi and speak to government officials and diplomats. He is also set to lead Vespers at the Montevideo Metropolitan Cathedral and to visit a neighborhood marked by gang violence. Trips to Paysandú and Florida are planned later in the visit.",
-    "From Uruguay the pope moves on to Argentina, with stops in Buenos Aires, Córdoba and Luján. Euronews names these cities but does not mention political meetings. DW reports that Leo is expected to meet President Javier Milei, whose spending cuts have drawn criticism from the Church for hurting social programmes. DW adds that he also plans to meet business figures, unions and social groups.",
-    "In Peru, Euronews lists Chiclayo, Cusco and Pucallpa as stops. DW says the pope will also say Mass in the mountain village of Santa Cruz de Succhabamba and will go to the Amazon city of Pucallpa to meet indigenous communities. DW also points out that Peru’s Catholic population has dropped from 76% in 2013-2014 to roughly 67%.",
-    "Leo’s health is a point of uncertainty. DW says the 71-year-old is recovering from lung cancer surgery performed only three weeks ago. Euronews quotes Maria Montserrat Alvar, the Vatican’s new communications chief, who described the pope’s stamina as excellent and said his doctors feel “very confident”.",
-    "DW describes Uruguay as the most secular country in Latin America. It was the first nation to legalise recreational marijuana and has since approved abortion, same-sex marriage and assisted dying, all over Church objections. Even so, tickets for his prayer vigil at Montevideo’s Centenario Stadium sold out within two days.",
-    "DW also notes that Latin America holds about 40% of the world’s 1.4 billion Catholics, though fewer people there now identify as Catholic. In Argentina, DW cites Pew Research Center figures showing that the share of Catholics fell from roughly 71% at the start of Francis’s papacy to 58% by 2024."
-   ],
-   "cav": "Euronews and DW both describe the Peru stops, and DW adds one Mass site, so the two lists do not conflict. Euronews does not mention a meeting with Milei, which appears only in DW, and the cancer surgery is reported by DW alone. The Vatican’s reassurance about the pope’s health comes through a Euronews quotation.",
-   "op": "A papal tour is a religious event, but the public has a fair interest in the health of a 71-year-old leader on a long journey. Official reassurances are welcome, yet they cannot replace clear, direct information. The Vatican should be open about the pope’s condition so that the faithful and observers can judge for themselves.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-155a35c1e346259d",
-   "member_ids": [
-    "w-155a35c1e346259d",
-    "w-ecd3dc8faa60e1ab"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-06T12:24:52+00:00",
-   "t": "Court pauses work on Trump’s Washington arch for two weeks",
-   "s": "A federal judge has put a 14-day hold on building the 250-foot arch Donald Trump wants in Washington, DC. The hold came shortly after a federal planning panel signed off on the design.",
-   "p": [
-    "Judge Tanya Chutkan issued the order on Friday, according to Al Jazeera. The administration had said building could start as early as Thursday, so the pause arrives just before work was expected to begin.",
-    "The National Capital Planning Commission backed the project by 8-4 after a nine-hour session on Thursday. Dozens of people who oppose the arch spoke against it during that session.",
-    "The decision comes amid several lawsuits against the project. A group of Vietnam War veterans filed one in February. Their filing argues that the arch, planned near Arlington National Cemetery, could obstruct the sightline between the graves and the Lincoln Memorial, a view they describe as deliberately designed to represent national unity.",
-    "Trump first floated the arch last year as a way to commemorate the country’s 250th anniversary. He has pointed to Paris’s Arc de Triomphe, completed in 1836, as a model.",
-    "The arch is one of several Washington projects Trump has put forward. On Friday he also signed a proclamation turning the Oval Office and Cabinet Room into a national monument. Al Jazeera noted that judges have previously blocked many of his plans, and that Democrats’ midterm victories this week could bring those plans under closer review."
-   ],
-   "cav": "The sources describe the pause as temporary and do not say what happens when it ends or how the court will rule on the merits. The veterans’ sightline concerns are claims made in their filing and have not been tested in court. NPR’s summary is brief and does not give the court details or the planning vote.",
-   "op": "Monuments meant to unite a nation should be approved through open, accountable review that gives objectors a real hearing. An 8-4 vote after dozens of objections does not by itself show the process was sound. Courts should test it, and the government should welcome that scrutiny.",
-   "confirmed": true,
-   "src": [
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss"
-    ]
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-152213",
-   "img_outlet": "NPR",
-   "img_link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon"
   }
  ]
 }

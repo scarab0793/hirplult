@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T12:10:26.276131+00:00",
+ "updated_at": "2026-11-08T18:03:57.662319+00:00",
  "outlets_ok": [
   "Al Jazeera",
   "BBC News",
@@ -11,6 +11,1086 @@
  ],
  "failed": [],
  "items": [
+  {
+   "id": "w-fda211ba3d91edb6",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T18:00:01+00:00",
+   "title": "Manchester United v Aston Villa: Premier League – live",
+   "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment for Man United. They now have fewer wins than any other team in the Premier League – just the one, against Ipswich, back in August. A draw today will take them above Sunderland on goal diffe",
+   "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
+   "img": "https://i.guim.co.uk/img/media/558abe1e37f13a830c853c2755887199bee6a21a/286_219_2825_2260/master/2825.jpg?width=140&quality=85&auto=format&fit=max&s=74a315f21db0d9635a4d16b1bb89003b"
+  },
+  {
+   "id": "w-3340b42b70005f42",
+   "outlet": "BBC News",
+   "section": "World",
+   "published_at": "2026-11-08T17:59:03+00:00",
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+  },
+  {
+   "id": "w-aaa9539f55510ac6",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T17:58:43+00:00",
+   "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+   "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party. The US president’s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ul",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+   "img": "https://i.guim.co.uk/img/media/ebaa793edf007e24d57fafa59f1090d96cdcbe60/332_0_3323_2658/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=3a805f3c5d5fb31128b72712d90154ab"
+  },
+  {
+   "id": "w-08a46a969302a989",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:58:32+00:00",
+   "title": "São Paulo Grand Prix: Formula One 2026 – live",
+   "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today – let’s hope everyone stays safe. Oy my days! It’s raining now and Antonelli slides off the track as they go around to get into position! He’s able to adjust, but that’s a warning to all drivers. Continue reading...",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
+   "img": "https://i.guim.co.uk/img/media/75883bae1c7e89ecaa55ad95a06cdd0e66876574/72_128_3990_3191/master/3990.jpg?width=140&quality=85&auto=format&fit=max&s=20e817a1c66db2ba7954d4e7943bc72d"
+  },
+  {
+   "id": "w-4ce9211b4465ffc4",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:58:16+00:00",
+   "title": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
+   "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham In more QB news Shadeur Sanders is starting for the Browns and Joe Milton for the Eagles. Happy news if you are starting opposition defenses in fantasy. Ja’Marr Chase’s touchdown in Madrid means he joins Randy Moss to be the only players in NFL history with at least seven touchdown catches in each of their first six seasons. Not bad compa",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
+   "img": "https://i.guim.co.uk/img/media/cf3d0de0c610b38707a0776f90e554b0fea1fbda/130_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=117807b2301cbf84e58b328ad3f3bf30"
+  },
+  {
+   "id": "w-0710a39b76016560",
+   "outlet": "The Guardian",
+   "section": "Middle East",
+   "published_at": "2026-11-08T17:53:59+00:00",
+   "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+   "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation und",
+   "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+   "img": "https://i.guim.co.uk/img/media/c89093b1bdff428195f0ad9be24f6d4eac75b842/555_286_3230_2586/master/3230.jpg?width=140&quality=85&auto=format&fit=max&s=e5e03cc0e5601cb1524de4d029ca1130"
+  },
+  {
+   "id": "w-b2fdfd816197fccc",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T17:52:18+00:00",
+   "title": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+   "summary": "The Rio de Janeiro government confirmed ten dead, including five children. Brazilian media say a baby was among the victims.",
+   "url": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+   "img": ""
+  },
+  {
+   "id": "w-ed4e6b3802ec42be",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T17:51:19+00:00",
+   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week, in a move that will relieve carmakers but alarm many Labour MPs who are worried about the government’s commitment to the green agenda. Louise Haigh, the de facto deputy prime minister, will finalise the plan after a crunch meeting in Downing",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+   "img": "https://i.guim.co.uk/img/media/2db94dc51d06421443808c322eecd0e97b2d330b/27_0_4763_3811/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=1b4cf9fd666a4b3707f6b50a2765ee86"
+  },
+  {
+   "id": "w-dfb7c585a47464e2",
+   "outlet": "The Guardian",
+   "section": "Africa",
+   "published_at": "2026-11-08T17:51:17+00:00",
+   "title": "Collision of two trains in Egypt kills at least seven",
+   "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to the south-western Fayoum province crashed into the rear of a train heading to the",
+   "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+   "img": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94"
+  },
+  {
+   "id": "w-3a163a2d2a09f1bc",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T17:44:51+00:00",
+   "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+   "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-3ed4927101f48907",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T17:42:39+00:00",
+   "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+   "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing Almost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, according to analysis that raises fresh concerns about pressure on physiotherapy services. Freedom of information requests sent to the trusts across by the Chartered Society of Physiotherapy (CSP) found that 49% had neither a dedicated budget nor ",
+   "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+   "img": "https://i.guim.co.uk/img/media/d71f2d0dd58e7fe61cbc061733f7d8a12bbeeabb/528_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=66f25c602c9706bccdf03e536cc5b4d9"
+  },
+  {
+   "id": "w-f8146468ab951955",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:41:47+00:00",
+   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+   "summary": "Grimsby and Stockport survive scares Exeter upset Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the penalty area into the top corner. Continue reading...",
+   "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "img": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
+  },
+  {
+   "id": "w-2c3b35902a3e5cf5",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-08T17:35:00+00:00",
+   "title": "South Africa elections: ANC marks its worst-ever performance",
+   "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+   "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-2926fdb4feb8c918",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:31:01+00:00",
+   "title": "Carlos Alcaraz beats error-prone Ben Shelton to win Paris Masters",
+   "summary": "World No 3 wins 7-6 (5), 7-5 Spaniard claims ninth 1000-level title of his career Carlos Alcaraz avenged his loss to ⁠Ben Shelton in the US Open last eight as he edged the American 7-6 (5), 7-5 to win the Paris Masters ⁠on Sunday, clinching ⁠his ninth ​ATP 1000 title. The world No 3 controlled the contest from the baseline to become the first Spaniard to win the ⁠tournament since David Ferrer in 2012, while Shelton was left frustrated by an errat",
+   "url": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final",
+   "img": "https://i.guim.co.uk/img/media/420376ca5e838e655838731bc520c72277b84412/70_192_3552_2841/master/3552.jpg?width=140&quality=85&auto=format&fit=max&s=12bca05967e1c2cded3923e8bd062e41"
+  },
+  {
+   "id": "w-ed0a04e97f99a856",
+   "outlet": "The Guardian",
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-08T17:30:45+00:00",
+   "title": "The Guardian view on a tale of two activists: Joshua Wong and Au Kam San should not be behind bars | Editorial",
+   "summary": "The latest vindictive prosecutions and harsh sentences in Hong Kong and Macau are further testimony to China’s ruthless suppression of dissent One is internationally famous – he was once dubbed “the Face of Protest” by Time magazine – and the other is little known outside his home town. What Joshua Wong and Au Kam San share, beyond the harsh sentences they received last week, is that they represent the spirit of dissent that Beijing is determined",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-a-tale-of-two-activists-joshua-wong-and-au-kam-san-should-not-be-behind-bars",
+   "img": "https://i.guim.co.uk/img/media/2f692a0889fecf071b874a4533743ccc5fa34564/456_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=f46f123f180dd76d5b698608c59e2f9a"
+  },
+  {
+   "id": "w-1f0b1fe8e4c75f7d",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:27:04+00:00",
+   "title": "England 45-22 Australia: Nations Championship – rugby union as it happened",
+   "summary": "Henry Pollock scores twice in seven-try rout as England put a sorry Australian side to the sword. What a start for England! Oh my word, how clinical! They won the line-out (just) and went down the blind. Chessum with a meaty carry got them rumbling. It came back infield. Earl with a carry in the build up, Curry too. Then Smith with a little pass for Atkinson who then found Feyi-Waboso off his right wing and he did the business. Oh wait, was there",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/08/england-v-australia-nations-championship-rugby-union-live",
+   "img": "https://i.guim.co.uk/img/media/4259711af0f84175914dc7ca7ec45970c8f05cb6/172_74_3650_2922/master/3650.jpg?width=140&quality=85&auto=format&fit=max&s=b0fc5840da845e184bf9cb4c547c29b0"
+  },
+  {
+   "id": "w-82f03dd4a4d165fa",
+   "outlet": "The Guardian",
+   "section": "Science",
+   "published_at": "2026-11-08T17:25:45+00:00",
+   "title": "The Guardian view on Ordnance Survey maps: still a superior way to navigate the landscape | Editorial",
+   "summary": "The 225th anniversary of the organisation’s first publication is an opportunity to celebrate its unique contribution to our sense of place In his one-paragraph short story , On Exactitude in Science, Jorge Luis Borges imagines an empire in which the level of cartographical ambition is so high that a map is made on a one-to-one scale with the imperial territory. The quest for perfect accuracy doesn’t end well. But the earliest map-makers for Ordna",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape",
+   "img": "https://i.guim.co.uk/img/media/ec507f898c8712d6292203f5a3f49fcdd6125086/79_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=ea06881c9a075b21c65ba95ddd188fef"
+  },
+  {
+   "id": "w-96d04fc8300d51d6",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T17:11:52+00:00",
+   "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+   "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-2e35a4ce8ea4a155",
+   "outlet": "The Guardian",
+   "section": "Climate",
+   "published_at": "2026-11-08T17:11:12+00:00",
+   "title": "Nicola Jennings on Cop31 in Turkey – cartoon",
+   "summary": "Nicola Jennings on Cop31 in Turkey – cartoon",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/08/nicola-jennings-on-cop31-in-turkey-cartoon",
+   "img": "https://i.guim.co.uk/img/media/7c6a66ee4df497b36ae97edeede73ce2345dc7d0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=407dd7e05cfeaf10604100543d1d50ee"
+  },
+  {
+   "id": "w-3af496fa46fb024f",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T17:11:05+00:00",
+   "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+   "summary": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war. Turkey's Erdoğan joined the commemorations to underscore the strength of bilateral ties despite recent differences, with Aliyev declaring that \"this unity will last forever\".",
+   "url": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+   "img": ""
+  },
+  {
+   "id": "w-56207227132bb39b",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T17:10:11+00:00",
+   "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
+   "summary": "Bethany England scores late to give Palace 3-2 win London City, Spurs and Manchester United all win It was heartbreak for Charlton on Sunday, after Bethany England’s 90th-minute winner for Crystal Palace denied them a first point in the Women’s Super League. Karen Hills’s team remain bottom and pointless . They were forced to come from behind away to their their fellow promoted side after Lexi Lloyd-Smith had given Palace the lead in the second h",
+   "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
+   "img": "https://i.guim.co.uk/img/media/d9f49e8cd168b5d12b5624d5f537df04191e34af/0_205_2229_1783/master/2229.jpg?width=140&quality=85&auto=format&fit=max&s=d589e4331ef0bb38496e673f0701c7c8"
+  },
+  {
+   "id": "w-18d28c57e90db3eb",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T17:04:07+00:00",
+   "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+   "summary": "Hacker groups Cyberpartisans BY and Silent Crow say they hacked Rosstat and counted Russian losses since the invasion of Ukraine. Their tally: between 393,000 and 450,000 killed.",
+   "url": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+   "img": ""
+  },
+  {
+   "id": "w-9a5f12381671b80d",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T17:03:14+00:00",
+   "title": "Photos: Diwali celebrations light up India and its global diaspora",
+   "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-0183a956947df931",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T17:00:26+00:00",
+   "title": "Latest news bulletin | November 8th, 2026 – Evening",
+   "summary": "Catch up with the most important stories from around Europe and beyond this November 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+   "url": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-evening",
+   "img": ""
+  },
+  {
+   "id": "w-a0aeaba50789a963",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T17:00:00+00:00",
+   "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+   "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-c719f8373e325a0b",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T16:59:42+00:00",
+   "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+   "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving residents in Kyiv and other parts of the country struggling with power cuts as temperatures continue to drop. Clemence Waller reports.",
+   "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+   "img": "https://s.france24.com/media/display/3a894976-db94-11f1-846b-bf1914cabd52/w:1024/p:16x9/EN-20261108-171056-171236-CS.jpg"
+  },
+  {
+   "id": "w-954fe16017fe8a64",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:59:31+00:00",
+   "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+   "summary": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-3797dae49af9b2b8",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T16:58:11+00:00",
+   "title": "Gadi Eisenkot receives mandate to form government",
+   "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with potential coalition partners and secure a parliamentary majority. While an alliance with Arab Israeli parties appears to be the easiest option mathematically, it remains politically sensitive. Eisenkot must now navigate difficult nego",
+   "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+   "img": "https://s.france24.com/media/display/608ffe0e-db93-11f1-85ef-d18c5759e759/w:1024/p:16x9/EN-20261108-160801-161121-CS.jpg"
+  },
+  {
+   "id": "w-d9de125d0a6b33ad",
+   "outlet": "The Guardian",
+   "section": "Science",
+   "published_at": "2026-11-08T16:54:44+00:00",
+   "title": "Nasa seeks next generation of astronauts to live and work on the moon",
+   "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’ Nasa has launched a callout for a new generation of astronauts as it searches for explorers who could live and work on the moon. Opening applications for the latest expansion of its Artemis program , the US agency said successful candidates would help “shape humanity’s future in space” as it builds a base on the moon and plans the first crewe",
+   "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+   "img": "https://i.guim.co.uk/img/media/3a9abe8a915ee753ebc3551a7608358908e01fe4/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=64d73c459126677f718c45cc82ab27b8"
+  },
+  {
+   "id": "w-36f0f593609e81ee",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:53:03+00:00",
+   "title": "Fan hospitalised after falling through stand at Norwegian football match",
+   "summary": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-030e446e431de481",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:51:41+00:00",
+   "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+   "summary": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-e234be1478cf3d5e",
+   "outlet": "The Guardian",
+   "section": "Europe",
+   "published_at": "2026-11-08T16:50:58+00:00",
+   "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+   "summary": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender Bailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over whether its “Defender clone” infringes intellectual property rights. Bailiffs acting on behalf of JLR reportedly seized digital records from the offices of Chinese carmaker BYD in Schiedam an",
+   "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+   "img": "https://i.guim.co.uk/img/media/df3641cd7932ef0f9d4ed70becb2641c5d68b0eb/334_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=1ea67ae59ab4bf614766c2310f73b0c2"
+  },
+  {
+   "id": "w-46c0c07488940e87",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-08T16:49:00+00:00",
+   "title": "Egypt train crash leaves several dead, many injured",
+   "summary": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying scores of passengers were injured. Over 50 ambulances were deployed to the scene.",
+   "url": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-ab240c5c1385e972",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-08T16:46:15+00:00",
+   "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3555+0+0/resize/5333x3555!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg"
+  },
+  {
+   "id": "w-9928b537c0d1e4c1",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T16:38:16+00:00",
+   "title": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
+   "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands The Met Office has said weather conditions in the UK are creating a “perfect recipe” for fog as it warned that travel may be disrupted. A yellow weather warning lasting from 6pm on Sunday until 11am on Monday has been issued by the service, with the affected areas including most of southern England, excluding the south-west, and the entire",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+   "img": "https://i.guim.co.uk/img/media/11c393589c9223777c86027befaea0a93646249f/806_0_2730_2184/master/2730.jpg?width=140&quality=85&auto=format&fit=max&s=6c54255041e70caa31cee0586d92f574"
+  },
+  {
+   "id": "w-2054c1d5960b70ba",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:37:20+00:00",
+   "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+   "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-3bcb50a55cea4f52",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T16:35:03+00:00",
+   "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+   "summary": "Sunderland beat Chelsea to move off the foot of the table, Brighton beat Brentford to go second, while Liverpool are fourth after beating Crystal Palace A disastrous goal for Ipswich! Chris Walton, the home side’s keeper, tries to take the ball past the onrushing Evanilson, fails, is dispossessed, and the rest is a formality! A glimpse of goal for Palace, as Mitchell’s driven cross is met by Strand Larsen, but he can’t do much more than get a foo",
+   "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+   "img": "https://i.guim.co.uk/img/media/215cf7cded271c6d91f035017f6db0f93126100f/301_124_1822_1458/master/1822.jpg?width=140&quality=85&auto=format&fit=max&s=ab0e400ec909f3a04d1d2d0ef39b6c71"
+  },
+  {
+   "id": "w-87245766fd9838bc",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:31:54+00:00",
+   "title": "Four killed, 88 injured in train collision in Egypt",
+   "summary": "Four killed, 88 injured in train collision in Egypt",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-2750aa3feb24597d",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-08T16:30:16+00:00",
+   "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+   "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fdc%2Fbfa72c634de2ac6fd5d3cbc6c94a%2Fap26312478472333.jpg"
+  },
+  {
+   "id": "w-c8336674c1f64db1",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T16:21:34+00:00",
+   "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+   "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at some of the week's most striking images.",
+   "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+   "img": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
+  },
+  {
+   "id": "w-2a7473c6224cf73c",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T16:19:16+00:00",
+   "title": "Watch: Spectacular double waterspout forms off Italy's Capri island",
+   "summary": "A rare double waterspout formed over Capri's iconic Faraglioni rock formations on Saturday, as heavy clouds gathered above the Italian island.",
+   "url": "https://www.euronews.com/video/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island",
+   "img": ""
+  },
+  {
+   "id": "w-c1a4fd198fabf5e0",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T16:18:09+00:00",
+   "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+   "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-c7925ffc4b3b7574",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T16:17:32+00:00",
+   "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
+   "summary": "Who can stop Brighton’s ascension in English and European football? They continue to set standards, practices that leave almost everybody else trailing in their wake. Their second-place position in the Premier League would once have read like a glitch in a Football Manager session. Come November 2026, they appear the only team capable of throwing down a challenge to Arsenal. Under low winter sun, Brentford, the club Brighton are often compared to",
+   "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
+   "img": "https://i.guim.co.uk/img/media/61cf20a5674cb26120baf602dce2d24ec9686c6d/73_0_2854_2283/master/2854.jpg?width=140&quality=85&auto=format&fit=max&s=cc7edd8137e60395bb6e88408af5e03a"
+  },
+  {
+   "id": "w-9f83b200fe999ff0",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T16:16:34+00:00",
+   "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
+   "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week – both meteorologically and metaphorically – Sunderland were determined that some things should remain the same. Just as they had beaten Chelsea on the final day of last season in May to ensure European qualification for the first time in 53 years, they did so again on Sunday to lift themselves off the bottom of the Premier League. The real triu",
+   "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+   "img": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
+  },
+  {
+   "id": "w-8cb70cb7c8e00ef9",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T16:16:18+00:00",
+   "title": "Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace",
+   "summary": "It was the moment when Liverpool knew they would win here in south London and so move on from the Premier League loss to Arsenal at Anfield last Sunday and the one in midweek at Fenerbahce in the Champions League. Florian Wirtz had timed his run as Liverpool broke up the right and Bradley Barcola’s low pull back was made to measure. Wirtz had to take it on first time and it was a test of his technique under pressure. He never looked like failing ",
+   "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
+   "img": "https://i.guim.co.uk/img/media/c43b7a633b7fb9b801887562874dfd92bc1dd12c/977_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=ea803d7b7b56781d8c2d1f4b5c2011d0"
+  },
+  {
+   "id": "w-92ccc0c65575cb7f",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T16:14:31+00:00",
+   "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
+   "summary": "Another Evanilson goal helped fire Marco Rose’s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich. Evanilson failed to score in his first six appearances of the season but found the net for a fifth consecutive Premier League match and made it seven goals in eight after five minutes at Portman Road. Continue reading...",
+   "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
+   "img": "https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=7ec7f16a3e2428ca1c5a392ed0a1c8cf"
+  },
+  {
+   "id": "w-e20e75c8efc1f08c",
+   "outlet": "BBC News",
+   "section": "Africa",
+   "published_at": "2026-11-08T16:05:57+00:00",
+   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+   "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "id": "w-68ed1e6b71b9ba8d",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T15:48:20+00:00",
+   "title": "At least four dead, 88 injured as two trains collide south of Cairo",
+   "summary": "The accident occurred about 52 kilometres south of Cairo, when one train hit the rear of another and one derailed. Egyptian President Abdelfatah al-Sisi has ordered an investigation to determine the causes and responsibility.",
+   "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
+   "img": ""
+  },
+  {
+   "id": "w-fb1f1bfd807c8ef2",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T15:47:11+00:00",
+   "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+   "summary": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-0456b3e3e60a1f3a",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T15:37:54+00:00",
+   "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
+   "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling The music thumped, the lights blazed and from the ring the announcer did a countdown. “Who is ready to rumble?” he roared. The bellows and cheers indicated that the crowd at St Columb’s Hall in Derry on Saturday night was more than ready for the Foyle Rumble, and so began a wrestling extravaganza of heroes and villains in leotards, mask",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
+   "img": "https://i.guim.co.uk/img/media/a5ee04e98195ca5ca956681cc8018c6499e94bb3/1031_39_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=9258921ea76c6f2d8dff554bd6c8464e"
+  },
+  {
+   "id": "w-fdb62f9abf15111b",
+   "outlet": "BBC News",
+   "section": "Technology",
+   "published_at": "2026-11-08T15:37:25+00:00",
+   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
+  },
+  {
+   "id": "w-d74e9a0194a1b201",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T15:37:16+00:00",
+   "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+   "summary": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-9d56ea13c0cea94d",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T15:26:04+00:00",
+   "title": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
+   "summary": "Michigan senator-elect’s former peers recall his time at university in Britain – and his love of coronation chicken sandwiches In the cold, twilight days of 2008, inside the University of Michigan’s fortress-like Fleming administration building, one student was given a particularly adulatory sendoff. Mary Sue Coleman, president of the university at the time, convened a ceremony for the latest Rhodes scholar heading to the University of Oxford: Ab",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
+   "img": "https://i.guim.co.uk/img/media/fbc596c46adc464d74d4b24bd30de7e04c6a3fbc/0_103_1200_959/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=a2dea793b8e2f481f7c10ed8d89e2355"
+  },
+  {
+   "id": "w-5443bfaefb80a1b9",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-08T15:18:00+00:00",
+   "title": "Israel: Eisenkot officially tasked with forming a government",
+   "summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
+   "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-7af5dcbc2062e085",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T15:15:01+00:00",
+   "title": "More than 200 tarantula sightings in Austria in two months",
+   "summary": "Tarantulas are particularly active in the autumn, when they search for sheltered spots to spend the winter.",
+   "url": "https://www.euronews.com/2026/11/08/more-than-200-tarantula-sightings-in-austria-in-two-months",
+   "img": ""
+  },
+  {
+   "id": "w-4192087e94be70b5",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T15:09:06+00:00",
+   "title": "UK pays tribute to armed services members fallen in conflicts on Remembrance Sunday",
+   "summary": "Remembrance Sunday is held on the second Sunday in November, nearest to Armistice Day on 11 November, the anniversary of the end of World War I, and is led by the monarch.",
+   "url": "https://www.euronews.com/2026/11/08/uk-pays-tribute-to-armed-service-members-fallen-in-conflicts-on-remembrance-sunday",
+   "img": ""
+  },
+  {
+   "id": "w-0d5fde50150fd8a0",
+   "outlet": "NPR",
+   "section": "World",
+   "published_at": "2026-11-08T15:07:15+00:00",
+   "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+   "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg"
+  },
+  {
+   "id": "w-5e95281cff0e2d8d",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T15:00:43+00:00",
+   "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+   "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped A beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who disputed the premise that cows contribute to global heating. The episode is the latest example of the livestock industry’s decades-long battle to determine what US children learn about cows a",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+   "img": "https://i.guim.co.uk/img/media/2f0cfda5b4b7109ebe4ec8eb20a10ab54f0a4474/981_0_6708_5367/master/6708.jpg?width=140&quality=85&auto=format&fit=max&s=5ab2c142e6b26ce718c663761b1e8733"
+  },
+  {
+   "id": "w-ca18d97211569e9e",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T15:00:43+00:00",
+   "title": "US employers keep passing rising healthcare costs to workers. There are better options",
+   "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers Again, healthcare costs are going up. According to a recent study from Mercer, total health benefit cost per employee in 2027 is expected to rise 8.2% – after employers’ planned cost-reduction measures (without action, employers told Mercer their existing plans would rise about 11%). This would be the highest increase since 2003. And, ag",
+   "url": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
+   "img": "https://i.guim.co.uk/img/media/31595e2ed4ef6daadec47c010cf29c935976d557/467_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=47f97817484fbad54dab0c191b180ccd"
+  },
+  {
+   "id": "w-c61be31725ed0542",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T15:00:42+00:00",
+   "title": "The political playbook that unraveled US transgender rights in the past decade",
+   "summary": "From the military to healthcare, Trump systematically dismantled Obama-era protections for transgender rights Shelby Chestnut remembers turning on the news in 2016 and hearing something he didn’t expect. Then- attorney general, Loretta Lynch, had just announced a federal lawsuit to block HB2 in North Carolina , otherwise known as the “bathroom bill”. Lynch said the law, which made it illegal for transgender people to use a public restroom that di",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled",
+   "img": "https://i.guim.co.uk/img/media/7fd73804d5d6ed20300f1ac5f2e2e814db1ce6ff/648_0_6483_5187/master/6483.jpg?width=140&quality=85&auto=format&fit=max&s=75b8871d6b2a5dee7a55ecf9e38443df"
+  },
+  {
+   "id": "w-a6ab6098292800ba",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T14:56:59+00:00",
+   "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
+   "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years Tears were shed, sea shanties sung and tales of stormy voyages exchanged as one of the UK’s most characterful ships set sail for the final time. Scillonian III, also known as the “vomit comet” because in stormy weather it tended to rock a little too much for the comfort of those susceptible to sea sickness, has chugged between the Brit",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
+   "img": "https://i.guim.co.uk/img/media/3ccaece5cc48aad5908346391943e02e0802357f/1705_186_4187_3349/master/4187.jpg?width=140&quality=85&auto=format&fit=max&s=7df3b60523e58831f139e906f57236eb"
+  },
+  {
+   "id": "w-f695c521429c2183",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T14:53:29+00:00",
+   "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+   "summary": "Palestinian journalist Abed Abou Shhadeh released after 5 days detention",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-892996f722c40901",
+   "outlet": "The Guardian",
+   "section": "Europe",
+   "published_at": "2026-11-08T14:49:16+00:00",
+   "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+   "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday have been hailed as heroes. One of them is Jakub Kulik, a former paratrooper and volunteer firefighter, who was left critically injured after a close-range exchange of fire with the suspect, a 24-year-old Polish national who killed",
+   "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+   "img": "https://i.guim.co.uk/img/media/7f8112bf9742147977087d1aca2e17658270fb08/156_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=1e057f6462b3a90dfb471f4c3ef1cfbd"
+  },
+  {
+   "id": "w-ad7846956aa22b42",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T14:48:18+00:00",
+   "title": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
+   "summary": "Zelenskyy said Russia had launched a drone strike on the site of a recent attack on Komyshuvakha, where rescuers have been carrying out search operations following a bombing that killed at least 55 people on Monday.",
+   "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on",
+   "img": ""
+  },
+  {
+   "id": "w-67ce803de4cd90f9",
+   "outlet": "BBC News",
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-08T14:42:09+00:00",
+   "title": "Homes and temples glow across India to mark Diwali",
+   "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "id": "w-b2902e0418474302",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:36:25+00:00",
+   "title": "US voters reject AI data centres: could the backlash spread to France?",
+   "summary": "In Tuesday’s US midterm elections, voters weighed in on more than 40 local measures on data centres, and sided against them in all but one. With Democrats taking control of Congress in January and new governors in Texas and Georgia calling for moratoriums, the AI building boom faces its toughest political test yet.",
+   "url": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
+   "img": "https://s.france24.com/media/display/4636e71a-db80-11f1-a6d8-d18c5759e759/w:1024/p:16x9/EN-WB-TECH24-MIDTERMS-DATA-CENTRE-FALLOUT.png"
+  },
+  {
+   "id": "w-fafb08baebcabec1",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T14:35:16+00:00",
+   "title": "Liverpool 1-2 Arsenal: Women’s Super League – as it happened",
+   "summary": "Alessia Russo scored twice as Arsenal clinched a much-needed 2-1 win over Liverpool at Anfield. 3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind. 2 min: Arsenal drive forward early and look to pile on the pressure. They move the ball around the edge of the Liverpool box before Baum makes a run to the byline, but the ball runs behind for a goal kick. Continue reading...",
+   "url": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
+   "img": "https://i.guim.co.uk/img/media/327980227f201b98bd6d8d6b2b423a917a9d8870/141_0_2802_2243/master/2802.jpg?width=140&quality=85&auto=format&fit=max&s=c803c98fe8d0af37402a68be7ebf0376"
+  },
+  {
+   "id": "w-bcc676a14cba33a7",
+   "outlet": "BBC News",
+   "section": "Europe",
+   "published_at": "2026-11-08T14:32:52+00:00",
+   "title": "What we know so far after Krakow gun attack",
+   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "id": "w-fe43e4b6ce3d3106",
+   "outlet": "The Guardian",
+   "section": "Middle East",
+   "published_at": "2026-11-08T14:26:14+00:00",
+   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention",
+   "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+   "img": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47"
+  },
+  {
+   "id": "w-efdf5a6dfa4fef59",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T14:22:45+00:00",
+   "title": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
+   "summary": "\"No one will speak in our name\", French Foreign Minister Jean-Noël Barrot says, adding that Europeans will join next week's Russia-Ukraine talks. He also accused hard left presidential candidate Jean-Luc Mélenchon of echoing Kremlin propaganda.",
+   "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
+   "img": ""
+  },
+  {
+   "id": "w-95e6e91a4caa786a",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:22:14+00:00",
+   "title": "Yemen's humanitarian crisis worsens",
+   "summary": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is worsening, with hundreds of thousands of people displaced and the country facing the threat of catastrophe. Rula Amin, Senior Communications Advisor and spokesperson at UNHCR at Amman, in Jordan, shares further details.",
+   "url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
+   "img": "https://s.france24.com/media/display/61e95800-db7e-11f1-961e-d18c5759e759/w:1024/p:16x9/EN-20261108-140416-140658-CS.jpg"
+  },
+  {
+   "id": "w-b5967a40cc64ee51",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:21:18+00:00",
+   "title": "Poland in shock after 6 killed in Krakow far-right shooting",
+   "summary": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in critical condition in hospital. FRANCE 24 journalist Adrien Sariat reports from Poland.",
+   "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+   "img": "https://s.france24.com/media/display/5cea55f2-db7e-11f1-bd0a-695cb59fade5/w:1024/p:16x9/EN-20261108-150134-150232-CS.jpg"
+  },
+  {
+   "id": "w-51e11d53f4614ac7",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:20:04+00:00",
+   "title": "French skipper wins Route du Rhum",
+   "summary": "French sailor Tom Laperche has won the Route du Rhum, setting a new record in the transatlantic yacht race. The 29-year-old crossed the finish line in Guadeloupe on his first attempt, beating the previous 2022 record by around six hours. A remarkable debut in one of sailing's toughest competitions!",
+   "url": "https://www.france24.com/en/french-skipper-wins-route-du-rhum",
+   "img": "https://s.france24.com/media/display/83ffbb5a-db7e-11f1-adef-d18c5759e759/w:1024/p:16x9/EN-20261108-150723-150909-CS.jpg"
+  },
+  {
+   "id": "w-f3a32f977b4eb25c",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T14:19:17+00:00",
+   "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+   "summary": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-bd87f2f4ae08572d",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:18:48+00:00",
+   "title": "Mourning in Poland after mass shooting",
+   "summary": "Poland has launched a terrorism investigation after a deadly shooting left six people dead and 16 injured. The 24-year-old Polish suspect was reportedly fascinated by far-right ideologies. Authorities are investigating the possible extremist motive as Krakow's main square remains sealed. Two days of national mourning have been declared for the victims.",
+   "url": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
+   "img": "https://s.france24.com/media/display/ac245178-db7d-11f1-9478-695cb59fade5/w:1024/p:16x9/EN-20261108-140118-140318-CS.jpg"
+  },
+  {
+   "id": "w-c38c48e4c7c42fc0",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:16:31+00:00",
+   "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+   "summary": "France will participate in the upcoming Abu Dhabi peace talks on ending the Ukraine war, Foreign Minister Jean-Noël Barrot said Sunday, adding that Europeans will be represented at the summit. The talks will take place under US mediation on Tuesday and Wednesday.",
+   "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+   "img": "https://s.france24.com/media/display/57d3784e-db7b-11f1-a752-a575454bc579/w:1024/p:16x9/2026-10-31T022255Z-1628715710-RC2ZDOAFTXRB-RTRMADP-3-G20-MINISTERS-1.jpg"
+  },
+  {
+   "id": "w-c0353931a5d5f01a",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T14:15:54+00:00",
+   "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+   "summary": "Pope Leo XIV urged men to respect their wives as he wrapped up the first leg of his 12-day tour of Latin America. The region recorded nearly 20,000 instances of women being killed over the past five years alone, most of them murdered by a current or former partner.",
+   "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+   "img": "https://s.france24.com/media/display/e848f45a-db7e-11f1-a13c-1beafce15fea/w:1024/p:16x9/6fab64bab726aafee6cdce3d68af60d2c79255ea.jpg"
+  },
+  {
+   "id": "w-e264d7ab6dccf624",
+   "outlet": "The Guardian",
+   "section": "Sport",
+   "published_at": "2026-11-08T14:13:00+00:00",
+   "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+   "summary": "If a good striker can always get their team out of a hole, Alessia Russo is doing her best to drag Arsenal out of a deep chasm of uncertainty. Her two goals gave the ­under‑pressure Arsenal head coach, Renée Slegers, some brief respite with a much-needed, albeit still rather unconvincing victory. Russo’s double took her impressive recent tally to seven goals in her past four appearances. Her goals were priceless for an Arsenal team who arrived on",
+   "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+   "img": "https://i.guim.co.uk/img/media/93eceff8fc1e7ac44ead734c851694cd0b5befed/273_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=3ef80469639a3fe051fbd935461f25d6"
+  },
+  {
+   "id": "w-b98dcdfb271c9e6b",
+   "outlet": "The Guardian",
+   "section": "Europe",
+   "published_at": "2026-11-08T14:09:58+00:00",
+   "title": "CCTV footage shows police shootout after Kraków attack – video",
+   "summary": "Polish prosecutors opened a terrorism investigation after a man opened fire in a busy market square in Kraków, killing six people and injuring 17, in an attack that authorities said was probably inspired by far-right ideologies. Footage shows the moments after the attack, with a police shootout happening after a collision with a car driven by the alleged attacker. The 24-year-old suspect fell to the ground after being shot by police and was being",
+   "url": "https://www.theguardian.com/world/video/2026/nov/08/cctv-footage-shows-police-shootout-after-krakow-attack-video",
+   "img": "https://i.guim.co.uk/img/media/04e924b2927eae4681d3b2bdc7d0bcdc0bfebaee/0_152_971_777/master/971.jpg?width=140&quality=85&auto=format&fit=max&s=1016ee935831868b18a0b1453350f49e"
+  },
+  {
+   "id": "w-6067e433b9153141",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T14:06:19+00:00",
+   "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+   "summary": "As fears of an escalation grow, Washington announces 'Task Force Iron Gate'.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-f813389e9bfad7c5",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T14:02:35+00:00",
+   "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+   "summary": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-4e0e57590300e582",
+   "outlet": "The Guardian",
+   "section": "World",
+   "published_at": "2026-11-08T14:00:43+00:00",
+   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+   "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast Australia weakening copyright protections for AI companies would be “ridiculous and dangerous”, the global peak body for the music recording industry has warned as it watches with concern how the Albanese government responds to big tech’s demands. While",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+   "img": "https://i.guim.co.uk/img/media/a9d776b6ee27daeda7be27a2ffc273f39b966850/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=d7cfb9e02bdb165293c91e886fccd4f9"
+  },
+  {
+   "id": "w-baf4bb5a3848b835",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T14:00:41+00:00",
+   "title": "‘The light of dawn is on the horizon’: the best moments from US midterm victory speeches | Ted Widmer",
+   "summary": "Tuesday’s winners offered a new politics at a time when ‘there is something broken in America’ As the US election returns came in throughout the night on Tuesday, there was ebullience at the size of the margin. It was comparable to the significant thumpings over the years. Yet bigger. In 2006, Americans were exhausted by the war in Iraq (by simply changing the last letter to “n”, we have a similar situation today). But even that big win paled in ",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches",
+   "img": "https://i.guim.co.uk/img/media/df357dd11e2a8a66c16ead93c658a20955f548e8/833_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c02f0d6d1607e071e58aafc49ce642f5"
+  },
+  {
+   "id": "w-187b7a056722108f",
+   "outlet": "The Guardian",
+   "section": "Science",
+   "published_at": "2026-11-08T13:53:41+00:00",
+   "title": "New drug could be cure for common cause of high blood pressure",
+   "summary": "Benefits of baxdrostat are unexpectedly found to remain up to two years after patients stop taking it Millions of people with high blood pressure stand to benefit from a new drug that has stunned doctors by reversing a common cause of the condition for years after patients stopped taking the medication. Patients who took the drug, called baxdrostat, saw their blood pressure improve during a six- to 12-month course of the daily pills, but unexpect",
+   "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
+   "img": "https://i.guim.co.uk/img/media/fad4e33bcddae0e5dd40cd1928698dc2850b785f/443_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=5d5717879187185e014d5940a744e2ae"
+  },
+  {
+   "id": "w-061c6d02b7c3ee01",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-08T13:48:00+00:00",
+   "title": "At least 21 killed after migrant boat sinks off Senegal",
+   "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.",
+   "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-953dd5f9387913af",
+   "outlet": "BBC News",
+   "section": "World",
+   "published_at": "2026-11-08T13:37:50+00:00",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
+  },
+  {
+   "id": "w-a2c35f3bff1e1ac2",
+   "outlet": "The Guardian",
+   "section": "Europe",
+   "published_at": "2026-11-08T13:32:58+00:00",
+   "title": "UK spent £100m on zombie Brexit border inspection posts",
+   "summary": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never used, it has been revealed. The overall cost of Brexit was put at an estimated £4.7bn by the National Audit Office last year but this included years-long transformation of the software used for customs declaratio",
+   "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+   "img": "https://i.guim.co.uk/img/media/db4240edf03977a12a595754e65bb19448f4299e/368_0_3895_3116/master/3895.jpg?width=140&quality=85&auto=format&fit=max&s=6da4a837d21aad183e406a99a45876eb"
+  },
+  {
+   "id": "w-fb98d47c9b5492c0",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T13:32:17+00:00",
+   "title": "At least 21 dead as small boat sinks off Senegal",
+   "summary": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-45bf1bd7befd01a3",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T13:27:57+00:00",
+   "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+   "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-9add0c107628fa5e",
+   "outlet": "The Guardian",
+   "section": "Climate",
+   "published_at": "2026-11-08T13:24:00+00:00",
+   "title": "Cop31 must deliver climate progress that people can see is real, host says",
+   "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and representatives of close to 190 countries gather in Turkey for the UN climate talks. The high-stakes meeting begins on Monday, as countries around the world grapple with the strongest El Ni",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+   "img": "https://i.guim.co.uk/img/media/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/master/6003.jpg?width=140&quality=85&auto=format&fit=max&s=83fdd9ee72f2efe6df78f03a7cacbffe"
+  },
+  {
+   "id": "w-f932495a99dce790",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T13:11:41+00:00",
+   "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
+   "summary": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-accc697a0db8b0fb",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T13:06:28+00:00",
+   "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+   "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-679a9ff07774d45a",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T13:00:41+00:00",
+   "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+   "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading Room, she didn’t know what to expect. “What happens if I walk in and survivors’ names are just plastered everywhere?” Bensky wondered about the reading room, a traveling exhibition of Epstein investigative files,",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+   "img": "https://i.guim.co.uk/img/media/78ece6a61cf423ac18473ef637cd34631b86a206/693_0_6925_5540/master/6925.jpg?width=140&quality=85&auto=format&fit=max&s=31922489c49ca0593b7d2cebadda1589"
+  },
+  {
+   "id": "w-b4a23f307828b22d",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T13:00:40+00:00",
+   "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+   "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules that protect from disasters along the lines, a new review of federal records shows . The report, compiled by the Environmental Integrity Project, also found pipelines are being built to meet demand for natural g",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+   "img": "https://i.guim.co.uk/img/media/76b64c85eae178abb4fb3319f9b303b67db8040c/305_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=aa5ac4c9838eaac7f05c40aa0f06b5d8"
+  },
+  {
+   "id": "w-42122c20ef94a7c0",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T13:00:40+00:00",
+   "title": "How CrossFit helped shape the macho fitness culture of Trump’s America",
+   "summary": "The movement founded by Greg Glassman grew into an empire, helping popularize the masculinity aesthetic embraced by Pete Hegseth and RFK Jr Comparative machismo is hardly new, but when Donald Trump publicly admired Senator Jon Husted’s backside earlier this month, later telling advisers it made the since-defeated Ohio incumbent more “interesting” to voters, the senator leaned into the compliment, saying it gave him extra motivation to “get down t",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
+   "img": "https://i.guim.co.uk/img/media/57e71fac09e85ebaf19ad6b837bb6497dbd6d69f/405_0_3244_2598/master/3244.jpg?width=140&quality=85&auto=format&fit=max&s=24f61b5a7707acfaf7dbef80defba601"
+  },
+  {
+   "id": "w-90e0a9d3e1cc8327",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-08T13:00:00+00:00",
+   "title": "Iran: US strikes ship after Hormuz blockade breach",
+   "summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz.",
+   "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
+   "id": "w-4e1e2a03e3cfd9a3",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T12:50:28+00:00",
+   "title": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
+   "summary": "Egypt is seeking closer ties with Libya’s western government after years of backing its eastern rival. Talks in Tripoli covered energy projects and Egypt’s objections to Libya’s maritime deal with Turkey.",
+   "url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
+   "img": ""
+  },
+  {
+   "id": "w-59b5aec9ea1019f8",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T12:46:37+00:00",
+   "title": "Condolences and solidarity: European and world leaders react to Krakow shooting.",
+   "summary": "The tragedy in Krakow sparked reactions worldwide. Leaders of Germany, France, Italy, Ukraine, the Baltic states, the EU and the US offered condolences, stressing: \"Poland does not stand alone\".",
+   "url": "https://www.euronews.com/2026/11/08/condolences-and-solidarity-european-and-world-leaders-react-to-krakow-shooting",
+   "img": ""
+  },
+  {
+   "id": "w-99da3b0e5d8641cc",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T12:40:12+00:00",
+   "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+   "summary": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-3b97846150418bb5",
+   "outlet": "Euronews",
+   "section": "Europe",
+   "published_at": "2026-11-08T12:23:43+00:00",
+   "title": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
+   "summary": "The Ministry of Petroleum attributed the positive results to higher investment and exploration activity, noting a better investment climate and progress in settling overdue payments to foreign companies in the energy sector.",
+   "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
+   "img": ""
+  },
+  {
+   "id": "w-f1a7f9a75bd037a6",
+   "outlet": "BBC News",
+   "section": "Science",
+   "published_at": "2026-11-08T12:22:05+00:00",
+   "title": "Dormice 'thrive' at National Trust site",
+   "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
+   "url": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c752/live/e92c4c00-d9ad-11f1-8903-3de9eeffdc2b.jpg"
+  },
+  {
+   "id": "w-c3a3b8dabb02dec0",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T12:20:17+00:00",
+   "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+   "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-7b4813acfe7ae8af",
+   "outlet": "Al Jazeera",
+   "section": "World",
+   "published_at": "2026-11-08T12:19:14+00:00",
+   "title": "South Africa’s ANC suffers setback in local elections",
+   "summary": "President Cyril Ramaphosa's party wins just over 30 percent nationally.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+   "img": ""
+  },
+  {
+   "id": "w-f086e69ea291a427",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T12:05:58+00:00",
+   "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+   "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI ‘AI clog’: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash – Silicon Valley’s political power is cracking Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago. Clearly, the ",
+   "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+   "img": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4"
+  },
+  {
+   "id": "w-794c9516eaf2c391",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T12:00:41+00:00",
+   "title": "Centrism did not win the Democratic party the election",
+   "summary": "The blue wave, while a rebuke of Trump’s policies, was also a referendum on the party’s status quo On election night I stood in a crowd at Harlem Tavern, a restaurant in New York City, at the electoral party for Darializa Avila Chevalier, the Democratic Socialists of America (DSA) member and congresswoman-elect from New York’s 13th congressional district. The crowd cheered as what came to be called the “blunami” rolled in: Iowa blue, Kansas blue,",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
+   "img": "https://i.guim.co.uk/img/media/cc9dee8198367d6496c9bf5664275f2e07bdb548/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8c31b3987366360c51adc507edfeeb94"
+  },
+  {
+   "id": "w-a51b2b0b2c979827",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T12:00:40+00:00",
+   "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+   "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political concerns, Democrats won a monumental return to power in Tuesday’s midterm elections that will give them potent new leverage over the president. Now the question becomes: what will they do wit",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+   "img": "https://i.guim.co.uk/img/media/58cfa4b57d0fd5f376a2f9b4536934f809a7e540/654_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e4ba8765515614012d9b3b9a840aff94"
+  },
+  {
+   "id": "w-6343531a32e8234b",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T12:00:40+00:00",
+   "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
+   "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut Overdoses involving stimulants are on the rise in many parts of the country, according to recently available data from the Centers for Disease Control and Prevention, but experts say recognizing and responding to them is more complex when compared with opioid overdoses. “The rate of overdose decline was not nearly what we expected” in Californ",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
+   "img": "https://i.guim.co.uk/img/media/615a59db63bbd6a25dc0a6a62f4ef9a8e67930de/758_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=776b59427863824246cb15d20c3f9d04"
+  },
+  {
+   "id": "w-c94e79f3ca2d0a34",
+   "outlet": "The Guardian",
+   "section": "Americas",
+   "published_at": "2026-11-08T12:00:40+00:00",
+   "title": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
+   "summary": "The once-bearded New York mayor has downsized his facial hair. Does it work? I’ve battled with facial hair almost my entire adult life. I started growing it early, turning me into a pubescent villain from a spaghetti western. I was told by my parents not to shave it off, lest it grow back more furious than before. I just had to walk around high school looking like a hungover bond trader, which did nothing for my popularity. Dave Schilling is a Lo",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair",
+   "img": "https://i.guim.co.uk/img/media/0c21c6c1aaf1a3fa6cbded321e48ba40ebb895a4/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f5efccaa90aadd954d69a9b66c38e533"
+  },
   {
    "id": "w-d2755ebc4728e1ef",
    "outlet": "The Guardian",
@@ -32,14 +1112,14 @@
    "img": ""
   },
   {
-   "id": "w-fafb08baebcabec1",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-08T11:51:23+00:00",
-   "title": "Liverpool v Arsenal: Women’s Super League – live",
-   "summary": "⚽️ Women’s Super League updates from 12pm GMT ⚽️ Océane Hurtré making waves at Birmingham | Email Emillia It will be interesting to see today if Alessia Russo starts as the lone striker, or in the No10 position. Renée Slegers has been persevering with Russo in the 10 for much of the season so far. I do wonder if that could be a reason for Arsenal’s lack of goals. There is absolutely no doubt that the 27-year-old is at her best when she’s playing ",
-   "url": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-   "img": "https://i.guim.co.uk/img/media/136e4be72d3daeb75612db1f5168fcb9d1bb7922/0_41_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=f487c13a30472f64748a147dc8949611"
+   "id": "w-8bbcd54e5adae083",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T11:53:14+00:00",
+   "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+   "summary": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing acutely painful periods and increased bleeding are further challenging assumptions that the chemical irritant carries only minor consequences.",
+   "url": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+   "img": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg"
   },
   {
    "id": "w-34430db32ce5c9d8",
@@ -47,7 +1127,7 @@
    "section": "Europe",
    "published_at": "2026-11-08T11:50:15+00:00",
    "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-   "summary": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market square in Kraków, killing six people including a Briton and injuring 17, in an attack that authorities said was probably inspired by far-right ideologies. Police confirmed on Sunday that three people found dead at the gunman’s h",
+   "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market square in Kraków, killing six people including a Briton and injuring 17, in an attack that authorities said was probably inspired by far-right ideologies. Police confirmed on Sunday that thr",
    "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
    "img": "https://i.guim.co.uk/img/media/4bbf681557c78034b1991a39bd6e7638b55750c2/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a5414f4d195567588afa826bce4421b7"
   },
@@ -77,7 +1157,7 @@
    "section": "World",
    "published_at": "2026-11-08T11:34:58+00:00",
    "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-   "summary": "Israel's former military chief has been given the opportunity to form a government after an inconclusive election.",
+   "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
    "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
    "img": ""
   },
@@ -100,26 +1180,6 @@
    "summary": "Reece Walsh scores hat-trick in comfortable win at Allianz Stadium Kangaroos will play New Zealand next weekend for world title The NRL’s form referee, Adam Gee, is in charge of tonight’s proceedings. Conditions : The south east of Australia is experiencing an unseasonal cold snap so tonight’s temperature will be around 15C, but made to feel much colder thanks to a serious southerly. We saw last night how much a strong wind can impact a game so b",
    "url": "https://www.theguardian.com/sport/live/2026/nov/08/australia-kangaroos-vs-samoa-rugby-league-world-cup-mens-semi-final-live-updates",
    "img": "https://i.guim.co.uk/img/media/51e862de77be846f5ca06fff6af9f53c9a8ae300/167_0_3466_2773/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=d8d0c904c08c7f7343d0c12d2f30c0a8"
-  },
-  {
-   "id": "w-fdb62f9abf15111b",
-   "outlet": "BBC News",
-   "section": "Technology",
-   "published_at": "2026-11-08T11:25:32+00:00",
-   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg"
-  },
-  {
-   "id": "w-bcc676a14cba33a7",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-08T11:22:17+00:00",
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
   },
   {
    "id": "w-4411afd3fb5299c6",
@@ -196,7 +1256,7 @@
    "outlet": "NPR",
    "section": "World",
    "published_at": "2026-11-08T11:00:00+00:00",
-   "title": "In Maine, a new approach to practicing medicine in the sky",
+   "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
    "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
    "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3875x2584+0+0/resize/3875x2584!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fb0%2F3f6e14cb4c33b4c784b12013ff0a%2Flifeflight-7086.jpg"
@@ -336,10 +1396,10 @@
    "outlet": "France 24",
    "section": "World",
    "published_at": "2026-11-08T09:47:36+00:00",
-   "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
-   "summary": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the latest developments from the Middle East.",
+   "title": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
+   "summary": "Israeli President Isaac Herzog on Sunday officially tasked ex-military chief Gadi Eisenkot with trying to form a government after neither Eisenkot's bloc nor that or incumbent Prime Minister Benjamin Netanyahu won a clear majority in Israel's October 28 elections. Eisenkot now has up to six weeks to form a coalition government. Follow our liveblog for the latest developments from the Middle East.",
    "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-   "img": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg"
+   "img": "https://s.france24.com/media/display/f71c892a-db87-11f1-9c18-695cb59fade5/w:1024/p:16x9/2026-11-08T151738Z-84214136-RC2RJOAONV9B-RTRMADP-3-ISRAEL-POLITICS.jpg"
   },
   {
    "id": "w-97d62f3fe50d0d3d",
@@ -602,6 +1662,16 @@
    "img": ""
   },
   {
+   "id": "w-fcf5a21a0bd6c988",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T08:11:54+00:00",
+   "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+   "summary": "A skyscraper belonging to Saudi oil giant Aramco was hit by a Houthi-claimed attack on Sunday, blowing out windows across several floors but causing no casualties. The Iran-aligned group has repeatedly targeted Aramco facilities and infrastructure.",
+   "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+   "img": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg"
+  },
+  {
    "id": "w-a9b444d838b44b91",
    "outlet": "Euronews",
    "section": "Europe",
@@ -667,7 +1737,7 @@
    "section": "World",
    "published_at": "2026-11-08T07:53:00+00:00",
    "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
-   "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
+   "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days.",
    "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf",
    "img": ""
   },
@@ -992,6 +2062,16 @@
    "img": ""
   },
   {
+   "id": "w-fa314d7e4925961f",
+   "outlet": "France 24",
+   "section": "World",
+   "published_at": "2026-11-08T03:01:54+00:00",
+   "title": "New Zealand's knife-edge parliamentary election delivers no clear winner",
+   "summary": "No clear winner was produced in New Zealand’s legislative elections Saturday, setting up the two main blocs – Prime Minister Christopher Luxon's right-wing coalition and opposition leader Chris Hipkins' left-wing alliance – for weeks of political wrangling to attempt to cobble together a majority. Hipkins said that while New Zealanders had spoken, \"it may take us a little bit longer to figure out exactly what it is that you've said\".",
+   "url": "https://www.france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains",
+   "img": "https://s.france24.com/media/display/c039f738-db20-11f1-a5eb-1beafce15fea/w:1024/p:16x9/c7f3463382f4a345e7ea10396c4211fa925e0888.jpg"
+  },
+  {
    "id": "w-e9f47d95482fd022",
    "outlet": "The Guardian",
    "section": "Asia-Pacific",
@@ -1112,16 +2192,6 @@
    "img": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451"
   },
   {
-   "id": "w-f8146468ab951955",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T23:11:27+00:00",
-   "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
-   "summary": "Non-league Kidderminster stun Doncaster Exeter upset Huddersfield in first round Charlie Savage scored against his father’s team as Reading eased into the second round of the FA Cup with a 5-0 rout of Peterborough at the Weston Homes Stadium. This all-League One tie turned out to be one of the most one-sided of the day, with the Peterborough manager, Robbie Savage, watching on in disbelief as his side were pulled apart. Continue reading...",
-   "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-   "img": "https://i.guim.co.uk/img/media/b1278165e67ecb59a15196ee5072c60292e0b09c/103_0_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=d86161f646fbbea6c3b8096c7a821850"
-  },
-  {
    "id": "w-baa2fc41f0cf0f84",
    "outlet": "The Guardian",
    "section": "Americas",
@@ -1136,7 +2206,7 @@
    "outlet": "BBC News",
    "section": "Business",
    "published_at": "2026-11-07T23:02:35+00:00",
-   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "title": "He spent $50,000 on Labubus but now the craze is dying",
    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg"
@@ -1314,7 +2384,7 @@
   {
    "id": "w-ba84036a0a06fb5c",
    "outlet": "The Guardian",
-   "section": "Americas",
+   "section": "Technology",
    "published_at": "2026-11-07T20:03:23+00:00",
    "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
    "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first to smaller airports in Florida and Alaska as the Trump administration presses ahead with updating the country’s ageing aviation infrastructure. The systems are now online",
@@ -1350,16 +2420,6 @@
    "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
    "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
    "img": ""
-  },
-  {
-   "id": "w-fe43e4b6ce3d3106",
-   "outlet": "The Guardian",
-   "section": "Middle East",
-   "published_at": "2026-11-07T19:49:39+00:00",
-   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-   "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention to ",
-   "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-   "img": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47"
   },
   {
    "id": "w-a3e3ef4ef44c2385",
@@ -1922,6 +2982,16 @@
    "img": ""
   },
   {
+   "id": "w-43bdca7e22e16ca2",
+   "outlet": "DW",
+   "section": "World",
+   "published_at": "2026-11-07T15:14:00+00:00",
+   "title": "Should AI companies pay for the journalism they use?",
+   "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
+   "url": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-rdf",
+   "img": ""
+  },
+  {
    "id": "w-1a45b55a8ef3e983",
    "outlet": "The Guardian",
    "section": "Sport",
@@ -1940,1076 +3010,6 @@
    "summary": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for members who have long argued that its relationship with Barclays was at odds with its commitment to protecting the natural world. The resolution, passed at the charity’s annual general meeting on Saturday with the backing of its bo",
    "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
    "img": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed"
-  },
-  {
-   "id": "w-3cedbed11157d86e",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T15:03:57+00:00",
-   "title": "Leeds United 1-0 Tottenham Hotspur: Premier League – as it happened",
-   "summary": "Noah Okafor grabbed the only goal of an intense battle at Elland Road, as Jayden Bogle did well to escape red A different fanfare for the common man – the Last Post – sounds poignantly. Silent, solemn remembrance of the fallen. After which Tottenham Hotspur get the ball rolling. The teams emerge from the tunnel, so … Continue reading...",
-   "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-   "img": "https://i.guim.co.uk/img/media/067e09c2e1fefad5a2c4ca501b4de34a9b527f6c/134_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=12ce418bbebd6f66fdc8642136c504ab"
-  },
-  {
-   "id": "w-935995cd1e1a91f7",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-07T15:00:14+00:00",
-   "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-   "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, was a Reform UK councillor who was arrested in January over multiple alleged sexual offences still in his role nearly 10 months later? “I have no idea,” Farage replied icily. “I was told yeste",
-   "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-   "img": "https://i.guim.co.uk/img/media/79076a3b05d8796724e0007bdd12c573ab1f8e2d/1172_0_5860_4688/master/5860.jpg?width=140&quality=85&auto=format&fit=max&s=9a6c47d0cba77ccee4d84a4af2abc56b"
-  },
-  {
-   "id": "w-d9d8b15ba2d01172",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T15:00:14+00:00",
-   "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-   "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a major shake-up of its own with a wave of democratic socialists elected to key offices. Most notably, Nithya Raman, the first democratic socialist to serve on the Los Angeles city council, prevailed over incumbent Karen Bass to become",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-   "img": "https://i.guim.co.uk/img/media/de0553be8f1e9959d7a8cc2b36c929f7d7aa7bef/526_0_5605_4488/master/5605.jpg?width=140&quality=85&auto=format&fit=max&s=2e4b52ad9ae2c6f92ee9e9f538f739ce"
-  },
-  {
-   "id": "w-eb3ce7a8f55b2897",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-07T15:00:13+00:00",
-   "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-   "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure centre specifically designed for disabled children. Over the past 10 years, she and her team have raised millions of pounds, meticulously researched how to make the centre as inclusive as possible and spent years trialling sessions w",
-   "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-   "img": "https://i.guim.co.uk/img/media/a2fc75b9c99135828cf28282679c71defca50e3a/170_0_1743_1394/master/1743.jpg?width=140&quality=85&auto=format&fit=max&s=c088c79f811c505ddb02589249c77371"
-  },
-  {
-   "id": "w-ca30f16639edc8b1",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T14:59:30+00:00",
-   "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
-   "summary": "Pope Leo XIV urged Catholics in Uruguay to build bridges of faith and fraternity on the second day of his 12-day tour of Uruguay, Argentina and Peru. The pope's three-country tour comes just three weeks after he underwent surgery for lung cancer.",
-   "url": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
-   "img": "https://s.france24.com/media/display/edae6460-dab7-11f1-9ce0-bf1914cabd52/w:1024/p:16x9/2026-11-07T142220Z-1810286401-RC22JOA4XV14-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
-  },
-  {
-   "id": "w-a069f3a6b3b250a6",
-   "outlet": "NPR",
-   "section": "World",
-   "published_at": "2026-11-07T14:50:00+00:00",
-   "title": "A promising new medicine against heart disease fails unexpectedly",
-   "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1900+0+0/resize/3200x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F66%2Fb8a0e1394fe0939c06d94bd754be%2Fgettyimages-1159313378.jpg"
-  },
-  {
-   "id": "w-7eba010d33978181",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T14:45:17+00:00",
-   "title": "Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
-   "summary": "\"Moscow is deliberately seeking to leave millions of Ukrainians without electricity, heating, and water as winter approaches,\" Ukrainian Foreign Minister Andrii Sybiha said.",
-   "url": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says",
-   "img": ""
-  },
-  {
-   "id": "w-b95f6b42665032e7",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T14:44:24+00:00",
-   "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
-   "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
-   "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-   "img": "https://s.france24.com/media/display/9d39473c-dac3-11f1-81fe-695cb59fade5/w:1024/p:16x9/000-D6R93X3.jpg"
-  },
-  {
-   "id": "w-7757bef1e8fb50ca",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T14:38:00+00:00",
-   "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-   "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
-   "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-109eb786a945c44a",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T14:34:21+00:00",
-   "title": "Okafor’s Leeds winner adds insult to Tel’s injury for Tottenham as Bogle escapes red",
-   "summary": "It is almost one year to the day when the Leeds manager, Daniel Farke, produced the tactical overhaul many observers believe saved his job. That day, Farke abandoned his trusted 4-3-3 when Leeds were 2-0 down at Manchester City and although they lost the game, the 3-5-2 he reverted to was the bedrock for the success that followed. To suggest Farke was under similar pressure going into this game would be a stretch, but without a win in five Premie",
-   "url": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
-   "img": "https://i.guim.co.uk/img/media/b31290c695367b1a2727e83ad6bc4304c6b5e177/400_0_2075_1660/master/2075.jpg?width=140&quality=85&auto=format&fit=max&s=2f16d1b8a4a2af35840be4a34d579ce0"
-  },
-  {
-   "id": "w-58df394abe1c86f7",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T14:30:00+00:00",
-   "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-   "summary": "When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.",
-   "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-15c341242cb3a290",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T14:24:48+00:00",
-   "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-   "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-997d31f27fd8850a",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T14:15:00+00:00",
-   "title": "After victory in the midterms, what next for US Democrats?",
-   "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
-   "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-4019211dc3c1f3e1",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T14:07:00+00:00",
-   "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-   "summary": "Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident. The news follows a string of bomb threats that have grounded flights across the EU.",
-   "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-321b0bee76c9777c",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T14:03:06+00:00",
-   "title": "New Zealand’s prime minister says election is ‘too close to call’",
-   "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-cc78c069197a9177",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T14:00:14+00:00",
-   "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-   "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs While Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target: our lakes and oceans . Two underwater datacenters are already in operation off the coast of China, and recent reports suggest that the Trump administration is considering plans for four propo",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-   "img": "https://i.guim.co.uk/img/media/90c2d090a335bb315daba9621a26b958330e6918/724_0_7212_5773/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=fa55f080faaeac50e942a94c3047ee52"
-  },
-  {
-   "id": "w-3743c087d0851dcc",
-   "outlet": "The Guardian",
-   "section": "Climate",
-   "published_at": "2026-11-07T14:00:13+00:00",
-   "title": "Thunderstruck: what does the future hold for lightning?",
-   "summary": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an image of a being the Bininj people call Namarrkon . His flesh bleached away to reveal the bones beneath, he wears stone axes on his head, elbows and knees, and wields a great band of lightning that runs from his ankles up, over his he",
-   "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
-   "img": "https://i.guim.co.uk/img/media/db20b5e67ea16dc68b43f864c0ec42c03a854557/139_0_3733_2987/master/3733.jpg?width=140&quality=85&auto=format&fit=max&s=916aafaab5c757acf7f05bb8295a5d51"
-  },
-  {
-   "id": "w-c1517fa306f4dd3f",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T14:00:12+00:00",
-   "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-   "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition.",
-   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-   "img": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=731516b3b10b69bcfb54fdbce5864718"
-  },
-  {
-   "id": "w-14dcdda113827d54",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T14:00:12+00:00",
-   "title": "Spain: Baby's body found in freezer in Ourense may have been there over 20 years",
-   "summary": "The body of the newborn was discovered in a chest freezer in a storage room in Allariz (Ourense) and may have been there for over 20 years, according to local newspaper 'La Región'.",
-   "url": "https://www.euronews.com/2026/11/07/spain-babys-body-found-in-freezer-in-ourense-may-have-been-there-over-20-years",
-   "img": ""
-  },
-  {
-   "id": "w-270f75c4ef686b1f",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:50:15+00:00",
-   "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-   "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-48a067d73fcbf728",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T13:50:00+00:00",
-   "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-   "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital. There was no initial comment from Riyadh.",
-   "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-498f4358b34de940",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T13:50:00+00:00",
-   "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
-   "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
-   "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-7dfa704ba6fc3fe7",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:35:46+00:00",
-   "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-   "summary": "The hard-left leader has transformed into a real contender in next year presidential elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-294946423bc15314",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T13:29:28+00:00",
-   "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-   "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a ban by authorities. The demonstrations follow weeks of youth-led unrest and nationwide strikes that drew hundreds of thousands of workers protesting over the rising cost of living. Paul Smith, Associate Professor in French history and politics at the University o",
-   "url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-   "img": "https://s.france24.com/media/display/c9733fde-daae-11f1-87e0-bf1914cabd52/w:1024/p:16x9/EN-20261107-130322-131958-CS.jpg"
-  },
-  {
-   "id": "w-59f0dc28329bd4e1",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T13:27:01+00:00",
-   "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-   "summary": "Zinedine Zidane has unveiled his France squad for the upcoming Nations League clashes against Italy and Turkey. Pablo Pagis earns a surprise first call-up, while Kylian Mbappé and several other key players return from injury",
-   "url": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
-   "img": "https://s.france24.com/media/display/97041338-da8c-11f1-949c-1beafce15fea/w:1024/p:16x9/AP26275688279113.jpg"
-  },
-  {
-   "id": "w-06eef7bf96404540",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:24:41+00:00",
-   "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-   "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-183edbbf4eb155c9",
-   "outlet": "NPR",
-   "section": "World",
-   "published_at": "2026-11-07T13:19:09+00:00",
-   "title": "Democrats plan to widen their probes of fatal ICE shootings",
-   "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations.",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F51%2Ff396903449859ddabe2ea56444b5%2Fgettyimages-2302917816.jpg"
-  },
-  {
-   "id": "w-0b5febc5c1d24a50",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:14:53+00:00",
-   "title": "Gaza displacement camps collapse under rainwater",
-   "summary": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-0bd9f34f26827a02",
-   "outlet": "The Guardian",
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-07T13:12:22+00:00",
-   "title": "New Zealand election coalition talks will likely take weeks – as it happened",
-   "summary": "This blog is closed, you can read our report on the New Zealand election here Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori 0.4%. On these numbers, we would have a right bloc coalition back in power. Long way to go . Continue reading...",
-   "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "img": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
-  },
-  {
-   "id": "w-9fe1f706a0fe35bf",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:07:23+00:00",
-   "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-   "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-   "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-def8e84f099861e8",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:06:50+00:00",
-   "title": "Al Jazeera tries out martial art wushu at Youth Olympics",
-   "summary": "Al Jazeera tries out martial art wushu at Youth Olympics",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-34f0a7a3fa872da5",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T13:04:51+00:00",
-   "title": "Heavy rains flood displacement camps across Gaza",
-   "summary": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-d114b031d9c3dc77",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-07T13:03:57+00:00",
-   "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
-   "summary": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
-   "url": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/9f7d7c60-daab-11f1-9da2-b11e4d68c08e.jpg"
-  },
-  {
-   "id": "w-62f39c82b1348381",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-07T13:03:03+00:00",
-   "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a bridge over the Dnipro River. Ukraine’s president said Moscow’s preparations for peace talks next week involved pummelling a city of millions with ballis",
-   "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-   "img": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=3d43b27b3c2c259de81a9207bf8adbd7"
-  },
-  {
-   "id": "w-a09e7cf61f77163c",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T13:00:12+00:00",
-   "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
-   "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered the kind of drubbing at the polls that Trump did this week might have felt at least a sliver of humility – and perhaps even an obligation to work with the new opposition in Congress. Contin",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-   "img": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=140&quality=85&auto=format&fit=max&s=c1b0aa3ba931de7e4d11a316938b8ccf"
-  },
-  {
-   "id": "w-14bb5c59878c6174",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T13:00:12+00:00",
-   "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
-   "summary": "President spent weeks praising his favored candidates’ physiques, from their jawlines to their shoulders – but most of his hot guys lost ​It was either a last-ditch considered strategy to win votes, or the ramblings of an increasingly unhinged and increasingly amorous party leader. Either way, it didn’t work. Continue reading...",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
-   "img": "https://i.guim.co.uk/img/media/a0ac1af0ab88da46a37a89c3dbb632476644a46d/480_0_4798_3838/master/4798.jpg?width=140&quality=85&auto=format&fit=max&s=0e578d15ae575ef63a7eb5100a3df455"
-  },
-  {
-   "id": "w-757dccb0e3067dff",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T13:00:12+00:00",
-   "title": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
-   "summary": "The ‘secretary of war’ and his shameful history are facing bipartisan scrutiny Can you smell the schadenfreude in the air? Watching some of the worst people in the world get their comeuppance this week has been deeply satisfying. And the show isn’t over yet. While the midterms have wrapped up, the blame game is only just getting started, with Republicans desperate to find scapegoats for their shellacking. Arwa Mahadwi is a Guardian columnist Cont",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
-   "img": "https://i.guim.co.uk/img/media/951893fa5f4c12077ed8bdcbf1fee7a1489f34b6/291_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=a16d96c783f9733826397be0af678781"
-  },
-  {
-   "id": "w-9f4c8241a45c8310",
-   "outlet": "The Guardian",
-   "section": "Middle East",
-   "published_at": "2026-11-07T13:00:11+00:00",
-   "title": "Court rules against Home Office in asylum seeker kidnapping case",
-   "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims. The ruling means that many people who have been kidnapped for ransom, whom officials have previously excluded from being victims of exploitation under trafficking rules, will n",
-   "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-   "img": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb"
-  },
-  {
-   "id": "w-62864f482a1fbf6e",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-07T13:00:11+00:00",
-   "title": "‘Mind-blowing’: dark-sky fans gather on Exmoor to see what light pollution hides",
-   "summary": "The UK is 14th most light-polluted country, but in south-west England the veil is lifted at the dark skies festival “It’s just mind-blowing,” says the astronomer and teacher Jo Richardson. She is standing in Exmoor national park talking about Saturn, the first planet she ever saw through a telescope. But it is not the cosmic colour of the planet that Richardson is drawn to, nor its mysteries – it is the vastness. “Saturn, on average, is 800m mile",
-   "url": "https://www.theguardian.com/environment/2026/nov/07/dark-skies-festival-exmoor-light-pollution",
-   "img": "https://i.guim.co.uk/img/media/67d241e4421c02c119986ee78d4e13f1875c2122/319_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=76a699ce82a6643c3e1828b82a7310d4"
-  },
-  {
-   "id": "w-487e2780a60ba938",
-   "outlet": "NPR",
-   "section": "World",
-   "published_at": "2026-11-07T13:00:00+00:00",
-   "title": "Perspective: Simon Winchester was here to tell a story",
-   "summary": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2059x1367+0+0/resize/2059x1367!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fd2%2F7a80d4954842a7193d194eec3b3b%2Fgettyimages-585797523.jpg"
-  },
-  {
-   "id": "w-4b2c83578e55be0c",
-   "outlet": "BBC News",
-   "section": "Europe",
-   "published_at": "2026-11-07T12:49:36+00:00",
-   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
-  },
-  {
-   "id": "w-94916c1450b1c8ca",
-   "outlet": "BBC News",
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-07T12:40:38+00:00",
-   "title": "New Zealand election 'too close to call' - so who will be next PM?",
-   "summary": "With the New Zealand election too tight to call, the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive night.",
-   "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aac/live/cd0caa40-daae-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "id": "w-65b52f269725d31f",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T12:29:48+00:00",
-   "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-   "summary": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-d6f62f1d99228ce9",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T12:28:24+00:00",
-   "title": "Cyberattacks target Italian foreign minister and company behind Brenner Base Tunnel project",
-   "summary": "The company behind the under-construction Brenner Base Tunnel project - a 55 km rail link between Innsbruck in Austria and Fortezza in Italy - confirmed it had also been hit by a cyberattack in recent weeks.",
-   "url": "https://www.euronews.com/2026/11/07/cyberattacks-target-italian-foreign-minister-and-company-behind-brenner-base-tunnel-projec",
-   "img": ""
-  },
-  {
-   "id": "w-08c84f5d433b6f1c",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T12:27:58+00:00",
-   "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
-   "summary": "Barcelona and Atletico clash on Sunday in a blockbuster encounter which could upend the La Liga title race this season.",
-   "url": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-ced7d37ee94e9575",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T12:24:11+00:00",
-   "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-   "summary": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-1d2f4ee0d1050f42",
-   "outlet": "BBC News",
-   "section": "Americas",
-   "published_at": "2026-11-07T12:23:28+00:00",
-   "title": "Four things we learned this week about 2028 White House race",
-   "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "id": "w-34dea36c99599778",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T12:22:18+00:00",
-   "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-   "summary": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-780283ad54242392",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:16:45+00:00",
-   "title": "Banking scandal topples Paraguay leader",
-   "summary": "Paraguay’s ousted president Santiago Peña has been placed under house arrest after senators unanimously voted to remove him over a banking scandal. The collapse of Ueno Bank left nearly three million customers unable to access their savings. Peña denies any wrongdoing, while his successor, Pedro Alliana, has pledged to compensate those affected.",
-   "url": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
-   "img": "https://s.france24.com/media/display/6d0782be-daa4-11f1-b656-d18c5759e759/w:1024/p:16x9/EN-20261107-121224-121408-CS.jpg"
-  },
-  {
-   "id": "w-1213cd3ff8961d09",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:15:21+00:00",
-   "title": "Russia launches massive strike on Kyiv",
-   "summary": "As Ukraine prepares for another round of talks with Russia and the United States next week, Moscow has launched a massive overnight strike. At least five people were injured in Kyiv, where Russian missiles damaged residential and commercial buildings, forced the closure of a bridge over the Dnipro River and caused fresh power and water outages. Ophélie Jacobson reports.",
-   "url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
-   "img": "https://s.france24.com/media/display/50e433a2-daa4-11f1-b5c1-1beafce15fea/w:1024/p:16x9/EN-20261107-120558-120735-CS.jpg"
-  },
-  {
-   "id": "w-7469c4aafa305f60",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:14:16+00:00",
-   "title": "Stephen Miller named White House Chief of Staff",
-   "summary": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his administration’s immigration crackdown. Wiles had been seen by some as a stabilising force in the White House, but with Democrats now controlling both chambers of Congress, Trump is reportedly seeking a more aggressive approach to pushing his agenda. Caroline Baum reports.",
-   "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-   "img": "https://s.france24.com/media/display/4bca0edc-daa4-11f1-9347-bf1914cabd52/w:1024/p:16x9/EN-20261107-120813-120953-CS.jpg"
-  },
-  {
-   "id": "w-e112145ab913ff05",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:12:06+00:00",
-   "title": "Israel coalition talks gain momentum",
-   "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serving Prime Minister Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
-   "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
-   "img": "https://s.france24.com/media/display/1c5335f2-daa4-11f1-8704-1beafce15fea/w:1024/p:16x9/EN-20261107-120418-120535-CS.jpg"
-  },
-  {
-   "id": "w-17cc7592b6051197",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:10:34+00:00",
-   "title": "Kenyan cult leader sentenced to 200 years in prison",
-   "summary": "Kenyan cult leader Paul Mackenzie has been sentenced to 200 years in prison for the deaths of 190 children who were starved to death on his orders in Shakahola Forest. Prosecutors said he had convinced followers to fast to reach heaven before the apocalypse, with some victims beaten, buried alive or dumped in latrines. Twenty-eight accomplices have also been jailed. The case has raised serious questions about the authorities' failure to act on re",
-   "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
-   "img": "https://s.france24.com/media/display/39739e62-da8e-11f1-b99f-a575454bc579/w:1024/p:16x9/EN-20261107-091237-091421-CS.jpg"
-  },
-  {
-   "id": "w-90c453f0afbbe4ae",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T12:07:56+00:00",
-   "title": "Retired tennis star Gaël Monfils named captain of France's Davis Cup team",
-   "summary": "Recently retired tennis player Gaël Monfils was named captain of the French Davis Cup team, the country's tennis federation announced Saturday. France will next take part in the Davis Cup in February 2027 after having failed to qualify for this year's finals in Bologna.",
-   "url": "https://www.france24.com/en/france/20261107-retired-tennis-star-ga%C3%ABl-monfils-named-captain-of-france-s-davis-cup-team",
-   "img": "https://s.france24.com/media/display/dd5a200e-daa3-11f1-ba70-d18c5759e759/w:1024/p:16x9/a340b7e06c9513ef0a8ee0fcfc504497242c5a51.jpg"
-  },
-  {
-   "id": "w-f3cad6da4ab8104d",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T12:04:58+00:00",
-   "title": "Arsenal and Manchester City in action, FA Cup first round news: matchday live – as it happened",
-   "summary": "David Tindall was on deck to lead us all into another busy day of football action An email. Krishnamoorthy v has been pondering today’s games. Hello David. Would Leeds be able to puncture the nascent baloon of Tottenham optimism (if ever there was a candidate for a perfect oxymoron, this would ace it) and can we expect City to lose its way in the forest? Leeds v Spurs: Leeds have picked up just five points in their last 13 Premier League matches ",
-   "url": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live",
-   "img": "https://i.guim.co.uk/img/media/e3bcdef9e27c01a754224976aff93a6e302eba4c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c0f897c094a91ec02ab68c6966cff00"
-  },
-  {
-   "id": "w-ebb02e415932d86a",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T12:00:13+00:00",
-   "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-   "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cause serious health problems later in life, a new peer-reviewed study found. As the health risks in exposure to common phthalate plasticizers became clear over the last few decades, industry b",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-   "img": "https://i.guim.co.uk/img/media/bded037b56b875b1683b1d9f645ebbd8415d4582/384_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=e1e0cddbb23252605feee172742e0924"
-  },
-  {
-   "id": "w-cf9b3fa098df1b73",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T12:00:13+00:00",
-   "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-   "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth is this player?’ laughs Youness Bengelloun as he remembers Mamadou Sangaré. With the transfer window in full swing in July 2025, the former Manchester City scout and agent was not expecting to come face to face with a “footballing alien”, but that proved the case during a visit to ",
-   "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-   "img": "https://i.guim.co.uk/img/media/e735d39c230e213e1ed1955930cc9c1477060973/0_122_3671_2937/master/3671.jpg?width=140&quality=85&auto=format&fit=max&s=dd6cbfa69cde7d0b39277b660005b4fc"
-  },
-  {
-   "id": "w-7a6b98fe9c42f9eb",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T12:00:12+00:00",
-   "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
-   "summary": "Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford it For the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami . Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energized the blue base. But red-belt-busting wins in Re",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
-   "img": "https://i.guim.co.uk/img/media/d9cfad20dec46298b1d5d31be9fa427aa0b1c21c/229_0_2280_1825/master/2280.jpg?width=140&quality=85&auto=format&fit=max&s=5d5c33ca83655d999903cdd753399850"
-  },
-  {
-   "id": "w-5176aed3c8dc012f",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T12:00:12+00:00",
-   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-   "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza , the networks of Israel ’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed. The problems, which started as intelligence operations were undergoing updates to digital infras",
-   "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-   "img": "https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cea2e5100ec572f808c1994331acef93"
-  },
-  {
-   "id": "w-4d185e5b75f1fcf5",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T12:00:11+00:00",
-   "title": "Israel took a beating in the US midterms | Judith Levine",
-   "summary": "In a reversal of longstanding assumptions, strong criticism of Israel’s actions may have helped put candidates over the top “You took a chance on the unlikeliest of candidates,” Abdul El-Sayed told a Detroit crowd on Wednesday, declaring victory in Michigan’s hard-fought, often ugly, Senate race. In what was predicted to be a squeaker, the Democrat beat his Republican opponent, Mike Rogers, by a healthy seven points . In some ways, El-Sayed was a",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
-   "img": "https://i.guim.co.uk/img/media/d34e83f5dbe49ab50537a512e521ddc44754ce1b/177_0_5568_4454/master/5568.jpg?width=140&quality=85&auto=format&fit=max&s=42c48b0f5bd6d5540b44eee54a2d4710"
-  },
-  {
-   "id": "w-ba9a3624a6b17776",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T12:00:11+00:00",
-   "title": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
-   "summary": "Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hype The runaway demand for Pokemon cards is because they are being hyped “like crypto”, according to one young fan who had spent the night queueing outside a London store to make sure he did not miss out on the latest card release. Before its 10am opening on Friday, the line outside the pop culture store Forbidden Planet in central London snak",
-   "url": "https://www.theguardian.com/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers",
-   "img": "https://i.guim.co.uk/img/media/add3efa623b78699ceac7a663e4ab615f38fb13d/378_0_3378_2704/master/3378.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf16c0a06e9a9b6f60466fd302ad8a"
-  },
-  {
-   "id": "w-a693602363835067",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-07T12:00:10+00:00",
-   "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
-   "summary": "Sunshine state emerged as the lone flag bearer of the Maga agenda, but even there, the GOP finds itself on the defense After the dust settled on Tuesday night’s near-annihilation of the Republican party nationwide, a single red flag fluttered defiantly in Florida, now a last bastion of the Maga movement that has dominated politics in the US for a decade. Voters in the Sunshine state bucked the national trend, just barely, to elect two close allie",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
-   "img": "https://i.guim.co.uk/img/media/69dadc0a0db6aad57a3ad98b4bc6859050bcf3cc/899_0_4496_3598/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=c734a685c7fe9efeb697e13877086c33"
-  },
-  {
-   "id": "w-26a028d8d56ed514",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T11:59:26+00:00",
-   "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-   "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-3ab4a75fbeb5c49e",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T11:54:00+00:00",
-   "title": "New Zealand election too close to call with over 95% of votes counted",
-   "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted.",
-   "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-110b6217cbad9e59",
-   "outlet": "NPR",
-   "section": "World",
-   "published_at": "2026-11-07T11:50:21+00:00",
-   "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-   "summary": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
-   "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3060x2886+0+0/resize/3060x2886!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Ff7%2Fee82be5d4122ae3fb680e7233b63%2Fprincess-diana-award-winner-3.jpg"
-  },
-  {
-   "id": "w-ef7c346234ee2795",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T11:35:53+00:00",
-   "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
-   "summary": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war.",
-   "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-   "img": ""
-  },
-  {
-   "id": "w-b9e31fe1adc1784f",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T11:31:19+00:00",
-   "title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
-   "summary": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
-   "url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
-   "img": ""
-  },
-  {
-   "id": "w-63789146795c0e00",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-07T11:31:10+00:00",
-   "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-   "summary": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-   "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg"
-  },
-  {
-   "id": "w-9ce35b3a82f20dc0",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T11:30:00+00:00",
-   "title": "Nepal’s fight to rebuild after flood disaster",
-   "summary": "101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.",
-   "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-b0fe1e48f1b10dfd",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T11:10:02+00:00",
-   "title": "Rains flood thousands of displaced families’ tents in Gaza",
-   "summary": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-49f6befc1f3513b4",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T11:06:00+00:00",
-   "title": "Germany hopes to host world ice hockey championship — without Russia",
-   "summary": "International protests continue after a court ruled that Russia must be allowed to return to international ice hockey. Germany is seeking a solution that will allow the country to host next year's world championship.",
-   "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-7c328d598cdb4a6c",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T11:00:15+00:00",
-   "title": "Latest news bulletin | November 7th, 2026 – Midday",
-   "summary": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-   "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
-   "img": ""
-  },
-  {
-   "id": "w-fc6f92a5eaed2076",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T11:00:10+00:00",
-   "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
-   "summary": "The GOP tried to dilute their power, but Black voters helped Democrats get elected in Alabama, Texas and Florida Black voter turnout surged across US southern states where Republicans were accused of redrawing electoral maps to “diminish Black political power” in the wake of a seismic supreme court ruling. Democrats flipped or held seats in Alabama, Texas and Florida with the support of this voting bloc, building on a decades-long, dedicated move",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
-   "img": "https://i.guim.co.uk/img/media/64c523b9d4c91b22a9047bb513fa382525feb46c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=99eea561c04346dc9f052328a7a4732c"
-  },
-  {
-   "id": "w-cc686e55ed2e937c",
-   "outlet": "The Guardian",
-   "section": "Science",
-   "published_at": "2026-11-07T11:00:09+00:00",
-   "title": "Steve Jones on dangerous tech innovations – cartoon",
-   "summary": "Steve Jones on dangerous tech innovations – cartoon",
-   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
-   "img": "https://i.guim.co.uk/img/media/86994054c0f6a4c972c5c9ffc994a75e79ab91f4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a9ee0f23697571494e489a42eaa27b93"
-  },
-  {
-   "id": "w-1d0f1d30796f43a6",
-   "outlet": "The Guardian",
-   "section": "Business",
-   "published_at": "2026-11-07T11:00:08+00:00",
-   "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-   "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades alongside their biggest edge in the Se",
-   "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-   "img": "https://i.guim.co.uk/img/media/452570685e3bee42441282dc9ff80c72d8c5dfca/453_0_4594_3676/master/4594.jpg?width=140&quality=85&auto=format&fit=max&s=71e4c9118ee3b481e3cc06a0a03df1f9"
-  },
-  {
-   "id": "w-bd2d1da38af4d43c",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T10:50:54+00:00",
-   "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-   "summary": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
-   "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-9e1fcabcb8b808ca",
-   "outlet": "BBC News",
-   "section": "Culture",
-   "published_at": "2026-11-07T10:44:38+00:00",
-   "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-   "summary": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
-  },
-  {
-   "id": "w-88c7b198e33d8af1",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T10:44:34+00:00",
-   "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-   "summary": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
-   "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-   "img": "https://s.france24.com/media/display/056e4b3c-d9d3-11f1-9077-695cb59fade5/w:1024/p:16x9/2026-10-24T131136Z-1842472203-RC2O9OAUQRZE-RTRMADP-3-FRANCE-PROTEST.jpg"
-  },
-  {
-   "id": "w-3d36c2d4492f4450",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T10:39:00+00:00",
-   "title": "France braces for new round of Yellow Vest, student protests",
-   "summary": "Two major protests have been announced for Saturday. One will see students and unions marching against high living costs, while the Yellow Vests plan to march separately, despite a police ban.",
-   "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-df01437ae377c6cf",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T10:36:32+00:00",
-   "title": "Sudan war and climate change see parents struggle to feed their children",
-   "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-   "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-1b7eca3ba38007de",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T10:36:19+00:00",
-   "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
-   "summary": "Ousted ex-President Santiago Peña was placed under house arrest on Friday after he was impeached over a major banking crisis.",
-   "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-   "img": ""
-  },
-  {
-   "id": "w-e61587bd33815ca3",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T10:31:05+00:00",
-   "title": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
-   "summary": "Roméo Lavia’s resurgence is not enough as injuries to other key players such as Moisés Caicedo are proving disruptive Xabi Alonso played for Pep Guardiola at Bayern Munich and was a key figure for Spain when their midfield dominated international football between 2008 and 2012. He does not need to be educated about the importance of control, but there has been a clear distinction between his identity as a player and how his Chelsea side have play",
-   "url": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
-   "img": "https://i.guim.co.uk/img/media/c200b2a8ebccfb6d7865c50f44c130e8f8794205/215_0_2526_2021/master/2526.jpg?width=140&quality=85&auto=format&fit=max&s=552c60f780d2bd2723a4468e1a0426b7"
-  },
-  {
-   "id": "w-6a03dbef89115165",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T10:17:53+00:00",
-   "title": "Pakistani astronaut to join China’s next space station mission",
-   "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-b75a8369fadc38a1",
-   "outlet": "The Guardian",
-   "section": "World",
-   "published_at": "2026-11-07T10:04:01+00:00",
-   "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-   "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a journalist shortly after his client had been found guilty of rape. Ian Winter KC “confronted” the Sunday Times journalist Rosamund Urwin, whose investigation led to Brand’s ",
-   "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-   "img": "https://i.guim.co.uk/img/media/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/master/1807.jpg?width=140&quality=85&auto=format&fit=max&s=a8a8468f7601eb8a03986edb9cefa0ed"
-  },
-  {
-   "id": "w-0dcf5e690b0eae8f",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T10:00:08+00:00",
-   "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-   "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid. DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshire project would draw 1GW – the equivalent output of a small nuclear reactor, or Britain’s",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
-   "img": "https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3ef7aa4b0036b9e0fb5e9137ca280cb4"
-  },
-  {
-   "id": "w-0bd1d2422ac382ce",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T10:00:08+00:00",
-   "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
-   "summary": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections Democratic lawmakers decried Stephen Miller as a “ hatemonger ”, a “ xenophobe ” and “ vile ” after Donald Trump appointed his most trusted adviser as White House chief of staff. On Friday afternoon, the US president abruptly announced via his Truth Social platform that Miller – the architect of his sweeping immi",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
-   "img": "https://i.guim.co.uk/img/media/4bf2fa47568a8900b9eab3de3b35711cc466232f/710_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=22ef00c2cb8e0d4235eae1f544f1fac2"
-  },
-  {
-   "id": "w-bef028bbd7f40d5d",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T10:00:07+00:00",
-   "title": "The datacentre arms race hits pause in south-east Asia",
-   "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a planned investment of $27bn. As the year has passed, however, what once seemed like a new indu",
-   "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-   "img": "https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b3dcfcb97fc179796641df3a7d439106"
-  },
-  {
-   "id": "w-414a1e4dd4c5277e",
-   "outlet": "NPR",
-   "section": "World",
-   "published_at": "2026-11-07T10:00:00+00:00",
-   "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-   "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2Fd6%2F9429fa5a4e848885d1ed84dab3ce%2F261016-data-center-turner-04.JPG"
-  },
-  {
-   "id": "w-c3e2fee14ed9ec13",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T09:48:11+00:00",
-   "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
-   "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-cc244f5a7f4469b0",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T09:41:23+00:00",
-   "title": "Pope urges healthcare for all in Uruguay",
-   "summary": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the continent’s most secular country. Jack Pownall reports.",
-   "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
-   "img": "https://s.france24.com/media/display/b2ce00a4-da8e-11f1-a2d2-695cb59fade5/w:1024/p:16x9/EN-20261107-101157-101324-CS.jpg"
-  },
-  {
-   "id": "w-009b8f3b4c3d0ab8",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T09:39:55+00:00",
-   "title": "AI Data centres face growing backlash",
-   "summary": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data centre as part of a two-day protest taking place across the continent. Jennie Shin reports.",
-   "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
-   "img": "https://s.france24.com/media/display/7b12b7e0-da8e-11f1-96c8-d18c5759e759/w:1024/p:16x9/EN-20261107-100946-101139-CS.jpg"
-  },
-  {
-   "id": "w-55647188719350fa",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T09:37:16+00:00",
-   "title": "Yemen: 30 dead in strikes on Taiz market",
-   "summary": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks and is home to around half of the more than 300,000 people displaced by the latest fighting. Caroline Baum reports.",
-   "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-   "img": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg"
-  },
-  {
-   "id": "w-9175a9d654b5a68b",
-   "outlet": "France 24",
-   "section": "World",
-   "published_at": "2026-11-07T09:36:25+00:00",
-   "title": "USA: Democrats vow to investigate Donald Trump",
-   "summary": "In this new era of divided government, Democratic lawmakers say their priorities will be tackling the rising cost of living, investigating alleged corruption and tightening oversight of ICE agents. Antonia Kerrigan reports.",
-   "url": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
-   "img": "https://s.france24.com/media/display/0fe04a50-da8e-11f1-9600-695cb59fade5/w:1024/p:16x9/EN-20261107-091022-091213-CS.jpg"
-  },
-  {
-   "id": "w-4af92177e792adac",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T09:35:00+00:00",
-   "title": "New Zealand election too close to call with half the votes counted",
-   "summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporting to prevent voters from being swayed at the last minute.",
-   "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-7e8cae907a904423",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T09:30:07+00:00",
-   "title": "China’s e-bikes boom as fuel prices rise",
-   "summary": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-d3b6674726b553ce",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T09:22:35+00:00",
-   "title": "US Secret Service arrests man parked near White House with 'multiple guns' in vehicle",
-   "summary": "The suspect has been charged with multiple offences, including possession of dangerous weapons and theft, per the DHS. He is in the custody of the US Marshals Service.",
-   "url": "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle",
-   "img": ""
-  },
-  {
-   "id": "w-5254504fb1e220e6",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T09:21:00+00:00",
-   "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-   "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
-   "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-dd513135aad4eb43",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T09:18:53+00:00",
-   "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-   "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-3664d8585fd4d963",
-   "outlet": "The Guardian",
-   "section": "Europe",
-   "published_at": "2026-11-07T09:15:35+00:00",
-   "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-   "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’ The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK. Campaign group the3million lodged papers at the high court on Friday after several cases emerged of EU citizens who were granted pre-settled status to remain in the country after Br",
-   "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-   "img": "https://i.guim.co.uk/img/media/838ba7f69956d265d77e9f70e4f810129f1225ec/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=359a51ab4e53c21874955230fb8034c0"
-  },
-  {
-   "id": "w-80a834cfcf036da0",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T09:08:00+00:00",
-   "title": "Germany news: Frankfurt braces for Iran protests",
-   "summary": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany's defense minister says he believes military conscription will not be needed. DW has more.",
-   "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-1acb364b7a00d3f6",
-   "outlet": "DW",
-   "section": "World",
-   "published_at": "2026-11-07T09:08:00+00:00",
-   "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
-   "summary": "Iranian opposition leader Reza Pahlavi accepted a peace prize in the name of the Iranian people in Frankfurt. Meanwhile, Germany's defense minister said he believes military conscription will not be needed. DW has more.",
-   "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-rdf",
-   "img": ""
-  },
-  {
-   "id": "w-f4d8438053ed674e",
-   "outlet": "The Guardian",
-   "section": "Technology",
-   "published_at": "2026-11-07T09:00:07+00:00",
-   "title": "TikTok accused of helping to promote sex industry to girls",
-   "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle TikTok is helping to promote and normalise the sex industry, allowing “sexfluencers” to post videos aimed at marketing pornographic content they have uploaded elsewhere on sites such as OnlyFans, a report indicates. After studying non-explicit content posted on TikTok over the course of a year by some of OnlyFans’ most popular young fema",
-   "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
-   "img": "https://i.guim.co.uk/img/media/4c15ad088ea9124f8235261941f6a598cbe96eb1/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=49db3bd2ae088c593641c5fcdf9fe21d"
-  },
-  {
-   "id": "w-8dcae9bceb93efd7",
-   "outlet": "The Guardian",
-   "section": "Americas",
-   "published_at": "2026-11-07T09:00:06+00:00",
-   "title": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
-   "summary": "Senior British politicians and officials highlight potential to end Iran war but warn US president is not yet ‘a spent force’ Andy Burnham was having dinner at the Commonwealth summit in Antigua when the results of the US midterm elections started rolling in. UK government officials in the Caribbean with the prime minister scrolled through their phones with growing incredulity as the scale of the Republicans’ defeat became clear. Continue reading",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
-   "img": "https://i.guim.co.uk/img/media/b076067a192f5c67274d494db6ff5d8abab610fc/390_0_3290_2632/master/3290.jpg?width=140&quality=85&auto=format&fit=max&s=034db0609ae0b95626b90a55746a946b"
-  },
-  {
-   "id": "w-efcd184cc68d8ccb",
-   "outlet": "Al Jazeera",
-   "section": "World",
-   "published_at": "2026-11-07T08:45:36+00:00",
-   "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-   "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-   "img": ""
-  },
-  {
-   "id": "w-30b205c069df40aa",
-   "outlet": "The Guardian",
-   "section": "Sport",
-   "published_at": "2026-11-07T08:36:06+00:00",
-   "title": "New Zealand reach Women’s Rugby League World Cup final as Waaka hat-trick sinks Samoa",
-   "summary": "Kiwi Ferns defeat Fetu Samoa 32-0 in semi-final Centre Waaka scores three of Kiwi Ferns’ seven tries A Stacey Waaka hat-trick has helped secure New Zealand their place in the Women’s Rugby League World Cup final. The Kiwi Ferns were rarely threatened in their 32-0 victory over an inexperienced Fetu Samoa in Newcastle, running away with it late with four tries in the final 12 minutes on Saturday afternoon. The dual international Waaka made the mos",
-   "url": "https://www.theguardian.com/sport/2026/nov/07/new-zealand-kiwi-ferns-samoa-womens-rugby-league-world-cup-semi-final-match-report",
-   "img": "https://i.guim.co.uk/img/media/606ff372d370870a6921f7f038b53e5f1dc7dcf4/7_0_3507_2805/master/3507.jpg?width=140&quality=85&auto=format&fit=max&s=053831147f8b0d129cf11d1e0e7846b9"
-  },
-  {
-   "id": "w-cd035c1a5352e0a9",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T08:33:53+00:00",
-   "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
-   "summary": "In New Zealand, people cast a party vote as well as an electorate vote in a general election. With their electorate vote, New Zealanders vote for a candidate to represent their local electorate in parliament. They also vote for the party they want to be in government.",
-   "url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
-   "img": ""
-  },
-  {
-   "id": "w-a343e6bbcb0daf84",
-   "outlet": "Euronews",
-   "section": "Europe",
-   "published_at": "2026-11-07T08:30:39+00:00",
-   "title": "Hackers probed Europe’s fridge systems weeks before cyberattacks. Who did it and what could they target next?",
-   "summary": "The attacks exposed basic security weaknesses in connected refrigeration systems, but experts warn that similar vulnerabilities could put everything from supermarket equipment to hospital and data centre infrastructure at risk.",
-   "url": "https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-",
-   "img": ""
   }
  ]
 }
