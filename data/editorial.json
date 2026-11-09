@@ -3767,6 +3767,14 @@
         [
           "Telex",
           "https://telex.hu/ugynokaktak/2026/11/04/szita-karoly-kaposvar-fidesz-polgarmester-ugynokakta"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/szita-karoly-ugynok-akta-reakcio/hs3bnyj"
         ]
       ],
       "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/32c04cd8-15c3-491b-b238-bd995f920802.jpg",
@@ -3882,37 +3890,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-3574b808e42eff28ee",
-      "r": "Belpolitika",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T16:01:56+00:00",
-      "t": "Szita Károly reagált, hogy neve szerepel a nyilvánosságra hozott ügynökaktákban",
-      "s": "Kaposvár polgármestere, Szita Károly szerint nincs új a neve alatt most közzétett állambiztonsági dokumentumokban. A fideszes politikus videóban reagált, és arra hivatkozott, hogy 2005-ben feljelentést tett az iratok manipulálása miatt.",
-      "p": [
-        "A Nyitott Akták néven elérhető, szerdán nyilvánosságra hozott adatbázisban Szita Károly neve is szerepel. A polgármester Facebook-videójában azt mondta, hogy „nincs ebben semmi új”, és emlékeztetett rá, hogy az ügy már 2005-ben is támadások célpontja volt.",
-        "Szita szerint azóta minden választás előtt, négyévente újra előkerült a téma, a kaposváriak mégis ötször választották újra. Hozzátette, hogy harminckét éve áll a város élén.",
-        "Állítása szerint 2005-ben feljelentést tett a Központi Nyomozó Ügyészségen. Ahogy fogalmazott, az ügyészség megállapította, hogy az iratokat manipulálták és bűncselekményt követtek el, de a tettes kiléte nem volt azonosítható. Ezt a polgármester közlése alapján ismertetjük, az ügyészségi határozat maga nem szerepel a forrásokban.",
-        "A nyilvánosságra hozott, 6-os számú karton szerint Szita Károlyt 1980. július 1-jén, 23 évesen szervezték be „titkos megbízott” minőségben. A Somogy Megyei Rendőr-főkapitányság III/II. osztálya „Krakus Péter” fedőnevet adott neki, a dokumentum szerint pedig a nyilvántartás 1989. május 9-ig tartott.",
-        "A téma nem most került elő először. Szita állambiztonsági múltja 2004-ben már nyilvánosságra került, 2005-ben pedig Ungváry Krisztián történész kutatásai nyomán több cikk is foglalkozott vele. 2018-ban a Magyar Nemzet is közölt és idézett a vele kapcsolatos iratokból."
-      ],
-      "cav": "A források nem mondják meg, hogyan kerültek elő a dokumentumok, és mennyire teljesek. A manipulálásról és a 2005-ös ügyészségi megállapításról csak a polgármester állítását ismerjük, független forrás ezt nem erősíti meg. A kartonok tartalmát is csak a közzétett szövegek alapján, közvetve ismerjük.",
-      "op": "Ha egy állambiztonsági irat hitelességét évtizedek után is vita övezi, a kérdés nem tűnik el attól, hogy valaki ismét elhárítja. Szita Károlynak joga van a védekezéshez, de a nyilvánosságnak joga van tudni, ki és miért manipulálta az iratokat, és miért maradt a tettes 2005-ben névtelen.",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/politika/magyar-politika/szita-karoly-ugynok-akta-reakcio/hs3bnyj"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": "",
-      "ai_edited": true
-    },
-    {
       "id": "rss-a001b47574f0ed5566",
       "r": "Külföld",
       "c": "Hírpult",
@@ -3974,37 +3951,6 @@
       "imgs": "24.hu",
       "imgl": "https://24.hu/kulfold/2026/11/04/trump-felidos-valasztas-fox-news/",
       "cred": "Kép: 24.hu – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-bd7d8d14bd726f9129",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 4.",
-      "published_at": "2026-11-04T16:23:00+00:00",
-      "t": "Szita Károly szerint nincs új az ügynökvád, a történész szerint a karton egyértelmű",
-      "s": "A 32 éve hivatalban lévő kaposvári polgármester tagadja, hogy ügynök lett volna. Állambiztonsági iratai újra kereshetővé váltak, és a Portfolio szerint a történész Ungváry Krisztián szerint a feltöltött kartonból egyértelműen kiderül a beszervezés.",
-      "p": [
-        "Szita Károly kaposvári polgármester szerint az ellene felhozott ügynökvád nem újdonság. Reagálása arra szól, hogy a kereshetővé vált állambiztonsági iratok között szerepel az ő 6-os kartonja, és mágnesszalagon is van róla adat, a Portfolio beszámolója szerint.",
-        "A városvezető azt mondta: „Nem voltam ügynök, soha nem ártottam senkinek.” Hangsúlyozta, hogy 2005-ben már hasonló vádakkal próbálták ellehetetleníteni, és szerinte ezt a választások előtt rendszeresen megismétlik. Mint mondta, 2005-ben feljelentést tett a Központi Nyomozó Ügyészségen, amely megállapította, hogy az iratokat manipulálták. A tettes kilétét azonban nem sikerült azonosítani.",
-        "Az ügyben Ungváry Krisztián történész is megszólalt, aki már 2005-ben kikérte és tanulmányozta Szita kartonját és kézzel írt jelentéseit. A 24.hu kérdésére most úgy fogalmazott, hogy a feltöltött 6-os karton gazdag adattartalma önmagában egyértelműen bizonyítja a beszervezés tényét. Érvként a napló-, dosszié- és irattári számot említette.",
-        "A beszámoló szerint Szita Károly megbízatása 1980-as beszervezése után kilenc évvel, 1989-ben szűnt meg. Ez az időrend a cikk egyik kiegészítő mondatában szerepel, külön forrás megjelölése nélkül.",
-        "A rendelkezésre álló összefoglalóból nem derül ki, hogy a kartonban szereplő adatok pontosan mit tartalmaznak, és hogy az ügyészségi eljárás lezárult-e, illetve mi lett az eredménye. A polgármester állításait és a történész értékelését is a nyilvánosságban elérhető információk alapján lehet megítélni, az iratok teljes körű elemzése nélkül."
-      ],
-      "cav": "A forrás összefoglalója csak részletekben tartalmazza a történetet, és a 2005-ös ügyészségi megállapításokat Szita Károly saját szavai alapján közli, nem független dokumentum alapján. A beszervezés időpontja és a megbízatás megszűnése egy kiegészítő mondatból származik, ezért másodkézből, megerősítés nélkül szerepel.",
-      "op": "Ha egy közszereplő ügynökmúltját a nyilvános iratok már kereshetővé tették, a kérdés nem az, hogy kellemetlen-e a vád, hanem az, hogy az iratok valóban mit mutatnak. A tisztázás a tényeken múlik, nem a sértettségen, és a választók jogos igénye, hogy ezt teljes nyilvánosságban lássák.„]",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306"
-        ]
-      ],
-      "img": "https://pcdn.hu/articles/images-xl/d/_/y/d-yt20260316077-866932.jpg",
-      "imgs": "Portfolio",
-      "imgl": "https://www.portfolio.hu/gazdasag/20261104/kaposvari-polgarmester-nem-voltam-ugynok-soha-nem-artottam-senkinek-874306",
-      "cred": "Kép: Portfolio – eredeti cikk",
       "ai_edited": true
     },
     {
@@ -6507,6 +6453,327 @@
       "imgs": "444",
       "imgl": "https://444.hu/2026/11/09/magyar-szerint-lezsak-kozpenzekhez-valo-viszonyat-lehet-vitatni-bizonyosan-fogjak-is-ezt-vizsgalni-de-erdemei-elevulhetetlenek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "cred": "Kép: 444 – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-f1d717367c000f97a1",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:50:00+00:00",
+      "t": "Hétfőn elhunyt Palánkai Tibor, az MTA rendes tagja, a magyar felsőoktatás és közgazdaságtan meghatározó alakja",
+      "s": "Életének 89. évében, hétfőn elhunyt Palánkai Tibor közgazdász, a Magyar Tudományos Akadémia rendes tagja. A hírt az MTI közölte, a tudományos élet és az egyetemi oktatás évtizedeken át meghatározó alakjaként emlékeznek rá.",
+      "p": [
+        "A Blikk beszámolója szerint Palánkai Tibor hétfőn hunyt el, 89 éves korában. A tragikus hírt az MTI terjesztette, a Portfolio pedig az MTA hétfői közleményére hivatkozva ismertette az életrajzi adatokat.",
+        "Palánkai Tibor 1938-ban született a Bács-Kiskun megyei Jakabszálláson. Közgazdászi oklevelet 1960-ban szerzett a Marx Károly Közgazdaságtudományi Egyetemen, ugyanebben az évben az intézmény oktatója lett, és hosszú időn át részt vett a következő közgazdász-nemzedékek képzésében.",
+        "Egyetemi pályafutása során 1977 és 1983 között tudományos rektorhelyettesi feladatokat látott el, 1983 és 1995 között pedig a Világgazdasági Tanszék vezetőjeként dolgozott. 1982-ben egyetemi tanárrá nevezték ki, a Blikk szerint 1997 és 2000 között rektori tisztséget töltött be.",
+        "Tudományos előmenetelének főbb állomásai: 1973-ban a közgazdaság-tudomány kandidátusa, 1986-ban doktora lett. Az MTA 1995-ben levelező tagjai közé, 2004-ben rendes tagjai közé választotta.",
+        "Kutatásainak középpontjában a nemzetközi gazdasági integráció, a fejlett országok gazdasága és a kelet-közép-európai gazdasági átalakulás állt. A Portfolio szerint jelentős szerepet játszott az integrációelmélet továbbfejlesztésében, különösen a monetáris integráció kérdéseinek vizsgálatában.",
+        "Munkásságát több állami és szakmai elismeréssel is díjazták: 1994-ben Akadémiai Díjat kapott, 1998-ban a Magyar Köztársasági Érdemrend középkeresztjét, 2009-ben pedig Széchenyi-díjat vehetett át a közgazdaság-tudomány területén végzett munkájáért.",
+        "Amit érdemes tudni: a források a fő életrajzi adatokban nagyrészt egyeznek, de a rektori megbízatás éveiről csak a Blikk ír, a Portfolio nem. Az Origo és a HVG csupán rövid hírt közölt, a halál okáról, a körülményekről és a temetésről a rendelkezésre álló anyagok nem szólnak."
+      ],
+      "cav": "A források a fő életrajzi adatokban nagyrészt egyeznek, de a rektori megbízatás éveiről csak a Blikk ír. A halál körülményei, oka és a búcsúztatás időpontja a rendelkezésre álló anyagokból nem derül ki.",
+      "op": "Egy olyan tudóst gyászolunk, aki a magyar közgazdaságtant és az egyetemi képzést is évtizedekig formálta. Jó lenne, ha az elhunyt intézményei és a tudományos közösség nemcsak az elismerő szavakban, hanem a munkásságának nyilvános, hozzáférhető dokumentálásában is példát mutatnának.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261109_elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/palankai-tibor-meghalt-mta-rendes-tag-szechenyi-dij-kozgazdasz/fkgr620"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261109/elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja-875306"
+        ],
+        [
+          "Origo",
+          "https://www.origo.hu/itthon/2026/11/palankai-tibor-kozgazdasz-meghalt"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/594e4ef5-53b7-4e00-9d6f-c0b306c4dc41.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261109_elhunyt-palankai-tibor-kozgazdasz-az-mta-rendes-tagja",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-4850506b50c5fba4ca",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:47:11+00:00",
+      "t": "Négy gyanúsítottat vettek őrizetbe embercsempészés gyanújával, a hatóságok nem nevezték meg Orbán Áront",
+      "s": "A Nemzeti Nyomozó Iroda hétfő este közölte, hogy a hétfő reggeli akcióban elfogott négy embert bűnügyi őrizetbe vette, és letartóztatásukat kezdeményezi. A nyomozás Orbán Viktor öccséhez köthető, de a rendőrség nem erősítette meg, hogy Orbán Áron is az elfogottak között van.",
+      "p": [
+        "A Nemzeti Nyomozó Iroda (NNI) közlése szerint befejeződtek a kihallgatások, és mind a négy gyanúsítottat bűnügyi őrizetbe vették. Az elfogott négy ember egy élettársi kapcsolatban élő férfi és nő, valamint két feltételezett bűntársuk. Az akció Budapesten, Fóton és Dunakeszin zajlott, ahol a rendőrök összesen négy ingatlanban tartottak házkutatást.",
+        "A gyanú szerint a négy ember 2024-ben, több hónapon át segített vietnámi állampolgároknak abban, hogy vízumot kapjanak Magyarországra, majd Nyugat-Európába jussanak. A hatóságok szerint a vízumügyintézést a magyarországi külképviseleteken segítették, személyenként úgynevezett toborzási díjat kértek, az összeget pedig egymás között osztották fel. A vízumot igénylők rövid tartózkodásra és mikroképzésre kaptak engedélyt, de a nyomozás adatai szerint többen nem jelentek meg a képzésen, és a vízum lejárta előtt sem utaztak ki az országból.",
+        "A nyomozók szerint a négy gyanúsított több mint száz vietnámi állampolgárnak nyújtott segítséget. A házkutatások során dokumentumokat, elektronikus adathordozókat és más eszközöket foglaltak le. Az NNI Illegális Migráció Elleni Osztálya anyagi haszonszerzés céljából, bűnszövetségben elkövetett embercsempészés miatt folytat eljárást, és mind a négy elfogottat ezzel gyanúsítja. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) befolyással üzérkedés miatt indított eljárást, és az egyik férfit felbujtóként gyanúsítja. Az NNI szerint valamennyi gyanúsítottal szemben személyi szabadságot korlátozó kényszerintézkedést terveznek.",
+        "Az ügy azért került a figyelem középpontjába, mert a sajtóértesülések szerint az egyik gyanúsított Orbán Áron, Orbán Viktor volt miniszterelnök öccse. A HVG fotóriportere hétfő este egy rendőrautóból fényképezte le Orbán Áront a budapesti Gyorskocsi utcai fogda előtt. A rendőrség és az ORFK közleménye viszont nem nevezte meg a gyanúsítottakat, és nem erősítette meg, hogy Orbán Áron közöttük van. Az NVVH elnöke, Unger Anna sem erősítette meg vagy cáfolta az értesüléseket. Orbán Áron üzleti környezetéből származó források szerint a hétfői akciót megerősítik, de azt nem tudták megmondani, hogy őt ténylegesen őrizetbe vették-e.",
+        "Orbán Viktor a közösségi oldalán azt írta, hogy a történet a figyelemelterelés eszköze, és hogy „a célpont én vagyok, az öcsém csak eszköz”. Magyar Péter, aki a Facebookon először osztotta meg, hogy sajtóinformációk szerint őrizetbe vették Orbán Áront, a volt miniszterelnök reakcióját bírálta. A Fidesz-es Hidvéghi Balázs szerint politikai megrendelésre zajlik az eljárás, Novák Előd pedig jogállamisági kérdésnek nevezte, hogy az őrizetbevételről a miniszterelnöktől értesült a nyilvánosság. Tarjányi Péter biztonságpolitikai szakértő a nyomozás időzítését és a hatósági információk kiszivárogtatását bírálta.",
+        "A Telex emlékeztetett arra, hogy a lap 2025 májusában írt először Orbán Áron és üzlettársainak ügyéről. Szerintük a nyomozás egy kiszivárgott hangfelvétel nyomán indult, amelyen Orbán Áron a Miniszterelnöki Kabinetirodában Héjj Dáviddal beszélget, és a felvétel szerint vízumügyek intézésében érdekeltek. Ezt a lap saját állítása szerint, a hangfelvétel tartalmát a források nem igazolták függetlenül.",
+        "A beszámolók több ponton eltérnek egymástól. A Telex két helyszínről, a TEK által végrehajtott elfogásokról írt, az NNI közleménye viszont négy ingatlant említ. A gyanúsítottak személyéről szóló információk jelenleg is csak sajtóértesülésekre támaszkodnak, a hatóságok hivatalosan nem erősítették meg őket."
+      ],
+      "cav": "A gyanúsítottak kilétéről szóló információk a hatóságok hivatalos megerősítése nélkül, sajtóértesülésekre és fotókra támaszkodnak. A Telex hangfelvétel-állításait és a helyszínek számáról szóló eltéréseket a beszámolók nem tisztázzák, a vízumügyekről szóló részleteket pedig a nyomozás eddigi adatai alapján, előzetes gyanúként kell kezelni.",
+      "op": "Ha egy őrizetbevétel nevek nélkül, a sajtóból derül ki, az a nyilvánosság bizalmát roppantja meg, még akkor is, ha az ügy komoly. A gyanúsítottak személyét a hatóságnak kellene hitelesen közölnie, nem a kiszivárogtatott értesüléseknek. Ki felel azért, hogy a gyanú a politikai vitában eldőlni látszik, mielőtt a bíróság bármit mondott volna?",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/nni-orban-viktor-testvere-orban-aron-kihallgatas/l52vxdz"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/09/orban-aron-gyanusitottak-orizet-nemzeti-nyomozo-iroda-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/09/orszagos-rendor-fokapitanysag-nemzeti-nyomozo-iroda-gyanusitott-orizetbe-vetel-letartoztatas/"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261109_orizet-gyanusitott-orban-aron-ugy"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261109/1794256455-temp-mnlmkep001kodihiaoi_cimlap-normal.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/09/orban-aron-gyanusitottak-orizet-nemzeti-nyomozo-iroda-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal",
+      "cred": "Kép: Telex – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-7b2ada767a8ba23212",
+      "r": "Külföld",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:46:49+00:00",
+      "t": "Magyar Péter Berlinben: a második világháború óta nem volt ennyire bonyolult a nemzetközi helyzet",
+      "s": "Magyar Péter miniszterelnök szerint Európa történelmi fordulóponthoz érkezett, a nemzetközi helyzet a második világháború óta nem volt ennyire bonyolult és veszélyes. A kijelentést hétfőn, Berlinben, a Konrad Adenauer Alapítvány State of Europe rendezvényén tette, a berlini fal leomlásának 37. évfordulóján.",
+      "p": [
+        "A kormányfő német nyelvű beszédében arról beszélt, hogy a kontinens a háború utáni nyolc évtizedben élte meg történelme legnagyobb béke- és jóléti korszakát, most viszont alapjaiban rázkódik meg. Szavai szerint Európa „akár akarjuk, akár nem” új fordulóponthoz érkezett. A Blikk és a Portfolio egyaníasan idézi a beszéd fő gondolatait.",
+        "Magyar Péter a kihívások között a nagyhatalmi versengést, a háborúkat, a technológiai függőségeket és a világrend átalakulását említette. Ezek mellett szerinte a kontinens saját társadalmi, gazdasági és demográfiai gondjai is felhalmozódtak, a régóta megoldatlan migrációs kérdések pedig meggyengítették a tagországok egymás iránti bizalmát. Az európai politikai vezetésről azt mondta, sokáig úgy viselkedett, mintha a figyelmeztetések maguk jelentenék a megoldást, a szükséges intézkedések pedig sorra elmaradtak.",
+        "A beszédben a kormányfő saját kormányzásának eredményeit is felsorolta. Ezek szerint a Tisza Párt választási győzelme után a kormány megnyitotta az utat a 16,4 milliárd eurónyi zárolt uniós forrás előtt, a dunai vízszintemelési beavatkozással pedig elhárította a Paksi Atomerőmű leállásával fenyegető energetikai krízist. Ezeket az állításokat a beszéd alapján közölték, a forrásokban független ellenőrzésük nem szerepel.",
+        "Az európai szuverenitás feltételeként Magyar Péter az önálló védelmi képességeket, a technológiai függetlenséget, az élelmiszer-biztonságot, az olcsó energiát és az adminisztratív terhek csökkentését sorolta fel. A határon túli magyarok jogainak védelmét és a Nyugat-Balkán integrációját is alapvető érdeknek nevezte. A migrációval kapcsolatban a külső határok következetes védelmét és a védelemre nem jogosultak visszaküldését sürgette, az Európai Bíróság Magyarországra kirótt napi egymillió eurós bírságát pedig elfogadhatatlannak mondta.",
+        "A beszéd szerint a politika lényege a polgárok meghallgatása és szolgálata. Magyar Péter a klasszikus baloldal–jobboldal felosztás helyett három politikai magatartást különböztetett meg, és a demokratikus rendszerkritikát ajánlotta. Állítása szerint több mint százezer emberrel találkozott az elmúlt években, az áprilisi választáson pedig a Tisza 141 mandátumot szerzett a 199 fős Országgyűlésben. A Portfolio a teljes szöveget a Kormányzati Kommunikáció által megküldött leiratból közölte, ezért a beszéd szövege kormányzati forrásból származik."
+      ],
+      "cav": "A források a miniszterelnök beszédéről számolnak be, a 16,4 milliárd eurós forrásról, a Paks-ügyről és a találkozók számáról szóló állításokat nem ellenőrizték. A Portfolio közölte, hogy a leiratot a Kormányzati Kommunikáció küldte meg, így a szöveg nem független forrás. A cikkekből nem derül ki, hogy az európai partnerek hogyan reagáltak a beszédre.",
+      "op": "A miniszterelnök helyesen beszél a bizalom szerepéről, de a bizalmat nem beszéddel, hanem ellenőrizhető adatokkal lehet visszaszerezni. Ha a zárolt uniós forrásokról, a Paks körüli intézkedésről és a bírságról szóló állítások megalapozottak, a dokumentumokat a nyilvánosság elé kell tárni. Addig a diagnózisok helyett a közpénz felhasználásáról kell számot adni.„]",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/magyar-peter-berloin-beszed-europa-jovoje-unios-birsag/5jbksjp"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261109/magyar-peter-berlinben-a-masodik-vilaghaboru-ota-nem-volt-ennyire-bonyolult-es-veszelyes-a-nemzetkozi-helyzet-875304"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261109/tisza-kormany-orizetben-orban-viktor-occse-berlinben-mondott-beszedet-magyar-peter-875036"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261109_magyar-peter-berlini-fal-beszed"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/kulfold/2026/11/09/magyar-peter-berlin-biztonsag/"
+        ],
+        [
+          "Index",
+          "https://index.hu/kulfold/2026/11/09/magyar-peter-berlin-europa-beszed-masodik-vilaghaboru-migracio/"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/d/e/b/debre20261109001-868040.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261109/magyar-peter-berlinben-a-masodik-vilaghaboru-ota-nem-volt-ennyire-bonyolult-es-veszelyes-a-nemzetkozi-helyzet-875304",
+      "cred": "Kép: Portfolio – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-7508e2651353846d87",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:38:54+00:00",
+      "t": "Szoboszlai Dominik megérkezett Telkibe, a térde állapota továbbra is bizonytalan",
+      "s": "A Liverpool középpályása hétfő este csatlakozott a magyar válogatott telki edzőtáborához, miközben a vasárnapi sérülés súlyossága még nem tisztázott. A Liverpool és az MLSZ sem közölte a hétfői vizsgálatok eredményét.",
+      "p": [
+        "Szoboszlai Dominik hétfő este megérkezett a magyar labdarúgó-válogatott telki edzőközpontjába. A Nemzeti Sport beszámolója szerint a csapatkapitány az autóból szállt ki a telki edzőközpontban, a 24.hu pedig azt írja, hogy a játékos fotókkal és rövid üzenettel jelezte az érkezését az Instagramon. A bejegyzést a Magyar Labdarúgó Szövetség is megosztotta.",
+        "A háttér az, hogy a futballista vasárnap, a Crystal Palace elleni bajnokin, 3–1-re megnyert mérkőzésen a 69. percben lecserélte őt Andoni Iraola, a Liverpool vezetőedzője. A spanyol szakember a meccs után úgy nyilatkozott, hogy a térde nincs száz százalékos állapotban, a Nemzeti Sport szerint pedig fáradtságról és túlterhelésről is beszélt. A két beszámoló tehát nem teljesen azonos hangsúlyokkal írja le ugyanazt a helyzetet.",
+        "Szoboszlai hétfő délelőtt orvosi vizsgálaton vett részt, az MLSZ ezt előzetesen be is jelentette. Az eredményről azonban sem a Liverpool, sem a magyar szövetség nem adott ki újabb tájékoztatást, így egyelőre nyitott, hogy játszhat-e a következő mérkőzéseken. A forrásokból az sem derül ki pontosan, milyen sérülésről van szó, és hogy az október közepén, a Brentford elleni meccsen jelentkezett problémával mennyiben azonos.",
+        "A részletek azért fontosak, mert a csapat a Nemzetek Ligája B divíziójában még két mérkőzés előtt áll. Szombaton Georgia vendége lesz, majd kedden a Puskás Arénában Észak-Írországot fogadja. Marco Rossi együttese négy forduló után egy ponttal marad el az éllovas északírektől, így a csoportgyőzelem és az azzal járó feljutás a saját kezükben van.",
+        "A válogatott keretében a szakmai stáb korábban már lecserélte Szoboszlait a Grúzia elleni találkozón, a Nemzeti Sport szerint a fáradtság jeleit érzékelve. Ezek az információk együtt azt mutatják, hogy a játékos körül már régóta bizonytalanság van, a hivatalos magyarázat viszont még hiányzik."
+      ],
+      "cav": "A hétfői orvosi vizsgálat eredményéről egyik forrás sem ír, így a játékos állapotáról és a szombati játéklehetőségről nincs megerősített információ. A térdsérülés pontos jellege és az, hogy a korábbi problémával azonos-e, a beszámolók alapján nem egyértelmű, és a Nemzeti Sport a fáradtságra, a 24.hu a térdre helyezi a hangsúlyt.",
+      "op": "Egy nemzeti válogatott kapitányának egészségi állapota nem magánügy, amikor a szurkolók és a szövetség pénze is a mérkőzésekhez kötődik. Az MLSZ és a Liverpool hallgatása diszkréciónak tűnhet, de valójában információs hiány, amelyet a közvélemény joggal kifogásol. Az MLSZ-nek közölnie kell, mire számíthat a szurkoló szombaton Tbilisziben.„]",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/09/nemzetek-ligaja-szoboszlai-dominik-vizsgalatok-magyar-valogatott-liverpool/"
+        ],
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/magyar-valogatott/2026/11/szoboszlai-dominik-megerkezett-a-valogatott-edzotaboraba"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/sport/magyar-foci/szoboszlai-dominik-magyar-valogatott-magyarorszag-mlsz-magyar-labdarugo-szovetseg/rpvyzhc"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/szoboszlai-gettyimages-2304110170-1024x576.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/11/09/nemzetek-ligaja-szoboszlai-dominik-vizsgalatok-magyar-valogatott-liverpool/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-95b3661b4d27eb4d65",
+      "r": "Belpolitika",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:36:00+00:00",
+      "t": "Új főigazgatót kapott a Nemzeti Információs Központ",
+      "s": "A kormány új vezetőt állított a Nemzeti Információs Központ élére, a döntés a hétfői Magyar Közlönyben jelent meg. A kinevezés kedden lép hatályba.",
+      "p": [
+        "A Közlöny szerint Orosz László Pétert Magyar Péter nevezte ki a szervezet főigazgatójává. A javaslatot Ruff Bálint tette, aki a Miniszterelnökséget vezeti.",
+        "A dokumentumból az is kiderül, hogy Baka András nemzetbiztonsági dandártábornok rendfokozatba helyezte Orosz Lászlót és Bertalan Tamást, szintén kedd hatállyal. Az Index beszámolója ezt a lépést említi, a forrásokból viszont nem derül ki pontosan, milyen jogkörben járt el.",
+        "A Nemzeti Információs Központ 2022-ben alakult a Terrorelhárítási Információs és Bűnügyi Elemző Központ (TIBEK) értékelő-elemző központ átszervezésével. Korábban Rogán Antal felügyelte, az új kormány megalakulása után azonban Ruff Bálint irányítása alá került.",
+        "A Portfolio összefoglalója szerint a szervezet nem végez műveleti munkát, inkább a rendészeti és titkosszolgálati szervek adatait dolgozza fel, elemzi, és ezek alapján készít jelentéseket a kormánynak. Ezen túl a repülőtéri utasadatok kezelése és az ETIAS rendszerrel kapcsolatos feladatok is hozzá tartoznak, valamint ő tehet javaslatot a terrorveszély besorolására.",
+        "Az elődjét, Hatala Annát Magyar Péter július elején mentette fel. A cikkekből nem derül ki, milyen szempontok alapján választották ki az új vezetőt, és arról sincs szó, hogy a kormány változtatna-e a szervezet működésén."
+      ],
+      "cav": "A kinevezés részleteit a Magyar Közlöny alapján közlik a források, az Index és a Portfolio egyaránt kedd hatályt említ. Baka András szerepe a rendfokozat-adományozásban nem teljesen tiszta a cikkekből. A kinevezés indokairól egyik forrás sem ír.",
+      "op": "A nemzetbiztonsági szervek vezetése nem hétköznapi közügy, hiszen ezek a szervek a legérzékenyebb információkat kezelik. Ha a döntés csak a Közlönyben jelenik meg indoklás nélkül, az átláthatóság ígérete nem ellenőrizhető. Mikor kapunk érdemi magyarázatot arra, miért éppen ez a vezető került a NIK élére?",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/09/orosz-laszlo-peter-magyar-peter-kinevezes-nemzeti-informacios-kozpont-foigazgato-ruff-balint-baka-andras-bertalan-tamas/"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261109/kineveztek-a-nemzeti-informacios-kozpont-uj-foigazgatojat-875310"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/6949/69492/694924/69492483_5128205_76e32bcd9228c03013771eaef5c2fd20_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/09/orosz-laszlo-peter-magyar-peter-kinevezes-nemzeti-informacios-kozpont-foigazgato-ruff-balint-baka-andras-bertalan-tamas/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-c44e67e0cb4cc60b29",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:32:00+00:00",
+      "t": "Szoboszlai Dominik megérkezett Telkibe, a sérülése ellenére jó eséllyel játszhat a Nemzetek Ligájában",
+      "s": "A magyar válogatott csapatkapitánya hétfőn orvosi vizsgálatokon vett részt, az Index szerint pedig az esti órákban már az edzőtáborban volt. A lap értelmezése szerint ez azt jelezheti, hogy a játékos bevethető a következő Nemzetek Ligája-mérkőzéseken.",
+      "p": [
+        "Szoboszlai Dominik vasárnap a Liverpool Crystal Palace elleni, 3–1-re megnyert Premier League-mérkőzésének második félidejében hagyta el a pályát. Az Index beszámolója szerint a 26 éves játékost korábban combhajlító-sérülés gyötörte, a mérkőzésen a jobb lábán rögzítőpánt volt, a lefújás után pedig a térdével kapcsolatos aggodalmak merültek fel.",
+        "Andoni Iraola, a Liverpool vezetőedzője szerint a játékos térde nincs teljesen rendben, ezért az orvosok vizsgálatára van szükség. Az idézett szavai szerint a csapatkapitány mindent megtesz a szereplésért: „Tudom, hogy ő mindent megtesz a szereplésért”.",
+        "A vizsgálatokra hétfő délelőtt került sor, miközben a válogatott más tagjai is megérkeztek Telkibe. Az Index a játékos Instagram-posztjára hivatkozva írja, hogy Szoboszlai az esti órákban szintén az edzőtáborba érkezett. A lap ebből arra következtet, hogy az orvosok zöld jelzést adhattak, a vizsgálatok eredményéről azonban a cikk nem közöl részleteket.",
+        "A magyar csapat szombaton Grúzia vendége lesz a Nemzetek Ligája B divíziójának ötödik fordulójában, kedden pedig az észak-írek érkeznek a Puskás Arénába. Marco Rossi együttese mindössze egy ponttal van Észak-Írország mögött, az első hely pedig az A-ligába jutást jelentené."
+      ],
+      "cav": "A forrás egyetlen cikk, amely a játékos állapotáról nem tartalmaz orvosi nyilatkozatot, így a bevethetőség a lap saját következtetése. A cikk a combhajlító- és a térdsérülésről is ír, de nem tisztázza egyértelműen, melyik a jelenlegi probléma.",
+      "op": "A válogatott sorsdöntő meccsei előtt a klub és a szövetség feladata lenne pontosan közölni, mi a játékos állapota. Egy Instagram-poszt és egy jó eséllyel megfogalmazott sejtés nem elég ahhoz, hogy a szurkolók tudják, számíthatnak-e rá. Az átláthatóság itt is a bizalom alapja.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/sport/futball/2026/11/09/szoboszlai-dominik-liverpool-magyar-valogatott-mlsz-kozlemeny-nemzetek-ligaja-merkozesek/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7248/72486/724861/72486111_5341487_a7e92f57b10f19951fa36f19bf5b35db_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/sport/futball/2026/11/09/szoboszlai-dominik-liverpool-magyar-valogatott-mlsz-kozlemeny-nemzetek-ligaja-merkozesek/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-52b4d5f117fae86c4b",
+      "r": "Belpolitika",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:18:53+00:00",
+      "t": "Fotók szerint Orbán Áront rendőrautóban vitték a Gyorskocsi utcai fogdához, a hatóság nem erősítette meg",
+      "s": "Hétfő este rendőrautóban fényképezték le Orbán Áront, amint a budapesti Gyorskocsi utcai fogdához érkezett. A hatóságok eddig nem nevesítették, hogy ő is a négy elfogott személy között van.",
+      "p": [
+        "Hétfő este a HVG fotóriportere egy rendőrségi mikrobusz hátsó ülésén kapta lencsevégre Orbán Áront, Orbán Viktor volt miniszterelnök öccsét. A felvételek szerint a Gyorskocsi utcai fogdához vitték, ahová a Készenléti Rendőrség gyanúsítottakat szállító járműveinek konvojával érkeztek meg a házkutatások és kihallgatások után.",
+        "A rendőrség közleménye szerint az NNI és az NVVH közös akciójában négy embert vettek őrizetbe Budapesten, Fóton és Dunakeszin. A közzétett videókon kitakart arcú emberek láthatók, és a hatósági tájékoztatás sem nevezte meg Orbán Áront. A fotók tehát rendőri intézkedésre utalnak, de a személyére vonatkozó hivatalos megerősítés egyelőre hiányzik.",
+        "A nyomozás két külön eljáráshoz kapcsolódik. Az NVVH befolyással üzérkedés, az NNI Illegális Migráció Elleni Osztálya pedig embercsempészés gyanúja miatt indított ügyet. A gyanú szerint a négy személy 2024-ben, hónapokon át segített vietnámi állampolgároknak abban, hogy Magyarországon keresztül Nyugat-Európába jussanak. Állításuk szerint a magyar külképviseleteken zajló vízumügyintézésben működtek közre, és személyenként úgynevezett toborzási díjat kértek, amelyen osztoztak.",
+        "Az Index beszámolója szerint Magyar Péter miniszterelnök Facebook-oldalán tudatta, hogy sajtóinformációk alapján Orbán Viktor testvérét embercsempészet gyanújával vették őrizetbe. Orbán Viktor, a Fidesz elnöke szintén közösségi oldalon reagált: szerinte valójában ő a célpont, az öccse csak eszköz, és úgy látja, „nem elszámoltatás, hanem leszámolás” zajlik.",
+        "Az ORFK közlése szerint a vízumok birtokosainak állítólagos célja rövid távú mikroképzésben való részvétel volt. A rendőrség viszont úgy véli, hogy többségük nem is ment el a képzésre, és a valódi cél mindannyiuk esetében a Nyugat-Európába jutás volt. A négy gyanúsított eddigi adatok szerint több mint száz vietnámi embernek nyújtott ebben segítséget.",
+        "A Telex értesülése szerint hétfő reggel a Terrorelhárítási Központ emberei egy Orbán Áron cégéhez köthető fótligeti ingatlanhoz is kimentek. Unger Anna, az NVVH vezetője sem megerősíteni, sem cáfolni nem akarta a híreket. Annyit közölt, hogy a hivatal újabb cselekményeket hajtott végre az üggyel kapcsolatban, és később ad tájékoztatást.",
+        "A Telex saját korábbi cikkei szerint Orbán Áron és üzlettársai körüli ügyet már 2025 májusában feltárták. Az újabb nyomozás egy kiszivárgott hangfelvételből indult, amelyen Orbán Áron a Miniszterelnöki Kabinetirodában Héjj Dáviddal beszélget. A felvétel állítólag arról árulkodik, hogy Orbán Áron és társai vízumügyekben érdekeltek voltak, és több vízumkérelmüket a hatóságok blokkolták. Ezek az állítások a források szerint nincsenek független forrásból megerősítve."
+      ],
+      "cav": "Orbán Áron őrizetbe vételéről rendőrségi videók szólnak, de ezeken a gyanúsítottak nem ismerhetők fel, és a hatóságok a személyét sem erősítették meg. A politikai bejelentés és Orbán Viktor reakciója másodkézből, a beszámolókon keresztül ismert. A hangfelvételről és a korábbi nyomozásról szóló részek nem független ellenőrzésen alapulnak.",
+      "op": "Ha a hatóságok nem nevezik meg a gyanúsítottat, a fotók és a politikai bejelentések nem pótolhatják a hivatalos eljárást. Az ügy nyomasztó, mert a nyilvánosság a névtelen képekből és a pártpolitikai üzenetekből értesült előbb, nem az eljáró szervek közleményeiből. Ha az állam komolyan veszi az elszámoltatást, a vízumügyek és a gyanú részleteit kell tisztán feltárnia, nem a politikai csatározásban.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/politika/magyar-politika/orban-viktor-occse-orban-aron-fogda-foto-rendorseg-orizetbe-vetel/dpb6yf3"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/09/orban-aron-gyorskocsi-utca-fogda-rendorseg/"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/09/orban-aront-este-a-gyorskocsi-utcai-fogdaba-vittek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/09/lefotoztak-orban-aron-gyorskocsi-utcai-fogda"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7248/72487/724875/72487559_5341581_291f2a0ebd7794c9e5cc9270019ecbf6_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/09/orban-aron-gyorskocsi-utca-fogda-rendorseg/",
+      "cred": "Kép: Index – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-74c4f19c50dc240c6b",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 9.",
+      "published_at": "2026-11-09T20:18:08+00:00",
+      "t": "Megérkezett Telkibe Szoboszlai Dominik, a vizsgálatok eredményét azonban még nem közölték",
+      "s": "A Liverpool magyar csapatkapitánya a vasárnapi Crystal Palace elleni mérkőzés után térdsérülés gyanújával vizsgálatra került. Hétfő késő este a válogatott edzőközpontjába érkezett, az orvosi eredményekről viszont egyik szervezet sem adott tájékoztatást.",
+      "p": [
+        "Szoboszlai Dominik vasárnap kezdőként játszott a Crystal Palace elleni Premier League-mérkőzésen, ahol gólpasszal segített csapatának a 3–1-es győzelemben. Az első félidőben a térdéhez kapott, és a második félidőben bekötött térddel folytatta, majd a 69. percben Andoni Iraola lecserélte.",
+        "A Liverpool edzője a mérkőzés után azt mondta, hogy a játékos térde nincs teljesen rendben, ezért óvatosságra van szükség, és orvosi vizsgálatok várnak rá. Emellett finoman utalt arra is, hogy nem örülne, ha Szoboszlai a válogatottban játszana.",
+        "Hétfőn a Magyar Labdarúgó-szövetség közleményben jelezte, hogy a játékos az ilyenkor szokásos protokoll szerint vizsgálatokon vesz részt. Délután a többi válogatott játékos megérkezett a telki edzőközpontba, Szoboszlai azonban nem volt köztük, ami aggodalmat keltett a szurkolók körében.",
+        "A késő esti órákban a Liverpool csillaga Instagram-bejegyzésében „Back in Town” szöveggel jelezte, hogy visszatért Telkibe. Ez a beszámoló szerint azt valószínűsíti, hogy részt vehet a következő két Nemzetek Ligája-mérkőzésen, de ezt hivatalosan nem erősítette meg senki.",
+        "A magyar válogatott szombaton Georgia vendégeként lép pályára, a sorozat zárásaként pedig három nappal később Észak-Írországot fogadja a Puskás Arénában. Az együttes négy forduló után egy ponttal marad el a listavezető északírektől, így a csoportgyőzelem és a feljutás a saját kezében van."
+      ],
+      "cav": "A vizsgálatok eredményéről sem az MLSZ, sem a Liverpool nem adott tájékoztatást, így a játékos állapotáról és a szerdai-szombati részvételéről csak feltételezések vannak. A Telkibe érkezésből levont következtetés a forrás saját értelmezése, és az Instagram-bejegyzést sem független forrásból ellenőriztük.",
+      "op": "Egy válogatott csapatkapitány állapota nemcsak a klub és a szövetség belügye, hanem a szurkolóké is. Ha az orvosi vizsgálatok eredményét továbbra sem közlik, a találgatások veszik át a helyét. Joggal várhatjuk el, hogy a szövetség és a klub időben, ellenőrizhető módon tájékoztasson.",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/sport/sport-futball/2026/11/szoboszlai-dominik-serules-valogatott-helyzetjelentes"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/maUfPJVrqSTgcx8OGEFaQM00rnvkai0uCW24AIRn6Qg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Q5Y2Y5OGIyZGRkNTRkZDBiN2I2YmFhMjY5YWVkNWJm.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/sport/sport-futball/2026/11/szoboszlai-dominik-serules-valogatott-helyzetjelentes",
+      "cred": "Kép: Origo – eredeti cikk",
       "ai_edited": true
     }
   ]
