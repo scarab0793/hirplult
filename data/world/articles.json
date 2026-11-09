@@ -1,6 +1,261 @@
 {
- "updated_at": "2026-11-09T14:18:52.460621+00:00",
+ "updated_at": "2026-11-09T23:33:43.483212+00:00",
  "items": [
+  {
+   "id": "w-d360149389ef4dd0",
+   "member_ids": [
+    "w-d360149389ef4dd0",
+    "w-2ecf841fedbcee54"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-09T23:20:29+00:00",
+   "t": "Trump says FBI is looking into Nvidia chief Jensen Huang’s affair with alleged Chinese spy",
+   "s": "US President Donald Trump said the FBI is looking into the relationship between Nvidia’s chief executive and an alleged Chinese spy, as Nvidia’s shares fell. Beijing has rejected the claims.",
+   "p": [
+    "Donald Trump said on Monday that the FBI was investigating the affair between Jensen Huang, the boss of chipmaker Nvidia, and a woman US authorities allege is a Chinese spy. Trump said he had spoken to Huang that day and asked him whether he knew the woman was a spy. According to Trump, Huang said he had no idea. Trump said he believed him, though he gave few details of the FBI inquiry and did not say when it had begun. The BBC has contacted the FBI, and the bureau’s response was not reported in the evidence.",
+    "The woman is Alice Huang, also known as Huang Le, who the New York Times reported is a managing director of Megaspeed, a Singaporean company that has had dealings with Nvidia. Citing US intelligence officials, the newspaper said they believe she was spying for Beijing. It also reported that Secretary of State Marco Rubio sent a memo to senior officials last spring warning about the relationship. These claims come from the newspaper’s reporting and have not been independently confirmed in the evidence. Alice Huang and Jensen Huang are not related.",
+    "China’s foreign ministry rejected the allegations that Huang was targeted, calling them groundless and speculative. Nvidia has said it had no reason to believe its secrets or national security had been compromised, and it has launched an internal investigation. In an email to employees on Sunday, Huang admitted the affair, said he was sorry for hurting his wife and children, and pledged to cooperate with the company’s probe.",
+    "Several congressional committees have asked Huang to attend a closed-door briefing next week on Nvidia’s security protocols and his dealings with Megaspeed’s executive. It is unclear whether he will attend. The BBC has contacted Nvidia and the committees, and neither had responded in the reporting provided.",
+    "Support for Huang has come from some prominent figures in technology and finance. Elon Musk and investors including Shaun Maguire and Bill Ackman publicly defended him, with Maguire describing the affair as a serious mistake and Ackman saying Huang should not get a free pass. Trump also said he believed Huang would stay on as chief executive.",
+    "Markets reacted sharply. Nvidia shares fell 4.2 per cent on Monday, closing at their lowest level since 7 April, as investors questioned Huang’s future. Nvidia is one of the world’s most valuable companies and is central to the current tech boom, and its chips are at the heart of US export restrictions on sales to China. The company’s standing with regulators and lawmakers may now depend on what the FBI and Congress find."
+   ],
+   "cav": "The FBI inquiry is confirmed only by Trump’s own remarks, and the evidence gives no details of its scope. The claims that Alice Huang spied for Beijing rely on unnamed US officials as reported by the New York Times, and China denies them. Huang’s account of the affair comes through his email and Trump’s retelling of their call.",
+   "op": "Public officials should not be the only source of assurances in a matter touching national security and US export policy. Trump’s word that Huang is honest is not an investigation. Transparency from the FBI, Nvidia and Congress is what will show whether the chip industry’s most important company was truly safe.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+  },
+  {
+   "id": "w-c6647f048eaf527c",
+   "member_ids": [
+    "w-c6647f048eaf527c"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-09T22:58:31+00:00",
+   "t": "Trump says US war in Iran is ‘effectively over’ and escalation is not needed",
+   "s": "Donald Trump has described the war in Iran as “effectively over”, downplaying fears that Washington would step up its military campaign against Tehran once the midterm elections were done.",
+   "p": [
+    "Donald Trump has told reporters that the conflict with Iran has essentially ended, pushing back against expectations that the United States would intensify its campaign after the midterms, according to The Guardian.",
+    "Speaking at a White House press conference, Trump argued that Israel and Gulf allies were well shielded from Iranian threats and that new strikes were not necessary for now. He nonetheless said American forces were positioned and prepared to act for any reason.",
+    "His comments came after a meeting in the Oval Office with the Qatari prime minister, Mohammed bin Abdulrahman Al Thani. Qatar has joined other Gulf states in urging Washington not to restart hostilities. The Guardian reports that the Qatari leader spoke of progress toward ending the conflict within a short timeframe, though the summary does not make clear whether that remark was his or Trump’s.",
+    "The outlet also points out that Trump has repeatedly suggested a final peace agreement was close, doing so dozens of times over a war that has now lasted close to nine months.",
+    "US troop deployments to the region continued in the weeks before the vote. Some commentators speculated that the administration was holding off on renewed fighting until after the ballot to avoid a political backlash. Republicans then suffered a heavy defeat, losing control of both chambers of Congress, and Vice-President JD Vance publicly blamed the Iran war as a major factor.",
+    "Earlier in the day, Trump posted on Truth Social that Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait would favour keeping the current arrangement, which he described as a long-running naval blockade. He reiterated that Iran must not acquire a nuclear weapon and said Washington could return to full-scale operations if conditions changed, while calling such a move unlikely."
+   ],
+   "cav": "This account rests on a single outlet, and the sources do not describe the negotiations, the terms under discussion or conditions on the ground. It is also unclear from the summary whether the “fairly soon” remark came from Trump or from the Qatari prime minister, although the headline attributes it to Trump.",
+   "op": "A claim that the war is “effectively over” should be tested against facts, not applause, especially from a leader who has repeatedly predicted an imminent deal. Before the public accepts that fighting has ended, the administration should set out plainly what has been agreed, what remains unresolved, and what would trigger renewed strikes. Transparency is the only real test.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b6e8e114809ae6a1208d9050901c18957d8b648d/269_0_3983_3188/master/3983.jpg?width=140&quality=85&auto=format&fit=max&s=a7905f32e879226b8bd6716b80ca6682",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+  },
+  {
+   "id": "w-8583188719848333",
+   "member_ids": [
+    "w-8583188719848333"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-09T21:37:02+00:00",
+   "t": "Republican congressman moves to force House impeachment vote on Defence Secretary Hegseth",
+   "s": "Representative Thomas Massie plans to bring impeachment articles against Defence Secretary Pete Hegseth to a House vote this week, a step widely expected to fail. Massie says his aim is to prompt President Donald Trump to replace Hegseth before Democrats take control of Congress.",
+   "p": [
+    "Republican Thomas Massie of Kentucky formally filed articles of impeachment against Defence Secretary Pete Hegseth on the House floor on Monday, according to the BBC. He accuses Hegseth of breaching the US Constitution.",
+    "Massie argues that Hegseth has been waging hostilities in Iran for more than 90 days without authorisation from Congress, and says that makes the defence secretary answerable under the law. Asked why he was pressing ahead, Massie told reporters he was acting on principle.",
+    "Few observers expect the effort to succeed, since Republicans keep their majorities until January. Massie's stated goal is to push Trump into dismissing Hegseth before Democrats can open an impeachment inquiry of their own.",
+    "Hegseth struck a dismissive tone. He said he was unconcerned, and told reporters he would hold a news conference on Tuesday morning on the subject. The BBC notes that his previous news conference took place in May.",
+    "Massie lost his re-election bid earlier this year. He has been a vocal critic of Trump and of the Iran conflict, which began almost nine months ago, and he has also pressed the administration to release federal files on Jeffrey Epstein. The articles, as reported, accuse Hegseth of intimidating critics of the administration, of seizing foreign leaders and of disregarding War Powers resolutions. The BBC did not independently verify these allegations.",
+    "Once the resolution is filed, House Speaker Mike Johnson has to set a date to take it up within two days. Members may vote on it outright, send it to committee, or shelve it. House Democrats look likely to support it, and their leader Hakeem Jeffries said he would be a firm supporter. Massie himself said he was unsure there were enough votes to pass it.",
+    "Peter Loge, a public affairs professor at George Washington University, told the BBC that the measure could clear the House because the Republican margin is so narrow, and that some frustrated Republicans may stay away from the vote. Paul Gowder, a law professor at Northwestern University, said impeachment has become more frequent as American politics has grown more polarised, and predicted several more of Trump's cabinet members could face it.",
+    "Removing a cabinet secretary requires approval by both chambers. The House has impeached only two cabinet members in US history, and the Senate convicted neither. A conviction needs two-thirds of senators, a bar Democrats would not reach in January without Republican votes. Gowder suggested the current Senate could confirm a replacement if Hegseth left before the new session, while Loge said Hegseth's chances of serving out Trump's term are slim."
+   ],
+   "cav": "The allegations are Massie's claims as set out in the articles, and the BBC report does not confirm them. Hegseth's only response in the sources is that he is unconcerned, and the content of his planned news conference is not described. The expected outcome is also contested, as Loge expects the House to pass the measure while Massie is unsure it has the votes.",
+   "op": "Serious accusations against a cabinet secretary deserve a full, transparent process, not a rushed vote aimed at getting ahead of a rival party. Congress should test the claims on the record, and Trump should explain publicly how he will address the questions the articles raise.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+  },
+  {
+   "id": "w-bfba74fdc28fbe1a",
+   "member_ids": [
+    "w-bfba74fdc28fbe1a",
+    "w-3b0d941dd87544cb"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-09T20:42:04+00:00",
+   "t": "Steel plant blast in western Turkey kills at least 17 workers",
+   "s": "At least 17 people have died and more were hurt after an explosion and fire at an iron and steel plant in Aliaga, near Izmir in western Turkey. Officials say the blast followed a crane accident during work at the site.",
+   "p": [
+    "The explosion happened around midday at the Habas Demir Celik plant in Aliaga, a port district of Izmir province. According to the BBC, the victims were all workers at the facility, one of Turkey’s leading steel producers. Footage from the scene showed a large fire inside the plant and a tall column of smoke.",
+    "The Izmir governor, Süleyman Elban, said a crane carrying a replacement boiler had collapsed, sending materials into a furnace below. Euronews, citing President Recep Tayyip Erdoğan’s televised address, reported the same sequence. The company that runs the plant said the accident occurred during scheduled maintenance on one of its electric arc furnaces.",
+    "Casualty figures have shifted. Erdoğan first put the death toll at 16. Health Minister Kemal Memişoğlu later said one critically injured person had died, raising the total to 17. The number of injured is reported differently: the BBC gives 12, while Euronews gives 13, including two in critical condition.",
+    "Elban told reporters that some people were believed to still be trapped under the rubble, and search and rescue work continued. Izmir mayor Cemil Tugay said on X that teams were working to remove the collapsed platform.",
+    "Erdoğan confirmed the deaths after a cabinet meeting and said investigations were under way. He said the circumstances, including whether there was negligence and who bears responsibility, would be established. The BBC’s Turkish service, citing local media, reported that at least five people had been arrested. Those arrests have not been confirmed by the authorities in the sources available.",
+    "The Turkish Health and Safety Labor Watch, an independent civil society group, said workplace accidents remain a chronic problem in Turkey. Euronews described the Habas group as privately owned, and said the plant was founded in 1987 and can produce 4.5 million tons of steel a year, according to the company’s website. That capacity figure comes from the company itself and has not been independently verified in these reports."
+   ],
+   "cav": "The sources differ on the number of injured (12 or 13) and on the arrests, which rest on local media reports relayed by the BBC. The cause is described by officials and the company, and the investigation has not yet reported findings.",
+   "op": "When workers die in an industrial blast, the public is owed a clear account of who inspected the equipment and who approved the work. Investigators should publish their findings, and any negligence should be answered for under the law, not left to a statement of regret.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/a-huge-explosion-at-a-steel-factory-in-western-turkey-has-left-at-least-17-people-dead-and"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+  },
+  {
+   "id": "w-a03f51e0c78eaadd",
+   "member_ids": [
+    "w-a03f51e0c78eaadd"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-09T20:27:07+00:00",
+   "t": "Nvidia founder Jensen Huang admits affair as board opens national security probe",
+   "s": "Nvidia chief executive Jensen Huang has admitted an affair after reports that he may have been targeted by a suspected Chinese intelligence asset. The company’s board has launched an independent investigation, and analysts say his position could be at risk.",
+   "p": [
+    "For more than three decades, Jensen Huang has been the public face of Nvidia, which he co-founded in 1993 and grew into one of the most valuable chipmakers in the world. He has also kept the company close to his family, with his children Madison and Spencer holding senior roles and his wife, Lori Mills Huang, running the family foundation, which is reported to control more than 60 million Nvidia shares as of 2024.",
+    "That image was badly damaged this weekend. The New York Times reported at the end of October that Huang may have been targeted by a Chinese intelligence asset with whom he had developed a close relationship. In a letter to employees on Sunday, Huang acknowledged that he had been having an affair.",
+    "The Times reported that US officials had suspected Huang of helping to smuggle American chips into China and had monitored Alice Huang, an executive at Singaporean datacentre firm Megaspeed. According to the reporting, officials allegedly concluded during that surveillance that she was a Chinese spy and had become close to the Nvidia leader. Earlier, a company spokesperson had said there was nothing out of the ordinary about his interactions with her. Megaspeed did not respond to a request for comment before publication.",
+    "In his letter, Huang said he supported the investigation, wrote that he took full responsibility for the hurt he had caused, and apologised to his family. Nvidia’s board has now launched an independent inquiry into the national security concerns linked to the relationship.",
+    "Analysts and investors quoted in the report said Huang could be removed as chief executive depending on the outcome. Dan Ives of Yorkville Ives described it as a “black eye moment” that could prompt congressional inquiries and weigh on the share price. Ken Mahoney of Mahoney Asset Management compared Huang’s role at Nvidia to that of Steve Jobs at Apple, while warning that the bigger question was whether a successor could keep the company’s strategic direction.",
+    "Nvidia shares fell 7.5% at the opening of the market, wiping out more than $330bn in value, according to the report. Andy Challenger of Challenger, Gray & Christmas argued that the case was about judgment and national security exposure, not only personal morality.",
+    "In a statement, the board said it did not believe national security or company secrets had been compromised, and it expressed confidence in Huang and his leadership team, while promising further updates as appropriate."
+   ],
+   "cav": "The account of the alleged spy and surveillance comes from New York Times reporting as relayed by the Guardian, and the Guardian did not independently confirm it. Megaspeed had not responded, and the board’s finding that no secrets were compromised is a preliminary statement, not the outcome of the investigation. The talk of Huang’s possible removal is analysts’ speculation.",
+   "op": "A company’s leadership should not hinge on one executive’s private life, but when that life touches a national security inquiry, shareholders and the public are owed more than reassurance. The board’s independent investigation should be published in full, with its findings open to scrutiny. Confidence statements are no substitute for transparency.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=afdecc31729b9181eb40ced7efa95880",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia"
+  },
+  {
+   "id": "w-f7175dd579677815",
+   "member_ids": [
+    "w-f7175dd579677815"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-09T19:58:01+00:00",
+   "t": "Nvidia shares fall after board opens investigation into CEO Jensen Huang’s affair with alleged Chinese spy",
+   "s": "Nvidia’s share price dropped about 4% on Monday after the chipmaker’s board said it would investigate chief executive Jensen Huang’s relationship with a woman US officials reportedly believe was a Chinese spy. Beijing has rejected the claims.",
+   "p": [
+    "Nvidia’s market value fell sharply on Monday, with the stock down roughly 4% at the close, after the company said its board would run an independent inquiry into chief executive Jensen Huang’s relationship with an alleged Chinese spy. The BBC put the loss in market value at about $250bn (£190bn).",
+    "The probe followed press reports suggesting Washington believed Huang had been singled out in a Chinese espionage effort. Huang has acknowledged an extramarital affair, calling himself “unfaithful” and apologising to his wife and children. He said he remained committed to protecting the company and supporting US national security, and pledged to cooperate. Nvidia said it had no reason to think its secrets or national security had been compromised.",
+    "According to a New York Times report cited by the BBC, American intelligence officials believe Alice Huang, who also goes by Huang Le, worked for Beijing. She ran Singapore-based Megaspeed, a firm that has done business with Nvidia. The same account says Secretary of State Marco Rubio circulated a memo to senior officials last spring, cautioning that the chief executive had a close bond with a Chinese agent. The BBC noted that these assertions are not independently verified in the material it had.",
+    "Beijing has dismissed the accusations, with its foreign ministry calling them baseless and designed to besmirch China. On Capitol Hill, members of the House Foreign Affairs Committee have asked Huang to attend a private briefing about his contacts with Alice Huang and about how Nvidia guards against espionage. Three lawmakers, Brian Mast, John Moolenaar and Rick Crawford, wrote that the reports raise serious concerns about Chinese access to sensitive American technology and that Congress must establish how far national security may have been put at risk.",
+    "Other prominent tech executives, Elon Musk among them, have publicly backed Huang remaining in charge. Analysts quoted by the BBC expected the setback to fade. Victoria Fernandez of Crossmark Global Investments said investors were unlikely to desert a company so vital to the sector building hardware for emerging technologies, though she noted Nvidia has no obvious heir to Huang.",
+    "Governance is the sharper question. The BBC reported Huang holds only about 3.5% of the company, and because Nvidia has a single class of voting shares, that stake would not give him a veto over a board decision to remove him. That contrasts with founders such as Mark Zuckerberg of Meta and Musk of Tesla and SpaceX, who hold substantial stakes across several share classes. Fernandez doubted the board would move against Huang without clear evidence of wrongdoing linked to national security or intellectual property, though she expected a possible number two to be identified. Savers are also exposed: pensions and savings in index-tracking funds holding Nvidia can move with its share price."
+   ],
+   "cav": "The affair and the espionage claims come from a New York Times report that the BBC relayed, and the sources do not show independent confirmation of Alice Huang’s alleged role. China has denied the allegations, and Nvidia has not said what the investigation will examine or when it will report.",
+   "op": "A chief executive’s private conduct is his own business, but when it may intersect with alleged espionage, shareholders and lawmakers have a legitimate claim to facts. Nvidia’s inquiry should be genuinely independent and its findings published in full. Investors should not be reassured by a share price rebound; transparency must decide whether Huang stays.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
+  },
+  {
+   "id": "w-70bb2f5e3bb877a9",
+   "member_ids": [
+    "w-70bb2f5e3bb877a9"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-09T19:31:36+00:00",
+   "t": "Massie pushes for a House impeachment vote against Defense Secretary Pete Hegseth",
+   "s": "Kentucky Republican Thomas Massie has filed eight articles of impeachment against US Defense Secretary Pete Hegseth, opening the way for a possible House vote this week. The step follows months of criticism of Hegseth over the Iran war and other military operations.",
+   "p": [
+    "Thomas Massie, a Republican congressman from Kentucky who is leaving office and has frequently clashed with President Donald Trump, has pressed for a House vote to remove Pete Hegseth. According to The Guardian, Massie charges that the defense secretary waged war without congressional approval and misused the authority of his office.",
+    "Speaking on the House floor, Massie told colleagues that Hegseth had committed “high crimes and misdemeanors” and had carried out unlawful orders. The Guardian reports that Massie is expected to attract some Republican votes. Under House rules, a vote would have to be held by Wednesday at the latest.",
+    "Massie first filed the articles on 15 September. Speaker Mike Johnson then adjourned Congress before the measure could be considered. Republicans will keep their House majority until newly elected members are sworn in during January.",
+    "Hakeem Jeffries, the Democratic leader in the House who is widely tipped to become speaker, has described himself as a “hard yes” on impeachment. In an interview with ABC News on Sunday, he said Hegseth needs to leave his post.",
+    "On Monday, Hegseth addressed the Naval War College and unveiled changes to military training, arguing they would help officers wage war swiftly and with deadly precision. Trump, Vice President JD Vance and other Republican figures have blamed their heavy losses in last week’s midterm elections largely on the Iran conflict and its impact on household finances.",
+    "Hegseth answered his critics in a brief video posted on Thursday, calling the impeachment push an attempt at personal ruin and saying it would fail against him. The watchdog groups Common Cause and Citizens for Responsibility and Ethics in Washington contend that the video breaches the Hatch Act, which limits the use of public money for partisan purposes.",
+    "Massie’s resolution lays out further charges. It asserts that Hegseth bypassed Congress’s constitutional power to declare war through unauthorised strikes on Iran and Yemen. It also cites the deaths of more than 100 children at a school in Iran and accuses him of ordering suspected drug boats in the Caribbean sunk without rescuing their crews. The document further contends that the investigation and threatened prosecution of Democratic Senator Mark Kelly, over calls for troops to refuse illegal orders, violated the First Amendment, and it describes the alleged kidnapping of Venezuelan President Nicolás Maduro as unlawful."
+   ],
+   "cav": "The sources do not confirm whether the House vote will happen or how many Republicans will support it. The allegations, including the claim about child deaths in Iran and the legality of the Maduro operation, come from Massie’s resolution and are not independently established in the reporting.",
+   "op": "Impeachment is a grave remedy and should turn on whether an official broke the law, not on who is politically inconvenient. If Congress believes Hegseth acted without authorisation, it should weigh the evidence in public and vote on the record. Delaying the question again would tell voters that accountability depends on party loyalty.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
+  },
+  {
+   "id": "w-4bf48c10d46c669c",
+   "member_ids": [
+    "w-4bf48c10d46c669c"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-09T18:51:10+00:00",
+   "t": "Jensen Huang’s affair raises questions about Trump’s response to intelligence warnings",
+   "s": "The Nvidia co-founder has admitted an affair with a Chinese businesswoman said to have passed intelligence to Beijing. The Guardian’s editorial board argues that the White House’s failure to act on warnings demands an explanation.",
+   "p": [
+    "Nvidia co-founder Jensen Huang has admitted to an affair with Alice Huang, a Chinese businesswoman. According to the Guardian, she is said to have passed intelligence to Beijing. The paper describes the case as something close to a spy thriller, given Huang’s status as one of the most powerful figures in the technology boom.",
+    "According to the editorial, Donald Trump was briefed on the relationship and took no action. Asked whether he should have acted on the intelligence, the president replied: “No, I don’t think so.” The paper suggests that he may have seen the matter as a private breach of marriage vows, or that he chose to overlook it.",
+    "The editorial links the episode to Nvidia’s growing influence in Washington. Huang is described as a backer of Trump’s datacentre expansion, a donor to the White House ballroom project, and an ally in opposing safeguards on the technology. The Guardian says Nvidia’s chips, which became central to the race for tech supremacy, also became a national security issue once China joined the competition.",
+    "The paper recounts that the US imposed export controls on GPU sales to China in October 2022, and that Nvidia was effectively barred from selling to Beijing about thirty months later. It says Huang lobbied for looser rules, and that the White House then scrapped Biden-era global chip restrictions and allowed sales of Nvidia’s H200 processors to Chinese customers.",
+    "The Guardian reports that Megaspeed, a Singapore-based company whose executive was Ms Huang, was investigated in 2025 over suspected diversion of restricted Nvidia chips to China. Analysts at Culper Research argued in May that Megaspeed brought Nvidia substantial revenue, allegedly backed by Chinese financing. The editorial also says that more than $300bn was wiped off Nvidia’s valuation once Wall Street opened.",
+    "According to the paper, reports suggest the commerce department’s probe was halted after Nvidia contacted investigators. The editorial says Democrats, encouraged by their midterm success, are likely to seek answers, and that Congress has grounds to examine whether the administration knowingly set aside a foreign intelligence threat.",
+    "The editorial places the case within a longer history. It notes that diplomatic or military honeytraps have traditionally been more common than commercial ones, and that British intelligence agencies accused Beijing in 2008 of using sex to pressure businesses. The paper states that whether this has happened in the Huang case is unknown."
+   ],
+   "cav": "This is an editorial opinion, and its account of the intelligence claims is second-hand: the paper says Alice Huang is “said to have” passed intelligence to Beijing. The report that the commerce probe was halted rests on unnamed reports, and the editorial does not confirm whether any honeytrap took place.",
+   "op": "Whether a chipmaker’s lobbying shaped national security policy is a question of public trust, not partisanship. If the president knew of a possible security risk and chose inaction while easing export rules, Washington owes the public a full and transparent explanation.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/131_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=5cc65588e18a18b81a32194ec2137467",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings"
+  },
   {
    "id": "w-0daa9a6eefd5a965",
    "member_ids": [
@@ -882,296 +1137,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo"
-  },
-  {
-   "id": "w-0fd700b21f788ebe",
-   "member_ids": [
-    "w-0fd700b21f788ebe"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-07T22:19:59+00:00",
-   "t": "Israel’s president tasks opposition leader Eisenkot with forming government",
-   "s": "Isaac Herzog has handed opposition leader Gadi Eisenkot the first attempt at forming a coalition after the recent vote produced no majority for either major bloc. Eisenkot has four weeks to try.",
-   "p": [
-    "Herzog told the country he would give Eisenkot the first opportunity to assemble a new government. The decision followed a round of consultations with the parties after the vote left neither Eisenkot’s camp nor the camp of Prime Minister Benjamin Netanyahu with a working majority in the legislature.",
-    "The clock is now running. Eisenkot has 28 days to attempt the task, and the period can be extended by a further two weeks. Writing on X, the former military chief framed the moment as a call for a “national emergency government” and pledged to do all he could to meet that standard.",
-    "The arithmetic explains the stalemate. According to the BBC, Netanyahu’s Likud, together with its far-right and ultra-Orthodox partners, took 53 of the 120 seats. Eisenkot’s centrist Yashar party and three other Jewish opposition groups in his bloc took 48. The two Arab-led alliances, the United Arab List and the Joint List, won 19 seats between them, a record for Arab parties that the BBC linked to a jump in Arab voter turnout.",
-    "That result makes the Arab parties potential kingmakers, yet nearly every Jewish party had said before the vote that it would not join a government with them. Herzog’s office reported that incoming lawmakers recommended Eisenkot for the premiership 67 times and Netanyahu 46 times. The president is not bound to pick the leader of the largest party, and he has wide latitude to choose whoever he judges most likely to build a coalition.",
-    "The results point to three possible routes. One is a national unity government including both men. Another is a right-wing coalition drawing defectors from Eisenkot’s bloc. The third is an Eisenkot-led government propped up by the Arab parties. Speculation has grown that such a deal could be struck, although Eisenkot and all but one member of his bloc have previously ruled out serving with Arab parties. A deal with the ultra-Orthodox parties is also conceivable but would be hard to reach.",
-    "Israel has a precedent for power-sharing. In 2020, after three inconclusive elections, Netanyahu and his centrist rival Benny Gantz agreed to rotate the premiership between them. Herzog, for his part, urged the factions to accept that in present conditions “not every commitment and promise can be fulfilled”, arguing this would avoid another election. Between 2019 and 2022, Israel went to the polls five times."
-   ],
-   "cav": "The reports do not say whether any party will reverse its pledge not to work with the Arab parties, so that route remains speculative. The seat counts and recommendation figures are as reported by the BBC and the president’s office, and the 2020 precedent is background rather than a forecast.",
-   "op": "Herzog’s choice of Eisenkot, based on the publicly released tally of 67 to 46, is a defensible use of presidential discretion, and open reporting of that tally matters. The real test is whether the parties put stable governance ahead of their public vows. Voters who turned out in record numbers, Arab citizens included, deserve a government that does not treat their votes as untouchable.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
-  },
-  {
-   "id": "w-691b7d4bba1d29ee",
-   "member_ids": [
-    "w-691b7d4bba1d29ee"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-07T21:36:16+00:00",
-   "t": "Gloomy New Zealand voters deliver tightest election in years as major parties lose ground",
-   "s": "New Zealand has elected a new government amid widespread gloom, with record numbers of voters abandoning the two major parties. The result leaves no clear mandate, and the smaller parties could hold the balance of power.",
-   "p": [
-    "New Zealand voted in a new government on Saturday, with fog hanging over the capital, Wellington. According to the BBC, the mood among voters was as grey as the weather. Several people interviewed described apathy and dread. One 21-year-old, Imogen Vlutger, called the national mood “pretty flat”, and one man in his 40s said he had not voted at all.",
-    "Polling cited by the BBC suggests the sentiment is widespread. More than half of the country no longer sees New Zealand as a land of opportunity, according to a recent study that the BBC does not name, and a similar share fears the future will be worse. Many people told the broadcaster that the economy is struggling, jobs are scarce, and living costs have risen sharply.",
-    "The election itself reflected that frustration. A record number of voters deserted the two major parties, leaving neither with a clear mandate. Gains went to the left-leaning Greens, the right-wing libertarian Act Party and the centrist Opportunity Party. The Opportunity Party had never held a seat in parliament before, but it now has seven, which could give it the balance of power. Its leader, Quilae Wong, said voters had chosen to change New Zealand politics, and the party says it is willing to work with either major party.",
-    "It may be weeks before it is clear who will form the governing coalition and what deals have been made to do so. The BBC reports that the next prime minister will face a long list of problems.",
-    "Economists and researchers have described a country that was once known for its quality of life. University of Auckland professor Robert MacCulloch, a specialist in happiness economics, told the BBC that the lifestyle was good and that people could get by comfortably, even if they were not the highest paid.",
-    "The BBC describes a sharper decline in recent years, which many people linked to the Covid pandemic. Unemployment is at an 11-year high and still rising. For people under 24, the BBC reports, one in three either cannot find enough work or has none. Zainab Ali, chief executive of the support service Youth Inspire, said demand has never been higher, with waiting lists for its employment workshops running into the hundreds.",
-    "Healthcare and cost-of-living pressures were also cited. Household electricity bills have jumped, and the BBC reports that about a quarter of adults are skipping meals because of grocery prices, which it attributes partly to a supermarket duopoly. The article also points to a death in July of a man who collapsed in an emergency department toilet after a nine-hour wait."
-   ],
-   "cav": "The article does not say which parties will form the government, and the coalition talks are still unresolved. The study on national optimism and the polling are not named, and the BBC itself notes that the Wellington voters it spoke to may not be representative. Details of the emergency department death beyond the wait and the collapse are not given.",
-   "op": "Disillusion with politics is not a reason to disengage; it is a reason to demand openness. Whoever builds the next coalition should publish the deals that bring it together. Voters who feel ignored are owed clear answers, including on how a man could wait nine hours in an emergency department.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
-  },
-  {
-   "id": "w-be598de6f5ea5290",
-   "member_ids": [
-    "w-be598de6f5ea5290",
-    "w-b833d29e01a650ee"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T19:17:22+00:00",
-   "t": "Paraguay’s former president Santiago Peña charged over bank collapse links",
-   "s": "Prosecutors have charged Paraguay’s former president, Santiago Peña, over his alleged business ties to a collapsed online bank. Peña denies wrongdoing, and the case has sparked protests across the country.",
-   "p": [
-    "Paraguayan prosecutors have charged Santiago Peña, who was removed from office by the Senate, over his alleged links to Ueno Bank. The bank’s collapse left a large share of the population unable to reach their money, according to the reports.",
-    "Peña had offered to resign, but lawmakers, including members of his own party, voted to impeach him instead. Under the reports, that move stripped him of the immunity that ex-presidents usually enjoy. Impeachment charges alleged conflicts of interest, manipulation of regulatory oversight, the diversion of pension funds and a cover-up involving the central bank.",
-    "Prosecutors accuse him of breach of trust and mismanagement for personal gain. According to a second report, he is also accused of steering government deposits to Ueno Bank and downplaying its financial problems despite warnings. He is further accused of a conflict of interest over the appointment of a former Ueno director to lead the central bank. He is reported to have held shares in the holding company until last year.",
-    "Peña’s lawyer, Ricardo Preda, called the allegations a “reckless accusation” and said that in Paraguay a minister, not the president, decides where state money is deposited. A judge ordered Peña held in pre-trial custody and froze the assets of Peña and a co-accused, Carlos Carvallo, who faces the same charges plus falsifying government documents.",
-    "The central bank says it has begun repaying Ueno customers and that more than half have recovered their funds. The BBC estimates about three million depositors still cannot access savings and pensions. Thousands protested in Asunción and elsewhere, and earlier clashes saw police use tear gas and water cannons. Vice President Pedro Alliana has been sworn in as interim president and promised compensation for those affected. Some demonstrators objected that he comes from the same party as Peña.",
-    "Senate president Basilio Núñez said Peña was found guilty of dereliction of duty, a finding made by lawmakers rather than a court. Peña, in a video posted on X, said it was never his intention to betray public trust."
-   ],
-   "cav": "The reports differ on timing: the BBC says Peña was arrested on Friday, while the second report says he was charged and taken into custody on Saturday. Figures also vary, with the BBC citing about three million unable to access savings and the second report describing accounts held by nearly half of 6.5 million people. The “guilty” finding came from the Senate during impeachment, not a court, and the defence disputes all the charges.",
-   "op": "Peña is entitled to a presumption of innocence and a fair trial, and the charges remain untested. Still, the stripping of immunity and the frozen assets show that accountability is being pursued through the courts. Paraguayans deserve full transparency about who approved those deposits and why warnings were ignored.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
-  },
-  {
-   "id": "w-b652c1e8eeb105f6",
-   "member_ids": [
-    "w-b652c1e8eeb105f6"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T17:41:45+00:00",
-   "t": "Six killed and more than a dozen hurt in Kraków shooting, police say",
-   "s": "A gunman opened fire from a moving car in the main square of Kraków, Poland, killing six people and injuring more than a dozen, according to local authorities. The suspect was shot by police and detained, and no motive has been announced.",
-   "p": [
-    "Police began receiving reports at around 3 p.m. local time that someone in a car was shooting at random people entering the city’s main square, a major tourist destination, a police spokesperson said. The gunman fired from the vehicle near Słowacki Street, according to local reports, before officers confronted him near the intersection of Dietla and Stradomska streets.",
-    "Police said the man was wearing military-style attire and used military-type firearms. During the arrest, officers opened fire, and the man returned fire, leaving two police officers among the injured. Authorities said more weapons had been secured in his car. The suspect, who is also in hospital, has not been named by officials.",
-    "Initial reports gave a death toll of five. The regional Małopolska government later said the number of people killed had risen to six, and the Małopolskie region governor, Krzysztof Jan Kleczar, told Polsat News that 12 of the injured were in a life-threatening condition.",
-    "Prime Minister Donald Tusk said that “all circumstances” of the attack were being investigated and travelled to the city. Defence Minister Władysław Kosiniak-Kamysz said he was in contact with the interior minister, the voivode and the emergency services. President Karol Nawrocki said he expected a full explanation of the circumstances.",
-    "Police said the suspect was Polish and rebuked conspiracy theories circulating on social media. Onet, citing police, reported that the man had no identification documents on him and that his identity was established through operational work.",
-    "A man who gave his name as Konrad and said he witnessed the shooting told the news website Interia that he saw shots fired from the driver’s side window. He ran to a police station on the main square and found people lying on the floor inside. His account has not been independently verified.",
-    "The US ambassador to Poland, Tom Rose, described the shooting on X as a mass attack and expressed solidarity with the city. No motive has been announced, and the sources do not say whether the suspect acted alone."
-   ],
-   "cav": "Sources disagree on the death toll: one report cites five dead, while the regional government later said six. Several details, including the account of the witness and the description of the weapons, are second-hand or based on early police statements. The motive remains unknown.",
-   "op": "Attacks on crowded public spaces demand patient, transparent answers rather than speculation. Poland’s promise of a full explanation must be kept in public view, with a verified timeline that residents and the families of the victims can trust. Rebutting online conspiracy theories is only a start; the state owes the city clear facts as the investigation proceeds.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-  },
-  {
-   "id": "w-26814394bd585e33",
-   "member_ids": [
-    "w-26814394bd585e33",
-    "w-65b52f269725d31f"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T16:50:06+00:00",
-   "t": "Italian foreign minister says hackers published his personal data on the dark web",
-   "s": "Italy’s Foreign Minister Antonio Tajani says criminal groups have been releasing his private information and targeting his relatives. Prime Minister Giorgia Meloni has blamed pro-Russian hackers.",
-   "p": [
-    "Tajani wrote on X that, over several days, “cyber-criminals” had posted his personal details on the dark web while asking for more information about him. He argued that this put him at risk of new dangers and attempts to frighten him, though he did not describe what those dangers involved.",
-    "According to Tajani, the people behind the campaign are also going after his family. He connected the episode to Italy’s backing for Ukraine, saying that defending a sovereign state’s freedom and independence has made him a target for groups he called criminal.",
-    "Meloni publicly stood by Tajani and placed the blame on pro-Russian hackers. In a statement, she voiced serious worry about the trade in confidential material concerning government representatives and said it needed to be confronted firmly.",
-    "Meloni also flagged manipulated pictures that she said had been passed around by opposition members. She gave no information about what those pictures depicted.",
-    "Tajani did not say which kinds of information had been exposed. He indicated that the threat had not ended. He also raised the possibility that the attacks were a response to Rome’s work to shore up the digital protections of the Foreign Ministry, a point reported by Al Jazeera.",
-    "Tajani said his ministry was treating the matter seriously and was working with allied governments on a response. Al Jazeera also placed the affair in the context of a series of hoax bomb warnings across Europe, which have led to rerouted flights, alerts at broadcasters and sabotage of supermarket cooling equipment. Those sources do not tie these events to the data leak.",
-    "BBC News notes that Italy has supplied both humanitarian and military aid to Ukraine since Russia’s invasion."
-   ],
-   "cav": "The sources do not identify the hackers beyond Meloni’s attribution to pro-Russian actors, and they do not say what data was published or what the threats involved. Tajani’s link to Ukraine policy and the alleged opposition-shared images rest on his and Meloni’s own statements, without independent detail.",
-   "op": "A minister who says he is being intimidated over a political stance deserves a clear public account of what was exposed and who is responsible. If Rome wants to be trusted on security, it should share enough detail for independent scrutiny, not only condemnation.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
-  },
-  {
-   "id": "w-93a68188c9347541",
-   "member_ids": [
-    "w-93a68188c9347541",
-    "w-f0ee3859e44f66d2",
-    "w-f51ffab85332f09b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T16:06:58+00:00",
-   "t": "Shooting in Krakow’s main market square leaves at least six dead and wounded, police say",
-   "s": "At least six people were killed and about fifteen injured after a gunman opened fire from a car in the main market square of Krakow, Poland, on Saturday, according to police. The suspected shooter was wounded in an exchange of fire with officers.",
-   "p": [
-    "Police in Krakow, Poland’s second-largest city, said a man drove into the main market square at around 3 pm local time, which is 1400 GMT, and began shooting at people from inside the vehicle. Early reports from the scene varied. One broadcast account, drawing on Reuters, cited at least five dead, while DW reported at least six killed and fifteen injured, with the toll rising in later updates.",
-    "Police said the gunman was reportedly a Polish citizen who acted alone. Officers shot him, and he was being taken to hospital, according to the force’s statement on X. Among the wounded are police officers, DW reported.",
-    "Authorities initially urged people in the immediate vicinity to move to a safe place. Prime Minister Donald Tusk wrote on X that police were investigating the attack and described it as “tragic”. President Karol Nawrocki said his thoughts were with the victims, the wounded and their families.",
-    "Krakow lies about 250 kilometres from Warsaw and has more than 800,000 residents. It is a popular tourist destination, known for the main square, Wawel Castle and the cathedral on Wawel Hill. Al Jazeera’s brief report gave a figure of five dead and at least ten injured.",
-    "Reports say mass shootings are uncommon in Poland. Motive has not been stated in the material available so far, and the accounts of casualty numbers have not yet been reconciled."
-   ],
-   "cav": "The death and injury tolls differ between outlets, and the figures were still being updated when the reports were filed. The gunman’s motive and any wider background are not described in the sources, and the nationality claim is reported rather than confirmed.",
-   "op": "When a gunman fires at random people in a public square, the public needs a clear and timely account of what happened and why. Polish authorities should publish verified casualty figures and the findings of their investigation, so that public trust is not left to rumour.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
-  },
-  {
-   "id": "w-85ece2f5694e6af6",
-   "member_ids": [
-    "w-85ece2f5694e6af6"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-07T15:56:28+00:00",
-   "t": "New Zealand election leaves no clear winner as coalition talks loom",
-   "s": "Preliminary results from New Zealand's weekend election point to a deeply divided parliament, with neither major bloc holding a clear path to government. Official confirmation is not expected until late November.",
-   "p": [
-    "There was no clear winner after New Zealand’s general election on Saturday, and the leaders of the two major parties are preparing for negotiations on forming a coalition government.",
-    "Prime Minister Christopher Luxon’s centre-right National Party won 42 seats, the most of any party, according to preliminary results. That was still 19 short of the simple majority needed to govern. Its coalition partners, ACT and New Zealand First, would give the right-leaning side a slim lead over the left-leaning bloc if a deal could be reached.",
-    "Opposition leader Chris Hipkins, whose Labour Party won 36 seats, did not concede. He said the “shape of the next government” would remain uncertain “for a while”. The Greens were projected to win 16 seats, ACT 13, New Zealand First 12, the Opportunity Party 7 and Te Pāti Māori 5.",
-    "The campaign was shaped largely by the cost of living and unemployment. More than 99 per cent of votes had been counted by the time of reporting, with National and Labour close on vote share. The two major parties together took around 60 per cent, which the BBC described as historically low support.",
-    "Luxon congratulated Hipkins on a “very hard-fought race” and said he would lead a caretaker government until final results are confirmed. The electoral commission is not due to announce the official result until 27 November. Hipkins said the next parliament would require all sides to compromise.",
-    "The Opportunity Party, a centrist group, crossed the 5 per cent threshold to enter parliament for the first time. Its leader, Qiulae Wong, said it would work with either side, though it would first negotiate with the party that wins the most seats. The BBC described it as this election’s kingmaker.",
-    "Election law expert Andrew Geddis of the University of Otago said special votes, including overseas votes, would need to be processed over the next three weeks, and that the outcome could hinge on very fine margins in individual electorates. New Zealand’s mixed-member proportional system makes coalition governments the norm."
-   ],
-   "cav": "The source spells the Labour leader’s name inconsistently and gives only preliminary figures, so seat totals could change once special votes are counted. The claim that the Opportunity Party is a kingmaker is a description by the BBC and expert commentary, not a settled outcome.",
-   "op": "Coalition talks should wait for every vote to be counted and certified, and the commission’s timetable must be respected. Voters deserve transparent results before any deal is struck behind closed doors. The next government will only be legitimate if its making is open to scrutiny.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
-  },
-  {
-   "id": "w-44e883a35629d85d",
-   "member_ids": [
-    "w-44e883a35629d85d"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T15:37:50+00:00",
-   "t": "Six killed and 15 injured in Kraków Main Square shooting, Polish authorities say",
-   "s": "At least six people were killed and fifteen injured after a gunman opened fire on the main square of the Polish city of Kraków, according to authorities. The suspected gunman was shot by officers and taken to hospital.",
-   "p": [
-    "The regional government of Małopolska confirmed the casualty figures on Saturday evening. Among the injured were two police officers, one with a gunshot wound and another in very serious condition after three gunshot wounds, who was undergoing surgery, according to police.",
-    "A spokesperson for the local firefighters told Polsat News that the attacker fired from a passing car. Police said the gunman is a Polish citizen and denied reports that a second perpetrator was being sought.",
-    "Numerous police cars and ambulances gathered near St Mary’s Basilica, and a helicopter from the air ambulance service was dispatched to the site. The city office said rescue services were working on the Main Square while police carried out operations in several locations.",
-    "President Karol Nawrocki said he was “deeply concerned” by the events and that the head of the National Security Bureau was travelling to Kraków. The story is still developing, and further details are expected as they emerge."
-   ],
-   "cav": "The sources do not state a motive. The account of the shooting from a passing car comes from a firefighters’ spokesperson speaking to Polsat News, so it is second-hand. The municipal government and regional authorities gave differing sources for the initial information, and the death toll is described as “at least” six.",
-   "op": "A mass shooting in a city centre demands full, prompt disclosure of what happened and why. Officials should clarify the suspect’s circumstances and the police response, so that public trust rests on verifiable facts rather than rumour.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
-    ]
-   ]
-  },
-  {
-   "id": "w-8b62aafdbd54da12",
-   "member_ids": [
-    "w-8b62aafdbd54da12"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T15:06:59+00:00",
-   "t": "National Trust members back a tender for a new bank with stronger environmental standards",
-   "s": "Members of the National Trust have voted by a wide margin to seek a new banking partner, a decision aimed at the charity’s ties to Barclays. The trustees have backed the move, though the ballot does not bind them.",
-   "p": [
-    "At its annual general meeting on Saturday, the charity approved a resolution directing it to launch a competitive tender for its banking arrangements. The trustees supported the resolution, according to the Guardian’s report.",
-    "For the first time, the tender would make a demonstrable environmental record a condition for any incoming bank, with a focus on protecting wildlife and cutting emissions. Campaigners counted 53,256 votes in favour and 4,094 against, and argued that charities should hold their lenders to the same green standards they apply to investments and suppliers.",
-    "Not everyone sees the result as a decisive shift. Some sources said the tender is unlikely to start for at least a year, a timeline the report attributes to insiders rather than to the charity itself.",
-    "Sandy Nairne, the board’s deputy chair, told members that the ballot offers trustees a useful gauge of opinion but does not oblige them to act. He said the board would weigh the outcome together with the debate held at the meeting before deciding its next steps.",
-    "Drew James, who proposed the resolution and belongs to Christian Climate Action, described the result as a sign of growing pressure on non-governmental organisations to justify their partners. Supporters contend that keeping Barclays as bank sits badly with the trust’s public warnings about climate change and nature loss, and with its statutory purpose under the National Trust Act 1907.",
-    "Barclays defended its position, saying it was honoured to bank the charity and pointing to more than $300bn (£225bn) of sustainable and transition finance mobilised over three years. Campaigners question how much that total matters, noting that the bank’s latest annual report indicates fossil fuel firms can draw on the fund so long as the money is not earmarked for oil and gas work directly.",
-    "The trustees have also made clear that the tender will not be limited to specialist ethical lenders. In their view, none of those institutions currently offers the cash handling, lending capacity and payments infrastructure a body of the trust’s scale requires, so the major UK clearing banks must remain eligible.",
-    "Restore Trust, a members’ group, said the vote pulls the charity away from its central job of looking after historic buildings and countryside. Its chair, Cornelia van der Poll, made that criticism publicly."
-   ],
-   "cav": "The timing of the tender rests on unnamed insiders, and the report does not confirm when it will begin. The account relies on campaigners’ figures and on statements from Barclays and the trust, which have not been checked independently.",
-   "op": "A charity that urges the public to bank ethically should be prepared to meet that standard itself. The trustees have the final word, and they should publish clear criteria and a timetable, so members can see whether their vote carries weight beyond a signal.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
   }
  ]
 }
