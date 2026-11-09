@@ -1,6 +1,352 @@
 {
- "updated_at": "2026-11-08T18:04:02.669991+00:00",
+ "updated_at": "2026-11-09T14:18:52.460621+00:00",
  "items": [
+  {
+   "id": "w-0daa9a6eefd5a965",
+   "member_ids": [
+    "w-0daa9a6eefd5a965"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-09T14:10:00+00:00",
+   "t": "Nvidia shares fall as investigation opens into reports CEO was targeted by Chinese intelligence",
+   "s": "Nvidia has launched an independent investigation after reports that chief executive Jensen Huang was the target of a foreign intelligence effort, a claim China denies. Shares fell in premarket trading as the story spread.",
+   "p": [
+    "Nvidia said it was launching an independent investigation following reports that its founder and chief executive, Jensen Huang, had been the target of “a foreign intelligence effort”. According to the reports, that effort led to a romantic relationship between Huang and a Chinese woman, Alice Huang, who had allegedly been recruited to spy for China’s Ministry of State Security.",
+    "Huang has admitted an affair. In a statement he said he had been unfaithful to his wife and apologised to his family. He also said he was “fully committed to Nvidia” and would work to earn back employees’ confidence. China has denied the spying claims.",
+    "Alice Huang reportedly worked for Megaspeed, a datacentre company based in Singapore. Megaspeed has been suspected of routing Nvidia chips to China and evading export controls, though the reporting cited in the evidence does not establish that as fact. Jensen Huang has publicly criticised US export controls on advanced chips, arguing in May 2025 that they had been a failure.",
+    "The Financial Times reported that Alice Huang and a business partner, Kang Wei, sought investment in early 2025 for a south-east Asian data centre project worth several hundred million dollars. According to two investors, the pair said they had “no problem securing GPUs” and cited Alibaba as a client. A US hedge fund had claimed six months earlier that Alibaba secretly funded Megaspeed.",
+    "Markets reacted quickly. Nvidia ended last week worth $4.5tn, and shares were down around 6% in premarket trading, with more than $200bn potentially wiped from its value once Wall Street opened. Asian markets were recovering, with Japan’s Nikkei up 2.2% and Taiwan’s TAIEX up almost 5%. Elon Musk publicly backed a post by Sequoia partner Shaun Maguire that criticised Huang’s conduct.",
+    "Separately, Bloomberg reported that Alphabet is rolling out a broader range of its tensor processing units, custom chips used to develop and run software, which adds to competitive pressure on Nvidia. Prediction market Polymarket put the chance of Huang resigning or being removed by the end of the year at 15%."
+   ],
+   "cav": "The espionage link rests on reports and claims, not on any confirmed finding, and the investigation’s outcome is not yet known. The Alibaba funding claim comes from a hedge fund’s allegation made months earlier, and the investor accounts are second-hand. Market figures are premarket and may change.",
+   "op": "Whatever the facts of this affair, the public interest is in an independent inquiry that is transparent about its findings. Nvidia’s investors and the wider public deserve clear answers on export controls and on who was able to reach its chief executive. Speculation should not substitute for evidence.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=140&quality=85&auto=format&fit=max&s=38f5d69d097ceb497e05f287de44be52",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+  },
+  {
+   "id": "w-364ce3e80c46fc36",
+   "member_ids": [
+    "w-364ce3e80c46fc36"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-09T13:47:38+00:00",
+   "t": "Cop31 opens in Antalya as UN warns heat is building faster and the US stays away",
+   "s": "Climate talks in Antalya, Turkey, opened as the World Meteorological Organization reported that heat is building up in Earth's systems at a faster pace. The United States, which has withdrawn from the international climate framework, will again send no official delegation.",
+   "p": [
+    "The UN’s weather agency said the gap between the energy Earth receives from the sun and the energy it sends back has reached its largest level since measurements began. Releasing its global climate update as the summit got under way, it said 2026 was on course to rank among the four hottest years ever recorded.",
+    "According to the agency, average surface temperatures from January to September 2026 ran about 1.47C above the preindustrial level. Monthly sea surface temperature records were broken, and sea levels stood at their highest since record-keeping started. Oceans take in roughly 90% of the extra heat trapped by greenhouse gases, and 2026 is on track to be the tenth straight year of record ocean heat.",
+    "The agency warned that this heat build-up will intensify extreme weather, including heatwaves, droughts and tropical cyclones. António Guterres, the UN secretary general, said the world had moved into an era of severe climate extremes, pointing to a strong El Niño event layered on top of human-caused warming. He added that the people who have done least to cause the problem are suffering most.",
+    "Chris Bowen, Australia’s climate minister, is presiding over the negotiations in Antalya. Our colleague Adam Morton questioned him about the apparent contradictions in Australia’s record: a country with high emissions is leading the talks while still exporting fossil fuels and approving projects that add pollution.",
+    "Young activists at the summit also made their case. Janiely Truká, an Indigenous activist and poet from Brazil who advises Unicef Brazil on youth issues, said that for Indigenous communities the climate crisis threatens their way of life, their traditional knowledge and their future generations. She called for firm funding commitments, protection of Indigenous territories and easier access for young people to these negotiations.",
+    "The United States will again have no official government presence at the summit, the second year running. A White House official said the administration would not send anyone and criticised the summit for ignoring what it sees as the damage done by extreme climate policies. About 20 members of Congress travelling to Antalya have been refused the usual State Department support and are relying on philanthropic money. Democratic congressman Sean Casten, who is attending, described the situation as outrageous.",
+    "A recent UN report found that the US was the one major economy that did not cut or slow its carbon pollution last year, adding an extra 133m tons of planet-warming gases from coal, oil and gas. President Donald Trump has previously dismissed climate action as a scam. Finance is expected to be the most contentious issue, with developing countries pressing for money that wealthier nations would rather keep off the agenda."
+   ],
+   "cav": "The temperature and ocean figures come from a World Meteorological Organization update covering only January to September, so they are provisional. Several claims about the US and the summit come from live coverage and from quotes given by officials and lawmakers, and the sources do not independently verify them. The article does not say what outcomes the talks are likely to produce.",
+   "op": "Transparency at these summits matters as much as ambition. Delegates should publish agendas and funding arrangements early, and governments that talk about climate finance should show the money. Vague promises from any capital, including the host, will not protect the people already paying the price.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b3f3159ab0a860e887417ad5b49be2516c3b54e3/1592_647_5238_4195/master/5238.jpg?width=140&quality=85&auto=format&fit=max&s=46c730e4ed9a499f4f933d5608f91260",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates"
+  },
+  {
+   "id": "w-34ac4a1f64169d13",
+   "member_ids": [
+    "w-34ac4a1f64169d13"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-09T13:34:24+00:00",
+   "t": "Kraków shooting: Polish prosecutors widen probe as attacker dies in hospital",
+   "s": "Six people were killed when a gunman opened fire in Kraków’s main square over the weekend, and the 24-year-old Polish attacker has since died in hospital. Authorities say the investigation will continue to determine whether he acted alone.",
+   "p": [
+    "Polish investigators opened a terrorism case after a gunman from Ostrowiec Swietokrzyski, a town in southeastern Poland, fired on people in the city’s central square on Saturday afternoon, according to the Guardian’s live coverage. Six people lost their lives, one of them a Briton, and 17 others were wounded. Authorities later said the assailant, who had been hit during an exchange of fire with officers, died in hospital.",
+    "A national day of mourning was declared for the first of two planned days. Police said the bodies of three relatives were found at the attacker’s home: his father, 53, his mother, 52, and his 21-year-old sister. Among the wounded were nationals of Britain, Austria, Germany, Portugal and Russia, as well as two police officers, one of them in serious condition.",
+    "Interior minister Marcin Kierwiński said the suspect had been drawn to far-right ideas and held “very radical” views. Those remarks were later softened, and nationalist opposition figures challenged the basis on which they had been made. Government spokesperson Adam Szlapka urged restraint in commenting while the initial signs remained unconfirmed.",
+    "According to interior ministry spokeswoman Karolina Gałecka, Poland’s cybercrime bureau, CBZC, has detained five people over online posts praising the shooter. She warned that officers were on heightened alert for possible copycat attacks.",
+    "Justice minister Waldemar Zurek said the probe would proceed despite the attacker’s death, with a focus on whether the gunman worked alone. The square reopened on Sunday evening after the security cordon was removed."
+   ],
+   "cav": "The account comes from a live blog that relays official statements and has not been independently verified. The interior minister’s ideological claims were partly walked back and their basis has been disputed, so the suspect’s motive remains unclear. The sources do not say what the five detained people are suspected of or whether the posts led to charges.",
+   "op": "A rare mass shooting in a city centre demands facts, not early labels. Poland’s government was right to pull back from a motive it could not yet support. Transparency now means publishing what the investigation establishes, including whether anyone helped the gunman, and treating the detained suspects with the presumption of innocence.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+  },
+  {
+   "id": "w-b76a63ca5ce2b807",
+   "member_ids": [
+    "w-b76a63ca5ce2b807"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-09T13:10:32+00:00",
+   "t": "Nvidia chief Jensen Huang admits affair as reports link his companion to alleged Chinese spying",
+   "s": "Nvidia's chief executive has admitted an extramarital affair after US media reports said the woman involved was suspected of spying for Beijing. The company has opened an independent investigation.",
+   "p": [
+    "Jensen Huang, the co-founder and chief executive of the chipmaker Nvidia, has acknowledged an extramarital affair. On Sunday he said he had been “unfaithful” to his wife and apologised for the hurt caused to her and their children. He also said he would cooperate with an internal security investigation.",
+    "The affair is with Alice Huang, also known as Huang Le, a Chinese businesswoman who is not related to him. According to a New York Times report, which the BBC cites, US intelligence officials believed she had been recruited by China’s top intelligence agency and was spying for Beijing. Her current whereabouts are unknown. She did not respond to a request for comment from the newspaper.",
+    "Alice Huang was a senior executive at Megaspeed, a Singapore-based data centre firm that had been suspected of helping divert Nvidia chips to China. Nvidia says it investigated those concerns and found them to be unfounded. The BBC understands that Megaspeed is now under investigation by the Singapore government over earlier claims that it evaded US sanctions on exports of Nvidia’s high-end chips.",
+    "The New York Times reported that surveillance captured communications between Alice Huang and an American citizen, who was later identified as Jensen Huang. It remains unclear what intelligence, if any, she gathered and passed on. Nvidia told the BBC it was not aware of any intelligence concerns, and said it trusted the US government would have warned it of a genuine threat. China has rejected the allegations as “groundless”.",
+    "The reports have a political dimension. According to the New York Times, Donald Trump was briefed last year on intelligence alleging that Alice Huang was spying for China. Asked whether he wished he had acted on it, Trump said he did not think so and called Huang “an honourable guy”. Secretary of State Marco Rubio declined to comment, though the newspaper reported that he had overseen a memo last spring warning the administration about the relationship.",
+    "The stakes are high because Nvidia sits at the centre of the contest between the US and China over the most advanced technology. Export controls introduced since 2022 have largely shut the company out of the Chinese market, and Huang has pursued talks between Washington and Beijing in an effort to win back access. The affair, the reports suggest, may have complicated his hopes of a broader approval to sell more advanced chips to China.",
+    "Huang, born in Taiwan in 1963, co-founded Nvidia after working at AMD. Bloomberg’s billionaires index estimates his fortune at $155bn."
+   ],
+   "cav": "Much of the espionage detail is second-hand, drawn from a New York Times report that the BBC relayed, and Alice Huang has not commented. What intelligence she may have passed to Beijing is unknown, and Nvidia’s claim that US national security was not compromised has not been independently verified.",
+   "op": "The question is not Huang’s marriage but whether a company central to national security was kept properly informed. Officials who held intelligence about his associate owe lawmakers and the public a clearer account of what was known and what was done. Reassurance from either Nvidia or the administration is no substitute for transparency.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+  },
+  {
+   "id": "w-f89047f97e1e02c0",
+   "member_ids": [
+    "w-f89047f97e1e02c0",
+    "w-b090dff1a243ae12",
+    "w-f8424d75bbf2dac8"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-09T12:08:26+00:00",
+   "t": "Trump says he was ‘only kidding’ about offering Dana White the press secretary job",
+   "s": "President Donald Trump has said he was not serious when he publicly offered the White House press secretary job to Dana White, the head of the Ultimate Fighting Championship. The offer had been announced a day earlier.",
+   "p": [
+    "On Sunday, Trump told reporters he had been joking when he announced the offer, according to the BBC. He said White liked the idea but described the invitation as lighthearted.",
+    "The offer had been made in a post on Truth Social on Saturday, in which Trump urged White to take the role and predicted he would be unlike any previous press secretary. Trump also said White could bring several current and former mixed martial arts fighters along as aides.",
+    "Speaking at a news conference on Saturday, White did not say whether he would accept. He said he already had a lot of commitments and expected to discuss the matter at a meeting with Trump on Monday.",
+    "Trump later said White was coming to Washington on Monday for other reasons and that he would meet him there. The Guardian and Al Jazeera also reported Trump’s “kidding” remarks under similar headlines.",
+    "The press secretary post has been vacant since October, when Katie Zacharia left after less than five days. She had replaced Karoline Leavitt, who held the job from the start of Trump’s second term.",
+    "The episode follows Republican losses in the midterm elections, which cost the party its majority in both houses of Congress. White runs the UFC and PowerSlap, has recently launched the boxing promotion Zuffa Boxing, and sits on the board of Meta. He spoke at Republican National Conventions in 2016, 2020 and 2024."
+   ],
+   "cav": "The detailed account comes from the BBC; the Guardian and Al Jazeera are represented only by short summaries, so their wording is not verified beyond the headlines. Whether White will take any role remains unresolved, and Trump’s Saturday post sits uneasily with his Sunday description of the offer as a joke.",
+   "op": "A press secretary speaks for the government to the public every day, so the appointment deserves a transparent process rather than a social media post later described as a joke. When a public offer is made and then waved off, citizens cannot tell what is real. Voters are owed statements they can take at face value.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/fc1ab5d3fafbee14c0a6e16aa9f6e961f01f1bcf/474_0_4750_3799/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=789e33ea6ba8c28a5ff8d366fa2da0fc",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video"
+  },
+  {
+   "id": "w-4bd23233bd3238eb",
+   "member_ids": [
+    "w-4bd23233bd3238eb",
+    "w-8e12051599e78b96",
+    "w-5ff75c023f74f835",
+    "w-9160eba5391f0313"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-09T11:56:25+00:00",
+   "t": "Kraków market square shooting suspect dies in hospital, Polish police say",
+   "s": "A 24-year-old Polish man suspected of killing six people in a shooting in central Kraków has died in hospital, police said on Monday. Investigators are still working to establish his motive.",
+   "p": [
+    "The suspect was wounded in an exchange of fire with police on Saturday and died early on Monday, according to the Lesser Poland police, who announced the death on X. Authorities have not yet officially named him. Doctors had earlier described his condition as critical.",
+    "The attack began shortly before 15:00 local time in Kraków’s Main Market Square, a busy area of the Old Town that is usually crowded with tourists. Police said the gunman drove at high speed into the square and fired at random, and that he kept shooting even after being wounded by officers. Armed officers engaged him and he was shot within minutes, officials said.",
+    "Police said three bodies were found at the suspect’s family home in Ostrowiec Świętokrzyski, a town north of Kraków. On Sunday they confirmed the dead were his father, 53, his mother, 52, and his sister, 21. Police said the injuries appeared to be gunshot wounds, and the cause and nature of the deaths are still being clarified.",
+    "Interior Minister Marcin Kierwiński said the gunman was fascinated with far-right ideologies and held radical, ultranationalist views. Prosecutors have opened a terrorism investigation. Justice Minister Waldemar Żurek said it would continue despite the suspect’s death and would aim to establish whether he acted alone. He asked for “restraint” and said evidence would not be disclosed for now.",
+    "Six people were killed, four of them Polish, along with an Austrian woman aged 51 and a British man aged 32. Reports differ on the number injured, with most citing 15 or 16. Two police officers were among the wounded, and both were reported to have come out of medically induced comas on Sunday. Two surgeons who were eating nearby treated victims on the street.",
+    "The suspect reportedly held a firearms permit. Four firearms, including two AR-15 rifles and two handguns, were found in his car, along with several hundred rounds of ammunition, according to the spokesperson for the National Prosecutor’s Office.",
+    "Poland declared two days of national mourning, and flags were lowered to half mast. Mourners left candles in the square, which reopened late on Sunday. Prime Minister Donald Tusk described the attack as terrorism, the deadliest in Poland since the end of communism in 1989, according to Euronews."
+   ],
+   "cav": "Sources disagree on the number of injured (15 or 16), on the distance from Ostrowiec Świętokrzyski to Kraków (about 100 miles or 150 kilometres), and on the gender split of the Polish victims. The motive remains unconfirmed; the early ministerial description has not been backed by released evidence, and details about the permit and the surgeons come from media reports.",
+   "op": "A suspect’s death ends one threat but not the questions. Officials offered early labels for motive before prosecutors said the evidence was still under review. Public trust depends on the terrorism inquiry establishing, in open and checkable terms, who acted, why, and whether anyone else was involved. Those answers, not the speed of the labelling, will decide how this case is remembered.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/krakow-main-square-shooting-suspect-dies-in-hospital-police-say"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+  },
+  {
+   "id": "w-b8c1d0944ea1b20c",
+   "member_ids": [
+    "w-b8c1d0944ea1b20c",
+    "w-1069919706c861a1"
+   ],
+   "section": "Africa",
+   "published_at": "2026-11-09T11:33:37+00:00",
+   "t": "Seven dead and more than 100 injured as two trains collide south of Cairo",
+   "s": "Seven people were killed and at least 125 were injured when two passenger trains collided on Sunday in Giza province, Egypt. Rail workers began repairing the damaged track the following day.",
+   "p": [
+    "The crash took place on Sunday near Al-Ayyat, roughly 52 kilometres south of the Egyptian capital, according to Euronews. The Transport Ministry said a northbound-to-Fayoum service ran into the back of a passenger train that was standing still and headed for Aswan. The BBC placed the scene between the Kafr Ammar and Al-Raqqa stations and reported that several carriages came off the rails and tumbled down an embankment.",
+    "Photographs from the site showed people looking through overturned carriages for anyone still hurt, as a large emergency operation got going. Egypt’s health minister, Khaled Abdel Ghaffar, told the BBC that patients were being treated for fractures and head trauma, and that local hospitals had been told to stay prepared for a surge in arrivals. Egypt’s Health Ministry later said more than 70 hurt passengers had left hospital after care.",
+    "The BBC reported that the driver of one of the trains was among the dead, a claim it attributed to the ministry. Euronews did not mention this. The Egyptian Red Crescent said its teams were offering relief and emotional help to the injured and their relatives at the scene.",
+    "Ahmad Othman Abu Emran, an eyewitness, told Euronews he was working in a field close by when the collision happened. He recalled the force of the impact and the noise of carriages flipping, then ran over to assist, calling what he saw devastating.",
+    "President Abdel-Fattah el-Sisi has called for an urgent inquiry into what caused the collision. The BBC quoted him as saying that anyone found to have been careless should be held to account. The same outlet reported demands in Egypt that the transport minister step down, though neither report says whether the government has answered those demands.",
+    "Euronews said crews, cranes and rail workers were clearing the wreckage and fixing the track on Monday. The BBC noted that services between Giza and Upper Egypt had been halted, and the railway authority had not said how long the stoppage would last. Euronews added that the crash has revived concern about upkeep and management across the country’s rail system, and it recalled a 2002 fire that killed more than 300 people. The BBC put the official toll from that disaster above 370."
+   ],
+   "cav": "The sources differ on several points: the injury count (125 versus more than 100), the direction of the trains, and the death toll in the 2002 fire. The claim that the train driver died comes only from the BBC, and the reports on resignation calls are not followed by any official response.",
+   "op": "Egypt’s rail network has faced safety criticism for years, and the families of the dead deserve a clear account of what went wrong. Sisi’s order for an urgent investigation is a start, but accountability depends on publishing the findings and naming any failures. Otherwise the next collision will bring the same grief and the same promises.",
+   "confirmed": true,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo"
+  },
+  {
+   "id": "w-ad095a47390ca8de",
+   "member_ids": [
+    "w-ad095a47390ca8de",
+    "w-3f503ca86beb8558",
+    "w-8347c3f8af9525a3",
+    "w-0be6a7160e5e2d2e"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-09T11:18:00+00:00",
+   "t": "Nvidia opens independent probe into CEO Jensen Huang over affair with alleged Chinese spy",
+   "s": "Nvidia has launched an independent investigation into chief executive Jensen Huang, who has admitted an affair with a woman that US officials reportedly believe was spying for China. The case raises questions for the world's most valuable chipmaker and the wider race for advanced chips.",
+   "p": [
+    "Nvidia’s board said the inquiry was opened in light of recent reporting that Huang had been the “target of a foreign intelligence effort.” It said it had “no reason to believe” that national security or Nvidia’s secrets were compromised, but that the review would examine all available information. The investigation is being led by independent board members and an external law firm.",
+    "In a letter to employees, Huang said he took “full responsibility” for his actions. He said he had been unfaithful to his wife, apologised to his family, and acknowledged that he had fallen short of his responsibilities to employees, the board and shareholders. According to Euronews, the letter did not name the woman involved or her reported ties to Beijing.",
+    "The Financial Times first reported the affair. It identified the woman as Alice Huang, an executive at Megaspeed, a Singapore-based data centre firm that has become Nvidia’s largest customer in Southeast Asia. Alice Huang is not related to the CEO, according to the BBC. The New York Times reported that US intelligence officials believed she was working for China’s Ministry of State Security. These claims have not been confirmed publicly by US intelligence officials.",
+    "Beijing has rejected the allegations. Foreign Ministry spokesperson Guo Jiakun said the claims were entirely groundless and intended to smear China. Reports said US officials drafted a memo about the allegations shortly before President Donald Trump travelled to Beijing for a summit with Xi Jinping in May.",
+    "Trump has defended Huang, describing him as a “fine person” and saying he had not spoken to him about the matter. Asked whether he should have acted on the intelligence sooner, Trump said he did not think so. Secretary of State Marco Rubio declined to comment on the matter.",
+    "The affair comes as Nvidia, valued at about $5 trillion, faces doubts over the sustainability of a massive spending boom and a sell-off in related stocks. Huang has lobbied Trump to ease chip export restrictions on China, and the sales deal has been slowed by strict licence reviews. Analysts said Huang’s influence could be weakened, and that the company depends heavily on him, with no obvious successor."
+   ],
+   "cav": "The espionage claims come from press reports citing US officials, and the officials have not commented publicly. Nvidia’s conclusion that secrets were not compromised is its own view and has not been tested by the investigation. Some details, including the memo and Trump’s briefing, rest on second-hand reporting.",
+   "op": "A chipmaker’s chief executive is not above scrutiny when national security may be at stake. Nvidia’s investigation is a start, but its findings should be made public as far as possible. Shareholders and the public deserve to know whether a foreign power gained access to sensitive technology, not only whether the company is comfortable with its own answer.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no"
+  },
+  {
+   "id": "w-2bd454185ca20934",
+   "member_ids": [
+    "w-2bd454185ca20934"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-09T10:49:02+00:00",
+   "t": "Nvidia’s Jensen Huang faces questions over alleged Chinese espionage link",
+   "s": "Nvidia’s board has opened an independent investigation into whether chief executive Jensen Huang was targeted by a foreign intelligence operation. The allegations centre on a Chinese businesswoman, and the company’s shares fell more than 4 percent in overnight trading.",
+   "p": [
+    "Scrutiny has landed on Nvidia’s chief executive after reports that a Chinese woman he had a romantic involvement with may have been collecting information for Beijing. Huang, who helped found the chipmaker more than thirty years ago, has acknowledged being unfaithful to his wife. The firm, however, says it sees no grounds to think sensitive US material or proprietary data has been exposed.",
+    "The board has commissioned a review, led by a committee of directors with outside lawyers, to establish whether Huang was the subject of a foreign spying effort. The inquiry followed media coverage tying him to Alice Huang, who previously worked as an executive at a data centre firm based in Singapore. Reports indicate the two are not related, despite sharing a surname. Huang has pledged to cooperate and to keep leading the company.",
+    "The claims originated with a New York Times investigation published last month. That outlet cited American intelligence officials who believed Beijing had enlisted Alice Huang to learn about the chief executive and perhaps sway Nvidia’s chip sales into China. Exactly what she obtained, whether anything sensitive reached Chinese hands, and how much Huang understood about any scheme are still unknown.",
+    "Huang told Bloomberg News in late October that his dealings with her were tied to Megaspeed, her company, and were ordinary. According to the Times, Megaspeed became one of Nvidia’s biggest customers, buying roughly $4.8bn of equipment. American authorities have reportedly examined Megaspeed since 2024, suspecting it helped China acquire top Nvidia processors despite export controls. No criminal charges against either Huang have been reported.",
+    "Alice Huang, also called Huang Le, has not commented on the espionage allegations, and her whereabouts are unknown. An entry in a Chinese investment database lists earlier roles at HSBC and Chinese broadcasters, though AFP said it could not verify those details independently.",
+    "Politicians from both major parties are weighing in. Republican members of Congress have asked Huang to appear before lawmakers on 18 November, arguing that China’s possible access to sensitive American technology is at stake. Democratic Senator Elizabeth Warren has demanded answers from the company and urged passage of tougher rules to keep advanced US technology away from China.",
+    "Investors reacted quickly, with Nvidia’s market value of $4.5 trillion sliding more than 4 percent in overnight trading into Monday. Chris Beauchamp of IG Group said it was too early to tell whether the episode would prove a “major turning point” for the company."
+   ],
+   "cav": "The sources do not establish what information, if any, was passed to Beijing, nor what Huang knew. Much of the espionage account rests on anonymous US intelligence officials as reported by the New York Times, and details of Alice Huang’s background are unverified. Her side of the story has not been heard.",
+   "op": "Allegations of foreign espionage touching a company central to US chip policy are a matter of public interest, not private scandal. The independent review and congressional testimony should be conducted in the open, with findings published. Investors, lawmakers and the public deserve clear answers rather than assurances from the company.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-9b1e4f717554dd4b",
+   "member_ids": [
+    "w-9b1e4f717554dd4b"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-09T10:41:57+00:00",
+   "t": "Four killed in Gaza as sand embankment collapses onto displaced families’ tents after heavy rain",
+   "s": "Four people, including three children, died when a sand embankment fell onto tents at a displaced families’ camp in central Gaza, according to the Hamas-run health ministry. The collapse came after heavy rain reportedly flooded tens of thousands of tents across the territory.",
+   "p": [
+    "The health ministry says a woman and three children were killed on Sunday night when earth piled up in a sand embankment gave way onto tents at a camp south of Deir al-Balah. Five people were reportedly pulled out alive after the collapse.",
+    "The disaster followed torrential rain the previous day, which reportedly swamped tens of thousands of tents throughout Gaza and left many displaced Palestinians with nowhere dry to sleep. According to the Civil Defence service, water reached depths of up to 1.5 metres in places, and its responders could attend to just 10% of the 2,100 emergency calls they received.",
+    "Footage circulated online showed people searching for survivors by the light of mobile phones, picking through boulders, sand and crushed tents. Mustafa al-Masri, a rescuer, told the BBC that the rescue crews and young men from the camp had to reach the trapped people by hand, because the mound was so large and spread so wide that nobody knew how to start.",
+    "The official count has changed. The Civil Defence first said that two women and three children had died, but on Monday morning the health ministry said only one woman was among the dead. The names it has given are Tahrir Nabhan, Mariam Nabhan, her brother Salah and Habiba al-Zein.",
+    "The Civil Defence, which operates under the Hamas-run interior ministry, urged international bodies to supply secure shelters and relocate tents away from sandy ground, slopes and any spot prone to collapse. Karl Baker of the International Organization for Migration described the aid now entering Gaza as far too limited, comparing it to the most minimal of plasters and calling for more donations in kind and funding.",
+    "Cogat, the Israeli military unit that coordinates aid deliveries, said more than 91,000 tents and other supplies had reached Gaza under its winter preparation scheme. It also said Israel would bar any equipment that Hamas or other armed factions could use for military ends. The UN estimates that roughly 80% of Gaza’s buildings have been destroyed or damaged, and that 1.2 million of the more than 1.9 million displaced people live in tents or improvised shelters.",
+    "Masri said he had been forced out of Beit Hanoun in the north but remained in central Gaza, having found no other place he considered suitable. The UN warns that conditions stay grave despite the October 2025 ceasefire, as Israeli strikes keep hitting populated areas."
+   ],
+   "cav": "The casualty figures differ between sources: the Civil Defence first reported five deaths, while the health ministry later reported four, and the sources do not explain the revision in detail. Both the health ministry and the Civil Defence operate under Hamas-run authorities, and the Cogat figures on deliveries are the Israeli military’s own claims that the sources do not independently verify.",
+   "op": "Shelter for displaced families should not depend on whether a camp happens to sit below an unstable mound. The shift from five reported deaths to four shows why early figures from every side need checking against clear records. Disputes over what aid may enter should be settled openly, with published rules, not left to be argued through statements after each tragedy.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqd090ee8px5o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o"
+  },
   {
    "id": "w-3340b42b70005f42",
    "member_ids": [
@@ -826,572 +1172,6 @@
    "img": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed",
    "img_outlet": "The Guardian",
    "img_link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
-  },
-  {
-   "id": "w-f9ce569d6615b2e5",
-   "member_ids": [
-    "w-f9ce569d6615b2e5",
-    "w-3ab4a75fbeb5c49e",
-    "w-4af92177e792adac"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-07T13:48:18+00:00",
-   "t": "New Zealand election too close to call as special votes leave final result weeks away",
-   "s": "New Zealand’s general election failed to produce a decisive result, with the centre-right National Party ahead but no clear path to government yet. Official results may not arrive until late November.",
-   "p": [
-    "Preliminary results from New Zealand’s general election on Saturday left the two main parties close together, with the outcome not expected to be settled for some time. Prime Minister Christopher Luxon’s National Party is the largest party in parliament, but neither the incumbent right-leaning coalition nor the opposition left bloc has a decisive lead.",
-    "According to the Guardian, National won 42 seats on regular votes, with its coalition partners the libertarian Act party on 13 and the populist New Zealand First on 12. That gives the three parties a combined 67 seats, a majority described as wafer thin. The Labour Party, led by Chris Hipkins, won 35 seats, with the Greens on 16, Te Pāti Māori on five and the centrist newcomer Opportunity on seven.",
-    "Special votes, which include overseas ballots and votes cast outside a voter’s electorate, have yet to be counted. Both outlets say these ballots have tended to favour left-leaning parties in recent elections. The Guardian reports that official results are due on 27 November, while DW says the votes are to be counted over the next three weeks.",
-    "Luxon told supporters that the result was “too close to call” and that National had “a pathway to forming the next government”. Hipkins said voters had spoken but that it “may take a bit longer” to work out what they had said, and he urged politicians to find common ground.",
-    "The Opportunity Party could act as kingmaker if the right bloc’s slim majority does not hold. It would be the first new party to clear the 5% threshold since New Zealand adopted its mixed-member proportional system in 1996, according to the Guardian.",
-    "The electoral system also means parliament could grow to 130 seats because of overhang seats, a record under the system. The Guardian reports that National could gain five extra seats, but that several senior ministers, including Nicola Willis and Chris Bishop, would not return to parliament.",
-    "The campaign took place against high prices for basic goods and the country’s highest unemployment in more than a decade, according to DW. Luxon said caretaker conventions would apply while the count continues, and that the daily business of government would carry on.",
-    "Almost 1.7 million of the country’s 3.8 million eligible voters had cast ballots before election day, according to the electoral commission cited by DW."
-   ],
-   "cav": "The sources disagree on how much of the vote was counted, with reports citing 95% and nearly 100% of regular votes, and on the margin between the two main parties, which DW gives as about 3,500 votes and the Guardian as 0.02 percentage points. The Guardian’s description of the left bloc as three seats short does not match its own seat totals, which put it four seats short of 67. The timing of the final results also varies between sources.",
-   "op": "Election outcomes should be settled by transparent counting, not by the impatience of parties eager to claim power. New Zealanders deserve a full, publicly verified count of special votes before any coalition is announced. Any government formed in the coming weeks should be judged on whether it can explain its mandate openly.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-  },
-  {
-   "id": "w-62f39c82b1348381",
-   "member_ids": [
-    "w-62f39c82b1348381"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-07T13:03:03+00:00",
-   "t": "Kyiv faces blackouts and water shortages after Russian strikes on the energy grid, ahead of Abu Dhabi talks",
-   "s": "According to The Guardian, Russia launched a large overnight assault on electricity substations and a bridge over the Dnipro, leaving parts of Kyiv short of power, water and heat. The strikes came just before negotiators from Russia, Ukraine and the US were scheduled to meet in Abu Dhabi.",
-   "p": [
-    "Overnight, Moscow fired 172 drones and 36 ballistic missiles at Kyiv and surrounding regions, according to the report. Volodymyr Zelenskyy accused Russia of trying to “plunge Kyiv and the entire country into a blackout” by hitting energy infrastructure in the capital and a bridge over the Dnipro River.",
-    "The Ukrainian president said the capital was struggling to keep electricity, water and heating running. Five people were hurt, among them a 14-year-old girl. Substations in five regions were targeted, one of which links two nuclear power plants to Kyiv.",
-    "Road traffic was also disrupted. The Northern Bridge, an important transport route, was shut on Saturday so crews could fix damage to the roadway and the power lines beneath it.",
-    "The assault followed a grim stretch for residents, many of whom have endured full-day power cuts and gaps in their water supply. Ukrainian officials argue that the Kremlin is trying to leave civilians without heat through the winter, which they describe as a war crime. The report presents this as their claim, not as an independently established finding.",
-    "Diplomacy is running alongside the military pressure. Negotiators from Russia, Ukraine and the US are due to meet on Tuesday and Wednesday in Abu Dhabi, with the aim of ending the war. Kyiv has little faith that the US-backed process will produce tangible results. In an interview with CNN, Zelenskyy labelled the latest outline from Jared Kushner, Donald Trump’s son-in-law, “Yalta 2.0”, a nod to the 1945 meeting of Stalin, Roosevelt and Churchill that carved up postwar Europe.",
-    "Kushner wrote in a series of social media posts that the discussions would cover a new European security framework and guarantees for Ukraine. The report says this seems to echo a long-standing Kremlin demand that Nato’s expansion across the continent be reversed. On Friday, Trump said a “big beautiful agreement” could be close, one involving “all of Europe”.",
-    "Zelenskyy’s position is that Russia must first end the war and Ukraine must receive meaningful security guarantees. Only after that, depending on the responses, could a wider security architecture be considered. Western diplomats say that accepting Russia’s demands would effectively end Nato. Russia’s defence ministry said Saturday’s strikes targeted energy and transport sites. Since the summer, Russian air attacks on Ukrainian cities have intensified while Moscow’s frontline progress has stalled. Kyiv says Russia lost 54,000 troops, killed or wounded, last month, the highest monthly toll of the war."
-   ],
-   "cav": "The drone and missile counts, the casualty figures and the 54,000 troop loss come from Ukrainian officials or Russia’s defence ministry and are not independently verified in the report. The account of the Kushner blueprint rests largely on Zelenskyy’s remarks and Kushner’s posts, so the actual terms of any proposal remain unclear.",
-   "op": "Any deal affecting Ukraine’s security and Europe’s order must be open about its terms and guarantees. Bombing a city of millions to strengthen a negotiating position is coercion, not diplomacy, and talks that quietly reward such tactics would betray the rule of law they claim to defend.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=3d43b27b3c2c259de81a9207bf8adbd7",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-  },
-  {
-   "id": "w-a09e7cf61f77163c",
-   "member_ids": [
-    "w-a09e7cf61f77163c"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T13:00:12+00:00",
-   "t": "Trump names Stephen Miller White House chief of staff after midterm defeat, prompting warnings over executive power",
-   "s": "Donald Trump has appointed Stephen Miller, the architect of his immigration agenda, as White House chief of staff days after Republicans lost control of Congress. Critics say the move signals a more confrontational presidency.",
-   "p": [
-    "Donald Trump on Friday named Stephen Miller as White House chief of staff, a post that takes over from Susie Wiles. The appointment came days after Republicans suffered heavy losses in Tuesday’s midterm elections, which put Democrats back in charge of the House of Representatives and the Senate.",
-    "According to a Guardian commentary, Miller is a 41-year-old longtime advocate of expanded presidential authority. The article describes him as the architect of Trump’s hardline, nativist immigration agenda and says Democrats and civil rights groups have condemned him as a white nationalist. The piece argues that his promotion is a defiant response to voters rather than a sign of humility.",
-    "The author notes that Miller already held a powerful post as deputy chief of staff and is reportedly one of a small group of staffers who approve all executive orders. He is also credited with driving an immigration crackdown that set a target of 3,000 arrests per day, a figure the article says is far above levels under previous administrations. Its account of the enforcement push, including efforts to target people in the country illegally who have no criminal record, is presented as the writer’s reading of policy rather than as an independent finding.",
-    "The article says Trump has signed 292 executive orders in less than two years, a pace it describes as a record for a modern presidency. It accuses him of bypassing Congress on military action and tariffs, withholding approved spending and deploying the National Guard against the wishes of state authorities. Congress, dominated by Republicans, offered little resistance, the piece says.",
-    "Democrats are expected to use their new committee powers to launch investigations, issue subpoenas and hold high-profile hearings. The article says they may examine the Jeffrey Epstein files, the Department of Government Efficiency and how Trump and his family have grown wealthier since his return to office. It also notes that major funding for Immigration and Customs Enforcement in the One Big Beautiful Bill Act will keep the agency financed for the rest of Trump’s term, limiting what Democrats can do to stop it.",
-    "Commentators quoted in the piece expect more conflict. Kurt Bardella, described as an adviser to Democrats in Texas, said Miller has been “the id to Trump’s authoritarian impulses”, and predicted more executive orders and unilateral action. David Cohen, a political science professor at the University of Akron, said Trump appeared “spoiling for a fight” with Democrats. Bill Galston of the Brookings Institution called the appointment hard to read except as a snub to the American public.",
-    "The article also places the moves in a longer history of efforts to expand presidential power, citing Arthur Schlesinger Jr.’s 1973 book The Imperial Presidency and a 1989 counterpoint from the American Enterprise Institute. The piece presents these as background and does not suggest the current White House has explained its reasoning for the appointment."
-   ],
-   "cav": "This is an opinion column, and its characterisations of Miller, of the White House’s intentions and of Democrats’ plans are the author’s and the quoted commentators’. The sources do not include a White House response or Miller’s own account, and the 3,000-arrests target and executive-order count are reported as stated in the piece rather than independently verified.",
-   "op": "The question at stake is whether Congress will still check the executive after an electorate has spoken. Rewarding a chief architect of contested policies with greater influence sends a message about accountability that voters deserve to hear explained. Democrats now hold the tools of oversight, and they should use them in public, under the rule of law.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=140&quality=85&auto=format&fit=max&s=c1b0aa3ba931de7e4d11a316938b8ccf",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms"
-  },
-  {
-   "id": "w-ef7c346234ee2795",
-   "member_ids": [
-    "w-ef7c346234ee2795",
-    "w-8a8f7d6e028878f8"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-07T11:35:53+00:00",
-   "t": "US carries out limited strikes in southern Iran as Trump says talks with Tehran are progressing",
-   "s": "The US military carried out what it called limited airstrikes in southern Iran on Friday, as Trump described them as minor while Qatar-mediated negotiations continue.",
-   "p": [
-    "American forces conducted strikes in southern Iran late on Friday that the military described as limited. The action heightened anxiety across the Middle East and in Gulf states, where many fear that a full-scale war could start again. Doha and Washington both maintain that talks toward a diplomatic settlement are still underway.",
-    "Speaking to the media, Donald Trump characterised the operation as a “minor” action aimed at Iranian air defences on Qeshm Island. He said a small anti-aircraft device had been destroyed within minutes. Trump also claimed that Washington had made real headway with Tehran in negotiations that Qatar is leading as chief mediator.",
-    "Iranian state media said two missiles struck the Suza area of Qeshm Island, but gave no details about what was targeted or what was damaged. Local residents shared accounts of explosions on social media.",
-    "Earlier that day, the Iranian Revolutionary Guard said it had downed a US military drone over the south of the country. Washington has not confirmed that claim.",
-    "This is the first strike since the Democratic Party won a significant victory in the midterm elections, a result that officials and analysts have connected to public opposition to Trump’s decision to go to war with Iran. It also came after what the US military termed defensive strikes on Monday, when blasts were reported on Qeshm and Hengam islands in the Strait of Hormuz and near Bandar Abbas on the mainland.",
-    "Qatar quickly rejected reports that the negotiations had broken down, saying its mediators stayed in close contact with both Washington and Tehran. Two Middle East government officials told AP that Iran is studying Qatari proposals on its nuclear programme. One of them said Tehran still will not discuss its nuclear activities until Washington meets several core demands, among them lifting the US naval blockade of Iranian ports, removing sanctions, releasing frozen assets, paying for war damage and ending hostilities across the region. These claims come from anonymous officials and have not been independently verified.",
-    "Trump phoned Qatar’s Emir, Sheikh Tamim bin Hamad Al-Thani, according to Qatar’s state news agency. US Defence Secretary Pete Hegseth also spoke with his Qatari counterpart, the Qatari government said. Iranian Foreign Minister Abbas Araghchi reported making calls to at least 12 foreign ministers over two days. On Saturday, an Iranian army spokesman vowed that Iran would not let the enemy rebuild its bases in the region.",
-    "Danny Citrinowicz, a former head of Israel’s military intelligence research department and an Iran specialist, wrote on X that Tehran does not fear a renewed clash with the United States and Israel. He argued that, if attacked, Iran would probably try to widen the conflict quickly by hitting Gulf states it considers weak points. His view is a forecast rather than a confirmed plan."
-   ],
-   "cav": "The sources do not report casualties or the extent of damage on Qeshm Island. The Iranian drone claim is unconfirmed by Washington, and the description of the strikes as minor comes from Trump. Details of Iran’s conditions rely on anonymous officials. The Al Jazeera item was available only as a summary.",
-   "op": "Calling a strike “minor” does not answer the questions that matter: what was hit, what damage resulted, and what justified it. Gulf states and voters are owed clear answers, not reassurance. If talks are truly progressing, they should be pursued openly, and each strike should face public scrutiny.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-1d0f1d30796f43a6",
-   "member_ids": [
-    "w-1d0f1d30796f43a6",
-    "w-35f1504ad3fbdd1f"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T11:00:08+00:00",
-   "t": "Democrats win midterms on cost-of-living anger, then face limits on economy and Trump probes",
-   "s": "Democrats are heading into Congress with a larger majority than they have had in decades, and they have promised to tackle prices and investigate corruption in the Trump administration. Commentators say both goals will be harder to deliver than the campaign suggested.",
-   "p": [
-    "A Guardian commentary by Eduardo Porter argues that voters’ worries about the rising cost of living drove the midterm results, even though Donald Trump largely ignored the issue. The outcome is likely to give Democrats the largest House majority in nearly four decades and their biggest Senate edge since 2008, the column says.",
-    "Porter writes that the new majority will struggle to lower prices for gas, groceries, mortgages and healthcare. Democrats could try to end the war with Iran and reopen the strait of Hormuz, as Senate majority leader-in-waiting Chuck Schumer has suggested, but Trump may not agree, and Democrats lack the 60 Senate votes needed to overcome a filibuster.",
-    "Tariffs are another obstacle. Porter notes that after the supreme court struck down Trump’s “national security” tariffs, the administration reimposed many of them under a different statute. He also argues that a budget deficit running at 6% of gross domestic product leaves little room to reverse cuts to Medicaid and food stamps.",
-    "Porter also points to a costly investment boom in data-processing centres as a risk to the economy. He cites Goldman Sachs estimates that large hyperscale firms have raised almost $200bn in bond markets so far this year, and he says the tech-heavy Nasdaq has fallen by more than 10% in the last month.",
-    "Separately, DW reports that Democrats have pledged to investigate alleged corruption in the Trump administration once they take their seats in January. Analysts expect many of those inquiries to focus on the Trump family’s links to wealthy Middle Eastern countries.",
-    "DW cites Trump’s financial disclosures showing his businesses earned about $2 billion in 2025, and a Brian Katulis analysis claiming Gulf entities paid around $300 million to his businesses that year. Much of the income came from the sale of a stake in World Liberty Financial to a firm backed by a senior UAE official. The deal was done in January 2026, shortly before Trump’s inauguration.",
-    "DW also reports questions about a Qatari jet worth around $400 million, the Board of Peace, whose funds were reportedly held in a private bank account, and an investigation by CNN into Jared Kushner’s private equity firm. Democratic House Oversight member Robert Garcia has said the Trump family is “the top of our investigative priorities.”"
-   ],
-   "cav": "The Guardian piece is an opinion column, and its economic forecasts are the author’s judgement rather than reported fact. Many of DW’s figures are second-hand, drawn from CNBC, the Financial Times, CBS and commentators, and the White House has not been shown to have accepted them. None of the alleged conflicts has been established in a legal proceeding.",
-   "op": "Voters who punished the price rises deserve a government that explains what it can and cannot do. Democrats should publish their investigations and the evidence behind them in full, and avoid selective outrage. Transparency, not slogans, will decide whether this majority earns trust.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/middle-east-could-have-big-role-in-democrats-trump-corruption-inquiry/a-79877104?maca=en-rss-en-all-1573-rdf"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/452570685e3bee42441282dc9ff80c72d8c5dfca/453_0_4594_3676/master/4594.jpg?width=140&quality=85&auto=format&fit=max&s=71e4c9118ee3b481e3cc06a0a03df1f9",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
-  },
-  {
-   "id": "w-1b7eca3ba38007de",
-   "member_ids": [
-    "w-1b7eca3ba38007de"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T10:36:19+00:00",
-   "t": "Pedro Alliana sworn in as Paraguay’s president after Santiago Peña’s impeachment",
-   "s": "Pedro Alliana assumed Paraguay’s presidency on Friday after Santiago Peña was impeached amid a banking crisis. Peña is under house arrest and faces questioning over alleged offences.",
-   "p": [
-    "Paraguay has a new head of state. Pedro Alliana, who had spent three years as vice president, moved into the top job on Friday after Santiago Peña was removed through impeachment, according to Euronews. The change comes amid a crisis that is both political and financial, triggered by the failure of Ueno Bank earlier this week. Depositors have reportedly lost access to the savings of roughly half of the adult population.",
-    "Alliana, now 52, once played basketball at national level and later rose to lead the Colorado Party. Once in office, he said he intends to address the crisis before his mandate ends in August 2028.",
-    "Peña is confined to his home in Asunción and is expected to be questioned on Saturday. Prosecutors have named breach of trust, influence peddling and misappropriation of funds as the alleged offences. These remain allegations, and the reporting does not indicate that any court has ruled on them.",
-    "Alliana’s rise owed much to Horacio Cartes, a powerful figure in the ruling party. His electoral record includes a defeat in a 2006 bid for the mayoralty of Pilar, his home town, followed two years later by a win in the governorship of Neembucu. He sat in the Chamber of Deputies between 2013 and 2023, presided over that chamber, and then headed the Colorado Party.",
-    "Critics have questioned the number of relatives holding public posts, his eldest daughter among them. The alliance with Cartes later frayed. After Cartes withdrew his support, Alliana said on 26 October that loyalty should not be mistaken for “blind obedience.” According to the report, lawmakers pursued Peña’s impeachment but rejected proceedings against Alliana."
-   ],
-   "cav": "The sources do not give details of the impeachment vote or the specifics of the Ueno Bank collapse, and the figures on frozen savings are second-hand. The allegations against Peña are claims by prosecutors and have not been tested in court.",
-   "op": "Paraguay’s citizens deserve a clear account of how the bank failed and who is responsible for it. A new president who once shared power with the man now accused must show that the inquiry will be independent, or the country’s trust in its institutions will erode further.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
-    ]
-   ]
-  },
-  {
-   "id": "w-0bd1d2422ac382ce",
-   "member_ids": [
-    "w-0bd1d2422ac382ce",
-    "w-0db36603c7f03ffb",
-    "w-256b3cad7d2d6ef7",
-    "w-b536f0d70a37338c",
-    "w-a37ec5d19f18e4bc",
-    "w-e6fd93a72150b020",
-    "w-dd4cfcb407a27aa8"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T10:00:08+00:00",
-   "t": "Trump names immigration hardliner Stephen Miller as White House chief of staff",
-   "s": "President Donald Trump has named Stephen Miller, the architect of his hardline immigration policy, as White House chief of staff, replacing Susie Wiles. The move follows Republican losses in the midterm elections and has drawn sharp criticism from Democrats.",
-   "p": [
-    "Trump announced on Friday, in a post on his Truth Social platform, that Miller would take over as chief of staff on Monday, November 9. Miller, 41, has been serving as deputy chief of staff for policy and also holds the title of homeland security adviser. He is widely credited with driving the administration’s mass deportation programme, which has included raids by masked agents.",
-    "The appointment came days after Republicans lost control of both chambers of Congress in the midterm elections, a result many commentators read as a rebuke of Trump’s agenda. Trump called Miller “one of my most trusted advisers” and praised Wiles, who is moving to what he called the “Trump Political Operation.”",
-    "Wiles, 69, said Friday would be her last day in the job. She had announced in September that she was in remission from breast cancer. Al Jazeera reported that she handed her resignation to Trump on Thursday, and a Republican official confirmed the president accepted it. CBS, citing sources, said she had planned to stay until the end of the year or early next year. Earlier, Trump had said there was “zero chance” she would be replaced.",
-    "Miller’s record has been contested. The Guardian noted that he helped write the rightwing Project 2025 manifesto. Several outlets pointed to the deaths in January of two protesters in Minneapolis who were shot by immigration agents, an episode that sparked mass demonstrations and intensified criticism of federal enforcement tactics.",
-    "Democrats condemned the decision. Chuck Schumer said Trump “couldn’t have made a worse choice,” and Hakeem Jeffries called Miller a dangerous xenophobe and demanded he be fired. Chris Van Hollen described the move as a sign of Trump’s contempt for voters. Robert Garcia, who is expected to chair the House Oversight Committee, said Democrats would continue to investigate Miller. Some Republicans also objected. Congressman Marlin Stutzman, who had earlier said Miller should be fired, called the promotion a “horrible decision.”",
-    "Other Republicans and White House figures welcomed the announcement. White House communications director Steven Cheung described Miller as a “Trump OG.” Senators Mike Lee and Eric Schmitt defended his record. The White House said Miller was a key player in delivering the president’s agenda. Miller thanked Trump and said he was honored to serve, writing that the mission was to support the president and defend the Republic."
-   ],
-   "cav": "Accounts differ on how Wiles’ departure came about. Al Jazeera and CBS rely on unnamed sources, and the BBC reports that it was unclear whether her deputies would stay at the White House. The sources do not establish whether she was pushed out or chose to leave.",
-   "op": "The chief of staff sits at the centre of White House decision-making, so the public has a stake in how this appointment is handled. Miller’s role in mass deportations and the Minneapolis shootings is disputed and deserves scrutiny, not reward. Trump is signalling that the midterm verdict will not change course. The real test is whether the White House opens its decisions to Congress and the public.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/stephen-miller-named-by-trump-as-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/4bf2fa47568a8900b9eab3de3b35711cc466232f/710_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=22ef00c2cb8e0d4235eae1f544f1fac2",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react"
-  },
-  {
-   "id": "w-c3e2fee14ed9ec13",
-   "member_ids": [
-    "w-c3e2fee14ed9ec13"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-07T09:48:11+00:00",
-   "t": "Palestinian Citizens of Israel Say Post-Election Scrutiny Amounts to a ‘Loyalty Test’",
-   "s": "After Arab parties won a record 19 Knesset seats in October, Palestinian citizens of Israel describe rising suspicion, investigations and pressure. Their account, as reported by Al Jazeera, rests largely on interviews with activists and analysts.",
-   "p": [
-    "Arab parties took a record 19 seats in the Knesset in the October 27 election, a result that analyst Thabet Abu Rass expected the opposition bloc led by Gadi Eisenkot would be unable to disregard. According to Al Jazeera, their seats would lift that bloc past the 61-seat mark needed to form a governing coalition.",
-    "Lama Yassin, 31, who drove voters to polling stations in her hometown of Arrabeh, told Al Jazeera that the turnout gave her real optimism about change. The debate that followed, she said, was far less welcoming. Israeli broadcasters, in her account, hosted Jewish commentators to discuss Arab voters while barely inviting any Arab participants, and the framing centred on the supposed danger those voters posed.",
-    "Within a day of the vote, Likud and figures such as Itamar Ben-Gvir accused the Arab parties of winning through “bribery, threats, violence, forgeries”. The report says these claims kept circulating even after the Central Elections Committee and the Israeli police reported no evidence of organised manipulation.",
-    "Yassin argues that Israelis praise Palestinian citizens as partners when it is convenient, yet treat their political ambitions as hostile once they seek real influence over policy. Omar Siksik, a former Tel Aviv-Jaffa councillor, said election day was the only area in which Palestinian citizens stand on equal terms with Jews, and that the Arab vote had come to be seen as a security problem.",
-    "The article also describes economic and social pressures. Following October 7, Israel withdrew tens of thousands of work permits held by Palestinians from Gaza and the West Bank, and short-term foreign labourers are reportedly filling those roles. Yassin also pointed to online rumours, circulating over the summer, that Arab doctors were poisoning Jewish patients at Rambam Hospital in Haifa. The report does not say whether those rumours have been checked.",
-    "Two legal matters feature prominently. On November 3, around 15 security officers, some masked, raided the Jaffa home of journalist and activist Abed Abou Shehadeh and detained him in front of his two children. He faces an accusation of “contacts with a foreign agent”, and a court ordered him held until November 8. Separately, police detained seven Bedouin men over an alleged plan to pay people to vote for Ra’am, a claim the party disputes. Ayman Odeh, the Arab political leader, is also under investigation by the Shin Bet over allegations that he took foreign money to shape turnout; he rejects them and describes the probe as politically driven.",
-    "Abu Rass believes the country has reached a decisive juncture and that Arab citizens now confront the entire state apparatus, and possibly hidden power networks within it. These are his judgements, not findings reported as fact."
-   ],
-   "cav": "Most of the serious claims come from interviewees such as Yassin, Siksik and Abu Rass and are presented as their views. The vote-theft allegations, the foreign-funding accusations and the claims about doctors are disputed or unresolved in the report, and it does not report any outcome from the court or Shin Bet proceedings.",
-   "op": "Claims of fraud and foreign funding should be tested in court, not amplified in television studios. When citizens are scrutinised for how they vote and their representatives are treated as a threat, the democratic process itself is at stake. Israeli institutions should prove that the same rules apply to everyone.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-d3b6674726b553ce",
-   "member_ids": [
-    "w-d3b6674726b553ce",
-    "w-a596ca56ac691d4e"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T09:22:35+00:00",
-   "t": "US Secret Service arrests Venezuelan national near White House with three firearms in stolen car",
-   "s": "A man accused of telling officers that voices urged him to kill President Donald Trump was arrested near the White House on Thursday night, according to the Department of Homeland Security. He has been charged and is in US Marshals Service custody.",
-   "p": [
-    "The US Secret Service arrested a man on Thursday evening after officers spotted him acting suspiciously in a parked car on Constitution Avenue in Washington, according to a statement from the Department of Homeland Security (DHS). The suspect was identified as Ronny Yordrix Guanipa Chrinos, a Venezuelan national.",
-    "According to the DHS account, officers approached the vehicle and the man told them he had heard voices in his head telling him to kill Trump. Officers then found that the car had been reported stolen. The suspect allegedly admitted he had weapons in the vehicle, and officers recovered three firearms, including one rifle, along with dozens of rounds of ammunition.",
-    "Chrinos has been charged with multiple offences, including possession of dangerous weapons and theft, the DHS said. He is in the custody of the US Marshals Service. The department also said he had entered the United States illegally through Texas in March 2024, a claim that is presented only in the agency’s statement.",
-    "Secret Service Director Sean Curran said the incident reflected a “heightened threat environment” around the White House complex. He said the agency remained confident in its tactics but was alarmed by the rising number of threat cases. Homeland Security Secretary Markwayne Mullin praised the officers for stopping the man before he could cause harm.",
-    "The arrest is the latest in a series of cases in which people have been detained over threats against Trump since he returned to the White House in January 2025, the reports said. The Guardian reported that the secret service and other law enforcement agencies have made similar arrests against people who threatened Trump or his family.",
-    "The accounts of the incident come mainly from the DHS statement. The suspect’s description of voices is reported second-hand and has not been tested in court. The White House did not comment on the case and referred questions to DHS and the Secret Service. Chrinos has not yet entered a plea in the reports available, and the charges remain allegations."
-   ],
-   "cav": "Nearly all details come from a single DHS statement, including the suspect’s words, the claim of illegal entry and the charges, none of which have been tested in court. The White House declined to comment, and the reports do not say whether the vehicle’s theft has been independently confirmed.",
-   "op": "Threats against a sitting president demand serious policing, but the public is also owed a process in which charges are proven before they define a man. When officials attach immigration status to a case that also involves a mental-health claim, transparency means separating verified facts from political messaging.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/30a42bd193109c7cf7e2854cf733ff3179bf6e89/436_0_4356_3485/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=11a25acc70a5aedd71f8e747816f1066",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump"
-  },
-  {
-   "id": "w-49308f5658661f12",
-   "member_ids": [
-    "w-49308f5658661f12",
-    "w-b56562d9a287edb1",
-    "w-87f1fe445038aded",
-    "w-62edb1c93a2ce759"
-   ],
-   "section": "World",
-   "published_at": "2026-11-07T07:27:44+00:00",
-   "t": "Meghan’s father Thomas Markle charged over child sexual abuse material; no plea entered",
-   "s": "Thomas Markle Sr, father of the Duchess of Sussex, has been charged in the United States with possessing child sexual abuse material, an accusation he has denied. No plea has been entered.",
-   "p": [
-    "US federal agents arrested the 82-year-old in Florida, and the Justice Department says he faces a single charge linked to the alleged images. He was ordered to wear an electronic monitoring device while the case continues, and a court date in California is yet to be set.",
-    "At a hearing in Tampa lasting about half an hour, Markle was wheeled in and escorted by two US Marshals, and no plea was recorded. Some outlets describe the arrangement as house detention at his assisted living facility, while others describe a senior care setting in Polk County, so the exact conditions remain unclear.",
-    "Investigators say they searched two storage units in the Los Angeles area that Markle had rented since 2008 and seized roughly 78 objects. Prosecutors allege these include negatives, slides and books containing illegal material. A federal complaint says a witness identified Markle in two of the images, which show a man with an underage girl.",
-    "Bill Essayli, the first assistant US attorney for central California, said the seized material showed no victims in the country and that the inquiry is ongoing. His office is aware of reports that Markle may have dementia. Markle has rejected the allegations, calling them “sick lies”.",
-    "A separate inquiry is under way in the Philippines, where police obtained a warrant to examine devices taken from Markle’s former home in Cebu. His son, Thomas Markle Jr, handed over the material. Philippine officials reported around 7,500 photographs and one video, and an official said some children looked as young as 10 or 11. Forensic checks have not yet established who owned, produced or shared the material.",
-    "Meghan, Duchess of Sussex, said she was “deeply distressed” by the allegations and expressed concern for any children who may have been harmed. She has also said that a letter containing troubling claims about her father reached London’s Metropolitan Police. The force later referred its own handling of that letter to the Independent Office for Police Conduct. Meghan has been estranged from her father since 2018."
-   ],
-   "cav": "The sources differ on where Markle was held and whether he is under house detention or electronic monitoring. They also disagree on the year the letter reached police, reported as 2019 by the BBC and 2018 by others. Euronews is the only source reporting a probe in Mexico and the Philippine figures, which remain unverified in court.",
-   "op": "Markle is presumed innocent and has not entered a plea, and that presumption must hold in a case this grave. Victims are best served by open court records and clear timelines, not by leaks. The Metropolitan Police’s letter reached one office and went no further, so its referral to the watchdog should be followed through publicly.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo"
-  },
-  {
-   "id": "w-d84ad07d80f507ca",
-   "member_ids": [
-    "w-d84ad07d80f507ca"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-07T03:07:01+00:00",
-   "t": "US Launches Another Limited Strike on Iran, Trump Calls It ‘Minor’",
-   "s": "Donald Trump says American forces hit an Iranian air defence system in a fresh, limited strike on Friday. The action came days after an earlier attack became public, while mediators pushed to end the conflict.",
-   "p": [
-    "Trump told reporters on Friday that US forces had destroyed an anti-aircraft installation in Iran. He said Iran had put it together and that it was taken out within roughly five to fifteen minutes, and he called the operation “minor.”",
-    "Iranian state media reported hearing two explosions in the Suza area of Qeshm Island, located in the Strait of Hormuz. That shipping route is vital for oil and has been thrown into disarray since the US began its war with Iran in February.",
-    "The US military had earlier labelled its Monday strikes “defensive.” Blasts were reported that day on Qeshm and Hengam islands, as well as in the nearby mainland area around Bandar Abbas.",
-    "The Friday strikes followed a heavy defeat for Trump’s Republican Party in Tuesday’s US midterm elections. Analysts and voters have linked the result to frustration over the handling of the Iran conflict and to higher fuel costs, which the war has pushed up across much of the world economy.",
-    "Since the vote, Trump has swung between vowing to “destroy” Iran and saying a settlement is close. The nuclear programme remains the most difficult dispute, and he has insisted it be resolved as part of any agreement to end the fighting.",
-    "US Central Command later said on X that Washington would pay up to $20 million, and could offer relocation, to anyone providing information on Iran’s nuclear programme. The notice pointed readers to the State Department’s Rewards for Justice initiative.",
-    "Diplomacy is still under way. Trump said on Friday that mediators were continuing their talks with Tehran. Qatar, which has been brokering between Washington and Iran, said US Defense Secretary Pete Hegseth had spoken with his Qatari counterpart. Trump also spoke with Qatar’s emir, Sheikh Tamim bin Hamad al Thani, about lowering tensions, according to Qatar’s ruler’s media office. Concern persists that Trump could still order further strikes."
-   ],
-   "cav": "The damage to the air defence system rests on Trump’s own account, and the evidence offers no independent confirmation. The explosions are reported by Iranian state media and are not verified, and no Iranian government response is included.",
-   "op": "When a president calls strikes on another country “minor” in an off-the-cuff exchange, the public must take his word on their scale and purpose. Limited or not, military action needs a clear, checkable account of what was hit and why. A war that is pushing up fuel prices worldwide should not be judged on verbal summaries alone.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=140&quality=85&auto=format&fit=max&s=43a5ac1a97cd0bf0f1ee113a55feaeea",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
-  },
-  {
-   "id": "w-30866560e7b8232b",
-   "member_ids": [
-    "w-30866560e7b8232b"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-07T01:04:52+00:00",
-   "t": "Trump names Stephen Miller chief of staff after midterm rebuke over deportations",
-   "s": "Days after US midterm voters rejected Republican candidates, President Donald Trump named Stephen Miller, the architect of his most aggressive immigration policies, as White House chief of staff. Critics say the move signals faster mass deportations.",
-   "p": [
-    "On Tuesday, US midterm voters rejected Republican candidates across the ballot, in states near the southern border and far from it, in blue and deep-red states alike. The result was read as a rebuke of Donald Trump and his mass deportation campaign, which had sent military tanks and masked agents through residential streets.",
-    "On Friday, according to the reporting, Trump did not change course. He named Stephen Miller as his chief of staff. Miller had already been among the most influential figures in the administration’s immigration agenda, serving in earlier roles as a deputy chief of staff and policy adviser.",
-    "The piece credits Miller with a series of violent immigration raids across US cities in the past two years, and with pushing the administration to all but shut down legal immigration. It also describes him as the author of the “Muslim ban” in Trump’s first term and of a zero tolerance policy that separated more than 5,600 children from their parents and caregivers at the US-Mexico border.",
-    "The article says the Wall Street Journal reported that Miller raised the idea of invoking the Insurrection Act after immigration agents shot and killed Alex Pretti, a nurse, during raids in Minneapolis. It also credits him with the legal framework for using the Alien Enemies Act against Venezuelan immigrants, whom it says were expelled to a Salvadoran megaprison.",
-    "Faisal Al-Juburi, co-chief executive of the Texas-based aid group Raíces, said the appointment “signals a doubling down” on the administration’s cruelest impulses. Trump’s defense secretary, Pete Hegseth, praised Miller in a social media post, saying “He never backs down.”",
-    "Democrats who regained control of Congress, governors’ offices and statehouses are expected to press back. Representative Robert Garcia, who is poised to lead the House oversight committee next year, said Miller “should lawyer up” and promised an investigation. Senator Alex Padilla pledged to use oversight, investigations, subpoenas and federal funding leverage.",
-    "The article notes limits on that effort. Immigration enforcement agencies have about $70bn in funding through 2029, Immigration and Customs Enforcement is set to expand its workforce, and arrests and detentions are already at an all-time high. It also reports, citing 2018 events, that Miller reportedly sank a deal that would have given Trump $25bn for a border wall in exchange for protections for undocumented immigrants who came to the US as children."
-   ],
-   "cav": "This is a commentary column, so its characterisations of Miller’s motives and record are the author’s judgement. The Wall Street Journal account of the Insurrection Act discussion and the 2018 deal are second-hand or “reportedly” claims, and the piece does not give Miller’s own response.",
-   "op": "Putting the architect of the deportation drive at the centre of the White House is a test of accountability, not just a personnel choice. Congressional oversight, subpoenas and public records should now be used in full, so that the public can see how these policies are made and who answers for them.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/4c335dc7c5ebfe5400f0bc48dcf393c6617cea91/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ab9e00c284b6f2941a801e39068a3e9a",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration"
-  },
-  {
-   "id": "w-a21c6ce96a80ec4b",
-   "member_ids": [
-    "w-a21c6ce96a80ec4b"
-   ],
-   "section": "World",
-   "published_at": "2026-11-06T22:54:00+00:00",
-   "t": "Pope Leo arrives in Uruguay, opening a 12-day South American tour weeks after cancer surgery",
-   "s": "Pope Leo XIV has arrived in Uruguay to begin a 12-day tour of three South American countries, just weeks after lung cancer surgery. The Vatican estimated that 30,000 people turned out to see him in Montevideo.",
-   "p": [
-    "Pope Leo XIV landed in Uruguay on Friday, the first stop on a demanding 12-day tour that will also take him to Argentina and Peru. The 71-year-old pontiff underwent lung cancer surgery only weeks before the trip.",
-    "Speaking to reporters aboard the papal plane after a flight of nearly 14 hours from Rome to Montevideo, Leo said he was very happy to be in Uruguay. He said he had never doubted that the journey had to go ahead.",
-    "Crowds gathered along his route as he travelled through Montevideo in an open-sided popemobile. The Vatican estimated that 30,000 people came to watch him pass and to attend his first event in the country, which is largely secular and where membership of the Church is declining.",
-    "In a speech in the city’s main square, Leo praised respect for the law, negotiation and patient efforts to reach agreements, saying Uruguay could offer these lessons to its neighbours. Uruguayan President Yamandu Orsi, leader of the centre-left alliance, attended the event.",
-    "Leo is also expected to visit the Casavalle neighbourhood, an area known for high levels of poverty and violence. According to the reports, his visit is the first by a pope to Uruguay in nearly four decades, since John Paul II came in 1988. Tickets for a prayer vigil at Centenario Stadium sold out within two days.",
-    "After three days in Uruguay, the pope will cross into Argentina on Sunday, the homeland of his predecessor Francis, who never returned there as pope. Leo is due to meet President Javier Milei, whose spending cuts the Catholic Church has criticised for hurting programmes for the poor. He also plans to meet business leaders, trade unions and social groups.",
-    "The tour ends in Peru on Wednesday, where Leo spent about two decades as a priest and was made a naturalised citizen in 2015. He plans Masses in Chiclayo, Santa Cruz de Succhabamba and Cusco, and a visit to Pucallpa in the Peruvian Amazon to honour indigenous people. Street vendors are selling T-shirts and rosaries bearing his image, and bakeries are selling ‘Leo bread’."
-   ],
-   "cav": "The 30,000 crowd figure is a Vatican estimate, not an independent count. The summary describes a 12-day trip, while the article gives only the stops it lists, so the full schedule is not confirmed by the evidence.",
-   "op": "A papal visit can be a moment of faith, but Leo’s message about law, negotiation and patient compromise matters beyond the Church. Governments in the region should be held to that standard, especially where budget cuts fall on the poor.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-20e5ea8a8d513923",
-   "member_ids": [
-    "w-20e5ea8a8d513923"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-06T21:23:54+00:00",
-   "t": "Global stocks slide as tech worries and Democrats’ midterm win rattle markets",
-   "s": "European and Asian stock markets fell sharply on Friday after a rout in US technology shares, which followed the Democrats’ midterm victory. Analysts warned that more selling could follow.",
-   "p": [
-    "European and Asian stock markets fell sharply on Friday, following a sell-off in US technology shares that the Guardian linked to the Democrats’ decisive victory in the midterm elections. The Nasdaq had its worst day in 19 months on Thursday, sinking 5.5%.",
-    "Chip stocks led the decline. According to the report, the memory maker SanDisk tumbled 22% and the hard drive maker Western Digital fell 17%. Wall Street’s volatility gauge, the Vix, jumped by more than 60%, reaching its highest level since the early weeks of the Iran war.",
-    "The selling spread to Asia on Friday. Japan’s Nikkei 225 sank 6%, while South Korea’s Kospi fell more than 6.5%. Christopher Forbes, head of Asia and Middle East at CMC Markets, described the situation as “a bit of a disaster”, saying clients had faced margin calls and complaints.",
-    "In London, the FTSE 100 was at one stage down as much as 2.35% during morning trading, and was poised for its worst day since March. By the close it had recovered some ground and was down 1%, helped by a rise in US stocks when Wall Street reopened. Germany’s Dax fell 2%, France’s Cac 40 dropped 0.8% and Spain’s Ibex lost 0.6%.",
-    "Some relief came in the United States. On Friday the S&P 500 rose 0.3% and the tech-heavy Nasdaq closed up 1%, recovering only part of Thursday’s losses. A stronger-than-expected jobs report showed the US economy added 165,000 jobs in October and the unemployment rate fell to 4.1%.",
-    "Analysts offered differing views on what comes next. Susannah Streeter of Wealth Club pointed to worries that the build-out of datacentres could slow, and to investors becoming nervous about returns on heavy spending. Chris Beauchamp of IG warned there was a risk of “much more selling to come” while fears about the tech sector remain. Mohit Kumar of Jefferies said he did not expect a quick rebound, but did not believe the move marked the start of an unwind of the tech investment trade.",
-    "Despite the losses, most indices remain higher for the year. The Nasdaq Composite is up 6.35% since the start of January, although it is more than 10% below its peak. The FTSE 100 has gained almost 7.5% in 2026, but sits more than 300 points below its record high set in July.",
-    "The turmoil also reached metals markets. Benchmark three-month copper dropped 0.61% and was heading for a 2.79% fall this week, its biggest weekly decline since March. Craig Lang of CRU said copper prices were increasingly shaped by the tech investment market and by sentiment towards datacentre expansion. Investors also said they were watching the oil price and the possibility of a renewed Iran conflict."
-   ],
-   "cav": "The sources link the market fall to the midterm result, but the analysts quoted offer several explanations, mostly centred on doubts about spending on datacentres, and the report does not establish a direct cause. The Iran conflict is mentioned only as a risk that investors are watching.",
-   "op": "Markets are entitled to reprice risk, but investors and voters deserve clear explanations of what drives these swings. Governments should publish data and policy plans openly, so that big tech spending is judged on evidence rather than on rumour and panic.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
-  },
-  {
-   "id": "w-4124fc328a5ee49a",
-   "member_ids": [
-    "w-4124fc328a5ee49a",
-    "w-c3acf6fd81a24f15",
-    "w-e9e8314b797af6c0"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T18:51:37+00:00",
-   "t": "Protesters enter Microsoft datacentre construction site in Amsterdam as Europe-wide demonstrations begin",
-   "s": "Demonstrators forced their way onto a building site in Amsterdam where Microsoft is constructing a datacentre, the first action in two days of protests across Europe. Police say they could not stop the occupation and that force was used.",
-   "p": [
-    "On Friday, members of the Dutch direct-action group Geef Tegengas broke into a Westpoort site in Amsterdam where a Microsoft facility is under construction, according to The Guardian and DW. Some climbed a crane, set off flares and attached helium balloons to equipment, while others unfurled banners criticising Microsoft’s dealings with the Israeli military and US Immigration and Customs Enforcement.",
-    "Police told NOS, the Dutch public broadcaster, that they had tried to head off the occupation and make arrests but failed, and that force had been used. Protesters said officers deployed teargas against people trying to get in. Crowd estimates differ: DW describes more than 100 activists, while The Guardian, citing organisers and local media, reports hundreds on each side of the fence.",
-    "The Amsterdam incident was separate from the wider Stop Dirty Data Centres campaign, a coalition that includes national branches of Greenpeace and Friends of the Earth. Its affiliated members stayed outside the perimeter. The coalition said it had neither organised nor promoted the Dutch action, but described it as understandable that local communities would turn to varied tactics when they feel shut out of decisions.",
-    "The campaign says more than 100 groups are taking part in protests in 16 countries and wants a halt to large new datacentre construction until governments set tighter rules. It is not seeking the closure of existing sites. Smaller rallies were held in Bristol, at a datacentre in Berlin, outside Poland’s parliament in Warsaw and in Zagreb, with further demonstrations planned for Saturday in countries including Ireland, Denmark, Finland, Spain, Italy, France and the UK.",
-    "Campaigners argue that these sites strain power grids and water supplies, compete with housing for resources and undermine climate targets. Owen Espley, the campaign coordinator, said developments are being pushed ahead with little openness or oversight. Organisers also link the protests to job losses and the influence of technology firms. Roos Molenaar of Geef Tegengas said the Amsterdam project was draining local drinking water, a claim the reports do not independently verify.",
-    "Microsoft said it was aware of the demonstration, put the wellbeing of people on and around the site first, and respected peaceful expression while not condoning unlawful acts. Pure Data Centres, the site owner, said it respected peaceful protest but considered entering an active construction site unlawful and dangerous, and asked people to leave and talk through their concerns. DW reports the company plans to invest more than $1 billion (€890 million) in the project.",
-    "The protests come amid rising scrutiny of the sector. According to DW, a Google project in Finland faces a criminal investigation over land clearances, and Italy and Portugal are tightening environmental rules for datacentres. The Guardian, referring to a recent investigation with Investigate Europe, reports dangerous conditions for some workers building such sites. DW says the Netherlands has about 200 datacentres planned, under construction or operating."
-   ],
-   "cav": "The sources disagree on crowd size, and the claims about the force used come from police on one side and protesters on the other. The drinking-water claim and the campaign’s figures come from the organisers. The Al Jazeera item was only a short summary with no article text, so it adds nothing beyond the basic facts.",
-   "op": "Protest against datacentre expansion is legitimate, but forcing entry onto an active building site is not, and it hands the developers a easy story. Governments that approve these projects owe the public the environmental and labour records behind them, published in full. Openness, not fences, is what would settle this dispute.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?width=140&quality=85&auto=format&fit=max&s=bb42d3281a9656f57f4b7088d7e894e0",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
-  },
-  {
-   "id": "w-7dd160a49e994ff7",
-   "member_ids": [
-    "w-7dd160a49e994ff7",
-    "w-bb2f60476accc99b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-06T18:38:44+00:00",
-   "t": "Bomb threats strike European airlines and newsrooms in a third wave this week",
-   "s": "Airlines and media organisations across Europe received bomb threats on Friday. Irish officials said the warnings could be part of a coordinated campaign, though no connection between the two sets of threats has been shown.",
-   "p": [
-    "Friday brought another round of bomb threats against European aviation, the third such episode this week, according to the BBC. Flights travelling to and from Lisbon, Rome, Prague and Sofia were among those affected, and authorities said three aircraft were accompanied by Hungarian fighter jets.",
-    "The latest round follows a earlier set of warnings that touched close to 30 planes and several European airports. The UK government characterised those threats as a deliberate prank. A Ryanair service due to depart from Lisbon for Rome was one of the flights named, the airline said. AFP counted at least 11 flights targeted in the Czech Republic and Bulgaria, while France reported that at least four of its flights had been threatened. Every French flight concerned came down safely.",
-    "Media organisations were also forced to act on Friday. Several outlets were evacuated after similar warnings, including Ireland’s public broadcaster RTÉ. Employees at the Irish Independent and at the Dublin premises of NewstalkFM and TodayFM were told to leave their buildings. Sky, the UK broadcaster, said it had also been targeted, a few hours after RTÉ cleared its premises. Sky said it had passed the matter on to the appropriate bodies.",
-    "Irish police, the gardaí, confirmed that they were looking into a threat aimed at media organisations in Ireland and elsewhere on the continent. The Irish government said the pattern looked like a probable organised effort to disrupt daily life, yet it admitted it did not know who was behind the messages or whether a single person or a group was responsible. Prime Minister Micheál Martin said he found the situation troubling and that protecting the public came first. Dublin is set to host two major European Union gatherings next week.",
-    "The BBC noted that investigators have not tied the airline threats to those sent to newsrooms. Separately, the Russian extremist network “Male State”, which had been named in earlier hoax threats against Italian airports, rejected any role in the warnings. A Telegram channel associated with the network and its founder, Vladislav Pozdnyakov, ridiculed the idea that it had sent the emails, the BBC Russian Service reported.",
-    "Al Jazeera reported that newsrooms in Ireland and Bulgaria also got threats from a caller who gave the name “Mikhail Andropov”. The available material does not verify that name, nor show whether the caller has any link to the other threats."
-   ],
-   "cav": "Investigators have not connected the airline and media threats, and the origin of the warnings remains unknown. The denial attributed to “Male State” came through a Telegram account, so it is a claim rather than a verified statement. The “Mikhail Andropov” identity is reported second-hand and has not been confirmed.",
-   "op": "Hoax threats that empty planes and newsrooms impose real costs on ordinary people, so authorities should say plainly what they know and what they are investigating. Vague talk of an organised campaign, without public evidence, leaves citizens to guess. Openness is the best defence against both panic and impunity.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
   }
  ]
 }
