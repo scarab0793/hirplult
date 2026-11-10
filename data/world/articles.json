@@ -1,6 +1,337 @@
 {
- "updated_at": "2026-11-10T13:44:29.826213+00:00",
+ "updated_at": "2026-11-10T20:59:35.099198+00:00",
  "items": [
+  {
+   "id": "w-4bf9ec2f4610b45f",
+   "member_ids": [
+    "w-4bf9ec2f4610b45f",
+    "w-9083470d25a95502",
+    "w-c056dc801be4f8d8"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-10T20:41:53+00:00",
+   "t": "US soldier arrested in England on suspicion of espionage for Russia, police say",
+   "s": "British police have arrested a 41-year-old member of the US military near Gloucester in southwest England on suspicion of espionage linked to Russia. The man is in custody, and the inquiry is continuing.",
+   "p": [
+    "UK authorities say a man aged 41 who serves in the American armed forces was detained on Tuesday close to Gloucester, in the southwest of England. The Metropolitan Police in London suspects him of carrying out espionage on behalf of Russia. In a statement, the force said he was held under two parts of the National Security Act 2023, one dealing with help given to a foreign intelligence service and the other with obtaining or passing on protected information.",
+    "According to the force, its counter-terror officers worked hand in hand with the FBI and American military investigators. Deputy Assistant Commissioner Vicki Evans, who coordinates counterterrorism policing at national level, called the arrest significant and said the allegations are serious. She added that the inquiry is still moving forward. Police said officers were searching two addresses in Gloucestershire, and that the suspect is being held at a police station in the capital.",
+    "FBI Director Kash Patel described the arrest as important and said that espionage allegations of this kind worry Washington and its partners greatly. He warned that anyone who betrays their oath to the United States will face no tolerance. Sean Stinchon, who commands the US Army Counterintelligence Command, said the case showed how well the two countries’ agencies cooperate.",
+    "Police stressed that the detention has no link to other counter-terror inquiries. That suggests it is separate from a suspected Iran-linked plot in September at RAF Fairford, a British air base used by American forces. After that threat, the US Air Force pulled bombers from the site that had been deployed to hit Iran during the regional conflict.",
+    "A French broadcaster reported that the Americans also removed refuelling aircraft from the Royal Air Force base at Mildenhall in eastern England on Monday. It attributed the move, citing the Wall Street Journal, to a threat from Iran. That explanation reaches readers second-hand, through a newspaper account the broadcaster relayed.",
+    "DW noted that the Gloucestershire area contains several sensitive military and intelligence sites, and that nearby Cheltenham hosts the headquarters of GCHQ, Britain’s signals intelligence agency. These details describe the region rather than the case, and none of the reports connected them to the suspect.",
+    "The accounts also differ on his rank and role. One outlet called him a senior member of the US Army, while another described him only as a member of the US military. No source has named him, and none has reported charges or a court appearance."
+   ],
+   "cav": "The suspect has not been named and no charges have been reported. Outlets differ on his seniority, and the Mildenhall link rests on a Wall Street Journal account relayed second-hand. The sources do not say what information was allegedly involved.",
+   "op": "Espionage allegations against a serving soldier test both alliance cooperation and public trust. The man is presumed innocent, and authorities should bring charges or release details promptly and explain how the alleged breach happened. Secrecy around the case does little to protect national security.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/b26da266-dd42-11f1-8a26-5f54d898a954/w:1024/p:16x9/000-33Z28VA.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence"
+  },
+  {
+   "id": "w-c5da30050562948a",
+   "member_ids": [
+    "w-c5da30050562948a",
+    "w-518877a6ec48aa43"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-10T19:54:46+00:00",
+   "t": "Republicans pick Jim Jordan as House minority leader after midterm losses",
+   "s": "House Republicans have chosen Ohio Congressman Jim Jordan, a close Trump ally, to lead their conference in the minority after losing the chamber in midterm elections. He succeeds Mike Johnson in the post.",
+   "p": [
+    "Republicans in the US House of Representatives have elected Congressman Jim Jordan as their new minority leader, one week after losing their majority in the midterm elections. According to Al Jazeera, the vote was held by secret ballot on Tuesday, and Jordan won the support of his fellow party members over Majority Leader Steve Scalise.",
+    "The Guardian reported that Democrats will take control of both chambers of Congress in January, with their largest margins in years. Sources describe the midterm defeat as sweeping, with Al Jazeera saying Democrats flipped at least 40 seats nationwide.",
+    "The role carries significant responsibilities. Jordan will shape the party’s response to the investigations Democrats have promised into Trump’s second term, and will help prepare for the 2028 presidential race. In a letter to colleagues before the vote, he described himself as “battle-tested” and called for a leadership team that is active and engaged.",
+    "Jordan is a longtime leader of the right in the House. He helped found the conservative Freedom Caucus, and as chairman of the House Oversight Committee he has investigated what he calls the weaponisation of government against Trump, including probes of former Special Counsel Jack Smith and Fulton County District Attorney Fani Willis. Both have unsuccessfully prosecuted the president, according to Al Jazeera.",
+    "Supporters praised him as a fighter. Republican Congressman Brandon Gill wrote on social media that Jordan was “exactly what our Conference needs”. Some Republicans, including Tennessee lawmaker Tim Burchett, said the party needed to admit mistakes after the defeat.",
+    "Jordan has faced past allegations, which he denies, that he knew of sexual abuse of student-athletes by a physician at Ohio State University, where he once worked as an assistant wrestling coach. Al Jazeera reported those allegations without establishing any finding against him.",
+    "Democrats criticised the choice. Virginia congressman Don Beyer said Republicans had “learned absolutely nothing” from the election, and linked the decision to Trump’s recent appointment of Stephen Miller as chief of staff."
+   ],
+   "cav": "The sources differ in emphasis: Al Jazeera frames the vote around unity and the opposition agenda, while The Guardian centres on the party’s change of strategy and Democratic criticism. Former House Speaker Mike Johnson’s plans were reported only by The Guardian, and the outcome of the allegations against Jordan is not described in the evidence.",
+   "op": "Parties are entitled to choose their own leaders, but a minority that has lost voters’ confidence owes the public a clear account of what went wrong. Jordan’s record of confrontation with prosecutors and investigators makes it fair to ask whether he will offer scrutiny of the majority, or simply more fighting. Voters should judge that by his conduct in opposition.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
+  },
+  {
+   "id": "w-a9e9db34c8dad756",
+   "member_ids": [
+    "w-a9e9db34c8dad756"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-10T19:31:24+00:00",
+   "t": "Hegseth Rebuffs Impeachment Push With Rare Pentagon Press Conference",
+   "s": "Defense Secretary Pete Hegseth held a rare news conference at the Pentagon to dismiss an impeachment effort led by Republican Representative Thomas Massie. His remarks focused more on defending President Trump than on answering the charges.",
+   "p": [
+    "Hegseth met reporters at the Pentagon at 8am on a Tuesday, according to the Guardian, after avoiding press briefings for nearly six months. The session came as an unpopular war with Iran continued during an election campaign.",
+    "The trigger was Massie, the outgoing Republican congressman from Kentucky, who has introduced eight articles of impeachment against Hegseth. The Guardian reports that the articles are likely to win support from Democrats and possibly some Republicans.",
+    "The charges, as described in the report, include waging war against Iran without congressional authorization and violating the War Powers Resolution, which requires US forces to withdraw from unauthorized hostilities after 60 days. Other accusations cover strikes against suspected drug traffickers in the Caribbean, the capture of Venezuela’s president, Nicolás Maduro, strikes against Yemen, and retaliation against Senator Mark Kelly, a Democrat who urged military members to disobey illegal orders. Hegseth is named in these accusations but has not been found guilty of anything; they remain allegations.",
+    "Hegseth described the effort as a “farce” and said no secretary of war or defense had been impeached for carrying out lawful military operations. He compared the case with past conflicts under Republican and Democratic presidents, arguing that none had led to impeachment.",
+    "He did not name Massie during the 25-minute appearance, instead calling him “disgruntled” several times. Hegseth said the effort reflected “policy disagreements” rather than the offenses the founders had in mind when they wrote the impeachment clause.",
+    "Hegseth also invoked his predecessor, Lloyd Austin, saying Austin had not faced impeachment after a troubled withdrawal from Afghanistan and a period of medical treatment for cancer. He said the matter was not about him, and warned that if critics wanted to pursue the military, they would have to go through him.",
+    "The defense secretary framed the impeachment effort as an attack on President Trump, who was impeached twice during his first term. Hegseth said he was proud to stand with the president, and accused the media of being unable to acknowledge Trump’s military success against Iran because they “hate the president”. The Guardian’s account does not include independent verification of claims about the war’s outcome.",
+    "The Guardian’s commentary suggests the press conference was aimed as much at the White House as at reporters in the room."
+   ],
+   "cav": "The impeachment articles are allegations, and the evidence does not say whether the House will vote on them. The report is a commentary piece with a critical tone, and its characterisations, such as the description of Hegseth’s remarks, are the outlet’s own reading. Hegseth’s claims about the Iran war are not independently confirmed in the source.",
+   "op": "Impeachment is a constitutional tool, and serious accusations about war powers and civilian harm deserve a factual answer. Calling the process a farce and attacking critics as disgruntled does not explain the legal basis for the conduct under review. Transparency means answering questions under oath and in the open, not in a single appearance that avoids the charges.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-press-conference-impeachment"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/06ecb4e2e1a8e0c7b03f6bc0fe5373eb6937fb6d/1267_525_3842_3073/master/3842.jpg?width=140&quality=85&auto=format&fit=max&s=1a796efaeee36634957b718806382f8e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-press-conference-impeachment"
+  },
+  {
+   "id": "w-a2c8ec084f776090",
+   "member_ids": [
+    "w-a2c8ec084f776090"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-10T18:33:51+00:00",
+   "t": "Najib Razak leaves prison for house arrest at his Kuala Lumpur home",
+   "s": "Former Malaysian prime minister Najib Razak is now at home, where he will finish his corruption sentence under house arrest. The move follows a royal pardon and a High Court ruling that took effect straight away.",
+   "p": [
+    "Najib, 73, reached his Kuala Lumpur residence late on Tuesday night, according to the BBC. Reporters and photographers gathered outside as he arrived by SUV, with police vehicles accompanying him. The home, located in an upscale part of the capital, has been designated a federal prison.",
+    "His return closes a four-year period behind bars. He was found guilty of taking billions of dollars from the national investment fund 1MDB, a case that toppled his administration and reached figures in Malaysia, at Goldman Sachs and in Hollywood. Investigators put the amount drained from the fund at $4.5bn, with part of it flowing into private hands, including his own. Prosecutors allege that more than $1bn landed in accounts connected to him.",
+    "In September, the monarch approved a conditional pardon that lets Najib serve his last two years at home. A planned move on Friday was delayed when the attorney general asked for clarity on the royal decree. On Tuesday, the High Court determined that the house arrest could begin right away. As part of the pardon conditions, his party handed over a $12m fine.",
+    "A 2020 verdict in the first trial gave him 12 years for abuse of power, money laundering and breach of trust. The case concerned 42 million ringgit moved from SRC International, a former 1MDB subsidiary. He entered prison in 2022, and an appeal later cut the term by half.",
+    "A second trial, concluded in December 2025, produced a 15-year sentence linked to nearly 2.3 billion ringgit taken from 1MDB. He is challenging that ruling, and he is set to begin that term once house arrest ends, which is expected in August 2028.",
+    "Najib, who led the government from 2009 to 2018, has rejected any wrongdoing. His legal team argues that advisers misled him, especially the financier Jho Low, who insists on his own innocence and is still at large.",
+    "Critics argue that his release weakens anti-corruption work and question whether it has a legal foundation, since they say Malaysian law does not provide for house arrest."
+   ],
+   "cav": "The sources do not explain the High Court's reasoning, and critics' view that the legal basis is weak remains contested rather than settled. The $4.5bn and $1bn figures are investigators' and prosecutors' estimates and allegations, not established totals. Najib's appeal against the second sentence is pending.",
+   "op": "A convicted leader moving from cell to mansion on a legal basis critics dispute tests whether anti-corruption rules bind the powerful. Malaysia should publish the royal decree and the court's full reasoning. Without that, the 1MDB verdicts risk looking negotiable.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
+  },
+  {
+   "id": "w-9641a16883f21f0b",
+   "member_ids": [
+    "w-9641a16883f21f0b"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-10T17:29:36+00:00",
+   "t": "First day of Ukraine peace talks in Abu Dhabi called constructive, with key disputes unresolved",
+   "s": "Officials from Ukraine, Russia and the United States held the first of two days of trilateral talks in Abu Dhabi. Kyiv and Washington described the session as positive, but the central disagreement over eastern Ukraine remains.",
+   "p": [
+    "Senior officials from Ukraine, Russia and the United States met in Abu Dhabi for the first trilateral talks since February, with a second day scheduled for Wednesday. Delegations from Kyiv, Washington and Moscow took part in four hours of discussions, according to the BBC.",
+    "Russian and Ukrainian officials said little publicly after the session. President Volodymyr Zelensky, who was not at the talks, said they had proved “constructive and quite substantive”. US Secretary of State Marco Rubio, speaking from Paris, called the meeting “very productive”. Zelensky said humanitarian issues, including prisoner of war exchanges, had also been discussed.",
+    "Expectations for a breakthrough were low. US officials said Moscow and Kyiv were showing “a little bit of flexibility” in private on who would control Ukraine’s eastern regions after a war ends. Jared Kushner, the US president’s son-in-law, told delegates the two sides had “narrowed the gaps”, but gave no details.",
+    "The core dispute concerns Donetsk, which Russia largely occupies. Moscow wants Ukraine to give up the parts it still holds, while Kyiv wants the current contact line frozen so it keeps control of those areas, which it says are vital to its security. A US official said the territorial question cannot be settled before the shape of a post-war “security architecture” is agreed.",
+    "The framework under discussion reportedly includes security consultations, crisis communication hotlines and “reciprocal de-escalation measures”. Officials also floated reviving the Nato-Russia Council, which has been largely paused since 2022. European leaders, long excluded from the talks, have pushed to take part, and Rubio said Europeans “are a part of solving this problem”. A US official, however, said the Russians have “a bad taste in their mouth” about Europe.",
+    "Scepticism is widespread. The previous round in Geneva in February ended without a breakthrough, and talks stalled after the US-Israel war on Iran drew Washington’s attention away. Ukrainian MP Oleksandr Merezhko, who heads the parliamentary foreign affairs committee, told the BBC he believed Trump wanted “a quick deal at the expense of Ukraine”, and argued that more sanctions and deep strikes were needed to push Moscow into real negotiations."
+   ],
+   "cav": "Zelensky did not attend, and the claims of private flexibility come from an unnamed US official, so they cannot be independently checked. Kushner’s claim that the gaps had narrowed was given without details, and the outcome of the second day was not yet known when the reporting was published.",
+   "op": "Peace terms that decide the fate of eastern Ukraine and its security should not be shaped in closed rooms and described through anonymous briefings. Ukraine and its European neighbours have a direct stake and deserve a seat, with the substance made public. Transparency is the real test of whether this round means progress.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+  },
+  {
+   "id": "w-a5c1e4d216530967",
+   "member_ids": [
+    "w-a5c1e4d216530967",
+    "w-637eebbf986247e8"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-10T17:03:16+00:00",
+   "t": "Israel’s new parliament sworn in as Eisenkot tries to form a government without a majority",
+   "s": "Israel’s new Knesset has been sworn in, but neither Benjamin Netanyahu’s bloc nor the opposition led by Gadi Eisenkot holds a majority. Eisenkot has been given the first chance to build a government.",
+   "p": [
+    "Israel’s parliament has taken its oath, but the vote count leaves the country without a clear route to a new government. Neither the bloc behind caretaker Prime Minister Benjamin Netanyahu nor the opposition camp led by former army chief Gadi Eisenkot controls the 120-seat Knesset.",
+    "According to the BBC, Eisenkot’s alliance of four parties took 48 seats in October’s election, while Netanyahu’s bloc won 53. President Isaac Herzog has handed Eisenkot the task of forming a cabinet, because more Knesset members recommended him for the role than recommended Netanyahu. The BBC notes that some of those who backed Eisenkot are not prepared to sit in the same government.",
+    "Eisenkot has four weeks to assemble a coalition, and can ask for a further two weeks, according to the BBC. Netanyahu stays in office in a caretaker capacity while talks continue, and that period could last anywhere from a few days to several months.",
+    "Both leaders used the swearing-in to attack each other. Netanyahu asked lawmakers whether they were willing to rely on parties that want to destroy the Jewish state, a reference to any Eisenkot government that would depend on Arab parties. He also urged a unity government to face what he called the threat of “a nuclear Iran”. Eisenkot, for his part, proposed a “national emergency government” that would set ideological disputes aside in order to remove Netanyahu.",
+    "The two Arab-led lists, the United Arab List and the Joint List, took 19 seats between them, a record gained after Arab voter turnout rose sharply. That gives them potential leverage over the outcome. Netanyahu has ruled out working with them, and several parties in Eisenkot’s bloc oppose including them. The United Arab List, with eight seats, has said it is ready to join an Eisenkot-led coalition, while the Joint List, with 11, has offered to back such a government from outside.",
+    "Eisenkot has set four conditions for any party or lawmaker who wants to join him: recognising Israel as a Jewish and democratic state, accepting the values of the Declaration of Independence, backing compulsory service for everyone including groups now exempt, and recognising Hamas as a terrorist organisation that must lose its military and governing capacity. The BBC reports that these conditions could prove difficult for some potential partners. The ultra-Orthodox parties, with 13 seats between them, have strongly opposed any change to the exemption from military service, which was a central issue in the campaign.",
+    "Avigdor Lieberman, whose Yisrael Beiteinu party won seven seats, has so far refused to join a government that depends on Arab lawmakers. Another report says he has proposed an alliance with the ultra-Orthodox parties instead. The opposition also plans to use its new legislative weight to press for an inquiry into security failures that preceded the Hamas attack of October 7, 2023."
+   ],
+   "cav": "The sources do not say which parties would ultimately back Eisenkot, and the price the ultra-Orthodox parties would demand is described only as likely to involve major concessions on conscription. Arab parties’ willingness to help rests on their public statements, not on agreed deals.",
+   "op": "Coalition talks in Israel should be judged by how openly their terms are put to voters. Eisenkot’s four conditions give the public a clear test of commitment to democracy and the rule of law. Any party that rejects them should explain its reasons in public, and any deal struck behind closed doors should be disclosed to the electorate before it takes office.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+  },
+  {
+   "id": "w-9c2cd2220b2da605",
+   "member_ids": [
+    "w-9c2cd2220b2da605"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-10T17:00:11+00:00",
+   "t": "Inside Slovyansk, a shrinking front-line city that Russia wants Ukraine to give up",
+   "s": "The BBC gained access to a Ukrainian drone unit defending Slovyansk, one of four fortress cities in eastern Donetsk, where residents say constant bombardment is forcing people to leave.",
+   "p": [
+    "Slovyansk is one of four cities that make up Ukraine’s “fortress belt”, a system of heavily reinforced defence lines in parts of Donetsk still under Ukrainian control. According to the BBC, Russia wants Kyiv to give up these cities, and they are central to peace talks that resumed in Abu Dhabi between Ukraine, Russia and the US after a nine-month pause.",
+    "The BBC’s reporters were escorted into the city by members of a drone unit that calls itself Peaky Blinders. Tetiana, 21, and her colleague Yasha scan their phones for military intelligence on likely threats from the air. Military escorts described the rainy, overcast weather as good, because drones struggle in such conditions.",
+    "The city is under constant attack from Russian drones, missiles and glide bombs. Abandoned vehicles line the streets, according to the report, having been destroyed by remotely operated first-person-view drones. Anti-drone netting covers the roads, but the BBC said it offers no guarantee of safety. Tetiana said walking was safer than driving.",
+    "Very little of the city has been left unscathed. The BBC saw a school destroyed by glide bombs, a gaping hole in a residential block, and boarded-up shops, most of them closed. Tetiana said Russia is trying to intimidate residents into fleeing “in chaos”, a strategy she described in stark terms.",
+    "Before the war, Slovyansk had more than 200,000 residents, and the BBC reports that fewer than 10% remain. Iryna, who works in one of the city’s last cafes, said she had already lost her home but would not leave: “I won’t leave Slovyansk. This is my home.” Inga, 53, said she stays because she has nowhere else to go and no money to start again.",
+    "The report cites Ukraine’s general staff as saying more than 54,000 Russian troops were killed or injured in October, the deadliest month for Russian forces since the full-scale invasion began. Russia has taken nearly 90% of the Donbas, but its advances this year have largely stalled. Commander Oleksandr of the drone unit told the BBC that neither side can advance because of the number of drones in use.",
+    "The White House has sounded positive about the revived talks, despite President Volodymyr Zelensky’s refusal to cede territory. Ukrainians fear that handing over the fortress cities would make it easier for Russia to push further west, including towards Kyiv."
+   ],
+   "cav": "The 54,000 casualty figure comes from Ukraine’s general staff and is not independently verified in the report, and no Russian response is included. The drone unit’s link to the Omega National Guard Special Forces, mentioned in the report, is not explained.",
+   "op": "Civilians in Slovyansk should not be treated as bargaining chips in any settlement. Any deal that trades away cities should be open to public scrutiny, with clear guarantees for the people who still live there.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
+  },
+  {
+   "id": "w-31021e78e191728c",
+   "member_ids": [
+    "w-31021e78e191728c"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-10T16:23:30+00:00",
+   "t": "Italian coalition split over Ukraine aid as minister's signature on thirteenth package is pending",
+   "s": "Italy's governing coalition is divided over a thirteenth military and civilian aid package for Ukraine, which cannot be published until League Economy Minister Giancarlo Giorgetti signs it. The dispute comes as Rome has won a seat at peace talks in Abu Dhabi, according to Euronews.",
+   "p": [
+    "On Tuesday 10 November, Defence Minister Guido Crosetto was due to present the thirteenth aid package for Ukraine to Copasir, the Parliamentary Committee for the Security of the Republic. Giorgetti, however, has not yet signed the measure, which the procedure requires.",
+    "Within the governing majority, Foreign Minister Antonio Tajani and Crosetto have played down the episode. They pointed to Crosetto's absence, since he had been in Brussels for the Ecofin meeting on Monday. Tajani also said the document is classified and must be signed in person, not electronically.",
+    "Crosetto, speaking to the daily Repubblica, said he was convinced Giorgetti would sign once he returned from Brussels. He also defended continued support for Kyiv and stressed the need for a common European position, as Prime Minister Giorgia Meloni has requested. Sources at Palazzo Chigi repeated that Europe must speak with one voice, even as talks began in Abu Dhabi.",
+    "The row is rooted in the League's stance. Deputy Prime Minister Matteo Salvini has repeatedly voiced reservations about military aid to Kyiv, while Meloni, together with Forza Italia, has remained firm on supporting Ukraine for as long as necessary. Salvini's position has hardened since a League congress reconfirmed him as party secretary.",
+    "League senator Claudio Borghi has increased the pressure on social media, describing the package as a “decree that does not exist” because a measure requiring joint ministerial approval does not exist until all the ministers have signed it.",
+    "Without Giorgetti's signature the decree cannot be published, and neither the military nor the civilian aid can be sent. Reporting by Euronews warns that this could open a serious fight inside the majority whose consequences are hard to predict.",
+    "According to the report, the package is expected to include civilian aid such as generators and probably air-defence weapons. Because a Franco-Italian Samp-T battery was supplied earlier, the shipment could include Aster missiles for that system. The details remain classified, as all previous packages have been.",
+    "Many in the majority reportedly believe Giorgetti will sign in the end, since a breakdown could threaten the centre-right government while it is working through the budget. The mechanism rests on a framework decree introduced by the Draghi government in 2022, which has been renewed four times and expires at the end of the year. Under it, twelve packages have been approved in four years, requiring only a briefing to the Copasir committee.",
+    "The most recent package was sent at the end of 2025. A new framework decree, adopted shortly after Christmas, authorises military and civilian supplies to Ukraine for the whole of 2026. The report does not say how the current impasse will be resolved."
+   ],
+   "cav": "The account relies on one outlet and on unnamed government sources, and Crosetto's confidence that Giorgetti will sign is his own claim. Because the package is classified, the list of contents is described as probable rather than confirmed.",
+   "op": "A military aid decision should not hang on one minister's private timing inside a coalition feud. Parliament and the public deserve a clear account of who must sign, when, and why. Classified does not mean unaccountable, and the framework's joint-approval design only works if every signature is given in good faith.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/10/italian-government-debates-aid-to-kyiv-while-abu-dhabi-holds-talks-on-ukraines-future"
+    ]
+   ]
+  },
+  {
+   "id": "w-73f943c930df8239",
+   "member_ids": [
+    "w-73f943c930df8239",
+    "w-fb787cd5b4a08519"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-10T15:57:00+00:00",
+   "t": "France summons Iran’s ambassador over supermarket fridge cyberattack, Tehran denies role",
+   "s": "France has summoned Iran’s ambassador and says it will seek European Union sanctions over a cyberattack that disrupted hundreds of supermarkets. Tehran rejects the accusations as baseless.",
+   "p": [
+    "Paris has summoned Iran’s ambassador after accusing the Islamic Revolutionary Guard Corps (IRGC) of being behind a cyberattack on supermarket refrigeration. Iran’s Foreign Ministry rejected the accusations on Tuesday, calling them baseless and one-sided and condemning what it described as a habitual practice of blaming the Islamic Republic.",
+    "The alleged attack began overnight on October 11 and 12. According to French prosecutors, it targeted roughly 700 of France’s roughly 10,000 supermarkets by remotely starting abnormal, indefinite defrost cycles and disabling temperature alerts. Retailers said perishable food was thrown away, with millions of euros’ worth spoiled. In some cases, the heat caused fires or melted equipment. Several large French chains, including E-Leclerc, Intermarché, Carrefour, Monoprix and Cooperative U, were affected.",
+    "Paris prosecutor Laure Beccuau said she had opened an investigation into members of Shahid Kaveh, a cyber unit she described as an offensive unit linked to the IRGC’s electronic and cyber centre. Her office has requested arrest warrants for two of its officials and is looking into others. French cyber intelligence agencies said the unit primarily targeted Israel and the United States, but also France and other European countries.",
+    "Foreign Minister Jean-Noël Barrot said the government would rule nothing out in response and would push for EU sanctions. He said the aim was to deter anyone tempted to repeat the attack. Tehran responded by warning it would take measures to protect its interests and accused France of covering up its own governance failures. Relations between the two countries were already strained after expulsions of diplomats in August.",
+    "Other incidents are harder to pin down. A suspected attack on November 2 caused temperature spikes in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden, and a failed attempt on cooling units at French blood banks was reported this month. Officials have not said whether these events are connected. Sweden’s civil defence minister warned that more attacks could follow in the coming months.",
+    "Cybersecurity expert Jody Westby told Al Jazeera that tracing the group responsible is very difficult because of weak international cooperation on cybercrime. The evidence published so far consists largely of French official statements, while Iran has offered only a denial."
+   ],
+   "cav": "The attribution to the IRGC comes from French officials and has not been independently verified in the sources. Whether the later incidents in Sweden, Belgium and elsewhere are linked remains unclear, and the sources give no details of the evidence behind the arrest warrant requests.",
+   "op": "Serious accusations of state-linked sabotage need public evidence before sanctions follow. Paris should publish what it can, so that citizens and allies can judge the case rather than simply trust the government’s word.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-0da4f2b36793d4cc",
+   "member_ids": [
+    "w-0da4f2b36793d4cc"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-10T14:45:46+00:00",
+   "t": "US Inflation Runs Hotter Than Forecast in October as Tariffs and Oil Weigh on Prices",
+   "s": "Consumer prices in the United States rose 0.4% in October, above the 0.3% analysts had expected, adding to pressure on the Federal Reserve ahead of its December meeting. The official figures came a week after the midterm elections.",
+   "p": [
+    "Official figures show US prices rose 0.4% over October, slower than the 0.6% increase recorded in September but above what economists had forecast. Analysts said the result strengthens the case for the Federal Reserve to raise interest rates when it meets in December.",
+    "The increase was driven mainly by higher housing, food and energy costs. Energy prices rose 0.7% in October, a much smaller gain than the 5.2% jump in September, according to the figures as reported.",
+    "No annual inflation rate was published this month. The Bureau of Labor Statistics normally reports a 12-month change, but it did not collect data in October 2025, so it cannot calculate that comparison.",
+    "The Bureau measures inflation through the consumer price index, which tracks the prices of hundreds of everyday goods and services, from groceries and petrol to medical care. Its basket of goods is updated over time as spending habits change.",
+    "The sources link the energy trend to the conflict involving the United States, Israel and Iran. Crude oil was trading at just over $70 a barrel before the war began, but it has since risen above $100, reportedly because supplies were constricted.",
+    "Federal Reserve governor Christopher Waller, who spoke before the October figures were released, reportedly signalled he was leaning towards a rate rise in December even if inflation came in slower than expected.",
+    "Tariffs are also part of the picture. After the Supreme Court struck down most of the additional global tariffs in February, the president announced a new 10% global tariff to replace them. According to research from the Federal Reserve Bank of New York, American businesses absorbed nearly 90% of the cost of the new levies, because overseas exporters cut their prices only slightly.",
+    "The New York Fed also found that each one-percentage-point rise in average tariffs pushed up consumer goods prices by nearly 0.25% after a year. Inflation is still well below the peaks seen during the Covid pandemic, when supply chain disruptions pushed prices sharply higher."
+   ],
+   "cav": "The sources describe October's rise as both faster-than-expected and as 0.4% against a forecast of 0.3%, and they do not give a full 12-month figure. The oil price and Waller’s stance are reported second-hand, and the tariff cost estimates come from a New York Fed study that the sources summarise rather than publish in full.",
+   "op": "Official data gaps and trade policy are now shaping household budgets and central bank decisions. Policymakers owe the public clear explanations of how tariffs feed into prices, and the Bureau should restore complete data collection without delay. Voters deserve numbers they can check.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+  },
   {
    "id": "w-b35e702d1abe5973",
    "member_ids": [
@@ -269,6 +600,67 @@
      "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks"
     ]
    ]
+  },
+  {
+   "id": "w-0585a161a6c53b45",
+   "member_ids": [
+    "w-0585a161a6c53b45"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-10T09:40:31+00:00",
+   "t": "Trump calls fresh US strikes on Iran ‘highly unlikely’ but says Washington stays ready to act",
+   "s": "President Donald Trump has said renewed American attacks on Iran are improbable, while warning that US forces remain prepared if conditions change. He made the comments after meeting Qatar’s prime minister, amid mounting domestic pressure over the war.",
+   "p": [
+    "Speaking in the White House briefing room on Monday, Trump argued that Iran’s military had been largely neutralised, and said talks aimed at ending the Middle East conflict were moving in a constructive direction. He described Washington’s current posture as a holding pattern, which he said was being maintained largely at the urging of neighbouring states.",
+    "The remarks followed an Oval Office meeting with Qatar’s prime minister, Sheikh Mohammed bin Abdul Rahman Al Thani. Trump called the talk a productive exchange about bringing the war to a close. Qatar, a US partner in the Gulf and one of Iran’s neighbours, has played a central mediating role. In a message posted on X, the Qatari leader said he had held constructive discussions with Trump and Vice-President JD Vance about a settlement for the region.",
+    "Iranian officials have repeatedly questioned Trump’s earlier suggestions that the conflict was close to resolution. According to the BBC, this is not the first time he has described the war as over in military terms, but his political situation has shifted since then. Diplomacy has largely been conducted through intermediaries since the fighting began after joint US and Israeli strikes in February.",
+    "The change in tone follows a difficult set of midterm results for the Republicans last week, which senior party figures, including Vance, attributed in part to the war. Before the vote, Trump had acknowledged limited US strikes on an Iranian island in the Strait of Hormuz. In a 60 Minutes interview broadcast on Sunday, he said he saw no current justification for escalating.",
+    "Asked why he had not formally declared the war at an end, Trump said some Gulf partners could still be exposed to Iranian aggression. He suggested that the American naval blockade of Iranian ports was helping to make the region safer. Saudi Arabia, Qatar and the United Arab Emirates have all been struck by Iranian fire during the conflict, and the threat of attacks has caused significant disruption to air travel in the region.",
+    "Energy markets responded to the developments. Oil prices have dropped sharply since the midterms and fell further after Trump’s remarks. On Tuesday afternoon in Asia, Brent crude traded more than 1% lower at $91.50 a barrel, while US-traded crude was down 1.2% at $85.82.",
+    "The fallout is also reaching the Pentagon. Republican Congressman Thomas Massie intends to bring a House vote this week on impeaching Defence Secretary Pete Hegseth over the war. Hegseth, who has Trump’s backing, says he is unconcerned by the threat and Trump has dismissed Massie’s push as a stunt. Because Republicans still hold Congress until January, the motion is unlikely to pass, although Democrats have indicated they would support impeachment once the new session starts."
+   ],
+   "cav": "The central claims about Iran’s military position and the state of negotiations come from Trump’s own statements, and Iranian officials have disputed his earlier assessments. The account relies on a single outlet, and the sources do not say what terms a deal might involve or when one could be reached.",
+   "op": "A declaration that a war is effectively over is not the same as ending one, especially when allies and markets remain exposed. Washington owes the public a clear account of what has been agreed, what remains open and who answers for the campaign. Leaders who keep the state of war vague should expect scrutiny from Congress and voters.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
+  },
+  {
+   "id": "w-c95056dc4dbc835c",
+   "member_ids": [
+    "w-c95056dc4dbc835c"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-10T09:23:55+00:00",
+   "t": "Nvidia chief Jensen Huang, under investigation, lobbied Trump on China chip exports, BBC analysis says",
+   "s": "Nvidia boss Jensen Huang is being investigated over an affair involving an alleged Chinese spy, according to BBC analysis by Faisal Islam, who argues he matters more to the future of the world order than other tech leaders. Nvidia shares fell about 4% on Monday.",
+   "p": [
+    "In a BBC News analysis, Faisal Islam compares Jensen Huang with the late Steve Jobs, noting that both are admired innovators with a strong personal presence. Huang, however, is now under investigation over an affair involving an alleged Chinese spy, a matter the piece treats as a serious new risk for the company.",
+    "The column explains why Nvidia matters so much. The most advanced systems of today depend on the most powerful microchips, and for years those have been produced by Nvidia, using technology that grew out of graphics hardware and manufacturing capacity in Taiwan. Islam writes that the names of its chips mean little to the public, yet they power the technology that is transforming the world.",
+    "Islam met Huang in September last year, during Donald Trump’s state visit to the UK. At the time, Huang was pressing the US government to lift export bans on some of the most capable chips sold to China, including the H200. Islam suggested that Huang was one of the few people who could meet Trump at the White House and then Xi Jinping in Beijing within days. Huang said he believed he had persuaded Trump of his case.",
+    "Huang argued that the contest between the US and China is not zero-sum and that American interests were better served if the world relied on US technology. He also said that such computing technology was not a national security concern. Islam notes that many people in national security circles reject this view. They argue that the race for the most advanced technology is effectively zero-sum and that the West, and the US in particular, must act to slow Chinese progress.",
+    "The column links those public arguments to the current inquiry. It says the period in which Huang was lobbying is now being independently investigated over national security concerns and alleged Chinese espionage. The piece does not set out the scope of that investigation, who is conducting it, or what it has found so far.",
+    "Islam reports that Nvidia shares fell about 4% on Monday, which he attributes to new risks at the point where technology and global politics meet. He says the company is still expected to perform strongly, citing hard revenues of about $400bn this year and a market value of more than $4 trillion."
+   ],
+   "cav": "This is an analysis column rather than a news report, and the investigation’s details, the identity of the alleged spy and the status of any findings are not in the source. The revenue and valuation figures are reported without a stated original source, and Huang’s claims are his own, relayed second-hand by Islam.",
+   "op": "Huang’s influence over the chips that shape the future of technology is a matter of public interest, and so is how the inquiry into him is handled. Allegations of espionage against a figure with this much reach call for clear, timely disclosure of what is being examined and why, not market rumour. Until findings are public, the presumption of innocence must hold, and investors and governments deserve facts.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo"
   },
   {
    "id": "w-d360149389ef4dd0",
@@ -870,194 +1262,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o"
-  },
-  {
-   "id": "w-3340b42b70005f42",
-   "member_ids": [
-    "w-3340b42b70005f42"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-08T17:59:03+00:00",
-   "t": "Krakow shooting: surgeons who were lunching nearby describe treating gunman and officers",
-   "s": "Two surgeons who were eating near Krakow’s Main Market Square when a gunman opened fire say they treated the attacker and two police officers at the scene. One colleague says his actions undoubtedly saved an officer’s life.",
-   "p": [
-    "Professor Michal Pędziwiatr and Dr Mateusz Wierdak were having lunch in central Krakow with their families on Saturday when they heard gunshots, according to local media reports cited by the BBC. The shooting killed six people and injured 15, the BBC reported.",
-    "Pędziwiatr told the Polish outlet Fakt that his son ran up to him and said people were being shot and falling to the ground. When the two doctors reached the scene, they treated both the apparent attacker and the police officers who had been shot while subduing him.",
-    "Wierdak worked on an officer who had been shot in the chest. Describing the emergency treatment, he told Fakt that he “stuffed all the bandages” into the wound. He said that without this, “I don’t know how things would have turned out”, because an ambulance had a long wait to arrive.",
-    "Pędziwiatr said he telephoned John Paul II Hospital, where the thoracic and cardiac surgery department is based, and insisted the officer be taken there. In his view, it offered the best chance of survival because specialists there treated that type of injury.",
-    "The two officers have been named as senior constables Jakub Kulik and Artur Morański. On Sunday they came out of comas. Prime Minister Donald Tusk had earlier hailed both as heroes for preventing further deaths. (The BBC report describes the prime minister’s praise as “true heroes”; the officers’ recovery is reported by the BBC but details of their condition beyond this are not given in the evidence.)",
-    "Prosecutors said the 25-year-old Polish attacker remains in critical condition. They had earlier said he was inspired by “far-right ideologies” and have opened a terror investigation. The National Public Prosecutor’s Office is leading the inquiry through a unit that handles terrorist offences. The attacker is a suspect and has not been tried.",
-    "Among the dead were a British national and an Austrian woman, along with four Poles. Six Dublin Civil Defence volunteers, who were on a city break nearby, also gave medical help after the shooting, RTÉ News reported, quoting officer James McConnell. They provided CPR and haemorrhage control.",
-    "Witnesses described panic in the square. London resident Ruby Catherine Warren said she heard gunfire and ran with her friends until they reached a hotel to hide. Tom Brook, from West Yorkshire, said he was inside a nearby McDonald’s when he heard multiple gunshots, and later saw a body covered in foil blankets about 20 metres away."
-   ],
-   "cav": "The sources do not say whether the attacker acted alone, and the “far-right” motive is a prosecutors’ statement made before any trial. Several details, including the surgeons’ accounts, come through local media reports and may not be fully verified.",
-   "op": "Heroism at the scene deserves praise, but it should not end the story. Prosecutors must explain the motive and the attacker’s path clearly, and the public deserves a transparent account of how the response unfolded.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
-  },
-  {
-   "id": "w-0710a39b76016560",
-   "member_ids": [
-    "w-0710a39b76016560",
-    "w-3797dae49af9b2b8"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-08T17:53:59+00:00",
-   "t": "Eisenkot Begins Bid to Form Israeli Government Without a Clear Majority",
-   "s": "Former military chief Gadi Eisenkot has been given the mandate to form Israel’s next government, despite his bloc lacking a clear majority in parliament. He says Benjamin Netanyahu has brought the country to a historic crisis.",
-   "p": [
-    "Israel’s former military chief Gadi Eisenkot started the task of forming a government on Sunday, reaching out to allies of Benjamin Netanyahu. He said the veteran prime minister had led the country into a historic crisis.",
-    "Eisenkot, 66, leads the Yashar party and has promised to bridge Israel’s deep polarisation. President Isaac Herzog formally gave him a mandate and 28 days to build a government, even though his bloc does not have a clear majority. Herzog can grant a 14-day extension before the mandate must pass to someone else.",
-    "Speaking at a ceremony at the presidential office, Eisenkot said the country was “approaching a point of no return.” He called for a “national emergency government” and said it would require “creative and unconventional political steps.”",
-    "According to the Guardian, Eisenkot has three possible routes. He could agree a power-sharing deal with Netanyahu, win support from Arab-led parties, which several members of his own bloc oppose, or reach an agreement with the ultra-Orthodox parties, who want military exemptions for their community.",
-    "The October election left neither side with a majority. Eisenkot’s opposition bloc won 48 of the 120 seats, while Netanyahu’s camp took 53. Both Arab-majority lists endorsed Eisenkot during consultations with Herzog, and they could now act as kingmakers. Eisenkot has set conditions for any Arab party joining his coalition, including recognition of Israel as a Jewish state and labelling Hamas a terrorist organisation. The more conservative Yisrael Beiteinu party has already said it will not sit with Arab-led parties.",
-    "Eisenkot has also appealed to Netanyahu’s Likud and to the far-right party of finance minister Bezalel Smotrich, but only on the condition that he serve as prime minister. Netanyahu called for a national unity government with Eisenkot on Saturday, though it is unclear whether the two can agree on power sharing. Netanyahu is expected to keep up pressure, warning that any alliance with Arab parties would be a betrayal.",
-    "Netanyahu has repeatedly said the election was “stolen” by Arab parties, but the Guardian reports he has offered little to no evidence. Israel’s Shin Bet security agency is investigating possible foreign interference. The Central Elections Committee and Herzog say the vote was valid, and that any wrongdoing found would not have changed the result significantly.",
-    "Eisenkot, who was military chief from 2015 to 2019, has vowed to crack down on extremist settlers in the West Bank and has described recent attacks as Jewish terror. He opposes a Palestinian state and wants to end Hamas rule in Gaza. If he cannot assemble a coalition, Israel faces fresh elections, having already held five between 2019 and 2022."
-   ],
-   "cav": "The Guardian is the detailed source here; the second outlet’s brief summary adds only that Eisenkot has up to six weeks, which matches the 28 days plus a possible 14-day extension. Netanyahu’s claim of a stolen election is his own and is not supported by the evidence; the outcome of the Shin Bet investigation is not reported.",
-   "op": "Israel’s coalition arithmetic should not override the basic question of how the vote was run and who is accountable for it. Netanyahu’s unsupported fraud claims make transparent answers from the Shin Bet and the elections committee more urgent. Any coalition, whoever leads it, must be judged by whether it restores public trust.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/c89093b1bdff428195f0ad9be24f6d4eac75b842/555_286_3230_2586/master/3230.jpg?width=140&quality=85&auto=format&fit=max&s=e5e03cc0e5601cb1524de4d029ca1130",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
-  },
-  {
-   "id": "w-dfb7c585a47464e2",
-   "member_ids": [
-    "w-dfb7c585a47464e2"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-08T17:51:17+00:00",
-   "t": "Collision of two trains south of Cairo kills at least seven, officials say",
-   "s": "Officials say at least seven people died and over a hundred were hurt when two trains struck each other on Sunday south of Cairo. Egypt’s president has called for a swift inquiry.",
-   "p": [
-    "The collision took place in al-Ayyat, a district of Giza province roughly 30 miles south of Cairo. Citing the transport ministry, reports say a service bound for Fayoum, in the south-west, slammed into the back of a train that was headed for Aswan, in the south.",
-    "Officials said an inspection showed the Cairo-Aswan train was standing still on that same line when the impact occurred. The reporting does not explain why it was stopped there, or how the other train ended up on that track.",
-    "Ayman Gamal, a resident of Kafr Girza in al-Ayyat, told the Guardian that bystanders hurried over, dragged survivors out and summoned ambulances. He claimed to have watched around 80 casualties being driven to hospital, and said some travellers were caught in a carriage of the motionless train and did not survive.",
-    "In a post on social media, President Abdel Fatah al-Sisi said he had instructed investigators to act quickly. The Egyptian railway authority said rescue crews and cranes were deployed to remove the debris and bring services back to timetable as soon as possible.",
-    "Rail accidents are a recurring problem in Egypt, where the network has been criticised for poor management and inadequate equipment upkeep. Authorities have launched modernisation programmes in recent years. In September, two freight trains crashed in the same district, leaving the driver and his assistant injured.",
-    "The country’s worst rail tragedy remains the 2002 blaze on an overnight train from Cairo to southern Egypt, which claimed more than 300 lives."
-   ],
-   "cav": "The death toll of at least seven and the figure of more than 100 injured come from officials; the claim of 80 hospital transfers comes from one resident’s account. The cause of the collision has not been established, and the reporting does not say whether the findings will be made public.",
-   "op": "Seven deaths and more than 100 injuries require more than a routine promise of inquiry. The investigation the president ordered should publish its findings, explain why a stationary train was struck on the same track, and name any maintenance failures. Repeated crashes make openness the only credible answer.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
-  },
-  {
-   "id": "w-7af5dcbc2062e085",
-   "member_ids": [
-    "w-7af5dcbc2062e085"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-08T15:15:01+00:00",
-   "t": "More than 200 tarantula sightings reported in Austria since September",
-   "s": "Austrian citizens have reported more than 200 tarantula sightings since early September, and experts have verified 175 of them. Most reports come from Styria, Lower Austria and Burgenland.",
-   "p": [
-    "Austria has logged more than 200 tarantula sightings over roughly two months, according to reports gathered through naturbeobachtung.at, a citizen science platform. Experts have verified 175 of them.",
-    "By region, Styria in the southeast leads with 66 reports. Lower Austria counted 49 and Burgenland 43, while Carinthia also registered sightings.",
-    "Autumn is the busiest season for the spiders, which look for protected spots to pass the winter. Occasionally they end up inside homes, apartments and garages. In nature they normally retreat to burrows dug underground and to cracks in rocks.",
-    "Among the standout finds was a South Russian tarantula in Tulln, Lower Austria, well to the northwest of its usual range. Carolina Trcka-Rojas of the Austrian Nature Conservation Association said no sightings had previously been recorded in that surrounding area. In late August, a black-bellied tarantula turned up in Stossau, in the lower Gail valley, the species' westernmost known Austrian record.",
-    "Two tarantula species are generally found in Austria. Both belong to the wolf spider group and may bite when provoked, an event described as uncommon. A bite can hurt and leave redness and swelling, but it is generally not dangerous for healthy adults.",
-    "Historical records place the first documented South Russian tarantula in Austria in the early 1920s, near Lake Neusiedl and Vienna. The black-bellied species was first recorded in Styria during the 1970s.",
-    "Austria is not alone in this trend. A 2025 study reported that tarantulas in Czechia are spreading again after decades of decline, and researchers point to warmer, drier summers as a major factor."
-   ],
-   "cav": "The figures come from a citizen science platform, so they reflect reported sightings rather than measured population changes, and the sources do not say whether the tarantula population is actually growing. The Austrian counts are not broken down by species.",
-   "op": "Open citizen data helps scientists track wildlife, but it should be read with care. Authorities and researchers should publish clear methods and verified counts, so that public alarm does not outrun the evidence.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/08/more-than-200-tarantula-sightings-in-austria-in-two-months"
-    ]
-   ]
-  },
-  {
-   "id": "w-67ce803de4cd90f9",
-   "member_ids": [
-    "w-67ce803de4cd90f9"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-08T14:42:09+00:00",
-   "t": "Diwali lights up India as air pollution clouds the festival in Delhi and Mumbai",
-   "s": "Millions across India are marking Diwali with lamps, fireworks and sweets, but the celebrations are taking place amid rising concern about air quality, especially in the north. The Supreme Court has allowed certified “green” firecrackers in Delhi for a limited period.",
-   "p": [
-    "Across India, millions of people are taking part in Diwali, a Hindu festival held on a moonless night in the month of Kartik. Homes, shrines, workplaces and public streets glow with lamps and bright lights, a display meant to represent the defeat of darkness by illumination.",
-    "Customs vary from region to region and from community to community, yet most celebrations include prayer, get-togethers at home, sweets shared among relatives and friends, and firecrackers. In the days beforehand, people tidy and adorn their houses with flowers and clay lamps called diyas, colourful floor designs appear at doorways, and shops fill with buyers.",
-    "According to the BBC, the festivities are overshadowed by worsening air quality, particularly in northern India. Weather patterns and the burning of crop stubble are cited as contributing factors, and fireworks set off during the holiday can add to the problem. Delhi's pollution has reached hazardous levels, which the broadcaster describes as the worst Diwali for air in a decade, and recent measures do not appear to have worked. Mumbai, the financial capital, has also recorded high readings in recent weeks.",
-    "India's Supreme Court, ruling on Monday, granted a temporary exemption allowing certified “green” firecrackers to be made, sold and set off in Delhi and nearby areas. These devices are designed to produce 20-30% fewer emissions than conventional fireworks. Critics doubt how much they help, and they worry that ordinary firecrackers could still reach the capital from neighbouring states.",
-    "Beyond the fireworks, the festival commemorates Lord Ram's return to Ayodhya after his victory over Ravan, the chief villain of the Ramayana epic. The celebrations unfold over several days. Dhanteras, which began on 6 November, is a day for buying gold, silver or new utensils, considered lucky. Chhoti Diwali brings lamps and, in some homes, firecrackers. The main day involves evening prayers to Lakshmi, goddess of wealth, followed by festive meals. The final day, Bhai Dooj, honours the bond between brothers and sisters.",
-    "Sikhs and Jains also mark the period. Sikhs commemorate the release of their sixth guru, Guru Hargobind, from imprisonment at Gwalior Fort in the early 17th century. For Jains, the day is linked to Lord Mahavira's attainment of moksha, or liberation from rebirth. Indian communities abroad hold their own gatherings and exchange gifts.",
-    "The occasion is also seen as a favourable time for new purchases. India's stock exchanges will hold a one-hour special trading session, known as Muhurat trading, on 8 November this year. In Nepal, where the festival is called Tihar, pets and street animals are honoured."
-   ],
-   "cav": "The source does not say how the “most polluted in a decade” judgement was measured or by whom, and it gives no current air quality readings. The 20-30% emissions figure for green firecrackers comes without independent testing details, and the critics' objections are reported without specifics.",
-   "op": "Celebration should not come at the cost of breathable air for millions of residents. If pollution rules are to mean anything, the court's temporary permission must be paired with transparent monitoring and enforcement, so that citizens can see whether the measures are working.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
-  },
-  {
-   "id": "w-fe43e4b6ce3d3106",
-   "member_ids": [
-    "w-fe43e4b6ce3d3106"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-08T14:26:14+00:00",
-   "t": "Herzog taps Gadi Eisenkot to try forming Israel’s next government",
-   "s": "Israeli President Isaac Herzog has asked Yashar leader Gadi Eisenkot to attempt to build a government after an October election left neither him nor Benjamin Netanyahu with a clear route to power. If Eisenkot succeeds, he would replace Netanyahu as prime minister.",
-   "p": [
-    "Isaac Herzog has selected Gadi Eisenkot, leader of the Yashar party and the most prominent challenger to Benjamin Netanyahu, to attempt to assemble a cabinet. According to the president’s office, Herzog told Eisenkot of his decision late on Saturday. The formal handover was scheduled for a ceremony on Sunday at the presidential residence in Jerusalem.",
-    "The Knesset has been stalemated since the vote on 27 October, when Netanyahu’s religious-nationalist alliance lost its parliamentary majority. Even so, his camp won 53 of the 120 seats, the largest share in the chamber. Eisenkot’s opposition grouping took 48, so neither side reaches the 61 seats needed to govern.",
-    "Eisenkot, 66 and a former army chief, wrote on X that the moment called for a government of national urgency. He also received the backing of both Arab-majority lists, which posted record results and could now decide who governs. Analysts in the sources describe three possible paths: a power-sharing arrangement with Netanyahu, support from Arab-led parties, or a deal with ultra-Orthodox parties that want military exemptions for their community.",
-    "The route ahead is difficult. Eisenkot has attached conditions to any Arab party joining his coalition, among them acknowledging Israel as a Jewish state and classifying Hamas as a terrorist group. Yisrael Beiteinu, one of his partners, has ruled out sitting in a government with Arab-led parties. Equal military service, including an end to the ultra-Orthodox draft exemptions, was a core theme of his campaign.",
-    "Netanyahu has repeatedly said Arab parties stole the election, yet the report says he has produced little to no proof. Israel’s Shin Bet security service has opened an inquiry into possible foreign meddling. The Central Elections Committee and Herzog maintain the vote was valid and that any irregularities would not have materially altered the outcome. Netanyahu has called for a unity government with Eisenkot, but it is unclear whether the two can agree terms on sharing power.",
-    "Eisenkot has promised to curb violent extremist settlers in the West Bank, whose attacks on Palestinians he has described as Jewish terror. He opposes a Palestinian state and has pledged to end Hamas’s control of Gaza. He has 28 days to gather a majority, and Herzog can extend that by 14 days. If no candidate succeeds, Israel faces another election."
-   ],
-   "cav": "The sources do not establish whether Eisenkot can assemble a majority, and Netanyahu’s fraud claims remain unsupported by the evidence. The Shin Bet inquiry is ongoing, so its findings are unknown. The count of this as a sixth election since 2019 is an inference from the five elections the report mentions between 2019 and 2022.",
-   "op": "Whoever governs Israel next will be judged on whether they respect the process that produced them. Unsubstantiated claims that an election was stolen erode public trust, and so do backroom deals dressed up as national unity. Israelis deserve a coalition built on open terms that can withstand scrutiny.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
   }
  ]
 }
