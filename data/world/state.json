@@ -1,11 +1,7 @@
 {
  "failed": {
-  "w-9a2532ba606ca672": 3,
-  "w-8661eee6a6e893ba": 1,
-  "w-f16e9177d5762d5d": 1,
-  "w-99b503ecf1e7e486": 3
+  "w-be72be911abc1fd5": 3,
+  "w-b2d11278e1a45f3a": 3
  },
- "failed_translations": {
-  "w-c95056dc4dbc835c:fr": 1
- }
+ "failed_translations": {}
 }
