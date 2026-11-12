@@ -1,6 +1,342 @@
 {
- "updated_at": "2026-11-11T12:56:39.403962+00:00",
+ "updated_at": "2026-11-12T13:58:15.811776+00:00",
  "items": [
+  {
+   "id": "w-29dfd653cd425f06",
+   "member_ids": [
+    "w-29dfd653cd425f06",
+    "w-cfb4faa8387b692a"
+   ],
+   "section": "World",
+   "published_at": "2026-11-12T13:51:51+00:00",
+   "t": "US envoys meet Putin as Zelensky says Starlink disruption hits Ukraine’s military again",
+   "s": "US envoys Jared Kushner and Steve Witkoff met Vladimir Putin in Moscow as Volodymyr Zelensky said Starlink restrictions were again hampering Ukraine’s military. The talks came as European governments pressed for a place at the negotiating table.",
+   "p": [
+    "Ukrainian President Volodymyr Zelensky said his armed forces were once more under limits on Starlink’s military-grade connectivity, according to the BBC, leaving Kyiv struggling to shoot down Russian jet-powered drones. The service runs on a Starshield system owned by Elon Musk’s SpaceX, which the BBC describes as important to military operations.",
+    "Zelensky said the interruption had lasted several days and was letting Russian forces kill more Ukrainians and aim their strikes more precisely. He added that Kyiv was working to resolve the matter with the American side.",
+    "The developments coincided with Kushner and Witkoff’s meeting with Putin in Moscow, held a day after US-led talks in Abu Dhabi concluded. Russian media footage showed the two envoys arriving and greeted warmly by Kremlin envoy Kirill Dmitriev.",
+    "Earlier in the week, Kushner said Washington had spotted some openings and chances, and that the envoys hoped to move matters forward with Putin. The in-person meetings were confirmed only on Wednesday, following two days of discussions focused on Europe’s long-term security arrangements. Kushner and Witkoff were then due to fly to Dublin to see Zelensky.",
+    "A comparable Starshield outage struck the front line in late October and persisted for roughly a week before being repaired. Who issued the temporary restrictions remains unclear, since US officials and SpaceX have given different accounts.",
+    "The Abu Dhabi talks involved only Russia and Ukraine, with Washington in the lead. Kushner said he and Witkoff would ask Putin to endorse including European representatives in later discussions, and he urged Europe to choose a single spokesperson. Moscow has resisted that idea, pointing to European backing for Kyiv as a barrier.",
+    "Vladimir Medinsky, who led the Russian delegation in Abu Dhabi, said all sides had come nearer to peace. He argued that the outcome now rests heavily on Kyiv, on Washington’s stance, and on whether Europe changes course.",
+    "Almost five years after Russia’s full-scale invasion, the BBC reports that Moscow is not softening its maximalist demands, which include Ukrainian territory and an end to Western security guarantees for Kyiv. European governments, which once cut off contact with the Kremlin, now worry about the US administration’s commitment to the continent’s security and its warmer approach toward Moscow."
+   ],
+   "cav": "The Starlink claims come from Zelensky and are not independently confirmed in the evidence, and the sources do not establish who ordered the restrictions. Reporting on the Dublin meeting was not part of the evidence, so its outcome is unknown.",
+   "op": "Communications a country relies on in wartime should not be switched off without a clear account of who gave the order. Ukraine is owed a plain answer from Washington and from SpaceX. Peace talks that will shape Europe’s security should not advance while that basic question goes unanswered.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+  },
+  {
+   "id": "w-c20da2f52115f645",
+   "member_ids": [
+    "w-c20da2f52115f645",
+    "w-989ec6f83c0ea0b9"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-12T13:46:00+00:00",
+   "t": "Nvidia's board weighs its chief's future after affair reports and a spy allegation",
+   "s": "Nvidia's board reportedly moved to decide whether Jensen Huang stays as chief executive after reports of extramarital relationships, one with a businesswoman US officials suspect of spying for China. Accounts differ on whether he has already stepped down, and the company's shares have dropped sharply.",
+   "p": [
+    "Nvidia’s board convened late on Wednesday to consider whether Huang, who co-founded the chipmaker in 1993, should remain in charge. Al Jazeera values the company at $4.2 trillion and says it supplies most of the processors used in advanced computing work. It reportedly lost more than $600bn in market value during the week.",
+    "The crisis began with reports of several extramarital relationships. On Sunday, Huang acknowledged in an internal memo that he had been unfaithful to his wife. One of the women named is Alice Huang, a former executive at the Singapore-based firm Megaspeed, whom US officials reportedly suspect of working for Chinese intelligence. Beijing rejects that suspicion. Later, The New York Times named a second woman, Kimberly Powell, who leads Nvidia’s healthcare division and reports to Huang, citing five people who had worked at the company.",
+    "Accounts diverge on what happened next. The Guardian, citing a company announcement, reports that Huang has resigned as president, chief executive and board member with immediate effect. Under that account, finance chief Colette Kress will serve as interim chief executive while the board looks for a permanent successor from inside or outside the company. Al Jazeera’s report, published the same day, still describes the board as deciding whether to remove him.",
+    "Governance rules sit at the centre of the story. According to Nvidia’s bylaws, directors can remove Huang with or without cause by a majority vote. He holds about 3.6 percent of the shares, according to LSEG data, and does not have the majority voting control that leaders at some rival tech firms enjoy. Nvidia also has no board chair, a point one geopolitical analyst called “pretty astounding.”",
+    "Shares fell more than 8 percent in after-hours trading after The Wall Street Journal reported that the board was preparing to oust Huang, Al Jazeera reported. Analysts reportedly pointed to Kress and engineer Ian Buck as likely internal candidates, although one said that view remained speculation until a decision is made. Armina Rosenberg of Minotaur Capital told Reuters that the market was beginning to treat a Nvidia without its founder as a probable outcome.",
+    "The spy allegation raises a separate question for the company. The New York Times reported that Megaspeed bought about $4.8bn of equipment from Nvidia. US authorities have examined the firm since 2024 over suspicions that it helped China obtain advanced Nvidia chips in breach of export controls. Megaspeed denies this. The reports do not say Nvidia itself has been charged with anything.",
+    "President Donald Trump said on Monday that the FBI was looking into the matter, and that Huang had told him he had “absolutely no idea” the woman was an alleged spy. Three Republican House committee chairs have asked Huang to attend a closed-door briefing on November 18. Reuters reported that he could face a subpoena if he does not respond. It is unclear whether he will attend the APEC summit in Shenzhen on November 18 and 19."
+   ],
+   "cav": "The sources conflict on the central fact: the Guardian reports a resignation, while Al Jazeera describes a board still deciding. The spy and Megaspeed claims remain allegations, and the sources do not report any findings from the board’s independent investigation.",
+   "op": "Leadership at a company this important should not change through leaks and rumour alone. Shareholders and the public are owed a clear account of how the board handled the affair reports, the security allegations and the export questions. Nvidia’s governance will be judged by whether it answers them in public.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+  },
+  {
+   "id": "w-eb855a1b99603316",
+   "member_ids": [
+    "w-eb855a1b99603316"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T13:38:57+00:00",
+   "t": "Scott Colom unseats Republican Senator Cindy Hyde-Smith in Mississippi, ending a long Republican hold on the seat",
+   "s": "Democrat Scott Colom has ousted Republican incumbent Cindy Hyde-Smith in Mississippi after more than a week of counting. According to the Guardian’s First Thing newsletter, he is the first Black senator elected in the state since Reconstruction.",
+   "p": [
+    "Scott Colom, a 43-year-old district attorney, has beaten Cindy Hyde-Smith in Mississippi, one of the most solidly Republican states in the country. The result was confirmed only after more than a week of ballot counting, which the Guardian’s First Thing newsletter described as a surprise.",
+    "The newsletter said Colom’s victory makes him the first Black senator to win election in Mississippi since the Reconstruction era that followed the American Civil War. That historical detail is presented as background in the newsletter and is not explained further.",
+    "According to the same newsletter, the result reflects a wider backlash against Donald Trump’s administration. Republicans lost seats in places where Democrats had not been competitive for decades. With Colom’s seat included, Democrats are expected to hold at least 55 Senate seats, which the newsletter called the party’s biggest midterm gain since 1986.",
+    "Colom, speaking after the result, said his long-shot campaign had at times felt like a loss, but that he had kept believing. He told supporters he would look after their children, parents and futures in the same way he would want his own family to be cared for.",
+    "Separately, the newsletter reported a clash in Washington. Robert Garcia, the ranking Democrat on the House oversight committee, said Donald Trump appeared to be concealing something after the White House threatened criminal investigations tied to the party’s planned scrutiny of the administration. Garcia argued that Congress draws its oversight power from the constitution, not from White House approval.",
+    "Democrats also faced criticism over a failed effort to impeach the defense secretary, Pete Hegseth. Eleven Democrats missed a key procedural vote on Tuesday evening, and the effort lost by seven votes. Abdul El-Sayed, the senator-elect for Michigan, said on CNN that lawmakers should attend and carry out their duties."
+   ],
+   "cav": "These details come from a daily newsletter summary, not a full results report, so Colom’s margin and the final vote totals are not given. The 55-seat figure and the 1986 comparison are also second-hand and have not been checked against official tallies.",
+   "op": "Mississippi voters have signalled that they expect accountability from their representatives. Oversight of the executive is a constitutional duty, not a favour that the White House can withhold. Officials on every side should answer scrutiny with open debate rather than threats.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/39fb84a0d747e36565546de4230ff59eb53ac466/1_268_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=89df109598ecfdb09cb914606b912cba",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate"
+  },
+  {
+   "id": "w-07a4c81e127a327b",
+   "member_ids": [
+    "w-07a4c81e127a327b"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T13:33:08+00:00",
+   "t": "Democrat Scott Colom wins Mississippi Senate seat as Trump renews corruption claims and Mexico tariff threat",
+   "s": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since Reconstruction. The same day, President Donald Trump used Truth Social to press corruption allegations against Democratic-run states and to threaten tariffs on Mexico.",
+   "p": [
+    "Mississippi has elected Democrat Scott Colom to the Senate, defeating incumbent Republican Cindy Hyde-Smith in a closely contested race. According to the live coverage, the Associated Press called the race just over a week after the midterm elections, once absentee and provisional ballots had been counted. Colom is the first Black senator from the state since the post-Civil War Reconstruction era.",
+    "In his victory speech, Colom said he had “the courage to believe in Mississippi.” Hyde-Smith said she respected the decision of voters, though it was not the result she had worked for. The blog pointed readers to further coverage of Colom’s grassroots campaign, which received limited early backing from national Democrats.",
+    "Elsewhere, Trump posted that he had asked Vice-President JD Vance to focus on alleged corruption in Democratic-run cities and states. He singled out Minnesota, California and Illinois, calling them “poorly run, corrupt disasters”, and claimed that large sums were being stolen each month. These are the president’s assertions. The coverage did not cite any investigation or findings to back them up.",
+    "Trump also said the United States no longer needed a deal with Iran. In a separate post he criticised Senate Republicans, arguing that the chamber must not be a place where bills are left to stall. He named the failure of the Save America Act, which would tighten voter identification rules and require proof of citizenship to register, and called its defeat “devastating” for Republicans in the midterms.",
+    "On migration, Trump threatened to double tariffs on Mexico immediately unless it stops migrant caravans heading north. The blog, citing Reuters, reported that about 1,500 people, many of them travelling with children, began walking north from Tapachula in southern Mexico on Tuesday.",
+    "The live feed also covered other stories. US envoys Steve Witkoff and Jared Kushner arrived in Moscow for talks with Vladimir Putin on ending the war in Ukraine, following negotiations with Russian and Ukrainian officials in Abu Dhabi. Defence secretary Pete Hegseth was reprimanded by a military guard after he and his entourage were seen laughing near the Tomb of the Unknown Soldier, days after Republicans blocked an attempt to impeach him.",
+    "Trump further revisited his first-term tax returns, saying accountants spent a year examining his finances after the matter reached the Supreme Court. The blog noted that six years of his returns, covering 2015 to 2020, were later made public by the House Ways and Means Committee."
+   ],
+   "cav": "The sources are a single live blog that relays social media posts and wire reports. Trump’s corruption and theft claims are presented as his own and are not substantiated in the coverage. The Reuters migrant figure and the Moscow and Hegseth items are brief and second-hand, with no further detail given.",
+   "op": "Corruption claims against state governments deserve the same standard as any serious accusation: named evidence, independent investigators and courts, not a post on social media. Tying tariffs on Mexico to migrants still travelling through its territory blurs trade and immigration policy. Washington should answer with documents, not slogans.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+  },
+  {
+   "id": "w-4d25a1a76ab45f39",
+   "member_ids": [
+    "w-4d25a1a76ab45f39",
+    "w-0378a39018f3a0f3",
+    "w-19edae332e945183"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-12T13:26:00+00:00",
+   "t": "Xi Jinping calls Taiwan reunification ‘unstoppable’ as Taipei rejects Beijing’s rule",
+   "s": "Chinese President Xi Jinping has renewed calls for reunification with Taiwan without mentioning force, and Taiwan’s government quickly rejected the remarks. The speech came as Taiwan reported a joint Chinese military patrol around the island.",
+   "p": [
+    "Xi said on Thursday that the complete unification of the motherland would be achieved, and he cast the Taiwan question as a long-term mission for the Communist Party. He delivered the message at Beijing’s Great Hall of the People, according to reports.",
+    "The speech marked the 160th birthday of Sun Yat-sen, the revolutionary figure linked to the 1911 uprising that brought an end to imperial rule and gave rise to the Republic of China. Xi used the occasion to argue that Sun had opposed any action that divided the country or the nation.",
+    "Xi said Beijing held to peaceful reunification and the “one country, two systems” formula, and that it was ready to talk with Taiwan on the basis of the one China principle. He also called on Chinese people everywhere, including those in Taiwan, to oppose separatist forces pushing for independence.",
+    "Taipei answered quickly. Its Mainland Affairs Council said neither the government nor the public would accept “one country, two systems”, a arrangement it said would ultimately place the island under Communist Party rule. Spokesperson Liang Wen-chieh told reporters that the language on unification was not much different from earlier statements.",
+    "Xi did not refer to military force, though the reports note that Beijing has never ruled it out for Taiwan. Taiwan’s defence ministry said it had detected 29 Chinese military aircraft, including J-16 fighter jets and drones, flying a joint combat readiness patrol around the island together with Chinese warships, beginning on Thursday.",
+    "The timing carries political weight. The speech came a week before an APEC summit in the southern Chinese city of Shenzhen, where Xi is due to meet US President Donald Trump again, and a little more than two weeks before important local elections in Taiwan. Reports also recall that Xi made a state visit to Washington in September, when he urged the US to oppose Taiwan’s independence.",
+    "Washington has long supplied Taiwan with arms and supported its resistance to Chinese demands. Reports say the US paused a $14bn weapons purchase by Taiwan in May, with Trump describing it as a bargaining tool in dealings with China, a move that fuelled fears that Taiwan’s security could be sacrificed."
+   ],
+   "cav": "The sources do not explain how Beijing would define “peaceful” reunification in practice, and the military figures come from Taiwan’s defence ministry and have not been independently confirmed. The account of Xi’s past remarks on force is second-hand, so Beijing’s current position is not fully clear.",
+   "op": "Taiwan’s people have a direct stake in any future for their island, yet Beijing’s formula leaves their consent out of the picture. Democracies should insist that any change to Taiwan’s status is decided by its own voters, not by pressure, patrols or bargaining chips. Transparency about arms deals and military moves matters more than summit optics.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-ae089956d8e33db2",
+   "member_ids": [
+    "w-ae089956d8e33db2",
+    "w-dc5d5e42fd0651c8"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T13:08:15+00:00",
+   "t": "Brooklyn building collapse leaves at least eight dead as rescuers search rubble",
+   "s": "A three-storey residential building in Brooklyn collapsed on Wednesday afternoon, and rescue crews were still searching the rubble at dawn on Thursday. Officials said the death toll had risen to eight, with at least 17 people injured.",
+   "p": [
+    "The building fell at about 4pm local time on Wednesday in the Flatbush section of Brooklyn, New York. It stood on the edge of a construction site, and according to the Guardian, the collapse sent debris into the excavation pit next door. Authorities said at least 17 people were hurt, four of them critically.",
+    "Mayor Zohran Mamdani said in a post on X that he was “heartbroken” by the tragedy and that crews were working through extremely dangerous conditions to find anyone still trapped. The New York City fire department said about 250 first responders had taken part in the search, and that it remained hopeful of finding survivors. Drones and dogs were being used, and an excavator was brought in overnight to lift larger pieces of wreckage.",
+    "Video from the scene on Wednesday evening showed people being carried out on stretchers. One rescued woman, who was six months pregnant, was reported alive by her husband, who spoke to the local ABC affiliate WABC. That account comes from the husband through a news outlet and has not been confirmed by officials in the sources reviewed.",
+    "Several children were among the victims, according to the Guardian, although it is not clear whether any of the dead were minors. Several people left homeless by the collapse took shelter in a church across from the site. Forecasters had warned of heavy rain, thunderstorms and gusty winds through Thursday afternoon, adding to the pressure on the rescue effort.",
+    "Investigators from the city’s department of buildings have begun inquiring into what caused the collapse. NY1 reported that the department had recorded several problems at a neighbouring project in May, including work carried out under a stop-work order, missing overhead protection for nearby properties and departures from approved construction drawings. The same outlet reported almost 100 violations recorded at the collapsed building since 1972. Property records describe it as a three-storey structure with four residential units and one commercial unit.",
+    "None of these findings is a conclusion about the cause. The reports on the neighbouring project and the building’s violation history are second-hand accounts and remain to be tested by the investigation."
+   ],
+   "cav": "The sources disagree on the death toll: the Guardian reports eight dead, while a second outlet’s summary reported at least two. The Guardian’s account is the more recent of the two and is the one reflected here. The violation history and the May findings come from NY1 and have not been confirmed by the city, and the cause of the collapse is still under investigation.",
+   "op": "A building that collapses beside an active excavation, after a stop-work order was reportedly ignored, is a failure of oversight before it is a failure of engineering. New York should publish its inspection and violation records in full and say plainly who was responsible for the neighbouring site. Residents deserve answers before the rubble is cleared.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261112-new-york-deadly-building-collapse-in-brooklyn"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=140&quality=85&auto=format&fit=max&s=bd9bf292cf33c1587045e8b11d8862a5",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
+  },
+  {
+   "id": "w-f3c5272ca1471829",
+   "member_ids": [
+    "w-f3c5272ca1471829",
+    "w-4b1d44aca4783819"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-12T12:26:01+00:00",
+   "t": "Israeli strike on Nasser hospital in Gaza kills six, health ministry says",
+   "s": "Six people were killed and about 20 wounded in an Israeli air strike on Nasser hospital in southern Gaza, according to the health ministry run by Hamas. The Israeli military says it struck a Hamas commander and fighters it accuses of using the hospital as a base.",
+   "p": [
+    "The health ministry in Hamas-controlled Gaza says an overnight Israeli strike on Nasser hospital in the south of the territory killed six people, among them medical staff, patients and people who had accompanied them. Around 20 others were hurt, the ministry said. It named surgeon Dr Rizq Abu Shaira as one of the dead and called the strike a clear breach of international law and conventions.",
+    "The hospital’s director, Dr Ahmed al-Fara, told a news conference that Israeli forces fired two missiles at the al-Yasin surgery building, but only one detonated. A paramedic from the Civil Defence agency, which is also run by Hamas, described on social media a projectile that pierced the five-storey building and landed in a room of the surgical unit. Footage circulated by activists showed dense smoke and heavy damage on the second floor, and news agencies ran photographs that seemed to show a missile that had not gone off.",
+    "Dr Mohammed Qdeih, a general surgeon who was hurt in the head, told the BBC that he and his colleagues had finished their shift shortly after half past midnight and were getting ready to rest when the blast hit. He said he was pinned beneath debris and freed himself in total darkness. He had been lying close to Dr Abu Shaira, and another colleague broke a leg.",
+    "The Israeli military said its precise strike was aimed at the commander of Hamas’s Khan Younis Brigade, Mohammed Abu Ismail, and other fighters it said were sheltering in the hospital. In its account, Hamas had turned the complex into an operational headquarters from which it planned attacks on Israeli troops. The military also said it had sent advance warnings and published an audio recording of one it said was passed to a senior Gaza health official. Fara countered that the hospital had received no warning at all.",
+    "Hamas dismissed the Israeli claims as a cover story for an attack on a civilian medical site whose role is widely known. Hospitals hold protected status under international law, yet the sources point out that they have been hit again and again during the war in Gaza. Israel alleges that Hamas keeps weapons and command centres inside hospitals; Hamas rejects this.",
+    "None of these accounts can be checked independently. Israel bars international media, the BBC among them, from entering Gaza, so the details here come mainly from hospital staff, health officials, witnesses, local footage and the military’s own statements."
+   ],
+   "cav": "Casualty figures differ: the health ministry put the injured at about 20, while NPR’s summary says dozens. Most claims about the strike, the warnings and the presence of fighters come from the parties involved and could not be independently verified. The surgeon’s name is spelled differently in some reports.",
+   "op": "A hospital is supposed to be the one place in a war that no side may treat as a target. Whatever the militants were doing inside, the burden is on Israel to prove its claims with evidence that can be examined. Without independent access to Gaza, that proof is still missing.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+  },
+  {
+   "id": "w-ebe5e909196caf63",
+   "member_ids": [
+    "w-ebe5e909196caf63"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-12T12:15:40+00:00",
+   "t": "Bomb threats empty schools in Italy and France; Macron says too soon to blame foreign powers",
+   "s": "Hoax bomb threats sent to schools in Italy and France on Thursday led to evacuations, while French President Emmanuel Macron said it was too early to attribute the campaign to foreign states.",
+   "p": [
+    "Head teachers in Italy woke to another batch of bomb threats by email on Thursday. Some institutions sent pupils and staff out of the building, while others stayed open as authorities inspected them. The notes carried the signature “Mikhail Andropov”, which had also turned up the previous day in inboxes at 6,300 Italian schools. Hundreds of those schools opted to clear their buildings.",
+    "Prime Minister Giorgia Meloni summoned ministers and opposition leaders to Palazzo Chigi, her Rome office, early on Thursday to address the crisis. Reports of the gathering said she urged every party to close ranks and pledged that the foreign, defence and interior ministers would brief parliament without delay. Her government also announced that the Interministerial Committee for the Security of the Republic would convene later that day to settle a shared procedure for such alerts.",
+    "The draft procedure would bar evacuations when a mass email is the sole warning sign. Prefects, the central government’s representatives in each province, would keep the power to order an evacuation if specific and concrete dangers emerged. Elly Schlein, who leads the centre-left Democratic Party, said her camp would cooperate against threats meant to unsettle the country. She added, however, that the opposition would not sign a “blank cheque” and that it had seen no concrete proposals.",
+    "Schools in France were also emptied on Thursday after threats, according to local outlets. The education ministry told Le Parisien that it had logged two threats that day and dismissed the idea of a mass-scale campaign there. In Marseille, the Don Bosco high school was cleared in the morning, and police plus a bomb disposal unit were later reported on site. In Morez, in the Jura mountains, a high school and a nearby middle school were evacuated after the administration described an email as “disturbing”. In Laon, a university technology institute was also cleared that morning.",
+    "Speaking to reporters at a gathering of European leaders in Dublin, Macron said there was not yet enough evidence to point to a state actor. “We cannot say if foreign powers are behind these calls,” he said. The sources note that the hoaxes have extended beyond schools to aviation."
+   ],
+   "cav": "The sources do not say who sent the emails or whether any threat was credible. The French details come from regional newspapers as relayed by the source report, and the Italian protocol was still a proposal when reported.",
+   "op": "Hoax threats that empty classrooms are a serious matter, but emergency rules must not be written in haste. Parliament should scrutinise any protocol that limits evacuations, and the government should publish its criteria. Public trust depends on openness, not on blank cheques from either side.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/italy-hit-by-second-day-of-school-bomb-threats-as-meloni-summons-opposition"
+    ]
+   ]
+  },
+  {
+   "id": "w-32d9a25b04c41f04",
+   "member_ids": [
+    "w-32d9a25b04c41f04"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-12T11:21:25+00:00",
+   "t": "Nvidia Faces Succession Questions as Jensen Huang Is Engulfed in Scandal",
+   "s": "Nvidia, the chipmaker, is weighing who could lead it if co-founder Jensen Huang steps down amid a scandal over reported extramarital affairs. Analysts have floated a short list of internal and external candidates.",
+   "p": [
+    "Nvidia is confronting a scenario that few would have considered until recently: a future without Jensen Huang as chief executive. Huang is the co-founder of the chipmaker and is at the centre of a major scandal over reports of extramarital affairs, one of which reportedly involved a woman suspected of being a Chinese spy.",
+    "Finding a successor is difficult. Huang helped build the business more than three decades ago, and it has become the world's second most valuable company, behind Apple.",
+    "The most frequently mentioned interim option is Colette Kress, Nvidia's chief financial officer and executive vice president. Kress has worked in the industry for more than 30 years, including senior roles at Cisco and Microsoft, and has taken part in the company's shift from making chips for video games to becoming a major semiconductor maker. Josh Gilbert, an analyst at eToro, described her as a \"familiar and trusted voice for the market\" and said she could help steady investor confidence, although he doubted she would be the right permanent choice because the company might want an engineer in charge.",
+    "Other internal names were raised. Chris Malachowsky, who co-founded Nvidia with Huang and Curtis Priem, is described as the only executive with the same level of seniority, and he has played a key role in developing the company's computing technology. Ian Buck, who runs the high-performance computing business, was also cited as a candidate if the board prefers an engineer. Charu Chanana, an investment strategist at Saxo, warned that Buck could protect the technological edge but might face scrutiny over his handling of commercial relationships and geopolitical challenges.",
+    "Outside candidates were also proposed. Jun Bei Liu of Ten Cap suggested Tim Cook, Apple's former chief executive, though she questioned whether he would leave Apple, where he is chair. Both Liu and Chanana pointed to Rene Haas, chief executive of Arm Holdings, who has experience running a publicly listed company and has semiconductor expertise, although Chanana noted that Nvidia's business model differs considerably from Arm's.",
+    "Liu said Nvidia is likely to favour an internal appointment at first and may look outside for a longer-term replacement. She also argued that the issue has moved beyond personal conduct. \"It is about corporate governance, national security concerns and maintaining confidence,\" she said, adding that the company is strategically important. She believes Huang's departure as chief executive is a matter of time rather than doubt.",
+    "Investors have responded. Several major investment firms have cut their forecasts for the chipmaker, which is unusual given the long-running optimism about the company. Stacy Rasgon of Bernstein Research wrote to clients that the team probably had not yet fully explored what might be uncovered, a remark that suggests more revelations could follow."
+   ],
+   "cav": "The reports about Huang's personal conduct and the alleged link to a suspected spy are described in the article as reports, and the details are not independently confirmed here. The succession names are analysts' speculation, not statements from Nvidia, and the piece does not say Huang has decided to step down.",
+   "op": "A company of Nvidia's weight owes investors and regulators a clear account of how it will handle this leadership question. Governance should rest on transparent process, not on rumour or market nerves. The board should disclose what it knows and how it will choose a successor.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+  },
+  {
+   "id": "w-e4bdd74b3f4e06ed",
+   "member_ids": [
+    "w-e4bdd74b3f4e06ed",
+    "w-c96019c619482407"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T10:36:33+00:00",
+   "t": "Baby buried in dog crate in South Carolina found alive after about 24 hours, father a suspect",
+   "s": "An 11-month-old boy has been rescued alive after reportedly spending about a day underground in a dog crate in South Carolina. Police say his father, who is in custody, left him there.",
+   "p": [
+    "An 11-month-old boy was found alive in woodland in South Carolina after about 24 hours buried in a dog crate, according to local officials. Police say the child was left there by his father.",
+    "Koah was found on Tuesday on a neighbour’s property, crying and covered in dirt, his grandfather John Comer told the Associated Press. The boy’s name is spelled Sharp in one report and Sharpe in another.",
+    "Lexington County Sheriff Jay Koon said rescuers found freshly disturbed soil and heard crying from beneath the ground after a full day of searching by dozens of emergency workers. He said the boy was “clinging to life” when he was freed, and he expects a full recovery.",
+    "The sheriff said the boy had probably survived because of cool temperatures and an air pocket created by a towel wrapped around the crate. He did not say how long the crate had been underground beyond the roughly 24-hour estimate.",
+    "The boy’s father, 25-year-old Michael Comer, is described by one outlet as having been charged with attempted murder. Another outlet reports that he was arrested on a burglary charge on Monday evening, without the child. Neither account gives a motive, and it was not immediately clear whether he had a lawyer. A court hearing was scheduled for Thursday.",
+    "According to authorities, the boy had been in the care of Comer’s mother, who left him with her son while she ran an errand. Koon said that when a second carer arrived, Comer and the child had gone. Surveillance footage from local businesses showed Comer without the baby on Monday afternoon.",
+    "The accounts differ on custody. Comer’s mother told NBC News that the child’s mother had full custody but allowed her to supervise, and that her son had watched the baby before without problems. Koon said the parents had “obviously some issues”, and court records show Comer had earlier pleaded guilty to domestic violence charges.",
+    "John Comer said he had taken in his son and grandson on Monday, and he now feels he was taken advantage of. Relatives said Comer had talked about going to New York, and they assumed he had handed the child to someone else when the boy disappeared."
+   ],
+   "cav": "The charge is reported differently across sources, with one citing attempted murder and another a burglary arrest, and no official charging document is cited. Custody claims come from the suspect’s mother and remain unverified.",
+   "op": "A child survived a buried crate by chance and by a rescue that moved quickly, not because any safeguard worked. When a father is accused of such an act, the public deserves a clear account of charges, custody and prior warnings. Courts and sheriffs should explain those facts openly, not leave them to relatives and conflicting reports.",
+   "confirmed": true,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/baby-buried-in-dog-crate-in-us-found-alive-after-24-hours"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
+  },
   {
    "id": "w-86c177b40d99b068",
    "member_ids": [
@@ -648,712 +984,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
-  },
-  {
-   "id": "w-b35e702d1abe5973",
-   "member_ids": [
-    "w-b35e702d1abe5973",
-    "w-465b9aedc6b5f750",
-    "w-8e37de776d47a47e"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T13:39:53+00:00",
-   "t": "US, Russia and Ukraine open Abu Dhabi talks as strikes on Ukrainian energy continue",
-   "s": "Delegations from Russia, Ukraine and the United States began US-mediated talks in Abu Dhabi, the first substantive round in months, as Russian strikes on Ukrainian energy infrastructure continued. US officials described the first day as productive.",
-   "p": [
-    "The talks in the United Arab Emirates are the first substantive negotiations in months and focus on ending a conflict that has lasted more than four years. The first day ended after about four hours, and the press office of Ukraine’s Foreign Intelligence Service said the sessions were expected to resume the next morning. Ukrainian negotiators also met representatives from NATO and Europe as part of their mission.",
-    "US Secretary of State Marco Rubio called the talks “very productive” but said a lot of work remained. According to Reuters, he also said the aim was, at some point, to widen the trilateral format to include other European voices. US envoys Jared Kushner and Steve Witkoff said there were “some good ideas” for bridging the gap between what Moscow and Kyiv want from a peace deal.",
-    "The talks followed a night of attacks. Ukraine’s prime minister, Sergii Koretskyi, said Russia had hit five major energy substations in the Poltava, Dnipropetrovsk, Vinnytsia and Kirovohrad regions. The state grid operator Ukrenergo reported outages in several other regions. Citing the Kyiv Independent, The Guardian reported that Russian attacks had killed at least nine people across Ukraine over the previous day. Volodymyr Zelenskyy accused Moscow of stepping up strikes to pressure Kyiv before the talks.",
-    "Europe’s role remains contested. A joint statement from US, European and Ukrainian negotiators spoke of a “shared commitment to a strong post-war European security architecture”, but it is unclear whether all sides mean the same thing. European Commission President Ursula von der Leyen said any discussion of Europe’s security architecture should wait until a ceasefire is in place and take place in a forum that includes NATO allies and EU members.",
-    "The composition of the delegations has drawn attention. Kyiv has kept largely the same team, led by Rustem Umerov, which signals continuity in its push for a ceasefire. Moscow is led by Vladimir Medinsky, but has also brought Deputy Foreign Minister Sergei Ryabkov, who helped draft Russia’s December 2021 security demands to NATO. Euronews reported that his presence raises the possibility that Moscow wants to widen the agenda beyond Ukraine. The Institute for the Study of War has suggested that his experience could be used to undermine Ukraine’s push for security guarantees.",
-    "Donald Trump has said that an eventual agreement would be “a big agreement” and would involve more than Ukraine. Neither Washington nor Moscow has said whether NATO’s wider security arrangements are on the agenda. The reporting so far does not settle that question, and the public record on the scope of the talks is thin."
-   ],
-   "cav": "Casualty and damage figures come from Ukrainian officials and secondhand reports, and they vary between outlets. The figure of at least nine dead was cited by The Guardian from the Kyiv Independent. The scope of any agreement on European security has not been confirmed by either Washington or Moscow.",
-   "op": "Talks that could reshape Europe’s security order should not be settled without the countries most affected at the table. Washington and Moscow have not said whether NATO arrangements are on the agenda, and that silence is the problem. Any deal must be public and must have Ukraine’s and Europe’s consent.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/10/whos-who-from-ukraine-and-russia-at-the-abu-dhabi-peace-talks"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-  },
-  {
-   "id": "w-37c23c16e6de75fe",
-   "member_ids": [
-    "w-37c23c16e6de75fe"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-10T13:32:48+00:00",
-   "t": "Hegseth dismisses House impeachment push over Iran war as a “farce” that would fail",
-   "s": "US Defence Secretary Pete Hegseth has called a move by outgoing Republican Representative Thomas Massie to impeach him a farce that would fail. Hegseth told reporters on Tuesday that the effort targets policy disagreements, not impeachable offences.",
-   "p": [
-    "US Defence Secretary Pete Hegseth on Tuesday dismissed a push to impeach him over his conduct of the war against Iran, calling it a farce that would not succeed. He spoke at his first press briefing from the Pentagon in six months, a session that came as the Trump administration faces criticism over the conflict.",
-    "The impeachment resolution was filed in the House on Monday by Representative Thomas Massie, a Kentucky Republican who lost his primary to a Trump-backed challenger and is leaving Congress. Massie says Hegseth’s actions amount to “high crimes and misdemeanors” and that his leadership “warrants impeachment”.",
-    "The resolution focuses mainly on the Iran war but also refers to Hegseth’s role in military actions in Yemen, against Iranian-backed Houthi rebels, and in Venezuela. Hegseth rejected the case, telling reporters that no defence secretary in the country’s 250-year history had been impeached for carrying out lawful military operations.",
-    "Hegseth described the move as a “political spectacle” by an opponent of President Donald Trump. In a video posted on social media last week, he said impeachment was about “the politics of personal destruction”. The Pentagon’s top spokesman, Sean Parnell, said Hegseth was fully committed to leading the department until the end of Trump’s term, and cast the effort as a “sham witch hunt” by Democrats.",
-    "A House vote could come by midweek, according to the reporting, which says the next steps are highly uncertain. The vote would put pressure on Republicans, many of whom have blamed their heavy losses in last week’s midterm elections at least partly on the Iran conflict and its economic impact.",
-    "Trump has backed Hegseth. He pointed to a January raid that captured then-Venezuelan President Nicolás Maduro, and to military operations against Iran that he says have “obliterated” Iran’s navy and air force. Trump told reporters on Monday that the Iran war was “militarily effectively over” and said Iran would like to make a deal.",
-    "The picture on the ground is less settled. Iran has continued to strike US military bases in the Middle East and has disrupted shipping in the Strait of Hormuz, driving up global oil prices, during a conflict now more than eight months old. The US military has also kept up intermittent operations against Iran and fatal strikes on alleged drug-smuggling boats in Latin America.",
-    "Hegseth framed his defence in terms of litigation, saying that if critics want to examine the military actions, he is willing to do so. Whether the House will act on the resolution, and what it would mean for Hegseth’s position, remains unclear from the available reporting."
-   ],
-   "cav": "The report relies on the statements of Hegseth, Massie, Trump and Pentagon spokesman Sean Parnell, and the claims about the war’s status are contested by the reported Iranian strikes. The timing of a House vote and its outcome are not confirmed.",
-   "op": "Impeachment is a constitutional remedy, not a verdict on political disagreement. Whatever the House decides, the Iran war’s legal basis and costs deserve open scrutiny, and officials should answer specific questions rather than dismiss them as a farce.",
-   "confirmed": false,
-   "src": [
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/a4ec11da-dd0c-11f1-9edd-5f54d898a954/w:1024/p:16x9/2026-11-10T133812Z-839619578-RC21LOABPNYD-RTRMADP-3-USA-HEGSETH.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce"
-  },
-  {
-   "id": "w-79da08e24fd76021",
-   "member_ids": [
-    "w-79da08e24fd76021",
-    "w-9ba2dd88bbad79dd",
-    "w-3d442e80247bc034",
-    "w-d9478218d30af04d"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T13:29:45+00:00",
-   "t": "US-mediated Russia-Ukraine talks open in Abu Dhabi amid disputes over security guarantees and territory",
-   "s": "Talks between Russia, Ukraine and the United States opened in Abu Dhabi on Tuesday, November 10, in what reports describe as the first substantive round since February. The two-day session is expected to focus on security guarantees for the warring countries.",
-   "p": [
-    "Delegations opened the talks in the capital of the United Arab Emirates as Washington pressed again for a settlement. According to the Guardian, US officials say they want the conflict to be definitively concluded. The first day wrapped up early in the afternoon local time, and a second session was scheduled for Wednesday.",
-    "The Trump administration’s approach includes drawing up a new security framework between Russia and Europe, administration officials have said. European officials worry that Moscow will keep pressing for Nato to scale back its military presence across eastern Europe, a move they fear could leave allies exposed to Russian influence.",
-    "Before the trilateral session, European officials met separately with Ukrainian and American representatives and issued a joint statement. It said any future arrangements must uphold national borders, political independence and the right of each country to make its own decisions, and must offer dependable protection for Ukraine. Reports list the UK, France, Germany, Italy, Nato and the European Commission among those taking part in the separate discussions.",
-    "US officials said Washington had raised with Moscow security guarantees for Ukraine modelled on Nato’s Article 5, the collective defence clause. Critics doubt what would activate such guarantees, pointing out that the clause does not require members to defend one another and that cyberattacks and hybrid tactics have blurred the threshold for a military response. Euronews, citing US media, adds that the discussions also touched on Article 4, which provides for consultations.",
-    "On territory, US media reported, citing a senior American official, that both Ukraine and Russia had privately signalled some willingness to compromise over disputed land. The official gave no specifics. President Donald Trump has suggested Ukraine could emerge from the war with altered borders, without saying which changes he has in mind. Moscow insists that Kyiv recognise Russian control over Crimea and four Ukrainian regions, and Kyiv rejects those terms.",
-    "Ukrainian President Volodymyr Zelenskyy said his team would put forward steps to reduce fighting in Abu Dhabi and would seek agreement on setting up a trilateral meeting of leaders. Ukraine’s chief negotiator, Rustem Umerov, named ending hostilities, securing guarantees after the war, economic recovery and humanitarian measures as Kyiv’s priorities. Zelenskyy also accused Russia of striking bridges and the power grid in an effort to split Ukraine along the Dnipro River.",
-    "Washington has warned against expecting a quick breakthrough. Jared Kushner, a lead US negotiator, called the conflict highly complicated and said the talks could help move the process to its next stage. Secretary of State Marco Rubio claimed some progress has been made on the shape of the future architecture, though the details of the proposals remain unclear."
-   ],
-   "cav": "Sources differ on the security guarantees: the Guardian reports discussion of Article 5 only, while Euronews, citing US media, also mentions Article 4. The territorial “flexibility” comes from an unnamed official who gave no details, so it is second-hand and unverified. The evidence contains no direct response from Moscow to the US proposals.",
-   "op": "Any settlement that trades territory or redraws Europe’s security map should be negotiated in the open, with Kyiv and European capitals genuinely at the table. Deals struck over the heads of the people most affected repeat the mistake behind Russia’s 2021 ultimatum. The test is whether any guarantees are written down, enforceable and subject to public scrutiny.",
-   "confirmed": true,
-   "src": [
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/10/ukraine-and-russia-reportedly-show-a-little-bit-of-flexibility-on-territory-as-abu-dhabi-t"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/121a87b4-dd03-11f1-aa06-5f54d898a954/w:1024/p:16x9/capture-46a35800.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi"
-  },
-  {
-   "id": "w-fe8846f855e639b3",
-   "member_ids": [
-    "w-fe8846f855e639b3",
-    "w-d1c5195bec7e377f"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-10T13:28:07+00:00",
-   "t": "Hegseth calls Massie impeachment bid a ‘political spectacle’ as Iran war scrutiny grows",
-   "s": "US Defence Secretary Pete Hegseth has dismissed articles of impeachment brought against him by Republican congressman Thomas Massie, describing them as a stunt and a political spectacle. Speaking at his first news conference in six months, he defended the conduct of US military operations.",
-   "p": [
-    "Hegseth took the podium at the Pentagon and immediately attacked the articles of impeachment that Massie, an outgoing Republican, introduced on Monday. He said the effort was not oversight or accountability, and described it as driven by ego and resentment. He also said it would harm the warriors who defend the country.",
-    "Hegseth said that the articles were baseless and that every operation cited in them was lawful. He listed Iran, the cartels, Maduro and Yemen, saying each was carried out under orders from the commander-in-chief, then from himself, and was notified to Congress. He claimed the strikes had destroyed terror regimes’ capabilities, sank boats carrying drugs and put a “narco dictator” in handcuffs. He insisted none of this amounted to high crimes.",
-    "According to the Guardian’s live coverage, the House has until Wednesday to act on the articles. Lawmakers can hold a floor vote, send the resolution to committee for further investigation, or table it entirely. Hegseth framed the dispute as a policy disagreement that should be settled through legislation and debate, while calling the effort an act of sabotage.",
-    "The press conference also touched on the wider political fallout of the war, which the Guardian said is now in its eighth month. After several Republicans, including Vice-President JD Vance, linked the party’s midterm losses to the conflict and rising prices, Hegseth declined to say whether he agreed. He pointed instead to Secretary of State Marco Rubio’s view that the war was “not necessarily popular, but it may have been necessary”, and said he shared that view.",
-    "Hegseth told reporters that the media had ignored military successes and accused some of hating the president more than the country. He also noted that 150 years had passed since a defence secretary was last impeached. He was referring to William Belknap, who served under President Ulysses S Grant and was impeached in 1876. The Senate later acquitted him. Hegseth placed the current effort alongside the impeachments of Donald Trump in 2019 and 2021, saying they had failed.",
-    "Separately, flight-tracking data showed that the US had withdrawn at least a dozen aircraft, including refuelling tankers, from Mildenhall Royal Air Force base in eastern England on Monday. The Wall Street Journal reported that the move followed a threat from Iran, citing people familiar with events. According to the Journal, as relayed by AFP, the precise nature of that threat was still under discussion among US officials.",
-    "The US military said it was taking “coordinated and appropriate” security steps. A spokesperson for its European Command declined to discuss specific force protection measures, noting that various factors can affect them."
-   ],
-   "cav": "The Guardian coverage is a live blog and may be updated, and Hegseth’s claims that every strike was lawful are his own assertions, not findings. The Mildenhall withdrawal is second-hand, based on flight-tracking data and unnamed people cited by the Wall Street Journal, and the Iranian threat itself remains unspecified. The BBC material available here is only a summary.",
-   "op": "Whatever one thinks of the Iran war, a defence secretary’s legal justification for it should be tested, not dismissed as a stunt. Calling a congressional challenge sabotage does not answer the questions it raises. Impeachment exists so that claims of lawful conduct are examined in public, and Hegseth’s refusal to engage on the merits weakens that check.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7524/live/000d93d0-dd09-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo"
-  },
-  {
-   "id": "w-e73ffb28403dcdef",
-   "member_ids": [
-    "w-e73ffb28403dcdef"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T10:56:29+00:00",
-   "t": "Former NATO chief says Europe must earn its seat in Ukraine talks, not plead for one",
-   "s": "Former NATO Secretary-General Anders Fogh Rasmussen told Euronews that Europe must earn a role in the US-brokered talks between Russia and Ukraine by offering something useful. He warned that complacency could leave the continent in lasting conflict.",
-   "p": [
-    "Rasmussen argued that Europe is currently in a weak bargaining position and should stop asking for a place among the negotiators. In his view, European governments need to bring capabilities that the talks cannot do without, and he said he hopes they will recognise the urgency now.",
-    "He spoke as Russian, Ukrainian and US negotiators met in Abu Dhabi on Tuesday and Wednesday, with the stated aim of ending Russia’s full-scale invasion of Ukraine. Officials from the EU, NATO, Britain, Germany, Italy and France were also travelling to the United Arab Emirates, but for separate discussions and not the main three-way meeting.",
-    "Jared Kushner, an adviser to US President Donald Trump and his son-in-law, said last week that the talks would focus on a new European security order. Russian officials have used similar wording when calling for a smaller NATO presence in Europe. Rasmussen accused Washington of choosing Moscow and siding with Vladimir Putin.",
-    "Divisions among European leaders surfaced after the Norwegian prime minister, Jonas Gahr Støre, and Finland’s president, Alexander Stubb, held a 90-minute call with Putin. Danish prime minister Mette Frederiksen said she was doubtful of the move, which she said had not been coordinated with other leaders.",
-    "Rasmussen, a former Danish prime minister, said that speaking to Moscow was sensible in principle, but such initiatives should be planned together. He also rejected the idea that Europe could act as an impartial go-between, saying it would stand with Ukraine.",
-    "Polish foreign minister Radosław Sikorski has insisted that eastern European states must have a voice in any settlement, since they face the spillover effects of the war most directly. Asked whether their security concerns should shape the negotiations, Rasmussen said eastern Europeans should have been heard earlier. He led NATO from 2009 to 2014, and Estonia, Latvia and Lithuania had joined the alliance and the EU in 2004, just before his tenure.",
-    "Rasmussen also faulted Washington for holding up approval of US-made air-defence missiles for Ukraine. Zelenskyy said in late October that he had waited nearly a month for Patriot and NASAMS deliveries, and Rasmussen called the holdup a serious blow to Ukraine’s defences. Asked whether NATO had ever been this divided, given US troop cuts, Trump’s threats to leave the alliance and the dispute over Greenland, he said no. He still expects the United States to help Europe in a crisis, but argues that Europe must make its own decisions whoever is in the White House."
-   ],
-   "cav": "Rasmussen’s views are his own. Comments attributed to Frederiksen, Sikorski and Kushner are reported second-hand in the article. Zelenskyy’s account dates from late October, and the sources do not say whether the missile approvals have since been granted.",
-   "op": "Europe’s leverage over Ukraine’s future will come from coordinated decisions, not petitions. Leaders who call Moscow without consulting their partners undercut that position. Influence built on unity is the only kind likely to outlast shifts in Washington.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/10/europe-must-stop-begging-for-seat-at-ukraine-peace-talks-ex-nato-chief-warns"
-    ]
-   ]
-  },
-  {
-   "id": "w-4f00f11c3b481360",
-   "member_ids": [
-    "w-4f00f11c3b481360"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T10:30:35+00:00",
-   "t": "Lawyers for Rui Pinto open talks with UK authorities on possible cooperation deal",
-   "s": "The legal team of Football Leaks founder Rui Pinto is negotiating with British authorities about a deal that could see him help uncover financial and sporting crime in the UK. The Serious Fraud Office has reportedly made the first approach.",
-   "p": [
-    "Lawyers for Rui Pinto are holding discussions with British authorities on a possible cooperation arrangement. Under it, the man known as the Manchester City whistleblower would help investigators look into serious financial and sporting wrongdoing in the UK, according to the Guardian.",
-    "The Guardian says it obtained information showing that the Serious Fraud Office reached out to Pinto after word spread that he was ready to support British investigators, provided he received protection in return. William Bourdon, a lawyer for Pinto who has also acted for Edward Snowden and Julian Assange, confirmed to the newspaper that contact had been made. He said the process was moving forward but gave no further specifics.",
-    "Pinto, who is 38, gathered tens of millions of sensitive files between 2015 and 2019. If a deal is struck, he could become a major source for inquiries into financial crime linked to football, law firms and powerful business figures. He might also help officials spot possible tax offences and other irregularities that could otherwise escape detection.",
-    "The bulk of the material is currently held by French authorities, who had earlier tried to bring him into a witness protection scheme. Those plans were derailed when Portuguese police arrested him in Hungary in January 2019, yet France has kept in touch with him.",
-    "His own position in Portugal is also in doubt. On 30 September he was told that state protection would end after six years. Officials said there was no danger to his life, but advised him to stay out of public debate on contentious topics, avoid crowded places and limit time with relatives. The move was put on hold once it became clear he had never been able to contest it, and he has lodged an appeal that is still pending.",
-    "Pinto’s disclosures have reached into Cristiano Ronaldo’s tax affairs, the proposed breakaway European Super League and a number of contested financial deals. Documents he leaked later fed into the Premier League’s inquiry into Manchester City, which concluded the club had breached financial rules.",
-    "In 2023 a Portuguese court handed him a suspended four-year prison sentence for attempted extortion and cybercrime. Two years later he was cleared in a second case with similar charges. The public prosecutor and Benfica, one of the clubs he hacked, have challenged that acquittal, and a higher court has yet to rule. Pinto’s backers describe him as a whistleblower who exposed corruption, while his critics say his methods broke legal and ethical norms. He was also the source behind Luanda Leaks, which laid bare the business empire of Isabel dos Santos, who has denied corruption allegations."
-   ],
-   "cav": "The deal is still under negotiation and its terms are unknown. Bourdon gave no details, and the Guardian’s account rests on information it obtained rather than on an official announcement. The outcome of Pinto’s protection appeal and the Portuguese challenge to his acquittal remain pending.",
-   "op": "A whistleblower who may help expose wrongdoing should not be left at the mercy of shifting protection decisions. Portugal’s decision to end Pinto’s protection without first giving him a chance to respond undermines trust in the system. Any British agreement must be transparent and bound by clear rules.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/cad994e023488c0d4f4ccfd10a00d316d2c0d63c/333_32_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=d6931fda135aae8a57d867a4d9061612",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower"
-  },
-  {
-   "id": "w-931db4adf438e14d",
-   "member_ids": [
-    "w-931db4adf438e14d"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-10T10:28:47+00:00",
-   "t": "Oil falls to lowest since August as Trump says Iran war is “effectively over”",
-   "s": "Crude prices slid to their weakest point since late August, lifting European and London equities, after President Donald Trump played down the chance of new strikes on Iran. Airlines and other fuel-sensitive shares led the gains.",
-   "p": [
-    "Brent, the international benchmark, dropped almost 3% to $89.66 in early Tuesday trading, its cheapest level since 31 August. The decline followed a slump of roughly 6% the previous day, which traders linked to signs that the fighting could be winding down.",
-    "Speaking at the White House, Trump argued that Israel and Gulf partners were adequately shielded from Iranian threats and that there was no need to escalate. He said military action “doesn’t seem to be a very necessary thing” at present, while adding that American forces remained ready to act for any reason.",
-    "Across Europe the Stoxx 600 rose 0.9% to 662.54, close to the peak it touched in early August amid hopes of a Middle East settlement. The FTSE 100 in London added 0.4% to 10,828. Carriers gained as investors anticipated lower fuel costs, with Lufthansa up 1.8% and Air France-KLM up 1.2%. Oil majors BP and Shell were the weakest large stocks, falling 1.7% and 1.5%.",
-    "Analyst Daniela Hathorn of Capital.com said markets were extending their recovery after a strong session on Wall Street, but warned that underlying economic and corporate risks had not disappeared. She suggested the Federal Reserve would want further evidence of cooling inflation before changing course. The latest US inflation figures for October were due at 1.30pm GMT.",
-    "For motorists, the AA reported on Monday that the average UK petrol price had dropped 5p a litre since early October, to 169.7p, and that wholesale prices pointed to a further 10p cut on the way."
-   ],
-   "cav": "The account relies on a market report whose summary is partly cut off, so the wider state of the Iran conflict is not fully clear. Trump’s “effectively over” remark is his own characterisation, and the sources do not show whether any formal end to hostilities has been agreed. The petrol price outlook is the AA’s projection, not a confirmed outcome.",
-   "op": "Falling oil prices are welcome, but investors and voters should not mistake a presidential remark for a settled peace. Governments that talk down the risk of strikes owe the public clear, verifiable terms. Until those exist, markets are pricing hope, and that is a fragile basis for a recovery.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
-  },
-  {
-   "id": "w-34cc8db10c0525c5",
-   "member_ids": [
-    "w-34cc8db10c0525c5"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-10T10:04:58+00:00",
-   "t": "Trump says Iran war is ‘effectively over’ as Tehran denies planned talks with Washington",
-   "s": "US President Donald Trump said there was momentum toward ending the war with Iran, while keeping open the possibility of new strikes. Tehran denied that any meeting with US officials was being planned.",
-   "p": [
-    "On Monday, at a White House briefing, Trump argued that Iran had been largely defeated militarily, describing it as “effectively over”. He said Washington was content to hold the current position for now, but warned that the US could resume attacks if needed, and he judged such strikes to be unlikely.",
-    "Trump met Qatar’s Prime Minister, Sheikh Mohammed bin Abdulrahman Al Thani, whom he described as a key mediator in the conflict. It was the first time he had received a foreign leader since his party suffered heavy losses in the midterm elections. Afterwards, Trump wrote on Truth Social that the pair had a productive exchange covering Iran at length.",
-    "Trump said Gulf states favoured the present situation over military action, calling the American pressure on Iran a historic naval blockade and pointing to a land operation known as Iron Gate. According to the Euronews report, Iron Gate is a CENTCOM task force that aims to stop advanced weapons, sanctioned goods and illicit money from moving across Iran’s land frontiers and the Caspian Sea. Trump also said all parties accept that Iran must not acquire nuclear arms.",
-    "Qatar’s prime minister, who also met Vice President JD Vance in Washington, called the discussions positive. He said the sides had considered how to move forward on negotiations between Washington and Tehran, and he voiced appreciation for progress toward a deal and regional peace.",
-    "Iranian officials responded defiantly. Mohsen Rezaei, secretary of the Supreme National Security Council, wrote on X that the US was thrashing about in desperation and urged Washington to drop what he called invented reports of talks. Foreign Minister Abbas Araghchi said no such meeting was in preparation. Citing a senior security official, the Tasnim news agency reported that Tehran’s negotiating stance had not shifted and that it would not engage with the US until Washington took concrete steps against Iran’s seven demands.",
-    "Media reports on Monday, relaying remarks from Turkish intelligence chief Ibrahim Kalin, said Qatar would host a Vance–Rezaei meeting the following week, which Kalin presented as a chance for a real breakthrough. These claims rest on his account and have not been confirmed by the parties. Meanwhile, Iranian authorities said strikes were still hitting targets, including the island of Qeshm in the Strait of Hormuz. The US military has not publicly confirmed these strikes. Brent crude futures dropped to $92 a barrel on Monday as traders bet the conflict might soon end."
-   ],
-   "cav": "The reported Vance–Rezaei meeting comes only from Turkish intelligence chief Ibrahim Kalin as relayed by media, and Iran has denied it. The strikes in Iran are reported by Iranian authorities; the US military has not publicly acknowledged them. Trump’s claim that Iran is militarily “effectively over” is his own assessment and is not independently verified in these sources.",
-   "op": "Claims that a war is nearly over sit uneasily beside strikes the US military has not publicly acknowledged. Transparency about where force is used, and which talks are really under way, is the least the public is owed before anyone declares victory. Until Washington and Tehran put verifiable facts on the record, optimism should be treated as a hypothesis, not a settlement.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks"
-    ]
-   ]
-  },
-  {
-   "id": "w-0585a161a6c53b45",
-   "member_ids": [
-    "w-0585a161a6c53b45"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-10T09:40:31+00:00",
-   "t": "Trump calls fresh US strikes on Iran ‘highly unlikely’ but says Washington stays ready to act",
-   "s": "President Donald Trump has said renewed American attacks on Iran are improbable, while warning that US forces remain prepared if conditions change. He made the comments after meeting Qatar’s prime minister, amid mounting domestic pressure over the war.",
-   "p": [
-    "Speaking in the White House briefing room on Monday, Trump argued that Iran’s military had been largely neutralised, and said talks aimed at ending the Middle East conflict were moving in a constructive direction. He described Washington’s current posture as a holding pattern, which he said was being maintained largely at the urging of neighbouring states.",
-    "The remarks followed an Oval Office meeting with Qatar’s prime minister, Sheikh Mohammed bin Abdul Rahman Al Thani. Trump called the talk a productive exchange about bringing the war to a close. Qatar, a US partner in the Gulf and one of Iran’s neighbours, has played a central mediating role. In a message posted on X, the Qatari leader said he had held constructive discussions with Trump and Vice-President JD Vance about a settlement for the region.",
-    "Iranian officials have repeatedly questioned Trump’s earlier suggestions that the conflict was close to resolution. According to the BBC, this is not the first time he has described the war as over in military terms, but his political situation has shifted since then. Diplomacy has largely been conducted through intermediaries since the fighting began after joint US and Israeli strikes in February.",
-    "The change in tone follows a difficult set of midterm results for the Republicans last week, which senior party figures, including Vance, attributed in part to the war. Before the vote, Trump had acknowledged limited US strikes on an Iranian island in the Strait of Hormuz. In a 60 Minutes interview broadcast on Sunday, he said he saw no current justification for escalating.",
-    "Asked why he had not formally declared the war at an end, Trump said some Gulf partners could still be exposed to Iranian aggression. He suggested that the American naval blockade of Iranian ports was helping to make the region safer. Saudi Arabia, Qatar and the United Arab Emirates have all been struck by Iranian fire during the conflict, and the threat of attacks has caused significant disruption to air travel in the region.",
-    "Energy markets responded to the developments. Oil prices have dropped sharply since the midterms and fell further after Trump’s remarks. On Tuesday afternoon in Asia, Brent crude traded more than 1% lower at $91.50 a barrel, while US-traded crude was down 1.2% at $85.82.",
-    "The fallout is also reaching the Pentagon. Republican Congressman Thomas Massie intends to bring a House vote this week on impeaching Defence Secretary Pete Hegseth over the war. Hegseth, who has Trump’s backing, says he is unconcerned by the threat and Trump has dismissed Massie’s push as a stunt. Because Republicans still hold Congress until January, the motion is unlikely to pass, although Democrats have indicated they would support impeachment once the new session starts."
-   ],
-   "cav": "The central claims about Iran’s military position and the state of negotiations come from Trump’s own statements, and Iranian officials have disputed his earlier assessments. The account relies on a single outlet, and the sources do not say what terms a deal might involve or when one could be reached.",
-   "op": "A declaration that a war is effectively over is not the same as ending one, especially when allies and markets remain exposed. Washington owes the public a clear account of what has been agreed, what remains open and who answers for the campaign. Leaders who keep the state of war vague should expect scrutiny from Congress and voters.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
-  },
-  {
-   "id": "w-c95056dc4dbc835c",
-   "member_ids": [
-    "w-c95056dc4dbc835c"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-10T09:23:55+00:00",
-   "t": "Nvidia chief Jensen Huang, under investigation, lobbied Trump on China chip exports, BBC analysis says",
-   "s": "Nvidia boss Jensen Huang is being investigated over an affair involving an alleged Chinese spy, according to BBC analysis by Faisal Islam, who argues he matters more to the future of the world order than other tech leaders. Nvidia shares fell about 4% on Monday.",
-   "p": [
-    "In a BBC News analysis, Faisal Islam compares Jensen Huang with the late Steve Jobs, noting that both are admired innovators with a strong personal presence. Huang, however, is now under investigation over an affair involving an alleged Chinese spy, a matter the piece treats as a serious new risk for the company.",
-    "The column explains why Nvidia matters so much. The most advanced systems of today depend on the most powerful microchips, and for years those have been produced by Nvidia, using technology that grew out of graphics hardware and manufacturing capacity in Taiwan. Islam writes that the names of its chips mean little to the public, yet they power the technology that is transforming the world.",
-    "Islam met Huang in September last year, during Donald Trump’s state visit to the UK. At the time, Huang was pressing the US government to lift export bans on some of the most capable chips sold to China, including the H200. Islam suggested that Huang was one of the few people who could meet Trump at the White House and then Xi Jinping in Beijing within days. Huang said he believed he had persuaded Trump of his case.",
-    "Huang argued that the contest between the US and China is not zero-sum and that American interests were better served if the world relied on US technology. He also said that such computing technology was not a national security concern. Islam notes that many people in national security circles reject this view. They argue that the race for the most advanced technology is effectively zero-sum and that the West, and the US in particular, must act to slow Chinese progress.",
-    "The column links those public arguments to the current inquiry. It says the period in which Huang was lobbying is now being independently investigated over national security concerns and alleged Chinese espionage. The piece does not set out the scope of that investigation, who is conducting it, or what it has found so far.",
-    "Islam reports that Nvidia shares fell about 4% on Monday, which he attributes to new risks at the point where technology and global politics meet. He says the company is still expected to perform strongly, citing hard revenues of about $400bn this year and a market value of more than $4 trillion."
-   ],
-   "cav": "This is an analysis column rather than a news report, and the investigation’s details, the identity of the alleged spy and the status of any findings are not in the source. The revenue and valuation figures are reported without a stated original source, and Huang’s claims are his own, relayed second-hand by Islam.",
-   "op": "Huang’s influence over the chips that shape the future of technology is a matter of public interest, and so is how the inquiry into him is handled. Allegations of espionage against a figure with this much reach call for clear, timely disclosure of what is being examined and why, not market rumour. Until findings are public, the presumption of innocence must hold, and investors and governments deserve facts.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo"
-  },
-  {
-   "id": "w-d360149389ef4dd0",
-   "member_ids": [
-    "w-d360149389ef4dd0",
-    "w-2ecf841fedbcee54"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-09T23:20:29+00:00",
-   "t": "Trump says FBI is looking into Nvidia chief Jensen Huang’s affair with alleged Chinese spy",
-   "s": "US President Donald Trump said the FBI is looking into the relationship between Nvidia’s chief executive and an alleged Chinese spy, as Nvidia’s shares fell. Beijing has rejected the claims.",
-   "p": [
-    "Donald Trump said on Monday that the FBI was investigating the affair between Jensen Huang, the boss of chipmaker Nvidia, and a woman US authorities allege is a Chinese spy. Trump said he had spoken to Huang that day and asked him whether he knew the woman was a spy. According to Trump, Huang said he had no idea. Trump said he believed him, though he gave few details of the FBI inquiry and did not say when it had begun. The BBC has contacted the FBI, and the bureau’s response was not reported in the evidence.",
-    "The woman is Alice Huang, also known as Huang Le, who the New York Times reported is a managing director of Megaspeed, a Singaporean company that has had dealings with Nvidia. Citing US intelligence officials, the newspaper said they believe she was spying for Beijing. It also reported that Secretary of State Marco Rubio sent a memo to senior officials last spring warning about the relationship. These claims come from the newspaper’s reporting and have not been independently confirmed in the evidence. Alice Huang and Jensen Huang are not related.",
-    "China’s foreign ministry rejected the allegations that Huang was targeted, calling them groundless and speculative. Nvidia has said it had no reason to believe its secrets or national security had been compromised, and it has launched an internal investigation. In an email to employees on Sunday, Huang admitted the affair, said he was sorry for hurting his wife and children, and pledged to cooperate with the company’s probe.",
-    "Several congressional committees have asked Huang to attend a closed-door briefing next week on Nvidia’s security protocols and his dealings with Megaspeed’s executive. It is unclear whether he will attend. The BBC has contacted Nvidia and the committees, and neither had responded in the reporting provided.",
-    "Support for Huang has come from some prominent figures in technology and finance. Elon Musk and investors including Shaun Maguire and Bill Ackman publicly defended him, with Maguire describing the affair as a serious mistake and Ackman saying Huang should not get a free pass. Trump also said he believed Huang would stay on as chief executive.",
-    "Markets reacted sharply. Nvidia shares fell 4.2 per cent on Monday, closing at their lowest level since 7 April, as investors questioned Huang’s future. Nvidia is one of the world’s most valuable companies and is central to the current tech boom, and its chips are at the heart of US export restrictions on sales to China. The company’s standing with regulators and lawmakers may now depend on what the FBI and Congress find."
-   ],
-   "cav": "The FBI inquiry is confirmed only by Trump’s own remarks, and the evidence gives no details of its scope. The claims that Alice Huang spied for Beijing rely on unnamed US officials as reported by the New York Times, and China denies them. Huang’s account of the affair comes through his email and Trump’s retelling of their call.",
-   "op": "Public officials should not be the only source of assurances in a matter touching national security and US export policy. Trump’s word that Huang is honest is not an investigation. Transparency from the FBI, Nvidia and Congress is what will show whether the chip industry’s most important company was truly safe.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
-  },
-  {
-   "id": "w-c6647f048eaf527c",
-   "member_ids": [
-    "w-c6647f048eaf527c"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-09T22:58:31+00:00",
-   "t": "Trump says US war in Iran is ‘effectively over’ and escalation is not needed",
-   "s": "Donald Trump has described the war in Iran as “effectively over”, downplaying fears that Washington would step up its military campaign against Tehran once the midterm elections were done.",
-   "p": [
-    "Donald Trump has told reporters that the conflict with Iran has essentially ended, pushing back against expectations that the United States would intensify its campaign after the midterms, according to The Guardian.",
-    "Speaking at a White House press conference, Trump argued that Israel and Gulf allies were well shielded from Iranian threats and that new strikes were not necessary for now. He nonetheless said American forces were positioned and prepared to act for any reason.",
-    "His comments came after a meeting in the Oval Office with the Qatari prime minister, Mohammed bin Abdulrahman Al Thani. Qatar has joined other Gulf states in urging Washington not to restart hostilities. The Guardian reports that the Qatari leader spoke of progress toward ending the conflict within a short timeframe, though the summary does not make clear whether that remark was his or Trump’s.",
-    "The outlet also points out that Trump has repeatedly suggested a final peace agreement was close, doing so dozens of times over a war that has now lasted close to nine months.",
-    "US troop deployments to the region continued in the weeks before the vote. Some commentators speculated that the administration was holding off on renewed fighting until after the ballot to avoid a political backlash. Republicans then suffered a heavy defeat, losing control of both chambers of Congress, and Vice-President JD Vance publicly blamed the Iran war as a major factor.",
-    "Earlier in the day, Trump posted on Truth Social that Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait would favour keeping the current arrangement, which he described as a long-running naval blockade. He reiterated that Iran must not acquire a nuclear weapon and said Washington could return to full-scale operations if conditions changed, while calling such a move unlikely."
-   ],
-   "cav": "This account rests on a single outlet, and the sources do not describe the negotiations, the terms under discussion or conditions on the ground. It is also unclear from the summary whether the “fairly soon” remark came from Trump or from the Qatari prime minister, although the headline attributes it to Trump.",
-   "op": "A claim that the war is “effectively over” should be tested against facts, not applause, especially from a leader who has repeatedly predicted an imminent deal. Before the public accepts that fighting has ended, the administration should set out plainly what has been agreed, what remains unresolved, and what would trigger renewed strikes. Transparency is the only real test.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/b6e8e114809ae6a1208d9050901c18957d8b648d/269_0_3983_3188/master/3983.jpg?width=140&quality=85&auto=format&fit=max&s=a7905f32e879226b8bd6716b80ca6682",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
-  },
-  {
-   "id": "w-8583188719848333",
-   "member_ids": [
-    "w-8583188719848333"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-09T21:37:02+00:00",
-   "t": "Republican congressman moves to force House impeachment vote on Defence Secretary Hegseth",
-   "s": "Representative Thomas Massie plans to bring impeachment articles against Defence Secretary Pete Hegseth to a House vote this week, a step widely expected to fail. Massie says his aim is to prompt President Donald Trump to replace Hegseth before Democrats take control of Congress.",
-   "p": [
-    "Republican Thomas Massie of Kentucky formally filed articles of impeachment against Defence Secretary Pete Hegseth on the House floor on Monday, according to the BBC. He accuses Hegseth of breaching the US Constitution.",
-    "Massie argues that Hegseth has been waging hostilities in Iran for more than 90 days without authorisation from Congress, and says that makes the defence secretary answerable under the law. Asked why he was pressing ahead, Massie told reporters he was acting on principle.",
-    "Few observers expect the effort to succeed, since Republicans keep their majorities until January. Massie's stated goal is to push Trump into dismissing Hegseth before Democrats can open an impeachment inquiry of their own.",
-    "Hegseth struck a dismissive tone. He said he was unconcerned, and told reporters he would hold a news conference on Tuesday morning on the subject. The BBC notes that his previous news conference took place in May.",
-    "Massie lost his re-election bid earlier this year. He has been a vocal critic of Trump and of the Iran conflict, which began almost nine months ago, and he has also pressed the administration to release federal files on Jeffrey Epstein. The articles, as reported, accuse Hegseth of intimidating critics of the administration, of seizing foreign leaders and of disregarding War Powers resolutions. The BBC did not independently verify these allegations.",
-    "Once the resolution is filed, House Speaker Mike Johnson has to set a date to take it up within two days. Members may vote on it outright, send it to committee, or shelve it. House Democrats look likely to support it, and their leader Hakeem Jeffries said he would be a firm supporter. Massie himself said he was unsure there were enough votes to pass it.",
-    "Peter Loge, a public affairs professor at George Washington University, told the BBC that the measure could clear the House because the Republican margin is so narrow, and that some frustrated Republicans may stay away from the vote. Paul Gowder, a law professor at Northwestern University, said impeachment has become more frequent as American politics has grown more polarised, and predicted several more of Trump's cabinet members could face it.",
-    "Removing a cabinet secretary requires approval by both chambers. The House has impeached only two cabinet members in US history, and the Senate convicted neither. A conviction needs two-thirds of senators, a bar Democrats would not reach in January without Republican votes. Gowder suggested the current Senate could confirm a replacement if Hegseth left before the new session, while Loge said Hegseth's chances of serving out Trump's term are slim."
-   ],
-   "cav": "The allegations are Massie's claims as set out in the articles, and the BBC report does not confirm them. Hegseth's only response in the sources is that he is unconcerned, and the content of his planned news conference is not described. The expected outcome is also contested, as Loge expects the House to pass the measure while Massie is unsure it has the votes.",
-   "op": "Serious accusations against a cabinet secretary deserve a full, transparent process, not a rushed vote aimed at getting ahead of a rival party. Congress should test the claims on the record, and Trump should explain publicly how he will address the questions the articles raise.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
-  },
-  {
-   "id": "w-bfba74fdc28fbe1a",
-   "member_ids": [
-    "w-bfba74fdc28fbe1a",
-    "w-3b0d941dd87544cb"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-09T20:42:04+00:00",
-   "t": "Steel plant blast in western Turkey kills at least 17 workers",
-   "s": "At least 17 people have died and more were hurt after an explosion and fire at an iron and steel plant in Aliaga, near Izmir in western Turkey. Officials say the blast followed a crane accident during work at the site.",
-   "p": [
-    "The explosion happened around midday at the Habas Demir Celik plant in Aliaga, a port district of Izmir province. According to the BBC, the victims were all workers at the facility, one of Turkey’s leading steel producers. Footage from the scene showed a large fire inside the plant and a tall column of smoke.",
-    "The Izmir governor, Süleyman Elban, said a crane carrying a replacement boiler had collapsed, sending materials into a furnace below. Euronews, citing President Recep Tayyip Erdoğan’s televised address, reported the same sequence. The company that runs the plant said the accident occurred during scheduled maintenance on one of its electric arc furnaces.",
-    "Casualty figures have shifted. Erdoğan first put the death toll at 16. Health Minister Kemal Memişoğlu later said one critically injured person had died, raising the total to 17. The number of injured is reported differently: the BBC gives 12, while Euronews gives 13, including two in critical condition.",
-    "Elban told reporters that some people were believed to still be trapped under the rubble, and search and rescue work continued. Izmir mayor Cemil Tugay said on X that teams were working to remove the collapsed platform.",
-    "Erdoğan confirmed the deaths after a cabinet meeting and said investigations were under way. He said the circumstances, including whether there was negligence and who bears responsibility, would be established. The BBC’s Turkish service, citing local media, reported that at least five people had been arrested. Those arrests have not been confirmed by the authorities in the sources available.",
-    "The Turkish Health and Safety Labor Watch, an independent civil society group, said workplace accidents remain a chronic problem in Turkey. Euronews described the Habas group as privately owned, and said the plant was founded in 1987 and can produce 4.5 million tons of steel a year, according to the company’s website. That capacity figure comes from the company itself and has not been independently verified in these reports."
-   ],
-   "cav": "The sources differ on the number of injured (12 or 13) and on the arrests, which rest on local media reports relayed by the BBC. The cause is described by officials and the company, and the investigation has not yet reported findings.",
-   "op": "When workers die in an industrial blast, the public is owed a clear account of who inspected the equipment and who approved the work. Investigators should publish their findings, and any negligence should be answered for under the law, not left to a statement of regret.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/09/a-huge-explosion-at-a-steel-factory-in-western-turkey-has-left-at-least-17-people-dead-and"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
-  },
-  {
-   "id": "w-a03f51e0c78eaadd",
-   "member_ids": [
-    "w-a03f51e0c78eaadd"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-09T20:27:07+00:00",
-   "t": "Nvidia founder Jensen Huang admits affair as board opens national security probe",
-   "s": "Nvidia chief executive Jensen Huang has admitted an affair after reports that he may have been targeted by a suspected Chinese intelligence asset. The company’s board has launched an independent investigation, and analysts say his position could be at risk.",
-   "p": [
-    "For more than three decades, Jensen Huang has been the public face of Nvidia, which he co-founded in 1993 and grew into one of the most valuable chipmakers in the world. He has also kept the company close to his family, with his children Madison and Spencer holding senior roles and his wife, Lori Mills Huang, running the family foundation, which is reported to control more than 60 million Nvidia shares as of 2024.",
-    "That image was badly damaged this weekend. The New York Times reported at the end of October that Huang may have been targeted by a Chinese intelligence asset with whom he had developed a close relationship. In a letter to employees on Sunday, Huang acknowledged that he had been having an affair.",
-    "The Times reported that US officials had suspected Huang of helping to smuggle American chips into China and had monitored Alice Huang, an executive at Singaporean datacentre firm Megaspeed. According to the reporting, officials allegedly concluded during that surveillance that she was a Chinese spy and had become close to the Nvidia leader. Earlier, a company spokesperson had said there was nothing out of the ordinary about his interactions with her. Megaspeed did not respond to a request for comment before publication.",
-    "In his letter, Huang said he supported the investigation, wrote that he took full responsibility for the hurt he had caused, and apologised to his family. Nvidia’s board has now launched an independent inquiry into the national security concerns linked to the relationship.",
-    "Analysts and investors quoted in the report said Huang could be removed as chief executive depending on the outcome. Dan Ives of Yorkville Ives described it as a “black eye moment” that could prompt congressional inquiries and weigh on the share price. Ken Mahoney of Mahoney Asset Management compared Huang’s role at Nvidia to that of Steve Jobs at Apple, while warning that the bigger question was whether a successor could keep the company’s strategic direction.",
-    "Nvidia shares fell 7.5% at the opening of the market, wiping out more than $330bn in value, according to the report. Andy Challenger of Challenger, Gray & Christmas argued that the case was about judgment and national security exposure, not only personal morality.",
-    "In a statement, the board said it did not believe national security or company secrets had been compromised, and it expressed confidence in Huang and his leadership team, while promising further updates as appropriate."
-   ],
-   "cav": "The account of the alleged spy and surveillance comes from New York Times reporting as relayed by the Guardian, and the Guardian did not independently confirm it. Megaspeed had not responded, and the board’s finding that no secrets were compromised is a preliminary statement, not the outcome of the investigation. The talk of Huang’s possible removal is analysts’ speculation.",
-   "op": "A company’s leadership should not hinge on one executive’s private life, but when that life touches a national security inquiry, shareholders and the public are owed more than reassurance. The board’s independent investigation should be published in full, with its findings open to scrutiny. Confidence statements are no substitute for transparency.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=afdecc31729b9181eb40ced7efa95880",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia"
-  },
-  {
-   "id": "w-f7175dd579677815",
-   "member_ids": [
-    "w-f7175dd579677815"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-09T19:58:01+00:00",
-   "t": "Nvidia shares fall after board opens investigation into CEO Jensen Huang’s affair with alleged Chinese spy",
-   "s": "Nvidia’s share price dropped about 4% on Monday after the chipmaker’s board said it would investigate chief executive Jensen Huang’s relationship with a woman US officials reportedly believe was a Chinese spy. Beijing has rejected the claims.",
-   "p": [
-    "Nvidia’s market value fell sharply on Monday, with the stock down roughly 4% at the close, after the company said its board would run an independent inquiry into chief executive Jensen Huang’s relationship with an alleged Chinese spy. The BBC put the loss in market value at about $250bn (£190bn).",
-    "The probe followed press reports suggesting Washington believed Huang had been singled out in a Chinese espionage effort. Huang has acknowledged an extramarital affair, calling himself “unfaithful” and apologising to his wife and children. He said he remained committed to protecting the company and supporting US national security, and pledged to cooperate. Nvidia said it had no reason to think its secrets or national security had been compromised.",
-    "According to a New York Times report cited by the BBC, American intelligence officials believe Alice Huang, who also goes by Huang Le, worked for Beijing. She ran Singapore-based Megaspeed, a firm that has done business with Nvidia. The same account says Secretary of State Marco Rubio circulated a memo to senior officials last spring, cautioning that the chief executive had a close bond with a Chinese agent. The BBC noted that these assertions are not independently verified in the material it had.",
-    "Beijing has dismissed the accusations, with its foreign ministry calling them baseless and designed to besmirch China. On Capitol Hill, members of the House Foreign Affairs Committee have asked Huang to attend a private briefing about his contacts with Alice Huang and about how Nvidia guards against espionage. Three lawmakers, Brian Mast, John Moolenaar and Rick Crawford, wrote that the reports raise serious concerns about Chinese access to sensitive American technology and that Congress must establish how far national security may have been put at risk.",
-    "Other prominent tech executives, Elon Musk among them, have publicly backed Huang remaining in charge. Analysts quoted by the BBC expected the setback to fade. Victoria Fernandez of Crossmark Global Investments said investors were unlikely to desert a company so vital to the sector building hardware for emerging technologies, though she noted Nvidia has no obvious heir to Huang.",
-    "Governance is the sharper question. The BBC reported Huang holds only about 3.5% of the company, and because Nvidia has a single class of voting shares, that stake would not give him a veto over a board decision to remove him. That contrasts with founders such as Mark Zuckerberg of Meta and Musk of Tesla and SpaceX, who hold substantial stakes across several share classes. Fernandez doubted the board would move against Huang without clear evidence of wrongdoing linked to national security or intellectual property, though she expected a possible number two to be identified. Savers are also exposed: pensions and savings in index-tracking funds holding Nvidia can move with its share price."
-   ],
-   "cav": "The affair and the espionage claims come from a New York Times report that the BBC relayed, and the sources do not show independent confirmation of Alice Huang’s alleged role. China has denied the allegations, and Nvidia has not said what the investigation will examine or when it will report.",
-   "op": "A chief executive’s private conduct is his own business, but when it may intersect with alleged espionage, shareholders and lawmakers have a legitimate claim to facts. Nvidia’s inquiry should be genuinely independent and its findings published in full. Investors should not be reassured by a share price rebound; transparency must decide whether Huang stays.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
-  },
-  {
-   "id": "w-70bb2f5e3bb877a9",
-   "member_ids": [
-    "w-70bb2f5e3bb877a9"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-09T19:31:36+00:00",
-   "t": "Massie pushes for a House impeachment vote against Defense Secretary Pete Hegseth",
-   "s": "Kentucky Republican Thomas Massie has filed eight articles of impeachment against US Defense Secretary Pete Hegseth, opening the way for a possible House vote this week. The step follows months of criticism of Hegseth over the Iran war and other military operations.",
-   "p": [
-    "Thomas Massie, a Republican congressman from Kentucky who is leaving office and has frequently clashed with President Donald Trump, has pressed for a House vote to remove Pete Hegseth. According to The Guardian, Massie charges that the defense secretary waged war without congressional approval and misused the authority of his office.",
-    "Speaking on the House floor, Massie told colleagues that Hegseth had committed “high crimes and misdemeanors” and had carried out unlawful orders. The Guardian reports that Massie is expected to attract some Republican votes. Under House rules, a vote would have to be held by Wednesday at the latest.",
-    "Massie first filed the articles on 15 September. Speaker Mike Johnson then adjourned Congress before the measure could be considered. Republicans will keep their House majority until newly elected members are sworn in during January.",
-    "Hakeem Jeffries, the Democratic leader in the House who is widely tipped to become speaker, has described himself as a “hard yes” on impeachment. In an interview with ABC News on Sunday, he said Hegseth needs to leave his post.",
-    "On Monday, Hegseth addressed the Naval War College and unveiled changes to military training, arguing they would help officers wage war swiftly and with deadly precision. Trump, Vice President JD Vance and other Republican figures have blamed their heavy losses in last week’s midterm elections largely on the Iran conflict and its impact on household finances.",
-    "Hegseth answered his critics in a brief video posted on Thursday, calling the impeachment push an attempt at personal ruin and saying it would fail against him. The watchdog groups Common Cause and Citizens for Responsibility and Ethics in Washington contend that the video breaches the Hatch Act, which limits the use of public money for partisan purposes.",
-    "Massie’s resolution lays out further charges. It asserts that Hegseth bypassed Congress’s constitutional power to declare war through unauthorised strikes on Iran and Yemen. It also cites the deaths of more than 100 children at a school in Iran and accuses him of ordering suspected drug boats in the Caribbean sunk without rescuing their crews. The document further contends that the investigation and threatened prosecution of Democratic Senator Mark Kelly, over calls for troops to refuse illegal orders, violated the First Amendment, and it describes the alleged kidnapping of Venezuelan President Nicolás Maduro as unlawful."
-   ],
-   "cav": "The sources do not confirm whether the House vote will happen or how many Republicans will support it. The allegations, including the claim about child deaths in Iran and the legality of the Maduro operation, come from Massie’s resolution and are not independently established in the reporting.",
-   "op": "Impeachment is a grave remedy and should turn on whether an official broke the law, not on who is politically inconvenient. If Congress believes Hegseth acted without authorisation, it should weigh the evidence in public and vote on the record. Delaying the question again would tell voters that accountability depends on party loyalty.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
-  },
-  {
-   "id": "w-4bf48c10d46c669c",
-   "member_ids": [
-    "w-4bf48c10d46c669c"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-09T18:51:10+00:00",
-   "t": "Jensen Huang’s affair raises questions about Trump’s response to intelligence warnings",
-   "s": "The Nvidia co-founder has admitted an affair with a Chinese businesswoman said to have passed intelligence to Beijing. The Guardian’s editorial board argues that the White House’s failure to act on warnings demands an explanation.",
-   "p": [
-    "Nvidia co-founder Jensen Huang has admitted to an affair with Alice Huang, a Chinese businesswoman. According to the Guardian, she is said to have passed intelligence to Beijing. The paper describes the case as something close to a spy thriller, given Huang’s status as one of the most powerful figures in the technology boom.",
-    "According to the editorial, Donald Trump was briefed on the relationship and took no action. Asked whether he should have acted on the intelligence, the president replied: “No, I don’t think so.” The paper suggests that he may have seen the matter as a private breach of marriage vows, or that he chose to overlook it.",
-    "The editorial links the episode to Nvidia’s growing influence in Washington. Huang is described as a backer of Trump’s datacentre expansion, a donor to the White House ballroom project, and an ally in opposing safeguards on the technology. The Guardian says Nvidia’s chips, which became central to the race for tech supremacy, also became a national security issue once China joined the competition.",
-    "The paper recounts that the US imposed export controls on GPU sales to China in October 2022, and that Nvidia was effectively barred from selling to Beijing about thirty months later. It says Huang lobbied for looser rules, and that the White House then scrapped Biden-era global chip restrictions and allowed sales of Nvidia’s H200 processors to Chinese customers.",
-    "The Guardian reports that Megaspeed, a Singapore-based company whose executive was Ms Huang, was investigated in 2025 over suspected diversion of restricted Nvidia chips to China. Analysts at Culper Research argued in May that Megaspeed brought Nvidia substantial revenue, allegedly backed by Chinese financing. The editorial also says that more than $300bn was wiped off Nvidia’s valuation once Wall Street opened.",
-    "According to the paper, reports suggest the commerce department’s probe was halted after Nvidia contacted investigators. The editorial says Democrats, encouraged by their midterm success, are likely to seek answers, and that Congress has grounds to examine whether the administration knowingly set aside a foreign intelligence threat.",
-    "The editorial places the case within a longer history. It notes that diplomatic or military honeytraps have traditionally been more common than commercial ones, and that British intelligence agencies accused Beijing in 2008 of using sex to pressure businesses. The paper states that whether this has happened in the Huang case is unknown."
-   ],
-   "cav": "This is an editorial opinion, and its account of the intelligence claims is second-hand: the paper says Alice Huang is “said to have” passed intelligence to Beijing. The report that the commerce probe was halted rests on unnamed reports, and the editorial does not confirm whether any honeytrap took place.",
-   "op": "Whether a chipmaker’s lobbying shaped national security policy is a question of public trust, not partisanship. If the president knew of a possible security risk and chose inaction while easing export rules, Washington owes the public a full and transparent explanation.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/131_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=5cc65588e18a18b81a32194ec2137467",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings"
-  },
-  {
-   "id": "w-0daa9a6eefd5a965",
-   "member_ids": [
-    "w-0daa9a6eefd5a965"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-09T14:10:00+00:00",
-   "t": "Nvidia shares fall as investigation opens into reports CEO was targeted by Chinese intelligence",
-   "s": "Nvidia has launched an independent investigation after reports that chief executive Jensen Huang was the target of a foreign intelligence effort, a claim China denies. Shares fell in premarket trading as the story spread.",
-   "p": [
-    "Nvidia said it was launching an independent investigation following reports that its founder and chief executive, Jensen Huang, had been the target of “a foreign intelligence effort”. According to the reports, that effort led to a romantic relationship between Huang and a Chinese woman, Alice Huang, who had allegedly been recruited to spy for China’s Ministry of State Security.",
-    "Huang has admitted an affair. In a statement he said he had been unfaithful to his wife and apologised to his family. He also said he was “fully committed to Nvidia” and would work to earn back employees’ confidence. China has denied the spying claims.",
-    "Alice Huang reportedly worked for Megaspeed, a datacentre company based in Singapore. Megaspeed has been suspected of routing Nvidia chips to China and evading export controls, though the reporting cited in the evidence does not establish that as fact. Jensen Huang has publicly criticised US export controls on advanced chips, arguing in May 2025 that they had been a failure.",
-    "The Financial Times reported that Alice Huang and a business partner, Kang Wei, sought investment in early 2025 for a south-east Asian data centre project worth several hundred million dollars. According to two investors, the pair said they had “no problem securing GPUs” and cited Alibaba as a client. A US hedge fund had claimed six months earlier that Alibaba secretly funded Megaspeed.",
-    "Markets reacted quickly. Nvidia ended last week worth $4.5tn, and shares were down around 6% in premarket trading, with more than $200bn potentially wiped from its value once Wall Street opened. Asian markets were recovering, with Japan’s Nikkei up 2.2% and Taiwan’s TAIEX up almost 5%. Elon Musk publicly backed a post by Sequoia partner Shaun Maguire that criticised Huang’s conduct.",
-    "Separately, Bloomberg reported that Alphabet is rolling out a broader range of its tensor processing units, custom chips used to develop and run software, which adds to competitive pressure on Nvidia. Prediction market Polymarket put the chance of Huang resigning or being removed by the end of the year at 15%."
-   ],
-   "cav": "The espionage link rests on reports and claims, not on any confirmed finding, and the investigation’s outcome is not yet known. The Alibaba funding claim comes from a hedge fund’s allegation made months earlier, and the investor accounts are second-hand. Market figures are premarket and may change.",
-   "op": "Whatever the facts of this affair, the public interest is in an independent inquiry that is transparent about its findings. Nvidia’s investors and the wider public deserve clear answers on export controls and on who was able to reach its chief executive. Speculation should not substitute for evidence.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=140&quality=85&auto=format&fit=max&s=38f5d69d097ceb497e05f287de44be52",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
-  },
-  {
-   "id": "w-364ce3e80c46fc36",
-   "member_ids": [
-    "w-364ce3e80c46fc36"
-   ],
-   "section": "Climate",
-   "published_at": "2026-11-09T13:47:38+00:00",
-   "t": "Cop31 opens in Antalya as UN warns heat is building faster and the US stays away",
-   "s": "Climate talks in Antalya, Turkey, opened as the World Meteorological Organization reported that heat is building up in Earth's systems at a faster pace. The United States, which has withdrawn from the international climate framework, will again send no official delegation.",
-   "p": [
-    "The UN’s weather agency said the gap between the energy Earth receives from the sun and the energy it sends back has reached its largest level since measurements began. Releasing its global climate update as the summit got under way, it said 2026 was on course to rank among the four hottest years ever recorded.",
-    "According to the agency, average surface temperatures from January to September 2026 ran about 1.47C above the preindustrial level. Monthly sea surface temperature records were broken, and sea levels stood at their highest since record-keeping started. Oceans take in roughly 90% of the extra heat trapped by greenhouse gases, and 2026 is on track to be the tenth straight year of record ocean heat.",
-    "The agency warned that this heat build-up will intensify extreme weather, including heatwaves, droughts and tropical cyclones. António Guterres, the UN secretary general, said the world had moved into an era of severe climate extremes, pointing to a strong El Niño event layered on top of human-caused warming. He added that the people who have done least to cause the problem are suffering most.",
-    "Chris Bowen, Australia’s climate minister, is presiding over the negotiations in Antalya. Our colleague Adam Morton questioned him about the apparent contradictions in Australia’s record: a country with high emissions is leading the talks while still exporting fossil fuels and approving projects that add pollution.",
-    "Young activists at the summit also made their case. Janiely Truká, an Indigenous activist and poet from Brazil who advises Unicef Brazil on youth issues, said that for Indigenous communities the climate crisis threatens their way of life, their traditional knowledge and their future generations. She called for firm funding commitments, protection of Indigenous territories and easier access for young people to these negotiations.",
-    "The United States will again have no official government presence at the summit, the second year running. A White House official said the administration would not send anyone and criticised the summit for ignoring what it sees as the damage done by extreme climate policies. About 20 members of Congress travelling to Antalya have been refused the usual State Department support and are relying on philanthropic money. Democratic congressman Sean Casten, who is attending, described the situation as outrageous.",
-    "A recent UN report found that the US was the one major economy that did not cut or slow its carbon pollution last year, adding an extra 133m tons of planet-warming gases from coal, oil and gas. President Donald Trump has previously dismissed climate action as a scam. Finance is expected to be the most contentious issue, with developing countries pressing for money that wealthier nations would rather keep off the agenda."
-   ],
-   "cav": "The temperature and ocean figures come from a World Meteorological Organization update covering only January to September, so they are provisional. Several claims about the US and the summit come from live coverage and from quotes given by officials and lawmakers, and the sources do not independently verify them. The article does not say what outcomes the talks are likely to produce.",
-   "op": "Transparency at these summits matters as much as ambition. Delegates should publish agendas and funding arrangements early, and governments that talk about climate finance should show the money. Vague promises from any capital, including the host, will not protect the people already paying the price.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/b3f3159ab0a860e887417ad5b49be2516c3b54e3/1592_647_5238_4195/master/5238.jpg?width=140&quality=85&auto=format&fit=max&s=46c730e4ed9a499f4f933d5608f91260",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates"
-  },
-  {
-   "id": "w-34ac4a1f64169d13",
-   "member_ids": [
-    "w-34ac4a1f64169d13"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-09T13:34:24+00:00",
-   "t": "Kraków shooting: Polish prosecutors widen probe as attacker dies in hospital",
-   "s": "Six people were killed when a gunman opened fire in Kraków’s main square over the weekend, and the 24-year-old Polish attacker has since died in hospital. Authorities say the investigation will continue to determine whether he acted alone.",
-   "p": [
-    "Polish investigators opened a terrorism case after a gunman from Ostrowiec Swietokrzyski, a town in southeastern Poland, fired on people in the city’s central square on Saturday afternoon, according to the Guardian’s live coverage. Six people lost their lives, one of them a Briton, and 17 others were wounded. Authorities later said the assailant, who had been hit during an exchange of fire with officers, died in hospital.",
-    "A national day of mourning was declared for the first of two planned days. Police said the bodies of three relatives were found at the attacker’s home: his father, 53, his mother, 52, and his 21-year-old sister. Among the wounded were nationals of Britain, Austria, Germany, Portugal and Russia, as well as two police officers, one of them in serious condition.",
-    "Interior minister Marcin Kierwiński said the suspect had been drawn to far-right ideas and held “very radical” views. Those remarks were later softened, and nationalist opposition figures challenged the basis on which they had been made. Government spokesperson Adam Szlapka urged restraint in commenting while the initial signs remained unconfirmed.",
-    "According to interior ministry spokeswoman Karolina Gałecka, Poland’s cybercrime bureau, CBZC, has detained five people over online posts praising the shooter. She warned that officers were on heightened alert for possible copycat attacks.",
-    "Justice minister Waldemar Zurek said the probe would proceed despite the attacker’s death, with a focus on whether the gunman worked alone. The square reopened on Sunday evening after the security cordon was removed."
-   ],
-   "cav": "The account comes from a live blog that relays official statements and has not been independently verified. The interior minister’s ideological claims were partly walked back and their basis has been disputed, so the suspect’s motive remains unclear. The sources do not say what the five detained people are suspected of or whether the posts led to charges.",
-   "op": "A rare mass shooting in a city centre demands facts, not early labels. Poland’s government was right to pull back from a motive it could not yet support. Transparency now means publishing what the investigation establishes, including whether anyone helped the gunman, and treating the detained suspects with the presumption of innocence.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
-  },
-  {
-   "id": "w-b76a63ca5ce2b807",
-   "member_ids": [
-    "w-b76a63ca5ce2b807"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-09T13:10:32+00:00",
-   "t": "Nvidia chief Jensen Huang admits affair as reports link his companion to alleged Chinese spying",
-   "s": "Nvidia's chief executive has admitted an extramarital affair after US media reports said the woman involved was suspected of spying for Beijing. The company has opened an independent investigation.",
-   "p": [
-    "Jensen Huang, the co-founder and chief executive of the chipmaker Nvidia, has acknowledged an extramarital affair. On Sunday he said he had been “unfaithful” to his wife and apologised for the hurt caused to her and their children. He also said he would cooperate with an internal security investigation.",
-    "The affair is with Alice Huang, also known as Huang Le, a Chinese businesswoman who is not related to him. According to a New York Times report, which the BBC cites, US intelligence officials believed she had been recruited by China’s top intelligence agency and was spying for Beijing. Her current whereabouts are unknown. She did not respond to a request for comment from the newspaper.",
-    "Alice Huang was a senior executive at Megaspeed, a Singapore-based data centre firm that had been suspected of helping divert Nvidia chips to China. Nvidia says it investigated those concerns and found them to be unfounded. The BBC understands that Megaspeed is now under investigation by the Singapore government over earlier claims that it evaded US sanctions on exports of Nvidia’s high-end chips.",
-    "The New York Times reported that surveillance captured communications between Alice Huang and an American citizen, who was later identified as Jensen Huang. It remains unclear what intelligence, if any, she gathered and passed on. Nvidia told the BBC it was not aware of any intelligence concerns, and said it trusted the US government would have warned it of a genuine threat. China has rejected the allegations as “groundless”.",
-    "The reports have a political dimension. According to the New York Times, Donald Trump was briefed last year on intelligence alleging that Alice Huang was spying for China. Asked whether he wished he had acted on it, Trump said he did not think so and called Huang “an honourable guy”. Secretary of State Marco Rubio declined to comment, though the newspaper reported that he had overseen a memo last spring warning the administration about the relationship.",
-    "The stakes are high because Nvidia sits at the centre of the contest between the US and China over the most advanced technology. Export controls introduced since 2022 have largely shut the company out of the Chinese market, and Huang has pursued talks between Washington and Beijing in an effort to win back access. The affair, the reports suggest, may have complicated his hopes of a broader approval to sell more advanced chips to China.",
-    "Huang, born in Taiwan in 1963, co-founded Nvidia after working at AMD. Bloomberg’s billionaires index estimates his fortune at $155bn."
-   ],
-   "cav": "Much of the espionage detail is second-hand, drawn from a New York Times report that the BBC relayed, and Alice Huang has not commented. What intelligence she may have passed to Beijing is unknown, and Nvidia’s claim that US national security was not compromised has not been independently verified.",
-   "op": "The question is not Huang’s marriage but whether a company central to national security was kept properly informed. Officials who held intelligence about his associate owe lawmakers and the public a clearer account of what was known and what was done. Reassurance from either Nvidia or the administration is no substitute for transparency.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
   }
  ]
 }
