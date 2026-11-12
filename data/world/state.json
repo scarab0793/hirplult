@@ -1,7 +1,16 @@
 {
  "failed": {
   "w-825e50eaa1f44abd": 3,
-  "w-deacd9d56d0aca24": 3
+  "w-deacd9d56d0aca24": 3,
+  "w-2bb5ce40b16fb19f": 3,
+  "w-7294e3a17a6647ed": 1,
+  "w-e3c911e7f7da36f0": 1,
+  "w-734c5c9052d4e178": 3
  },
- "failed_translations": {}
+ "failed_translations": {
+  "w-1b011ef487053dfa:fr": 1,
+  "w-fc9bcbb71a5289ae:de": 1,
+  "w-fc9bcbb71a5289ae:es": 1,
+  "w-fc9bcbb71a5289ae:pl": 1
+ }
 }

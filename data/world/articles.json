@@ -1,6 +1,262 @@
 {
- "updated_at": "2026-11-12T13:58:15.811776+00:00",
+ "updated_at": "2026-11-12T21:34:47.979528+00:00",
  "items": [
+  {
+   "id": "w-5d7a658a27d35931",
+   "member_ids": [
+    "w-5d7a658a27d35931",
+    "w-62aa0eda8e38a1ef"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T21:23:15+00:00",
+   "t": "One dead and four injured in Washington DC gym shooting; suspect dies after standoff",
+   "s": "A gunman opened fire inside a gym in a Washington DC apartment building on Thursday morning, killing one person and wounding four others before dying in an apartment after a standoff with police. Authorities are still working to establish the timeline and motive.",
+   "p": [
+    "Police said one person was killed and four others were injured after the shooting, which began shortly before 8am local time at a VIDA Fitness gym in an apartment building in the Logan Circle area of Northwest Washington. The Guardian reported that the person who died was 46-year-old James Stuart, the building manager, though the BBC's report did not name the victim.",
+    "Officers were on the scene within 30 seconds of the report, police said. Interim police chief Jeffery Carroll told reporters that the suspect, later identified as 55-year-old Matt Wade Lambert, had left the gym and fired from an area outside, then barricaded himself in a seventh-floor apartment. Carroll said Lambert had three firearms and had broken a gas line and started a fire.",
+    "Negotiators spoke with the suspect for more than an hour. Carroll said they heard a gunshot and then officers forced their way into the apartment, where they found Lambert with what appeared to be a self-inflicted gunshot wound. The BBC reported that Lambert had fired through the door at officers at least twice while barricaded, a detail the Guardian did not include.",
+    "Court records cited by the Guardian show that Lambert had been in a civil dispute with the homeowners association of the building since March 2025. He alleged that his unit suffered mold, moisture and water damage after repairs to the building’s facade. The association denied negligence in court filings, and the case was still ongoing.",
+    "Police had earlier described a conflict between the shooter and the association. Carroll told reporters that police believed there was some sort of conflict with the apartment building but had little more than that. DC council member Brooke Pinto told Fox 5 DC that she believed the suspect went to the gym to target the building owner. That remains her belief and has not been confirmed by police.",
+    "Mayor Muriel Bowser called the shooting a senseless act of gun violence and said the White House had been briefed. Janeese Lewis George, the city’s mayor-elect, described the shooting as horrifying and expressed condolences to the victims and families.",
+    "A 23-year-old witness, Anthony Mirones, told the Guardian he was on a treadmill when he heard a loud bang and then saw a man dead on the floor. Another witness told the BBC that people hid behind planters and that a fire alarm was pulled. Both accounts describe the scene as chaotic, and details such as the number of shots differ between witnesses.",
+    "VIDA Fitness said its Logan Circle location was temporarily closed and would remain closed until further notice. Police said the scene was safe but asked the public to avoid the area while they cleared the building."
+   ],
+   "cav": "Motive and timeline remain unconfirmed; the council member’s account of a targeted attack is a claim, not a police finding. The sources also differ on where the suspect fired from and whether the shots at officers were fired through the door.",
+   "op": "A repair dispute over mold and water damage belongs in court or in negotiation, not in a gym full of people. Residents deserve a clear, verified timeline and motive, not claims passed along before investigators have finished their work.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle"
+  },
+  {
+   "id": "w-8d3d97e1a5a3d482",
+   "member_ids": [
+    "w-8d3d97e1a5a3d482"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-12T20:19:39+00:00",
+   "t": "Economists divided over Nvidia’s future after Jensen Huang steps down",
+   "s": "Two economists speaking at Web Summit Lisbon disagreed on how lasting the damage will be after Nvidia’s chief executive stepped down. One called his exit a setback for the sector, while the other said large companies tend to outlast their leaders.",
+   "p": [
+    "Jensen Huang stepped down on Thursday as chief executive of Nvidia, according to the coverage, after an affair involving an alleged Chinese spy and a company employee came to light. The reporting presents these allegations as claims, and the sources do not explain the evidence behind them. The departure has unsettled a market that leans heavily on a small group of major companies, although the commentators quoted do not expect lasting harm to Nvidia itself.",
+    "Speaking on a panel moderated by Euronews at Web Summit in Lisbon, investor Adam Kobeissi, who runs The Kobeissi Letter, described the move as a loss for the sector as a whole. He argued that more time should have been spent on an inquiry before Huang left, calling the decision “a critical mistake.”",
+    "James Galbraith, a professor at the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin, offered a calmer assessment. In his view, big firms are structured to continue beyond whoever leads them, and if Nvidia is as robust as its reputation suggests, the disruption may be short-lived.",
+    "Kobeissi was less sanguine about spillover effects. Because so much of the sector’s growth rests on a few firms, he said it was “hard to say” whether anything at Nvidia could be viewed in isolation. He also expects Anthropic to proceed with its public listing, possibly as early as next week.",
+    "He added that private debt has become “a little tapped out” as a source of funding, and that the coming quarters will be uncertain because of the midterm election result, shifts in policy and other pressures. He doubted that investors can simply wait for that uncertainty to fade.",
+    "The panellists’ predictions are opinions, and the sources offer no market data to test them."
+   ],
+   "cav": "The affair and espionage claims are allegations reported in the coverage, and the sources do not say who made them public or what evidence supports them. The economists are commentators, and the Anthropic timing is one speaker’s expectation rather than a confirmed date.",
+   "op": "When a chief executive leaves amid allegations that have not been tested, the public deserves to know what the investigation found and how the decision was reached. Markets can move on rumour, but accountability depends on transparent process. Investors should demand the facts before they treat the story as settled.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/nvidia-without-huang-a-significant-loss-and-puts-the-ai-boom-under-a-microscope-say-econom"
+    ]
+   ]
+  },
+  {
+   "id": "w-1b011ef487053dfa",
+   "member_ids": [
+    "w-1b011ef487053dfa",
+    "w-3be99525f2f59b92",
+    "w-6e0cb4a87e740b3a"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-12T20:03:55+00:00",
+   "t": "Israeli strike on Nasser hospital in Gaza kills six, including surgeon, officials say",
+   "s": "An Israeli airstrike on Nasser hospital in Khan Younis killed six people, among them a surgeon, early on Thursday, according to the hospital director. The Israeli military says it was targeting a Hamas commander and other fighters inside the building.",
+   "p": [
+    "The attack came shortly after midnight, at around 12.30am, according to Dr Ayman Abu Ubaid, a surgical specialist who was hurt in the bombing. He told the Guardian that the blast arrived with no prior notice, while the patients on his ward were awaiting operations and should have been asleep. Hospital director Dr Ahmed al-Fara put the toll at six dead and 28 wounded.",
+    "Among those killed was Rizk Abu Shaira, 52, a general surgeon who had been filmed working in the documentary American Doctor. He died together with one of the patients he had just operated on. Another victim, Seif Ghazi Abu Hatab, 29, had been brought in on Monday with a back injury sustained while he helped clear rubble from a friend’s house. He was due in theatre on Thursday morning and was expected to travel abroad for further care.",
+    "Al-Fara said the explosion wrecked part of the surgical unit and damaged several floors. Radiology, laboratories, operating theatres and inpatient surgical wards have all been halted. Video and accounts from the scene show a collapsed ceiling, beds buried in debris and a gap torn through a floor where the munition came down. He added that the facility is already short of roughly 80% of its essential drugs and supplies.",
+    "The Israeli military stated that it had hit a Hamas commander and other militants at the site, but it did not provide evidence to back that claim. Israel has previously argued that Hamas uses hospitals as command posts and weapons depots. Hamas denies this.",
+    "Nasser is among the few healthcare facilities still working in Gaza. According to the Guardian, it has come under attack seven times since the war began, and a strike last year on the site killed five journalists. Doctors Without Borders says Israel has detained hundreds of medics since October 2023, at least 95 of them still held. UN experts have called the wider destruction of the territory’s health system “medicide”.",
+    "France 24 reports that Israeli fire killed 11 people across Gaza on Thursday, with six of those deaths coming from the Nasser strike, and describes it as the deadliest single attack since Israel’s elections last month. Gaza’s health ministry says more than 1,600 people have been killed by Israeli strikes since the October 2025 ceasefire.",
+    "International humanitarian law prohibits attacks on medical facilities and personnel. A hospital may lose that protection if it is being used for military purposes, but the reports so far do not establish that this was the case here."
+   ],
+   "cav": "The sources give different wounded figures: the hospital director says 28, while the Guardian’s video summary refers to more than 20. The military’s claim about a Hamas commander is unsupported by any evidence in the reports, and the casualty numbers come mostly from hospital and health officials that could not be independently verified here.",
+   "op": "A hospital is supposed to be the one place where the sick and wounded are safe from fighting, yet a strike that kills a surgeon mid-treatment tests that principle. If the military believes Hamas fighters were inside, it should publish the evidence it has so far withheld. Unproven claims cannot justify the deaths of doctors and patients.",
+   "confirmed": true,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/d8bb4c84-ded2-11f1-b9be-3f371022a770/w:1024/p:16x9/EN-20261112-203639-204648-CS.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
+  },
+  {
+   "id": "w-e6b794c851501aa0",
+   "member_ids": [
+    "w-e6b794c851501aa0"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-12T19:56:26+00:00",
+   "t": "Infant dies of cold in Gaza tent as aid limits and floods deepen displaced families' hardship",
+   "s": "A nine-month-old Palestinian boy has died of cold in a tent in southern Gaza, according to his father and a doctor. The death came as Israel is said to be restricting winter supplies, and as floods have compounded the plight of people living in temporary shelters.",
+   "p": [
+    "A baby boy has died of exposure in a family tent in southern Gaza, where his displaced relatives were sheltering, according to his father and a medical source. The death is unfolding while Israel is reported to be keeping tight limits on winter aid entering the territory, which has been devastated by war.",
+    "A doctor, who asked not to be named, told the AFP news agency on Thursday that nine-month-old Kinan Ahmed Raqiq died from hypothermia in Khan Younis.",
+    "The child's father, Ahmed Raqiq, told AFP that the temperature fell sharply overnight. He said he found the boy's skin had turned blue and took him to Nasser Hospital, where doctors found he had already died. Speaking outside the hospital, he said he was “in complete shock.”",
+    "Mahmoud Basal, the spokesman for Gaza's Civil Defence, confirmed the death was caused by extreme cold, the Palestinian outlet Al-Quds reported.",
+    "The United Kingdom, Qatar and Jordan lead a coalition of more than 50 countries and organisations. They have urged Israel to let in shelter materials, fuel, water, sanitation and medical supplies without delay, warning that many people in Gaza still lack adequate housing and face risks such as hypothermia and chest infections.",
+    "Israel's caretaker Prime Minister, Benjamin Netanyahu, has rejected the criticism. He said Israel had allowed in 91,000 tents and blamed Hamas alone for the suffering of Gaza's population. The source material does not explain how these figures were checked.",
+    "Heavy rain this week flooded camps and damaged tens of thousands of tents. Five people, three of them children, were killed the day after the flooding, when a sandy embankment gave way and fell onto their shelters. The UN humanitarian coordination office, OCHA, said 26,000 households had been hit by storms as of November 8. It also estimated that about 65 percent of Gaza's population remains displaced in tents or other temporary shelter.",
+    "James Elder, a UNICEF spokesman on Gaza, said the flooding was only a foretaste of the cold season, stressing that winter has not yet arrived."
+   ],
+   "cav": "The cause of death rests on the father's account and an anonymous doctor's statement; the evidence includes no post-mortem or official medical report. The Civil Defence confirmation is second-hand, relayed through Al-Quds, and Netanyahu's claims about tent numbers are not independently verified in the source material.",
+   "op": "Shelter and fuel are not political bargaining chips, and a child freezing in a tent is the clearest sign of what delay costs. Israel should open verifiable channels for supplies now and publish the delivery figures behind its claims. Without that transparency, neither side's account can be tested, and the families paying the price will keep waiting.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-84f9571cde60ac2f",
+   "member_ids": [
+    "w-84f9571cde60ac2f"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-12T19:09:25+00:00",
+   "t": "Eight dead as three-storey Brooklyn building collapses into neighbouring construction pit",
+   "s": "Eight people have died and 18 others were hurt after a three-storey residential building gave way in Brooklyn's Flatbush neighbourhood on Wednesday. Officials are examining whether criminal charges could follow.",
+   "p": [
+    "Witnesses told the BBC they heard a sudden, deafening bang and saw a cloud of dust rise as the structure gave way. Part of it tumbled into an excavation site next door, where workers were on duty at the time. The 1930s building at 1321 Flatbush Avenue held apartments and a shop on its ground level.",
+    "New York Mayor Zohran Mamdani said some workers, themselves narrowly spared, went back to the wreckage and pulled victims out from under the debris. Fire Commissioner Lillian Bonsignore said crews reached the scene within minutes and described their conduct as “incredibly heroic”. She added that the search would carry on until no one remained unaccounted for, even though heavy rain and cold weather hampered work at the site.",
+    "Authorities put the death toll at eight, comprising six adults and two children, with two of the dead being construction workers. Mamdani said six people were declared dead where the building fell, and two more died later in hospital. Four of the injured are firefighters, and one patient is still in hospital in critical condition.",
+    "Residents were living in the building when it fell. On the neighbouring plot, excavation was under way for a project that has already received approval, featuring 64 homes and a supermarket on its lower floor. CBS News reported that it remains unclear whether that digging had any bearing on the collapse.",
+    "The Ecuadorian consul general visited the area and confirmed that two of the victims are Ecuadorian citizens, according to the New York Times. Gicela Andrade told the newspaper that one of them, Jose Luis Caguana Cosquillo, is to be flown home for burial. She named the other victim as Gabriel Ariolfo Siguencia.",
+    "Investigators say the developers hold live permits for excavation and foundation work connected to the new project, and have named the developer as Robert Fischman. Brooklyn District Attorney Eric Gonzalez wrote on X that his office is working with the Department of Buildings and other law enforcement partners to establish whether any criminal conduct played a part. Mamdani said every party tied to the building and the site would be scrutinised and made answerable.",
+    "On Thursday, Department of Buildings head Ahmed Tigani told a news conference that no code violations had been logged for the property before the collapse. He said the developer is linked to at least 100 other locations across the city, and all of them are now being reviewed. More than 250 firefighters came out and worked through the night to locate those trapped. Forecasters were predicting heavy rain across the New York region later the same day."
+   ],
+   "cav": "The cause of the collapse is not yet established, and officials have not linked it to the adjacent excavation. The Ecuadorian nationality of two victims and the burial plans come from the consul and a New York Times report rather than an official statement. The death toll is consistent across accounts, but the number of injured and their condition may change.",
+   "op": "When a residential building falls into a site where people are working, the public is owed a clear account of who approved what and who checked it. Permits, inspections and developer ties across 100 sites must be examined in the open, not deferred to a process that promises accountability later. The families of the dead deserve answers before the rubble is cleared.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4351/live/bf5dd100-decb-11f1-86d5-71a9f29d1c99.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+  },
+  {
+   "id": "w-e6c38db2fdfd90b5",
+   "member_ids": [
+    "w-e6c38db2fdfd90b5"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-12T18:46:48+00:00",
+   "t": "Jensen Huang's exit from Nvidia: an opinion on why the board had to act",
+   "s": "Nvidia's chief executive Jensen Huang has resigned after confessing to an affair, and a Guardian columnist argues the board was right to remove him despite his reputation as irreplaceable. The column draws on reports and comment rather than new disclosures.",
+   "p": [
+    "Nvidia’s co-founder Jensen Huang has stepped down as chief executive, after confessing to an extramarital affair. According to the Guardian column by Nils Pratley, many commentators had described him as “irreplaceable” at the start of the week, arguing that the chipmaker would struggle without his leadership.",
+    "The affair at the centre of the case involved Alice Huang, who is not related to him and who is the head of Megaspeed, a Singapore-based firm. The column notes that the firm is suspected of smuggling Nvidia chips into China. It also says US officials regard Alice Huang as a Chinese spy. The column does not say whether Jensen Huang knew of that view.",
+    "Reports of a second affair, this time with a senior Nvidia employee, added to the pressure, the column says. It argues that the board may also have been concerned about what further material could emerge in the coming weeks.",
+    "Nvidia’s shares fell sharply after the announcement. The column reports an initial drop of 13 per cent, which later narrowed to about 5 per cent as investors weighed the company’s strong position in the market for graphics processing units. The analyst Dan Ives is quoted as backing the change of leadership.",
+    "Pratley gives three main reasons for the board’s decision. First, congressional investigations are expected regardless. Democratic senators have asked administration officials to preserve documents on the sale of Nvidia’s advanced chips to China, and the company’s ties to the Trump administration are likely to face closer scrutiny. Second, Huang’s credibility as an advocate for looser export restrictions has been undermined. Third, the column argues that the company had relied too heavily on one individual, and that its board had not addressed this.",
+    "To manage the transition, Colette Kress, the chief financial officer, will serve as interim chief executive. Harvey Jones, a former chief executive of the semiconductor company Synopsys and a current director, is to become independent chair. The column suggests that further governance changes, possibly including new independent directors, may follow.",
+    "The column acknowledges that the management task will be difficult and that the political climate in Washington has changed. Its central argument is that a company of Nvidia’s size could not justify keeping a leader whose position had been compromised."
+   ],
+   "cav": "This is an opinion column, and several key claims are presented as reports or as the views of US officials rather than established facts. The column does not confirm that Jensen Huang knew of Alice Huang’s reported status, and the allegations about Megaspeed and the second affair are not verified in the piece. The share price figures are as stated in the column and may have changed since.",
+   "op": "Boards owe shareholders candour, and Nvidia’s case shows that governance cannot rest on one star executive. Congressional scrutiny of chip exports to China is legitimate and should proceed in full view. The directors were right to act, but the real test is whether they build checks that outlast any single chief executive.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=140&quality=85&auto=format&fit=max&s=9ba5d12b3d2914c76c4d3abd59946972",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go"
+  },
+  {
+   "id": "w-716ae72d68e4baf4",
+   "member_ids": [
+    "w-716ae72d68e4baf4"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-12T18:31:23+00:00",
+   "t": "Russia downplays US hopes of a European seat at Ukraine peace talks",
+   "s": "Moscow has played down US envoys’ suggestion that Vladimir Putin will accept a European presence in negotiations to end the war in Ukraine. Instead, Russia has asked Europe to stop military aid to Kyiv first.",
+   "p": [
+    "US special envoys Steve Witkoff and Jared Kushner had suggested that Putin agreed to a European presence in the talks. According to the source, Russia has downplayed those comments and set a condition: Europe should cease military aid to Ukraine.",
+    "Witkoff and Kushner flew to Moscow to seek Putin’s consent for Europeans to join a multilateral format. So far, the process has run between Ukraine and Russia, with US moderation. The trip followed two days of negotiations in Abu Dhabi, where the Russian delegation declined to sit down with the European team.",
+    "Witkoff told reporters, citing Reuters, that Europeans would join the next meeting. He called this an important moment because they are Russia’s partners as well. Kushner described the discussions as detailed and said they would hopefully feed into a multilateral format.",
+    "Putin’s aide, Yuri Ushakov, cautioned against seating Russians and Europeans at the same table. He said Europeans first needed to choose between “peace” and “war”, a reference to their military support for Ukraine. Ushakov argued that Europe’s practical actions pointed toward the latter.",
+    "The source reports that Putin wants to revise the continent’s security architecture. Europeans, it says, see that topic as a way to divert attention from the war and to advance Russian great-power aims, including veto power over NATO’s future membership. Putin cited Donald Trump’s plan for a broad agreement that might involve all of Europe.",
+    "Putin’s response to European leaders, reported by the source, was that they should talk only after there is peace in Ukraine. He then accused them of planning to deploy troops into Ukrainian territory once fighting ended. European Commission President Ursula von der Leyen and High Representative Kaja Kallas have both made security talks conditional on a ceasefire.",
+    "In Dublin, European leaders rejected Putin’s approach. They argued that Moscow had breached security agreements that had been in place for decades, and that any discussion of the architecture required a European presence. German Chancellor Friedrich Merz said it was important that Russia come to the table. EU leaders were due to discuss appointing a special envoy, which Ukrainian President Volodymyr Zelenskyy has requested by the end of the month. Kremlin spokesperson Dmitry Peskov said such a designation was a prerequisite for joining the talks.",
+    "The peace process has so far produced limited progress beyond prisoner swaps, according to the source. Russia also left room for some contact: last month Putin held a 90-minute phone call with the leaders of Finland and Norway."
+   ],
+   "cav": "The US envoys’ account that Putin accepts a European role is not confirmed by Moscow, which has downplayed it. Witkoff’s remarks come via Reuters as reported by Euronews, and the Dublin position is described only in summary. Peskov’s remarks are quoted through the source without a fuller readout.",
+   "op": "A settlement that excludes the countries that must guarantee and police it invites a deal Europe cannot honour. Moscow’s demand that aid stop before talks begin turns a security question into a bargaining chip. Negotiators should publish their terms and insist that Europe has a seat.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+    ]
+   ]
+  },
+  {
+   "id": "w-fc9bcbb71a5289ae",
+   "member_ids": [
+    "w-fc9bcbb71a5289ae"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-12T18:00:50+00:00",
+   "t": "Lewis Hamilton urges Israel to open Gaza to aid trucks after Rafah border visit",
+   "s": "Formula One driver Lewis Hamilton has called on Israel to let aid trucks reach Gaza, a day after touring the Rafah crossing on the Egyptian side. In an Instagram post he also accused Israel of genocide, a charge Israel rejects.",
+   "p": [
+    "Hamilton made the remarks on Wednesday, one day after he travelled to El Arish, in Egypt, on Tuesday. There, according to the reporting, he was given an overview of how aid is packed and organised before it crosses into Gaza.",
+    "During the visit he went through the Rafah crossing and the warehouses run by the Egyptian Red Crescent. He also greeted aid workers and officials in Arabic, offering a traditional salutation that means peace be upon you.",
+    "In his post, Hamilton said he saw food lorries waiting at the border, ready to cross. He described them as frequently blocked or held up for long periods, and said the first driver he spoke to had already waited more than twelve hours.",
+    "He also said that at a nearby logistics hub he saw supplies being turned away. The items he listed included sleeping bags, first aid kits, medical equipment, wheelchairs and footballs for children. He said Israel should meet its commitments under the ceasefire.",
+    "The Ferrari driver, a seven-time world champion, wrote that the past three years amounted to what he called Israel’s genocide in Gaza, which he described as appalling. Israeli authorities reject the genocide charge and say their military campaign is aimed at Hamas militants.",
+    "The reporting notes that a ceasefire agreed last year has stopped major fighting in Gaza. Even so, the volume of aid entering the territory remains well below the agreed daily minimum of 600 trucks.",
+    "Hamilton has repeatedly used social media to highlight children killed in Israeli airstrikes and to call for a ceasefire. He founded the charity Mission 44 in 2021 to help young people gain access to education and jobs. He currently sits fourth in the drivers’ standings, while Mercedes’ Kimi Antonelli has already secured the championship with three races remaining."
+   ],
+   "cav": "The account of rejected aid and long waits rests on Hamilton’s own observations and social media post, and the reporting does not give reasons for the rejections. His genocide description is his personal view, which Israel disputes.",
+   "op": "Aid access is not a question of celebrity opinion; it is whether a ceasefire is honoured in practice. When drivers wait for hours and basic supplies are turned back, the public deserves named, specific reasons from those who control the crossings. Openness about rejections should be the starting point, not something a famous visitor has to demand.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+  },
   {
    "id": "w-29dfd653cd425f06",
    "member_ids": [
@@ -653,337 +909,6 @@
    "img": "https://i.guim.co.uk/img/media/19adf662078881fea37debc1ed0f4427eecec97c/2_0_4428_3543/master/4428.jpg?width=140&quality=85&auto=format&fit=max&s=da056a05199d950395cf74d4fbe7dd0c",
    "img_outlet": "The Guardian",
    "img_link": "https://www.theguardian.com/books/2026/nov/11/ten-lives-by-mona-chalabi-review-what-if-we-were-totally-honest-about-our-wealth"
-  },
-  {
-   "id": "w-4bf9ec2f4610b45f",
-   "member_ids": [
-    "w-4bf9ec2f4610b45f",
-    "w-9083470d25a95502",
-    "w-c056dc801be4f8d8"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T20:41:53+00:00",
-   "t": "US soldier arrested in England on suspicion of espionage for Russia, police say",
-   "s": "British police have arrested a 41-year-old member of the US military near Gloucester in southwest England on suspicion of espionage linked to Russia. The man is in custody, and the inquiry is continuing.",
-   "p": [
-    "UK authorities say a man aged 41 who serves in the American armed forces was detained on Tuesday close to Gloucester, in the southwest of England. The Metropolitan Police in London suspects him of carrying out espionage on behalf of Russia. In a statement, the force said he was held under two parts of the National Security Act 2023, one dealing with help given to a foreign intelligence service and the other with obtaining or passing on protected information.",
-    "According to the force, its counter-terror officers worked hand in hand with the FBI and American military investigators. Deputy Assistant Commissioner Vicki Evans, who coordinates counterterrorism policing at national level, called the arrest significant and said the allegations are serious. She added that the inquiry is still moving forward. Police said officers were searching two addresses in Gloucestershire, and that the suspect is being held at a police station in the capital.",
-    "FBI Director Kash Patel described the arrest as important and said that espionage allegations of this kind worry Washington and its partners greatly. He warned that anyone who betrays their oath to the United States will face no tolerance. Sean Stinchon, who commands the US Army Counterintelligence Command, said the case showed how well the two countries’ agencies cooperate.",
-    "Police stressed that the detention has no link to other counter-terror inquiries. That suggests it is separate from a suspected Iran-linked plot in September at RAF Fairford, a British air base used by American forces. After that threat, the US Air Force pulled bombers from the site that had been deployed to hit Iran during the regional conflict.",
-    "A French broadcaster reported that the Americans also removed refuelling aircraft from the Royal Air Force base at Mildenhall in eastern England on Monday. It attributed the move, citing the Wall Street Journal, to a threat from Iran. That explanation reaches readers second-hand, through a newspaper account the broadcaster relayed.",
-    "DW noted that the Gloucestershire area contains several sensitive military and intelligence sites, and that nearby Cheltenham hosts the headquarters of GCHQ, Britain’s signals intelligence agency. These details describe the region rather than the case, and none of the reports connected them to the suspect.",
-    "The accounts also differ on his rank and role. One outlet called him a senior member of the US Army, while another described him only as a member of the US military. No source has named him, and none has reported charges or a court appearance."
-   ],
-   "cav": "The suspect has not been named and no charges have been reported. Outlets differ on his seniority, and the Mildenhall link rests on a Wall Street Journal account relayed second-hand. The sources do not say what information was allegedly involved.",
-   "op": "Espionage allegations against a serving soldier test both alliance cooperation and public trust. The man is presumed innocent, and authorities should bring charges or release details promptly and explain how the alleged breach happened. Secrecy around the case does little to protect national security.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/b26da266-dd42-11f1-8a26-5f54d898a954/w:1024/p:16x9/000-33Z28VA.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence"
-  },
-  {
-   "id": "w-c5da30050562948a",
-   "member_ids": [
-    "w-c5da30050562948a",
-    "w-518877a6ec48aa43"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-10T19:54:46+00:00",
-   "t": "Republicans pick Jim Jordan as House minority leader after midterm losses",
-   "s": "House Republicans have chosen Ohio Congressman Jim Jordan, a close Trump ally, to lead their conference in the minority after losing the chamber in midterm elections. He succeeds Mike Johnson in the post.",
-   "p": [
-    "Republicans in the US House of Representatives have elected Congressman Jim Jordan as their new minority leader, one week after losing their majority in the midterm elections. According to Al Jazeera, the vote was held by secret ballot on Tuesday, and Jordan won the support of his fellow party members over Majority Leader Steve Scalise.",
-    "The Guardian reported that Democrats will take control of both chambers of Congress in January, with their largest margins in years. Sources describe the midterm defeat as sweeping, with Al Jazeera saying Democrats flipped at least 40 seats nationwide.",
-    "The role carries significant responsibilities. Jordan will shape the party’s response to the investigations Democrats have promised into Trump’s second term, and will help prepare for the 2028 presidential race. In a letter to colleagues before the vote, he described himself as “battle-tested” and called for a leadership team that is active and engaged.",
-    "Jordan is a longtime leader of the right in the House. He helped found the conservative Freedom Caucus, and as chairman of the House Oversight Committee he has investigated what he calls the weaponisation of government against Trump, including probes of former Special Counsel Jack Smith and Fulton County District Attorney Fani Willis. Both have unsuccessfully prosecuted the president, according to Al Jazeera.",
-    "Supporters praised him as a fighter. Republican Congressman Brandon Gill wrote on social media that Jordan was “exactly what our Conference needs”. Some Republicans, including Tennessee lawmaker Tim Burchett, said the party needed to admit mistakes after the defeat.",
-    "Jordan has faced past allegations, which he denies, that he knew of sexual abuse of student-athletes by a physician at Ohio State University, where he once worked as an assistant wrestling coach. Al Jazeera reported those allegations without establishing any finding against him.",
-    "Democrats criticised the choice. Virginia congressman Don Beyer said Republicans had “learned absolutely nothing” from the election, and linked the decision to Trump’s recent appointment of Stephen Miller as chief of staff."
-   ],
-   "cav": "The sources differ in emphasis: Al Jazeera frames the vote around unity and the opposition agenda, while The Guardian centres on the party’s change of strategy and Democratic criticism. Former House Speaker Mike Johnson’s plans were reported only by The Guardian, and the outcome of the allegations against Jordan is not described in the evidence.",
-   "op": "Parties are entitled to choose their own leaders, but a minority that has lost voters’ confidence owes the public a clear account of what went wrong. Jordan’s record of confrontation with prosecutors and investigators makes it fair to ask whether he will offer scrutiny of the majority, or simply more fighting. Voters should judge that by his conduct in opposition.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
-  },
-  {
-   "id": "w-a9e9db34c8dad756",
-   "member_ids": [
-    "w-a9e9db34c8dad756"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-10T19:31:24+00:00",
-   "t": "Hegseth Rebuffs Impeachment Push With Rare Pentagon Press Conference",
-   "s": "Defense Secretary Pete Hegseth held a rare news conference at the Pentagon to dismiss an impeachment effort led by Republican Representative Thomas Massie. His remarks focused more on defending President Trump than on answering the charges.",
-   "p": [
-    "Hegseth met reporters at the Pentagon at 8am on a Tuesday, according to the Guardian, after avoiding press briefings for nearly six months. The session came as an unpopular war with Iran continued during an election campaign.",
-    "The trigger was Massie, the outgoing Republican congressman from Kentucky, who has introduced eight articles of impeachment against Hegseth. The Guardian reports that the articles are likely to win support from Democrats and possibly some Republicans.",
-    "The charges, as described in the report, include waging war against Iran without congressional authorization and violating the War Powers Resolution, which requires US forces to withdraw from unauthorized hostilities after 60 days. Other accusations cover strikes against suspected drug traffickers in the Caribbean, the capture of Venezuela’s president, Nicolás Maduro, strikes against Yemen, and retaliation against Senator Mark Kelly, a Democrat who urged military members to disobey illegal orders. Hegseth is named in these accusations but has not been found guilty of anything; they remain allegations.",
-    "Hegseth described the effort as a “farce” and said no secretary of war or defense had been impeached for carrying out lawful military operations. He compared the case with past conflicts under Republican and Democratic presidents, arguing that none had led to impeachment.",
-    "He did not name Massie during the 25-minute appearance, instead calling him “disgruntled” several times. Hegseth said the effort reflected “policy disagreements” rather than the offenses the founders had in mind when they wrote the impeachment clause.",
-    "Hegseth also invoked his predecessor, Lloyd Austin, saying Austin had not faced impeachment after a troubled withdrawal from Afghanistan and a period of medical treatment for cancer. He said the matter was not about him, and warned that if critics wanted to pursue the military, they would have to go through him.",
-    "The defense secretary framed the impeachment effort as an attack on President Trump, who was impeached twice during his first term. Hegseth said he was proud to stand with the president, and accused the media of being unable to acknowledge Trump’s military success against Iran because they “hate the president”. The Guardian’s account does not include independent verification of claims about the war’s outcome.",
-    "The Guardian’s commentary suggests the press conference was aimed as much at the White House as at reporters in the room."
-   ],
-   "cav": "The impeachment articles are allegations, and the evidence does not say whether the House will vote on them. The report is a commentary piece with a critical tone, and its characterisations, such as the description of Hegseth’s remarks, are the outlet’s own reading. Hegseth’s claims about the Iran war are not independently confirmed in the source.",
-   "op": "Impeachment is a constitutional tool, and serious accusations about war powers and civilian harm deserve a factual answer. Calling the process a farce and attacking critics as disgruntled does not explain the legal basis for the conduct under review. Transparency means answering questions under oath and in the open, not in a single appearance that avoids the charges.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-press-conference-impeachment"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/06ecb4e2e1a8e0c7b03f6bc0fe5373eb6937fb6d/1267_525_3842_3073/master/3842.jpg?width=140&quality=85&auto=format&fit=max&s=1a796efaeee36634957b718806382f8e",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-press-conference-impeachment"
-  },
-  {
-   "id": "w-a2c8ec084f776090",
-   "member_ids": [
-    "w-a2c8ec084f776090"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-10T18:33:51+00:00",
-   "t": "Najib Razak leaves prison for house arrest at his Kuala Lumpur home",
-   "s": "Former Malaysian prime minister Najib Razak is now at home, where he will finish his corruption sentence under house arrest. The move follows a royal pardon and a High Court ruling that took effect straight away.",
-   "p": [
-    "Najib, 73, reached his Kuala Lumpur residence late on Tuesday night, according to the BBC. Reporters and photographers gathered outside as he arrived by SUV, with police vehicles accompanying him. The home, located in an upscale part of the capital, has been designated a federal prison.",
-    "His return closes a four-year period behind bars. He was found guilty of taking billions of dollars from the national investment fund 1MDB, a case that toppled his administration and reached figures in Malaysia, at Goldman Sachs and in Hollywood. Investigators put the amount drained from the fund at $4.5bn, with part of it flowing into private hands, including his own. Prosecutors allege that more than $1bn landed in accounts connected to him.",
-    "In September, the monarch approved a conditional pardon that lets Najib serve his last two years at home. A planned move on Friday was delayed when the attorney general asked for clarity on the royal decree. On Tuesday, the High Court determined that the house arrest could begin right away. As part of the pardon conditions, his party handed over a $12m fine.",
-    "A 2020 verdict in the first trial gave him 12 years for abuse of power, money laundering and breach of trust. The case concerned 42 million ringgit moved from SRC International, a former 1MDB subsidiary. He entered prison in 2022, and an appeal later cut the term by half.",
-    "A second trial, concluded in December 2025, produced a 15-year sentence linked to nearly 2.3 billion ringgit taken from 1MDB. He is challenging that ruling, and he is set to begin that term once house arrest ends, which is expected in August 2028.",
-    "Najib, who led the government from 2009 to 2018, has rejected any wrongdoing. His legal team argues that advisers misled him, especially the financier Jho Low, who insists on his own innocence and is still at large.",
-    "Critics argue that his release weakens anti-corruption work and question whether it has a legal foundation, since they say Malaysian law does not provide for house arrest."
-   ],
-   "cav": "The sources do not explain the High Court's reasoning, and critics' view that the legal basis is weak remains contested rather than settled. The $4.5bn and $1bn figures are investigators' and prosecutors' estimates and allegations, not established totals. Najib's appeal against the second sentence is pending.",
-   "op": "A convicted leader moving from cell to mansion on a legal basis critics dispute tests whether anti-corruption rules bind the powerful. Malaysia should publish the royal decree and the court's full reasoning. Without that, the 1MDB verdicts risk looking negotiable.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
-  },
-  {
-   "id": "w-9641a16883f21f0b",
-   "member_ids": [
-    "w-9641a16883f21f0b"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T17:29:36+00:00",
-   "t": "First day of Ukraine peace talks in Abu Dhabi called constructive, with key disputes unresolved",
-   "s": "Officials from Ukraine, Russia and the United States held the first of two days of trilateral talks in Abu Dhabi. Kyiv and Washington described the session as positive, but the central disagreement over eastern Ukraine remains.",
-   "p": [
-    "Senior officials from Ukraine, Russia and the United States met in Abu Dhabi for the first trilateral talks since February, with a second day scheduled for Wednesday. Delegations from Kyiv, Washington and Moscow took part in four hours of discussions, according to the BBC.",
-    "Russian and Ukrainian officials said little publicly after the session. President Volodymyr Zelensky, who was not at the talks, said they had proved “constructive and quite substantive”. US Secretary of State Marco Rubio, speaking from Paris, called the meeting “very productive”. Zelensky said humanitarian issues, including prisoner of war exchanges, had also been discussed.",
-    "Expectations for a breakthrough were low. US officials said Moscow and Kyiv were showing “a little bit of flexibility” in private on who would control Ukraine’s eastern regions after a war ends. Jared Kushner, the US president’s son-in-law, told delegates the two sides had “narrowed the gaps”, but gave no details.",
-    "The core dispute concerns Donetsk, which Russia largely occupies. Moscow wants Ukraine to give up the parts it still holds, while Kyiv wants the current contact line frozen so it keeps control of those areas, which it says are vital to its security. A US official said the territorial question cannot be settled before the shape of a post-war “security architecture” is agreed.",
-    "The framework under discussion reportedly includes security consultations, crisis communication hotlines and “reciprocal de-escalation measures”. Officials also floated reviving the Nato-Russia Council, which has been largely paused since 2022. European leaders, long excluded from the talks, have pushed to take part, and Rubio said Europeans “are a part of solving this problem”. A US official, however, said the Russians have “a bad taste in their mouth” about Europe.",
-    "Scepticism is widespread. The previous round in Geneva in February ended without a breakthrough, and talks stalled after the US-Israel war on Iran drew Washington’s attention away. Ukrainian MP Oleksandr Merezhko, who heads the parliamentary foreign affairs committee, told the BBC he believed Trump wanted “a quick deal at the expense of Ukraine”, and argued that more sanctions and deep strikes were needed to push Moscow into real negotiations."
-   ],
-   "cav": "Zelensky did not attend, and the claims of private flexibility come from an unnamed US official, so they cannot be independently checked. Kushner’s claim that the gaps had narrowed was given without details, and the outcome of the second day was not yet known when the reporting was published.",
-   "op": "Peace terms that decide the fate of eastern Ukraine and its security should not be shaped in closed rooms and described through anonymous briefings. Ukraine and its European neighbours have a direct stake and deserve a seat, with the substance made public. Transparency is the real test of whether this round means progress.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
-  },
-  {
-   "id": "w-a5c1e4d216530967",
-   "member_ids": [
-    "w-a5c1e4d216530967",
-    "w-637eebbf986247e8"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-10T17:03:16+00:00",
-   "t": "Israel’s new parliament sworn in as Eisenkot tries to form a government without a majority",
-   "s": "Israel’s new Knesset has been sworn in, but neither Benjamin Netanyahu’s bloc nor the opposition led by Gadi Eisenkot holds a majority. Eisenkot has been given the first chance to build a government.",
-   "p": [
-    "Israel’s parliament has taken its oath, but the vote count leaves the country without a clear route to a new government. Neither the bloc behind caretaker Prime Minister Benjamin Netanyahu nor the opposition camp led by former army chief Gadi Eisenkot controls the 120-seat Knesset.",
-    "According to the BBC, Eisenkot’s alliance of four parties took 48 seats in October’s election, while Netanyahu’s bloc won 53. President Isaac Herzog has handed Eisenkot the task of forming a cabinet, because more Knesset members recommended him for the role than recommended Netanyahu. The BBC notes that some of those who backed Eisenkot are not prepared to sit in the same government.",
-    "Eisenkot has four weeks to assemble a coalition, and can ask for a further two weeks, according to the BBC. Netanyahu stays in office in a caretaker capacity while talks continue, and that period could last anywhere from a few days to several months.",
-    "Both leaders used the swearing-in to attack each other. Netanyahu asked lawmakers whether they were willing to rely on parties that want to destroy the Jewish state, a reference to any Eisenkot government that would depend on Arab parties. He also urged a unity government to face what he called the threat of “a nuclear Iran”. Eisenkot, for his part, proposed a “national emergency government” that would set ideological disputes aside in order to remove Netanyahu.",
-    "The two Arab-led lists, the United Arab List and the Joint List, took 19 seats between them, a record gained after Arab voter turnout rose sharply. That gives them potential leverage over the outcome. Netanyahu has ruled out working with them, and several parties in Eisenkot’s bloc oppose including them. The United Arab List, with eight seats, has said it is ready to join an Eisenkot-led coalition, while the Joint List, with 11, has offered to back such a government from outside.",
-    "Eisenkot has set four conditions for any party or lawmaker who wants to join him: recognising Israel as a Jewish and democratic state, accepting the values of the Declaration of Independence, backing compulsory service for everyone including groups now exempt, and recognising Hamas as a terrorist organisation that must lose its military and governing capacity. The BBC reports that these conditions could prove difficult for some potential partners. The ultra-Orthodox parties, with 13 seats between them, have strongly opposed any change to the exemption from military service, which was a central issue in the campaign.",
-    "Avigdor Lieberman, whose Yisrael Beiteinu party won seven seats, has so far refused to join a government that depends on Arab lawmakers. Another report says he has proposed an alliance with the ultra-Orthodox parties instead. The opposition also plans to use its new legislative weight to press for an inquiry into security failures that preceded the Hamas attack of October 7, 2023."
-   ],
-   "cav": "The sources do not say which parties would ultimately back Eisenkot, and the price the ultra-Orthodox parties would demand is described only as likely to involve major concessions on conscription. Arab parties’ willingness to help rests on their public statements, not on agreed deals.",
-   "op": "Coalition talks in Israel should be judged by how openly their terms are put to voters. Eisenkot’s four conditions give the public a clear test of commitment to democracy and the rule of law. Any party that rejects them should explain its reasons in public, and any deal struck behind closed doors should be disclosed to the electorate before it takes office.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
-  },
-  {
-   "id": "w-9c2cd2220b2da605",
-   "member_ids": [
-    "w-9c2cd2220b2da605"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T17:00:11+00:00",
-   "t": "Inside Slovyansk, a shrinking front-line city that Russia wants Ukraine to give up",
-   "s": "The BBC gained access to a Ukrainian drone unit defending Slovyansk, one of four fortress cities in eastern Donetsk, where residents say constant bombardment is forcing people to leave.",
-   "p": [
-    "Slovyansk is one of four cities that make up Ukraine’s “fortress belt”, a system of heavily reinforced defence lines in parts of Donetsk still under Ukrainian control. According to the BBC, Russia wants Kyiv to give up these cities, and they are central to peace talks that resumed in Abu Dhabi between Ukraine, Russia and the US after a nine-month pause.",
-    "The BBC’s reporters were escorted into the city by members of a drone unit that calls itself Peaky Blinders. Tetiana, 21, and her colleague Yasha scan their phones for military intelligence on likely threats from the air. Military escorts described the rainy, overcast weather as good, because drones struggle in such conditions.",
-    "The city is under constant attack from Russian drones, missiles and glide bombs. Abandoned vehicles line the streets, according to the report, having been destroyed by remotely operated first-person-view drones. Anti-drone netting covers the roads, but the BBC said it offers no guarantee of safety. Tetiana said walking was safer than driving.",
-    "Very little of the city has been left unscathed. The BBC saw a school destroyed by glide bombs, a gaping hole in a residential block, and boarded-up shops, most of them closed. Tetiana said Russia is trying to intimidate residents into fleeing “in chaos”, a strategy she described in stark terms.",
-    "Before the war, Slovyansk had more than 200,000 residents, and the BBC reports that fewer than 10% remain. Iryna, who works in one of the city’s last cafes, said she had already lost her home but would not leave: “I won’t leave Slovyansk. This is my home.” Inga, 53, said she stays because she has nowhere else to go and no money to start again.",
-    "The report cites Ukraine’s general staff as saying more than 54,000 Russian troops were killed or injured in October, the deadliest month for Russian forces since the full-scale invasion began. Russia has taken nearly 90% of the Donbas, but its advances this year have largely stalled. Commander Oleksandr of the drone unit told the BBC that neither side can advance because of the number of drones in use.",
-    "The White House has sounded positive about the revived talks, despite President Volodymyr Zelensky’s refusal to cede territory. Ukrainians fear that handing over the fortress cities would make it easier for Russia to push further west, including towards Kyiv."
-   ],
-   "cav": "The 54,000 casualty figure comes from Ukraine’s general staff and is not independently verified in the report, and no Russian response is included. The drone unit’s link to the Omega National Guard Special Forces, mentioned in the report, is not explained.",
-   "op": "Civilians in Slovyansk should not be treated as bargaining chips in any settlement. Any deal that trades away cities should be open to public scrutiny, with clear guarantees for the people who still live there.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97e/live/c6e282c0-dd33-11f1-ab46-9fae224bbf6f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
-  },
-  {
-   "id": "w-31021e78e191728c",
-   "member_ids": [
-    "w-31021e78e191728c"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T16:23:30+00:00",
-   "t": "Italian coalition split over Ukraine aid as minister's signature on thirteenth package is pending",
-   "s": "Italy's governing coalition is divided over a thirteenth military and civilian aid package for Ukraine, which cannot be published until League Economy Minister Giancarlo Giorgetti signs it. The dispute comes as Rome has won a seat at peace talks in Abu Dhabi, according to Euronews.",
-   "p": [
-    "On Tuesday 10 November, Defence Minister Guido Crosetto was due to present the thirteenth aid package for Ukraine to Copasir, the Parliamentary Committee for the Security of the Republic. Giorgetti, however, has not yet signed the measure, which the procedure requires.",
-    "Within the governing majority, Foreign Minister Antonio Tajani and Crosetto have played down the episode. They pointed to Crosetto's absence, since he had been in Brussels for the Ecofin meeting on Monday. Tajani also said the document is classified and must be signed in person, not electronically.",
-    "Crosetto, speaking to the daily Repubblica, said he was convinced Giorgetti would sign once he returned from Brussels. He also defended continued support for Kyiv and stressed the need for a common European position, as Prime Minister Giorgia Meloni has requested. Sources at Palazzo Chigi repeated that Europe must speak with one voice, even as talks began in Abu Dhabi.",
-    "The row is rooted in the League's stance. Deputy Prime Minister Matteo Salvini has repeatedly voiced reservations about military aid to Kyiv, while Meloni, together with Forza Italia, has remained firm on supporting Ukraine for as long as necessary. Salvini's position has hardened since a League congress reconfirmed him as party secretary.",
-    "League senator Claudio Borghi has increased the pressure on social media, describing the package as a “decree that does not exist” because a measure requiring joint ministerial approval does not exist until all the ministers have signed it.",
-    "Without Giorgetti's signature the decree cannot be published, and neither the military nor the civilian aid can be sent. Reporting by Euronews warns that this could open a serious fight inside the majority whose consequences are hard to predict.",
-    "According to the report, the package is expected to include civilian aid such as generators and probably air-defence weapons. Because a Franco-Italian Samp-T battery was supplied earlier, the shipment could include Aster missiles for that system. The details remain classified, as all previous packages have been.",
-    "Many in the majority reportedly believe Giorgetti will sign in the end, since a breakdown could threaten the centre-right government while it is working through the budget. The mechanism rests on a framework decree introduced by the Draghi government in 2022, which has been renewed four times and expires at the end of the year. Under it, twelve packages have been approved in four years, requiring only a briefing to the Copasir committee.",
-    "The most recent package was sent at the end of 2025. A new framework decree, adopted shortly after Christmas, authorises military and civilian supplies to Ukraine for the whole of 2026. The report does not say how the current impasse will be resolved."
-   ],
-   "cav": "The account relies on one outlet and on unnamed government sources, and Crosetto's confidence that Giorgetti will sign is his own claim. Because the package is classified, the list of contents is described as probable rather than confirmed.",
-   "op": "A military aid decision should not hang on one minister's private timing inside a coalition feud. Parliament and the public deserve a clear account of who must sign, when, and why. Classified does not mean unaccountable, and the framework's joint-approval design only works if every signature is given in good faith.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/10/italian-government-debates-aid-to-kyiv-while-abu-dhabi-holds-talks-on-ukraines-future"
-    ]
-   ]
-  },
-  {
-   "id": "w-73f943c930df8239",
-   "member_ids": [
-    "w-73f943c930df8239",
-    "w-fb787cd5b4a08519"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-10T15:57:00+00:00",
-   "t": "France summons Iran’s ambassador over supermarket fridge cyberattack, Tehran denies role",
-   "s": "France has summoned Iran’s ambassador and says it will seek European Union sanctions over a cyberattack that disrupted hundreds of supermarkets. Tehran rejects the accusations as baseless.",
-   "p": [
-    "Paris has summoned Iran’s ambassador after accusing the Islamic Revolutionary Guard Corps (IRGC) of being behind a cyberattack on supermarket refrigeration. Iran’s Foreign Ministry rejected the accusations on Tuesday, calling them baseless and one-sided and condemning what it described as a habitual practice of blaming the Islamic Republic.",
-    "The alleged attack began overnight on October 11 and 12. According to French prosecutors, it targeted roughly 700 of France’s roughly 10,000 supermarkets by remotely starting abnormal, indefinite defrost cycles and disabling temperature alerts. Retailers said perishable food was thrown away, with millions of euros’ worth spoiled. In some cases, the heat caused fires or melted equipment. Several large French chains, including E-Leclerc, Intermarché, Carrefour, Monoprix and Cooperative U, were affected.",
-    "Paris prosecutor Laure Beccuau said she had opened an investigation into members of Shahid Kaveh, a cyber unit she described as an offensive unit linked to the IRGC’s electronic and cyber centre. Her office has requested arrest warrants for two of its officials and is looking into others. French cyber intelligence agencies said the unit primarily targeted Israel and the United States, but also France and other European countries.",
-    "Foreign Minister Jean-Noël Barrot said the government would rule nothing out in response and would push for EU sanctions. He said the aim was to deter anyone tempted to repeat the attack. Tehran responded by warning it would take measures to protect its interests and accused France of covering up its own governance failures. Relations between the two countries were already strained after expulsions of diplomats in August.",
-    "Other incidents are harder to pin down. A suspected attack on November 2 caused temperature spikes in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden, and a failed attempt on cooling units at French blood banks was reported this month. Officials have not said whether these events are connected. Sweden’s civil defence minister warned that more attacks could follow in the coming months.",
-    "Cybersecurity expert Jody Westby told Al Jazeera that tracing the group responsible is very difficult because of weak international cooperation on cybercrime. The evidence published so far consists largely of French official statements, while Iran has offered only a denial."
-   ],
-   "cav": "The attribution to the IRGC comes from French officials and has not been independently verified in the sources. Whether the later incidents in Sweden, Belgium and elsewhere are linked remains unclear, and the sources give no details of the evidence behind the arrest warrant requests.",
-   "op": "Serious accusations of state-linked sabotage need public evidence before sanctions follow. Paris should publish what it can, so that citizens and allies can judge the case rather than simply trust the government’s word.",
-   "confirmed": true,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-0da4f2b36793d4cc",
-   "member_ids": [
-    "w-0da4f2b36793d4cc"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-10T14:45:46+00:00",
-   "t": "US Inflation Runs Hotter Than Forecast in October as Tariffs and Oil Weigh on Prices",
-   "s": "Consumer prices in the United States rose 0.4% in October, above the 0.3% analysts had expected, adding to pressure on the Federal Reserve ahead of its December meeting. The official figures came a week after the midterm elections.",
-   "p": [
-    "Official figures show US prices rose 0.4% over October, slower than the 0.6% increase recorded in September but above what economists had forecast. Analysts said the result strengthens the case for the Federal Reserve to raise interest rates when it meets in December.",
-    "The increase was driven mainly by higher housing, food and energy costs. Energy prices rose 0.7% in October, a much smaller gain than the 5.2% jump in September, according to the figures as reported.",
-    "No annual inflation rate was published this month. The Bureau of Labor Statistics normally reports a 12-month change, but it did not collect data in October 2025, so it cannot calculate that comparison.",
-    "The Bureau measures inflation through the consumer price index, which tracks the prices of hundreds of everyday goods and services, from groceries and petrol to medical care. Its basket of goods is updated over time as spending habits change.",
-    "The sources link the energy trend to the conflict involving the United States, Israel and Iran. Crude oil was trading at just over $70 a barrel before the war began, but it has since risen above $100, reportedly because supplies were constricted.",
-    "Federal Reserve governor Christopher Waller, who spoke before the October figures were released, reportedly signalled he was leaning towards a rate rise in December even if inflation came in slower than expected.",
-    "Tariffs are also part of the picture. After the Supreme Court struck down most of the additional global tariffs in February, the president announced a new 10% global tariff to replace them. According to research from the Federal Reserve Bank of New York, American businesses absorbed nearly 90% of the cost of the new levies, because overseas exporters cut their prices only slightly.",
-    "The New York Fed also found that each one-percentage-point rise in average tariffs pushed up consumer goods prices by nearly 0.25% after a year. Inflation is still well below the peaks seen during the Covid pandemic, when supply chain disruptions pushed prices sharply higher."
-   ],
-   "cav": "The sources describe October's rise as both faster-than-expected and as 0.4% against a forecast of 0.3%, and they do not give a full 12-month figure. The oil price and Waller’s stance are reported second-hand, and the tariff cost estimates come from a New York Fed study that the sources summarise rather than publish in full.",
-   "op": "Official data gaps and trade policy are now shaping household budgets and central bank decisions. Policymakers owe the public clear explanations of how tariffs feed into prices, and the Bureau should restore complete data collection without delay. Voters deserve numbers they can check.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
   }
  ]
 }
