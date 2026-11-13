@@ -1,6 +1,294 @@
 {
- "updated_at": "2026-11-13T13:25:04.537310+00:00",
+ "updated_at": "2026-11-13T20:39:02.211620+00:00",
  "items": [
+  {
+   "id": "w-129a3b37b25ba195",
+   "member_ids": [
+    "w-129a3b37b25ba195"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-13T20:16:13+00:00",
+   "t": "Microsoft says services still recovering after global outage hit email worldwide",
+   "s": "Microsoft says its email and other services are recovering but are not yet fully back, more than a day after a worldwide outage disrupted communications. The company says it has found no sign of hostile activity.",
+   "p": [
+    "More than a day after a mass outage disrupted communications around the world, Microsoft says its email and other services are getting better but are not yet fully operational. The outage began around 16:00 GMT on Thursday and reached users in 74 countries, according to the company. Microsoft attributed it to servers that were overloaded and became “unexpectedly available”, and it said there was no indication of a cyberattack or other malicious activity.",
+    "In a statement, the company described progress in restoring availability across a widening share of the affected infrastructure. It also said the backlog of queued email had dropped sharply and was nearing typical levels. Microsoft acknowledged, however, that some services were still unreliable. It reported improvements in Europe, North America and the Asia Pacific region.",
+    "The disruption hit Microsoft 365 products used by companies, institutions and private individuals, among them Outlook, Teams and Copilot. Al Jazeera reported that it was one of the longest interruptions in Microsoft’s history and the second disruption to its services this year. Microsoft has not said how many people were affected. In January, however, it said it had more than 450 million paying commercial subscribers to Microsoft 365.",
+    "The effects went well beyond office work. A trader told Reuters that foreign banks in Taiwan were hit especially hard, because their data is sent by email to overseas headquarters, and that fax machines were being used in Taipei. Euronext, the European exchange operator, asked companies to place their trades by phone. Norway’s parliament and several ministries lost access to email, and 80 to 90 Danish municipalities were reportedly affected. Rail operators in Germany, the United Kingdom and Canada said timetables and emailed tickets were disrupted, and the UK’s National Health Service fell back on paper records.",
+    "In the United States, the House of Representatives and local governments were affected, according to Reuters. The Department of Defense, which relies heavily on Microsoft’s services, declined to say whether it had been hit. The Pentagon had been due to begin upgrading its Microsoft infrastructure in June as part of a $9.7bn contract that includes access to Microsoft 365.",
+    "Walter Pasquarelli, a strategy adviser to governments and an affiliated researcher at the University of Cambridge, called the outage “first and foremost a communication risk”. He stressed that government services and infrastructure rely on the same platform that staff could not reach.",
+    "Markets were not rattled. Microsoft’s shares were roughly flat in US trading on Friday, while the Nasdaq, which is heavy with technology stocks, dipped slightly. Microsoft said it would review the incident and the steps needed to prevent future disruptions."
+   ],
+   "cav": "The figure of 74 countries, the 80 to 90 Danish municipalities and the reported impact on US government bodies all come from the company or from second-hand reports. The sources do not confirm how many users were affected or whether the Pentagon was hit. Microsoft has not yet published details of the review it promised.",
+   "op": "When a handful of companies run the email and documents that governments and hospitals depend on, an outage becomes a public matter. Microsoft should publish a clear account of what failed and how it will prevent a repeat. Transparency, not reassurance about share prices, is what customers and regulators are owed.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-49b7f4e09f25e873",
+   "member_ids": [
+    "w-49b7f4e09f25e873",
+    "w-e479559e2c0a731c",
+    "w-c9a260e6a9e86ea5",
+    "w-b0c156ec823cb83f"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-13T19:53:57+00:00",
+   "t": "Pressure mounts on Lutnick as the Nvidia scandal reaches Trump’s cabinet",
+   "s": "Treasury Secretary Scott Bessent has blamed the Commerce Department for failing to properly oversee exports of advanced chips, widening the fallout from the Nvidia scandal to President Donald Trump’s cabinet. Pressure on Commerce Secretary Howard Lutnick is growing from across the political spectrum.",
+   "p": [
+    "Bessent said several government agencies were in favour of putting Megaspeed on the entity list for months, according to his remarks to CNBC. Asked about the delay, he pointed to the Commerce Department, saying “Commerce has the pen” and that questions about its internal process should go to the department.",
+    "Megaspeed, the firm where the woman at the centre of the affair reportedly worked, had been probed by US government agencies over suspicions that it was smuggling Nvidia chips into China, according to reports. The company is not on the list of firms that US companies are barred from working with. Megaspeed has been contacted for comment.",
+    "Jensen Huang has left his post as Nvidia chief executive after reports that he had an affair with a businesswoman who was also alleged to be a Chinese spy. The reports on the affair and the spy allegation remain allegations, and the sources describe his departure in different terms.",
+    "Bessent said he was frustrated by delays in adding the company to the export control list and by reports of advanced chips leaking into China. He said President Trump had made clear that China should not receive Nvidia chips above the H100 level. According to the New York Times, the Commerce Department had investigated Megaspeed last year. The Financial Times reported separately that the department was delaying efforts to have the firm included on the list.",
+    "Lutnick has been called to testify before the Senate Banking Committee next month about the department’s role in allowing Nvidia to export its advanced chips. Huang has also been summoned, and the committee chairman, Republican Senator Tim Scott, said recent reports raised serious concerns about national security.",
+    "Democrats on key congressional committees have asked the Commerce Department and Lutnick to retain all records on decisions to allow Nvidia to sell advanced chips to Chinese companies. Ways and Means ranking member Richard Neal and Senate Finance ranking member Ron Wyden have started investigations. They say Nvidia’s H200 chips could reach Chinese firms if they were first imported into America for inspection, and that a 25% tariff was imposed on those chips under a section of the Trade Act meant to address national security risks. They argue the move appears to have undermined US national security.",
+    "A report from the French broadcaster said Huang was a close informal adviser to Trump on technology issues and had spent years lobbying against curbs on advanced chip sales to China, though the extent of his influence remains unclear from the available reporting."
+   ],
+   "cav": "Sources describe Huang’s exit differently, as ousted, resigned or quit, and the affair and spy allegations are reported claims rather than established facts. Bessent’s account of internal disagreements is his own, and the Commerce Department’s reasons for the delay are not given in the evidence.",
+   "op": "The central issue is not personal scandal but whether rules governing sensitive chip exports are enforced at all. If agencies wanted a company listed and the department held the decision, the public deserves a clear record of who delayed and why. Congressional demands for documents are the right tool, and answers should come in records, not televised blame.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+  },
+  {
+   "id": "w-50ed42af2146ca4c",
+   "member_ids": [
+    "w-50ed42af2146ca4c"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-13T19:51:28+00:00",
+   "t": "Nvidia scandal deepens pressure on Commerce Secretary Lutnick after Jensen Huang’s exit",
+   "s": "US Commerce Secretary Howard Lutnick is under mounting strain over the Nvidia affair, and officials reportedly discuss whether he should be dismissed. The turmoil followed the departure of Nvidia chief executive Jensen Huang.",
+   "p": [
+    "Howard Lutnick is facing mounting criticism over the Nvidia affair, and several officials in the Trump administration have openly questioned how he has handled it. Scott Bessent, the Treasury secretary, put the blame on Lutnick’s department for Washington not having imposed export curbs on certain Nvidia chips bound for China.",
+    "The turmoil began when Jensen Huang stepped down as Nvidia’s chief executive on Thursday. Colette Kress, the company’s finance chief, has taken over on an interim basis. Reports of several affairs prompted the exit, chiefly one with Alice Huang, no relation, who is suspected of spying for China.",
+    "According to the Associated Press, White House officials are weighing whether Lutnick should be dismissed. That debate followed revelations that an intelligence report on Jensen Huang’s link to the suspected spy had circulated among senior administration figures.",
+    "Lutnick is also criticised for his department’s slow move to place Megaspeed, a Singapore-based firm tied to Alice Huang, on the list of entities regarded as a national security risk. Megaspeed has reportedly bought billions of dollars’ worth of Nvidia chips in recent years. Bessent told CNBC he had pushed for the listing for months, while noting that the commerce department holds the decisive role.",
+    "Republicans have joined the chorus. Senator John Cornyn told the Financial Times that a thorough inquiry and accountability were needed, and said “Heads should roll.” Senator John Curtis questioned whether the department was serving Americans’ interests. Democratic leader Chuck Schumer wants Huang and Nvidia to say whether US security was jeopardised.",
+    "Lutnick’s spokesperson, Kristen Eichamer, told NBC News he has agreed to appear voluntarily before the Senate banking committee. He is due to testify before Congress next month, shortly after Huang is set to answer lawmakers’ questions. House Democratic leader Hakeem Jeffries has demanded a classified briefing for all members of Congress.",
+    "Scrutiny has also fallen on Trump’s ties to Huang. The New York Times reported that the president phoned him two days before he stepped down and urged him to keep fighting for his post. Schumer asked what Trump knew when he brought Huang aboard Air Force One on a state visit to Beijing earlier this year. Reuters reported further relationships, including with an Nvidia executive and an unnamed employee.",
+    "Nvidia’s board thanked Huang for his “profound” contributions but did not mention the espionage allegations or the personal-conduct reports. House Speaker Mike Johnson said a consensus is growing in Congress to limit chip exports to China. Reuters, citing people familiar with the matter, reported that Chinese companies are trying to secure Nvidia chip capacity outside China."
+   ],
+   "cav": "Much of the account rests on reports attributed to other outlets, including the Associated Press, the New York Times and Reuters. The suspicion against Alice Huang is unproven, the sources do not establish what Trump knew, and they do not confirm whether Lutnick will be dismissed.",
+   "op": "Whether national security was put at risk should be answered in public, not through leaks and resignation statements. Congress should publish the intelligence timeline and the reasoning behind the Megaspeed delay. Decisions on chip exports must rest on security rules, not personal friendships.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+  },
+  {
+   "id": "w-81b9e7f7bbe442be",
+   "member_ids": [
+    "w-81b9e7f7bbe442be"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-13T19:39:00+00:00",
+   "t": "Europe seeks a united voice for possible Ukraine peace talks as Moscow disputes US account",
+   "s": "The EU says it will join future talks to end Russia’s war in Ukraine as part of a joint European group. Russia’s Foreign Ministry has challenged a US envoy’s claim about Europe’s place at the table.",
+   "p": [
+    "European Council President Antonio Costa said on Friday that Brussels will be part of any future negotiations on ending Russia’s war against Ukraine. He added that the bloc would speak for Europe alongside France, Germany, Italy, Poland and Britain. Costa made the comments after a gathering of European leaders in Dublin, arguing that the continent needs one coherent message on decisions that affect Ukraine’s future and European security.",
+    "The announcement came a day after US envoy Jared Kushner suggested that European representatives would have a seat in the process. Kushner, who is also the son-in-law of President Donald Trump, said late Thursday that the agreement could not be concluded without Europeans present, and that Russian President Vladimir Putin was prepared to test the idea.",
+    "Russia’s Foreign Ministry pushed back. Spokeswoman Maria Zakharova told Germany’s DPA news agency that, to her ministry’s knowledge, the topic had not come up during Moscow talks with Kushner and Steve Witkoff. Russian state media reported that Putin’s side at Thursday’s meeting included his foreign policy adviser Yuri Ushakov, chief negotiator Vladimir Medinsky and envoy Kirill Dmitriev, and that no diplomats from the Foreign Ministry were present.",
+    "Europe has not agreed on who should represent it. European and Ukrainian leaders have long favoured a joint format, while Moscow has rejected it. Washington and Moscow have both called for a single negotiator, whereas several European governments want a team. EU foreign policy chief Kaja Kallas said she already represents the bloc on foreign and security matters, and acknowledged that Russia does not want her involved.",
+    "Latvian Prime Minister Andris Kulbergs made a blunter case, pointing out that Europe has a larger population, greater wealth and stronger military capacity than Russia. He said Europe needed more resolve to act on that advantage.",
+    "Separately, Ukrainian President Volodymyr Zelenskyy has complained about limits on Ukraine’s use of Starshield, the military satellite network run by SpaceX and owned by Elon Musk. He said on Thursday that the military faced fresh restrictions, and on Friday said the problem had not been resolved. According to Zelenskyy, connections worked only when devices moved below about 161 kilometres per hour, which he said made it impossible to use interceptors against jet-powered Shahed drones. He said he had told his ministers to intensify contacts with Washington.",
+    "The Wall Street Journal reported that Musk limited the speeds at which Ukrainian equipment could remain linked to the network. Both Musk and Trump have denied throttling Ukrainian access. Musk later accused Ukraine of using the service for military purposes, while Trump said Musk had restored it. Ukraine first raised the Starshield issue last month, following a row between Zelenskyy and Trump over a US decision to allow more Russian diesel into world markets.",
+    "German Chancellor Friedrich Merz urged Trump on Friday to avoid any surprises on Ukraine in dealings with Putin. Trump is expected to meet Chinese President Xi Jinping and Putin at an APEC summit in China next week. Merz said some in Europe worry the meeting could produce a “second Anchorage moment,” a reference to the Alaska summit between Trump and Putin last summer, which European officials see as favouring Moscow. He also argued that Europe need not negotiate a new security order with Russia, since one already exists."
+   ],
+   "cav": "Kushner’s remarks are reported second-hand, and Russia’s denial comes through Zakharova’s comments to DPA and Russian state media. The Starshield dispute rests on Zelenskyy’s claims and a Wall Street Journal report, while Musk and Trump deny throttling Ukrainian access. The sources do not say what outcome the talks might produce or when they would begin.",
+   "op": "Europe is right to demand a seat at any table deciding Ukraine’s future, but that seat only carries weight if the bloc speaks with one accountable voice. Ukraine’s access to critical communications should not hinge on decisions that are not clearly explained. Any deal must be transparent about its terms before anyone signs it.",
+   "confirmed": false,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-f83616e70e9cd64f",
+   "member_ids": [
+    "w-f83616e70e9cd64f"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-13T18:55:24+00:00",
+   "t": "EU leaders add Italy and Poland to Ukraine peace team and stop short of naming a single envoy",
+   "s": "European Union leaders have assembled a joint negotiating group for talks on Ukraine but declined to appoint one envoy, leaving foreign policy chief Kaja Kallas without the role she sought. Whether Moscow will sit down with European representatives remains unclear.",
+   "p": [
+    "Leaders meeting in Dublin on Friday at an informal summit settled on a combined group to speak for Europe in the Ukraine talks. France, Germany, Italy, Poland and Britain form the core, and representatives of the European Council, the European Commission and NATO will also take part.",
+    "The question of naming one special envoy took up much of the discussion. According to the report, Ukraine, the United States and even Russia had all urged the EU to pick a single representative, which makes the decision not to do so stand out.",
+    "Before the meeting, Italian Prime Minister Giorgia Meloni had complained about the disorder in the European voices on the peace process and pressed for a lone envoy. Instead, leaders widened the existing negotiating circle to take in Italy and Poland. Warsaw had earlier cautioned that Western European capitals should not make decisions on behalf of the East.",
+    "European Council President António Costa said Europe was fully behind the process and hoped it would produce concrete results. Pressed on Kallas's ambitions, he cited the EU treaties, arguing that the European Council president speaks for the bloc on common foreign and security matters at the level of leaders, while the Commission president's remit covers external matters tied to the Community.",
+    "Kallas argued that representing the bloc on foreign policy fell within her mandate, pointing to a 2024 leaders’ decision. She also conceded that Russians did not want her, which she attributed to her strong views. Ursula von der Leyen, who serves as a Commission vice-president, did not back her either, stressing that leaders choose who represents them. Merz said Berlin saw no need for an institutional debate at present and that the E3 format worked well with Italy and Poland included.",
+    "The arrangement mostly puts in writing a format the United States has already used while brokering the talks. The E3, EU institutions and NATO attended recent rounds in Miami, Oslo, Brussels and Abu Dhabi. Italy took part in the Abu Dhabi session, and Poland is expected to join the next round.",
+    "The open issue is whether Moscow will meet European negotiators face to face, something it has repeatedly refused to do. US special envoys Steve Witkoff and Jared Kushner travelled to Moscow on Thursday to press President Vladimir Putin. Afterwards, both said Russia had signalled it was willing to hold such talks, but the Kremlin downplayed this, so no meeting is assured."
+   ],
+   "cav": "The claim that Moscow was willing to hold face-to-face talks comes from the US envoys and is not confirmed by the Kremlin, which downplayed it. The sources do not say when or where any such meeting could take place.",
+   "op": "Europe's peace diplomacy will only carry weight if it speaks with a clear and accountable voice. Leaders chose to keep a committee of capitals rather than name one envoy, which avoids a fight over Kallas but leaves the mandate vague. Voters deserve to know who is negotiating in their name, and the EU should say so openly.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
+    ]
+   ]
+  },
+  {
+   "id": "w-f953851b9bc063b7",
+   "member_ids": [
+    "w-f953851b9bc063b7"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-13T17:38:19+00:00",
+   "t": "Microsoft 365 outage of over 22 hours spotlights reliance on a few tech firms",
+   "s": "An outage at Microsoft that ran for more than 22 hours disrupted Outlook and other Microsoft 365 services, prompting questions about how much essential work depends on a small number of technology companies. Microsoft has apologised and attributes the problem to a technical fault rather than a cyber-attack.",
+   "p": [
+    "According to the BBC, the disruption lasted more than 22 hours and left many users without access to Outlook and other Microsoft 365 tools. Commentators have used it to ask how far essential services lean on a few large technology firms.",
+    "The trigger, as described in the report, was a set of routine automated checks that switched some servers off. Fewer machines were left to carry the load, and the survivors were swamped with traffic. Engineers then brought systems back in stages, a process that took almost a full day.",
+    "The reach extended well beyond office email. Around 430 million people worldwide use Microsoft 365, and problems were logged in more than 70 countries. Email went down for the US House of Representatives and Australian intelligence agencies, while court systems in Singapore and airline support desks in India were also hit.",
+    "Flora Hamilton, executive director of the Small Business Charter, called the episode a “stark reminder” of how firms depend on digital tools. For small and medium-sized enterprises, she said, email underpins contact with customers and suppliers as well as their income.",
+    "Walter Pasquarelli, a strategist, told the BBC that the outage exposed the weak points and dependence of governments, companies and critical infrastructure. He suggested that failures of this kind could spread further as more tools are linked to email, calendars and files.",
+    "Gergely Orosz, a former software engineer at several large tech companies, said outages of this sort are not rare. What stood out to him was how long recovery took. He pointed to the world’s reliance on a few major US firms and proposed dividing services by region to limit the damage, a design he said Amazon already applies to its AWS cloud platform.",
+    "Microsoft has apologised and says the cause was a technical fault, not a cyber-attack. A spokesperson defended the slow return to service, saying the pace reflected the scale of demand and produced a more stable restoration. The company says it is examining what happened, and that its findings are meant to guide steps against a repeat.",
+    "The reporting does not set out what the review is expected to contain, and the explanation of the cause comes from Microsoft itself."
+   ],
+   "cav": "The explanation of the cause is Microsoft’s own account, and the review has not been published. The impact figures and the list of affected institutions are as reported by the BBC and have not been independently verified here.",
+   "op": "Critical digital infrastructure should not rest on a few companies without transparency. Microsoft owes customers, public bodies and courts a published post-incident review, not only an apology. Dependence is a policy choice, and it should be scrutinised as one.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+  },
+  {
+   "id": "w-ccad5b837bef8046",
+   "member_ids": [
+    "w-ccad5b837bef8046"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-13T17:17:00+00:00",
+   "t": "Microsoft Outlook outage disrupts companies, schools and local governments across the US",
+   "s": "A Microsoft Outlook outage that began on Thursday afternoon disrupted companies, schools and local governments across the United States. By Friday the service was recovering, but some officials said parts of their operations were still down.",
+   "p": [
+    "The outage affected a range of Microsoft tools that organisations use for messaging, scheduling, video calls and file storage in the cloud. According to local leaders, the problems began around 1pm ET on Thursday. By Friday morning Outlook was coming back, but officials in cities and counties including Miami, Maryland and Los Angeles told residents that some staff and services remained out of reach.",
+    "In Arapahoe county, Colorado, a detention facility said it could not accept online bond payments, so people seeking immediate release had to pay in person at the jail until email was working again. The Los Angeles county sheriff’s department said its email and other communication platforms were disrupted. Emergency management offices in Fredericksburg and Gillespie county, Texas, said they could not receive emails and asked people to phone instead.",
+    "In Maryland, the Washington suburban sanitary commission, which supplies drinking water and treats sewage for parts of the state, warned that its technicians might be held up and that some customers could struggle to pay their water bills. In Washington, congressional staffers told Politico that the disruption was especially damaging during the lame duck session, as their offices were negotiating pending bills and preparing for the next Congress.",
+    "Schools were hit too. Districts in Richmond, Virginia, and Port Washington, New York, told parents on Friday morning that they had lost service and urged them to contact the school by phone or through other online education platforms. The Albany school district said its services had been restored. The Colorado School of Mines asked faculty to be lenient with deadlines, although many of its systems ran on Google Workspace and Canvas, which were not affected.",
+    "Developers Anthropic and OpenAI, whose products depend on Microsoft connections, also reported problems. Anthropic said it was seeing signs of recovery but that some users could still get errors. OpenAI said it was still looking into faults with “Microsoft connectors” that were slowing performance. Meanwhile, the industrial manufacturer Workhorse Group postponed its third-quarter earnings call, which had been planned for Thursday afternoon.",
+    "Microsoft executive Charles Lamanna said late on Thursday that he saw nothing suggesting the failure was caused by hacking or other cyber activity. On Friday the company reported better service availability, while cautioning that some users could still face intermittent access problems or delayed email as recovery continued. The sources reviewed do not identify a cause for the outage."
+   ],
+   "cav": "The cause of the outage is not established in the sources. Lamanna’s statement that there was no sign of malicious activity is a company claim, and Microsoft’s description of recovery is its own assessment. Most of the local impacts are reported second-hand through statements from officials and organisations.",
+   "op": "When one cloud provider can disrupt detention facilities, water utilities and schools at once, the public has a stake in how that dependence is managed. Microsoft should publish a clear account of what failed and which safeguards will change. Reassurance that no attack occurred is not a substitute for transparency.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+  },
+  {
+   "id": "w-e3130f190e2ea915",
+   "member_ids": [
+    "w-e3130f190e2ea915"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-13T16:40:31+00:00",
+   "t": "Kremlin revives 2021 demands on Nato as it pushes for a new European security order",
+   "s": "Vladimir Putin has put European security back at the centre of talks on Ukraine, and the BBC’s Russia editor reads the move as a win for Moscow. Kyiv’s European backers call it a trap that could delay a ceasefire.",
+   "p": [
+    "Russian President Vladimir Putin says he wishes “eternal peace” for Ukraine. The BBC’s Russia Editor, Steve Rosenberg, points out that this is the same leader who ordered the full-scale invasion nearly five years ago and who still rejects a comprehensive ceasefire.",
+    "After talks with US envoys Steve Witkoff and Jared Kushner, the Kremlin called for “a new, long-term architecture of indivisible security and peace.” Rosenberg translates the phrase as a plan to reshape Europe’s security arrangements in Russia’s favour. He describes it as potentially the biggest change to European security since the end of the Cold War.",
+    "The Kremlin has also returned to its draft treaties with the United States and Nato, first published in December 2021. Those proposals would have halted Nato’s eastward expansion, given Moscow guarantees that Ukraine and Georgia would never join, and rolled back alliance military infrastructure in central and eastern European countries that joined after the Soviet collapse. Western leaders rejected them as an unacceptable ultimatum, and Moscow launched its full-scale invasion of Ukraine about two months later.",
+    "Yuri Ushakov, Putin’s foreign policy aide, has suggested Moscow may add “certain new considerations” to its demands, citing Western efforts to inflict a strategic defeat on Russia. Rosenberg notes that the Kremlin’s success so far is simply that European security is now part of the discussion. The Russian newspaper Komsomolskaya Pravda argued that diplomats needed a second victory, forcing the West to take Russia’s concerns about Nato enlargement seriously.",
+    "EU foreign policy chief Kaja Kallas has called Moscow’s demands a “trap” designed to shift attention away from a ceasefire. She argued that a ceasefire should come first, followed by a peace agreement, and only then discussions on Europe’s wider security architecture.",
+    "Witkoff said after his Moscow meetings that Putin had agreed to European representatives joining the next round of Ukraine peace talks. However, Kremlin spokesman Dmitry Peskov said on Friday that no final decision had been taken. He said a wider format would depend on understanding European “true intentions” and their readiness to support the peace process.",
+    "Rosenberg adds that the Kremlin is negotiating from a position of confidence, with the United States seeking a deal and European leaders in contact with Moscow. Norway’s and Finland’s leaders recently called Putin. Russian media have also compared a possible meeting next week in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Co-operation summit, with Donald Trump and Xi Jinping to the Big Three meeting of 1945. Rosenberg says that Russia has suffered heavy battlefield losses and that Ukrainian drone strikes are hitting Russian oil refineries, raising fears of fuel shortages, but that none of this has yet persuaded Putin to end the fighting."
+   ],
+   "cav": "The analysis is by the BBC’s Russia Editor, and the Kremlin’s intentions are reported through its statements and aides rather than confirmed negotiating terms. The Shenzhen meeting is described as possible, not scheduled, and the evidence gives no figures for Russian losses or fuel shortages.",
+   "op": "Europe’s security cannot be rewritten through an old ultimatum dressed up as a peace plan. Any talk of new arrangements should follow a ceasefire and be conducted openly, with Ukraine and its European partners at the table. Moscow’s attempt to reopen 2021 demands should be treated as a bid for leverage, not a basis for negotiation.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+  },
+  {
+   "id": "w-89879a69c60f85e7",
+   "member_ids": [
+    "w-89879a69c60f85e7"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-13T14:14:44+00:00",
+   "t": "Kallas warns EU against Russian ‘traps’ as Europe moves to name its negotiators for Ukraine talks",
+   "s": "EU foreign policy chief Kaja Kallas accused Moscow of using a debate over European security to distract from its war, as leaders at a Dublin summit moved to settle who would speak for Europe.",
+   "p": [
+    "Kaja Kallas said Moscow was seeking to open a discussion about European security so that attention moved away from its aggression. Speaking as she arrived at the summit in Dublin, she told EU partners not to fall into the trap she said Russia was laying, and described the conflict as one with a clear aggressor and a clear victim.",
+    "Russia has returned to demands for a sweeping overhaul of Europe’s security order. Those demands were turned down in 2021, when critics saw them as a threat to the sovereignty of countries in central and eastern Europe. The most recent round of talks between Ukraine, Russia and the United States took place in Abu Dhabi this week.",
+    "Jared Kushner, the envoy and son-in-law of Donald Trump, said on Thursday night that Russia and Ukraine had agreed to widen the next round of peace negotiations to include Europeans. Moscow quickly disputed that. The Kremlin said it would consider an expanded format once it understood Europe’s true intentions, and its lead negotiator, Vladimir Medinsky, said it was unclear what there was to discuss with Europe.",
+    "European governments have said they will back Ukraine in any negotiations but want a ceasefire first, and they point to a dense network of security agreements that Russia has broken. Friedrich Merz, the German chancellor, said there was no need to discuss a European security architecture because one already exists, and that Germany could expect a seat in any European delegation. Ursula von der Leyen, the Commission president, argued that Europe’s presence would protect its interests and support Ukraine.",
+    "After the Dublin meeting, European Council president António Costa said leaders had agreed on a negotiating group made up of the EU institutions and the E5: Britain, France, Germany, Italy and Poland. He called for Europe to speak with a single, united voice.",
+    "The idea of such a grouping had taken shape over recent months, but pressure to formalise it grew after Volodymyr Zelenskyy urged his European partners to decide who would represent them. Kushner had mocked the lack of one person to speak for the continent. Paris and Berlin wanted their own envoys to keep a role in the E3 format, while smaller member states put more weight on Costa and Kallas.",
+    "Sweden’s prime minister, Ulf Kristersson, called the debate over representation “slightly overstated”, noting that member states have differing interests. He said some issues, such as financing Kyiv and Ukraine’s eventual EU membership, were purely EU matters, and that he was flexible on the format. Ireland’s taoiseach, Micheál Martin, said the UK and Norway each had a significant role. The British prime minister, Andy Burnham, said it was for the EU to decide who would represent the bloc.",
+    "Several leaders at the summit, including Kallas, stressed that Britain should be included, as a founder member of the coalition of the willing committed to future peacekeeping in Ukraine."
+   ],
+   "cav": "The account rests on a single outlet’s reporting. Kushner’s claim about expanding the talks is second-hand and was disputed by Moscow, and the sources do not explain how the negotiating team will be finalised.",
+   "op": "Europe has a fair claim to a seat at talks that will shape its security, and Moscow should not be allowed to set the agenda by reopening the wider order. A negotiating team earns credibility only when its mandate is public and its members can say whom they represent. A ceasefire and Ukraine’s future must come before any debate over the European architecture.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+  },
   {
    "id": "w-d54288936ea56dd2",
    "member_ids": [
