@@ -830,161 +830,6 @@
       "ai_edited": true
     },
     {
-      "id": "rss-fd1bffbc8f7b6e1cdf",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 3.",
-      "published_at": "2026-11-03T20:02:00+00:00",
-      "t": "Vasárnap hajnalban órákra leáll a KAÜ, az állami digitális ügyintézés is kiesik",
-      "s": "Tervezett karbantartás miatt november 8-án, vasárnap hajnalban több órán át nem lesz elérhető számos állami digitális szolgáltatás. A Digitális Magyarország Ügynökség tájékoztatása szerint a leállás 00:01 és 05:00 között tart.",
-      "p": [
-        "A Digitális Magyarország Ügynökség közlése szerint a Központi Azonosítási Ügynök (KAÜ) éjfél utáni egy perctől hajnali ötig nem működik, ezért az EESZT, az EgészségAblak alkalmazás és a Webes Ügysegéd sem érhető el ebben az időszakban.",
-        "Az azonosítás mindkét módja kiesik: a leállás érinti az Ügyfélkapu+-os belépést és a Digitális Állampolgár (DÁP) mobilalkalmazással történő azonosítást is. Szünetel a Tárhely, a Cégkapu és az Ügyfélkapu portál működése, a FEDOR szolgáltatás pedig szintén nem lesz elérhető.",
-        "A kormányablakokban használt Ügyfélkapu-regisztrációs felület sem működik majd, így új regisztrációra sincs lehetőség a karbantartás alatt. A DÁP alkalmazás elérhető marad, de új felhasználó nem regisztrálható vele, és a KAÜ-t használó oldalakra sem lehet vele belépni.",
-        "Az ügynökség arra kéri az érintetteket, hogy a halaszthatatlan ügyeiket a leállás figyelembevételével időzítsék. A tájékoztatás szerint a háttérrendszerek karbantartása várhatóan reggel öt órakor fejeződik be, utána a szolgáltatások visszatérnek."
-      ],
-      "cav": "A forrás csak az ügynökség tájékoztatására hivatkozik, a karbantartás okairól és az esetleges kiesések nagyságáról nem ír. Azt sem közli, mennyire biztos a megadott befejezési időpont, ha a munka elhúzódik.",
-      "op": "Az előzetes figyelmeztetés üdvözlendő, de a hétköznapi embereknek éppen a hajnali órák miatt nehéz alkalmazkodniuk egy ilyen leálláshoz. A szolgáltatások megbízhatóságát az fogja igazolni, hogy a megadott időpontban ténylegesen helyreáll-e minden, és ha nem, mennyire lesz nyílt a kommunikáció.",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/03/online-kozigazgatasi-feluletek-karbantartas-leallas-dap-eeszt-egeszsegablak-webes-ugyseged/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7128/71282/712820/71282025_5256523_ece979c6e6344c1053ab74e394cf1679_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/belfold/2026/11/03/online-kozigazgatasi-feluletek-karbantartas-leallas-dap-eeszt-egeszsegablak-webes-ugyseged/",
-      "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-9b7e113f6571948928",
-      "r": "Közélet",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 3.",
-      "published_at": "2026-11-03T20:00:00+00:00",
-      "t": "Többször visszatérünk ellenőrizni az ajtót? A pszichológusok szerint ez mögött több is állhat",
-      "s": "Sokan visszafordulnak a bezárt ajtóhoz, hogy megbizonyosodjanak róla, nem felejtették-e el a zárat. Az Origo cikkében megszólaló szakértők szerint ez nemcsak feledékenység lehet, és egyes esetekben szakmai segítséget indokolhat.",
-      "p": [
-        "Sokan ismerik a helyzetet: elhagyjuk az otthonunkat, majd a lépcsőn vagy az utcán felmerül a kérdés, vajon bezártuk-e az ajtót. Az Origo cikke szerint az ilyen visszatérő ellenőrzés mögött nem feltétlenül egyszerű feledékenység áll. A cikkben megszólaló szakértők elmondták, honnan eredhet az állandó kontrolligény, és mikor válik aggasztóvá ez a viselkedés.",
-        "Adam Radomsky pszichológusprofesszor szerint a kulcs elfordítása közben az elme gyakran nem regisztrálja a mozdulatot, ezért támadhat hirtelen bizonytalanságérzet. A kilincs újbóli lenyomása pillanatnyi megnyugvást hoz, a kétségek azonban az ajtótól való távozás után gyakran visszatérnek.",
-        "A cikk szerint a Maastrichti Egyetem két holland kutatója, Marcel van den Hout és Merel Kindt publikációikban azt mutatta ki, hogy minél gyakrabban térünk vissza az ajtóhoz, annál kevésbé bízunk a saját emlékezetünkben. Az ismétlődő gesztusok miatt a bezárás emléke elmosódhat. Az eredményekről szóló részletes adatok a forrásanyagból nem derülnek ki.",
-        "A szakértők szerint az egy-két pillantás még teljesen normális. Aggodalomra az ad okot, ha a napi rituálék veszik át az irányítást, egy-egy tevékenység több mint egy órát vesz igénybe, és bénító félelem kíséri. Ez obszesszív-kompulzív zavarra (OCD) utalhat, amelynek kezeléséhez a cikk szerint szakmai támogatás és kognitív viselkedésterápia szükséges.",
-        "Ha csupán zavaró szokásról van szó, a szakértők egy egyszerű módszert javasolnak: a kulcs elfordításakor álljunk meg egy pillanatra, és mondjuk ki hangosan, mit tettünk. Ez segíthet az agynak megjegyezni a cselekvést. A pszichológia szerint a visszatérő késztetés mögött gyakran erős felelősségtudat, élénk képzelőerő és a teljes bizonyosság iránti igény áll. Ilyenkor az érintettek betörésre, tűzre vagy lopásra gondolnak, és attól tartanak, hogy később őket hibáztatják majd.",
-        "A cikk második része a párkapcsolati manipulációval foglalkozik. Hal Melinda klinikai szakpszichológus szerint a manipuláció nem mindig nyílt fenyegetésben vagy sértésben jelentkezik, mégis érezhetjük, hogy valami nincs rendben otthon. A szakember a jelekről és a felismerés módjáról beszélt a lapnak."
-      ],
-      "cav": "A cikk általános pszichológiai magyarázatokat közöl, konkrét vizsgálati adatokat, mintanagyságot vagy gyakoriságra vonatkozó számokat nem tartalmaz. A kutatásokra és a szakértői állításokra a cikk csak összefoglalva hivatkozik, ezért az eredeti publikációk ismerete nélkül ezek pontossága nem ellenőrizhető.",
-      "op": "Egy életmódcikk nem helyettesíti a szakorvosi diagnózist, és ezt a különbséget az olvasónak is látnia kell. A kérdés az, hogy a hétköznapi bizonytalanság mikor válik betegséggé, és ezt nem kitalálni, hanem hiteles forrásokból megtudni kell. Aki népszerű cikkben orvosi következtetéseket közöl, annak a forrásait is nyilvánosan meg kell mutatnia.",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/tudomany/2026/11/ajto-ellenorzes-pszichologia-szokas"
-        ]
-      ],
-      "img": "https://cdn.origo.hu/2026/10/OlyYgbThozhxdEEi78ERNHSyz8gnJioTam3HM5pNyJM/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2VlZGM1OTRiZjBiZDRmYWM4OTRhMWJhNWZlNDExOTEz.jpg",
-      "imgs": "Origo",
-      "imgl": "https://www.origo.hu/tudomany/2026/11/ajto-ellenorzes-pszichologia-szokas",
-      "cred": "Kép: Origo – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-388bfe47836f05c75f",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 3.",
-      "published_at": "2026-11-03T19:52:51+00:00",
-      "t": "Alaszkában a benzinárak miatt lehet esélyes a demokrata Peltola a szenátusi versenyben",
-      "s": "A 2026-os félidős választásokon Alaszka az egyik kulcsállam, ahol a Demokrata Párt jelöltje, Mary Peltola jó esélyt lát arra, hogy legyőzze a republikánus Dan Sullivant. Az Index összefoglalója szerint ebben nagy szerepe van a benzinárak emelkedésének.",
-      "p": [
-        "A cikk szerint a 2024-es elnökválasztás után a Republikánus Párt szinte minden választókerületben erősödött, így kevesen gondolták, hogy a demokraták felvehetik a versenyt a félidős választásokon. Mégis több olyan állam vált csatatérré, ahol évtizedek óta republikánus szenátorokat választanak.",
-        "Alaszkában a Demokrata Párt jelöltje utoljára Mark Begich volt, aki 2009 és 2015 között egyetlen ciklust töltött a Szenátusban. Előtte legutoljára negyven éve nyert demokrata szenátor az államban. Peltola most az immár kétszer megválasztott Sullivan ellen indul.",
-        "A szerző szerint a fő ok a benzinárak emelkedése. Alaszka vidéki területein az emberek üzemanyaggal működő generátorokkal fűtenek és termelnek áramot, egyes helyeken pedig akár 26 dollárba is kerülhet egy gallon benzin. A drágulás az alapélelmiszerek árát is megemelte, mert a vállalkozások is megérezték. A választók ezt a háborúhoz kötik, amelyet a cikk szerint Donald Trump indított, és amelyhez a republikánus Sullivant is kötik.",
-        "Az állam emellett a Trump-kormány vámjai és a Kanadával folytatott kereskedelmi konfliktus miatt is sebezhető, mivel legnagyobb kereskedelmi partnere az egyetlen szárazföldi szomszédja. Peltola azt ígéri, hogy ha pártja mindkét házban többséget szerez, visszaállítja a Kongresszus ellenőrző szerepét, és leállítja az iráni háborút, hiszen a háborúindításhoz a törvényhozás engedélye szükséges.",
-        "A versenyt egy különleges fejlemény is alakíthatja: a cikk szerint Peltola csapata rábeszélt egy másik Dan Sullivant, hogy függetlenként induljon, így a szavazólapon két azonos nevű jelölt szerepel. A republikánusokat ez állítólag felháborította, a szerző szerint pedig visszafelé is elsülhet. A republikánus jelölt neve mellé az „inkumbens” megjelölést írták, amelyet Trump bírált, mert szerinte sokan nem értik a szót. A cikk a szavazóurnák bezárása előtt készült, így eredményekről nem számol be."
-      ],
-      "cav": "A forrás nem közöl eredményt, és a Peltola-csapat állítólagos szerepéről a független jelölt indításában, valamint a republikánusok felháborodásáról csak a cikk állításai szerepelnek, nem független forrás. A 26 dolláros gallonárat és a háborúval kapcsolatos megállapításokat a cikk nem támasztja alá részletesen.",
-      "op": "Ha egy szenátusi versenyt a benzinszámla dönthet el, az a választók valós terheit mutatja. Alaszkában az energiaárak a hétköznapi családoknál csapódnak le, a jelöltektől pedig elszámoltatható válaszokat várnának. Ehelyett a szavazólapon azonos nevű jelölt körüli huzavona kap helyet. Ki felel azért, hogy a drágulás a vidéki családok zsebét éri?",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/ezeken-az-allamokon-fog-mulni-kinek-lesz-tobbsege-a-szenatusban---alaszka/"
-        ]
-      ],
-      "img": "https://kep.index.hu/1/0/7240/72408/724087/72408739_fc10df784a078c49a33f3670f427ed59_wm.jpg",
-      "imgs": "Index",
-      "imgl": "https://index.hu/kulfold/2026/11/03/egyesult-allamok-felidos-valasztas-donald-trump-szenatus-kepviselohaz-republikanus-demokrata/ezeken-az-allamokon-fog-mulni-kinek-lesz-tobbsege-a-szenatusban---alaszka/",
-      "cred": "Kép: Index – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-c5bea5b0393fa65bb7",
-      "r": "Sport",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 3.",
-      "published_at": "2026-11-03T19:49:52+00:00",
-      "t": "Olimpia 2036: hét ország a NOB listáján, Dél-Korea helyszínéről még egyeztetnek",
-      "s": "A Nemzetközi Olimpiai Bizottság hét potenciális rendezőt nevezett meg a 2036-os nyári játékokra, Magyarország is szerepel közöttük. Dél-Koreában a helyszín kérdésében még tárgyalnak.",
-      "p": [
-        "Egy hónappal ezelőtt a Nemzetközi Olimpiai Bizottság hét potenciális rendezőt nevezett meg. A 2036-os nyári játékokra Dél-Korea mellett Magyarország, Németország, India, Katar, Dél-Afrika és Törökország is pályázhat.",
-        "Dél-Koreában eredetileg Észak-Csolla tartomány, Csondzsu városával a középpontban, indult volna, Szöullal szemben. Időközben a tartomány arra jutott, hogy egyedül nem rendelkezne a szálláshelyekhez, a közlekedéshez és a sportlétesítményekhez szükséges feltételekkel, ezért a fővárossal együtt képzelik el a rendezést.",
-        "A dél-koreai olimpiai bizottság nyilatkozatában reményét fejezte ki, hogy megszerezhetik a játékokat, és szoros együttműködést ígért a kormánnyal, a régiós hatóságokkal és a NOB-bal. A sportminisztérium szerint Cse Hvi Jong miniszter kedden Li Von Teggel, Észak-Csolla kormányzójával egyeztetett a pályázati folyamatról.",
-        "Cse szerint Szöul jelezte, hogy társrendezőként venne részt, ezért a feleknek gyorsan dűlőre kell jutniuk. Megállapodás esetén a minisztérium és az olimpiai bizottság is megadná a szükséges támogatást.",
-        "A menetrend szerint novemberben a jelöltek virtuális bemutatkozást tartanak a NOB jövőbeli házigazdákkal foglalkozó testülete előtt. 2027 márciusában pedig a végrehajtó bizottság stratégiai párbeszédet indít a pályázókkal."
-      ],
-      "cav": "A forrásokból nem derül ki, mikor születik döntés a jelöltekről, és mekkora költségvetéssel számol a rendezés. A dél-koreai részletek a sportminisztérium és az olimpiai bizottság közleményeire épülnek, független forrás nem ellenőrizte őket.",
-      "op": "Olimpiai pályázatnál nem mindegy, ki fizeti a számlát és ki ellenőrzi a döntéseket. Észak-Csolla és Szöul egyeztetése a pénz és a felelősség megosztásáról szól, ezért a tárgyalások átláthatósága alapkövetelmény. Kíváncsi lennék, hogy a magyar pályázat esetében is ilyen részletesen tájékoztatják-e az adófizetőket.",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/egyeb-egyeni/2026/11/olimpia-2036-teljes-koru-tamogatast-elvez-otthon-a-del-koreai-palyazat"
-        ]
-      ],
-      "img": "https://cdn.nemzetisport.hu/2026/11/AP7vR5rQI7hFgjIxiLgm9osF9Ccjn-7kTlMhtmf6hhU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk3MzJhZjYxNTJjMjRkYzQ4NTRmMTM5MzFmNWNjMGQ4.webp",
-      "imgs": "Nemzeti Sport",
-      "imgl": "https://nemzetisport.hu/egyeb-egyeni/2026/11/olimpia-2036-teljes-koru-tamogatast-elvez-otthon-a-del-koreai-palyazat",
-      "cred": "Kép: Nemzeti Sport – eredeti cikk",
-      "ai_edited": true
-    },
-    {
-      "id": "rss-827a7adab17e4dfaa4",
-      "r": "Külföld",
-      "c": "Hírpult",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 3.",
-      "published_at": "2026-11-03T19:49:19+00:00",
-      "t": "Svédországban Kristersson kapott megbízást kormányalakításra, miután Andersson kétszer is elakadt",
-      "s": "A svéd parlament a baloldali Magdalena Anderssonnak nem adott újabb esélyt, így a volt miniszterelnök, Ulf Kristersson próbálkozhat a kormányalakítással. A helyzet a szűk parlamenti arányok miatt továbbra is bizonytalan.",
-      "p": [
-        "A szeptemberi svédországi választást a baloldali koalíciót vezető Magdalena Andersson pártja nyerte meg, de a kormányalakítás eddig nem sikerült neki. Kétszeri próbálkozása után a parlament már nem adott neki további lehetőséget, így a megbízás az ország korábbi miniszterelnökéhez, Ulf Kristerssonhoz került.",
-        "A szavazatok szerint Andersson pártja a Zöld Párttal, a Baloldali Párttal és a Centrum Párttal együtt 176 mandátumot szerzett a 349 fős törvényhozásban. A korábbi kormánykoalíció tagjai és támogatói 173 helyet kaptak, vagyis a különbség minimális.",
-        "Kedden a parlament azt is leszavazta, hogy a Centrum Párt vezetője, Elisabeth Thand Ringqvist tárgyalhasson a kormányalakításról. Kristersson november 10-ig köteles beszámolni a kísérletei eredményeiről.",
-        "A svéd kormány felállása a kedd estig már az 51. napja húzódott. Az összehasonlító adatok szerint 2018-ban 134 napig tartott a folyamat, Kristersson 2022-es győzelme után pedig 37 napig.",
-        "Kristersson sajtótájékoztatóján azt mondta, nagyon nehéz munka vár rá. Az első helyen végzett szociáldemokraták és a szélsőjobboldali Svéd Demokraták is kevesebb szavazatot kaptak, mint korábban."
-      ],
-      "cav": "Az arányokat és a mandátumszámokat csak egy forrás közli, a második forduló és a végső szavazatszámlálás eredménye nem szerepel a cikkben. Kristersson nehéz helyzetről szóló megítélése a saját nyilatkozata, nem független elemzés.",
-      "op": "Svédországban a választók már rég döntöttek, mégis hónapok óta nincs kormány, mert a pártok a parlamenti szavazatokon és a taktikai lépéseken vitatkoznak. A demokrácia nem a kompromisszumok halogatásában áll, hanem abban, hogy a politikusok végre felelősséget vállalnak. Vajon mikor lesz végre olyan kormány, amely többséget kap a választóktól, nem pedig csak a parlamenti alkuk eredményeként?",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/vilag/20261103_ulf-kristersson-svedorszag-kormanyalakitas"
-        ]
-      ],
-      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ffa8debd-adf0-4d70-b05e-1369f1032bcd.jpg",
-      "imgs": "HVG",
-      "imgl": "https://hvg.hu/vilag/20261103_ulf-kristersson-svedorszag-kormanyalakitas",
-      "cred": "Kép: HVG – eredeti cikk",
-      "ai_edited": true
-    },
-    {
       "id": "rss-758fadf2f5b99ec878",
       "r": "Kultúra",
       "c": "Hírpult",
@@ -7131,6 +6976,10 @@
         [
           "Portfolio",
           "https://www.portfolio.hu/global/20261112/terrorszervezette-nyilvanitott-egy-magyarorszagi-szervezetet-egyiptom-876042"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261113_egyiptom-terrorszervezet-magyarorszagi-muszlimok-egyhaza-muszlim-testveriseg"
         ]
       ],
       "img": "https://kep.index.hu/1/0/7253/72530/725303/72530351_5344503_da7ff69f75bbb383939af7d18fb20e23_wm.jpg",
@@ -7687,6 +7536,303 @@
       "imgs": "HVG",
       "imgl": "https://hvg.hu/itthon/20261113_velkey-gyorgy-laszlo-orban-aron-szijjarto-peter-barati-level-egyuttmukodes-fotanacsado",
       "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-807fe9ab65a54369f5",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T19:57:10+00:00",
+      "t": "Seszták-ügy: az NVVH erdőben, épületben és széfben talált pénzt",
+      "s": "A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal november 12-én és 13-án végzett kutatásokat Seszták Miklós országgyűlési képviselő ügyében. A hivatal szerint több helyszínen jelentős összegű pénzt találtak.",
+      "p": [
+        "A hatóság péntek esti közleményében ismertette a fejleményt. Budapest mellett Pest, Békés és Nógrád megyében is dolgoztak a nyomozók, a lépéseket a volt nemzeti fejlesztési miniszter elleni eljárás keretében tették meg.",
+        "A rejtekhelyek között szerepel erdei elásás, gazdasági és raktárépület, egy lakóingatlan, valamint egy eldugott helyen tárolt, értékes széf. A teljes összeget a közlés nem nevezi meg.",
+        "A talált pénzt az NVVH munkatársai még pénteken az államkincstárnak adták át. A nyomozást a Központi Nyomozó Főügyészség vezeti, és Seszták 2014 júniusa és 2018 májusa közötti miniszteri tevékenységét vizsgálja.",
+        "Az ügyészség ismertetése szerint Seszták Miklós és az MNV akkori vezérigazgatója, Szivek Norbert 2015 és 2018 között közvetítőn át több mint 11 milliárd forint jogtalan előnyt kapott a Volánbusszal szerződő cégek képviselőjétől. Szivek Norbertet és Jellinek Dánielt korábban letartóztatták, utóbbi októberben házi őrizetbe került.",
+        "Ezek csak gyanúsítások: a vád szerint Seszták cselekménye hivatali vesztegetés elfogadásának minősülhet, jogerős ítélet azonban még nincs."
+      ],
+      "cav": "A Blikk fejléce többmilliárdos összegről beszél, a hivatal közleménye viszont nem nevez meg végösszeget, így ez a megállapítás nem igazolt. A gyanúval kapcsolatos adatok az ügyészség ismertetésén alapulnak, az ügyben jogerős döntés nincs.",
+      "op": "Ha közpénz ilyen rejtekhelyeken kerül elő, a kérdés nem csak az, hol bújtatták, hanem az is, hogyan halmozódott fel. A nyomozók gyorsasága dicséretes, de az ügy hitelét az fogja eldönteni, hogy a teljes összeg és a források végül nyilvánosan is kiderülnek-e.",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/keszpenz-sesztak-ugyben-milliard-nvhh-erdo-raktar-lakoingatlan/yzl54lr"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/belfold/2026/11/13/sesztak-miklos-nvvh-keszpenz-nyomozas-breaking/"
+        ]
+      ],
+      "img": "https://ocdn.eu/pulscms/MDA_/2a882047a8421ba246aee90e1ed6e47b.jpg",
+      "imgs": "Blikk",
+      "imgl": "https://www.blikk.hu/aktualis/belfold/keszpenz-sesztak-ugyben-milliard-nvhh-erdo-raktar-lakoingatlan/yzl54lr",
+      "cred": "Kép: Blikk – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6fc8316c4342e2e185",
+      "r": "Belpolitika",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T19:44:12+00:00",
+      "t": "Milliárdnyi készpénzt találtak az NVVH nyomozói a Seszták Miklós elleni eljárásban",
+      "s": "A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal szerint elásott, raktárakban és széfekben rejtett pénzre bukkantak a volt fejlesztési miniszter ügyében. A két beszámoló a megtalált összeget eltérően adja meg.",
+      "p": [
+        "Az NVVH november 12-én és 13-án több megyében, köztük Budapesten, Pest, Békés és Nógrád megyében, egyidejű nyomozati lépéseket tett. Az akciók a volt nemzeti fejlesztési miniszter, Seszták Miklós elleni büntetőeljárás részei. A hatóság pénteki közleményében a kutatást két napos munkaként írja le.",
+        "A nyomozók a készpénzt különböző rejtekhelyeken találták meg: a HVG szerint erdőkben ástak el pénzt, máshol mezőgazdasági épületekben, raktárakban és egy lakóházban volt elrejtve, illetve egy jól eldugott, nagy értékű széfben. A HVG a megtalált összeget 5 071 632 000 forintban, 2 658 350 euróban és 1 257 100 amerikai dollárban adja meg.",
+        "Az Index ezzel szemben hatmilliárd forintról ír, amelyet az NVVH munkatársai a Magyar Államkincstárnak adtak át. A két cikk összege nem egyezik, és a szövegekből nem derül ki, mi okozza az eltérést. Amíg a hivatal nem közli a pontos számokat, érdemes ezt fenntartásokkal kezelni.",
+        "Az Index emellett a korábbi NVVH-közleményre hivatkozva írja, hogy Seszták kisvárdai házában két hatalmas, egyenként 1660 kilogrammos páncélszekrényt találtak. Ezek olyan típusok, amelyeket jellemzően zálogházak és pénzintézetek használnak. A nyomozók állítólag üresen találták őket, pedig a gyanú szerint korábban 9 milliárd forint volt bennük.",
+        "A volt minisztert azzal gyanúsítják, hogy egy közvetítőn át több mint 11 milliárd forint jogtalan előnyt fogadott el 2015 és 2018 között. Ez a vád, amelynek megalapozottságáról bírósági ítélet még nem született.",
+        "A letartóztatás határidejéről a két cikk eltérően számol be. A HVG a bíróság október 30-i határidejét említi, az Index szerint viszont a bíróság január 30-ig hosszabbította meg az intézkedést. A szövegekből nem derül ki, melyik adat a pontosabb.",
+        "Magyar Péter a HVG szerint reagált a közleményre, az Index szerint pedig megosztotta azt. Bejegyzésében azt írta, hogy „a Fidesz-KDNP maffiának hivatalosan is vége”. Ez politikai értékelés, nem a nyomozás eredménye."
+      ],
+      "cav": "A két forrás eltérő összegeket közöl: az Index hatmilliárd forintot említ, a HVG a teljes megtalált készpénzt forintban, euróban és dollárban adja meg. A páncélszekrények üres állapotáról és a korábbi 9 milliárdos gyanúról az Index a hatóság korábbi közleményére hivatkozik, ez tehát másodkézből származó állítás. A letartóztatás új határidejét csak az Index említi.",
+      "op": "A közpénz sorsa nem lehet politikai szövegek tárgya: ha a hatóság milliárdokat talál, a nyilvánosságnak egyező, ellenőrizhető számokat kell kapnia. Az eltérő összegek és az üresen talált páncélszekrények nem bizonyítanak semmit, de azt igen, hogy az NVVH-nak meg kell magyaráznia, mi történt a pénzzel. Kérdés, hogy a végső elszámolás ugyanilyen gyorsan és részletesen készül-e el.",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/gazdasag/20261113_sesztak-eldugott-milliardok-nvvh-nyomozas"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/13/sesztak-miklos-korrupcio-nvvh-lefoglalas/"
+        ],
+        [
+          "444",
+          "https://444.hu/2026/11/13/az-nvvh-szo-szerint-eloasta-sesztak-miklos-keszpenzben-tartott-milliardjait-a-kdnp-s-politikus-erdokben-raktarakban-felreeso-szefekben-rejtette-el-a-penzt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/8a4f830e-e84c-440b-93cd-521efca599b9.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261113_sesztak-eldugott-milliardok-nvvh-nyomozas",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-022bae17397152b692",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T19:36:10+00:00",
+      "t": "Villamos gázolt el egy embert az Erzsébet körúton, tűzoltók szabadították ki",
+      "s": "Pénteken egy villamos elgázolt egy embert Budapest VII. kerületében, az Erzsébet körúton. A sérültről egyelőre keveset lehet tudni.",
+      "p": [
+        "A baleset a Király utca és a Dob utca közötti szakaszon történt. A helyszínre vonuló fővárosi tűzoltók a katasztrófavédelem vezényletével szabadították ki a sérültet a jármű alól, majd a mentők vették át.",
+        "Az Index helyszíni munkatársának beszámolója szerint nagy létszámban jelentek meg a mentők, a rendőrök és a tűzoltók. A gázolás a fővárosi tömegközlekedést is zavarta.",
+        "A Katasztrófavédelem nem adott ki részleteket a sérült egészségi állapotáról, az Index tudósítója sem tudott többet mondani. Arról, mi vezetett a gázoláshoz, a rendelkezésre álló anyagok nem írnak.",
+        "Az Origo ugyanebben az összeállításban egy másik tragédiáról is beszámolt: pénteken hajnalban a Váci úton egy gyalogost gázoltak el, aki a helyszínen életét vesztette. A rendőrség vizsgálja az esetet, a pontos körülményekről azonban még nincs közlés. A cikk nem állítja, hogy ez összefüggne az Erzsébet körúti üggyel.",
+        "A BRFK a történtekkel kapcsolatban a kedvezőtlen időjárási körülmények veszélyeire figyelmeztetett, a források ugyanakkor nem magyarázzák, hogy ez miként függ össze a balesetekkel."
+      ],
+      "cav": "A sérült állapotáról és a baleset okáról a források nem írnak. Az Index és az Origo beszámolói másodkézből származnak, a Váci úti halálos gázolás pedig más helyszín és más időpont, ezért nem szabad összemosni az Erzsébet körúti esettel.",
+      "op": "Egy ember sérülése mögött mindig konkrét család és konkrét élet áll, ezért most a pontosságot és a türelmet kérjük. A hatóságoktól elvárható, hogy a vizsgálat eredményeit nyilvánosan, érthetően közöljék, és ne csak a gyors mentés sikerét hangsúlyozzák. A közösségi közlekedésben a fennakadások a hétköznapi utasokat sújtják, ezért a felelősségi kérdések tisztázása is legalább ennyire fontos.",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/kek-hirek/2026/11/villamos-gazol-baleset-budapest"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/13/gazolas-villamos-budapest-4-6-os-villamos-erzsebet-korut-baleset/"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/gazolas-4-6-villamos-oktogon-erzsebet-korut-nem-kozlekedik/zlcvrxw"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/11/IPhjuBjwwhpAtL2p0xaesKSutDTQ_gX4is97tSl2ioA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzMxZjVhYTk4N2MxZDQ2MmI5OTNkMThhZGZjMTg1M2Fi.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/kek-hirek/2026/11/villamos-gazol-baleset-budapest",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-6259f15409bbd828b9",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T20:12:09+00:00",
+      "t": "Hat hétig gipszben marad Betlehem Dávid, szárkapocscsontja tört el edzés közben",
+      "s": "Az olimpiai bronzérmes nyíltvízi úszó a Dominikai Köztársaságban, nyílt tengeri edzése közben került egy erős hullám hatása alá. A sérülés műtétet nem igényel, de hat hétig nem térhet vissza a vízbe.",
+      "p": [
+        "Betlehem Dávid a Magyar Úszó Szövetség közösségi oldalán megjelent beszámoló szerint a mexikói világkupa után a Dominikai Köztársaságba utazott, ahol egy meghívásos versenyre készült. A kedden, nyílt vízen tartott edzésen egy óriási hullám fordította át, majd csapta teljes erővel a tengerfenékhez.",
+        "Az ütközés következtében a szárkapocscsontja tört el. A sportoló saját megnyilatkozása szerint a sérülés komoly, de egyelőre nem kell operálni. A következő hat hetet gipszben kell töltenie, ezért a medence és a nyílt víz is várnia kell rá.",
+        "Betlehem a közlésben köszönetet mondott a Ferencvárosi Torna Clubnak, a keretorvosnak és a Sportkórháznak, amiért gyorsan és szakszerűen segítették. Azt is hozzátette: „a gyógyulásra koncentrálok”, és reméli, hogy minél hamarabb újra úszhat.",
+        "Egy másik beszámoló felidézi, hogy a sportoló a nyári párizsi Európa-bajnokságon megnyerte a 3 kilométeres kieséses versenyt, második lett 5 és 10 kilométeren, a váltóval pedig harmadik. A nemrég lezajlott cancúni vk-nyitányon 10 kilométeren harmadik, a kieséses futamban második volt. A MÚSZ Facebook-oldala szerint a világranglistát továbbra is ő vezeti, a forrás pedig úgy fogalmaz, hogy ennek megtartása automatikusan olimpiai kvótát jelentene.",
+        "A magyar nyíltvízi úszás amúgy is nehéz időszakot él át: Rasovszky Kristóf nemrég térdműtéten esett át, Mihályvári-Farkas Viktória pedig súlyos vállsérülést szenvedett. A források ezekről az esetekről részletesebben nem írnak."
+      ],
+      "cav": "A sérülésről és a felépülési időről a sportoló és a szövetség közlése alapján tájékozódhatunk, független orvosi megerősítés a forrásokban nincs. Az olimpiai kvótával kapcsolatos állítás csak az egyik beszámolóban szerepel feltételes formában.",
+      "op": "Egy sportoló sérülése nem politikai ügy, de a magyar nyíltvízi úszás helyzete azt mutatja, hogy a felkészülés támogatása nem lehet mellékes. A szövetségnek és a klubnak a tájékoztatásban is pontosnak kell maradnia, különösen akkor, ha a világranglista és az olimpiai kvóta a tét.",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/sport/sport-egyeni/2026/11/szarkapocscsonttores-betlehem-david"
+        ],
+        [
+          "24.hu",
+          "https://24.hu/sport/2026/11/13/uszas-betlehem-david-szarkapocscsonttores/"
+        ],
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/uszas/2026/11/betlehem-david-eltorte-a-szarkapocscsontjat-hat-hetig-gipszben-lesz-a-laba"
+        ]
+      ],
+      "img": "https://cdn.origo.hu/2026/08/pS6AEMMVDkngPWZHJEHq6qVRLi5ZOYpNqAhmH6Ir9ns/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhNzc3MDcwODBjZDQ4ZDZiY2YxMGQ4YTZmYTMwN2Fm.jpg",
+      "imgs": "Origo",
+      "imgl": "https://www.origo.hu/sport/sport-egyeni/2026/11/szarkapocscsonttores-betlehem-david",
+      "cred": "Kép: Origo – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-0e97dd1d0bdb918141",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T19:32:05+00:00",
+      "t": "Idén nem kell dolgozni december 24-én, és december 12-én sem lesz munkanap",
+      "s": "A Magyar Közlönyben pénteken megjelent rendelet véglegesítette, hogy az idei évben december 12-én sem kell munkába állni. A lépés azt a törvényt követi, amelyet a parlament november 3-án fogadott el.",
+      "p": [
+        "A parlament november 3-án egyhangú szavazással döntött arról, hogy december 24-e már az idei évtől pihenőnap legyen. A most közzétett miniszteri rendelet ezt a szabályt a gyakorlatban is rögzíti, a Blikk, a HVG és a Portfolio beszámolói szerint.",
+        "A rendeletet a szociális és családügyi miniszter adta ki. Hatálytalanította a 2025-ös NGM-rendelet egy részét, amely december 12-ét, egy szombatot tett volna munkanappá, hogy pótolja a december 24-i kiesést. Így az általános munkarendben dolgozóknak a december 12-i szombat is szabad marad.",
+        "Az előterjesztés indoklása szerint a szentestének a magyar karácsonyi ünnepkörben különös jelentősége van, hiszen a családi találkozók, az előkészületek és a vallási, közösségi szokások idejéhez kötődik. A jogalkotók szerint a rendezés azért is hasznos, mert a nap helyzete nem változik majd minden évben a munkarend átszervezésétől függően.",
+        "A munka törvénykönyve felhatalmazza a foglalkoztatáspolitikáért felelős minisztert, hogy minden évben rendeletben igazítsa a munkaidő-beosztást az ünnepnapokhoz. Az idei rendelet ezt a felhatalmazást használja fel, így a kérdésben egyértelmű a helyzet: sem december 12-én, sem december 24-én nem kell munkába menni.",
+        "A három portál ugyanarra a közlönyszövegre hivatkozik, a Blikk pedig a 24.hu megállapításait is átveszi. A források tehát egybehangzóak, de a részletek nincsenek több, egymástól független forrásból megerősítve.",
+        "A cikkek nem szólnak arról, hány dolgozót érint a változás, és milyen teendőik lesznek a munkáltatóknak. A munkavállalók számára az a lényeg, hogy december 12-én már nem kell ledolgozni a szombatot, de a gyakorlati részletek a rendelet teljes szövegéből derülhetnek ki."
+      ],
+      "cav": "A három beszámoló ugyanarra a közlönyben megjelent rendeletre épül, a Blikk pedig a 24.hu munkájára támaszkodik. A cikkekből nem derül ki az érintettek száma, és az sem, hogy a munkáltatóknak milyen konkrét kötelezettségeik lesznek.",
+      "op": "Az egyhangú parlamenti döntés után a végrehajtó rendelet csak később látott napvilágot, a munkavállalóknak pedig a közlönyből kellett kideríteniük, mi vár rájuk. Egy ennyire előre látható szabálynál a tájékoztatásnak kellett volna megelőznie a jogi lépéseket. Miért kellett a dolgozóknak a közlönyre várniuk, mielőtt megtudják, hogy december 12-én kell-e munkába menniük?",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/karacsony-december-pihenonap-unnepnap-munkanap/tkv6y1p"
+        ],
+        [
+          "HVG",
+          "https://hvg.hu/elet/20261113_december-24-munkaszuneti-nap-rendelet-szenteste-karacsony"
+        ],
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/gazdasag/20261113/december-24-erre-a-rendeletre-vartak-sokan-876392"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/06b1ccfa-ebb0-4674-af10-9846375361e9.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261113_december-24-munkaszuneti-nap-rendelet-szenteste-karacsony",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-e0e8f2d8bd6aa38c13",
+      "r": "Sport",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T18:18:35+00:00",
+      "t": "Marco Rossi szerint Szoboszlai Dominik, Kerkez és Bolla bevethető a Grúzia elleni meccsre",
+      "s": "A szövetségi kapitány szerint Szoboszlai Dominik, Kerkez Milos és Bolla Bendegúz játékra kész, Lukács Dániel és Redzic Damir viszont sérüléssel küzd. A jobbhátvéd kérdésében még nem döntött.",
+      "p": [
+        "Marco Rossi a grúziai Tbilisziben tartott sajtótájékoztatón arra a kérdésre válaszolt, hogy a sérüléssel bajlódó Szoboszlai Dominik, Kerkez Milos és Bolla Bendegúz játékra kész-e. A szövetségi kapitány szerint igen, abszolút. Hozzátette, hogy ez mindenkiről nem mondható el.",
+        "A 24.hu beszámolója szerint Lukács Dániel nem edzett, ezért nem valószínű, hogy a szombati mérkőzésen pályára léphet. Rossi Redzic Damirról is szólt: a játékos a bicepszében érzett izomfájdalom miatt ismét kidőlt egy edzést követően. Rossi szerint más játékos bevethető.",
+        "A szakvezető nehéz döntésként jellemezte, hogy a jobb oldalon Bolla Bendegúz vagy Osváth Attila kapjon-e helyet. A Nemzeti Sport idézete szerint Osváth a frissebb, felkapottabb név, míg Bolla a Rapidban játszik, amely vezeti az osztrák bajnokságot. A döntést a kapitány a következő napra hagyta.",
+        "Rossi visszatérő kulcsjátékosokról is beszélt, Varga Barnabás és Sallai Roland nevét említette. Elmondása szerint ez nagy önbizalmat ad a csapatnak, miközben az identitásuk és a játékfelfogásuk nem változik.",
+        "Az ellenfélről szólva a kapitány azt mondta, a grúz csapat taktikailag rugalmas, és sérülés miatt nélkülözi Hvicsa Kvarachelia. Szerinte a grúzok ettől függetlenül kiegyensúlyozott kerettel rendelkeznek, ezért a magyar csapat minden taktikai változatra felkészül.",
+        "A magyar válogatott csak pénteken este érkezett Tbiliszibe, amit a grúz sajtó is furcsállt. Rossi szerint a döntést már korábban meghozták, az időeltolódás miatt pedig nem módosítottak a programon. A Grúzia–Magyarország mérkőzést szombaton rendezik."
+      ],
+      "cav": "A Szoboszlairól szóló információk a kapitány nyilatkozatán alapulnak, a sérülés pontos jellegéről a források nem írnak részletesen. A 24.hu szerint a Liverpool vezetőedzője a meccs után azt mondta, a játékos térde nincs száz százalékos állapotban, ez azonban nem egyeztethető össze teljesen a kapitány szavaival. A Szoboszlait érintő rehabilitációs edzésről szóló közlés a Magyar Labdarúgó Szövetségtől származik, így második kézből való.",
+      "op": "A kapitány nyíltsága üdvözlendő, de a szurkolóknak joguk van pontosan tudni, mennyire fitt a csapat kulcsembere. Ha a döntések csak az utolsó pillanatban születnek meg, a bizonytalanság a tétet nem csökkenti. Felelősségre vonható az, aki a sérüléseket titokban tartja, vagy csak a meccs napján árulja el az igazat?„}]",
+      "src": [
+        [
+          "24.hu",
+          "https://24.hu/sport/foci/2026/11/13/nemzetek-ligaja-georgia-magyarorszag-marco-rossi-szoboszlai-dominik-jatszhat/"
+        ],
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/magyar-valogatott/2026/11/marco-rossi-hogy-jatekra-kesz-allapotban-vannak-e-szoboszlaiek-igen"
+        ]
+      ],
+      "img": "https://s.24.hu/app/uploads/2026/11/dszzs20261002201-e1794593357272-1024x575.jpg",
+      "imgs": "24.hu",
+      "imgl": "https://24.hu/sport/foci/2026/11/13/nemzetek-ligaja-georgia-magyarorszag-marco-rossi-szoboszlai-dominik-jatszhat/",
+      "cred": "Kép: 24.hu – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-30b7958bd3de087f06",
+      "r": "Közélet",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T16:50:17+00:00",
+      "t": "Huszonheten pályáztak a közmédia vezérigazgatói posztjára",
+      "s": "A Független Közmédia Testület szerint a Magyar Rádió és Televízió vezérigazgatói posztjára a határidőig 27-en nyújtottak be pályázatot. A jelentkezők névsorát a testület nyilvánosságra hozta, a pályázatok érvényességéről a jövő hét első napjaiban ad tájékoztatást.",
+      "p": [
+        "A Független Közmédia Testület közlése szerint a Magyar Rádió és Televízió Nonprofit Zrt. (MRTV) vezérigazgatói tisztségére a csütörtök éjféli határidőig összesen 27-en nyújtottak be pályázatot. A közlést a társaság tulajdonosi jogait gyakorló testület pénteken adta ki.",
+        "A jelentkezők névsorát a testület a honlapján tette közzé. A benyújtott pályázatok érvényességének vizsgálatába most kezdenek; az eredményről a jövő hét első napjaiban adnak tájékoztatást, és minden pályázó személyre szóló értesítést kap.",
+        "Több jelentkező neve már a határidő előtt ismertté vált, közülük néhányan maguk is megerősítették, hogy indulnak. Sajtóértesülés szerint Fischer András is benyújtotta pályázatát. Ő korábban a Népszabadság kereskedelmi igazgatója, a Danubius Rádió és az Origo vezérigazgatója, valamint a Magyar Televízió termékfejlesztési igazgatója volt. Zsolt Péter kommunikációs szakember jelenleg a Magyar Orvosok Szakszervezeténél dolgozik, és a Méltányosság Politikaelemző Központ kutatási igazgatója.",
+        "A HVG összefoglalója szerint hírek szóltak arról is, hogy Kert Attila, a Euronews magyarországi igazgatója, Szabó Stein Imre, az RTL Klub egykori kommunikációs igazgatója, Horváth Dori Gábor egykori televíziós vezető és Herman Péter is vállalná a feladatot. Ezeket a neveket a cikk csak pletykaszinten említi, a hivatalos névsor alapján nem erősíthetők meg.",
+        "A testület korábbi közleménye szerint a közmédiának függetlenebbnek és korszerűbbnek kell lennie, és képesnek kell lennie arra, hogy a társadalom egészéhez szóljon. A vezetőnek ezt várhatóan a jelenleginél jóval kisebb költségvetésből kellene megvalósítania. A kiírás a közmédia alapértékeként a függetlenséget, a sokszínűséget, az egyetemes elérést, az igényességet és az elszámoltathatóságot nevezi meg.",
+        "Az Index beszámolója szerint a parlament Művelődési Bizottsága júliusban átmeneti jelleggel Horváth P. András jogászra, ügyvédre bízta a közmédia vezetését; az ő feladata a jogi és gazdasági átvilágítás. Az MTI összefoglalója szerint a 2010-es években több lépésben alakították át a közszolgálati médiát, és két társaságba vonták össze a korábbi cégeket. Az idei nyári médiatörvény-módosítással az MTVA beolvadt a Duna Médiaszolgáltató Nonprofit Zrt.-be, az új cég lett az MRTV, az MTI pedig önállóvá vált.",
+        "Az MRTV egyszemélyes, zártkörűen működő társaság, egyetlen tulajdonosa a magyar állam, részvénye 230 millió forint névértékű. A kiírás szerint vezérigazgató csak büntetlen előéletű, felsőfokú végzettségű magyar állampolgár lehet, legalább tíz év szakmai és vezetői gyakorlattal. A választás két körben zajlik, a második körbe a két legtöbb támogatást kapó pályázó jut. Ha a testület nem választ vezérigazgatót, öt napon belül meg kell ismételnie a szavazást, a munkaviszony pedig határozatlan idejű lesz, és legkésőbb a megválasztás utáni 30. napon lép hatályba."
+      ],
+      "cav": "A HVG-cikkben szereplő teljes névsor nem látszik a forrásokban, így a pályázók többségének kiléte nem ellenőrizhető. A Fischer Andrásra és másokra vonatkozó információk sajtóértesülésekből és hírekből származnak, és nem jelentik a pályázat tényleges benyújtását. A pályázatok érvényessége még nincs eldöntve, és az MTI-val kapcsolatos háttér is másodkézből, összefoglalóként szerepel.",
+      "op": "A nyilvános névsor és a meghallgatások előtti átláthatóság üdvözlendő, de a döntés igazi próbája az lesz, hogy a két körös szavazás valóban független marad-e. Ha a közmédia kisebb költségvetésből és a politikai befolyás csökkentésével épül újra, akkor a kiválasztás menetét és indoklását is nyilvánosan kell ellenőrizni. Ki felelős azért, hogy a közpénzből működő cég vezetése valóban az elszámoltathatóságot szolgálja?",
+      "src": [
+        [
+          "HVG",
+          "https://hvg.hu/itthon/20261113_kozmedia-vezerigazgatoi-palyazat"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/13/kozmedia-magyar-radio-es-televzio-zrt-fuggetlen-kozmedia-testulet/"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/2d26b81b-ff41-4429-8bf0-009e34013cac.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261113_kozmedia-vezerigazgatoi-palyazat",
+      "cred": "Kép: HVG – eredeti cikk",
+      "ai_edited": true
+    },
+    {
+      "id": "rss-08f05b7e62a091c8ec",
+      "r": "Belpolitika",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 13.",
+      "published_at": "2026-11-13T16:22:00+00:00",
+      "t": "Vitézy Dávid csapata visszavágott Orbán Viktornak a jogosítvány és a férfiasság kapcsán",
+      "s": "Orbán Viktor egy interjúban a vezetési tudást a férfias élet részének nevezte, és Vitézy Dávid közlekedési és beruházási minisztert is megemlítette. A tárca válaszában a közlekedési szabályok betartására hívta fel a volt kormányfő figyelmét.",
+      "p": [
+        "Az Index beszámolója szerint Orbán Viktor az Ultrahangnak adott interjúban arról beszélt, hogy a vezetés és az autóhasználattal járó gyakorlati ismeretek szerinte a férfias élet részei. Vitézy Dávidra utalva azt mondta, hogy a miniszternek nincs jogosítványa, és ez szerinte hozzátartozik a férfias élethez.",
+        "A jogosítvány kérdése akkor merült fel, amikor a műsorvezető arról kérdezte, miért cserélte le a volt miniszterelnök a korábbi, nyomógombos telefonját okostelefonra. Orbán ezt azzal indokolta, hogy gyakran vezet, és a régi készülék nem jelezte a traffipaxokat és az útlezárásokat.",
+        "A Vitézy-tárca válaszában azt írta, hogy a közlekedési szabályok, így a sebességhatárok betartása mindenki számára kötelező, és ezt a volt kormányfőnek is javasolja. Az Index összefoglalója szerint a csapat a sebességhatárok betartására figyelmeztetett.",
+        "Az interjúban Orbán az előző kormány intézkedéseit is bírálta, mert szerinte túl sok sebességmérő berendezést helyeztek ki az országban, és számos útlezárás nehezíti a közlekedést. Ezekről a állításokról a beszámoló nem közöl részletes adatokat."
+      ],
+      "cav": "A cikk egyetlen forrásra, az Index beszámolójára épül, az interjú szövegét nem láttuk teljes terjedelmében, így az idézetek és a helyzetértelmezés másodkézből származnak. A sebességmérők számáról és az útlezárásokról szóló bírálat nincs alátámasztva a beszámolóban.",
+      "op": "A vita a jogosítvány és a férfiasság körül forog, pedig a valódi kérdés az, hogy a közlekedési szabályok és a sebességmérők mennyire szolgálják a biztonságot. Egy politikusnak a közlekedési eszközök ellenőrzéséről kell érdemben vitatkoznia, nem a nemi szerepekről. Elvárható, hogy a bírálatok mögé konkrét adatokat tegyenek, mert a közúti biztonság minden állampolgárt érint.",
+      "src": [
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/13/vitezy-david-orban-viktor-jogositvany-sebessegkorlatozas/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7254/72544/725442/72544279_5345437_8c7c87bf0a4a5605667ccf6867db9b5d_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/13/vitezy-david-orban-viktor-jogositvany-sebessegkorlatozas/",
+      "cred": "Kép: Index – eredeti cikk",
       "ai_edited": true
     }
   ]
