@@ -2,11 +2,12 @@
  "failed": {
   "w-b713f04b66444156": 3,
   "w-1eb0eaa2c64979d1": 3,
-  "w-f4aa784a106a63e0": 1
+  "w-10e578662d3bc84e": 3,
+  "w-ab9e213b70e94210": 3,
+  "w-c8433e3349d3cc8f": 3
  },
  "failed_translations": {
   "w-1b011ef487053dfa:fr": 2,
-  "w-fc9bcbb71a5289ae:de": 2,
-  "w-fc9bcbb71a5289ae:es": 2
+  "w-6756af101ccd97a8:pt": 1
  }
 }

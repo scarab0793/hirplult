@@ -1,6 +1,167 @@
 {
- "updated_at": "2026-11-14T12:29:14.953686+00:00",
+ "updated_at": "2026-11-14T18:28:16.074385+00:00",
  "items": [
+  {
+   "id": "w-823a88703cf7bca6",
+   "member_ids": [
+    "w-823a88703cf7bca6",
+    "w-8fca9e8bb8359c24"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T18:02:53+00:00",
+   "t": "US blames equipment upgrade for longest nationwide FAA ground stop since 9/11",
+   "s": "US officials say maintenance on an aging telecommunications system may have caused an hours-long halt to all domestic air traffic. The cause has not been confirmed, and the airspace stop has left thousands of flights disrupted.",
+   "p": [
+    "Transportation Secretary Sean Duffy said at a news conference in Washington on Saturday that routine maintenance performed the previous day could be to blame. The work involved upgrading a router from copper to fibre at a remote location. Duffy said “contractor error or a faulty piece of equipment” caused the router to flood other devices in the air traffic control system with connection attempts.",
+    "According to Duffy, the system received about 1,000 connection attempts every four to five seconds. The resulting disruption to radar feeds and communications between controllers and aircraft led to the decision to halt flights nationwide. He said safety was the priority and the airspace was shut down.",
+    "The Transportation Department identified the contractor on the work as L3Harris, a US aerospace and defence company tasked with modernising the FAA’s communications system. Duffy said officials were still trying to establish whether the fault lay in installation or in the router itself. “We haven’t determined what the fault was,” he said. He added that the company “didn’t meet the moment”, and said he would hold people accountable once the facts were known. Al Jazeera said it had contacted L3Harris for comment and had not yet received a reply.",
+    "Officials also addressed concerns that a cyberattack was responsible. Duffy said the government did not believe that was the case, pointing to systems returning to service once the work at the location was isolated. FAA Administrator Bryan Bedford said he saw no evidence of anything malicious and attributed the outage to an equipment error. He said a root cause analysis would be made public when it is available.",
+    "The stop was the longest nationwide halt since 9/11, according to the FAA, and only the second nationwide stop since then. Bedford said crews and aircraft were out of position for about 12,000 flights that were lost. He expected roughly 4,000 to 5,000 of the 41,000 flights scheduled for Saturday to be cancelled, and said full schedule integrity was expected by the end of Sunday.",
+    "A separate summary from a second news outlet reports that the ground stop was lifted and that officials said the disruption was not caused by a cyberattack or a sweeping Microsoft outage. That article’s full text was not available for this report, so its details could not be checked against the wider account."
+   ],
+   "cav": "The root cause is still unconfirmed; the explanations so far come from officials, and the contractor has not responded. The Microsoft claim comes only from a short summary by a second outlet, and the outage figures are the FAA’s own estimates.",
+   "op": "Air travellers and the public are owed a clear answer, not early blame. The FAA should publish its root cause analysis in full and say who was responsible for the router before accountability is announced. Officials who promise consequences must show the evidence that justifies them.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights"
+  },
+  {
+   "id": "w-39f5f3535d23cd1d",
+   "member_ids": [
+    "w-39f5f3535d23cd1d"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-14T16:53:39+00:00",
+   "t": "Zelenskyy says Washington floated ceding Donbas land for NATO membership",
+   "s": "Ukrainian President Volodymyr Zelenskyy says American negotiators have raised giving up parts of eastern Donbas as a condition tied to joining NATO. He says he has turned down any transfer of territory.",
+   "p": [
+    "Zelenskyy told reporters that American negotiators had suggested Ukraine could surrender portions of eastern Donbas and, in return, gain a route into NATO. He spoke after the most recent Russia-Ukraine negotiating sessions held in Abu Dhabi and Ireland. His office published the remarks on Saturday.",
+    "According to Zelenskyy, this was the first occasion on which anyone had connected NATO membership with territorial concessions. He recounted that US representatives had asked whether Ukraine would leave Donbas if it became a member. The districts they referred to, he said, are areas that Moscow does not currently govern, and he rejected handing them over.",
+    "The Ukrainian leader argued that Vladimir Putin's push to alter European frontiers is a established reality, and that he believes it forms part of a wider plan to rewrite security arrangements on the continent. He warned that such steps tend to produce armed conflict or further escalation. Putin has repeatedly treated Ukraine's accession to NATO as an unacceptable line, and has cited that issue among his reasons for the 2022 invasion.",
+    "Zelenskyy indicated that he would submit any surrender of Donbas territory to a nationwide vote, but only if Kyiv were offered a broad set of commitments. Those would include protective assurances, military and rebuilding money, and a plan for recovery from Washington and other allies. He also made clear that no deal would treat occupied areas as belonging to Russia. Neutrality, he added, could not be adopted without amending the constitution.",
+    "The diplomatic effort has unfolded alongside heavy fire. Russian officials said on Friday that roughly 1,200 Ukrainian drones had been launched toward Russian territory, with energy facilities among the intended targets. Ukrainian authorities, for their part, reported strikes on a hospital and on the port city of Odesa.",
+    "At the Irish summit, EU leaders resolved that any European delegation to future Ukraine talks should be made up of five large military states, namely Britain, which is outside the EU, together with France, Germany, Italy and Poland, plus EU officials. That group would negotiate with American and Ukrainian counterparts, but would not sit down with Russia."
+   ],
+   "cav": "The US proposal is reported only through Zelenskyy’s account, and the evidence contains no US comment or Russian response. The drone figure comes from Russian officials, and the hospital and port attacks are reported by Ukraine alone.",
+   "op": "Territory should not be traded through private proposals that the public hears about only later. If Kyiv is to weigh ceding land, the terms, the American commitments and the referendum must be made public and tested openly. Any deal that rewards an invasion by redrawing borders would set a dangerous precedent for Europe.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-70275d0e699d0668",
+   "member_ids": [
+    "w-70275d0e699d0668",
+    "w-87400736b23361e4"
+   ],
+   "section": "World",
+   "published_at": "2026-11-14T15:53:55+00:00",
+   "t": "Trump, Putin and Xi to hold trilateral meeting in Shenzhen, White House says",
+   "s": "The White House says Donald Trump, Vladimir Putin and Xi Jinping plan to meet next week in China, on the fringes of an Asia-Pacific summit. Nuclear arms reduction is expected to feature, though Beijing has not formally responded.",
+   "p": [
+    "Donald Trump, Vladimir Putin and Xi Jinping are planning a meeting in Shenzhen, in southern China, according to the White House. Spokeswoman Olivia Wales told reporters the talks would be historic. The meeting would take place while Trump is attending the Asia-Pacific Economic Cooperation (APEC) summit.",
+    "Wales said Trump intends to raise the “reduction of nuclear weapons” during the discussions, arguing that their spread is dangerous. US officials cited by AFP said Iran may also come up, but Ukraine will not. A senior US official told news agencies that no agreement was expected from the talks.",
+    "Russia has confirmed the meeting. Chinese state media, citing a foreign ministry spokesman, reported that Xi would hold bilateral talks on the APEC sidelines, but they have not mentioned a three-way meeting. Foreign ministry spokesperson Mao Ning said Beijing looked forward to “more practical results” with its partners in trade, connectivity and the digital economy.",
+    "The timing is significant. A nuclear weapons control treaty between Washington and Moscow lapsed in February, leaving the largest arsenals without major limits. The United Nations has urged both sides to agree a replacement framework quickly. Trump has suggested a better deal could be struck that includes China, which has been expanding its arsenal.",
+    "Trump is set to leave Washington for the Philippines, where he will attend a summit of the Association of Southeast Asian Nations on Tuesday, before continuing to Shenzhen. The APEC leaders’ gathering runs from 18 to 19 November and brings together 21 member economies. Tesla and SpaceX chief executive Elon Musk is due to accompany Trump to China but will not attend the meeting with Xi and Putin, officials said.",
+    "Trump and Xi have tried to signal warmer relations this year, yet little real progress appears to have been made on trade or Taiwan. The war in Iran remains a sticking point, given that Beijing is the largest buyer of Tehran’s oil. Moscow has also leaned heavily on China as a trading partner since its full-scale invasion of Ukraine in 2022. Earlier this month, Kremlin spokesman Dmitry Peskov cited “signals confirming readiness” for such talks.",
+    "Several points remain unconfirmed. The trilateral format rests on White House statements, Beijing has not publicly endorsed it, and the full agenda beyond nuclear arms has been only partly described."
+   ],
+   "cav": "The trilateral meeting rests mainly on White House statements and comments from US officials; China has not confirmed it, and Chinese state media has mentioned only bilateral talks. Whether Iran will be discussed is reported as understood rather than confirmed.",
+   "op": "A leaders’ meeting on nuclear weapons is worth having, but a photo opportunity cannot replace the treaty that lapsed in February. The public deserves a clear agenda, a published account of any outcomes and a timetable for a binding framework. Without transparency, this summit risks becoming another round of warm words.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+  },
+  {
+   "id": "w-f4aa784a106a63e0",
+   "member_ids": [
+    "w-f4aa784a106a63e0"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T14:20:57+00:00",
+   "t": "US Nationwide Ground Stop Lifted After Longest Since the 2001 Attacks, Officials Blame Aging Air Traffic System",
+   "s": "The US Federal Aviation Administration has lifted a nationwide ground stop that lasted more than four hours, the longest such halt since the 11 September 2001 attacks. Officials say the disruption was not caused by a cyber-attack.",
+   "p": [
+    "The FAA described the Friday stoppage as resulting from “extraordinary circumstances” tied to a communication issue that affected all air traffic control centres. Its first announcement, issued in the afternoon Eastern time, said all departures within the United States would be halted until further notice.",
+    "Homeland Security Secretary Markwayne Mullin said there was no indication of a cyber-attack and that everyone was safe. Transportation Secretary Sean Duffy blamed the failure on equipment, calling the system “incredibly old” during a news conference on Friday night.",
+    "According to FlightAware, more than 8,500 flights were delayed and nearly 8,000 were cancelled on Friday. At the time the order took effect, more than 3,500 aircraft were in the air. Some were diverted to other airports, while others continued to their destinations.",
+    "Some flights were later allowed to depart from San Francisco International Airport. Duffy warned that the effects would ripple for several days and said tens of thousands of travellers had been stranded at airports across the country, many without arrangements for the night.",
+    "American Airlines said it was concentrating on operating as many remaining flights as possible that evening, and JetBlue said it would resume service on Saturday morning. British Airways advised passengers with US-bound flights to check their status but to go to the airport as planned.",
+    "Abroad, Sydney Airport had grounded US-bound flights, although scheduled departures were then expected to leave as planned. Passengers from the UK were warned of possible disruption on Saturday morning. Several flights from London Heathrow to the US were cancelled or delayed, while Manchester said no significant disruption was expected and Gatwick operated normally.",
+    "Passenger rights are uneven. Under the FAA Reauthorisation Act of 2024, cancelled or significantly delayed domestic flights, defined as those delayed three hours or more, and international flights delayed six hours or more, must be offered alternative travel or a full refund. Refunds for credit card purchases are due within seven business days, and within 20 days for other payment methods. Airlines in the US are not required to provide meals or accommodation, though some offer support voluntarily. UK law obliges airlines to look after passengers during delays, and the Civil Aviation Authority advises keeping receipts.",
+    "Officials’ early explanation is that new equipment added to a decades-old air traffic control system overloaded it."
+   ],
+   "cav": "The cause is still preliminary and rests on officials’ statements; the sources do not provide technical details or independent verification. Sources differ on the scale of disruption abroad, and the reported flight figures come from FlightAware rather than the FAA.",
+   "op": "A failure this wide exposes how much national infrastructure depends on systems that were never modernised properly. Officials should publish a full technical account, and passengers deserve clear, enforceable refund rights that do not depend on who is to blame.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+  },
+  {
+   "id": "w-6756af101ccd97a8",
+   "member_ids": [
+    "w-6756af101ccd97a8"
+   ],
+   "section": "Science",
+   "published_at": "2026-11-14T14:18:41+00:00",
+   "t": "SpaceX Starship booster misses mid-air catch, ship to attempt return",
+   "s": "SpaceX’s Starship booster was diverted to the ocean after a planned catch was aborted, while the upper stage prepared for its own return and a possible catch. The company has yet to decide whether to try grabbing the ship.",
+   "p": [
+    "SpaceX said it would decide later whether to try to catch the upper part of its Starship rocket as it returns to Earth. The company had hoped to catch both the bottom and upper stages using mechanical arms on its launch tower, which it nicknames chopsticks.",
+    "The first catch attempt failed. The rocket blasted off from the Starbase site in Boca Chica, Texas, on Friday, and a catch of the Super Heavy booster was planned about six and a half minutes later. Mission control initially gave a “go” for the catch at the tower, but the booster activated an automated abort. It diverted to the ocean, hovered briefly above the water and then exploded, according to the BBC.",
+    "The upper section, known as the Ship, continued to space and deployed 26 satellites that form part of the Starlink internet constellation. It is due to complete 14 orbits and return to the launch tower about 22.5 hours after take-off, with a return expected at about 15:15 local time on Saturday.",
+    "A SpaceX spokesperson said during a livestream that safety remained the top priority, as the company was still testing manoeuvres it had not attempted before on these vehicles. Before the flight, the company said it would only decide on a Ship catch after assessing the vehicle in space. If problems arise, the stage can be brought down in the ocean at several points.",
+    "This is the 15th Starship test and the first that aimed to recover both stages. SpaceX has caught the booster on three earlier flights, but the upper stage, which reached orbit for the first time in September, has never been caught.",
+    "Full reusability is central to SpaceX’s goal of lowering launch costs. Prof Malcolm Macdonald of the Royal Aeronautical Society said that reusing a whole Starship could change the economics of space access, while cautioning that a single successful flight would not prove the model.",
+    "The programme also matters for Nasa. SpaceX holds a contract to convert the Ship into a lander for astronauts heading to the lunar surface, with a Moon landing targeted for 2028, a timeline described as highly ambitious. Blue Origin, owned by Jeff Bezos, has a separate contract for its New Glenn rocket and lander. Both companies are expected to play a role in the Artemis III mission, currently planned for summer 2027."
+   ],
+   "cav": "The sources do not say why the booster abort was triggered beyond the company’s safety comments, and the outcome of the Ship’s return was not yet known when the report was published. The timing of the Moon landing and Artemis III is described as planned and ambitious rather than confirmed.",
+   "op": "Public money and public trust are both tied up in this programme, so the reasons for every abort should be explained clearly, not only as safety in general terms. Nasa’s lunar timetable depends on private firms, and transparency about test results is the only way to judge whether the schedule is realistic.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+  },
   {
    "id": "w-3cc5dfc334354471",
    "member_ids": [
@@ -340,6 +501,43 @@
    "img_link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
   },
   {
+   "id": "w-33d1cdb7aa1774c9",
+   "member_ids": [
+    "w-33d1cdb7aa1774c9",
+    "w-a75173ff301574b4"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T06:56:20+00:00",
+   "t": "US flights slowly resume after nationwide ground stop, with thousands still cancelled",
+   "s": "The Federal Aviation Administration lifted a rare nationwide ground stop on Friday night, but passengers across the United States faced further delays and cancellations on Saturday. Officials blamed an outage linked to aging air traffic control equipment.",
+   "p": [
+    "Travellers to and from the United States kept facing delays and cancellations on Saturday, even after the Federal Aviation Administration (FAA) lifted a nationwide ground stop that had halted all flights across the country.",
+    "The order was issued on Friday after what the FAA described as a “telecommunications outage”. The agency said some departures were resuming and that it had tested its systems before clearing flights to resume. It advised passengers to contact their airlines for updates.",
+    "Transport Secretary Sean Duffy said operations were slowly returning to normal but warned that more disruption was likely as carriers moved aircraft and crews to where they were needed. He said the airspace reopened at about 8:15 pm Eastern time and that departures would be slow, depending on crew availability.",
+    "Duffy blamed the shutdown on what he called an “incredibly old” air traffic control system. Administration officials said new technology added to the network had overloaded antiquated equipment, causing intermittent communications and radar gaps. Duffy described the problem as a legacy system issue involving decades-old switches and routers, and said there was no evidence of foul play.",
+    "Homeland Security Secretary Markwayne Mullin said there was no evidence of hostile action and that the outage was not a cyberattack. He also ruled out any link to a Microsoft outage that had disrupted email systems worldwide that week.",
+    "Figures on the scale of the disruption differ between sources. FlightAware, a tracking service, reported more than 9,160 cancellations to or from the US on Friday and about 3,870 so far on Saturday. France 24, citing FlightAware, reported nearly 6,000 cancellations on Friday and more than 2,000 on Saturday. The sources do not fully reconcile these numbers.",
+    "Federal Aviation Administrator Bryan Bedford said the schedule should be back to normal by the end of Sunday, while acknowledging that airlines would still have delays and cancellations on Saturday. Duffy said Congress needed to provide funding, and he had formally requested $30.1 billion to upgrade the air traffic control system.",
+    "Passengers described crowded airports and repeated schedule changes. At New York’s LaGuardia Airport, Tiara Johnson said her flight to Orlando kept being pushed back and that she did not know when it would leave. Joseph Anderson, 72, trying to fly from Las Vegas to Oakland, said a national stop could also jam highways for travellers who considered driving instead."
+   ],
+   "cav": "The sources give different cancellation totals and do not say how long the disruption will last beyond official estimates. Officials’ explanations of the cause, including the outage’s technical details, come from administration statements and have not been independently verified.",
+   "op": "A nationwide shutdown of American airspace should prompt more than promises of a swift recovery. Officials owe the public a clear account of what failed, why the equipment was still in service, and how the $30.1 billion request will be spent and overseen.",
+   "confirmed": true,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/8070c46a-dff8-11f1-bbc8-f71d22e7fea9/w:1024/p:16x9/063-2304502550.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop"
+  },
+  {
    "id": "w-315e43dca758242d",
    "member_ids": [
     "w-315e43dca758242d"
@@ -370,6 +568,99 @@
    "img": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
    "img_outlet": "The Guardian",
    "img_link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+  },
+  {
+   "id": "w-10eb0ca13f77856b",
+   "member_ids": [
+    "w-10eb0ca13f77856b"
+   ],
+   "section": "World",
+   "published_at": "2026-11-14T02:06:00+00:00",
+   "t": "Zelenskyy says Starshield speed curbs persist along Ukraine’s front line",
+   "s": "Ukraine’s president says limits on a US satellite communications system are hampering efforts to intercept drones. The complaint came as Russian strikes hit Kyiv and other Ukrainian cities.",
+   "p": [
+    "Volodymyr Zelenskyy told viewers in his nightly video address on Friday that speed limits on the US Starshield satellite network still apply. He said the Ukrainian army cannot operate freely inside the country while they remain, and that the curbs cover the whole combat zone as well as occupied areas.",
+    "Zelenskyy argued that the limits make it harder to shoot down jet-powered drones, including Shahed drones, which he described as Iranian-designed, and other unmanned aircraft. He added that the restrictions could suggest to Moscow that Washington might view Russian-held Ukrainian territory in a different light. He said he expected the defence and foreign ministries, together with the relevant American bodies, to resolve the matter.",
+    "Earlier this autumn, Ukrainian officials reported that Elon Musk’s SpaceX had suddenly reduced the speed of Starlink and of its military variant, Starshield. They tied the decision to friction with Washington over Ukrainian strikes on Russian oil refineries. The service came back on 24 October, yet Zelenskyy’s comments indicate that some constraints were still in place. The reporting does not specify which limits remain or how SpaceX has answered the complaints.",
+    "The remarks followed a fresh round of Russian attacks. According to the reports, a drone struck the National Institute of Traumatology and Orthopedics in central Kyiv at around 3am, wounding three people. The impact reached the second floor and damaged a neighbouring 19th-century building. The site lies near several Western embassies. Russia separately said it had downed close to 1,200 Ukrainian drones overnight, and it reported at least four deaths in the Volgograd region in the south.",
+    "Russian forces also hit Zaporizhzhia and Odesa on Friday, regional authorities said. In Zaporizhzhia, one person died and more than 50 were hurt, and an apartment block of five floors suffered serious damage. Governor Mykhailo Semikin said a rescue worker was killed when a slab of concrete fell during the clearing of rubble. In Odesa, the city’s military administration said two people died in an assault on a private home and five more were injured.",
+    "In Moscow, a car bomb on Friday gravely hurt Sergei Zavorotniy, 72, once a senior adviser to Mykola Azarov, Ukraine’s exiled former prime minister. The previous day, a car bomb in St Petersburg killed a senior Russian military figure whom officials have not named. A local broadcaster, citing unnamed sources, reported that the dead man was a colonel in the air force. The attacks are part of a run of attempted assassinations that are believed, though not proven in the reporting, to have been ordered by Kyiv.",
+    "At an EU leaders’ summit in Dublin, the bloc’s foreign policy chief, Kaja Kallas, cautioned against being drawn into traps Moscow is laying. She argued that the Kremlin wants a debate about European security so that attention moves away from its own aggression. Russia has also brought back its long-standing demand for a wholesale rewrite of the continent’s security order, a demand that Western governments turned down in 2021.",
+    "Ukraine’s anti-corruption campaign also made headlines. Serhiy Duka, a general in the SBU security service, walked free from pre-trial custody on Friday once $1.2m bail had been paid. He is a suspect in a major corruption case. Investigators say he was detained on 4 November in an operation against an alleged criminal network that they link to SBU personnel, prosecutors, police and organised crime. Footage from TSN.ua showed him insisting on his innocence after his release and thanking SBU colleagues who had raised the money."
+   ],
+   "cav": "Zelenskyy’s account of the Starshield restrictions is his own and is not independently detailed; SpaceX’s position is not given. Russia’s drone-shootdown and casualty claims, the Volgograd deaths and the link between the car bombs and Kyiv are attributed or unverified. Duka is presumed innocent until a final verdict.",
+   "op": "Decisions about who controls the satellite networks Ukraine depends on shape the battlefield, yet they are often made quietly by a private company. Kyiv says the limits favour Russia, and Washington should explain publicly what was agreed and why. Allies cannot plan their defence around rules they are never told.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/34ffcd2b31f13539cf87967f5bb3c678ec633f4b/472_426_5026_4023/master/5026.jpg?width=140&quality=85&auto=format&fit=max&s=7b2e51af8d86de9f0b1a258a711e68fc",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
+  },
+  {
+   "id": "w-e969adccebcd7fe0",
+   "member_ids": [
+    "w-e969adccebcd7fe0"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-14T00:53:52+00:00",
+   "t": "SpaceX Starship lifts off on Flight 15, but its booster fails to return for a planned double catch",
+   "s": "A SpaceX test of its Starship megarocket launched from Texas on Friday, but the planned catch of both stages did not happen. The booster came down in the Gulf of Mexico instead of returning to the tower.",
+   "p": [
+    "On Friday afternoon, SpaceX launched Starship from Texas in an attempt to catch both halves of the reusable vehicle, a first for the company. According to The Guardian, the attempt fell short of that goal.",
+    "The vehicle is described as the largest rocket in the world, measuring 407 feet. This was its 15th flight. The lower stage, Super Heavy, carries 33 Raptor engines, and the upper Starship sits on top. The upper section was scheduled to circle the planet roughly 14 times over 22 hours before being recovered at the Starbase launch pad in south Texas.",
+    "Both sections were meant to return to the launch tower, but the booster was called off and landed in the Gulf of Mexico. Why the diversion happened remains unknown. Kate Tice, SpaceX’s director of quality management, acknowledged that the result was not what the team had hoped for, while presenting the booster’s return as consistent with “rigorous safety checks”.",
+    "Elon Musk had earlier called a double catch a “critical breakthrough needed to make life multiplanetary”, so the outcome is a setback for that ambition. The upper-stage catch is still possible. If it succeeds, SpaceX would be catching that 171-foot section for the first time.",
+    "The launch went ahead as scheduled even though a nationwide ground stop disrupted hundreds of flights. Hawaii’s transportation agency said flights bound for the West Coast were briefly paused because of debris from the launch, then resumed on Friday.",
+    "The ship also deployed Starlink satellites, three of which carried cameras to study its heat shield. That information helps determine whether the craft is ready to return. Musk frames fast reuse as the key to cutting huge spaceflight costs, and he envisions the vehicle carrying people to the Moon and, controversially, Mars. NASA has contracted SpaceX and Jeff Bezos’s Blue Origin to build lunar landers that would carry astronauts to the Moon in 2028.",
+    "Earlier test flights have ended in explosions that revealed serious design flaws. In September, the latest test put the spacecraft into orbit around Earth for the first time, although its engine failed during the climb."
+   ],
+   "cav": "The sources do not explain why the booster was aborted, and the cause remains unknown. The account of the ground stop and Hawaii flight disruptions relies on reporting from the island’s transportation agency and has not been independently detailed.",
+   "op": "Reusable rockets promise cheaper spaceflight, but those claims rest on test results the public must be able to scrutinise. SpaceX should publish a clear explanation of the booster abort, and regulators should ensure that airspace disruption and debris risks are reported openly.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+  },
+  {
+   "id": "w-fdb68417927b50a6",
+   "member_ids": [
+    "w-fdb68417927b50a6"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-13T23:40:45+00:00",
+   "t": "All passengers rescued after cruise ship American Heritage collides with vessel on the Mississippi",
+   "s": "Around 130 people were rescued after the American Heritage cruise ship was struck on the Mississippi River in New Orleans. Officials said 32 people were taken to hospital with non-critical injuries and no one was unaccounted for.",
+   "p": [
+    "The paddlewheeler American Heritage, operated by American Cruise Lines, was hit by the cargo vessel Atlantic Asphalt while docked in New Orleans. According to the BBC, the cruise ship was left lying on its side in the river after the collision.",
+    "Calls to emergency services began at about 13:30 EST on Friday, when people started trying to help passengers leave the boat as it took on water, according to Port of New Orleans chief Melanie Montroll. The port authority said about 129 passengers were aboard, in addition to crew.",
+    "Passengers began leaving the vessel as it started to list before tipping over, New Orleans Mayor Helena Moreno said. Tugboat operators, police and other rescuers went to help, while officials halted traffic on the river during the operation.",
+    "US Coast Guard Capt Melanie Burnham said the cause remains under investigation, but that there appeared to be a loss of steering. Governor Jeff Landry pledged an investigation into what happened and said ships had operated safely on the Mississippi for years.",
+    "Officials, including Moreno and Landry, described the rescue as a “miracle on the Mississippi”. President Donald Trump also praised the effort on Truth Social. A witness, Jamie Holford, told CBS he saw the ship hit the dock and heard a loud crash; his account is second-hand as reported by the BBC.",
+    "The sources differ on some details. One BBC passage describes the vessel as struck by a tanker, while others name a cargo vessel. The ship was finishing an eight-day cruise through Louisiana and Mississippi, and the company’s website says it can carry up to 150 guests."
+   ],
+   "cav": "The cause of the collision is not yet established, and the loss-of-steering explanation is a preliminary statement from the Coast Guard. The sources describe the other vessel inconsistently as a tanker and a cargo ship, and the passenger count differs slightly between reports.",
+   "op": "A rescue that saved everyone on board deserves praise, and the first responders who went into the water earned it. But a near-disaster on a busy waterway raises a plain question about how a ship lost steering, and the public deserves a clear, published answer rather than assurances that waterways are safe.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
   },
   {
    "id": "w-129a3b37b25ba195",
@@ -1220,244 +1511,6 @@
      "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
     ]
    ]
-  },
-  {
-   "id": "w-fc9bcbb71a5289ae",
-   "member_ids": [
-    "w-fc9bcbb71a5289ae"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-12T18:00:50+00:00",
-   "t": "Lewis Hamilton urges Israel to open Gaza to aid trucks after Rafah border visit",
-   "s": "Formula One driver Lewis Hamilton has called on Israel to let aid trucks reach Gaza, a day after touring the Rafah crossing on the Egyptian side. In an Instagram post he also accused Israel of genocide, a charge Israel rejects.",
-   "p": [
-    "Hamilton made the remarks on Wednesday, one day after he travelled to El Arish, in Egypt, on Tuesday. There, according to the reporting, he was given an overview of how aid is packed and organised before it crosses into Gaza.",
-    "During the visit he went through the Rafah crossing and the warehouses run by the Egyptian Red Crescent. He also greeted aid workers and officials in Arabic, offering a traditional salutation that means peace be upon you.",
-    "In his post, Hamilton said he saw food lorries waiting at the border, ready to cross. He described them as frequently blocked or held up for long periods, and said the first driver he spoke to had already waited more than twelve hours.",
-    "He also said that at a nearby logistics hub he saw supplies being turned away. The items he listed included sleeping bags, first aid kits, medical equipment, wheelchairs and footballs for children. He said Israel should meet its commitments under the ceasefire.",
-    "The Ferrari driver, a seven-time world champion, wrote that the past three years amounted to what he called Israel’s genocide in Gaza, which he described as appalling. Israeli authorities reject the genocide charge and say their military campaign is aimed at Hamas militants.",
-    "The reporting notes that a ceasefire agreed last year has stopped major fighting in Gaza. Even so, the volume of aid entering the territory remains well below the agreed daily minimum of 600 trucks.",
-    "Hamilton has repeatedly used social media to highlight children killed in Israeli airstrikes and to call for a ceasefire. He founded the charity Mission 44 in 2021 to help young people gain access to education and jobs. He currently sits fourth in the drivers’ standings, while Mercedes’ Kimi Antonelli has already secured the championship with three races remaining."
-   ],
-   "cav": "The account of rejected aid and long waits rests on Hamilton’s own observations and social media post, and the reporting does not give reasons for the rejections. His genocide description is his personal view, which Israel disputes.",
-   "op": "Aid access is not a question of celebrity opinion; it is whether a ceasefire is honoured in practice. When drivers wait for hours and basic supplies are turned back, the public deserves named, specific reasons from those who control the crossings. Openness about rejections should be the starting point, not something a famous visitor has to demand.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-  },
-  {
-   "id": "w-29dfd653cd425f06",
-   "member_ids": [
-    "w-29dfd653cd425f06",
-    "w-cfb4faa8387b692a"
-   ],
-   "section": "World",
-   "published_at": "2026-11-12T13:51:51+00:00",
-   "t": "US envoys meet Putin as Zelensky says Starlink disruption hits Ukraine’s military again",
-   "s": "US envoys Jared Kushner and Steve Witkoff met Vladimir Putin in Moscow as Volodymyr Zelensky said Starlink restrictions were again hampering Ukraine’s military. The talks came as European governments pressed for a place at the negotiating table.",
-   "p": [
-    "Ukrainian President Volodymyr Zelensky said his armed forces were once more under limits on Starlink’s military-grade connectivity, according to the BBC, leaving Kyiv struggling to shoot down Russian jet-powered drones. The service runs on a Starshield system owned by Elon Musk’s SpaceX, which the BBC describes as important to military operations.",
-    "Zelensky said the interruption had lasted several days and was letting Russian forces kill more Ukrainians and aim their strikes more precisely. He added that Kyiv was working to resolve the matter with the American side.",
-    "The developments coincided with Kushner and Witkoff’s meeting with Putin in Moscow, held a day after US-led talks in Abu Dhabi concluded. Russian media footage showed the two envoys arriving and greeted warmly by Kremlin envoy Kirill Dmitriev.",
-    "Earlier in the week, Kushner said Washington had spotted some openings and chances, and that the envoys hoped to move matters forward with Putin. The in-person meetings were confirmed only on Wednesday, following two days of discussions focused on Europe’s long-term security arrangements. Kushner and Witkoff were then due to fly to Dublin to see Zelensky.",
-    "A comparable Starshield outage struck the front line in late October and persisted for roughly a week before being repaired. Who issued the temporary restrictions remains unclear, since US officials and SpaceX have given different accounts.",
-    "The Abu Dhabi talks involved only Russia and Ukraine, with Washington in the lead. Kushner said he and Witkoff would ask Putin to endorse including European representatives in later discussions, and he urged Europe to choose a single spokesperson. Moscow has resisted that idea, pointing to European backing for Kyiv as a barrier.",
-    "Vladimir Medinsky, who led the Russian delegation in Abu Dhabi, said all sides had come nearer to peace. He argued that the outcome now rests heavily on Kyiv, on Washington’s stance, and on whether Europe changes course.",
-    "Almost five years after Russia’s full-scale invasion, the BBC reports that Moscow is not softening its maximalist demands, which include Ukrainian territory and an end to Western security guarantees for Kyiv. European governments, which once cut off contact with the Kremlin, now worry about the US administration’s commitment to the continent’s security and its warmer approach toward Moscow."
-   ],
-   "cav": "The Starlink claims come from Zelensky and are not independently confirmed in the evidence, and the sources do not establish who ordered the restrictions. Reporting on the Dublin meeting was not part of the evidence, so its outcome is unknown.",
-   "op": "Communications a country relies on in wartime should not be switched off without a clear account of who gave the order. Ukraine is owed a plain answer from Washington and from SpaceX. Peace talks that will shape Europe’s security should not advance while that basic question goes unanswered.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
-  },
-  {
-   "id": "w-c20da2f52115f645",
-   "member_ids": [
-    "w-c20da2f52115f645",
-    "w-989ec6f83c0ea0b9"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-12T13:46:00+00:00",
-   "t": "Nvidia's board weighs its chief's future after affair reports and a spy allegation",
-   "s": "Nvidia's board reportedly moved to decide whether Jensen Huang stays as chief executive after reports of extramarital relationships, one with a businesswoman US officials suspect of spying for China. Accounts differ on whether he has already stepped down, and the company's shares have dropped sharply.",
-   "p": [
-    "Nvidia’s board convened late on Wednesday to consider whether Huang, who co-founded the chipmaker in 1993, should remain in charge. Al Jazeera values the company at $4.2 trillion and says it supplies most of the processors used in advanced computing work. It reportedly lost more than $600bn in market value during the week.",
-    "The crisis began with reports of several extramarital relationships. On Sunday, Huang acknowledged in an internal memo that he had been unfaithful to his wife. One of the women named is Alice Huang, a former executive at the Singapore-based firm Megaspeed, whom US officials reportedly suspect of working for Chinese intelligence. Beijing rejects that suspicion. Later, The New York Times named a second woman, Kimberly Powell, who leads Nvidia’s healthcare division and reports to Huang, citing five people who had worked at the company.",
-    "Accounts diverge on what happened next. The Guardian, citing a company announcement, reports that Huang has resigned as president, chief executive and board member with immediate effect. Under that account, finance chief Colette Kress will serve as interim chief executive while the board looks for a permanent successor from inside or outside the company. Al Jazeera’s report, published the same day, still describes the board as deciding whether to remove him.",
-    "Governance rules sit at the centre of the story. According to Nvidia’s bylaws, directors can remove Huang with or without cause by a majority vote. He holds about 3.6 percent of the shares, according to LSEG data, and does not have the majority voting control that leaders at some rival tech firms enjoy. Nvidia also has no board chair, a point one geopolitical analyst called “pretty astounding.”",
-    "Shares fell more than 8 percent in after-hours trading after The Wall Street Journal reported that the board was preparing to oust Huang, Al Jazeera reported. Analysts reportedly pointed to Kress and engineer Ian Buck as likely internal candidates, although one said that view remained speculation until a decision is made. Armina Rosenberg of Minotaur Capital told Reuters that the market was beginning to treat a Nvidia without its founder as a probable outcome.",
-    "The spy allegation raises a separate question for the company. The New York Times reported that Megaspeed bought about $4.8bn of equipment from Nvidia. US authorities have examined the firm since 2024 over suspicions that it helped China obtain advanced Nvidia chips in breach of export controls. Megaspeed denies this. The reports do not say Nvidia itself has been charged with anything.",
-    "President Donald Trump said on Monday that the FBI was looking into the matter, and that Huang had told him he had “absolutely no idea” the woman was an alleged spy. Three Republican House committee chairs have asked Huang to attend a closed-door briefing on November 18. Reuters reported that he could face a subpoena if he does not respond. It is unclear whether he will attend the APEC summit in Shenzhen on November 18 and 19."
-   ],
-   "cav": "The sources conflict on the central fact: the Guardian reports a resignation, while Al Jazeera describes a board still deciding. The spy and Megaspeed claims remain allegations, and the sources do not report any findings from the board’s independent investigation.",
-   "op": "Leadership at a company this important should not change through leaks and rumour alone. Shareholders and the public are owed a clear account of how the board handled the affair reports, the security allegations and the export questions. Nvidia’s governance will be judged by whether it answers them in public.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
-  },
-  {
-   "id": "w-eb855a1b99603316",
-   "member_ids": [
-    "w-eb855a1b99603316"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-12T13:38:57+00:00",
-   "t": "Scott Colom unseats Republican Senator Cindy Hyde-Smith in Mississippi, ending a long Republican hold on the seat",
-   "s": "Democrat Scott Colom has ousted Republican incumbent Cindy Hyde-Smith in Mississippi after more than a week of counting. According to the Guardian’s First Thing newsletter, he is the first Black senator elected in the state since Reconstruction.",
-   "p": [
-    "Scott Colom, a 43-year-old district attorney, has beaten Cindy Hyde-Smith in Mississippi, one of the most solidly Republican states in the country. The result was confirmed only after more than a week of ballot counting, which the Guardian’s First Thing newsletter described as a surprise.",
-    "The newsletter said Colom’s victory makes him the first Black senator to win election in Mississippi since the Reconstruction era that followed the American Civil War. That historical detail is presented as background in the newsletter and is not explained further.",
-    "According to the same newsletter, the result reflects a wider backlash against Donald Trump’s administration. Republicans lost seats in places where Democrats had not been competitive for decades. With Colom’s seat included, Democrats are expected to hold at least 55 Senate seats, which the newsletter called the party’s biggest midterm gain since 1986.",
-    "Colom, speaking after the result, said his long-shot campaign had at times felt like a loss, but that he had kept believing. He told supporters he would look after their children, parents and futures in the same way he would want his own family to be cared for.",
-    "Separately, the newsletter reported a clash in Washington. Robert Garcia, the ranking Democrat on the House oversight committee, said Donald Trump appeared to be concealing something after the White House threatened criminal investigations tied to the party’s planned scrutiny of the administration. Garcia argued that Congress draws its oversight power from the constitution, not from White House approval.",
-    "Democrats also faced criticism over a failed effort to impeach the defense secretary, Pete Hegseth. Eleven Democrats missed a key procedural vote on Tuesday evening, and the effort lost by seven votes. Abdul El-Sayed, the senator-elect for Michigan, said on CNN that lawmakers should attend and carry out their duties."
-   ],
-   "cav": "These details come from a daily newsletter summary, not a full results report, so Colom’s margin and the final vote totals are not given. The 55-seat figure and the 1986 comparison are also second-hand and have not been checked against official tallies.",
-   "op": "Mississippi voters have signalled that they expect accountability from their representatives. Oversight of the executive is a constitutional duty, not a favour that the White House can withhold. Officials on every side should answer scrutiny with open debate rather than threats.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/39fb84a0d747e36565546de4230ff59eb53ac466/1_268_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=89df109598ecfdb09cb914606b912cba",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate"
-  },
-  {
-   "id": "w-07a4c81e127a327b",
-   "member_ids": [
-    "w-07a4c81e127a327b"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-12T13:33:08+00:00",
-   "t": "Democrat Scott Colom wins Mississippi Senate seat as Trump renews corruption claims and Mexico tariff threat",
-   "s": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since Reconstruction. The same day, President Donald Trump used Truth Social to press corruption allegations against Democratic-run states and to threaten tariffs on Mexico.",
-   "p": [
-    "Mississippi has elected Democrat Scott Colom to the Senate, defeating incumbent Republican Cindy Hyde-Smith in a closely contested race. According to the live coverage, the Associated Press called the race just over a week after the midterm elections, once absentee and provisional ballots had been counted. Colom is the first Black senator from the state since the post-Civil War Reconstruction era.",
-    "In his victory speech, Colom said he had “the courage to believe in Mississippi.” Hyde-Smith said she respected the decision of voters, though it was not the result she had worked for. The blog pointed readers to further coverage of Colom’s grassroots campaign, which received limited early backing from national Democrats.",
-    "Elsewhere, Trump posted that he had asked Vice-President JD Vance to focus on alleged corruption in Democratic-run cities and states. He singled out Minnesota, California and Illinois, calling them “poorly run, corrupt disasters”, and claimed that large sums were being stolen each month. These are the president’s assertions. The coverage did not cite any investigation or findings to back them up.",
-    "Trump also said the United States no longer needed a deal with Iran. In a separate post he criticised Senate Republicans, arguing that the chamber must not be a place where bills are left to stall. He named the failure of the Save America Act, which would tighten voter identification rules and require proof of citizenship to register, and called its defeat “devastating” for Republicans in the midterms.",
-    "On migration, Trump threatened to double tariffs on Mexico immediately unless it stops migrant caravans heading north. The blog, citing Reuters, reported that about 1,500 people, many of them travelling with children, began walking north from Tapachula in southern Mexico on Tuesday.",
-    "The live feed also covered other stories. US envoys Steve Witkoff and Jared Kushner arrived in Moscow for talks with Vladimir Putin on ending the war in Ukraine, following negotiations with Russian and Ukrainian officials in Abu Dhabi. Defence secretary Pete Hegseth was reprimanded by a military guard after he and his entourage were seen laughing near the Tomb of the Unknown Soldier, days after Republicans blocked an attempt to impeach him.",
-    "Trump further revisited his first-term tax returns, saying accountants spent a year examining his finances after the matter reached the Supreme Court. The blog noted that six years of his returns, covering 2015 to 2020, were later made public by the House Ways and Means Committee."
-   ],
-   "cav": "The sources are a single live blog that relays social media posts and wire reports. Trump’s corruption and theft claims are presented as his own and are not substantiated in the coverage. The Reuters migrant figure and the Moscow and Hegseth items are brief and second-hand, with no further detail given.",
-   "op": "Corruption claims against state governments deserve the same standard as any serious accusation: named evidence, independent investigators and courts, not a post on social media. Tying tariffs on Mexico to migrants still travelling through its territory blurs trade and immigration policy. Washington should answer with documents, not slogans.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
-  },
-  {
-   "id": "w-4d25a1a76ab45f39",
-   "member_ids": [
-    "w-4d25a1a76ab45f39",
-    "w-0378a39018f3a0f3",
-    "w-19edae332e945183"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-12T13:26:00+00:00",
-   "t": "Xi Jinping calls Taiwan reunification ‘unstoppable’ as Taipei rejects Beijing’s rule",
-   "s": "Chinese President Xi Jinping has renewed calls for reunification with Taiwan without mentioning force, and Taiwan’s government quickly rejected the remarks. The speech came as Taiwan reported a joint Chinese military patrol around the island.",
-   "p": [
-    "Xi said on Thursday that the complete unification of the motherland would be achieved, and he cast the Taiwan question as a long-term mission for the Communist Party. He delivered the message at Beijing’s Great Hall of the People, according to reports.",
-    "The speech marked the 160th birthday of Sun Yat-sen, the revolutionary figure linked to the 1911 uprising that brought an end to imperial rule and gave rise to the Republic of China. Xi used the occasion to argue that Sun had opposed any action that divided the country or the nation.",
-    "Xi said Beijing held to peaceful reunification and the “one country, two systems” formula, and that it was ready to talk with Taiwan on the basis of the one China principle. He also called on Chinese people everywhere, including those in Taiwan, to oppose separatist forces pushing for independence.",
-    "Taipei answered quickly. Its Mainland Affairs Council said neither the government nor the public would accept “one country, two systems”, a arrangement it said would ultimately place the island under Communist Party rule. Spokesperson Liang Wen-chieh told reporters that the language on unification was not much different from earlier statements.",
-    "Xi did not refer to military force, though the reports note that Beijing has never ruled it out for Taiwan. Taiwan’s defence ministry said it had detected 29 Chinese military aircraft, including J-16 fighter jets and drones, flying a joint combat readiness patrol around the island together with Chinese warships, beginning on Thursday.",
-    "The timing carries political weight. The speech came a week before an APEC summit in the southern Chinese city of Shenzhen, where Xi is due to meet US President Donald Trump again, and a little more than two weeks before important local elections in Taiwan. Reports also recall that Xi made a state visit to Washington in September, when he urged the US to oppose Taiwan’s independence.",
-    "Washington has long supplied Taiwan with arms and supported its resistance to Chinese demands. Reports say the US paused a $14bn weapons purchase by Taiwan in May, with Trump describing it as a bargaining tool in dealings with China, a move that fuelled fears that Taiwan’s security could be sacrificed."
-   ],
-   "cav": "The sources do not explain how Beijing would define “peaceful” reunification in practice, and the military figures come from Taiwan’s defence ministry and have not been independently confirmed. The account of Xi’s past remarks on force is second-hand, so Beijing’s current position is not fully clear.",
-   "op": "Taiwan’s people have a direct stake in any future for their island, yet Beijing’s formula leaves their consent out of the picture. Democracies should insist that any change to Taiwan’s status is decided by its own voters, not by pressure, patrols or bargaining chips. Transparency about arms deals and military moves matters more than summit optics.",
-   "confirmed": true,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-ae089956d8e33db2",
-   "member_ids": [
-    "w-ae089956d8e33db2",
-    "w-dc5d5e42fd0651c8"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-12T13:08:15+00:00",
-   "t": "Brooklyn building collapse leaves at least eight dead as rescuers search rubble",
-   "s": "A three-storey residential building in Brooklyn collapsed on Wednesday afternoon, and rescue crews were still searching the rubble at dawn on Thursday. Officials said the death toll had risen to eight, with at least 17 people injured.",
-   "p": [
-    "The building fell at about 4pm local time on Wednesday in the Flatbush section of Brooklyn, New York. It stood on the edge of a construction site, and according to the Guardian, the collapse sent debris into the excavation pit next door. Authorities said at least 17 people were hurt, four of them critically.",
-    "Mayor Zohran Mamdani said in a post on X that he was “heartbroken” by the tragedy and that crews were working through extremely dangerous conditions to find anyone still trapped. The New York City fire department said about 250 first responders had taken part in the search, and that it remained hopeful of finding survivors. Drones and dogs were being used, and an excavator was brought in overnight to lift larger pieces of wreckage.",
-    "Video from the scene on Wednesday evening showed people being carried out on stretchers. One rescued woman, who was six months pregnant, was reported alive by her husband, who spoke to the local ABC affiliate WABC. That account comes from the husband through a news outlet and has not been confirmed by officials in the sources reviewed.",
-    "Several children were among the victims, according to the Guardian, although it is not clear whether any of the dead were minors. Several people left homeless by the collapse took shelter in a church across from the site. Forecasters had warned of heavy rain, thunderstorms and gusty winds through Thursday afternoon, adding to the pressure on the rescue effort.",
-    "Investigators from the city’s department of buildings have begun inquiring into what caused the collapse. NY1 reported that the department had recorded several problems at a neighbouring project in May, including work carried out under a stop-work order, missing overhead protection for nearby properties and departures from approved construction drawings. The same outlet reported almost 100 violations recorded at the collapsed building since 1972. Property records describe it as a three-storey structure with four residential units and one commercial unit.",
-    "None of these findings is a conclusion about the cause. The reports on the neighbouring project and the building’s violation history are second-hand accounts and remain to be tested by the investigation."
-   ],
-   "cav": "The sources disagree on the death toll: the Guardian reports eight dead, while a second outlet’s summary reported at least two. The Guardian’s account is the more recent of the two and is the one reflected here. The violation history and the May findings come from NY1 and have not been confirmed by the city, and the cause of the collapse is still under investigation.",
-   "op": "A building that collapses beside an active excavation, after a stop-work order was reportedly ignored, is a failure of oversight before it is a failure of engineering. New York should publish its inspection and violation records in full and say plainly who was responsible for the neighbouring site. Residents deserve answers before the rubble is cleared.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261112-new-york-deadly-building-collapse-in-brooklyn"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=140&quality=85&auto=format&fit=max&s=bd9bf292cf33c1587045e8b11d8862a5",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
   }
  ]
 }
