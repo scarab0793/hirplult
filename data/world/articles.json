@@ -1,6 +1,376 @@
 {
- "updated_at": "2026-11-13T20:39:02.211620+00:00",
+ "updated_at": "2026-11-14T12:29:14.953686+00:00",
  "items": [
+  {
+   "id": "w-3cc5dfc334354471",
+   "member_ids": [
+    "w-3cc5dfc334354471"
+   ],
+   "section": "World",
+   "published_at": "2026-11-14T12:14:14+00:00",
+   "t": "Trump, Xi and Putin Set for First Trilateral Meeting at APEC Summit in Shenzhen",
+   "s": "The White House says Trump, Xi Jinping and Vladimir Putin will meet as a group for the first time on the sidelines of the APEC summit in China. Nuclear arms control is expected to dominate, against the backdrop of wars in Ukraine and Iran and strained US-China trade ties.",
+   "p": [
+    "The White House has said that Trump, Xi and Putin will hold their first three-way meeting on the fringes of the Asia-Pacific Economic Cooperation gathering in Shenzhen. Washington has also confirmed that Trump will attend the event, which is scheduled for November 18 and 19.",
+    "According to the White House, nuclear proliferation will be the main subject. The talks take place amid several overlapping crises: Russia’s military campaign in Ukraine, the joint US and Israeli war against Iran, and continuing trade friction between Washington and Beijing.",
+    "New START, the bilateral treaty that limits the strategic nuclear arsenals of Washington and Moscow, sits near the top of the agenda. It lapsed in February. Signed in 2010, it set caps on both countries’ strategic forces. Russia holds the largest number of warheads, the US comes second, and China, which is expanding its arsenal quickly, ranks third.",
+    "Trump turned down Russia’s offer to extend the pact once it expired. He wants a “new, improved and modernised” agreement that also includes Beijing. Reports suggest China is reluctant to sign onto an accord it had no hand in shaping. A senior administration official told Reuters the issue would open the conversation, but added that the US does not expect any deal to emerge.",
+    "Iran is also expected to feature. Full-scale strikes have paused for now, yet the conflict that the US and Israel began on February 28 has reached a stalemate. The Strait of Hormuz has remained closed for more than 100 days, and ships there still face Iranian attacks and sea mines. Before the war, a third of China’s crude oil supply moved through the waterway.",
+    "Trade remains a point of contention. Trump raised tariffs on Chinese goods by 145 percent last year, and Beijing responded with 125 percent levies on American imports. The two sides have since lowered duties and concluded several agreements. Separately, a scandal at chipmaker Nvidia has led Washington to accuse China of spying on its chief executive, Jensen Huang. Beijing denies the claim.",
+    "A Trump administration official said the president is unlikely to raise Russia’s war in Ukraine, although the Kremlin had earlier suggested the subject could come up. Officials argue that China is not part of the current peace effort, in which envoys Steve Witkoff and Jared Kushner are visiting Ukraine and Russia this week.",
+    "Analysts believe the summit could benefit Putin, offering him images for home audiences and a stage to demonstrate influence while Ukraine recedes from view. Alexander Bratersky, a Moscow-based journalist and political analyst, told Al Jazeera that the meeting could help Putin project a standing as a leader who can shape Europe’s security order after the war.",
+    "Beijing has pressed for an end to the Iran war, which has disrupted its own energy supplies. Last month, China’s Foreign Ministry said that pushing it into trilateral nuclear disarmament talks at this stage would be unreasonable and unrealistic. Officials say Trump wants both China and Russia included in a new non-proliferation treaty. White House spokesperson Olivia Wales said the president regards proliferation as very dangerous."
+   ],
+   "cav": "These are pre-meeting previews, so no outcome is reported. The administration’s expectations and Beijing’s position are second-hand, the Kremlin’s earlier suggestion about Ukraine is unconfirmed, and the Nvidia spying allegation is unproven and denied by China.",
+   "op": "Arms control among the world’s leading nuclear powers should rest on written terms, public commitments and verifiable limits, not on a leaders’ photo opportunity. With New START lapsed and no deal expected, transparency is the real test. If the meeting yields only images, the public will have learned little about the risks it was meant to reduce.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-ba94a2c3f1ae1f4f",
+   "member_ids": [
+    "w-ba94a2c3f1ae1f4f",
+    "w-42b80b2e75c18f5d",
+    "w-a61501fbc50aff18",
+    "w-42e4ac49238fa49b"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-14T11:54:31+00:00",
+   "t": "Microsoft says services fully restored after day-long global outage hits governments",
+   "s": "Microsoft says its services have been fully restored after a worldwide outage disrupted governments, businesses and public services for about a day. The company apologised and blamed an issue linked to an earlier network upgrade.",
+   "p": [
+    "Microsoft said on Saturday that its services had been fully restored after a worldwide outage that disrupted governments, businesses and public services. The company said it had restored service to the remaining affected customers and regions, and that the underlying issue had been addressed.",
+    "The outage began on Thursday and lasted well over 24 hours, according to the reports. Ookla, a web testing and network diagnostics company, put the start at about 1725 UTC on Thursday. Downdetector, an outage tracker, logged more than 7.4 million problem reports worldwide. Users of Outlook, Teams and Copilot said they could not send emails, manage calendars or hold online meetings.",
+    "Public bodies in several countries reported problems. In the UK, hospital staff reportedly went back to paper records, and one union said ambulance services had suffered a “serious impact”. Courts were also hit, with some juries sent home early, according to the Guardian. In the US, the House of Representatives reportedly lost a day of legislative work, and school districts asked parents to contact schools by phone or app.",
+    "Australia’s federal police and its domestic spy agency, Asio, were affected. Asio’s director general, Mike Burgess, said the systems had been hit “on one level, yes, but not completely”. Government email services in Japan became unavailable, and staff reportedly switched to text messages. Agencies in the Netherlands, Belgium and France also reported difficulties, and Canada’s national rail network warned passengers they might not receive email updates.",
+    "Microsoft apologised for the disruption. It said the incident was introduced by an issue during an earlier network capacity upgrade, and that it was not related to a cyber-attack. Microsoft also said it had no indication that a US nationwide aviation ground stop on Friday was linked to the disruption, and a US homeland security official reportedly confirmed there was no link.",
+    "Experts said the event showed how much governments and businesses depend on a small number of large technology providers. Steven Murdoch, a security engineering professor at University College London, said outages of this size usually result from unexpected interactions between systems. Jeremy Singer of the University of Glasgow said it could prompt questions about how much resilience the IT ecosystem needs. Microsoft says a full post-incident report will follow once its review is complete."
+   ],
+   "cav": "Reported figures differ: one source counts more than 70 affected countries, another at least 74, and the total number of people affected was not clear. The cause is Microsoft’s own account and has not been independently verified. The full post-incident report is not yet published.",
+   "op": "Governments and hospitals have handed essential communications to a handful of providers, often with no fallback when those systems fail. Microsoft should publish its promised report with detail on the network change that triggered the failure and the safeguards that will prevent a repeat. Public bodies should publish contingency plans now, not after the next outage.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+  },
+  {
+   "id": "w-da7892f5f31a11e0",
+   "member_ids": [
+    "w-da7892f5f31a11e0"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-14T11:43:06+00:00",
+   "t": "Three killed in Belgorod drone attack as Zelenskyy says US raised NATO membership linked to Donbas",
+   "s": "Russian officials say three members of one household died in a Ukrainian drone strike in Belgorod. Separately, Zelenskyy says Washington tied NATO membership to a possible Donbas withdrawal.",
+   "p": [
+    "Russian officials report that a couple and their toddler died when a Ukrainian drone struck their residence in Proletarsky, a location in Belgorod roughly 20 kilometres from the frontier. The strike happened on Saturday. Russia’s defence ministry added that its forces downed 29 Ukrainian drones overnight, several of them over the Moscow region.",
+    "Kyiv’s air force gave a contrasting tally. It said Russia had launched 96 drones from Friday evening, and that 81 were downed or jammed by early Saturday. Strikes were logged at eight sites, with debris falling at two more. A regional power provider also reported outages in parts of northeastern Sumy.",
+    "On Friday, Zelenskyy told reporters, in remarks released under embargo until Saturday, that American negotiators at this week’s Abu Dhabi talks had asked whether Ukraine would give up its eastern Donbas troops in return for NATO membership. He described this as the first time the question had come up, adding that no concrete proposal existed. He said Ukraine would not pull its forces out, but might put the matter to a referendum if it secured firm security guarantees, military funding and reconstruction money.",
+    "Moscow demands that Kyiv leave territory it still holds, and it opposes Ukraine joining the alliance. Zelenskyy also ruled out amending the constitution to declare neutrality, arguing that such a step would not provide lasting safety.",
+    "US-brokered direct talks between the two sides resumed this week, fuelling hopes for an early end to the fighting. Beyond fresh prisoner exchanges, however, little visible progress has been reported. European representatives are due to join the next round."
+   ],
+   "cav": "The US question rests solely on Zelenskyy’s account, and the sources contain no confirmation from Washington. The casualty figures come from Russian authorities, and the two sides’ drone counts conflict and cannot be independently verified from the evidence.",
+   "op": "A family’s deaths deserve plain accounting, not competing talking points. Any arrangement trading occupied land for alliance membership must be negotiated openly, with the public and European partners informed rather than settled behind closed doors.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-45c521b7acedad65",
+   "member_ids": [
+    "w-45c521b7acedad65",
+    "w-b3597e97289d05ac"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-14T11:41:20+00:00",
+   "t": "Zelensky says Washington floated Donbas withdrawal in return for Nato membership",
+   "s": "Ukraine's president says American negotiators asked whether Kyiv would pull its remaining troops out of Donbas if it joined the alliance. He called the question new.",
+   "p": [
+    "Volodymyr Zelensky told reporters on Saturday that US negotiators had put a hypothetical question to Kyiv: would Ukraine withdraw from the eastern Donbas if it became a Nato member? He said this was the first time such a question had been raised, and he placed it within the broader diplomatic effort to end the war with Russia.",
+    "The remarks came after US envoys Jared Kushner and Steve Witkoff held talks with Russian President Vladimir Putin in Moscow. According to the BBC, they then travelled to Dublin on Thursday to meet Zelensky, which coincided with an EU summit in the Irish capital.",
+    "Kyiv has long wanted Nato membership as part of any settlement, arguing it would discourage future attacks. Moscow has called another Nato member on its border unacceptable. Zelensky has repeatedly said Ukraine will not give up sovereign land, even though Russia continues to demand the Donbas.",
+    "Zelensky added that he would put a proposal to a referendum if it offered security guarantees, no limits on Ukraine's armed forces and money for reconstruction. He said the American idea suggested “Nato is back on the agenda”, yet warned that Putin's signals showed how hard the talks would be.",
+    "Russia holds about a fifth of Ukraine's territory, including most of the Donetsk and Luhansk regions that form the Donbas. The remaining patches Ukraine controls there would carry symbolic weight, since handing them over would mean accepting Russian ownership of the whole area.",
+    "Putin and Kremlin officials appear to have kept their position unchanged. Moscow has previously set out limits on Ukraine's army, territorial concessions and guaranteed neutrality as terms for peace. Kyiv has refused these, saying they would weaken its ability to defend itself. Earlier, US officials had said Ukrainian Nato membership was not on the table.",
+    "Ties between Kyiv and Washington have been strained. Trump asked Ukraine to halt strikes on Russian oil facilities deep inside Russia, aiming to ease fuel prices that have climbed since the US and Israel attacked Iran in February. Zelensky later accused US officials of restricting Ukraine's Starlink service, and Trump called for new elections. Ukrainian elections are suspended under martial law, though Zelensky has said he would hold them within months of a peace deal."
+   ],
+   "cav": "The proposal rests on Zelensky's account; the evidence contains no direct confirmation from Washington. The sources also differ on where the latest talks happened: a second outlet places them in Abu Dhabi, while the BBC describes visits to Moscow and Dublin. That outlet also describes Donbas as a city, whereas the BBC calls it a region.",
+   "op": "Any proposal to trade sovereign territory for alliance membership goes to the heart of who decides Ukraine's borders. Such terms should be stated publicly, not relayed second-hand from private envoy meetings. Ceding ground under pressure would set a precedent that no lasting peace process should accept.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+  },
+  {
+   "id": "w-ff97d48934f03137",
+   "member_ids": [
+    "w-ff97d48934f03137",
+    "w-cc9b3440cdb37a3f",
+    "w-e7b299eff0f699e4"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-14T11:31:19+00:00",
+   "t": "Hungary seizes cash buried in forests in corruption probe linked to ex-minister Seszták",
+   "s": "Hungarian investigators say they recovered cash worth roughly $19.5 million, much of it dug out of forest ground, in searches tied to a former development minister under Viktor Orbán. The former minister is a suspect and has not been convicted.",
+   "p": [
+    "Hungarian authorities report that they took possession of more than €17.5 million in cash, stashed in multiple parts of the country. Among the hiding places was ground beneath forests. The National Asset Recovery and Protection Office (NVVH), an anti-graft body, ran the operation on 12 and 13 November across Budapest and the counties of Pest, Békés and Nógrád.",
+    "The searches form part of a criminal case against Miklós Seszták, who led Hungary’s development ministry from 2014 to 2018. Investigators said they found money in farm buildings, warehouses and private homes, as well as in a secure box in an isolated spot. The agency also released video of officers digging outdoors after nightfall.",
+    "The sums were counted in three currencies: 5,071,632,000 forints, €2,658,350 and $1,257,100. NVVH said the cash went to the state treasury. Finance Minister András Kármán wrote on Facebook that a team of 12 treasury staff needed eight hours, and five counting machines, to tally it.",
+    "Investigators suspect that between 2015 and 2018 Seszták and the head of Hungarian National Asset Management received more than 11 billion forints in improper payments from firms working under contract to Volánbusz, a national bus operator. Al Jazeera, drawing on the same probe, puts the alleged bribes and kickbacks above $37.2 million, linked to inflated prices for used buses and state construction work. These are allegations that no court has tested.",
+    "Seszták has been held since a court ordered his detention on 30 September at the agency’s request. In October, officers searched his home in Kisvárda and reportedly found safes of the kind typically used by lenders and pawnbrokers. In late October the court extended his custody to 30 January, pointing to the gravity of the case and a concern that he could abscond.",
+    "Prime Minister Péter Magyar, whose Tisza party unseated Orbán in April after 16 years in office, presented the seizure as a sign that the era of abuse was ending. Orbán, for his part, has accused the government of using the investigations to drive him from public life, and has called the cases against his circle political persecution. Other former ministers and Gyorgy Matolcsy, ex-head of the central bank, have also been arrested in separate matters. Matolcsy denies any wrongdoing.",
+    "A survey by the pollster Median for the Hungarian outlet HVG found that 70 percent of respondents see probing alleged corruption under Orbán, and holding those involved answerable, as highly important. According to the Guardian, Orbán had not responded publicly to the latest seizure."
+   ],
+   "cav": "The sources give the total differently: Euronews states it in euros as more than €17.5 million, while the Guardian and Al Jazeera put it at about $19.5 million. The bribery figures are investigators’ suspicions as relayed by the media, and the reports do not explain how the seized cash connects to those payments. Orbán’s description of the probes as political persecution is his own position and has not been independently checked.",
+   "op": "A pile of cash in a forest is not proof of guilt, and headline totals should never substitute for evidence. Hungary’s new government will earn lasting public trust only if every search, detention and charge stays open to independent courts and public scrutiny, whoever sits in the dock.",
+   "confirmed": true,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/14/hungary-seizes-millions-in-cash-found-buried-in-forests-amid-corruption-investigation"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+  },
+  {
+   "id": "w-db67b4f4eacea579",
+   "member_ids": [
+    "w-db67b4f4eacea579",
+    "w-83583acc124c4da6",
+    "w-21653ceabd593c5b"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T11:30:10+00:00",
+   "t": "Cruise ship capsizes after tanker collision in New Orleans; officials report all passengers accounted for",
+   "s": "A cruise ship was struck by a tanker while docked in New Orleans on Friday and partly sank, but officials say everyone on board has been accounted for. The cause is under investigation.",
+   "p": [
+    "A cruise ship docked in New Orleans was struck by a vessel on Friday, and officials said everyone on board had been rescued. The American Heritage, a paddlewheel boat operated by American Cruise Lines, was hit near the Port of New Orleans and went over onto its side, according to footage shared widely online. Video shows the vessel taking on water and people in life jackets swimming toward rescuers.",
+    "Reports differ on the vehicle involved. The BBC and Euronews describe a tanker, while DW names the freighter Atlantic Asphalt as the ship that hit the cruise boat. All sources agree the cruise ship was docked when the impact happened.",
+    "The number of people involved also varies between reports. The BBC said about 130 people were rescued and that 32 were taken to hospital with non-critical injuries. DW said more than 30 people were hospitalised and that at least 180 passengers and crew were rescued. The Port of New Orleans, quoted by Euronews, said all 197 passengers and crew had been accounted for and that no critical injuries had been reported. Those figures have not been reconciled in the sources.",
+    "New Orleans Mayor Helena Moreno told reporters that, based on the information available, no one was unaccounted for, calling it “a miracle on the Mississippi.” She credited harbour police who entered the water first, along with firefighters and nearby vessels that helped pull people out. A local witness, Devon Flanagan, told AP that the scene was chaotic, with many boats trying to help while people were still in the water.",
+    "According to AP, as cited by DW, the cruise ship was built in 2015, is five stories tall and can carry up to 150 passengers. It was finishing an eight-day trip to several destinations in Louisiana and Mississippi. The BBC reported that a possible steering fault is suspected, but that the cause remains under investigation. US Homeland Security Secretary Markwayne Mullin said on social media that his department was coordinating closely with state officials and devoting resources to the rescue effort.",
+    "The operator said in a statement that guests and crew had been evacuated and that it was deeply concerned for everyone involved. The Port of New Orleans described the response as a display of courage and coordination, and said the incident could have been far worse."
+   ],
+   "cav": "The sources disagree on the number of people rescued and on whether the vessel that struck the cruise ship was a tanker or a freighter. The steering fault is only a suspicion reported by the BBC, and the Port’s account comes from social media posts rather than a formal report.",
+   "op": "The cause is still unexplained, and a suspected steering fault is exactly the kind of question that must be answered in public. Investigators should publish their findings, so passengers and port workers can judge whether the safety rules that protect them were properly applied.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
+  },
+  {
+   "id": "w-de5a8f73694fe50c",
+   "member_ids": [
+    "w-de5a8f73694fe50c"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-14T10:35:08+00:00",
+   "t": "Zelenskyy says US floated ceding Ukrainian land to Russia in exchange for NATO membership",
+   "s": "Ukrainian President Volodymyr Zelenskyy said Washington had proposed that Ukraine cede land to Russia in return for NATO membership, an idea he said had not been raised before. Moscow appeared to dismiss the notion.",
+   "p": [
+    "Zelenskyy told reporters on Friday that the United States had asked whether Ukraine would withdraw from Donbas if it joined NATO. According to AFP, which reported his remarks, the comments were embargoed until Saturday. He described the question as the first time such an idea had been raised.",
+    "Zelenskyy also said Ukraine was discussing specific security guarantees with NATO and the European Union. He added that he would ask Ukrainians whether they accepted the terms if Western nations confirmed them.",
+    "The remarks follow a meeting in Moscow earlier this week between Russian President Vladimir Putin and US special envoys Steve Witkoff and Jared Kushner. Putin signalled that Russia would not back down on its territorial demands in parts of Ukraine and rejected foreign peacekeeping troops in the country.",
+    "The envoys then met Zelenskyy in Ireland on Thursday. The three sides said Europe would have a “voice” in future peace negotiations. Kushner wrote on X that this would allow talks to address wider postwar European security arrangements alongside territorial issues.",
+    "Russian foreign ministry spokesperson Maria Zakharova cast doubt on the proposal, saying the issue was not discussed in the Moscow talks as far as her department was aware. Presidential aide Yuri Ushakov said the European position had been comprehensively outlined and that Europeans must decide whether they want peace or the continuation of the war."
+   ],
+   "cav": "The land-for-membership proposal rests on Zelenskyy’s account; the evidence contains no US confirmation of it. Zakharova’s denial is qualified by “as far as her department was aware”, so the Kremlin’s position on whether it was discussed remains unclear.",
+   "op": "Any deal that trades territory for alliance membership should be negotiated openly, with Ukrainians given a real say through a transparent process. Who proposed what, and on what terms, is exactly what the public needs to know before any settlement is presented as a done deal.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    ]
+   ]
+  },
+  {
+   "id": "w-eb8c50bd752518ed",
+   "member_ids": [
+    "w-eb8c50bd752518ed"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-14T07:21:27+00:00",
+   "t": "FAA nationwide ground stop scrambles college, NBA and NHL travel ahead of busy weekend",
+   "s": "A several-hour nationwide halt to US flights on Friday left college, NBA and NHL teams rushing to reach games, forcing rescheduled kickoffs, bus trips and hotel searches. Transportation officials blamed communications problems at regional air traffic control centres.",
+   "p": [
+    "The Federal Aviation Administration grounded all flights nationwide for several hours on Friday, disrupting sports travel across the United States just before a packed weekend of games. Transportation officials cited “extraordinary circumstances” caused by communications issues at regional air traffic control centres.",
+    "The effects were varied. Some teams searched for hotel rooms, others rebooked flights, and leagues adjusted start times. Several college football programmes chose to charter buses rather than wait for the stoppage to end.",
+    "The most visible fallout was in college football. Mississippi’s game at Oklahoma was moved from Saturday to Sunday at 1pm ET because of travel issues. Oklahoma athletic director Roger Denny said in a statement on X that the Southeastern Conference had threatened a forfeit if Oklahoma did not agree to the change, and he said the decision “isn’t fair to our athletes”.",
+    "The Southeastern Conference said it was aware of the ground stop and its possible impact on team travel, adding that the safety and well-being of players and staff remained its highest priority. Auburn took a bus to Mississippi State, and the conference pushed that kickoff back from noon ET to 4.15pm. Purdue also travelled by bus to Iowa.",
+    "Other schools changed plans as well. The Big 12 moved Kansas against West Virginia earlier and pushed Arizona State against UCF later, giving the Sun Devils more time after a delayed flight. Washington returned to campus when its flight was grounded and left late on Friday for Michigan State, with that game moved back 75 minutes.",
+    "In the NBA, the Cleveland Cavaliers were forced to postpone their return flight from Miami until Saturday morning, leaving them due to land about eight hours before a home game against the Dallas Mavericks. Team officials had to rebook hotel rooms after checking out earlier in the day. The NHL said most of its teams had reached their destinations before the stoppage, while the San Jose Sharks arrived in Utah late on Friday.",
+    "Women’s basketball and soccer were also affected. Southern California was boarding in Los Angeles when the ground stop was issued, and the team returned to its arena after an extended wait. The Kansas City Current were unsure when their flight would be cleared. The US men’s national team’s match against Haiti in Miami was not affected.",
+    "The sources describe the disruption in detail but do not give a full account of how the FAA decided on the stoppage or how long the aviation problems lasted beyond the several hours reported."
+   ],
+   "cav": "The account relies on one outlet’s reporting. The FAA itself is not quoted directly; the cause is attributed to transportation officials. Denny’s claim about a forfeit threat comes from Oklahoma and is not confirmed by the conference beyond its general statement.",
+   "op": "Decisions affecting thousands of travellers were made in hours, with little public explanation of the fault. Transparent reporting from the FAA on what failed and why would let teams and fans judge whether the response was fair.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/019db629cb7bd074ac5aeef496db58c47c0bcacd/600_0_2832_2268/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=a4c1b592aa7df843f66446fe229fcee4",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
+  },
+  {
+   "id": "w-fd8ce9f123e3aa3b",
+   "member_ids": [
+    "w-fd8ce9f123e3aa3b"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-14T07:11:26+00:00",
+   "t": "Manchester Christmas traders explain why market food costs more, and say their margins are thinner",
+   "s": "Stallholders at Manchester's festive markets blame higher wages, ingredient costs and energy bills for steeper menu prices, and some say they are taking home less despite charging more. Shoppers interviewed by the BBC are divided on whether the portions justify the cost.",
+   "p": [
+    "Menus at Christmas markets have drawn complaints in recent years, with the BBC pointing to dishes such as an £8 bratwurst, an £11 Yorkshire pudding wrap and £5 for a handful of marshmallow sticks. The broadcaster asked traders in Manchester how they see the increases from behind the counter.",
+    "Nils Borstel, 25, works in Bratwurst King, a family firm that has been at the markets since 1999. He told the BBC that a sausage once sold for £3.50 and now costs £8, with most of that climb happening in the last five or six years. His family runs four stalls in the city centre, and he said higher prices for meat, power, staff and accommodation had left them little choice.",
+    "Borstel said about 15 workers come over from Germany to staff the stalls, joined by people hired locally. Even with large crowds and dry weather over the opening weekend, he felt shoppers were more careful with their money than before, and some now split a single portion between them. He said he had noticed the shift since 2019, when buyers were less concerned about what they paid for food and drink.",
+    "Two shoppers gave the BBC contrasting views. Neve, a student, said one dish had cost her roughly £15, while Poppy, who is currently on a gap year, paid £11 for a Yorkshire pudding wrap. Poppy said the food was enjoyable but that the amount felt small for the price. Neve, though, had sympathy for the sellers and suggested that the cost of renting pitches could push prices higher still.",
+    "Charlotte Whittle, director of CT Catering, has been trading at the markets for a decade and now operates four stalls. By her account, each stall costs at least £1,000 a day to keep running, which puts her daily outgoings at a minimum of £4,000. She listed wages, accommodation, deliveries, storage, packaging and card fees as part of that, and said keeping three vans parked in the city centre alone could cost £100 a day.",
+    "Whittle said her firm spends about two weeks readying its stalls before the season opens and another two weeks taking them down afterwards. She said the price of stock and packaging has climbed considerably over the years. She had raised some prices but absorbed part of the rise to avoid losing customers, and she argued that street food now matches restaurant food in quality. She also believes shoppers often underestimate the effort involved. According to the BBC, her company employs 57 people across four sites in Manchester.",
+    "Clark Murphy, whose family has sold at the markets for 22 years, runs Mr Crimble Crumble from two stalls selling fruit crumbles. The BBC material available does not include details of his costs or prices."
+   ],
+   "cav": "The figures come from individual traders and shoppers interviewed by the BBC, not from an independent survey, so they cannot be taken as representative of all market stalls. The report does not say how much Murphy's business charges or spends, and the claim that costs have risen most in the past five or six years is the trader's own account.",
+   "op": "Customers are entitled to ask whether a £15 dish or an £11 wrap is fair value, and traders are entitled to explain their costs. Transparent pricing, with clear portion sizes and published costs, would let both sides judge the trade honestly instead of trading accusations over the counter.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35a/live/9818c800-deaf-11f1-8fb5-a771a656a227.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
+  },
+  {
+   "id": "w-23ecfc7f2a7a6454",
+   "member_ids": [
+    "w-23ecfc7f2a7a6454"
+   ],
+   "section": "World",
+   "published_at": "2026-11-14T07:00:40+00:00",
+   "t": "Shenzhen summit revives Yalta comparisons as Trump, Xi and Putin prepare to meet",
+   "s": "A possible trilateral meeting of Donald Trump, Xi Jinping and Vladimir Putin at the Apec summit in China has prompted warnings that excluded countries could be traded away. The Guardian’s analysis argues that the talks reflect a search for a new order built on spheres of influence.",
+   "p": [
+    "According to The Guardian, Trump, Xi and Putin are expected to meet on the sidelines of the Apec summit in Shenzhen, China, next week. Ukrainian President Volodymyr Zelenskyy is among those who have voiced concern that the meeting could become a “Yalta 2.0” moment, a reference to the 1945 conference in Crimea where the wartime powers reshaped postwar Europe.",
+    "The article’s central argument is that countries absent from the table, including Ukraine, eastern European and Baltic states, Taiwan and Iran, have reason to fear that their backers could trade their interests away. The writer describes Putin as a long-standing advocate of recreating the Yalta format, and says Trump appears to be receptive to the idea.",
+    "Russia’s chief negotiator, Vladimir Medinsky, was quoted on Russian television describing the goal as a “comprehensive system of comprehensive security” in Europe, which he said could become a new Yalta or Potsdam. Russia’s foreign ministry spokesperson, Maria Zakharova, suggested the summit could mark a turn away from chaos towards stability, according to the article.",
+    "The Guardian notes that no one is sure what will come of a meeting, or whether China will allow anything beyond formal statements. The article reports that Beijing is already seeking to keep nuclear disarmament off the agenda.",
+    "The piece places the original Yalta conference in a critical light, recalling how Franklin D Roosevelt accepted Soviet influence in Poland in return for support on a new international organisation and on the war against Japan. It also cites a 2005 speech by George W Bush that condemned Yalta for consigning millions to communist rule. The writer says that tradition has since been set aside by Trump, whose 2025 national security document reportedly endorsed spheres of influence and named the western hemisphere as America’s domain.",
+    "According to the article, the United States and Russia are both looking to China to help them disentangle from wars that have damaged them. The writer attributes the Iran conflict to what he calls Trump’s overreach, a judgement presented as analysis rather than established fact. Commentators quoted in the piece offer differing views on China’s likely role, from Minghao Zhao’s non-interference stance to Wang Huiyao’s argument that China is needed to stabilise the situation.",
+    "The article contends that China is unlikely to endorse a settlement reached without Europe, and that its efforts to repair ties with the European Union could be jeopardised by backing Putin’s vision of a new security architecture. Charles Kupchan of the Council on Foreign Relations is quoted as saying that more Yalta-style arrangements may be the future, while John Ikenberry is cited as rejecting such carve-ups in favour of a democratic alliance."
+   ],
+   "cav": "The summit had not yet taken place when the article was written, and the meeting was described only as expected. Much of the analysis rests on the writer’s interpretation of intentions in Moscow, Washington and Beijing, and several views are quoted second-hand from officials and academics. The Iran war characterisation is the writer’s judgement, and the sources disagree on whether China will take a stabilising role.",
+   "op": "Settling the fate of smaller states behind closed doors is the wrong lesson to relearn from Yalta. Any talks that touch on the sovereignty of Ukraine, Taiwan or others should not proceed without those countries at the table. Openness about what is discussed, and a firm assurance that nothing is decided over their heads, is the minimum test for Shenzhen.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/313e49f004e036f03234b3463d1a7fff49365024/536_0_5148_4119/master/5148.jpg?width=140&quality=85&auto=format&fit=max&s=aa8808f830d7f0fabe15cc8689a8e5de",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
+  },
+  {
+   "id": "w-315e43dca758242d",
+   "member_ids": [
+    "w-315e43dca758242d"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T03:11:28+00:00",
+   "t": "No deaths reported after tanker hits river cruise ship in New Orleans, officials say",
+   "s": "All passengers and crew were accounted for after an oil tanker collided with a docked river cruise ship on the Mississippi River in New Orleans on Friday afternoon. Officials said none of those taken to hospital had critical injuries.",
+   "p": [
+    "The Atlantic Asphalt tanker struck American Cruise Lines’s American Heritage at about 12.30pm, according to New Orleans mayor Helena Moreno, who spoke at a news conference near the scene. Moreno called the outcome a “miracle on the Mississippi” and said that no passengers or crew were unaccounted for.",
+    "Thirty people who were reported injured had been on the American Heritage, and they were said to have mostly had bumps and bruises. Two other injured people were harbor police officers who had boarded the riverboat to help with rescue efforts. Moreno credited a fast, multi-agency rescue effort for the fact that many people ended up in the cold, fast-moving river.",
+    "The Port of New Orleans said the American Heritage had 197 passengers on board when it was hit. According to port press secretary Kimberly Curth, the ship had docked about two hours earlier to begin disembarking passengers.",
+    "Officials have not yet said what caused the collision. US Coast Guard commander Melanie Burnham said the tanker apparently had “some type of loss of steering”, an account that has not been independently confirmed.",
+    "Video obtained by the Guardian’s reporting partner WWL Louisiana appears to show the tanker striking the side of the cruise ship, which then rolled onto its side. A witness, Jamie Holford, told WDSU that it took about 15 minutes from impact until the ship rolled over.",
+    "Martin J Davies, a maritime law expert at Tulane University, said local pilots are normally on board ships travelling the Mississippi. He said the tanker was moving slowly upriver against the current and that its movements suggested something had “gone really badly wrong”. Davies also said the tanker was fortunate not to hit the nearby Crescent City Connection bridge.",
+    "Passenger Tamara Carrasco told a local journalist she was dining on the first floor when she saw the tanker approaching. She said the tanker dropped its anchor and that its crew ran away across the deck. Moreno said many passengers lost identification, car keys, phones and other belongings, and that most were visitors from out of town.",
+    "Louisiana governor Jeff Landry also described the outcome as a miracle, especially given the number of people on board who had to be brought out of the water."
+   ],
+   "cav": "The cause of the crash is not confirmed. The steering problem is an apparent observation by the Coast Guard, and much of the account comes from video, witnesses and an outside expert rather than from an official investigation.",
+   "op": "Credit is due to the rescuers, but luck should not stand in for accountability. A tanker apparently losing steering on a difficult river bend raises questions about vessel maintenance and pilot oversight. Investigators should publish what failed and why, so the next near-miss does not depend on a miracle.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+  },
   {
    "id": "w-129a3b37b25ba195",
    "member_ids": [
@@ -1088,135 +1458,6 @@
    "img": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=140&quality=85&auto=format&fit=max&s=bd9bf292cf33c1587045e8b11d8862a5",
    "img_outlet": "The Guardian",
    "img_link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
-  },
-  {
-   "id": "w-f3c5272ca1471829",
-   "member_ids": [
-    "w-f3c5272ca1471829",
-    "w-4b1d44aca4783819"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-12T12:26:01+00:00",
-   "t": "Israeli strike on Nasser hospital in Gaza kills six, health ministry says",
-   "s": "Six people were killed and about 20 wounded in an Israeli air strike on Nasser hospital in southern Gaza, according to the health ministry run by Hamas. The Israeli military says it struck a Hamas commander and fighters it accuses of using the hospital as a base.",
-   "p": [
-    "The health ministry in Hamas-controlled Gaza says an overnight Israeli strike on Nasser hospital in the south of the territory killed six people, among them medical staff, patients and people who had accompanied them. Around 20 others were hurt, the ministry said. It named surgeon Dr Rizq Abu Shaira as one of the dead and called the strike a clear breach of international law and conventions.",
-    "The hospital’s director, Dr Ahmed al-Fara, told a news conference that Israeli forces fired two missiles at the al-Yasin surgery building, but only one detonated. A paramedic from the Civil Defence agency, which is also run by Hamas, described on social media a projectile that pierced the five-storey building and landed in a room of the surgical unit. Footage circulated by activists showed dense smoke and heavy damage on the second floor, and news agencies ran photographs that seemed to show a missile that had not gone off.",
-    "Dr Mohammed Qdeih, a general surgeon who was hurt in the head, told the BBC that he and his colleagues had finished their shift shortly after half past midnight and were getting ready to rest when the blast hit. He said he was pinned beneath debris and freed himself in total darkness. He had been lying close to Dr Abu Shaira, and another colleague broke a leg.",
-    "The Israeli military said its precise strike was aimed at the commander of Hamas’s Khan Younis Brigade, Mohammed Abu Ismail, and other fighters it said were sheltering in the hospital. In its account, Hamas had turned the complex into an operational headquarters from which it planned attacks on Israeli troops. The military also said it had sent advance warnings and published an audio recording of one it said was passed to a senior Gaza health official. Fara countered that the hospital had received no warning at all.",
-    "Hamas dismissed the Israeli claims as a cover story for an attack on a civilian medical site whose role is widely known. Hospitals hold protected status under international law, yet the sources point out that they have been hit again and again during the war in Gaza. Israel alleges that Hamas keeps weapons and command centres inside hospitals; Hamas rejects this.",
-    "None of these accounts can be checked independently. Israel bars international media, the BBC among them, from entering Gaza, so the details here come mainly from hospital staff, health officials, witnesses, local footage and the military’s own statements."
-   ],
-   "cav": "Casualty figures differ: the health ministry put the injured at about 20, while NPR’s summary says dozens. Most claims about the strike, the warnings and the presence of fighters come from the parties involved and could not be independently verified. The surgeon’s name is spelled differently in some reports.",
-   "op": "A hospital is supposed to be the one place in a war that no side may treat as a target. Whatever the militants were doing inside, the burden is on Israel to prove its claims with evidence that can be examined. Without independent access to Gaza, that proof is still missing.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
-  },
-  {
-   "id": "w-ebe5e909196caf63",
-   "member_ids": [
-    "w-ebe5e909196caf63"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-12T12:15:40+00:00",
-   "t": "Bomb threats empty schools in Italy and France; Macron says too soon to blame foreign powers",
-   "s": "Hoax bomb threats sent to schools in Italy and France on Thursday led to evacuations, while French President Emmanuel Macron said it was too early to attribute the campaign to foreign states.",
-   "p": [
-    "Head teachers in Italy woke to another batch of bomb threats by email on Thursday. Some institutions sent pupils and staff out of the building, while others stayed open as authorities inspected them. The notes carried the signature “Mikhail Andropov”, which had also turned up the previous day in inboxes at 6,300 Italian schools. Hundreds of those schools opted to clear their buildings.",
-    "Prime Minister Giorgia Meloni summoned ministers and opposition leaders to Palazzo Chigi, her Rome office, early on Thursday to address the crisis. Reports of the gathering said she urged every party to close ranks and pledged that the foreign, defence and interior ministers would brief parliament without delay. Her government also announced that the Interministerial Committee for the Security of the Republic would convene later that day to settle a shared procedure for such alerts.",
-    "The draft procedure would bar evacuations when a mass email is the sole warning sign. Prefects, the central government’s representatives in each province, would keep the power to order an evacuation if specific and concrete dangers emerged. Elly Schlein, who leads the centre-left Democratic Party, said her camp would cooperate against threats meant to unsettle the country. She added, however, that the opposition would not sign a “blank cheque” and that it had seen no concrete proposals.",
-    "Schools in France were also emptied on Thursday after threats, according to local outlets. The education ministry told Le Parisien that it had logged two threats that day and dismissed the idea of a mass-scale campaign there. In Marseille, the Don Bosco high school was cleared in the morning, and police plus a bomb disposal unit were later reported on site. In Morez, in the Jura mountains, a high school and a nearby middle school were evacuated after the administration described an email as “disturbing”. In Laon, a university technology institute was also cleared that morning.",
-    "Speaking to reporters at a gathering of European leaders in Dublin, Macron said there was not yet enough evidence to point to a state actor. “We cannot say if foreign powers are behind these calls,” he said. The sources note that the hoaxes have extended beyond schools to aviation."
-   ],
-   "cav": "The sources do not say who sent the emails or whether any threat was credible. The French details come from regional newspapers as relayed by the source report, and the Italian protocol was still a proposal when reported.",
-   "op": "Hoax threats that empty classrooms are a serious matter, but emergency rules must not be written in haste. Parliament should scrutinise any protocol that limits evacuations, and the government should publish its criteria. Public trust depends on openness, not on blank cheques from either side.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/12/italy-hit-by-second-day-of-school-bomb-threats-as-meloni-summons-opposition"
-    ]
-   ]
-  },
-  {
-   "id": "w-32d9a25b04c41f04",
-   "member_ids": [
-    "w-32d9a25b04c41f04"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-12T11:21:25+00:00",
-   "t": "Nvidia Faces Succession Questions as Jensen Huang Is Engulfed in Scandal",
-   "s": "Nvidia, the chipmaker, is weighing who could lead it if co-founder Jensen Huang steps down amid a scandal over reported extramarital affairs. Analysts have floated a short list of internal and external candidates.",
-   "p": [
-    "Nvidia is confronting a scenario that few would have considered until recently: a future without Jensen Huang as chief executive. Huang is the co-founder of the chipmaker and is at the centre of a major scandal over reports of extramarital affairs, one of which reportedly involved a woman suspected of being a Chinese spy.",
-    "Finding a successor is difficult. Huang helped build the business more than three decades ago, and it has become the world's second most valuable company, behind Apple.",
-    "The most frequently mentioned interim option is Colette Kress, Nvidia's chief financial officer and executive vice president. Kress has worked in the industry for more than 30 years, including senior roles at Cisco and Microsoft, and has taken part in the company's shift from making chips for video games to becoming a major semiconductor maker. Josh Gilbert, an analyst at eToro, described her as a \"familiar and trusted voice for the market\" and said she could help steady investor confidence, although he doubted she would be the right permanent choice because the company might want an engineer in charge.",
-    "Other internal names were raised. Chris Malachowsky, who co-founded Nvidia with Huang and Curtis Priem, is described as the only executive with the same level of seniority, and he has played a key role in developing the company's computing technology. Ian Buck, who runs the high-performance computing business, was also cited as a candidate if the board prefers an engineer. Charu Chanana, an investment strategist at Saxo, warned that Buck could protect the technological edge but might face scrutiny over his handling of commercial relationships and geopolitical challenges.",
-    "Outside candidates were also proposed. Jun Bei Liu of Ten Cap suggested Tim Cook, Apple's former chief executive, though she questioned whether he would leave Apple, where he is chair. Both Liu and Chanana pointed to Rene Haas, chief executive of Arm Holdings, who has experience running a publicly listed company and has semiconductor expertise, although Chanana noted that Nvidia's business model differs considerably from Arm's.",
-    "Liu said Nvidia is likely to favour an internal appointment at first and may look outside for a longer-term replacement. She also argued that the issue has moved beyond personal conduct. \"It is about corporate governance, national security concerns and maintaining confidence,\" she said, adding that the company is strategically important. She believes Huang's departure as chief executive is a matter of time rather than doubt.",
-    "Investors have responded. Several major investment firms have cut their forecasts for the chipmaker, which is unusual given the long-running optimism about the company. Stacy Rasgon of Bernstein Research wrote to clients that the team probably had not yet fully explored what might be uncovered, a remark that suggests more revelations could follow."
-   ],
-   "cav": "The reports about Huang's personal conduct and the alleged link to a suspected spy are described in the article as reports, and the details are not independently confirmed here. The succession names are analysts' speculation, not statements from Nvidia, and the piece does not say Huang has decided to step down.",
-   "op": "A company of Nvidia's weight owes investors and regulators a clear account of how it will handle this leadership question. Governance should rest on transparent process, not on rumour or market nerves. The board should disclose what it knows and how it will choose a successor.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
-  },
-  {
-   "id": "w-e4bdd74b3f4e06ed",
-   "member_ids": [
-    "w-e4bdd74b3f4e06ed",
-    "w-c96019c619482407"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-12T10:36:33+00:00",
-   "t": "Baby buried in dog crate in South Carolina found alive after about 24 hours, father a suspect",
-   "s": "An 11-month-old boy has been rescued alive after reportedly spending about a day underground in a dog crate in South Carolina. Police say his father, who is in custody, left him there.",
-   "p": [
-    "An 11-month-old boy was found alive in woodland in South Carolina after about 24 hours buried in a dog crate, according to local officials. Police say the child was left there by his father.",
-    "Koah was found on Tuesday on a neighbour’s property, crying and covered in dirt, his grandfather John Comer told the Associated Press. The boy’s name is spelled Sharp in one report and Sharpe in another.",
-    "Lexington County Sheriff Jay Koon said rescuers found freshly disturbed soil and heard crying from beneath the ground after a full day of searching by dozens of emergency workers. He said the boy was “clinging to life” when he was freed, and he expects a full recovery.",
-    "The sheriff said the boy had probably survived because of cool temperatures and an air pocket created by a towel wrapped around the crate. He did not say how long the crate had been underground beyond the roughly 24-hour estimate.",
-    "The boy’s father, 25-year-old Michael Comer, is described by one outlet as having been charged with attempted murder. Another outlet reports that he was arrested on a burglary charge on Monday evening, without the child. Neither account gives a motive, and it was not immediately clear whether he had a lawyer. A court hearing was scheduled for Thursday.",
-    "According to authorities, the boy had been in the care of Comer’s mother, who left him with her son while she ran an errand. Koon said that when a second carer arrived, Comer and the child had gone. Surveillance footage from local businesses showed Comer without the baby on Monday afternoon.",
-    "The accounts differ on custody. Comer’s mother told NBC News that the child’s mother had full custody but allowed her to supervise, and that her son had watched the baby before without problems. Koon said the parents had “obviously some issues”, and court records show Comer had earlier pleaded guilty to domestic violence charges.",
-    "John Comer said he had taken in his son and grandson on Monday, and he now feels he was taken advantage of. Relatives said Comer had talked about going to New York, and they assumed he had handed the child to someone else when the boy disappeared."
-   ],
-   "cav": "The charge is reported differently across sources, with one citing attempted murder and another a burglary arrest, and no official charging document is cited. Custody claims come from the suspect’s mother and remain unverified.",
-   "op": "A child survived a buried crate by chance and by a rescue that moved quickly, not because any safeguard worked. When a father is accused of such an act, the public deserves a clear account of charges, custody and prior warnings. Courts and sheriffs should explain those facts openly, not leave them to relatives and conflicting reports.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/12/baby-buried-in-dog-crate-in-us-found-alive-after-24-hours"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
   }
  ]
 }
