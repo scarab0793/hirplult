@@ -1,6 +1,347 @@
 {
- "updated_at": "2026-11-15T12:56:43.631424+00:00",
+ "updated_at": "2026-11-15T19:27:26.774907+00:00",
  "items": [
+  {
+   "id": "w-2040d82e72f01ad6",
+   "member_ids": [
+    "w-2040d82e72f01ad6"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T19:12:00+00:00",
+   "t": "Czech Protesters Rally Against Plan to Scrap Broadcasting Fees",
+   "s": "Organizers said between 350,000 and 450,000 people joined a protest in Prague against the government’s plan to abolish broadcasting fees. The plan would finance public broadcasters from the state budget instead.",
+   "p": [
+    "Organizers said between 350,000 and 450,000 people took part in a protest in Prague against the government’s plan to abolish broadcasting fees in Czechia. Many travelled from other cities by bus and train, leaving public transport overcrowded.",
+    "Protesters argue the plan could place public broadcasters under the control of the right-wing government led by Prime Minister Andrej Babis. Babis defended the proposal last week, saying his government is not interested in controlling or nationalizing public media, and called the protesters’ claims untrue. Foreign Minister Petr Macinka accused the organizers of turning demonstrations into a business model.",
+    "Under the plan, public broadcasters would be funded from the state budget rather than through fees. The government argues that editorial independence will not be affected and that broadcasters need to cut costs. The suggested reform would reduce public media’s budget by 15 percent, and critics say the government wants more influence over the outlets.",
+    "Since the plan was introduced in April, several large protests have taken place, and Czech TV and radio held a one-day strike against it. The European Broadcasting Union, the European Federation of Journalists and Reporters Without Borders have all criticized the proposal.",
+    "The governing coalition consists of Babis’s ANO party, the far-right SPD and the Eurosceptic Motorists. Polls show ANO still has around 30 percent support, even as the protests targeted the coalition. According to the Reuters Institute Digital News Report 2026, trust in media in Czechia is low, at 30 to 33 percent, though public broadcasters are still regarded as “the most trusted brands.”"
+   ],
+   "cav": "The protester and organizer figures are unverified claims, and the sources do not give an independent count. The claim that the government seeks control of public media is the view of critics and protesters, while the government denies it.",
+   "op": "Funding public broadcasters from the state budget may be defensible on cost grounds, but it hands ministers a lever over the newsroom. Before any cut takes effect, the government should show in public how editorial independence will be protected.",
+   "confirmed": false,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-12d8b53e40e3ec34",
+   "member_ids": [
+    "w-12d8b53e40e3ec34",
+    "w-b21a48550a967fd7",
+    "w-d4ef77392209e031"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-15T19:11:03+00:00",
+   "t": "Spain and England meet in Madrid with top spot in Nations League Group A at stake",
+   "s": "England and Spain meet in Madrid in the final group game of the UEFA Nations League, with both sides already through to the quarter-finals. The Guardian’s live coverage gives the lineups and Thomas Tuchel’s pre-match comments.",
+   "p": [
+    "The match is scheduled to kick off at 7.45pm GMT in Madrid. Both teams have already qualified for the last eight, so the contest is about who finishes first in the group. According to the Guardian’s live blog, the group winner will face an unseeded side in the quarter-finals, with the second leg played at home. The competition resumes at the end of March.",
+    "Tuchel told ITV that “it’s a beautiful match”, and the Guardian’s preview argues that England have a good chance because of how Spain have set up. Spain are without Rodri, and Pedri is not in the squad, with Mikel Merino coming in for Fermín López. Lamine Yamal returns after being rested for the 2-0 win away to Czechia, and Oyarzabal starts as the centre-forward.",
+    "Spain are set to line up in a 4-3-3 with Unai Simon in goal, Marc Pubill, Cubarsi, Aymeric Laporte and Cucurella in defence, and Zubimendi, Fabián Ruiz and Merino in midfield. Pedro Porro, important at the World Cup, drops out. England pick a 4-2-3-1 with Jordan Pickford replaced by Trafford in goal, and a Konsa and Quansah centre-back pairing. Dan Burn is left out, Ben White starts at right-back, and Lewis Hall plays at left-back. Declan Rice and Elliot Anderson form the double pivot, with Kane leading the line.",
+    "The Guardian’s preview points to Kane dropping deep and Gordon and Rogers attacking the space behind Spain’s high line. The writer expects Spain to try to pull England’s midfielders wide, which the England side must avoid doing. The preview also says Spain’s defence was exposed at Wembley, where Spain won 3-2 and Harry Kane missed a penalty that would have made it 3-1 to England.",
+    "The fixture comes after England’s defeat in the World Cup semi-final, which the Guardian’s writer describes as a painful failure. That loss, and England’s earlier defeat in the Euro final, are used as reasons to ask whether the team can impose its own game rather than wait for the match to end.",
+    "Al Jazeera also has a live page for the fixture, but the material available to us for that outlet consists only of a summary and team-news headline, so its account of the match adds little beyond confirming the fixture and its status as the final group game."
+   ],
+   "cav": "Most of the detail comes from a Guardian live-blog preview that mixes reporting with the writer’s opinion, so the tactical predictions are the author’s expectations, not confirmed plans. The Al Jazeera pages offered only short summaries, and no final score or result is available in these sources.",
+   "op": "England’s tournament record should not be reduced to a single result, but the pattern the Guardian describes deserves scrutiny. Tuchel’s side must show it can play its own game rather than retreat, and the accountability for that choice belongs in public view.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/eb25859a484613d72c89348a46cf89f5e6032344/252_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=e3687b3721512af69b3aaf271a206b0e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
+  },
+  {
+   "id": "w-686f4eb04e74ce3c",
+   "member_ids": [
+    "w-686f4eb04e74ce3c"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T18:29:00+00:00",
+   "t": "Estonia to close all Russian border crossings after foiled drone factory arson plot",
+   "s": "Estonia says it foiled an attempted Russian arson attack on a drone factory and will shut every border crossing with Russia by December 1. Prime Minister Karsten Michal blamed Russia’s GRU intelligence service.",
+   "p": [
+    "Estonian authorities said on Sunday that they had stopped an attempted arson attack on a drone factory run by the defence company Threod Systems in Viimsi. Prime Minister Karsten Michal said the GRU, Russia’s military intelligence service, was behind the attempt, which he said took place on Saturday night.",
+    "Michal said “extensive damage” had been averted after law enforcement responded and detained the suspected attackers. He described the episode as part of a wider Russian hybrid war against Europe, aimed at reducing support for Ukraine.",
+    "Hours later, Foreign Minister Margus Tsahkna said Estonia would close all border crossings with Russia by December 1. He wrote on social media that hostile actions would not go unanswered and that the closure would limit Russia’s ability to carry out hostile activity and help prevent sanctions circumvention.",
+    "Tsahkna said he had informed the foreign ministers of Finland, Latvia and Lithuania. Estonia has several crossings with Russia and had until now been one of the few European Union states to keep them open.",
+    "The sources do not give details of the suspects’ identities, any charges, or the evidence linking the GRU to the plot. The attribution comes from the Estonian government and has not been independently confirmed."
+   ],
+   "cav": "The Russian link is the Estonian government’s claim and is not independently verified. Reports differ on whether the factory was set alight or the arson was foiled, and the sources give no detail on the suspects.",
+   "op": "Closing a border is a blunt instrument, and it lands on ordinary travellers and businesses who had nothing to do with the plot. If Tallinn wants the public to accept such costs, it should publish the evidence tying the GRU to the attack. Security measures need the same transparency as the threat they answer.",
+   "confirmed": false,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-c1525b6d5ab6f1ec",
+   "member_ids": [
+    "w-c1525b6d5ab6f1ec",
+    "w-175e955f766e2b50",
+    "w-ec9e1c6774d09ec6"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T18:26:00+00:00",
+   "t": "Canary Islands take roughly 1,500 arrivals in a single day, with El Hierro absorbing most of them",
+   "s": "Roughly 1,500 to 1,600 people reached Spain’s Canary Islands on Saturday, most of them at El Hierro, according to figures reported by different outlets. The surge follows a larger crisis in the Spanish enclave of Ceuta.",
+   "p": [
+    "Spanish news agency EFE reported on Sunday, using tallies from the Spanish government’s maritime rescue body, that 1,580 people had arrived on Saturday. Most of them were brought to El Hierro, the smallest of the main islands in the archipelago’s western group, in 15 open wooden vessels. DW put the total for Friday and Saturday combined at more than 2,300.",
+    "Al Jazeera cited the Spanish rescue service with a lower figure for Saturday: 1,488 people taken from 14 dinghies, known as pirogues. It said that daily total exceeded a previous record of 1,461 set in November 2020. Al Jazeera also reported that more than 9,000 people have arrived in the territory since the start of November, and that Spain has declared a migration emergency there.",
+    "Most of those arriving departed from West African coasts, including Senegal, Gambia and Guinea. DW said the largest share came from those countries. Al Jazeera reported that one boat on Saturday carried 240 people, among them 12 women and 36 children, and that the International Organization for Migration had recorded at least 450 deaths on the Western African Atlantic route in the first ten months of the year.",
+    "Spain’s Territorial Policy Minister, Angel Victor Torres Perez, visited La Restinga, a town at the southern tip of El Hierro, on Sunday. She thanked residents for their solidarity and commitment. In a post on X, she said the government intends to handle the surge with humanity and with the island’s residents in mind. El Hierro has a population of nearly 12,000.",
+    "DW noted that overall migration to the islands fell 5.5 per cent between January and October 31 compared with the same period last year, so the recent spike is a sharp reversal within a broader decline. The surge also follows the events in late July, when an estimated 80,000 people, mostly young Moroccan men, crossed from Morocco into Ceuta. Al Jazeera reported that at least 100 people died during that crossing and that Spain deported more than a dozen of those who entered.",
+    "Al Jazeera said the European Union’s new Pact on Migration and Asylum took effect on June 12, 2026, and that the new rules have not stopped the flow of migrants to Spain. Prime Minister Pedro Sánchez has faced opposition criticism over his handling of Ceuta, and migration and housing are expected to be major issues for voters ahead of snap elections later this month."
+   ],
+   "cav": "The sources give different figures for Saturday’s arrivals (1,580 in EFE’s tally as reported by DW, 1,488 in the rescue service figures reported by Al Jazeera) and do not explain the gap. The “more than 9,000” total and the record claim come from Al Jazeera alone, and the record’s comparison period is not detailed beyond the 2020 figure.",
+   "op": "Numbers this large are easily reduced to statistics, yet each boat carries people who face real risk at sea. Spain’s government should publish consistent arrival and rescue counts, and explain its reception and deportation procedures in public. Emergency measures that lack transparency erode the public trust they depend on.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-fca971b253c07d0a",
+   "member_ids": [
+    "w-fca971b253c07d0a",
+    "w-013e9ebf1cc0ec67",
+    "w-c99dd37204258f0a"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T18:23:12+00:00",
+   "t": "Estonia to close all Russian border crossings after alleged GRU-ordered attack on drone maker",
+   "s": "Estonia will shut all its border crossings with Russia from 1 December, its foreign minister said, after eight people were detained over an attempted attack on a defence company that Tallinn blames on Russian military intelligence. The Kremlin has not commented on this case.",
+   "p": [
+    "The Estonian government says Russia’s GRU military intelligence service ordered an attempted attack on Threod Systems, a Tallinn-area defence company that makes long-range attack and reconnaissance drones. Authorities said the aim was to cause an explosion and set the building on fire. The attack was reported to have taken place on Saturday, with eight people detained. No injuries or damage were reported by the company’s security team, though the prime minister said wider damage had been averted thanks to heightened security and a fast police response.",
+    "Foreign Minister Margus Tsahkna announced on Sunday, on X, that all Estonian-Russian border crossing points would close from 1 December. He cited what he called “clear evidence” of the GRU’s role, although the sources do not show that evidence. Estonia has three open crossings with Russia, at Narva, Koidula and Luhamaa. Authorities have not said how long the closure will last.",
+    "Prime Minister Kristen Michal said the closure was meant to reduce the risk of further attacks and to signal that assaults on the country’s defence industry would not be tolerated. He tied the incidents to Estonia’s support for Ukraine, arguing that Moscow wants Tallinn to become fearful and to weaken that backing. The government says it will tighten security and work more closely with businesses and allies.",
+    "Chief prosecutor Astrid Asi told reporters that the eight suspects live in Latvia. Al Jazeera, citing Latvian officials, described the arrests as involving “Latvian citizens and non-citizens”, which is a slightly different description. Estonia’s internal security service, Kapo, has asked a court to keep five of those detained in custody. The suspects have not been tried, and their guilt has not been established.",
+    "This is the second attempted attack on an Estonian defence firm that authorities have linked to Russia. An arson attack at Milrem Robotics in August was described by Kapo in September as a deliberate, pre-planned operation carried out for Russian special services. At that time Estonia summoned Russia’s chargé d’affaires, and the Kremlin rejected the accusation as baseless. Moscow has not yet responded publicly to the latest claims.",
+    "European intelligence agencies have warned for some time about sabotage against defence firms and Russian efforts to recruit people online for such acts. Mihkelson, chairman of the Estonian parliament’s foreign affairs committee, said the arrests showed the country could respond quickly, but argued that diplomatic protests alone were not enough."
+   ],
+   "cav": "The sources do not publish the evidence behind the GRU attribution, and the Kremlin’s response to this specific incident is not yet known. Accounts differ on the timing (Saturday morning or night) and on the detainees’ nationality, and the damage reports vary between outlets.",
+   "op": "Blaming Moscow may be justified, but closing every crossing is a blunt tool that also hits ordinary travellers and trade. Estonia should publish the evidence behind its attribution so that a measure this sweeping rests on proof the public can examine.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+  },
+  {
+   "id": "w-bc033adbd8215c3f",
+   "member_ids": [
+    "w-bc033adbd8215c3f",
+    "w-abfba7c99d42ec3e"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T18:20:36+00:00",
+   "t": "Hundreds of thousands rally in Prague against plan to fund Czech public media from the state budget",
+   "s": "Organisers said more than 350,000 people joined a Sunday rally in Prague against a government plan to scrap licence fees for public broadcasters. Critics say the change would give ministers more influence over newsrooms.",
+   "p": [
+    "Hundreds of thousands of Czechs gathered in Prague on Sunday to protest against a plan by Prime Minister Andrej Babiš’s government to end the mandatory licence fees that fund Czech Television and Czech Radio. Organisers said more than 350,000 people attended, which they described as one of the largest demonstrations in the country’s history. Euronews, citing media reports, put the figure at 350,000 to 400,000.",
+    "The rally was held at Letná Plain, the site of the 1989 Velvet Revolution that ended more than four decades of communist rule. Many participants wore triangular paper hats resembling Večerníček, an animated bedtime-story character who has become a symbol of the movement. Banners included the slogan “We won’t give media away.”",
+    "The government wants to finance the two broadcasters from the state budget instead. Protesters argue this would give ministers more leverage over editorial decisions. Sources say the future state subsidy would be far below current licence-fee revenue. The proposed changes would cut state television and radio budgets by about 15 per cent, according to the Guardian.",
+    "The organising group, Million Moments for Democracy, said the authorities would now see the scale of opposition. Its lead organiser, Mikuláš Minář, said the event was “just a beginning.” In a statement, the group demanded that the government withdraw the plan and accused Babiš and his partners of treating democratic institutions as their own property.",
+    "Euronews reported that the protest was tied to a vote in the Chamber of Deputies on the amendment, which the group summarised with the slogan “Never again 4:36”. According to Euronews, the majority cut short the debate, leaving more than 60 opposition MPs unable to speak. The Guardian dates the first reading to late October, and Euronews to mid-October, so the sources differ on timing.",
+    "The European Broadcasting Union, the European Federation of Journalists, Reporters Without Borders and the International Press Institute have criticised the plan. They compared it with moves in Slovakia and Hungary, where media independence has been weakened under populist governments.",
+    "Babiš, a billionaire who returned to power last year, said the protests were based on unfounded claims. In an opinion piece he wrote that the government would not interfere in editorial work. Euronews also reported that students, theatres, writers, athletes, churches and healthcare workers voiced support for public media. Police said the demonstration passed without incident until early evening."
+   ],
+   "cav": "Crowd estimates differ: the Guardian cites organisers’ figure of more than 350,000, while Euronews reports 350,000 to 400,000 from media reports. The timing of the first parliamentary reading is also reported differently. The 15 per cent budget cut and the fee amounts come from the sources and were not independently verified.",
+   "op": "Public broadcasters need funding that cannot be turned into a lever over what they report. Moving them onto the state budget, while the government controls the purse, invites exactly that pressure. Parliament should answer the protesters with open debate and a full hearing, not a rushed vote in the small hours.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+  },
+  {
+   "id": "w-c019bab26c7ebf0e",
+   "member_ids": [
+    "w-c019bab26c7ebf0e",
+    "w-f851a46df3dcf23b",
+    "w-985f21bc1fc22e48"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-15T18:03:56+00:00",
+   "t": "Iran launches second drone attack on US base in Bahrain in three days",
+   "s": "Iranian drones were aimed at a US military base in Bahrain on Sunday, according to the Guardian and the BBC, in the second such attempt in three days. The strikes further undermine stalled efforts to end the wider conflict.",
+   "p": [
+    "Blasts were heard over Bahrain on Sunday after Iranian drones were aimed at a US base on the island kingdom, according to the Guardian. It was the second such attack in three days, and Tehran framed it as retaliation for recent US strikes inside Iran. The Guardian also said the episode deepened fears of escalation just as talks between Tehran and Washington appear stuck.",
+    "Iran’s Islamic Revolutionary Guards Corps said it sent six drones toward a US air defence radar at the Al-Rifaa helicopter base, which the BBC spells al-Riffa. The IRGC described the move as a response to “hostile US actions”. Bahraini authorities said their air defences stopped the drones before they reached their targets, and the BBC reported that the country’s military said the drones were destroyed before they could achieve their aims.",
+    "One report said Bahrain issued two alerts about possible threats on Sunday, its first such warnings since September, as explosions rattled the capital, Manama. Sirens were heard across the country, and the interior ministry told residents to move to the nearest secure place.",
+    "Bahrain’s foreign ministry denounced the attacks as brutal and said it holds Iran entirely accountable for what follows. Jordan, Egypt, Saudi Arabia and Qatar also condemned the strikes and voiced support for Bahrain.",
+    "The latest attack followed an earlier one on Friday. The IRGC said it had hit a US early warning radar, but the US military denied that and said it had shot down two one-way drones with no injuries or damage. Before that, US forces struck Iranian targets, including Qeshm Island in the Strait of Hormuz. US officials told CBS the strikes were limited and defensive, and were a response to Iranian fire at a US aircraft. Iran’s state news agency Irna reported explosions on the island.",
+    "Diplomacy looks stalled. The conflict began in February with joint US and Israeli attacks on Iran, and a preliminary agreement reached in June fell apart within weeks. According to the Guardian, Donald Trump has said Washington is no longer seeking a deal and has asked Vice-President JD Vance to focus on alleged corruption and fraud in Democrat-run cities and states. Vance had requested a personal meeting with Iranian negotiators. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said Tehran was “not waiting for anyone”.",
+    "In the Strait of Hormuz, the IRGC claimed that two ships struck mines and that one oil supertanker carrying 2m barrels sank. There has been no immediate independent confirmation of that claim. The US military has said it cleared all mines from the main routes through the waterway.",
+    "In Yemen, Iran-aligned Houthi rebels pushed forward against pro-government forces in the south. The main government-backed force announced it was pulling back from the Bab el-Mandeb area to defend Aden. AFP, citing military and government sources, reported that a Houthi missile strike near Aden killed people and wounded 12."
+   ],
+   "cav": "The IRGC’s claims about the drone attacks and the tanker sinking have not been independently verified, and the US military disputes some of them. The casualty figures in Yemen are second-hand, relayed by AFP from unnamed sources.",
+   "op": "Drone strikes on a host nation and threats to shipping leave little room for deals made behind closed doors. Whoever is responsible for each attack, the public deserves verified accounts of what was fired, where and why. A policy that shifts from negotiation to retaliation without explanation is the costliest route for everyone in the Gulf.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+  },
+  {
+   "id": "w-7aaf12aa88cef79f",
+   "member_ids": [
+    "w-7aaf12aa88cef79f"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-15T17:23:40+00:00",
+   "t": "Thousands rally in Prague against plan to fund Czech public media from state budget",
+   "s": "Thousands of people gathered in central Prague on Sunday to oppose the Czech government's plan to end the licence fee and pay for public media from the state budget. The government says editorial independence will be preserved.",
+   "p": [
+    "Demonstrators argue that the proposal could give politicians room to limit media freedom. The ruling coalition, made up of the populist ANO party and two right-wing Eurosceptic parties, counters that broadcasters must reduce their spending and that editorial decisions would remain unaffected.",
+    "Parliament approved the first reading of the bill late last month, and protests have continued since then. At present, Czech households pay 205 crowns ($9.44; £7.06) per month for television and radio services.",
+    "The Million Moments for Democracy association, which organised Sunday's march, put attendance at “roughly 400,000.” That number comes from the organisers, and the reporting does not include an independent count.",
+    "Milana Rudolfova, a 72-year-old pensioner, told Reuters that she regards Czech Television as a reliable source of truth. Some marchers wore paper hats folded from newspaper in honour of Vecernicek, the cartoon figure who has long presented the broadcaster's evening children's stories.",
+    "Prime Minister Andrej Babis, who was appointed in December 2025, has rejected the idea that his government wants to control public media. Speaking to the Czech News Agency, he argued that the current system is outdated and that many European countries are adopting similar models.",
+    "Several European states have already left the licence fee behind. France abolished it in 2022, and its public broadcasters are now financed partly through a share of VAT revenue. Norway ended its fee in 2020 and placed public broadcasting costs within the national budget.",
+    "Critics have drawn parallels with Hungary under former Prime Minister Viktor Orban, who exercised tight control over state media during his time in office. In June, Pavol Szalai of Reporters Without Borders said that attacks on both private and public outlets had become a defining feature of Babis's tenure."
+   ],
+   "cav": "The attendance figure is the organisers' own estimate, and the Hungary comparison is made by unnamed critics. The sources do not explain how the new funding model would operate in practice.",
+   "op": "Public broadcasting should not depend on a government's promises about how it will behave. If the Czech state takes over its funding, the law must set firm safeguards for editorial independence and make the terms of any budget decision public. Assurances from the prime minister are not enough.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+  },
+  {
+   "id": "w-52331375ace75277",
+   "member_ids": [
+    "w-52331375ace75277"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-15T16:18:49+00:00",
+   "t": "Duffy blames prior presidents and Congress for nationwide flight stoppage; Van Hollen says funds were underused",
+   "s": "The US transportation secretary, Sean Duffy, blamed earlier administrations and a lack of congressional funding for the travel chaos after a four-hour nationwide flight stoppage. A Democratic senator argued the Trump administration has not properly spent money it already received.",
+   "p": [
+    "Donald Trump’s administration on Sunday attributed the travel disruption that followed Friday’s four-hour nationwide flight stoppage to prior presidents and to insufficient congressional funding, according to The Guardian. The Federal Aviation Administration (FAA) ground stop led to the delay or cancellation of thousands of flights.",
+    "Speaking to CNN, Duffy said: “I take responsibility for what was given to me.” He had earlier said that routine but necessary maintenance, botched by a contractor, caused the stoppage. He argued that the $12.5bn Congress provided was limited in scope and not nearly enough. He said it could not pay for new telecom architecture, new air traffic software or new towers, and that the existing systems date back to the 1990s.",
+    "Democratic senator Chris Van Hollen of Maryland rejected that argument. He told CNN that it was “really rich” for the secretary to blame Congress, which he said had given the administration what it requested. In his view, the administration has not properly invested all the funds already allocated for upgrades. He said that if more money is needed, the administration should come forward and justify it.",
+    "Trump, who waited until Sunday to comment on the longest nationwide ground stop in 25 years, blamed the Biden administration in a Truth Social post. He wrote that the administration had “the knowledge and plan” for flight control systems and that Congress needed to provide the money. Duffy said Trump had been in constant behind-the-scenes contact and was fully tracking events, though the report does not independently confirm this.",
+    "On CBS News’ Face the Nation, Duffy said the FAA was investigating the root cause of the botched work, which involved replacing old copper telecommunication lines with fiber optic cables. He said similar work had been done “thousands of times” without problems. The contractor, L3Harris, is reportedly conducting diagnostic tests. Duffy repeated that there was no sign of a foreign cyberattack.",
+    "The union Professional Aviation Safety Specialists (Pass), which represents more than 11,000 FAA workers, said its technicians were not involved in the upgrades behind the stoppage. It said the issue was isolated to two contractor-owned and contractor-maintained routers, and that contractors have historically followed a protocol in which FAA employees conduct a risk assessment. Asked whether a risk assessment was carried out in this case, Duffy did not directly answer, saying only: “We do risk assessments on everything.”",
+    "Duffy also cited a Government Accountability Office report from September 2026 that called for modernizing air traffic control systems, and he rejected concerns that speed was being prioritised over cost and disruption. Pass has called for better staffing of certified technicians and for a fuller role for its members in the modernisation effort."
+   ],
+   "cav": "The accounts conflict: Duffy says the work was done appropriately, while the union says its technicians were not involved and questions the usual risk-assessment protocol. The root cause is still under investigation, and the contractor’s diagnostics are only reportedly under way. Trump’s claimed involvement is based on Duffy’s account and is not independently confirmed.",
+   "op": "Whoever is at fault, the public is entitled to a clear account of who approved the work, what risk checks were done, and how the funds were spent. Blame passed between administrations and Congress does not answer those questions. Transparency about the investigation should come before any further political argument.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+  },
+  {
+   "id": "w-03d8964b94784ab9",
+   "member_ids": [
+    "w-03d8964b94784ab9"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-15T15:59:04+00:00",
+   "t": "Gulf states condemn Iranian drone attack on Bahrain as Hormuz tensions rise",
+   "s": "Jordan, Egypt, Saudi Arabia and Qatar have condemned an Iranian attack on Bahrain, which Bahraini authorities said was intercepted. The strike is the latest sign that a two-month lull in fighting may be ending.",
+   "p": [
+    "Early on Sunday, Iran reportedly sent six drones toward a US air base in Bahrain, raising fears that full-scale fighting could resume. Bahraini authorities said they had stopped the incoming threat and destroyed the drones before impact, and gave no immediate account of any harm to property or people.",
+    "The island state, which is home to a major US naval command, issued public warnings and activated missile sirens before the strikes arrived. Residents, who were hit by the second attack since Friday, said they were unsettled to see the violence return. One local resident voiced hope that the earlier calm would hold.",
+    "Tehran said its target was a radar installation at the Al-Rifaa helicopter base and described the operation as a response to recent American military action. Washington had not yet commented on the Sunday attack, though it has previously said the first attempt on Friday caused no damage.",
+    "The Bahraini state news agency published reactions from several governments in the region. Saudi Arabia’s Foreign Ministry called the Iranian strikes a breach of international law and of the duty of good neighbourly conduct, urging an end to them. Qatar’s Foreign Ministry cautioned that the attacks marked a hazardous escalation that could derail diplomacy aimed at calming the region.",
+    "The incident sits within a broader standoff. US forces have conducted limited strikes on Iranian naval positions along the southern coast and on Qeshm Island, in the Strait of Hormuz, with the stated aim of protecting oil tankers using the waterway. Iran insists that vessels crossing the strait without its approval are striking mines and sinking, and says it regards them as lawful targets.",
+    "Iran’s Revolutionary Guards asserted that a supertanker loaded with more than two million barrels of oil had sunk after hitting a mine in the strait, and that two other ships had struck its mines. No independent confirmation of the tanker claim is available. Earlier, the US military had said it had cleared mines from the main shipping lanes.",
+    "Foreign Ministry spokesman Esmaeil Baghaei told a news conference in Tehran that Iran would continue to answer any military action by the United States or other countries. Asked whether the latest attacks marked a change of course as talks with Washington have stalled, he replied that Tehran was acting in its own security interests and would not be held back by others.",
+    "Separately, the Iran-backed Houthis are increasing pressure on government positions around Aden, Yemen’s interim capital. Saudi-backed government forces said they had pulled back from their Bab el-Mandeb offensive in order to concentrate on defending Aden."
+   ],
+   "cav": "The sources do not say whether the drones caused any damage, and the tanker sinking is a Revolutionary Guards claim that has not been independently verified. One part of the reporting mentions a strike on Tehran, but the rest of the account describes strikes on Bahrain and Iranian coastal and naval sites, so the details of that strike are unclear.",
+   "op": "Condemning an attack on a neighbouring state is right, but the principle of international law must apply to every side. US strikes on Iranian sites and Iranian claims about mines both need scrutiny. Claims that shape the war, including the tanker sinking, should be verified independently before they are repeated as fact.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+  },
   {
    "id": "w-4801e399f1fba6c4",
    "member_ids": [
@@ -329,6 +670,37 @@
    "img": "https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg",
    "img_outlet": "France 24",
    "img_link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights"
+  },
+  {
+   "id": "w-898e12ad324137b4",
+   "member_ids": [
+    "w-898e12ad324137b4"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-14T16:58:33+00:00",
+   "t": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor’s race, first Democrat in the seat since 1998",
+   "s": "Democrat Jonathan Kreiss-Tomkins has won Alaska’s governor’s seat, the first Democratic win there in nearly three decades. The result is part of a wider run of Democratic gubernatorial gains after the 3 November midterms.",
+   "p": [
+    "The Associated Press called the race on Friday, about 10 days after the polls closed. Kreiss-Tomkins, a former Alaska state legislator known widely as JKT, defeated three Republican opponents, including a candidate backed by Donald Trump. He becomes the first Democrat elected governor of Alaska since 1998.",
+    "Kreiss-Tomkins returned to politics after a comeback campaign, three years after leaving the Alaska house of representatives. He is 37. According to the Guardian, he travelled widely across the state and built support around economic concerns and a promise to change the direction of government.",
+    "His platform focused on affordability, full funding for public education and a requirement that all oil and gas producers pay corporate income taxes. He also called for a temporary halt to new datacenter developments until state lawmakers set rules for their construction.",
+    "He sharply criticised the outgoing Republican governor, Mike Dunleavy, saying Alaska had become “broken” during his eight years in office. He pointed in particular to the state’s ferry system, which he said had been left in disarray as service to many communities was drastically reduced. The ferries are a key link for south-east Alaska towns without road connections.",
+    "“Alaskans are hungry for change,” Kreiss-Tomkins said during the campaign. He has also said he will assemble a cabinet drawn from Democrats, Republicans and independents. Alaska uses ranked-choice voting, but he won more than 50% of first-choice votes, so no further counting rounds were needed.",
+    "The Alaska win follows a close Democratic victory in Kansas, where state senator Cindy Holscher defeated Republican state senate president Ty Masterson, who had Trump’s endorsement. Democrats also won governor’s races in Georgia, Iowa, Nevada, Ohio and Texas. The Guardian reports that the party now holds 30 governorships and a majority of governors’ offices for the first time since 2010. In Texas, Gina Hinojosa becomes the state’s first Hispanic governor and the first Democrat elected there in 35 years.",
+    "Separately, Alaska Public Media reported that Democrat Mary Peltola was leading Republican incumbent Dan S Sullivan in the US Senate race with few ballots left to count, and MS Now described that race as leaning Democratic. The Guardian attributes the broader Republican setback partly to Trump’s unpopularity, noting that many Republican lawmakers stayed loyal to him even as polls suggested voters did not back his immigration crackdown, tariffs, the war with Iran or his signature domestic policy bill."
+   ],
+   "cav": "The Alaska Senate count was still incomplete, so the Peltola lead is reported, not final. Trump’s unpopularity as a cause of the Republican defeat is the Guardian’s characterisation, and the sources do not give the poll figures behind it.",
+   "op": "Election results that take ten days to call remind us how much depends on careful, transparent counting. Voters in Alaska deserve clear public accounts of the ferry cuts and tax promises Kreiss-Tomkins has made, and he should be held to every one of them.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=515c0b809a977e0e0b59065107959388",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
   },
   {
    "id": "w-39f5f3535d23cd1d",
@@ -1090,250 +1462,6 @@
      "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"
     ]
    ]
-  },
-  {
-   "id": "w-f83616e70e9cd64f",
-   "member_ids": [
-    "w-f83616e70e9cd64f"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-13T18:55:24+00:00",
-   "t": "EU leaders add Italy and Poland to Ukraine peace team and stop short of naming a single envoy",
-   "s": "European Union leaders have assembled a joint negotiating group for talks on Ukraine but declined to appoint one envoy, leaving foreign policy chief Kaja Kallas without the role she sought. Whether Moscow will sit down with European representatives remains unclear.",
-   "p": [
-    "Leaders meeting in Dublin on Friday at an informal summit settled on a combined group to speak for Europe in the Ukraine talks. France, Germany, Italy, Poland and Britain form the core, and representatives of the European Council, the European Commission and NATO will also take part.",
-    "The question of naming one special envoy took up much of the discussion. According to the report, Ukraine, the United States and even Russia had all urged the EU to pick a single representative, which makes the decision not to do so stand out.",
-    "Before the meeting, Italian Prime Minister Giorgia Meloni had complained about the disorder in the European voices on the peace process and pressed for a lone envoy. Instead, leaders widened the existing negotiating circle to take in Italy and Poland. Warsaw had earlier cautioned that Western European capitals should not make decisions on behalf of the East.",
-    "European Council President António Costa said Europe was fully behind the process and hoped it would produce concrete results. Pressed on Kallas's ambitions, he cited the EU treaties, arguing that the European Council president speaks for the bloc on common foreign and security matters at the level of leaders, while the Commission president's remit covers external matters tied to the Community.",
-    "Kallas argued that representing the bloc on foreign policy fell within her mandate, pointing to a 2024 leaders’ decision. She also conceded that Russians did not want her, which she attributed to her strong views. Ursula von der Leyen, who serves as a Commission vice-president, did not back her either, stressing that leaders choose who represents them. Merz said Berlin saw no need for an institutional debate at present and that the E3 format worked well with Italy and Poland included.",
-    "The arrangement mostly puts in writing a format the United States has already used while brokering the talks. The E3, EU institutions and NATO attended recent rounds in Miami, Oslo, Brussels and Abu Dhabi. Italy took part in the Abu Dhabi session, and Poland is expected to join the next round.",
-    "The open issue is whether Moscow will meet European negotiators face to face, something it has repeatedly refused to do. US special envoys Steve Witkoff and Jared Kushner travelled to Moscow on Thursday to press President Vladimir Putin. Afterwards, both said Russia had signalled it was willing to hold such talks, but the Kremlin downplayed this, so no meeting is assured."
-   ],
-   "cav": "The claim that Moscow was willing to hold face-to-face talks comes from the US envoys and is not confirmed by the Kremlin, which downplayed it. The sources do not say when or where any such meeting could take place.",
-   "op": "Europe's peace diplomacy will only carry weight if it speaks with a clear and accountable voice. Leaders chose to keep a committee of capitals rather than name one envoy, which avoids a fight over Kallas but leaves the mandate vague. Voters deserve to know who is negotiating in their name, and the EU should say so openly.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
-    ]
-   ]
-  },
-  {
-   "id": "w-f953851b9bc063b7",
-   "member_ids": [
-    "w-f953851b9bc063b7"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T17:38:19+00:00",
-   "t": "Microsoft 365 outage of over 22 hours spotlights reliance on a few tech firms",
-   "s": "An outage at Microsoft that ran for more than 22 hours disrupted Outlook and other Microsoft 365 services, prompting questions about how much essential work depends on a small number of technology companies. Microsoft has apologised and attributes the problem to a technical fault rather than a cyber-attack.",
-   "p": [
-    "According to the BBC, the disruption lasted more than 22 hours and left many users without access to Outlook and other Microsoft 365 tools. Commentators have used it to ask how far essential services lean on a few large technology firms.",
-    "The trigger, as described in the report, was a set of routine automated checks that switched some servers off. Fewer machines were left to carry the load, and the survivors were swamped with traffic. Engineers then brought systems back in stages, a process that took almost a full day.",
-    "The reach extended well beyond office email. Around 430 million people worldwide use Microsoft 365, and problems were logged in more than 70 countries. Email went down for the US House of Representatives and Australian intelligence agencies, while court systems in Singapore and airline support desks in India were also hit.",
-    "Flora Hamilton, executive director of the Small Business Charter, called the episode a “stark reminder” of how firms depend on digital tools. For small and medium-sized enterprises, she said, email underpins contact with customers and suppliers as well as their income.",
-    "Walter Pasquarelli, a strategist, told the BBC that the outage exposed the weak points and dependence of governments, companies and critical infrastructure. He suggested that failures of this kind could spread further as more tools are linked to email, calendars and files.",
-    "Gergely Orosz, a former software engineer at several large tech companies, said outages of this sort are not rare. What stood out to him was how long recovery took. He pointed to the world’s reliance on a few major US firms and proposed dividing services by region to limit the damage, a design he said Amazon already applies to its AWS cloud platform.",
-    "Microsoft has apologised and says the cause was a technical fault, not a cyber-attack. A spokesperson defended the slow return to service, saying the pace reflected the scale of demand and produced a more stable restoration. The company says it is examining what happened, and that its findings are meant to guide steps against a repeat.",
-    "The reporting does not set out what the review is expected to contain, and the explanation of the cause comes from Microsoft itself."
-   ],
-   "cav": "The explanation of the cause is Microsoft’s own account, and the review has not been published. The impact figures and the list of affected institutions are as reported by the BBC and have not been independently verified here.",
-   "op": "Critical digital infrastructure should not rest on a few companies without transparency. Microsoft owes customers, public bodies and courts a published post-incident review, not only an apology. Dependence is a policy choice, and it should be scrutinised as one.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
-  },
-  {
-   "id": "w-ccad5b837bef8046",
-   "member_ids": [
-    "w-ccad5b837bef8046"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T17:17:00+00:00",
-   "t": "Microsoft Outlook outage disrupts companies, schools and local governments across the US",
-   "s": "A Microsoft Outlook outage that began on Thursday afternoon disrupted companies, schools and local governments across the United States. By Friday the service was recovering, but some officials said parts of their operations were still down.",
-   "p": [
-    "The outage affected a range of Microsoft tools that organisations use for messaging, scheduling, video calls and file storage in the cloud. According to local leaders, the problems began around 1pm ET on Thursday. By Friday morning Outlook was coming back, but officials in cities and counties including Miami, Maryland and Los Angeles told residents that some staff and services remained out of reach.",
-    "In Arapahoe county, Colorado, a detention facility said it could not accept online bond payments, so people seeking immediate release had to pay in person at the jail until email was working again. The Los Angeles county sheriff’s department said its email and other communication platforms were disrupted. Emergency management offices in Fredericksburg and Gillespie county, Texas, said they could not receive emails and asked people to phone instead.",
-    "In Maryland, the Washington suburban sanitary commission, which supplies drinking water and treats sewage for parts of the state, warned that its technicians might be held up and that some customers could struggle to pay their water bills. In Washington, congressional staffers told Politico that the disruption was especially damaging during the lame duck session, as their offices were negotiating pending bills and preparing for the next Congress.",
-    "Schools were hit too. Districts in Richmond, Virginia, and Port Washington, New York, told parents on Friday morning that they had lost service and urged them to contact the school by phone or through other online education platforms. The Albany school district said its services had been restored. The Colorado School of Mines asked faculty to be lenient with deadlines, although many of its systems ran on Google Workspace and Canvas, which were not affected.",
-    "Developers Anthropic and OpenAI, whose products depend on Microsoft connections, also reported problems. Anthropic said it was seeing signs of recovery but that some users could still get errors. OpenAI said it was still looking into faults with “Microsoft connectors” that were slowing performance. Meanwhile, the industrial manufacturer Workhorse Group postponed its third-quarter earnings call, which had been planned for Thursday afternoon.",
-    "Microsoft executive Charles Lamanna said late on Thursday that he saw nothing suggesting the failure was caused by hacking or other cyber activity. On Friday the company reported better service availability, while cautioning that some users could still face intermittent access problems or delayed email as recovery continued. The sources reviewed do not identify a cause for the outage."
-   ],
-   "cav": "The cause of the outage is not established in the sources. Lamanna’s statement that there was no sign of malicious activity is a company claim, and Microsoft’s description of recovery is its own assessment. Most of the local impacts are reported second-hand through statements from officials and organisations.",
-   "op": "When one cloud provider can disrupt detention facilities, water utilities and schools at once, the public has a stake in how that dependence is managed. Microsoft should publish a clear account of what failed and which safeguards will change. Reassurance that no attack occurred is not a substitute for transparency.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
-  },
-  {
-   "id": "w-e3130f190e2ea915",
-   "member_ids": [
-    "w-e3130f190e2ea915"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-13T16:40:31+00:00",
-   "t": "Kremlin revives 2021 demands on Nato as it pushes for a new European security order",
-   "s": "Vladimir Putin has put European security back at the centre of talks on Ukraine, and the BBC’s Russia editor reads the move as a win for Moscow. Kyiv’s European backers call it a trap that could delay a ceasefire.",
-   "p": [
-    "Russian President Vladimir Putin says he wishes “eternal peace” for Ukraine. The BBC’s Russia Editor, Steve Rosenberg, points out that this is the same leader who ordered the full-scale invasion nearly five years ago and who still rejects a comprehensive ceasefire.",
-    "After talks with US envoys Steve Witkoff and Jared Kushner, the Kremlin called for “a new, long-term architecture of indivisible security and peace.” Rosenberg translates the phrase as a plan to reshape Europe’s security arrangements in Russia’s favour. He describes it as potentially the biggest change to European security since the end of the Cold War.",
-    "The Kremlin has also returned to its draft treaties with the United States and Nato, first published in December 2021. Those proposals would have halted Nato’s eastward expansion, given Moscow guarantees that Ukraine and Georgia would never join, and rolled back alliance military infrastructure in central and eastern European countries that joined after the Soviet collapse. Western leaders rejected them as an unacceptable ultimatum, and Moscow launched its full-scale invasion of Ukraine about two months later.",
-    "Yuri Ushakov, Putin’s foreign policy aide, has suggested Moscow may add “certain new considerations” to its demands, citing Western efforts to inflict a strategic defeat on Russia. Rosenberg notes that the Kremlin’s success so far is simply that European security is now part of the discussion. The Russian newspaper Komsomolskaya Pravda argued that diplomats needed a second victory, forcing the West to take Russia’s concerns about Nato enlargement seriously.",
-    "EU foreign policy chief Kaja Kallas has called Moscow’s demands a “trap” designed to shift attention away from a ceasefire. She argued that a ceasefire should come first, followed by a peace agreement, and only then discussions on Europe’s wider security architecture.",
-    "Witkoff said after his Moscow meetings that Putin had agreed to European representatives joining the next round of Ukraine peace talks. However, Kremlin spokesman Dmitry Peskov said on Friday that no final decision had been taken. He said a wider format would depend on understanding European “true intentions” and their readiness to support the peace process.",
-    "Rosenberg adds that the Kremlin is negotiating from a position of confidence, with the United States seeking a deal and European leaders in contact with Moscow. Norway’s and Finland’s leaders recently called Putin. Russian media have also compared a possible meeting next week in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Co-operation summit, with Donald Trump and Xi Jinping to the Big Three meeting of 1945. Rosenberg says that Russia has suffered heavy battlefield losses and that Ukrainian drone strikes are hitting Russian oil refineries, raising fears of fuel shortages, but that none of this has yet persuaded Putin to end the fighting."
-   ],
-   "cav": "The analysis is by the BBC’s Russia Editor, and the Kremlin’s intentions are reported through its statements and aides rather than confirmed negotiating terms. The Shenzhen meeting is described as possible, not scheduled, and the evidence gives no figures for Russian losses or fuel shortages.",
-   "op": "Europe’s security cannot be rewritten through an old ultimatum dressed up as a peace plan. Any talk of new arrangements should follow a ceasefire and be conducted openly, with Ukraine and its European partners at the table. Moscow’s attempt to reopen 2021 demands should be treated as a bid for leverage, not a basis for negotiation.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
-  },
-  {
-   "id": "w-89879a69c60f85e7",
-   "member_ids": [
-    "w-89879a69c60f85e7"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-13T14:14:44+00:00",
-   "t": "Kallas warns EU against Russian ‘traps’ as Europe moves to name its negotiators for Ukraine talks",
-   "s": "EU foreign policy chief Kaja Kallas accused Moscow of using a debate over European security to distract from its war, as leaders at a Dublin summit moved to settle who would speak for Europe.",
-   "p": [
-    "Kaja Kallas said Moscow was seeking to open a discussion about European security so that attention moved away from its aggression. Speaking as she arrived at the summit in Dublin, she told EU partners not to fall into the trap she said Russia was laying, and described the conflict as one with a clear aggressor and a clear victim.",
-    "Russia has returned to demands for a sweeping overhaul of Europe’s security order. Those demands were turned down in 2021, when critics saw them as a threat to the sovereignty of countries in central and eastern Europe. The most recent round of talks between Ukraine, Russia and the United States took place in Abu Dhabi this week.",
-    "Jared Kushner, the envoy and son-in-law of Donald Trump, said on Thursday night that Russia and Ukraine had agreed to widen the next round of peace negotiations to include Europeans. Moscow quickly disputed that. The Kremlin said it would consider an expanded format once it understood Europe’s true intentions, and its lead negotiator, Vladimir Medinsky, said it was unclear what there was to discuss with Europe.",
-    "European governments have said they will back Ukraine in any negotiations but want a ceasefire first, and they point to a dense network of security agreements that Russia has broken. Friedrich Merz, the German chancellor, said there was no need to discuss a European security architecture because one already exists, and that Germany could expect a seat in any European delegation. Ursula von der Leyen, the Commission president, argued that Europe’s presence would protect its interests and support Ukraine.",
-    "After the Dublin meeting, European Council president António Costa said leaders had agreed on a negotiating group made up of the EU institutions and the E5: Britain, France, Germany, Italy and Poland. He called for Europe to speak with a single, united voice.",
-    "The idea of such a grouping had taken shape over recent months, but pressure to formalise it grew after Volodymyr Zelenskyy urged his European partners to decide who would represent them. Kushner had mocked the lack of one person to speak for the continent. Paris and Berlin wanted their own envoys to keep a role in the E3 format, while smaller member states put more weight on Costa and Kallas.",
-    "Sweden’s prime minister, Ulf Kristersson, called the debate over representation “slightly overstated”, noting that member states have differing interests. He said some issues, such as financing Kyiv and Ukraine’s eventual EU membership, were purely EU matters, and that he was flexible on the format. Ireland’s taoiseach, Micheál Martin, said the UK and Norway each had a significant role. The British prime minister, Andy Burnham, said it was for the EU to decide who would represent the bloc.",
-    "Several leaders at the summit, including Kallas, stressed that Britain should be included, as a founder member of the coalition of the willing committed to future peacekeeping in Ukraine."
-   ],
-   "cav": "The account rests on a single outlet’s reporting. Kushner’s claim about expanding the talks is second-hand and was disputed by Moscow, and the sources do not explain how the negotiating team will be finalised.",
-   "op": "Europe has a fair claim to a seat at talks that will shape its security, and Moscow should not be allowed to set the agenda by reopening the wider order. A negotiating team earns credibility only when its mandate is public and its members can say whom they represent. A ceasefire and Ukraine’s future must come before any debate over the European architecture.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
-  },
-  {
-   "id": "w-d54288936ea56dd2",
-   "member_ids": [
-    "w-d54288936ea56dd2"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T13:19:51+00:00",
-   "t": "Microsoft outage disrupts email and Teams in at least 74 countries, from US courts to Japanese firms",
-   "s": "A Microsoft 365 outage has affected organisations in at least 74 countries, with courts, city governments, hospitals and businesses reporting email and Teams problems. The company said services were recovering in several regions.",
-   "p": [
-    "The disruption was detected after midday US Eastern Time on Thursday, which the BBC gave as 17:00 GMT. Microsoft said Outlook and Teams, along with its Copilot software, were experiencing “connectivity problems”. By 12:00 GMT on Friday, the company reported “encouraging recovery progress in Europe”, said Japan remained comparatively more stable and said North America was also improving.",
-    "In the United States, staff with the House of Representatives told Politico that their work had been halted. One House staffer described a lost day of legislative work without access to calendars and shared schedules. Courts from Los Angeles to Texas warned that communications might be delayed. The City of Austin said on X that its employees could not send or receive email, while its phone lines and 911 emergency services remained operational. Officials in several cities urged residents to call local offices instead of using email.",
-    "Workhorse Group, an electric truck maker, moved its third-quarter results from 12 November to 16 November, citing business disruptions linked to the outage. OpenAI, which makes ChatGPT, said it was investigating an issue affecting its connections to Microsoft services, which left some tools not working as expected.",
-    "In Canada, the public broadcaster CBC reported that a healthcare network running several Toronto hospitals had declared a code grey, an alert for infrastructure failure. The network, Unity Health Toronto, said its teams were having trouble sending and receiving email, but patient care was not affected.",
-    "In Japan, the Japan Times quoted an unnamed user saying that a firm had switched to fax for regular updates it usually sent as PDFs. Deputy Chief Cabinet Secretary Masanao Ozaki told reporters the government would continue to monitor the company’s response. In Singapore, officials said emergency services remained fully operational, while the courts urged people with urgent matters to telephone them. The Philippine Supreme Court warned that responses to emails and other transactions could be delayed.",
-    "In India, people in equity markets told BBC News they panicked when they could not reach daily research reports before their morning meeting. A senior executive at a large brokerage said, on condition of anonymity, that losing Teams was a challenge because most calls with big clients run on it.",
-    "Chinese firms rely largely on locally made software such as WPS Office, but the outage still caused frustration there, since Outlook is one of the few dependable channels for offices that work with overseas colleagues. Australia’s spy and federal police agencies were also affected, though officials suggested the impact was minimal."
-   ],
-   "cav": "The sources do not give the cause of the outage or say when full service will be restored. The country count and recovery claims come from Microsoft’s own updates and have not been independently verified.",
-   "op": "A single company’s failure has stalled courts, hospitals and legislators across the globe, which shows how much public business now depends on a few private platforms. Governments should publish clear dependency plans and explain what failed. Dependence without transparency is a risk that citizens are paying for.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqp9d58eldlro"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38e/live/5b3b2f70-df4c-11f1-a48c-75dd2efdacb5.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro"
-  },
-  {
-   "id": "w-cf8d6db662d1ba55",
-   "member_ids": [
-    "w-cf8d6db662d1ba55"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T13:00:16+00:00",
-   "t": "Microsoft outage stretches past 18 hours as Outlook, Teams and Copilot remain disrupted",
-   "s": "Microsoft says it is seeing some “positive results” as it works to restore services for millions of customers, after a disruption that began on Thursday evening GMT and has lasted more than 18 hours.",
-   "p": [
-    "The disruption began around 6pm GMT on Thursday and has affected key Microsoft services, including Outlook, Teams and Copilot. It first hit mainly US users before spreading across the Asia-Pacific region, according to the Guardian’s live coverage.",
-    "Microsoft has suggested the outage may stem from settings applied to servers that keep Microsoft 365 running. The company said it does not believe it is suffering a cyber attack. It also admitted that a fix was “not taking as expected”.",
-    "Government agencies in Australia, Japan and the United States were reported to be affected, as were companies including OpenAI and Anthropic. Japan’s economy, trade and industry minister said the disruption had a “major impact” on the country’s economy.",
-    "Australia’s spy agency and federal police were among the organisations reporting disruption there. The coverage also cites a prediction of billions of dollars in damage, but the source of that figure is not named.",
-    "Microsoft’s latest update says it is seeing improved server stability after applying a software patch. Even so, the company still reports service degradation across its Microsoft 365 business and enterprise products and its consumer products."
-   ],
-   "cav": "This account rests on a single live blog that is still being updated, so the situation may have changed since publication. The cause is only suggested by Microsoft and is not confirmed, and the billions-of-dollars estimate is unattributed. The sources do not say when full service will return.",
-   "op": "A failure of this reach, hitting government agencies and public bodies, is a matter of public interest, not just a corporate inconvenience. Microsoft should give a clear and timely account of what went wrong with its server settings and how it will prevent a repeat. Vague talk of “stability” is not enough for customers and governments that depend on these systems.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c35d2ae6e13e46f13dbe9b70c78a5711",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
-  },
-  {
-   "id": "w-2f9e482690c38fd6",
-   "member_ids": [
-    "w-2f9e482690c38fd6"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-13T13:00:03+00:00",
-   "t": "Kallas warns EU against accepting Russia’s proposed sequence for Ukraine talks",
-   "s": "EU foreign policy chief Kaja Kallas has urged Europe not to agree to Russia’s proposed order of steps for negotiations on Ukraine. She argued that the bloc should keep to its existing position and insisted it must have a say in who represents it.",
-   "p": [
-    "EU foreign policy chief Kaja Kallas has warned against the bloc agreeing to Russia’s proposed sequence of talks on Ukraine, according to remarks reported in The Guardian’s live coverage from Europe.",
-    "Kallas said the sequence would allow Moscow to “divert the attention away” from its actions and could leave Europe in a worse position. She said the EU had agreed that a ceasefire should come first, followed by a peace agreement, and only then any other talks.",
-    "She cautioned that Europeans risked “walking into the traps that Russia is setting”, pointing to what she described as the absence of a ceasefire. If discussions moved to the European security architecture before that, she said, the bloc would not be better off but worse off.",
-    "Kallas also welcomed what she described as the United States finally acknowledging that any deal between Russia and Ukraine requires Europeans, a point she said she had made about a year and a half earlier. She said she hoped Europe would not simply sit at the table but would really influence the outcome.",
-    "On the question of representation, Kallas said she wanted to be part of the EU negotiating team, noting she had been appointed to represent Europe on foreign and security policy. She said she would not be “representing myself” but would be bound by any mandate from the 27 member states.",
-    "Asked why Moscow did not want her involved, Kallas said Russia wanted no strong counterpart so it could push its maximum demands. She described Russia’s approach as issuing threats and ultimatums, using force, and then waiting for Western concessions, adding that Moscow goes “further” each time.",
-    "Kallas also criticised the United States for sending negotiators without an institutional role, saying the EU should not copy that pattern and should rely on its established institutions."
-   ],
-   "cav": "The report comes from a live blog and relies on Kallas’s own account, with the quotes reported as spoken. The coverage does not give a Russian response, and the proposed sequence itself is not described in detail. Her claims about the US position and the mandate of the EU negotiator are her own assertions.",
-   "op": "Talks on a war of aggression should be judged by whether they restore a ceasefire and protect the victim, not by the order the aggressor prefers. Europe should hold to the sequence it has already agreed and insist that its negotiator answers to 27 governments, not to whoever is convenient.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
   }
  ]
 }
