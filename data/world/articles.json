@@ -1,6 +1,266 @@
 {
- "updated_at": "2026-11-15T19:27:26.774907+00:00",
+ "updated_at": "2026-11-16T13:57:57.029420+00:00",
  "items": [
+  {
+   "id": "w-d228a77ebbfbf922",
+   "member_ids": [
+    "w-d228a77ebbfbf922"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-16T13:48:43+00:00",
+   "t": "Nvidia’s Jensen Huang considered for comeback as US tightens remote access to advanced chips",
+   "s": "Allies of Jensen Huang are reportedly campaigning for his return as Nvidia chief executive days after his resignation. Separately, the US Commerce Department has issued a rule limiting remote access to advanced computing chips.",
+   "p": [
+    "Nvidia chief executive Jensen Huang resigned last Thursday after revelations that he had at least two extramarital affairs, according to the Financial Times, which reported that Huang has discussed the possibility of returning with confidants. One of the affairs was with a woman accused of spying for China, and the other was with a subordinate.",
+    "Nvidia’s board has named chief financial officer Colette Kress as interim chief executive. An open letter calling for Huang’s reinstatement has since drawn more than 165,000 signatories, including Elon Musk, Epic Games founder and chief executive Tim Sweeney, Y Combinator president Garry Tan and Uber co-founder Travis Kalanick.",
+    "More than 7,500 of the signatories describe themselves as Nvidia employees. The live blog said that, if accurate, this would equal around 18% of the company’s workforce, but it did not confirm the figure. The investigation into Huang’s conduct has barely started, and Kress is due to present the company’s latest financial results shortly.",
+    "Separately, the US Commerce Department has issued an interim final rule to limit remote access to advanced chips by certain third countries. The government says the rule is meant to stop existing restrictions on sensitive American technology from being circumvented through data centres abroad.",
+    "Under the rule, licences will be required to reexport advanced chips to Indonesia, Malaysia, Singapore, Thailand and Brazil. The move follows reports that Singapore-based Megaspeed, where suspected Chinese spy Alice Huang worked, transferred advanced Nvidia chips to Chinese companies. The evidence does not independently confirm those reports, and Alice Huang is only a suspect.",
+    "Markets are also watching the planned stock market float of Anthropic, which is due to list on Thursday. The company had initially hoped for a $2tn valuation but may now list at a lower figure. Trading platform IG said its pre-IPO market had found a price around $1.4 trillion after recent volatility in tech, down from about $2 trillion at the end of October.",
+    "The live blog also reported that the FTSE 100 rose by as much as 29 points, or 0.25%, to 10,931 points, and described London’s index as resilient despite a sell-off in tech stocks."
+   ],
+   "cav": "Much of the Huang story rests on a Financial Times report relayed secondhand, and the signatory and employee counts come from the open letter itself, which the live blog did not verify. The Anthropic figures also conflict: the source cites a $1.5bn valuation, which is far below the $1.4 trillion that IG cites, and the sources do not explain the gap.",
+   "op": "Huang’s conduct is a matter for Nvidia’s board and its investigation, not for a petition of celebrity and industry signatures. Any return should wait for the findings to be made public. Transparency, not social-media momentum, should decide who leads one of the world’s most important chip companies.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/43ef54aa8cb3576d2ce5dc6f16443cad6245ded7/362_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4c242185abd6f3b45681b4c0b522b04e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+  },
+  {
+   "id": "w-fb710be5c7d9697c",
+   "member_ids": [
+    "w-fb710be5c7d9697c",
+    "w-23127c00a20412b2"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-16T12:54:44+00:00",
+   "t": "Five EU countries expected to unveil deportation hub deal with Rwanda",
+   "s": "Germany, Denmark, Austria, Greece and the Netherlands are reportedly set to announce a migrant deportation centre in Rwanda, the first such facility outside the EU. Rights groups have already raised concerns about the choice of host.",
+   "p": [
+    "Five EU countries are expected to announce a deal to create a migrant deportation centre in Rwanda, according to diplomatic sources cited by the BBC and other outlets. Germany, Denmark, Austria, Greece and the Netherlands said in September that they were working towards an agreement with a non-EU country to host “return hubs” for people whose asylum claims have failed. Rwanda confirmed in August that it had begun “preliminary discussions” with several European states.",
+    "Details are expected at a press conference in Vienna on Monday, where a Rwandan delegation is also reported to be attending a migration conference. Austrian Chancellor Christian Stocker told reporters he would “see next week in Vienna”, without giving details. According to diplomatic sources, the hub would start as a pilot hosting about 100 people, with each of the five countries possibly sending around 20 migrants. The countries hope the centre could be running in 2027.",
+    "The scheme would apply only to asylum seekers who have exhausted their legal options to remain in the EU, which distinguishes it from a British plan to send people to Rwanda for their claims to be processed. That UK deal never took off amid legal challenges and was scrapped by the Labour government in 2024. One source said Kigali is inclined to call the site a “welcome centre”, and that it would not be a detention facility.",
+    "The plan follows a recent EU reform that allowed the creation of hubs outside the bloc. Supporters argue such centres could speed up repatriations and deter irregular migration. Critics have likened them to “legal black holes” where migrants could be left in limbo with little oversight. The International Organization for Migration could play a supporting role, an IOM spokesperson said the agency was in discussions with some EU countries on such arrangements.",
+    "Human Rights Watch has voiced alarm over the choice of Rwanda, citing what it calls a well-established record of repression, arbitrary detention and support for armed rebels in the Democratic Republic of Congo. Its senior Africa researcher, Clementine de Montjoye, warned that paying Kigali to host deportations would finance a government accused of serious rights abuses. The EU Agency for Fundamental Rights has said any third country hosting a return hub must respect fundamental rights, including protection from sending people to places where they face serious risk of persecution.",
+    "The push comes as several EU governments face elections and pressure to show they can control migration. The European Border and Coast Guard Agency reported almost 110,000 irregular border crossings into the EU in the first ten months of the year, a 29% fall on the previous year, though October saw a 22% rise on September, driven largely by arrivals on the route to the Canary Islands. The EU says the plan complies with EU and international law, while human rights bodies say it could violate migrants’ rights."
+   ],
+   "cav": "The details come from diplomatic sources and have not been confirmed by the governments involved before the planned announcement. Reports differ on whether the site would be a detention facility, with one source saying it would not be. Rwanda's government has not been quoted on the specific terms.",
+   "op": "Deporting people to a country with a documented record of repression puts the rule of law at the centre of this deal. Governments should publish the legal safeguards, monitoring arrangements and the identity of anyone sent there before a single migrant boards a plane. Secrecy about a far-off hub will not restore public trust.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cw987343352go"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cw987343352go"
+  },
+  {
+   "id": "w-e6652f0d8581c7ea",
+   "member_ids": [
+    "w-e6652f0d8581c7ea",
+    "w-0eb8c569a4cb5661"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-16T12:48:00+00:00",
+   "t": "Xi, Trump and Putin to hold first trilateral summit in Shenzhen, Beijing says",
+   "s": "Beijing says the leaders of China, the United States and Russia will discuss “world peace” at their first three-way summit this week. It has released few details about the agenda.",
+   "p": [
+    "Beijing said on Monday that Presidents Xi Jinping, Donald Trump and Vladimir Putin will meet in the southern city of Shenzhen, with the meeting expected on Thursday alongside the Asia-Pacific Economic Cooperation summit. The Chinese foreign ministry, speaking through spokeswoman Mao Ning, described the talks as “in-depth exchanges” on safeguarding global peace and strategic stability among major powers. Beyond that language, officials offered little substance.",
+    "Mao Ning called the gathering one of “ground-breaking significance” during a briefing held hours after Beijing confirmed it. A French broadcaster’s report says the Kremlin and the White House had both already confirmed the three-way meeting. The DW report does not include that detail, so the point rests on a single outlet.",
+    "Trump has said nuclear disarmament and the Iran conflict will feature. Speaking at a Florida airport on November 8, he said the talks would cover denuclearization and that Washington was working to bring the Iran war to an end. He had earlier described the meeting as “interesting.” US officials, cited by AFP, said he is not expected to raise Russia’s war in Ukraine.",
+    "A Wall Street Journal report, which DW cites, claims Putin hoped the summit would produce a Ukraine peace deal favouring Moscow. That account is second-hand, and the governments involved have not confirmed it in the material provided.",
+    "German President Frank-Walter Steinmeier, who recently visited China, told the broadcaster ARD that Xi seemed irritated when asked whether Ukraine would be on the agenda. According to Steinmeier, Xi argued that the conflict is a European matter and that Europeans must have a seat at the table. On Friday, German Chancellor Friedrich Merz urged Trump to avoid any surprises on Ukraine during the talks.",
+    "Arms control remains a sticking point. Washington wants China included in future nuclear agreements, whereas Beijing says the United States and Russia must first cut their large stockpiles. China had already turned down Trump’s proposal for wider disarmament talks after the US-Russia nuclear treaty lapsed in February. A State Department readout says Wang Yi and Marco Rubio agreed that “meaningful leader-level conversations” matter, and UN Secretary-General Antonio Guterres said a genuine denuclearization commitment would be a major achievement.",
+    "The Iran war, which started with US and Israeli strikes on February 28, has cooled somewhat, though key disputes are unsettled. Neither Washington nor Jerusalem is currently launching large attacks, while Tehran keeps pressing to control the Strait of Hormuz and continues to target vessels it regards as unauthorised. Pakistan-mediated US-Iran talks in April did not yield a lasting deal. China, a major economic partner of Tehran, has repeatedly offered to mediate and recently hosted Middle Eastern officials in an attempt to bring the parties back to negotiations."
+   ],
+   "cav": "Beijing has given few details, so the agenda is known mainly from official phrases. The claim about Putin’s goals rests on a Wall Street Journal report cited second-hand, and Xi’s reaction comes only from Steinmeier’s account. The sources differ on whether the Kremlin and White House confirmed the meeting, and none says what, if anything, the leaders will agree.",
+   "op": "Three leaders discussing nuclear weapons and Ukraine should not reach understandings out of public view. The public has a right to know what is promised and who would bear the cost. Vague talk of “world peace” is not accountability. Any outcome touching arms control or a neighbour’s war must be published and open to scrutiny.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/a660692a-e195-11f1-bda7-f71d22e7fea9/w:1024/p:16x9/000-D7K64G3.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says"
+  },
+  {
+   "id": "w-6b3f9293b8b2b0be",
+   "member_ids": [
+    "w-6b3f9293b8b2b0be",
+    "w-35e3e8b4f8d8e3a0",
+    "w-7ba64f3f8714fe76"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-16T12:20:49+00:00",
+   "t": "Musk backs campaign to reinstate ousted Nvidia boss Jensen Huang as allies lobby for his return",
+   "s": "Allies of Jensen Huang are pressing Nvidia’s board to bring back the former chief executive, who resigned last week amid reports of extramarital affairs. Elon Musk is among the backers of a petition, while the US Treasury Secretary has called for the company to look outside for its next leader.",
+   "p": [
+    "Allies of Jensen Huang are trying to rally support for the former Nvidia chief executive to get his job back. He resigned last week after reports of two extramarital affairs, one of them with a woman suspected of spying for China, according to the BBC. SpaceX boss Elon Musk and Tim Sweeney, chief executive of Epic Games, are among those backing a campaign urging the board to “Bring Jensen Back”.",
+    "An open letter on a website called “Stand with Jensen” asks the board to reinstate Huang while an independent investigation establishes the facts. The number of signatures reported varies by outlet. The BBC puts it above 175,000, the Guardian above 165,000 and Euronews above 160,000. The campaign says its supporters include current and former Nvidia employees, partners and shareholders. Euronews reports that more than 7,500 signatories identified themselves as Nvidia employees.",
+    "The first affair, involving Alice Huang, had initially been expected to be weathered. Huang then resigned after a second relationship emerged, allegedly with an Nvidia executive who reported to him. The Financial Times reported that Huang has discussed a possible return with confidants. One ally told the paper that a “war room” of Silicon Valley executives was being assembled to lobby for him and to seek support from the White House.",
+    "Musk has argued that some of Nvidia’s key deals were agreements made on a handshake with Huang rather than written contracts, and that some of them could be lost without him. The claim is his own and has not been independently tested. Brad Gerstner and Gavin Baker, two large investors, have urged the board to keep “all options” open, including a possible return.",
+    "Not all voices are supportive. Treasury Secretary Scott Bessent said on Fox News that Nvidia needs “a dramatic shake-up” and should look outside the company for its next chief executive. The Guardian reports that he wants answers within 10 days on whether Nvidia knowingly allowed its most advanced chips to reach China and whether it had a culture of compliance with US export rules. The BBC reports that the case has also created tension between the Treasury and Commerce departments over shipments of high-end chips to Megaspeed, the Singapore company where Alice Huang was an executive until 2025. Megaspeed has said it is a “legitimate and lawful business”.",
+    "The BBC understands that Huang’s reinstatement is unlikely while Nvidia’s internal investigations continue. Analyst Dan Ives called the idea “ridiculous” and said the best path was an external chief executive or Colette Kress, the chief financial officer who is currently leading the firm. Huang has agreed to testify before congressional committees, although the dates have not been confirmed. Nvidia is due to report quarterly results on Tuesday."
+   ],
+   "cav": "The petition figures differ between outlets and cannot be checked independently. Details of the affairs, the alleged spying and the FBI investigation come from reports and from Trump’s own comments, not from Nvidia or official findings. Musk’s account of the deals is unverified, and Euronews’ claim about a 25% revenue share on H200 sales is not confirmed by the other sources.",
+   "op": "Nvidia’s board owes shareholders and lawmakers a transparent account of what it knew about chip sales to China and why its chief left. Any reinstatement should follow published findings, not a petition with a large signature count. The real test is process, not popularity.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/16/elon-musk-joins-calls-to-bring-back-jensen-huang-as-allies-build-war-room-to-lobby-his-ret"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4318/live/458f6840-e1c1-11f1-99b6-a35a62fa4264.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+  },
+  {
+   "id": "w-c3ce6d73d7ba469f",
+   "member_ids": [
+    "w-c3ce6d73d7ba469f"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-16T06:42:33+00:00",
+   "t": "Helen Haines leaves hospital after both legs were amputated following alleged car attack",
+   "s": "Independent MP Helen Haines has been discharged from a Melbourne hospital after an alleged October attack that cost her both legs. A man has been charged, and she is starting rehabilitation.",
+   "p": [
+    "Haines, who sits as an independent, said she was “full of gratitude” after leaving the Alfred Hospital on Monday, according to a statement she released.",
+    "The 65-year-old was hit by a Toyota Land Cruiser on 19 October while standing beside her car in Wangaratta, a regional town in Victoria. The injuries she suffered later required both legs to be amputated.",
+    "Hospital staff said she had been discharged about four weeks after being flown in for emergency care. Haines said she has now begun the rehabilitation phase, which will take place in Melbourne for the foreseeable future.",
+    "Prime Minister Anthony Albanese said he has been in regular contact with Haines and her relatives, and that the government is backing her, her family, her local community and her staff during her rehabilitation.",
+    "Police have laid charges against 43-year-old Brendan Nugent, including dangerous driving causing serious injury, intentionally causing serious injury, and a federal offence of harming a public official. He is presumed innocent unless a court finds otherwise.",
+    "Before entering parliament in 2019, Haines worked as a nurse and midwife. She has campaigned against corruption and for tougher climate policy.",
+    "The case has triggered wider discussion in Australia, where political violence is uncommon even though police have recorded a consistent increase in threats aimed at elected representatives."
+   ],
+   "cav": "The attack is described as alleged, and the charges have not been tested in court. The evidence does not say what motive, if any, police have assigned, and it does not detail the state of the investigation.",
+   "op": "Threats against elected officials are a rule-of-law issue, not a footnote. Whoever is responsible must face a fair trial, and authorities should publish what they are doing to protect members of parliament, so that public service does not depend on personal courage.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack"
+    ]
+   ]
+  },
+  {
+   "id": "w-91fac4cb3d42a02a",
+   "member_ids": [
+    "w-91fac4cb3d42a02a"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-16T06:10:34+00:00",
+   "t": "Estonia to close Russian border crossings after alleged GRU sabotage bid on drone maker",
+   "s": "Tallinn says all its crossings with Russia will shut from 1 December, following what it describes as a foiled arson plot by Russia’s GRU military intelligence. Moscow has said it will check whether the plan is real.",
+   "p": [
+    "Authorities in Estonia have stopped a plot that officials say targeted a drone factory with arson. The government links the scheme to Russia’s GRU military intelligence and has responded by announcing a shutdown of the frontier.",
+    "Prime Minister Kristen Michal posted on X that the GRU had commissioned a “sabotage attempt” against Threod Systems, a defence firm in Estonia, late on Saturday. In his account, heightened security and a rapid response by law enforcement prevented major harm. Chief prosecutor Astrid Asi later told reporters that eight people living in Latvia had been arrested.",
+    "Foreign Minister Margus Tsahkna said on X that every Estonian-Russian crossing would close from 1 December, pointing to “clear evidence” of GRU involvement. He added that he had briefed his counterparts in Finland, Latvia and Lithuania. He warned that Moscow would face consequences for hostile acts, and said efforts to intimidate or destabilise Estonia would not go unanswered.",
+    "Russian foreign ministry spokeswoman Maria Zakharova, speaking to the TASS news agency, said Moscow would first establish whether Tallinn truly intended to seal all crossings. She said that, if it did, Russia would regard the step as yet another instance of hostility toward Russia.",
+    "Michal framed the affair as one front in what he called a wider hybrid campaign against Europe, meant to weaken backing for Ukraine and increase pressure on Russia. Tallinn also recalls that in August the Tallinn-based subcontractor Milrem Robotics was the target of a similar arson attempt, and that Latvian nationals were detained in that case.",
+    "Estonia has three crossing points with Russia: Narva in the north, and Luhamaa and Koidula in the south. Russia halted vehicle traffic at Narva in February 2024, but pedestrians can still pass. These crossings remain among the few land links between Russia and the European Union that are still functioning."
+   ],
+   "cav": "The GRU’s role rests on Estonian government statements, and the sources do not show the underlying evidence. The eight arrested people are suspects, and no charges or court findings are reported. Russia has only said it will verify the closure plan.",
+   "op": "Sealing a border punishes ordinary travellers, families and businesses, and it should not become a reflex. If Tallinn believes the GRU ordered sabotage, it owes the public and the courts the evidence, and the suspects a fair process.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
+    ]
+   ]
+  },
+  {
+   "id": "w-98f8478c07b7c838",
+   "member_ids": [
+    "w-98f8478c07b7c838"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-16T03:09:49+00:00",
+   "t": "Australian MP Helen Haines leaves hospital four weeks after alleged car attack",
+   "s": "Independent MP Helen Haines has been discharged from hospital and says she is now in the rehabilitation phase of her recovery. A man has been charged over the alleged attack, which police are still investigating.",
+   "p": [
+    "Helen Haines, the independent MP for Indi, has left hospital roughly four weeks after she was allegedly struck by a car, according to the BBC. The incident took place on October 19 outside her office in Wangaratta, a town north-east of Melbourne, and it shocked the country.",
+    "In her first public remarks since the attack, Haines, 65, described her discharge as a positive step and thanked the staff at the Alfred hospital for their care. She said she was moving into the next stage of healing and was grateful for the large number of messages and the donations made to Save the Children in her name.",
+    "The BBC reports that Haines lost both of her legs. Her account of her condition is based on the broadcaster’s summary and has not been independently detailed in the material available.",
+    "Brendan Nugent, 43, has been charged with offences including dangerous driving causing serious injury, intentionally causing serious injury, and a federal offence of harming a public official. He has not yet entered a plea, and he is presumed innocent unless and until a court finds otherwise.",
+    "Victoria Police, assisted by the Australian Federal Police, says its investigation is continuing and that no motive has been established. Nugent’s father has said that he and his wife were longtime friends of Haines, while Nugent’s lawyer has said his client has mental health concerns.",
+    "Haines has campaigned for stronger climate action and helped set up a national anti-corruption commission. She entered parliament in 2019 after a career as a nurse and midwife.",
+    "Politicians, police and experts have argued that the tone of public debate is raising the risk of political violence, although the attack’s motive remains unclear. Prime Minister Anthony Albanese said he has been in regular contact with Haines and her family, and that support will continue during her rehabilitation."
+   ],
+   "cav": "The sources do not establish a motive, and the link between heated public debate and the attack is a view put forward by politicians and experts rather than a finding. The loss of both legs is reported by the BBC summary, and the timing is described in different terms across the material.",
+   "op": "Political violence cannot be read off a single case, but this one should sharpen attention on how public anger turns into personal threat. A clear, public account of the motive and a fair court process for Nugent matter as much as Haines’s recovery. Australia owes both to its public.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
+  },
+  {
+   "id": "w-5ec261feee59d832",
+   "member_ids": [
+    "w-5ec261feee59d832"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-16T01:47:57+00:00",
+   "t": "Singapore firm Megaspeed says suspected spy tied to Nvidia affair left its top role in 2025",
+   "s": "Megaspeed, a Singapore-based company that the reporting describes as Southeast Asia’s largest purchaser of Nvidia chips, says Alice Huang, a suspected Chinese spy linked to Nvidia’s former chief executive, left her executive post last year. The claim comes amid wider questions about whether high-end chips reached China despite US restrictions.",
+   "p": [
+    "On Sunday, Megaspeed said it had opened an internal inquiry into its operations. The firm objected to reports that make claims about its business, supply chain and global activities without what it called “verifiable evidence”. It insisted that it operates lawfully and has brought in outside lawyers to lead the review.",
+    "Alice Huang, who is unrelated to Jensen Huang, was examined by Singapore authorities in February 2025 as part of a wider inquiry into Megaspeed and other firms. She is a suspect rather than a convicted person, and the reporting does not describe any verdict against her. Her departure date is disputed: Megaspeed says she left in August last year, while a Washington-based security analysis group, C4ADS, says she stepped down as a director near the end of 2023.",
+    "Jensen Huang stepped down as Nvidia’s chief executive after reports that he had allegedly been involved with Alice Huang and with another employee. The scandal has raised doubts about whether powerful chips sold in Southeast Asia could have been routed to China in breach of US export limits.",
+    "Congressman John Moolenaar, who chairs the House Select Committee on China, said on Sunday that Jensen Huang had agreed to give evidence to his panel and to the Foreign Affairs and Intelligence committees. Those committees had warned they would compel him through subpoenas if he refused. The session is expected to be closed to the public, and its dates have yet to be confirmed.",
+    "Moolenaar said the hearing should clarify how much sensitive material may have been reached, and whether the suspected spy shaped Nvidia’s outlook and the policies on advanced-chip exports.",
+    "The Financial Times reported that Jensen Huang was weighing a return to the company he helped found, a claim his representative declined to address. The BBC understands that a reinstatement looks highly unlikely while internal investigations at Nvidia remain open. For now, chief financial officer Colette Kress is running the company and is scheduled to report results on Tuesday, 17 November.",
+    "Treasury Secretary Scott Bessent has urged Nvidia to pick its next chief executive from outside the firm. On Friday he faulted the Commerce Department, headed by Howard Lutnick, for weak oversight of high-end chip exports. He told CNBC that several agencies had pushed for months to add Megaspeed to the entity list, which restricts trade with listed foreign firms, but that Commerce controlled the decision. Lutnick is due to be questioned by the Senate Banking Committee next month.",
+    "Megaspeed is suspected of providing backdoor access to Nvidia chips for Chinese companies through data centres in Malaysia, Indonesia and Thailand. Singapore does not ban moving such chips to overseas firms, yet doing so can still violate US export rules, and Singapore says it expects companies under its authority to follow those rules. Megaspeed says its compliance frameworks cover US export requirements and local laws wherever it operates."
+   ],
+   "cav": "The sources disagree on when Alice Huang left Megaspeed: one report points to August last year, while C4ADS says she stepped down near the end of 2023 yet remained “practically in control”. The allegations about Jensen Huang and the chip-diversion suspicions are unproven, and Megaspeed’s account is its own.",
+   "op": "Export controls are only as credible as the agencies enforcing them, and secrecy over who held back a listing decision undermines public trust. Congress should press Commerce and Megaspeed for records in public wherever possible. Rule of law requires answers, not closed-door assurances.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+  },
   {
    "id": "w-2040d82e72f01ad6",
    "member_ids": [
@@ -827,641 +1087,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
-  },
-  {
-   "id": "w-3cc5dfc334354471",
-   "member_ids": [
-    "w-3cc5dfc334354471"
-   ],
-   "section": "World",
-   "published_at": "2026-11-14T12:14:14+00:00",
-   "t": "Trump, Xi and Putin Set for First Trilateral Meeting at APEC Summit in Shenzhen",
-   "s": "The White House says Trump, Xi Jinping and Vladimir Putin will meet as a group for the first time on the sidelines of the APEC summit in China. Nuclear arms control is expected to dominate, against the backdrop of wars in Ukraine and Iran and strained US-China trade ties.",
-   "p": [
-    "The White House has said that Trump, Xi and Putin will hold their first three-way meeting on the fringes of the Asia-Pacific Economic Cooperation gathering in Shenzhen. Washington has also confirmed that Trump will attend the event, which is scheduled for November 18 and 19.",
-    "According to the White House, nuclear proliferation will be the main subject. The talks take place amid several overlapping crises: Russia’s military campaign in Ukraine, the joint US and Israeli war against Iran, and continuing trade friction between Washington and Beijing.",
-    "New START, the bilateral treaty that limits the strategic nuclear arsenals of Washington and Moscow, sits near the top of the agenda. It lapsed in February. Signed in 2010, it set caps on both countries’ strategic forces. Russia holds the largest number of warheads, the US comes second, and China, which is expanding its arsenal quickly, ranks third.",
-    "Trump turned down Russia’s offer to extend the pact once it expired. He wants a “new, improved and modernised” agreement that also includes Beijing. Reports suggest China is reluctant to sign onto an accord it had no hand in shaping. A senior administration official told Reuters the issue would open the conversation, but added that the US does not expect any deal to emerge.",
-    "Iran is also expected to feature. Full-scale strikes have paused for now, yet the conflict that the US and Israel began on February 28 has reached a stalemate. The Strait of Hormuz has remained closed for more than 100 days, and ships there still face Iranian attacks and sea mines. Before the war, a third of China’s crude oil supply moved through the waterway.",
-    "Trade remains a point of contention. Trump raised tariffs on Chinese goods by 145 percent last year, and Beijing responded with 125 percent levies on American imports. The two sides have since lowered duties and concluded several agreements. Separately, a scandal at chipmaker Nvidia has led Washington to accuse China of spying on its chief executive, Jensen Huang. Beijing denies the claim.",
-    "A Trump administration official said the president is unlikely to raise Russia’s war in Ukraine, although the Kremlin had earlier suggested the subject could come up. Officials argue that China is not part of the current peace effort, in which envoys Steve Witkoff and Jared Kushner are visiting Ukraine and Russia this week.",
-    "Analysts believe the summit could benefit Putin, offering him images for home audiences and a stage to demonstrate influence while Ukraine recedes from view. Alexander Bratersky, a Moscow-based journalist and political analyst, told Al Jazeera that the meeting could help Putin project a standing as a leader who can shape Europe’s security order after the war.",
-    "Beijing has pressed for an end to the Iran war, which has disrupted its own energy supplies. Last month, China’s Foreign Ministry said that pushing it into trilateral nuclear disarmament talks at this stage would be unreasonable and unrealistic. Officials say Trump wants both China and Russia included in a new non-proliferation treaty. White House spokesperson Olivia Wales said the president regards proliferation as very dangerous."
-   ],
-   "cav": "These are pre-meeting previews, so no outcome is reported. The administration’s expectations and Beijing’s position are second-hand, the Kremlin’s earlier suggestion about Ukraine is unconfirmed, and the Nvidia spying allegation is unproven and denied by China.",
-   "op": "Arms control among the world’s leading nuclear powers should rest on written terms, public commitments and verifiable limits, not on a leaders’ photo opportunity. With New START lapsed and no deal expected, transparency is the real test. If the meeting yields only images, the public will have learned little about the risks it was meant to reduce.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-ba94a2c3f1ae1f4f",
-   "member_ids": [
-    "w-ba94a2c3f1ae1f4f",
-    "w-42b80b2e75c18f5d",
-    "w-a61501fbc50aff18",
-    "w-42e4ac49238fa49b"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-14T11:54:31+00:00",
-   "t": "Microsoft says services fully restored after day-long global outage hits governments",
-   "s": "Microsoft says its services have been fully restored after a worldwide outage disrupted governments, businesses and public services for about a day. The company apologised and blamed an issue linked to an earlier network upgrade.",
-   "p": [
-    "Microsoft said on Saturday that its services had been fully restored after a worldwide outage that disrupted governments, businesses and public services. The company said it had restored service to the remaining affected customers and regions, and that the underlying issue had been addressed.",
-    "The outage began on Thursday and lasted well over 24 hours, according to the reports. Ookla, a web testing and network diagnostics company, put the start at about 1725 UTC on Thursday. Downdetector, an outage tracker, logged more than 7.4 million problem reports worldwide. Users of Outlook, Teams and Copilot said they could not send emails, manage calendars or hold online meetings.",
-    "Public bodies in several countries reported problems. In the UK, hospital staff reportedly went back to paper records, and one union said ambulance services had suffered a “serious impact”. Courts were also hit, with some juries sent home early, according to the Guardian. In the US, the House of Representatives reportedly lost a day of legislative work, and school districts asked parents to contact schools by phone or app.",
-    "Australia’s federal police and its domestic spy agency, Asio, were affected. Asio’s director general, Mike Burgess, said the systems had been hit “on one level, yes, but not completely”. Government email services in Japan became unavailable, and staff reportedly switched to text messages. Agencies in the Netherlands, Belgium and France also reported difficulties, and Canada’s national rail network warned passengers they might not receive email updates.",
-    "Microsoft apologised for the disruption. It said the incident was introduced by an issue during an earlier network capacity upgrade, and that it was not related to a cyber-attack. Microsoft also said it had no indication that a US nationwide aviation ground stop on Friday was linked to the disruption, and a US homeland security official reportedly confirmed there was no link.",
-    "Experts said the event showed how much governments and businesses depend on a small number of large technology providers. Steven Murdoch, a security engineering professor at University College London, said outages of this size usually result from unexpected interactions between systems. Jeremy Singer of the University of Glasgow said it could prompt questions about how much resilience the IT ecosystem needs. Microsoft says a full post-incident report will follow once its review is complete."
-   ],
-   "cav": "Reported figures differ: one source counts more than 70 affected countries, another at least 74, and the total number of people affected was not clear. The cause is Microsoft’s own account and has not been independently verified. The full post-incident report is not yet published.",
-   "op": "Governments and hospitals have handed essential communications to a handful of providers, often with no fallback when those systems fail. Microsoft should publish its promised report with detail on the network change that triggered the failure and the safeguards that will prevent a repeat. Public bodies should publish contingency plans now, not after the next outage.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
-  },
-  {
-   "id": "w-da7892f5f31a11e0",
-   "member_ids": [
-    "w-da7892f5f31a11e0"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-14T11:43:06+00:00",
-   "t": "Three killed in Belgorod drone attack as Zelenskyy says US raised NATO membership linked to Donbas",
-   "s": "Russian officials say three members of one household died in a Ukrainian drone strike in Belgorod. Separately, Zelenskyy says Washington tied NATO membership to a possible Donbas withdrawal.",
-   "p": [
-    "Russian officials report that a couple and their toddler died when a Ukrainian drone struck their residence in Proletarsky, a location in Belgorod roughly 20 kilometres from the frontier. The strike happened on Saturday. Russia’s defence ministry added that its forces downed 29 Ukrainian drones overnight, several of them over the Moscow region.",
-    "Kyiv’s air force gave a contrasting tally. It said Russia had launched 96 drones from Friday evening, and that 81 were downed or jammed by early Saturday. Strikes were logged at eight sites, with debris falling at two more. A regional power provider also reported outages in parts of northeastern Sumy.",
-    "On Friday, Zelenskyy told reporters, in remarks released under embargo until Saturday, that American negotiators at this week’s Abu Dhabi talks had asked whether Ukraine would give up its eastern Donbas troops in return for NATO membership. He described this as the first time the question had come up, adding that no concrete proposal existed. He said Ukraine would not pull its forces out, but might put the matter to a referendum if it secured firm security guarantees, military funding and reconstruction money.",
-    "Moscow demands that Kyiv leave territory it still holds, and it opposes Ukraine joining the alliance. Zelenskyy also ruled out amending the constitution to declare neutrality, arguing that such a step would not provide lasting safety.",
-    "US-brokered direct talks between the two sides resumed this week, fuelling hopes for an early end to the fighting. Beyond fresh prisoner exchanges, however, little visible progress has been reported. European representatives are due to join the next round."
-   ],
-   "cav": "The US question rests solely on Zelenskyy’s account, and the sources contain no confirmation from Washington. The casualty figures come from Russian authorities, and the two sides’ drone counts conflict and cannot be independently verified from the evidence.",
-   "op": "A family’s deaths deserve plain accounting, not competing talking points. Any arrangement trading occupied land for alliance membership must be negotiated openly, with the public and European partners informed rather than settled behind closed doors.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-45c521b7acedad65",
-   "member_ids": [
-    "w-45c521b7acedad65",
-    "w-b3597e97289d05ac"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-14T11:41:20+00:00",
-   "t": "Zelensky says Washington floated Donbas withdrawal in return for Nato membership",
-   "s": "Ukraine's president says American negotiators asked whether Kyiv would pull its remaining troops out of Donbas if it joined the alliance. He called the question new.",
-   "p": [
-    "Volodymyr Zelensky told reporters on Saturday that US negotiators had put a hypothetical question to Kyiv: would Ukraine withdraw from the eastern Donbas if it became a Nato member? He said this was the first time such a question had been raised, and he placed it within the broader diplomatic effort to end the war with Russia.",
-    "The remarks came after US envoys Jared Kushner and Steve Witkoff held talks with Russian President Vladimir Putin in Moscow. According to the BBC, they then travelled to Dublin on Thursday to meet Zelensky, which coincided with an EU summit in the Irish capital.",
-    "Kyiv has long wanted Nato membership as part of any settlement, arguing it would discourage future attacks. Moscow has called another Nato member on its border unacceptable. Zelensky has repeatedly said Ukraine will not give up sovereign land, even though Russia continues to demand the Donbas.",
-    "Zelensky added that he would put a proposal to a referendum if it offered security guarantees, no limits on Ukraine's armed forces and money for reconstruction. He said the American idea suggested “Nato is back on the agenda”, yet warned that Putin's signals showed how hard the talks would be.",
-    "Russia holds about a fifth of Ukraine's territory, including most of the Donetsk and Luhansk regions that form the Donbas. The remaining patches Ukraine controls there would carry symbolic weight, since handing them over would mean accepting Russian ownership of the whole area.",
-    "Putin and Kremlin officials appear to have kept their position unchanged. Moscow has previously set out limits on Ukraine's army, territorial concessions and guaranteed neutrality as terms for peace. Kyiv has refused these, saying they would weaken its ability to defend itself. Earlier, US officials had said Ukrainian Nato membership was not on the table.",
-    "Ties between Kyiv and Washington have been strained. Trump asked Ukraine to halt strikes on Russian oil facilities deep inside Russia, aiming to ease fuel prices that have climbed since the US and Israel attacked Iran in February. Zelensky later accused US officials of restricting Ukraine's Starlink service, and Trump called for new elections. Ukrainian elections are suspended under martial law, though Zelensky has said he would hold them within months of a peace deal."
-   ],
-   "cav": "The proposal rests on Zelensky's account; the evidence contains no direct confirmation from Washington. The sources also differ on where the latest talks happened: a second outlet places them in Abu Dhabi, while the BBC describes visits to Moscow and Dublin. That outlet also describes Donbas as a city, whereas the BBC calls it a region.",
-   "op": "Any proposal to trade sovereign territory for alliance membership goes to the heart of who decides Ukraine's borders. Such terms should be stated publicly, not relayed second-hand from private envoy meetings. Ceding ground under pressure would set a precedent that no lasting peace process should accept.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
-  },
-  {
-   "id": "w-ff97d48934f03137",
-   "member_ids": [
-    "w-ff97d48934f03137",
-    "w-cc9b3440cdb37a3f",
-    "w-e7b299eff0f699e4"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-14T11:31:19+00:00",
-   "t": "Hungary seizes cash buried in forests in corruption probe linked to ex-minister Seszták",
-   "s": "Hungarian investigators say they recovered cash worth roughly $19.5 million, much of it dug out of forest ground, in searches tied to a former development minister under Viktor Orbán. The former minister is a suspect and has not been convicted.",
-   "p": [
-    "Hungarian authorities report that they took possession of more than €17.5 million in cash, stashed in multiple parts of the country. Among the hiding places was ground beneath forests. The National Asset Recovery and Protection Office (NVVH), an anti-graft body, ran the operation on 12 and 13 November across Budapest and the counties of Pest, Békés and Nógrád.",
-    "The searches form part of a criminal case against Miklós Seszták, who led Hungary’s development ministry from 2014 to 2018. Investigators said they found money in farm buildings, warehouses and private homes, as well as in a secure box in an isolated spot. The agency also released video of officers digging outdoors after nightfall.",
-    "The sums were counted in three currencies: 5,071,632,000 forints, €2,658,350 and $1,257,100. NVVH said the cash went to the state treasury. Finance Minister András Kármán wrote on Facebook that a team of 12 treasury staff needed eight hours, and five counting machines, to tally it.",
-    "Investigators suspect that between 2015 and 2018 Seszták and the head of Hungarian National Asset Management received more than 11 billion forints in improper payments from firms working under contract to Volánbusz, a national bus operator. Al Jazeera, drawing on the same probe, puts the alleged bribes and kickbacks above $37.2 million, linked to inflated prices for used buses and state construction work. These are allegations that no court has tested.",
-    "Seszták has been held since a court ordered his detention on 30 September at the agency’s request. In October, officers searched his home in Kisvárda and reportedly found safes of the kind typically used by lenders and pawnbrokers. In late October the court extended his custody to 30 January, pointing to the gravity of the case and a concern that he could abscond.",
-    "Prime Minister Péter Magyar, whose Tisza party unseated Orbán in April after 16 years in office, presented the seizure as a sign that the era of abuse was ending. Orbán, for his part, has accused the government of using the investigations to drive him from public life, and has called the cases against his circle political persecution. Other former ministers and Gyorgy Matolcsy, ex-head of the central bank, have also been arrested in separate matters. Matolcsy denies any wrongdoing.",
-    "A survey by the pollster Median for the Hungarian outlet HVG found that 70 percent of respondents see probing alleged corruption under Orbán, and holding those involved answerable, as highly important. According to the Guardian, Orbán had not responded publicly to the latest seizure."
-   ],
-   "cav": "The sources give the total differently: Euronews states it in euros as more than €17.5 million, while the Guardian and Al Jazeera put it at about $19.5 million. The bribery figures are investigators’ suspicions as relayed by the media, and the reports do not explain how the seized cash connects to those payments. Orbán’s description of the probes as political persecution is his own position and has not been independently checked.",
-   "op": "A pile of cash in a forest is not proof of guilt, and headline totals should never substitute for evidence. Hungary’s new government will earn lasting public trust only if every search, detention and charge stays open to independent courts and public scrutiny, whoever sits in the dock.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/14/hungary-seizes-millions-in-cash-found-buried-in-forests-amid-corruption-investigation"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
-  },
-  {
-   "id": "w-db67b4f4eacea579",
-   "member_ids": [
-    "w-db67b4f4eacea579",
-    "w-83583acc124c4da6",
-    "w-21653ceabd593c5b"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-14T11:30:10+00:00",
-   "t": "Cruise ship capsizes after tanker collision in New Orleans; officials report all passengers accounted for",
-   "s": "A cruise ship was struck by a tanker while docked in New Orleans on Friday and partly sank, but officials say everyone on board has been accounted for. The cause is under investigation.",
-   "p": [
-    "A cruise ship docked in New Orleans was struck by a vessel on Friday, and officials said everyone on board had been rescued. The American Heritage, a paddlewheel boat operated by American Cruise Lines, was hit near the Port of New Orleans and went over onto its side, according to footage shared widely online. Video shows the vessel taking on water and people in life jackets swimming toward rescuers.",
-    "Reports differ on the vehicle involved. The BBC and Euronews describe a tanker, while DW names the freighter Atlantic Asphalt as the ship that hit the cruise boat. All sources agree the cruise ship was docked when the impact happened.",
-    "The number of people involved also varies between reports. The BBC said about 130 people were rescued and that 32 were taken to hospital with non-critical injuries. DW said more than 30 people were hospitalised and that at least 180 passengers and crew were rescued. The Port of New Orleans, quoted by Euronews, said all 197 passengers and crew had been accounted for and that no critical injuries had been reported. Those figures have not been reconciled in the sources.",
-    "New Orleans Mayor Helena Moreno told reporters that, based on the information available, no one was unaccounted for, calling it “a miracle on the Mississippi.” She credited harbour police who entered the water first, along with firefighters and nearby vessels that helped pull people out. A local witness, Devon Flanagan, told AP that the scene was chaotic, with many boats trying to help while people were still in the water.",
-    "According to AP, as cited by DW, the cruise ship was built in 2015, is five stories tall and can carry up to 150 passengers. It was finishing an eight-day trip to several destinations in Louisiana and Mississippi. The BBC reported that a possible steering fault is suspected, but that the cause remains under investigation. US Homeland Security Secretary Markwayne Mullin said on social media that his department was coordinating closely with state officials and devoting resources to the rescue effort.",
-    "The operator said in a statement that guests and crew had been evacuated and that it was deeply concerned for everyone involved. The Port of New Orleans described the response as a display of courage and coordination, and said the incident could have been far worse."
-   ],
-   "cav": "The sources disagree on the number of people rescued and on whether the vessel that struck the cruise ship was a tanker or a freighter. The steering fault is only a suspicion reported by the BBC, and the Port’s account comes from social media posts rather than a formal report.",
-   "op": "The cause is still unexplained, and a suspected steering fault is exactly the kind of question that must be answered in public. Investigators should publish their findings, so passengers and port workers can judge whether the safety rules that protect them were properly applied.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
-  },
-  {
-   "id": "w-de5a8f73694fe50c",
-   "member_ids": [
-    "w-de5a8f73694fe50c"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-14T10:35:08+00:00",
-   "t": "Zelenskyy says US floated ceding Ukrainian land to Russia in exchange for NATO membership",
-   "s": "Ukrainian President Volodymyr Zelenskyy said Washington had proposed that Ukraine cede land to Russia in return for NATO membership, an idea he said had not been raised before. Moscow appeared to dismiss the notion.",
-   "p": [
-    "Zelenskyy told reporters on Friday that the United States had asked whether Ukraine would withdraw from Donbas if it joined NATO. According to AFP, which reported his remarks, the comments were embargoed until Saturday. He described the question as the first time such an idea had been raised.",
-    "Zelenskyy also said Ukraine was discussing specific security guarantees with NATO and the European Union. He added that he would ask Ukrainians whether they accepted the terms if Western nations confirmed them.",
-    "The remarks follow a meeting in Moscow earlier this week between Russian President Vladimir Putin and US special envoys Steve Witkoff and Jared Kushner. Putin signalled that Russia would not back down on its territorial demands in parts of Ukraine and rejected foreign peacekeeping troops in the country.",
-    "The envoys then met Zelenskyy in Ireland on Thursday. The three sides said Europe would have a “voice” in future peace negotiations. Kushner wrote on X that this would allow talks to address wider postwar European security arrangements alongside territorial issues.",
-    "Russian foreign ministry spokesperson Maria Zakharova cast doubt on the proposal, saying the issue was not discussed in the Moscow talks as far as her department was aware. Presidential aide Yuri Ushakov said the European position had been comprehensively outlined and that Europeans must decide whether they want peace or the continuation of the war."
-   ],
-   "cav": "The land-for-membership proposal rests on Zelenskyy’s account; the evidence contains no US confirmation of it. Zakharova’s denial is qualified by “as far as her department was aware”, so the Kremlin’s position on whether it was discussed remains unclear.",
-   "op": "Any deal that trades territory for alliance membership should be negotiated openly, with Ukrainians given a real say through a transparent process. Who proposed what, and on what terms, is exactly what the public needs to know before any settlement is presented as a done deal.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
-    ]
-   ]
-  },
-  {
-   "id": "w-eb8c50bd752518ed",
-   "member_ids": [
-    "w-eb8c50bd752518ed"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-14T07:21:27+00:00",
-   "t": "FAA nationwide ground stop scrambles college, NBA and NHL travel ahead of busy weekend",
-   "s": "A several-hour nationwide halt to US flights on Friday left college, NBA and NHL teams rushing to reach games, forcing rescheduled kickoffs, bus trips and hotel searches. Transportation officials blamed communications problems at regional air traffic control centres.",
-   "p": [
-    "The Federal Aviation Administration grounded all flights nationwide for several hours on Friday, disrupting sports travel across the United States just before a packed weekend of games. Transportation officials cited “extraordinary circumstances” caused by communications issues at regional air traffic control centres.",
-    "The effects were varied. Some teams searched for hotel rooms, others rebooked flights, and leagues adjusted start times. Several college football programmes chose to charter buses rather than wait for the stoppage to end.",
-    "The most visible fallout was in college football. Mississippi’s game at Oklahoma was moved from Saturday to Sunday at 1pm ET because of travel issues. Oklahoma athletic director Roger Denny said in a statement on X that the Southeastern Conference had threatened a forfeit if Oklahoma did not agree to the change, and he said the decision “isn’t fair to our athletes”.",
-    "The Southeastern Conference said it was aware of the ground stop and its possible impact on team travel, adding that the safety and well-being of players and staff remained its highest priority. Auburn took a bus to Mississippi State, and the conference pushed that kickoff back from noon ET to 4.15pm. Purdue also travelled by bus to Iowa.",
-    "Other schools changed plans as well. The Big 12 moved Kansas against West Virginia earlier and pushed Arizona State against UCF later, giving the Sun Devils more time after a delayed flight. Washington returned to campus when its flight was grounded and left late on Friday for Michigan State, with that game moved back 75 minutes.",
-    "In the NBA, the Cleveland Cavaliers were forced to postpone their return flight from Miami until Saturday morning, leaving them due to land about eight hours before a home game against the Dallas Mavericks. Team officials had to rebook hotel rooms after checking out earlier in the day. The NHL said most of its teams had reached their destinations before the stoppage, while the San Jose Sharks arrived in Utah late on Friday.",
-    "Women’s basketball and soccer were also affected. Southern California was boarding in Los Angeles when the ground stop was issued, and the team returned to its arena after an extended wait. The Kansas City Current were unsure when their flight would be cleared. The US men’s national team’s match against Haiti in Miami was not affected.",
-    "The sources describe the disruption in detail but do not give a full account of how the FAA decided on the stoppage or how long the aviation problems lasted beyond the several hours reported."
-   ],
-   "cav": "The account relies on one outlet’s reporting. The FAA itself is not quoted directly; the cause is attributed to transportation officials. Denny’s claim about a forfeit threat comes from Oklahoma and is not confirmed by the conference beyond its general statement.",
-   "op": "Decisions affecting thousands of travellers were made in hours, with little public explanation of the fault. Transparent reporting from the FAA on what failed and why would let teams and fans judge whether the response was fair.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/019db629cb7bd074ac5aeef496db58c47c0bcacd/600_0_2832_2268/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=a4c1b592aa7df843f66446fe229fcee4",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption"
-  },
-  {
-   "id": "w-fd8ce9f123e3aa3b",
-   "member_ids": [
-    "w-fd8ce9f123e3aa3b"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-14T07:11:26+00:00",
-   "t": "Manchester Christmas traders explain why market food costs more, and say their margins are thinner",
-   "s": "Stallholders at Manchester's festive markets blame higher wages, ingredient costs and energy bills for steeper menu prices, and some say they are taking home less despite charging more. Shoppers interviewed by the BBC are divided on whether the portions justify the cost.",
-   "p": [
-    "Menus at Christmas markets have drawn complaints in recent years, with the BBC pointing to dishes such as an £8 bratwurst, an £11 Yorkshire pudding wrap and £5 for a handful of marshmallow sticks. The broadcaster asked traders in Manchester how they see the increases from behind the counter.",
-    "Nils Borstel, 25, works in Bratwurst King, a family firm that has been at the markets since 1999. He told the BBC that a sausage once sold for £3.50 and now costs £8, with most of that climb happening in the last five or six years. His family runs four stalls in the city centre, and he said higher prices for meat, power, staff and accommodation had left them little choice.",
-    "Borstel said about 15 workers come over from Germany to staff the stalls, joined by people hired locally. Even with large crowds and dry weather over the opening weekend, he felt shoppers were more careful with their money than before, and some now split a single portion between them. He said he had noticed the shift since 2019, when buyers were less concerned about what they paid for food and drink.",
-    "Two shoppers gave the BBC contrasting views. Neve, a student, said one dish had cost her roughly £15, while Poppy, who is currently on a gap year, paid £11 for a Yorkshire pudding wrap. Poppy said the food was enjoyable but that the amount felt small for the price. Neve, though, had sympathy for the sellers and suggested that the cost of renting pitches could push prices higher still.",
-    "Charlotte Whittle, director of CT Catering, has been trading at the markets for a decade and now operates four stalls. By her account, each stall costs at least £1,000 a day to keep running, which puts her daily outgoings at a minimum of £4,000. She listed wages, accommodation, deliveries, storage, packaging and card fees as part of that, and said keeping three vans parked in the city centre alone could cost £100 a day.",
-    "Whittle said her firm spends about two weeks readying its stalls before the season opens and another two weeks taking them down afterwards. She said the price of stock and packaging has climbed considerably over the years. She had raised some prices but absorbed part of the rise to avoid losing customers, and she argued that street food now matches restaurant food in quality. She also believes shoppers often underestimate the effort involved. According to the BBC, her company employs 57 people across four sites in Manchester.",
-    "Clark Murphy, whose family has sold at the markets for 22 years, runs Mr Crimble Crumble from two stalls selling fruit crumbles. The BBC material available does not include details of his costs or prices."
-   ],
-   "cav": "The figures come from individual traders and shoppers interviewed by the BBC, not from an independent survey, so they cannot be taken as representative of all market stalls. The report does not say how much Murphy's business charges or spends, and the claim that costs have risen most in the past five or six years is the trader's own account.",
-   "op": "Customers are entitled to ask whether a £15 dish or an £11 wrap is fair value, and traders are entitled to explain their costs. Transparent pricing, with clear portion sizes and published costs, would let both sides judge the trade honestly instead of trading accusations over the counter.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35a/live/9818c800-deaf-11f1-8fb5-a771a656a227.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
-  },
-  {
-   "id": "w-23ecfc7f2a7a6454",
-   "member_ids": [
-    "w-23ecfc7f2a7a6454"
-   ],
-   "section": "World",
-   "published_at": "2026-11-14T07:00:40+00:00",
-   "t": "Shenzhen summit revives Yalta comparisons as Trump, Xi and Putin prepare to meet",
-   "s": "A possible trilateral meeting of Donald Trump, Xi Jinping and Vladimir Putin at the Apec summit in China has prompted warnings that excluded countries could be traded away. The Guardian’s analysis argues that the talks reflect a search for a new order built on spheres of influence.",
-   "p": [
-    "According to The Guardian, Trump, Xi and Putin are expected to meet on the sidelines of the Apec summit in Shenzhen, China, next week. Ukrainian President Volodymyr Zelenskyy is among those who have voiced concern that the meeting could become a “Yalta 2.0” moment, a reference to the 1945 conference in Crimea where the wartime powers reshaped postwar Europe.",
-    "The article’s central argument is that countries absent from the table, including Ukraine, eastern European and Baltic states, Taiwan and Iran, have reason to fear that their backers could trade their interests away. The writer describes Putin as a long-standing advocate of recreating the Yalta format, and says Trump appears to be receptive to the idea.",
-    "Russia’s chief negotiator, Vladimir Medinsky, was quoted on Russian television describing the goal as a “comprehensive system of comprehensive security” in Europe, which he said could become a new Yalta or Potsdam. Russia’s foreign ministry spokesperson, Maria Zakharova, suggested the summit could mark a turn away from chaos towards stability, according to the article.",
-    "The Guardian notes that no one is sure what will come of a meeting, or whether China will allow anything beyond formal statements. The article reports that Beijing is already seeking to keep nuclear disarmament off the agenda.",
-    "The piece places the original Yalta conference in a critical light, recalling how Franklin D Roosevelt accepted Soviet influence in Poland in return for support on a new international organisation and on the war against Japan. It also cites a 2005 speech by George W Bush that condemned Yalta for consigning millions to communist rule. The writer says that tradition has since been set aside by Trump, whose 2025 national security document reportedly endorsed spheres of influence and named the western hemisphere as America’s domain.",
-    "According to the article, the United States and Russia are both looking to China to help them disentangle from wars that have damaged them. The writer attributes the Iran conflict to what he calls Trump’s overreach, a judgement presented as analysis rather than established fact. Commentators quoted in the piece offer differing views on China’s likely role, from Minghao Zhao’s non-interference stance to Wang Huiyao’s argument that China is needed to stabilise the situation.",
-    "The article contends that China is unlikely to endorse a settlement reached without Europe, and that its efforts to repair ties with the European Union could be jeopardised by backing Putin’s vision of a new security architecture. Charles Kupchan of the Council on Foreign Relations is quoted as saying that more Yalta-style arrangements may be the future, while John Ikenberry is cited as rejecting such carve-ups in favour of a democratic alliance."
-   ],
-   "cav": "The summit had not yet taken place when the article was written, and the meeting was described only as expected. Much of the analysis rests on the writer’s interpretation of intentions in Moscow, Washington and Beijing, and several views are quoted second-hand from officials and academics. The Iran war characterisation is the writer’s judgement, and the sources disagree on whether China will take a stabilising role.",
-   "op": "Settling the fate of smaller states behind closed doors is the wrong lesson to relearn from Yalta. Any talks that touch on the sovereignty of Ukraine, Taiwan or others should not proceed without those countries at the table. Openness about what is discussed, and a firm assurance that nothing is decided over their heads, is the minimum test for Shenzhen.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/313e49f004e036f03234b3463d1a7fff49365024/536_0_5148_4119/master/5148.jpg?width=140&quality=85&auto=format&fit=max&s=aa8808f830d7f0fabe15cc8689a8e5de",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec"
-  },
-  {
-   "id": "w-33d1cdb7aa1774c9",
-   "member_ids": [
-    "w-33d1cdb7aa1774c9",
-    "w-a75173ff301574b4"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-14T06:56:20+00:00",
-   "t": "US flights slowly resume after nationwide ground stop, with thousands still cancelled",
-   "s": "The Federal Aviation Administration lifted a rare nationwide ground stop on Friday night, but passengers across the United States faced further delays and cancellations on Saturday. Officials blamed an outage linked to aging air traffic control equipment.",
-   "p": [
-    "Travellers to and from the United States kept facing delays and cancellations on Saturday, even after the Federal Aviation Administration (FAA) lifted a nationwide ground stop that had halted all flights across the country.",
-    "The order was issued on Friday after what the FAA described as a “telecommunications outage”. The agency said some departures were resuming and that it had tested its systems before clearing flights to resume. It advised passengers to contact their airlines for updates.",
-    "Transport Secretary Sean Duffy said operations were slowly returning to normal but warned that more disruption was likely as carriers moved aircraft and crews to where they were needed. He said the airspace reopened at about 8:15 pm Eastern time and that departures would be slow, depending on crew availability.",
-    "Duffy blamed the shutdown on what he called an “incredibly old” air traffic control system. Administration officials said new technology added to the network had overloaded antiquated equipment, causing intermittent communications and radar gaps. Duffy described the problem as a legacy system issue involving decades-old switches and routers, and said there was no evidence of foul play.",
-    "Homeland Security Secretary Markwayne Mullin said there was no evidence of hostile action and that the outage was not a cyberattack. He also ruled out any link to a Microsoft outage that had disrupted email systems worldwide that week.",
-    "Figures on the scale of the disruption differ between sources. FlightAware, a tracking service, reported more than 9,160 cancellations to or from the US on Friday and about 3,870 so far on Saturday. France 24, citing FlightAware, reported nearly 6,000 cancellations on Friday and more than 2,000 on Saturday. The sources do not fully reconcile these numbers.",
-    "Federal Aviation Administrator Bryan Bedford said the schedule should be back to normal by the end of Sunday, while acknowledging that airlines would still have delays and cancellations on Saturday. Duffy said Congress needed to provide funding, and he had formally requested $30.1 billion to upgrade the air traffic control system.",
-    "Passengers described crowded airports and repeated schedule changes. At New York’s LaGuardia Airport, Tiara Johnson said her flight to Orlando kept being pushed back and that she did not know when it would leave. Joseph Anderson, 72, trying to fly from Las Vegas to Oakland, said a national stop could also jam highways for travellers who considered driving instead."
-   ],
-   "cav": "The sources give different cancellation totals and do not say how long the disruption will last beyond official estimates. Officials’ explanations of the cause, including the outage’s technical details, come from administration statements and have not been independently verified.",
-   "op": "A nationwide shutdown of American airspace should prompt more than promises of a swift recovery. Officials owe the public a clear account of what failed, why the equipment was still in service, and how the $30.1 billion request will be spent and overseen.",
-   "confirmed": true,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/8070c46a-dff8-11f1-bbc8-f71d22e7fea9/w:1024/p:16x9/063-2304502550.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop"
-  },
-  {
-   "id": "w-315e43dca758242d",
-   "member_ids": [
-    "w-315e43dca758242d"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-14T03:11:28+00:00",
-   "t": "No deaths reported after tanker hits river cruise ship in New Orleans, officials say",
-   "s": "All passengers and crew were accounted for after an oil tanker collided with a docked river cruise ship on the Mississippi River in New Orleans on Friday afternoon. Officials said none of those taken to hospital had critical injuries.",
-   "p": [
-    "The Atlantic Asphalt tanker struck American Cruise Lines’s American Heritage at about 12.30pm, according to New Orleans mayor Helena Moreno, who spoke at a news conference near the scene. Moreno called the outcome a “miracle on the Mississippi” and said that no passengers or crew were unaccounted for.",
-    "Thirty people who were reported injured had been on the American Heritage, and they were said to have mostly had bumps and bruises. Two other injured people were harbor police officers who had boarded the riverboat to help with rescue efforts. Moreno credited a fast, multi-agency rescue effort for the fact that many people ended up in the cold, fast-moving river.",
-    "The Port of New Orleans said the American Heritage had 197 passengers on board when it was hit. According to port press secretary Kimberly Curth, the ship had docked about two hours earlier to begin disembarking passengers.",
-    "Officials have not yet said what caused the collision. US Coast Guard commander Melanie Burnham said the tanker apparently had “some type of loss of steering”, an account that has not been independently confirmed.",
-    "Video obtained by the Guardian’s reporting partner WWL Louisiana appears to show the tanker striking the side of the cruise ship, which then rolled onto its side. A witness, Jamie Holford, told WDSU that it took about 15 minutes from impact until the ship rolled over.",
-    "Martin J Davies, a maritime law expert at Tulane University, said local pilots are normally on board ships travelling the Mississippi. He said the tanker was moving slowly upriver against the current and that its movements suggested something had “gone really badly wrong”. Davies also said the tanker was fortunate not to hit the nearby Crescent City Connection bridge.",
-    "Passenger Tamara Carrasco told a local journalist she was dining on the first floor when she saw the tanker approaching. She said the tanker dropped its anchor and that its crew ran away across the deck. Moreno said many passengers lost identification, car keys, phones and other belongings, and that most were visitors from out of town.",
-    "Louisiana governor Jeff Landry also described the outcome as a miracle, especially given the number of people on board who had to be brought out of the water."
-   ],
-   "cav": "The cause of the crash is not confirmed. The steering problem is an apparent observation by the Coast Guard, and much of the account comes from video, witnesses and an outside expert rather than from an official investigation.",
-   "op": "Credit is due to the rescuers, but luck should not stand in for accountability. A tanker apparently losing steering on a difficult river bend raises questions about vessel maintenance and pilot oversight. Investigators should publish what failed and why, so the next near-miss does not depend on a miracle.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
-  },
-  {
-   "id": "w-10eb0ca13f77856b",
-   "member_ids": [
-    "w-10eb0ca13f77856b"
-   ],
-   "section": "World",
-   "published_at": "2026-11-14T02:06:00+00:00",
-   "t": "Zelenskyy says Starshield speed curbs persist along Ukraine’s front line",
-   "s": "Ukraine’s president says limits on a US satellite communications system are hampering efforts to intercept drones. The complaint came as Russian strikes hit Kyiv and other Ukrainian cities.",
-   "p": [
-    "Volodymyr Zelenskyy told viewers in his nightly video address on Friday that speed limits on the US Starshield satellite network still apply. He said the Ukrainian army cannot operate freely inside the country while they remain, and that the curbs cover the whole combat zone as well as occupied areas.",
-    "Zelenskyy argued that the limits make it harder to shoot down jet-powered drones, including Shahed drones, which he described as Iranian-designed, and other unmanned aircraft. He added that the restrictions could suggest to Moscow that Washington might view Russian-held Ukrainian territory in a different light. He said he expected the defence and foreign ministries, together with the relevant American bodies, to resolve the matter.",
-    "Earlier this autumn, Ukrainian officials reported that Elon Musk’s SpaceX had suddenly reduced the speed of Starlink and of its military variant, Starshield. They tied the decision to friction with Washington over Ukrainian strikes on Russian oil refineries. The service came back on 24 October, yet Zelenskyy’s comments indicate that some constraints were still in place. The reporting does not specify which limits remain or how SpaceX has answered the complaints.",
-    "The remarks followed a fresh round of Russian attacks. According to the reports, a drone struck the National Institute of Traumatology and Orthopedics in central Kyiv at around 3am, wounding three people. The impact reached the second floor and damaged a neighbouring 19th-century building. The site lies near several Western embassies. Russia separately said it had downed close to 1,200 Ukrainian drones overnight, and it reported at least four deaths in the Volgograd region in the south.",
-    "Russian forces also hit Zaporizhzhia and Odesa on Friday, regional authorities said. In Zaporizhzhia, one person died and more than 50 were hurt, and an apartment block of five floors suffered serious damage. Governor Mykhailo Semikin said a rescue worker was killed when a slab of concrete fell during the clearing of rubble. In Odesa, the city’s military administration said two people died in an assault on a private home and five more were injured.",
-    "In Moscow, a car bomb on Friday gravely hurt Sergei Zavorotniy, 72, once a senior adviser to Mykola Azarov, Ukraine’s exiled former prime minister. The previous day, a car bomb in St Petersburg killed a senior Russian military figure whom officials have not named. A local broadcaster, citing unnamed sources, reported that the dead man was a colonel in the air force. The attacks are part of a run of attempted assassinations that are believed, though not proven in the reporting, to have been ordered by Kyiv.",
-    "At an EU leaders’ summit in Dublin, the bloc’s foreign policy chief, Kaja Kallas, cautioned against being drawn into traps Moscow is laying. She argued that the Kremlin wants a debate about European security so that attention moves away from its own aggression. Russia has also brought back its long-standing demand for a wholesale rewrite of the continent’s security order, a demand that Western governments turned down in 2021.",
-    "Ukraine’s anti-corruption campaign also made headlines. Serhiy Duka, a general in the SBU security service, walked free from pre-trial custody on Friday once $1.2m bail had been paid. He is a suspect in a major corruption case. Investigators say he was detained on 4 November in an operation against an alleged criminal network that they link to SBU personnel, prosecutors, police and organised crime. Footage from TSN.ua showed him insisting on his innocence after his release and thanking SBU colleagues who had raised the money."
-   ],
-   "cav": "Zelenskyy’s account of the Starshield restrictions is his own and is not independently detailed; SpaceX’s position is not given. Russia’s drone-shootdown and casualty claims, the Volgograd deaths and the link between the car bombs and Kyiv are attributed or unverified. Duka is presumed innocent until a final verdict.",
-   "op": "Decisions about who controls the satellite networks Ukraine depends on shape the battlefield, yet they are often made quietly by a private company. Kyiv says the limits favour Russia, and Washington should explain publicly what was agreed and why. Allies cannot plan their defence around rules they are never told.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/34ffcd2b31f13539cf87967f5bb3c678ec633f4b/472_426_5026_4023/master/5026.jpg?width=140&quality=85&auto=format&fit=max&s=7b2e51af8d86de9f0b1a258a711e68fc",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
-  },
-  {
-   "id": "w-e969adccebcd7fe0",
-   "member_ids": [
-    "w-e969adccebcd7fe0"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-14T00:53:52+00:00",
-   "t": "SpaceX Starship lifts off on Flight 15, but its booster fails to return for a planned double catch",
-   "s": "A SpaceX test of its Starship megarocket launched from Texas on Friday, but the planned catch of both stages did not happen. The booster came down in the Gulf of Mexico instead of returning to the tower.",
-   "p": [
-    "On Friday afternoon, SpaceX launched Starship from Texas in an attempt to catch both halves of the reusable vehicle, a first for the company. According to The Guardian, the attempt fell short of that goal.",
-    "The vehicle is described as the largest rocket in the world, measuring 407 feet. This was its 15th flight. The lower stage, Super Heavy, carries 33 Raptor engines, and the upper Starship sits on top. The upper section was scheduled to circle the planet roughly 14 times over 22 hours before being recovered at the Starbase launch pad in south Texas.",
-    "Both sections were meant to return to the launch tower, but the booster was called off and landed in the Gulf of Mexico. Why the diversion happened remains unknown. Kate Tice, SpaceX’s director of quality management, acknowledged that the result was not what the team had hoped for, while presenting the booster’s return as consistent with “rigorous safety checks”.",
-    "Elon Musk had earlier called a double catch a “critical breakthrough needed to make life multiplanetary”, so the outcome is a setback for that ambition. The upper-stage catch is still possible. If it succeeds, SpaceX would be catching that 171-foot section for the first time.",
-    "The launch went ahead as scheduled even though a nationwide ground stop disrupted hundreds of flights. Hawaii’s transportation agency said flights bound for the West Coast were briefly paused because of debris from the launch, then resumed on Friday.",
-    "The ship also deployed Starlink satellites, three of which carried cameras to study its heat shield. That information helps determine whether the craft is ready to return. Musk frames fast reuse as the key to cutting huge spaceflight costs, and he envisions the vehicle carrying people to the Moon and, controversially, Mars. NASA has contracted SpaceX and Jeff Bezos’s Blue Origin to build lunar landers that would carry astronauts to the Moon in 2028.",
-    "Earlier test flights have ended in explosions that revealed serious design flaws. In September, the latest test put the spacecraft into orbit around Earth for the first time, although its engine failed during the climb."
-   ],
-   "cav": "The sources do not explain why the booster was aborted, and the cause remains unknown. The account of the ground stop and Hawaii flight disruptions relies on reporting from the island’s transportation agency and has not been independently detailed.",
-   "op": "Reusable rockets promise cheaper spaceflight, but those claims rest on test results the public must be able to scrutinise. SpaceX should publish a clear explanation of the booster abort, and regulators should ensure that airspace disruption and debris risks are reported openly.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
-  },
-  {
-   "id": "w-fdb68417927b50a6",
-   "member_ids": [
-    "w-fdb68417927b50a6"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-13T23:40:45+00:00",
-   "t": "All passengers rescued after cruise ship American Heritage collides with vessel on the Mississippi",
-   "s": "Around 130 people were rescued after the American Heritage cruise ship was struck on the Mississippi River in New Orleans. Officials said 32 people were taken to hospital with non-critical injuries and no one was unaccounted for.",
-   "p": [
-    "The paddlewheeler American Heritage, operated by American Cruise Lines, was hit by the cargo vessel Atlantic Asphalt while docked in New Orleans. According to the BBC, the cruise ship was left lying on its side in the river after the collision.",
-    "Calls to emergency services began at about 13:30 EST on Friday, when people started trying to help passengers leave the boat as it took on water, according to Port of New Orleans chief Melanie Montroll. The port authority said about 129 passengers were aboard, in addition to crew.",
-    "Passengers began leaving the vessel as it started to list before tipping over, New Orleans Mayor Helena Moreno said. Tugboat operators, police and other rescuers went to help, while officials halted traffic on the river during the operation.",
-    "US Coast Guard Capt Melanie Burnham said the cause remains under investigation, but that there appeared to be a loss of steering. Governor Jeff Landry pledged an investigation into what happened and said ships had operated safely on the Mississippi for years.",
-    "Officials, including Moreno and Landry, described the rescue as a “miracle on the Mississippi”. President Donald Trump also praised the effort on Truth Social. A witness, Jamie Holford, told CBS he saw the ship hit the dock and heard a loud crash; his account is second-hand as reported by the BBC.",
-    "The sources differ on some details. One BBC passage describes the vessel as struck by a tanker, while others name a cargo vessel. The ship was finishing an eight-day cruise through Louisiana and Mississippi, and the company’s website says it can carry up to 150 guests."
-   ],
-   "cav": "The cause of the collision is not yet established, and the loss-of-steering explanation is a preliminary statement from the Coast Guard. The sources describe the other vessel inconsistently as a tanker and a cargo ship, and the passenger count differs slightly between reports.",
-   "op": "A rescue that saved everyone on board deserves praise, and the first responders who went into the water earned it. But a near-disaster on a busy waterway raises a plain question about how a ship lost steering, and the public deserves a clear, published answer rather than assurances that waterways are safe.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
-  },
-  {
-   "id": "w-129a3b37b25ba195",
-   "member_ids": [
-    "w-129a3b37b25ba195"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T20:16:13+00:00",
-   "t": "Microsoft says services still recovering after global outage hit email worldwide",
-   "s": "Microsoft says its email and other services are recovering but are not yet fully back, more than a day after a worldwide outage disrupted communications. The company says it has found no sign of hostile activity.",
-   "p": [
-    "More than a day after a mass outage disrupted communications around the world, Microsoft says its email and other services are getting better but are not yet fully operational. The outage began around 16:00 GMT on Thursday and reached users in 74 countries, according to the company. Microsoft attributed it to servers that were overloaded and became “unexpectedly available”, and it said there was no indication of a cyberattack or other malicious activity.",
-    "In a statement, the company described progress in restoring availability across a widening share of the affected infrastructure. It also said the backlog of queued email had dropped sharply and was nearing typical levels. Microsoft acknowledged, however, that some services were still unreliable. It reported improvements in Europe, North America and the Asia Pacific region.",
-    "The disruption hit Microsoft 365 products used by companies, institutions and private individuals, among them Outlook, Teams and Copilot. Al Jazeera reported that it was one of the longest interruptions in Microsoft’s history and the second disruption to its services this year. Microsoft has not said how many people were affected. In January, however, it said it had more than 450 million paying commercial subscribers to Microsoft 365.",
-    "The effects went well beyond office work. A trader told Reuters that foreign banks in Taiwan were hit especially hard, because their data is sent by email to overseas headquarters, and that fax machines were being used in Taipei. Euronext, the European exchange operator, asked companies to place their trades by phone. Norway’s parliament and several ministries lost access to email, and 80 to 90 Danish municipalities were reportedly affected. Rail operators in Germany, the United Kingdom and Canada said timetables and emailed tickets were disrupted, and the UK’s National Health Service fell back on paper records.",
-    "In the United States, the House of Representatives and local governments were affected, according to Reuters. The Department of Defense, which relies heavily on Microsoft’s services, declined to say whether it had been hit. The Pentagon had been due to begin upgrading its Microsoft infrastructure in June as part of a $9.7bn contract that includes access to Microsoft 365.",
-    "Walter Pasquarelli, a strategy adviser to governments and an affiliated researcher at the University of Cambridge, called the outage “first and foremost a communication risk”. He stressed that government services and infrastructure rely on the same platform that staff could not reach.",
-    "Markets were not rattled. Microsoft’s shares were roughly flat in US trading on Friday, while the Nasdaq, which is heavy with technology stocks, dipped slightly. Microsoft said it would review the incident and the steps needed to prevent future disruptions."
-   ],
-   "cav": "The figure of 74 countries, the 80 to 90 Danish municipalities and the reported impact on US government bodies all come from the company or from second-hand reports. The sources do not confirm how many users were affected or whether the Pentagon was hit. Microsoft has not yet published details of the review it promised.",
-   "op": "When a handful of companies run the email and documents that governments and hospitals depend on, an outage becomes a public matter. Microsoft should publish a clear account of what failed and how it will prevent a repeat. Transparency, not reassurance about share prices, is what customers and regulators are owed.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-49b7f4e09f25e873",
-   "member_ids": [
-    "w-49b7f4e09f25e873",
-    "w-e479559e2c0a731c",
-    "w-c9a260e6a9e86ea5",
-    "w-b0c156ec823cb83f"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T19:53:57+00:00",
-   "t": "Pressure mounts on Lutnick as the Nvidia scandal reaches Trump’s cabinet",
-   "s": "Treasury Secretary Scott Bessent has blamed the Commerce Department for failing to properly oversee exports of advanced chips, widening the fallout from the Nvidia scandal to President Donald Trump’s cabinet. Pressure on Commerce Secretary Howard Lutnick is growing from across the political spectrum.",
-   "p": [
-    "Bessent said several government agencies were in favour of putting Megaspeed on the entity list for months, according to his remarks to CNBC. Asked about the delay, he pointed to the Commerce Department, saying “Commerce has the pen” and that questions about its internal process should go to the department.",
-    "Megaspeed, the firm where the woman at the centre of the affair reportedly worked, had been probed by US government agencies over suspicions that it was smuggling Nvidia chips into China, according to reports. The company is not on the list of firms that US companies are barred from working with. Megaspeed has been contacted for comment.",
-    "Jensen Huang has left his post as Nvidia chief executive after reports that he had an affair with a businesswoman who was also alleged to be a Chinese spy. The reports on the affair and the spy allegation remain allegations, and the sources describe his departure in different terms.",
-    "Bessent said he was frustrated by delays in adding the company to the export control list and by reports of advanced chips leaking into China. He said President Trump had made clear that China should not receive Nvidia chips above the H100 level. According to the New York Times, the Commerce Department had investigated Megaspeed last year. The Financial Times reported separately that the department was delaying efforts to have the firm included on the list.",
-    "Lutnick has been called to testify before the Senate Banking Committee next month about the department’s role in allowing Nvidia to export its advanced chips. Huang has also been summoned, and the committee chairman, Republican Senator Tim Scott, said recent reports raised serious concerns about national security.",
-    "Democrats on key congressional committees have asked the Commerce Department and Lutnick to retain all records on decisions to allow Nvidia to sell advanced chips to Chinese companies. Ways and Means ranking member Richard Neal and Senate Finance ranking member Ron Wyden have started investigations. They say Nvidia’s H200 chips could reach Chinese firms if they were first imported into America for inspection, and that a 25% tariff was imposed on those chips under a section of the Trade Act meant to address national security risks. They argue the move appears to have undermined US national security.",
-    "A report from the French broadcaster said Huang was a close informal adviser to Trump on technology issues and had spent years lobbying against curbs on advanced chip sales to China, though the extent of his influence remains unclear from the available reporting."
-   ],
-   "cav": "Sources describe Huang’s exit differently, as ousted, resigned or quit, and the affair and spy allegations are reported claims rather than established facts. Bessent’s account of internal disagreements is his own, and the Commerce Department’s reasons for the delay are not given in the evidence.",
-   "op": "The central issue is not personal scandal but whether rules governing sensitive chip exports are enforced at all. If agencies wanted a company listed and the department held the decision, the public deserves a clear record of who delayed and why. Congressional demands for documents are the right tool, and answers should come in records, not televised blame.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
-  },
-  {
-   "id": "w-50ed42af2146ca4c",
-   "member_ids": [
-    "w-50ed42af2146ca4c"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-13T19:51:28+00:00",
-   "t": "Nvidia scandal deepens pressure on Commerce Secretary Lutnick after Jensen Huang’s exit",
-   "s": "US Commerce Secretary Howard Lutnick is under mounting strain over the Nvidia affair, and officials reportedly discuss whether he should be dismissed. The turmoil followed the departure of Nvidia chief executive Jensen Huang.",
-   "p": [
-    "Howard Lutnick is facing mounting criticism over the Nvidia affair, and several officials in the Trump administration have openly questioned how he has handled it. Scott Bessent, the Treasury secretary, put the blame on Lutnick’s department for Washington not having imposed export curbs on certain Nvidia chips bound for China.",
-    "The turmoil began when Jensen Huang stepped down as Nvidia’s chief executive on Thursday. Colette Kress, the company’s finance chief, has taken over on an interim basis. Reports of several affairs prompted the exit, chiefly one with Alice Huang, no relation, who is suspected of spying for China.",
-    "According to the Associated Press, White House officials are weighing whether Lutnick should be dismissed. That debate followed revelations that an intelligence report on Jensen Huang’s link to the suspected spy had circulated among senior administration figures.",
-    "Lutnick is also criticised for his department’s slow move to place Megaspeed, a Singapore-based firm tied to Alice Huang, on the list of entities regarded as a national security risk. Megaspeed has reportedly bought billions of dollars’ worth of Nvidia chips in recent years. Bessent told CNBC he had pushed for the listing for months, while noting that the commerce department holds the decisive role.",
-    "Republicans have joined the chorus. Senator John Cornyn told the Financial Times that a thorough inquiry and accountability were needed, and said “Heads should roll.” Senator John Curtis questioned whether the department was serving Americans’ interests. Democratic leader Chuck Schumer wants Huang and Nvidia to say whether US security was jeopardised.",
-    "Lutnick’s spokesperson, Kristen Eichamer, told NBC News he has agreed to appear voluntarily before the Senate banking committee. He is due to testify before Congress next month, shortly after Huang is set to answer lawmakers’ questions. House Democratic leader Hakeem Jeffries has demanded a classified briefing for all members of Congress.",
-    "Scrutiny has also fallen on Trump’s ties to Huang. The New York Times reported that the president phoned him two days before he stepped down and urged him to keep fighting for his post. Schumer asked what Trump knew when he brought Huang aboard Air Force One on a state visit to Beijing earlier this year. Reuters reported further relationships, including with an Nvidia executive and an unnamed employee.",
-    "Nvidia’s board thanked Huang for his “profound” contributions but did not mention the espionage allegations or the personal-conduct reports. House Speaker Mike Johnson said a consensus is growing in Congress to limit chip exports to China. Reuters, citing people familiar with the matter, reported that Chinese companies are trying to secure Nvidia chip capacity outside China."
-   ],
-   "cav": "Much of the account rests on reports attributed to other outlets, including the Associated Press, the New York Times and Reuters. The suspicion against Alice Huang is unproven, the sources do not establish what Trump knew, and they do not confirm whether Lutnick will be dismissed.",
-   "op": "Whether national security was put at risk should be answered in public, not through leaks and resignation statements. Congress should publish the intelligence timeline and the reasoning behind the Megaspeed delay. Decisions on chip exports must rest on security rules, not personal friendships.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-  },
-  {
-   "id": "w-81b9e7f7bbe442be",
-   "member_ids": [
-    "w-81b9e7f7bbe442be"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-13T19:39:00+00:00",
-   "t": "Europe seeks a united voice for possible Ukraine peace talks as Moscow disputes US account",
-   "s": "The EU says it will join future talks to end Russia’s war in Ukraine as part of a joint European group. Russia’s Foreign Ministry has challenged a US envoy’s claim about Europe’s place at the table.",
-   "p": [
-    "European Council President Antonio Costa said on Friday that Brussels will be part of any future negotiations on ending Russia’s war against Ukraine. He added that the bloc would speak for Europe alongside France, Germany, Italy, Poland and Britain. Costa made the comments after a gathering of European leaders in Dublin, arguing that the continent needs one coherent message on decisions that affect Ukraine’s future and European security.",
-    "The announcement came a day after US envoy Jared Kushner suggested that European representatives would have a seat in the process. Kushner, who is also the son-in-law of President Donald Trump, said late Thursday that the agreement could not be concluded without Europeans present, and that Russian President Vladimir Putin was prepared to test the idea.",
-    "Russia’s Foreign Ministry pushed back. Spokeswoman Maria Zakharova told Germany’s DPA news agency that, to her ministry’s knowledge, the topic had not come up during Moscow talks with Kushner and Steve Witkoff. Russian state media reported that Putin’s side at Thursday’s meeting included his foreign policy adviser Yuri Ushakov, chief negotiator Vladimir Medinsky and envoy Kirill Dmitriev, and that no diplomats from the Foreign Ministry were present.",
-    "Europe has not agreed on who should represent it. European and Ukrainian leaders have long favoured a joint format, while Moscow has rejected it. Washington and Moscow have both called for a single negotiator, whereas several European governments want a team. EU foreign policy chief Kaja Kallas said she already represents the bloc on foreign and security matters, and acknowledged that Russia does not want her involved.",
-    "Latvian Prime Minister Andris Kulbergs made a blunter case, pointing out that Europe has a larger population, greater wealth and stronger military capacity than Russia. He said Europe needed more resolve to act on that advantage.",
-    "Separately, Ukrainian President Volodymyr Zelenskyy has complained about limits on Ukraine’s use of Starshield, the military satellite network run by SpaceX and owned by Elon Musk. He said on Thursday that the military faced fresh restrictions, and on Friday said the problem had not been resolved. According to Zelenskyy, connections worked only when devices moved below about 161 kilometres per hour, which he said made it impossible to use interceptors against jet-powered Shahed drones. He said he had told his ministers to intensify contacts with Washington.",
-    "The Wall Street Journal reported that Musk limited the speeds at which Ukrainian equipment could remain linked to the network. Both Musk and Trump have denied throttling Ukrainian access. Musk later accused Ukraine of using the service for military purposes, while Trump said Musk had restored it. Ukraine first raised the Starshield issue last month, following a row between Zelenskyy and Trump over a US decision to allow more Russian diesel into world markets.",
-    "German Chancellor Friedrich Merz urged Trump on Friday to avoid any surprises on Ukraine in dealings with Putin. Trump is expected to meet Chinese President Xi Jinping and Putin at an APEC summit in China next week. Merz said some in Europe worry the meeting could produce a “second Anchorage moment,” a reference to the Alaska summit between Trump and Putin last summer, which European officials see as favouring Moscow. He also argued that Europe need not negotiate a new security order with Russia, since one already exists."
-   ],
-   "cav": "Kushner’s remarks are reported second-hand, and Russia’s denial comes through Zakharova’s comments to DPA and Russian state media. The Starshield dispute rests on Zelenskyy’s claims and a Wall Street Journal report, while Musk and Trump deny throttling Ukrainian access. The sources do not say what outcome the talks might produce or when they would begin.",
-   "op": "Europe is right to demand a seat at any table deciding Ukraine’s future, but that seat only carries weight if the bloc speaks with one accountable voice. Ukraine’s access to critical communications should not hinge on decisions that are not clearly explained. Any deal must be transparent about its terms before anyone signs it.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
   }
  ]
 }
