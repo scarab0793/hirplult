@@ -1,6 +1,359 @@
 {
- "updated_at": "2026-11-17T14:52:32.397648+00:00",
+ "updated_at": "2026-11-17T23:08:16.028855+00:00",
  "items": [
+  {
+   "id": "w-df1977ca966d3981",
+   "member_ids": [
+    "w-df1977ca966d3981"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-17T23:03:39+00:00",
+   "t": "Nvidia's quarterly sales double to $115.8bn as it rules out reinstating ousted CEO Jensen Huang",
+   "s": "Nvidia reported sharply higher quarterly sales and profit on Tuesday, its first results since founder Jensen Huang exited, while its chair said the board does not intend to bring him back.",
+   "p": [
+    "Nvidia's quarterly sales doubled from a year earlier to $115.8bn (£86.9bn), according to the chipmaker's results, with its shares rising about 5% in after-hours trading. The company said its profit also doubled, reaching $65bn for the three months to October 25.",
+    "The results were the first since Huang's dramatic exit. He quit after two alleged extramarital affairs, one of them reportedly with a possible spy for China. Nvidia is investigating his conduct, the company has said.",
+    "Revenue from data centres, a major part of the business, also doubled, to $107bn. Nvidia said its growth is set to continue and forecast that revenue will rise a further 13% in the next quarter. Analysts had been uncertain whether the company would offer any forward-looking guidance at all.",
+    "Interim chief executive Collette Kress told analysts the company was carrying on as normal. “It is business as usual,” she said, adding that partners and suppliers were “100% behind us.” She ended the call with “We've got this.”",
+    "Earlier on Tuesday, Huang said he would be honoured to return and lead Nvidia if the board asked him. Chair Harvey Jones, speaking on the same call, dismissed that prospect, saying: “The board does not intend to reinstate him.”",
+    "Jones said Nvidia is working with an executive search firm and is weighing both internal and external candidates. He said the company would not rush the choice, and warned that the next chief executive would have to handle the technology and national security issues surrounding the market carefully.",
+    "Daniela Hathorn, a senior analyst at trading platform Capital.com, said the results offered a strong answer to worries that demand for infrastructure was cooling. She cautioned that the larger question was whether Nvidia could keep the strategic advantage Huang helped build, noting that his exit could matter more when the company makes its next decisions on products, partnerships and investment.",
+    "The accounts of the leadership change are not fully settled. The company has not publicly detailed the findings of its investigation, and the allegations against Huang remain reported claims rather than established facts in the coverage available."
+   ],
+   "cav": "The affair allegations are described as alleged and have not been detailed by the company in the sources. Huang's willingness to return sits uneasily with the board's statement that it does not intend to reinstate him, and the sources do not explain how that tension will be resolved.",
+   "op": "Nvidia's strong numbers do not answer how a chief executive left amid allegations the company is still investigating. Shareholders and the public deserve the investigation's findings before a successor is named. Strong earnings are no substitute for transparency about who runs the firm and why.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+  },
+  {
+   "id": "w-ca4df3aa044958e0",
+   "member_ids": [
+    "w-ca4df3aa044958e0"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-17T22:50:32+00:00",
+   "t": "Nvidia rules out Jensen Huang’s return as CEO as quarterly outlook beats estimates",
+   "s": "Nvidia’s board chairman said on Tuesday the chipmaker will not bring back co-founder Jensen Huang as CEO, even as the company forecast sales above expectations.",
+   "p": [
+    "On the company’s investor call, chairman Harvey Jones said the board would not rehire Huang and declined to take questions on the subject. His remarks came as pressure builds from supporters who want Huang back after his exit last week.",
+    "Huang resigned on Thursday following reports of extramarital relationships, one with Chinese businesswoman Alice Huang and two with Nvidia employees. Citing two people familiar with the matter, the report says US intelligence agencies are working to establish how closely Alice Huang is tied to China’s Ministry of State Security and what information she may have passed to Beijing.",
+    "The board has retained the search firm Heidrick & Struggles and is weighing candidates from inside and outside the company. Colette Kress, who is interim chief executive while also serving as finance chief, has kept her public comments on money and products rather than the succession question.",
+    "Earlier on Tuesday the board formed a committee on national security and export controls, its first significant governance step since Huang’s departure. The move follows rising scrutiny of the company’s role in national security. Washington has also tightened licensing for chip shipments to Southeast Asia and to overseas data centres serving Chinese firms, and lawmakers plan to question Huang, who had pushed for wider chip exports to China.",
+    "The quarter itself was strong. Revenue more than doubled to $115.84 billion, ahead of the $109.11 billion analysts had expected, and adjusted gross margin rose to 74.9%. For the fourth quarter, Nvidia projected revenue of $130 billion, plus or minus 3%, against an average analyst estimate of $125.25 billion according to LSEG data. The forecast excludes data-centre chip sales to China. Shares edged up 2% in extended trading.",
+    "Analysts disagreed about what the leadership change means. Anshel Sag of Moor Insights & Strategy described the outlook as positive but less ambitious than in earlier quarters, and said he did not expect Huang’s departure to affect near-term results, given the executive team’s track record. Rick Meckler of Cherry Lane Investments argued the situation is far more complicated and adds risk for anyone buying the stock.",
+    "Investor concerns reach beyond the boardroom. The Democrats’ sweep of the US midterm elections has raised worries about tougher scrutiny and slower data-centre expansion. Shareholders also want to know whether the next chief executive will keep financing customers, a practice critics call circular. Meanwhile a “Stand With Jensen” campaign has complicated the search, and Huang has said he would return if the board judged it best."
+   ],
+   "cav": "The allegations about Huang’s affairs and the intelligence inquiry into Alice Huang rest on reporting and anonymous sources; the evidence shows no official findings. The sources do not say what the national security committee will examine or when a new CEO will be named.",
+   "op": "Shareholders and the public are entitled to a clear account of why a founder left and what risks follow. A board that refuses questions on a matter this large leaves investors guessing. Openness, not strong quarterly numbers, should decide whether Nvidia’s governance deserves trust.",
+   "confirmed": false,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/e899ca7c-e2b0-11f1-9dea-1ba7ddfab527/w:1024/p:16x9/2026-11-16T182243Z-119858112-RC2O2LA29X51-RTRMADP-3-NVIDIA-CEO.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo"
+  },
+  {
+   "id": "w-519aa89e59eb404a",
+   "member_ids": [
+    "w-519aa89e59eb404a",
+    "w-5fad78a6380b764a"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-17T22:46:30+00:00",
+   "t": "US Army officer held for suspected espionage in UK transferred to American military custody",
+   "s": "British counter-terrorism police say a US Army lieutenant colonel arrested near Gloucester last week on suspicion of spying for Russia is now in US military custody. He will not stand trial in the UK.",
+   "p": [
+    "British counter-terrorism police have said that Lieutenant Colonel Brandon Carroll Tyner, a US Army officer arrested in the UK earlier this month, has been taken into US military custody. Counter Terrorism Policing said he is held over suspected national security and espionage allegations.",
+    "According to the Guardian, Tyner, 41, was detained by British police on 10 November in Gloucestershire. The BBC reports that he was arrested near Gloucester. Both outlets say he had been suspected of spying for Russia, and the Guardian reports that he was held at a London police station before the transfer.",
+    "Tyner was based at Imjin Barracks in Innsworth, Gloucestershire, the headquarters of Nato’s Allied Rapid Reaction Corps. The BBC understands that he had served in the US Army since 2008 and had previously been deployed to Afghanistan and Iraq. The Guardian, citing US authorities, adds Qatar to the list of deployments. The BBC says his role gave him access to sensitive information that would have been very damaging if it had reached Russia, but that claim is not attributed to an official source.",
+    "British police had said he was being held under sections one and three of the National Security Act 2023, which cover obtaining or disclosing protected information and assisting a foreign intelligence service. Those are allegations at the police stage. No court has ruled on them, and the sources do not describe any charge or plea.",
+    "Assistant Commissioner Laurence Taylor, who heads Counter Terrorism Policing, said that the case had been sent to the Crown Prosecution Service, which engaged the Attorney General’s Office and American partners. He said a decision was then made to pass the investigation to the United States. He called the allegations “extremely serious”.",
+    "The FBI director, Kash Patel, said the arrest was the result of close cooperation between the bureau, the US Army and UK partners including MI5. The BBC understands the British intelligence agency worked with the FBI on a long-running operation. US Brigadier General Sean Stinchon said the case should be a warning to service members who might betray their oath.",
+    "Tyner will be dealt with under the US Uniform Code of Military Justice rather than in a British court. Russia had said at the time of the arrest that it had “nothing to do with it”, and the Kremlin’s spokesman repeated that it had no connection to the case. The sources do not say when or where any proceedings will take place."
+   ],
+   "cav": "The sources differ on details of the arrest location and on how the suspect was identified; the BBC’s identification rests on what it understands, not an official statement. The evidence does not describe the evidence against Tyner, and he has not been convicted of anything.",
+   "op": "Allegations this serious deserve a clear public account of why a case moved from a British court to a US military one. Secrecy around jurisdiction is not a substitute for accountability. Governments should publish the reasons for such transfers, so that the rule of law is seen to work on both sides of the Atlantic.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+  },
+  {
+   "id": "w-bb59199150f2453b",
+   "member_ids": [
+    "w-bb59199150f2453b",
+    "w-caf893092f4d11e8",
+    "w-43aa54cff9a534c6"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-17T22:27:14+00:00",
+   "t": "Nvidia revenue nearly doubles as board rules out reinstating ousted CEO Jensen Huang",
+   "s": "Nvidia reported a sharp rise in quarterly revenue, but its board said it does not intend to bring back Jensen Huang, who was pushed out days earlier over reports of extramarital affairs.",
+   "p": [
+    "Nvidia’s first quarterly earnings report since Huang’s departure showed revenue of $115.84bn, up sharply from the same period a year earlier and ahead of Wall Street expectations of $109.15bn, according to Bloomberg analyst consensus cited in the reporting. Earnings were $2.68 per share, compared with expectations of $2.47.",
+    "Colette Kress, the chief financial officer, was named interim chief executive and presented the results. In a statement, she said the company’s “momentum is real” and that its product roadmap was on track.",
+    "The Guardian reported that the chairman of the board, identified in its coverage as Harvey Jones, said on Tuesday that the company does not intend to reinstate Huang as chief executive. NPR reported the same position from the board. Both outlets described the board as firm on the point, though the details of its deliberations were not made public in the material available.",
+    "The board announced Huang’s resignation on Thursday, saying it was effective immediately. The move followed reports that he had a romantic relationship with an alleged Chinese asset, which Huang confirmed as an extramarital affair, and later reports of two further affairs with company employees. Those reports describe the allegations as alleged, and the sources do not establish their full scope.",
+    "Nvidia’s share price fell more than 10% after the departure, cutting its market valuation to about $3.7tn. The company had reached a valuation of nearly $6tn in October, and its shares have declined since then amid what the Guardian described as a broader slowdown.",
+    "Huang issued his first public statement on Tuesday, apologising for his mistakes and thanking friends and colleagues for their support. He said he would be willing to return as chief executive if the board decided that was in the best interest of shareholders, employees and the company. NPR quoted him as saying he would be “honored” to return.",
+    "Donald Trump said he would not mind Huang’s return, and figures including Elon Musk called for his reinstatement. Huang also agreed to appear before House committees in early December for transcribed interviews. The Wall Street Journal, cited by the Guardian, reported that Nvidia faces a probe by the US Securities and Exchange Commission over its business in China."
+   ],
+   "cav": "Sources differ on growth: The Guardian says revenue doubled and was up 103% on a year earlier, while a second outlet’s summary had reported analysts expecting a 90% jump to about $109bn before the results. The chairman’s remarks are reported second-hand, and the board’s reasons for refusing reinstatement are not given in the material available.",
+   "op": "A company that ousts its chief executive over personal conduct, and that faces a regulatory probe, owes shareholders a clear account of how that decision was made. Strong quarterly numbers do not answer the governance questions. The board should publish its reasoning, not rely on earnings to end the debate.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+  },
+  {
+   "id": "w-2e287a0c3858c653",
+   "member_ids": [
+    "w-2e287a0c3858c653"
+   ],
+   "section": "World",
+   "published_at": "2026-11-17T21:35:24+00:00",
+   "t": "US soldier assigned to NATO moved to US custody over alleged Russia spying",
+   "s": "British authorities have handed a senior American soldier assigned to NATO, arrested last week on suspicion of spying for Russia, to US military authorities. The case may be the first of its kind involving a US soldier in the UK.",
+   "p": [
+    "A 41-year-old American officer was detained near Gloucester on November 10 and is suspected of breaching two sections of the UK National Security Act 2023. One section covers obtaining or sharing protected material, and the other covers helping a foreign intelligence service.",
+    "Laurence Taylor, Assistant Commissioner and head of Counter Terrorism Police, said on Tuesday that London authorities had passed the inquiry to American partners under established international arrangements. He described the allegations as “extremely serious” and pledged continued cooperation with US colleagues.",
+    "FBI Director Kash Patel said the officer is now held by US authorities following an espionage probe run by the bureau’s Philadelphia office and its London legal attaché. The work also involved MI5, UK Defence Counter Intelligence and the US Army Counterintelligence Command. The summary does not describe what evidence was gathered.",
+    "Brigadier General Sean Stinchon, who commands the US Army Counterintelligence Command, praised the joint effort involving Army prosecutors, the FBI, the US Justice Department and British agencies. He said the outcome should make clear to any soldier suspected of betraying their oath that such conduct will be pursued.",
+    "The case is believed to be the first time a US soldier has been suspected of spying for a foreign government while in Britain. Suspicion is not proof, and no conviction has been reported in the material available."
+   ],
+   "cav": "The sources give only official statements and do not describe the evidence against the accused or confirm that this is a first case. Details of where and how the case will proceed are not given.",
+   "op": "Suspicion is not proof, and a transfer between allied militaries must not mean the process disappears from public view. Officials should explain which legal framework now governs the case and what safeguards protect the accused. Transparency is the test that will show whether this handover serves justice.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-d6bf3a7e49209da6",
+   "member_ids": [
+    "w-d6bf3a7e49209da6"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-17T20:16:47+00:00",
+   "t": "Norway’s foreign minister rejects Russian influence over NATO operations",
+   "s": "Norway’s Foreign Minister Espen Barth Eide, speaking to Euronews, says Moscow cannot dictate Europe’s security arrangements while peace efforts in Ukraine advance.",
+   "p": [
+    "Barth Eide told Euronews that Moscow has no right to weigh in on how NATO conducts military activities on its own soil. His comments respond to Russian demands for a redesign of the continent’s security order, at a time when diplomatic efforts to end the war in Ukraine are picking up speed.",
+    "In his view, Europe does not need to renegotiate its current security framework. He stressed that independent states should keep the right to decide which alliances they join. Barth Eide said the framework was sound until Russia broke its terms.",
+    "He was also clear that Kyiv should not be pressed into accepting any agreement it has not endorsed. “There should be nothing about Ukraine without Ukraine,” he said.",
+    "Looking beyond a ceasefire, he suggested that talks with Moscow could cover arms control, ways of verifying compliance and measures to build trust, pointing to Cold War experience as a guide.",
+    "Barth Eide also cautioned against any deal among the largest powers that would split the world into zones of control. He cited the 1945 Yalta Conference as a warning and argued that such arrangements belong in the past."
+   ],
+   "cav": "The account rests on a single interview, as summarised in the evidence. No response from Moscow is included, and the specific Russian demands Barth Eide is answering are not spelled out. The ceasefire talks he proposes are described only in general terms.",
+   "op": "Decisions about European security should not be made by great powers over the heads of the states most affected. Barth Eide is right that sovereign countries, and Ukraine above all, must have a voice in any settlement. A peace that trades away neighbours’ choices would reward the very violation that started this crisis.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/17/russia-cannot-have-a-say-over-natos-military-activities-norwegian-foreign-minister-warns"
+    ]
+   ]
+  },
+  {
+   "id": "w-618bf6cd43a38b1b",
+   "member_ids": [
+    "w-618bf6cd43a38b1b",
+    "w-718faf12489b5156",
+    "w-6dcf008187fbb36c"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-17T18:24:21+00:00",
+   "t": "Jensen Huang says he would be ‘honoured’ to return to Nvidia as CEO if the board asks",
+   "s": "Nvidia’s former chief executive Jensen Huang has said he would return if the board wanted him back, his first public comments since resigning over reported affairs. The board has said it has no intention of reinstating him.",
+   "p": [
+    "Jensen Huang said he would be willing to return as the chief executive of Nvidia if the board asked him to, in his first public remarks since resigning last week. In a statement, he said he had received a large number of calls from employees, investors, business partners and customers urging him to come back.",
+    "Huang also acknowledged his conduct. “I created problems for the Board that I deeply regret,” he said on X, days after reports that he had extramarital affairs, including one with a woman whom US officials and reports describe as a suspected Chinese spy. He said he was committed to cooperating with the board’s independent investigation.",
+    "The woman, Alice Huang, is a former executive at the Singaporean datacenter firm Megaspeed. Nvidia initially described the relationship as a routine customer matter, but Huang later disclosed the affair to employees in an email, and the board opened an inquiry into its national security implications. The board has also set up a committee to oversee export and security issues.",
+    "The picture is contested. The BBC reported that the board was not considering his return, and the Financial Times and Wall Street Journal reported the same. Nvidia has said it is weighing internal and external candidates for the job. President Donald Trump said on Monday that he was open to Huang returning, according to Euronews, which added that a campaign to reinstate him gained momentum over the weekend.",
+    "Investor Brad Gerstner, who holds a significant stake in Nvidia, said his open letter had been misunderstood and that the investigation should run its course. He added that he did not know how far Huang had misled the board, and said that if he were on a board he would take that very seriously.",
+    "The US government said the commerce and justice departments had been investigating Megaspeed since 2024. Nvidia placed Megaspeed on an internal “no sell” list in June 2025 after the commerce department requested its sales records. The government has never officially restricted sales to the company, and Megaspeed is suspected of diverting advanced US chips to Chinese firms in possible violation of export rules. Those are allegations, not findings.",
+    "Congressional committees have scheduled closed-door interviews. Huang is due to appear on 1 December before the House Foreign Affairs, Intelligence and China Select committees, and Nvidia general counsel Tim Teter on 2 December. The committee chairs said they wanted to hear about the roles of both men in a potential breach of national security."
+   ],
+   "cav": "The sources disagree on whether the board might still reinstate Huang, and Trump’s comments are reported second-hand. The findings of Nvidia’s internal investigation and the Megaspeed allegations have not been published, and the material provided does not say Alice Huang has been charged with anything.",
+   "op": "A chief executive’s private conduct becomes a corporate and security question once it touches an unfinished inquiry. Public pressure cannot substitute for the board’s process. Nvidia should publish what its investigation establishes before anyone discusses a return.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/17/jensen-huang-says-he-is-prepared-to-return-as-nvidias-ceo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+  },
+  {
+   "id": "w-b4fc97228580f320",
+   "member_ids": [
+    "w-b4fc97228580f320"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-17T17:58:05+00:00",
+   "t": "Jensen Huang to Face Congressional Committees Over Alleged National Security Breach",
+   "s": "Former Nvidia chief executive Jensen Huang is set to appear before several House committees on 1 December, after leaving the company over allegations tied to a suspected Chinese spy. Nvidia’s general counsel has also agreed to be questioned privately the following day.",
+   "p": [
+    "According to the report, Huang will give evidence to several congressional committees on 1 December. Tim Teter, who serves as Nvidia’s general counsel, has agreed to be questioned behind closed doors on 2 December. Both appearances come after Huang stepped aside from the chief executive role.",
+    "The three House chairs, Brian Mast, John Moolenaar and Rick Crawford, said in a press release that they want to hear from both men about their roles in what they called a “potential breach of our national security”. They also said the public deserves answers on whether Nvidia helped people linked to the People’s Republic of China reach the most advanced chips, and on the part played by a possible Chinese intelligence asset.",
+    "Earlier, on 12 November, the chairs warned Huang that he could be subpoenaed if he declined the private meeting. The allegations that led to his departure involved relationships outside his marriage with a suspected Chinese spy, Alice Huang, also known as Huang Le, and with two Nvidia employees.",
+    "The report says Alice Huang had been executive director of Megaspeed International, a Singapore-based cloud computing firm that bought nearly $5bn in chips and related hardware. The company told reporters she stepped down in 2025. A joint letter from the Commerce and Justice departments, as described by the report, says Commerce began examining Megaspeed in 2024 over possible export violations, before Justice took over in 2025. The report also claims the firm facilitated about $12bn in chip sales despite US restrictions. On Friday, Malaysia said it was looking into whether the company had passed advanced chips on to other countries.",
+    "In his first comments since stepping down, Huang said on Thursday that he would be prepared to return to Nvidia as chief executive. Elon Musk and other figures in the technology industry, together with 165,000 people who signed an open letter, have urged his reinstatement, and Trump has reportedly signalled he would be open to it."
+   ],
+   "cav": "The relationship allegations, the spy link and the export violations are presented in the reporting and the letter it cites, not established by any finding. The sources do not say how Huang or Nvidia has responded to the hearing, and the 2024 start date rests on the letter’s description.",
+   "op": "Congress has a legitimate duty to ask who knew what about advanced chips reaching China, and a closed-door interview is a weak substitute for public testimony. Whatever becomes of Huang’s career, the public deserves a clear, documented account of how export controls were allegedly sidestepped before anyone talks of a return to the top job.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+  },
+  {
+   "id": "w-b3d40d0737d81bad",
+   "member_ids": [
+    "w-b3d40d0737d81bad"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-17T17:30:40+00:00",
+   "t": "Ukrainian strikes reportedly drop sections of the Kerch bridge linking Crimea to Russia",
+   "s": "Ukraine’s military reportedly carried out a multi-wave attack that brought down a section of the Kerch bridge, the crossing between occupied Crimea and Russia. The account comes from a Guardian report based on interviews with a participant.",
+   "p": [
+    "According to the Guardian, the operation began on Monday evening, when drones were launched from a field in central Ukraine. The soldiers involved were attacking oil refineries deep inside Russia for months before this mission, which the Guardian says was different because of its target. The newspaper spoke to a participant who used the pseudonym “Leon” and who said the bridge was a structure personally associated with Vladimir Putin.",
+    "The attack was described as happening in stages. A first wave of drones was meant to overwhelm Russia’s local air defences. A second wave reportedly acted as a relay for radio and video signals, which the Guardian says Ukraine needed because restrictions on its Starshield satellite link had limited its drones. SpaceX denies that it has slowed the system, and Ukraine’s president, Volodymyr Zelenskyy, is quoted as saying that denial is untrue. The Guardian does not give independent evidence for either version.",
+    "A third wave reportedly included Flamingo cruise missiles, which the report says can carry 1,000kg of explosives. The number of missiles is unclear, with some reports saying at least four were fired. Footage described by the Guardian shows a missile’s camera feed ending as it reached the bridge, followed by an orange fireball.",
+    "Photographs taken on Tuesday morning reportedly show a large arch and a concrete section of the road crossing fallen into the Kerch strait. The adjacent railway arch was also damaged. Rail travel reportedly resumed on Tuesday, though the crossing is described as partially closed.",
+    "An unnamed source in Ukraine’s armed forces told the Guardian that the timing was deliberate, ahead of a planned meeting on Thursday between Xi Jinping, Donald Trump and Putin in Shenzhen, on the sidelines of an Apec summit. The Guardian presents this as the source’s own interpretation, and the report does not show that the timing was chosen for that reason.",
+    "The report also says the damage affects shipping. Debris is said to be blocking the narrow corridor linking the Sea of Azov and the Black Sea, and passenger ferries are unable to move, cutting off the occupied ports of Mariupol and Berdyansk. Russia’s southern army has reportedly relied on the bridge for ammunition, equipment and fuel, and is now expected to depend on a land corridor that the Guardian describes as under fire.",
+    "Officials quoted in the report called the bridge illegal, and Kyiv had reportedly tried twice before to destroy it, in 2022 and the following year. The Guardian’s sources describe the operation as a success, but the report includes no Russian response and does not give casualty figures."
+   ],
+   "cav": "All operational details come from one Guardian report, relying on an anonymous source and a pseudonymous soldier, and the SpaceX and Zelenskyy claims conflict. The report includes no Russian comment and no independent confirmation of the damage, the missile numbers or the timing.",
+   "op": "Infrastructure that civilians depend on for food, fuel and travel should not become a bargaining chip in a war of symbols. Whatever the bridge’s legal status, the strike’s effects on ferries and ports deserve scrutiny, and the public deserves clear, verifiable accounts of who decided what, and why.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=954017efde37f92d5a79b156b7e5fa06",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
+  },
+  {
+   "id": "w-c64e4333cfd94add",
+   "member_ids": [
+    "w-c64e4333cfd94add"
+   ],
+   "section": "World",
+   "published_at": "2026-11-17T16:03:34+00:00",
+   "t": "Trump says US is ‘looking into’ Iranian dirty bomb plot as White House cites ‘no credible threats’",
+   "s": "President Donald Trump said the US is examining whether Iran is developing plans to detonate a “dirty bomb” in Washington, even as the White House said there were no credible threats at this time. The claim follows a CNN report based on unnamed US officials.",
+   "p": [
+    "Trump said the US was “looking into” whether Iran was developing plans for a so-called dirty bomb in Washington. Asked in the Philippines on Tuesday whether there was reason to believe an Iranian attack was imminent, he said that if there were, Iran “will pay a price”, and added that he hoped it was not the case.",
+    "The reporting that prompted the question came from CNN, which cited seven unnamed US officials. They said new intelligence suggested Iran was working on plans that could use a dirty bomb, which combines conventional explosives with radioactive material, or a chemical weapon, against senior Trump administration officials.",
+    "According to CNN, US officials continue to debate whether Iran can or will attempt such a plot. The officials reportedly said Tehran’s planning appeared aimed at giving Iran options rather than signalling an imminent attack, although the plans include specific locations and targets.",
+    "A White House spokesperson, Lauren Bis, said in a statement that the government was monitoring potential threats but that there were currently no credible threats to the homeland.",
+    "The reports describe the plans as a sign that Iran may be willing to escalate against the US, but there is no evidence that it will carry them out. The wider context is a war that the US and Israel began against Iran in February. Early airstrikes killed Iranian officials, including the supreme leader, Ali Khamenei, and Trump has repeatedly said the conflict would end soon, though it has continued.",
+    "The war has also disrupted global energy markets. Iran has blocked trade through the Strait of Hormuz, which has pushed up fuel costs and unsettled the global economy."
+   ],
+   "cav": "The plot details come from anonymous officials cited by CNN and are not independently confirmed in the evidence. The sources do not say which specific locations or targets were named, and officials themselves disagree on whether Iran can or will act.",
+   "op": "Officials should not hide behind anonymous briefings when a claim this serious is made in public. If the threat is real, the public deserves specifics; if it is not, the president should not let rhetoric outpace the evidence. Transparency is the only safeguard against fear-driven policy.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=60af6dc63c5f46a35d3671a81b52fcd8",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+  },
+  {
+   "id": "w-844cc2bc7cc5cf8a",
+   "member_ids": [
+    "w-844cc2bc7cc5cf8a"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-17T14:50:24+00:00",
+   "t": "Nvidia’s CEO exit fuels a US policy fight over China, as a run of tech outages raises alarm",
+   "s": "Jensen Huang’s resignation as Nvidia chief executive has exposed a rift between two senior Trump administration officials over China policy. Separately, a string of outages has hit banks, airlines and email services, with no common cause established.",
+   "p": [
+    "Jensen Huang resigned as chief executive of Nvidia on Thursday, after news broke that he had at least three affairs, according to the Guardian’s TechScape newsletter. One was reportedly with an executive at the datacenter firm Megaspeed, which US intelligence has investigated over alleged spying for China. The others were with his own employees. The departure has already wiped hundreds of billions of dollars off Nvidia’s stock market value. Colette Kress, the interim chief executive, is expected to face investor questions when the company reports quarterly earnings on Tuesday.",
+    "The scandal has also become a dispute inside the Trump administration. Treasury secretary Scott Bessent is reported to be accusing commerce secretary Howard Lutnick of failing to stop Nvidia sales that broke export controls. Nvidia is barred from selling advanced chips to China. The newsletter describes how Megaspeed bought Nvidia chips in south-east Asia, installed them in datacenters in Singapore, Malaysia and Indonesia, and then leased or sold them to Chinese clients. The columnist puts the value of those sales at about $12bn, and says the Trump administration moved on Monday to tighten controls. Lutnick has pushed for more trade with China, including in areas linked to his family’s business, Cantor Fitzgerald. Bessent favours tougher restrictions. Both men are due to travel with Donald Trump to China this week.",
+    "Huang’s future is also in question. Trump said on Monday that Huang “could return”, and Elon Musk and other Silicon Valley figures argued over the weekend that he should be reinstated. The Financial Times reported that Huang had discussed a comeback with allies, but a day later reported that Nvidia’s board was not considering it. Critics say the episode undermines the idea of the all-knowing founder. Alison Taylor, an associate professor at New York University’s business school, called it a reckoning for the ‘genius-founder’ model and warned that relying on one person’s judgment is risky.",
+    "The newsletter notes that Huang had no clear succession plan, though it suggests the board may share responsibility for that. It also says his three decades leading the company turned it from a gaming chipmaker into a central player in the boom in demand for advanced chips, and that its stock performance suggests his management style worked until his personal crisis.",
+    "Separately, a series of failures has hit critical services. A Microsoft Outlook outage left many users without email for days, affecting jails, hospitals, schools and police departments. Microsoft said it had restored service by Saturday and apologised. It said the outage was not caused by a cybersecurity breach, pointing instead to an older bug, faulty internal connections and insufficient server capacity. The Federal Aviation Administration then grounded flights across the United States. Transportation secretary Sean Duffy blamed a contractor switching telecommunications lines from copper to fibre, and said the agency was still determining whether the cause was contractor error or a faulty router.",
+    "The same period also saw an oil tanker collide with a passenger cruise on the Mississippi River, with no deaths reported, a technology failure that disrupted Australian students’ final exams, and outages at JPMorgan Chase and at United and American Airlines. The airlines’ delays were resolved within hours. The columnist says the available evidence does not connect these incidents, and that there is no confirmed link to cyberattacks or to the new wave of advanced software tools."
+   ],
+   "cav": "The sources do not establish any link between the outages, and the newsletter itself says the causes are unknown. Reports of the affairs and of the Bessent–Lutnick dispute rest on the columnist’s account of press reporting, and the $12bn figure is not independently confirmed here.",
+   "op": "Nvidia’s shareholders and the public deserve clear answers on export enforcement and on who was accountable for oversight. Opaque decisions about China sales, and a company that depended on one person, carry real risks. Officials should explain what happened before loyalty to a leader decides the next step.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=dc6213ac90cd282f90c0e60449deac75",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china"
+  },
   {
    "id": "w-7949b2995307be8c",
    "member_ids": [
@@ -821,347 +1174,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
-  },
-  {
-   "id": "w-2040d82e72f01ad6",
-   "member_ids": [
-    "w-2040d82e72f01ad6"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T19:12:00+00:00",
-   "t": "Czech Protesters Rally Against Plan to Scrap Broadcasting Fees",
-   "s": "Organizers said between 350,000 and 450,000 people joined a protest in Prague against the government’s plan to abolish broadcasting fees. The plan would finance public broadcasters from the state budget instead.",
-   "p": [
-    "Organizers said between 350,000 and 450,000 people took part in a protest in Prague against the government’s plan to abolish broadcasting fees in Czechia. Many travelled from other cities by bus and train, leaving public transport overcrowded.",
-    "Protesters argue the plan could place public broadcasters under the control of the right-wing government led by Prime Minister Andrej Babis. Babis defended the proposal last week, saying his government is not interested in controlling or nationalizing public media, and called the protesters’ claims untrue. Foreign Minister Petr Macinka accused the organizers of turning demonstrations into a business model.",
-    "Under the plan, public broadcasters would be funded from the state budget rather than through fees. The government argues that editorial independence will not be affected and that broadcasters need to cut costs. The suggested reform would reduce public media’s budget by 15 percent, and critics say the government wants more influence over the outlets.",
-    "Since the plan was introduced in April, several large protests have taken place, and Czech TV and radio held a one-day strike against it. The European Broadcasting Union, the European Federation of Journalists and Reporters Without Borders have all criticized the proposal.",
-    "The governing coalition consists of Babis’s ANO party, the far-right SPD and the Eurosceptic Motorists. Polls show ANO still has around 30 percent support, even as the protests targeted the coalition. According to the Reuters Institute Digital News Report 2026, trust in media in Czechia is low, at 30 to 33 percent, though public broadcasters are still regarded as “the most trusted brands.”"
-   ],
-   "cav": "The protester and organizer figures are unverified claims, and the sources do not give an independent count. The claim that the government seeks control of public media is the view of critics and protesters, while the government denies it.",
-   "op": "Funding public broadcasters from the state budget may be defensible on cost grounds, but it hands ministers a lever over the newsroom. Before any cut takes effect, the government should show in public how editorial independence will be protected.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-12d8b53e40e3ec34",
-   "member_ids": [
-    "w-12d8b53e40e3ec34",
-    "w-b21a48550a967fd7",
-    "w-d4ef77392209e031"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-15T19:11:03+00:00",
-   "t": "Spain and England meet in Madrid with top spot in Nations League Group A at stake",
-   "s": "England and Spain meet in Madrid in the final group game of the UEFA Nations League, with both sides already through to the quarter-finals. The Guardian’s live coverage gives the lineups and Thomas Tuchel’s pre-match comments.",
-   "p": [
-    "The match is scheduled to kick off at 7.45pm GMT in Madrid. Both teams have already qualified for the last eight, so the contest is about who finishes first in the group. According to the Guardian’s live blog, the group winner will face an unseeded side in the quarter-finals, with the second leg played at home. The competition resumes at the end of March.",
-    "Tuchel told ITV that “it’s a beautiful match”, and the Guardian’s preview argues that England have a good chance because of how Spain have set up. Spain are without Rodri, and Pedri is not in the squad, with Mikel Merino coming in for Fermín López. Lamine Yamal returns after being rested for the 2-0 win away to Czechia, and Oyarzabal starts as the centre-forward.",
-    "Spain are set to line up in a 4-3-3 with Unai Simon in goal, Marc Pubill, Cubarsi, Aymeric Laporte and Cucurella in defence, and Zubimendi, Fabián Ruiz and Merino in midfield. Pedro Porro, important at the World Cup, drops out. England pick a 4-2-3-1 with Jordan Pickford replaced by Trafford in goal, and a Konsa and Quansah centre-back pairing. Dan Burn is left out, Ben White starts at right-back, and Lewis Hall plays at left-back. Declan Rice and Elliot Anderson form the double pivot, with Kane leading the line.",
-    "The Guardian’s preview points to Kane dropping deep and Gordon and Rogers attacking the space behind Spain’s high line. The writer expects Spain to try to pull England’s midfielders wide, which the England side must avoid doing. The preview also says Spain’s defence was exposed at Wembley, where Spain won 3-2 and Harry Kane missed a penalty that would have made it 3-1 to England.",
-    "The fixture comes after England’s defeat in the World Cup semi-final, which the Guardian’s writer describes as a painful failure. That loss, and England’s earlier defeat in the Euro final, are used as reasons to ask whether the team can impose its own game rather than wait for the match to end.",
-    "Al Jazeera also has a live page for the fixture, but the material available to us for that outlet consists only of a summary and team-news headline, so its account of the match adds little beyond confirming the fixture and its status as the final group game."
-   ],
-   "cav": "Most of the detail comes from a Guardian live-blog preview that mixes reporting with the writer’s opinion, so the tactical predictions are the author’s expectations, not confirmed plans. The Al Jazeera pages offered only short summaries, and no final score or result is available in these sources.",
-   "op": "England’s tournament record should not be reduced to a single result, but the pattern the Guardian describes deserves scrutiny. Tuchel’s side must show it can play its own game rather than retreat, and the accountability for that choice belongs in public view.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/eb25859a484613d72c89348a46cf89f5e6032344/252_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=e3687b3721512af69b3aaf271a206b0e",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
-  },
-  {
-   "id": "w-686f4eb04e74ce3c",
-   "member_ids": [
-    "w-686f4eb04e74ce3c"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T18:29:00+00:00",
-   "t": "Estonia to close all Russian border crossings after foiled drone factory arson plot",
-   "s": "Estonia says it foiled an attempted Russian arson attack on a drone factory and will shut every border crossing with Russia by December 1. Prime Minister Karsten Michal blamed Russia’s GRU intelligence service.",
-   "p": [
-    "Estonian authorities said on Sunday that they had stopped an attempted arson attack on a drone factory run by the defence company Threod Systems in Viimsi. Prime Minister Karsten Michal said the GRU, Russia’s military intelligence service, was behind the attempt, which he said took place on Saturday night.",
-    "Michal said “extensive damage” had been averted after law enforcement responded and detained the suspected attackers. He described the episode as part of a wider Russian hybrid war against Europe, aimed at reducing support for Ukraine.",
-    "Hours later, Foreign Minister Margus Tsahkna said Estonia would close all border crossings with Russia by December 1. He wrote on social media that hostile actions would not go unanswered and that the closure would limit Russia’s ability to carry out hostile activity and help prevent sanctions circumvention.",
-    "Tsahkna said he had informed the foreign ministers of Finland, Latvia and Lithuania. Estonia has several crossings with Russia and had until now been one of the few European Union states to keep them open.",
-    "The sources do not give details of the suspects’ identities, any charges, or the evidence linking the GRU to the plot. The attribution comes from the Estonian government and has not been independently confirmed."
-   ],
-   "cav": "The Russian link is the Estonian government’s claim and is not independently verified. Reports differ on whether the factory was set alight or the arson was foiled, and the sources give no detail on the suspects.",
-   "op": "Closing a border is a blunt instrument, and it lands on ordinary travellers and businesses who had nothing to do with the plot. If Tallinn wants the public to accept such costs, it should publish the evidence tying the GRU to the attack. Security measures need the same transparency as the threat they answer.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-c1525b6d5ab6f1ec",
-   "member_ids": [
-    "w-c1525b6d5ab6f1ec",
-    "w-175e955f766e2b50",
-    "w-ec9e1c6774d09ec6"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T18:26:00+00:00",
-   "t": "Canary Islands take roughly 1,500 arrivals in a single day, with El Hierro absorbing most of them",
-   "s": "Roughly 1,500 to 1,600 people reached Spain’s Canary Islands on Saturday, most of them at El Hierro, according to figures reported by different outlets. The surge follows a larger crisis in the Spanish enclave of Ceuta.",
-   "p": [
-    "Spanish news agency EFE reported on Sunday, using tallies from the Spanish government’s maritime rescue body, that 1,580 people had arrived on Saturday. Most of them were brought to El Hierro, the smallest of the main islands in the archipelago’s western group, in 15 open wooden vessels. DW put the total for Friday and Saturday combined at more than 2,300.",
-    "Al Jazeera cited the Spanish rescue service with a lower figure for Saturday: 1,488 people taken from 14 dinghies, known as pirogues. It said that daily total exceeded a previous record of 1,461 set in November 2020. Al Jazeera also reported that more than 9,000 people have arrived in the territory since the start of November, and that Spain has declared a migration emergency there.",
-    "Most of those arriving departed from West African coasts, including Senegal, Gambia and Guinea. DW said the largest share came from those countries. Al Jazeera reported that one boat on Saturday carried 240 people, among them 12 women and 36 children, and that the International Organization for Migration had recorded at least 450 deaths on the Western African Atlantic route in the first ten months of the year.",
-    "Spain’s Territorial Policy Minister, Angel Victor Torres Perez, visited La Restinga, a town at the southern tip of El Hierro, on Sunday. She thanked residents for their solidarity and commitment. In a post on X, she said the government intends to handle the surge with humanity and with the island’s residents in mind. El Hierro has a population of nearly 12,000.",
-    "DW noted that overall migration to the islands fell 5.5 per cent between January and October 31 compared with the same period last year, so the recent spike is a sharp reversal within a broader decline. The surge also follows the events in late July, when an estimated 80,000 people, mostly young Moroccan men, crossed from Morocco into Ceuta. Al Jazeera reported that at least 100 people died during that crossing and that Spain deported more than a dozen of those who entered.",
-    "Al Jazeera said the European Union’s new Pact on Migration and Asylum took effect on June 12, 2026, and that the new rules have not stopped the flow of migrants to Spain. Prime Minister Pedro Sánchez has faced opposition criticism over his handling of Ceuta, and migration and housing are expected to be major issues for voters ahead of snap elections later this month."
-   ],
-   "cav": "The sources give different figures for Saturday’s arrivals (1,580 in EFE’s tally as reported by DW, 1,488 in the rescue service figures reported by Al Jazeera) and do not explain the gap. The “more than 9,000” total and the record claim come from Al Jazeera alone, and the record’s comparison period is not detailed beyond the 2020 figure.",
-   "op": "Numbers this large are easily reduced to statistics, yet each boat carries people who face real risk at sea. Spain’s government should publish consistent arrival and rescue counts, and explain its reception and deportation procedures in public. Emergency measures that lack transparency erode the public trust they depend on.",
-   "confirmed": true,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-fca971b253c07d0a",
-   "member_ids": [
-    "w-fca971b253c07d0a",
-    "w-013e9ebf1cc0ec67",
-    "w-c99dd37204258f0a"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T18:23:12+00:00",
-   "t": "Estonia to close all Russian border crossings after alleged GRU-ordered attack on drone maker",
-   "s": "Estonia will shut all its border crossings with Russia from 1 December, its foreign minister said, after eight people were detained over an attempted attack on a defence company that Tallinn blames on Russian military intelligence. The Kremlin has not commented on this case.",
-   "p": [
-    "The Estonian government says Russia’s GRU military intelligence service ordered an attempted attack on Threod Systems, a Tallinn-area defence company that makes long-range attack and reconnaissance drones. Authorities said the aim was to cause an explosion and set the building on fire. The attack was reported to have taken place on Saturday, with eight people detained. No injuries or damage were reported by the company’s security team, though the prime minister said wider damage had been averted thanks to heightened security and a fast police response.",
-    "Foreign Minister Margus Tsahkna announced on Sunday, on X, that all Estonian-Russian border crossing points would close from 1 December. He cited what he called “clear evidence” of the GRU’s role, although the sources do not show that evidence. Estonia has three open crossings with Russia, at Narva, Koidula and Luhamaa. Authorities have not said how long the closure will last.",
-    "Prime Minister Kristen Michal said the closure was meant to reduce the risk of further attacks and to signal that assaults on the country’s defence industry would not be tolerated. He tied the incidents to Estonia’s support for Ukraine, arguing that Moscow wants Tallinn to become fearful and to weaken that backing. The government says it will tighten security and work more closely with businesses and allies.",
-    "Chief prosecutor Astrid Asi told reporters that the eight suspects live in Latvia. Al Jazeera, citing Latvian officials, described the arrests as involving “Latvian citizens and non-citizens”, which is a slightly different description. Estonia’s internal security service, Kapo, has asked a court to keep five of those detained in custody. The suspects have not been tried, and their guilt has not been established.",
-    "This is the second attempted attack on an Estonian defence firm that authorities have linked to Russia. An arson attack at Milrem Robotics in August was described by Kapo in September as a deliberate, pre-planned operation carried out for Russian special services. At that time Estonia summoned Russia’s chargé d’affaires, and the Kremlin rejected the accusation as baseless. Moscow has not yet responded publicly to the latest claims.",
-    "European intelligence agencies have warned for some time about sabotage against defence firms and Russian efforts to recruit people online for such acts. Mihkelson, chairman of the Estonian parliament’s foreign affairs committee, said the arrests showed the country could respond quickly, but argued that diplomatic protests alone were not enough."
-   ],
-   "cav": "The sources do not publish the evidence behind the GRU attribution, and the Kremlin’s response to this specific incident is not yet known. Accounts differ on the timing (Saturday morning or night) and on the detainees’ nationality, and the damage reports vary between outlets.",
-   "op": "Blaming Moscow may be justified, but closing every crossing is a blunt tool that also hits ordinary travellers and trade. Estonia should publish the evidence behind its attribution so that a measure this sweeping rests on proof the public can examine.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
-  },
-  {
-   "id": "w-bc033adbd8215c3f",
-   "member_ids": [
-    "w-bc033adbd8215c3f",
-    "w-abfba7c99d42ec3e"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T18:20:36+00:00",
-   "t": "Hundreds of thousands rally in Prague against plan to fund Czech public media from the state budget",
-   "s": "Organisers said more than 350,000 people joined a Sunday rally in Prague against a government plan to scrap licence fees for public broadcasters. Critics say the change would give ministers more influence over newsrooms.",
-   "p": [
-    "Hundreds of thousands of Czechs gathered in Prague on Sunday to protest against a plan by Prime Minister Andrej Babiš’s government to end the mandatory licence fees that fund Czech Television and Czech Radio. Organisers said more than 350,000 people attended, which they described as one of the largest demonstrations in the country’s history. Euronews, citing media reports, put the figure at 350,000 to 400,000.",
-    "The rally was held at Letná Plain, the site of the 1989 Velvet Revolution that ended more than four decades of communist rule. Many participants wore triangular paper hats resembling Večerníček, an animated bedtime-story character who has become a symbol of the movement. Banners included the slogan “We won’t give media away.”",
-    "The government wants to finance the two broadcasters from the state budget instead. Protesters argue this would give ministers more leverage over editorial decisions. Sources say the future state subsidy would be far below current licence-fee revenue. The proposed changes would cut state television and radio budgets by about 15 per cent, according to the Guardian.",
-    "The organising group, Million Moments for Democracy, said the authorities would now see the scale of opposition. Its lead organiser, Mikuláš Minář, said the event was “just a beginning.” In a statement, the group demanded that the government withdraw the plan and accused Babiš and his partners of treating democratic institutions as their own property.",
-    "Euronews reported that the protest was tied to a vote in the Chamber of Deputies on the amendment, which the group summarised with the slogan “Never again 4:36”. According to Euronews, the majority cut short the debate, leaving more than 60 opposition MPs unable to speak. The Guardian dates the first reading to late October, and Euronews to mid-October, so the sources differ on timing.",
-    "The European Broadcasting Union, the European Federation of Journalists, Reporters Without Borders and the International Press Institute have criticised the plan. They compared it with moves in Slovakia and Hungary, where media independence has been weakened under populist governments.",
-    "Babiš, a billionaire who returned to power last year, said the protests were based on unfounded claims. In an opinion piece he wrote that the government would not interfere in editorial work. Euronews also reported that students, theatres, writers, athletes, churches and healthcare workers voiced support for public media. Police said the demonstration passed without incident until early evening."
-   ],
-   "cav": "Crowd estimates differ: the Guardian cites organisers’ figure of more than 350,000, while Euronews reports 350,000 to 400,000 from media reports. The timing of the first parliamentary reading is also reported differently. The 15 per cent budget cut and the fee amounts come from the sources and were not independently verified.",
-   "op": "Public broadcasters need funding that cannot be turned into a lever over what they report. Moving them onto the state budget, while the government controls the purse, invites exactly that pressure. Parliament should answer the protesters with open debate and a full hearing, not a rushed vote in the small hours.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
-  },
-  {
-   "id": "w-c019bab26c7ebf0e",
-   "member_ids": [
-    "w-c019bab26c7ebf0e",
-    "w-f851a46df3dcf23b",
-    "w-985f21bc1fc22e48"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-15T18:03:56+00:00",
-   "t": "Iran launches second drone attack on US base in Bahrain in three days",
-   "s": "Iranian drones were aimed at a US military base in Bahrain on Sunday, according to the Guardian and the BBC, in the second such attempt in three days. The strikes further undermine stalled efforts to end the wider conflict.",
-   "p": [
-    "Blasts were heard over Bahrain on Sunday after Iranian drones were aimed at a US base on the island kingdom, according to the Guardian. It was the second such attack in three days, and Tehran framed it as retaliation for recent US strikes inside Iran. The Guardian also said the episode deepened fears of escalation just as talks between Tehran and Washington appear stuck.",
-    "Iran’s Islamic Revolutionary Guards Corps said it sent six drones toward a US air defence radar at the Al-Rifaa helicopter base, which the BBC spells al-Riffa. The IRGC described the move as a response to “hostile US actions”. Bahraini authorities said their air defences stopped the drones before they reached their targets, and the BBC reported that the country’s military said the drones were destroyed before they could achieve their aims.",
-    "One report said Bahrain issued two alerts about possible threats on Sunday, its first such warnings since September, as explosions rattled the capital, Manama. Sirens were heard across the country, and the interior ministry told residents to move to the nearest secure place.",
-    "Bahrain’s foreign ministry denounced the attacks as brutal and said it holds Iran entirely accountable for what follows. Jordan, Egypt, Saudi Arabia and Qatar also condemned the strikes and voiced support for Bahrain.",
-    "The latest attack followed an earlier one on Friday. The IRGC said it had hit a US early warning radar, but the US military denied that and said it had shot down two one-way drones with no injuries or damage. Before that, US forces struck Iranian targets, including Qeshm Island in the Strait of Hormuz. US officials told CBS the strikes were limited and defensive, and were a response to Iranian fire at a US aircraft. Iran’s state news agency Irna reported explosions on the island.",
-    "Diplomacy looks stalled. The conflict began in February with joint US and Israeli attacks on Iran, and a preliminary agreement reached in June fell apart within weeks. According to the Guardian, Donald Trump has said Washington is no longer seeking a deal and has asked Vice-President JD Vance to focus on alleged corruption and fraud in Democrat-run cities and states. Vance had requested a personal meeting with Iranian negotiators. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said Tehran was “not waiting for anyone”.",
-    "In the Strait of Hormuz, the IRGC claimed that two ships struck mines and that one oil supertanker carrying 2m barrels sank. There has been no immediate independent confirmation of that claim. The US military has said it cleared all mines from the main routes through the waterway.",
-    "In Yemen, Iran-aligned Houthi rebels pushed forward against pro-government forces in the south. The main government-backed force announced it was pulling back from the Bab el-Mandeb area to defend Aden. AFP, citing military and government sources, reported that a Houthi missile strike near Aden killed people and wounded 12."
-   ],
-   "cav": "The IRGC’s claims about the drone attacks and the tanker sinking have not been independently verified, and the US military disputes some of them. The casualty figures in Yemen are second-hand, relayed by AFP from unnamed sources.",
-   "op": "Drone strikes on a host nation and threats to shipping leave little room for deals made behind closed doors. Whoever is responsible for each attack, the public deserves verified accounts of what was fired, where and why. A policy that shifts from negotiation to retaliation without explanation is the costliest route for everyone in the Gulf.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
-  },
-  {
-   "id": "w-7aaf12aa88cef79f",
-   "member_ids": [
-    "w-7aaf12aa88cef79f"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-15T17:23:40+00:00",
-   "t": "Thousands rally in Prague against plan to fund Czech public media from state budget",
-   "s": "Thousands of people gathered in central Prague on Sunday to oppose the Czech government's plan to end the licence fee and pay for public media from the state budget. The government says editorial independence will be preserved.",
-   "p": [
-    "Demonstrators argue that the proposal could give politicians room to limit media freedom. The ruling coalition, made up of the populist ANO party and two right-wing Eurosceptic parties, counters that broadcasters must reduce their spending and that editorial decisions would remain unaffected.",
-    "Parliament approved the first reading of the bill late last month, and protests have continued since then. At present, Czech households pay 205 crowns ($9.44; £7.06) per month for television and radio services.",
-    "The Million Moments for Democracy association, which organised Sunday's march, put attendance at “roughly 400,000.” That number comes from the organisers, and the reporting does not include an independent count.",
-    "Milana Rudolfova, a 72-year-old pensioner, told Reuters that she regards Czech Television as a reliable source of truth. Some marchers wore paper hats folded from newspaper in honour of Vecernicek, the cartoon figure who has long presented the broadcaster's evening children's stories.",
-    "Prime Minister Andrej Babis, who was appointed in December 2025, has rejected the idea that his government wants to control public media. Speaking to the Czech News Agency, he argued that the current system is outdated and that many European countries are adopting similar models.",
-    "Several European states have already left the licence fee behind. France abolished it in 2022, and its public broadcasters are now financed partly through a share of VAT revenue. Norway ended its fee in 2020 and placed public broadcasting costs within the national budget.",
-    "Critics have drawn parallels with Hungary under former Prime Minister Viktor Orban, who exercised tight control over state media during his time in office. In June, Pavol Szalai of Reporters Without Borders said that attacks on both private and public outlets had become a defining feature of Babis's tenure."
-   ],
-   "cav": "The attendance figure is the organisers' own estimate, and the Hungary comparison is made by unnamed critics. The sources do not explain how the new funding model would operate in practice.",
-   "op": "Public broadcasting should not depend on a government's promises about how it will behave. If the Czech state takes over its funding, the law must set firm safeguards for editorial independence and make the terms of any budget decision public. Assurances from the prime minister are not enough.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
-  },
-  {
-   "id": "w-52331375ace75277",
-   "member_ids": [
-    "w-52331375ace75277"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-15T16:18:49+00:00",
-   "t": "Duffy blames prior presidents and Congress for nationwide flight stoppage; Van Hollen says funds were underused",
-   "s": "The US transportation secretary, Sean Duffy, blamed earlier administrations and a lack of congressional funding for the travel chaos after a four-hour nationwide flight stoppage. A Democratic senator argued the Trump administration has not properly spent money it already received.",
-   "p": [
-    "Donald Trump’s administration on Sunday attributed the travel disruption that followed Friday’s four-hour nationwide flight stoppage to prior presidents and to insufficient congressional funding, according to The Guardian. The Federal Aviation Administration (FAA) ground stop led to the delay or cancellation of thousands of flights.",
-    "Speaking to CNN, Duffy said: “I take responsibility for what was given to me.” He had earlier said that routine but necessary maintenance, botched by a contractor, caused the stoppage. He argued that the $12.5bn Congress provided was limited in scope and not nearly enough. He said it could not pay for new telecom architecture, new air traffic software or new towers, and that the existing systems date back to the 1990s.",
-    "Democratic senator Chris Van Hollen of Maryland rejected that argument. He told CNN that it was “really rich” for the secretary to blame Congress, which he said had given the administration what it requested. In his view, the administration has not properly invested all the funds already allocated for upgrades. He said that if more money is needed, the administration should come forward and justify it.",
-    "Trump, who waited until Sunday to comment on the longest nationwide ground stop in 25 years, blamed the Biden administration in a Truth Social post. He wrote that the administration had “the knowledge and plan” for flight control systems and that Congress needed to provide the money. Duffy said Trump had been in constant behind-the-scenes contact and was fully tracking events, though the report does not independently confirm this.",
-    "On CBS News’ Face the Nation, Duffy said the FAA was investigating the root cause of the botched work, which involved replacing old copper telecommunication lines with fiber optic cables. He said similar work had been done “thousands of times” without problems. The contractor, L3Harris, is reportedly conducting diagnostic tests. Duffy repeated that there was no sign of a foreign cyberattack.",
-    "The union Professional Aviation Safety Specialists (Pass), which represents more than 11,000 FAA workers, said its technicians were not involved in the upgrades behind the stoppage. It said the issue was isolated to two contractor-owned and contractor-maintained routers, and that contractors have historically followed a protocol in which FAA employees conduct a risk assessment. Asked whether a risk assessment was carried out in this case, Duffy did not directly answer, saying only: “We do risk assessments on everything.”",
-    "Duffy also cited a Government Accountability Office report from September 2026 that called for modernizing air traffic control systems, and he rejected concerns that speed was being prioritised over cost and disruption. Pass has called for better staffing of certified technicians and for a fuller role for its members in the modernisation effort."
-   ],
-   "cav": "The accounts conflict: Duffy says the work was done appropriately, while the union says its technicians were not involved and questions the usual risk-assessment protocol. The root cause is still under investigation, and the contractor’s diagnostics are only reportedly under way. Trump’s claimed involvement is based on Duffy’s account and is not independently confirmed.",
-   "op": "Whoever is at fault, the public is entitled to a clear account of who approved the work, what risk checks were done, and how the funds were spent. Blame passed between administrations and Congress does not answer those questions. Transparency about the investigation should come before any further political argument.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
-  },
-  {
-   "id": "w-03d8964b94784ab9",
-   "member_ids": [
-    "w-03d8964b94784ab9"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-15T15:59:04+00:00",
-   "t": "Gulf states condemn Iranian drone attack on Bahrain as Hormuz tensions rise",
-   "s": "Jordan, Egypt, Saudi Arabia and Qatar have condemned an Iranian attack on Bahrain, which Bahraini authorities said was intercepted. The strike is the latest sign that a two-month lull in fighting may be ending.",
-   "p": [
-    "Early on Sunday, Iran reportedly sent six drones toward a US air base in Bahrain, raising fears that full-scale fighting could resume. Bahraini authorities said they had stopped the incoming threat and destroyed the drones before impact, and gave no immediate account of any harm to property or people.",
-    "The island state, which is home to a major US naval command, issued public warnings and activated missile sirens before the strikes arrived. Residents, who were hit by the second attack since Friday, said they were unsettled to see the violence return. One local resident voiced hope that the earlier calm would hold.",
-    "Tehran said its target was a radar installation at the Al-Rifaa helicopter base and described the operation as a response to recent American military action. Washington had not yet commented on the Sunday attack, though it has previously said the first attempt on Friday caused no damage.",
-    "The Bahraini state news agency published reactions from several governments in the region. Saudi Arabia’s Foreign Ministry called the Iranian strikes a breach of international law and of the duty of good neighbourly conduct, urging an end to them. Qatar’s Foreign Ministry cautioned that the attacks marked a hazardous escalation that could derail diplomacy aimed at calming the region.",
-    "The incident sits within a broader standoff. US forces have conducted limited strikes on Iranian naval positions along the southern coast and on Qeshm Island, in the Strait of Hormuz, with the stated aim of protecting oil tankers using the waterway. Iran insists that vessels crossing the strait without its approval are striking mines and sinking, and says it regards them as lawful targets.",
-    "Iran’s Revolutionary Guards asserted that a supertanker loaded with more than two million barrels of oil had sunk after hitting a mine in the strait, and that two other ships had struck its mines. No independent confirmation of the tanker claim is available. Earlier, the US military had said it had cleared mines from the main shipping lanes.",
-    "Foreign Ministry spokesman Esmaeil Baghaei told a news conference in Tehran that Iran would continue to answer any military action by the United States or other countries. Asked whether the latest attacks marked a change of course as talks with Washington have stalled, he replied that Tehran was acting in its own security interests and would not be held back by others.",
-    "Separately, the Iran-backed Houthis are increasing pressure on government positions around Aden, Yemen’s interim capital. Saudi-backed government forces said they had pulled back from their Bab el-Mandeb offensive in order to concentrate on defending Aden."
-   ],
-   "cav": "The sources do not say whether the drones caused any damage, and the tanker sinking is a Revolutionary Guards claim that has not been independently verified. One part of the reporting mentions a strike on Tehran, but the rest of the account describes strikes on Bahrain and Iranian coastal and naval sites, so the details of that strike are unclear.",
-   "op": "Condemning an attack on a neighbouring state is right, but the principle of international law must apply to every side. US strikes on Iranian sites and Iranian claims about mines both need scrutiny. Claims that shape the war, including the tanker sinking, should be verified independently before they are repeated as fact.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
   }
  ]
 }
