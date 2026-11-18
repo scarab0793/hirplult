@@ -1,6 +1,356 @@
 {
- "updated_at": "2026-11-17T23:08:16.028855+00:00",
+ "updated_at": "2026-11-18T14:30:51.859304+00:00",
  "items": [
+  {
+   "id": "w-d8409bdc74cef688",
+   "member_ids": [
+    "w-d8409bdc74cef688",
+    "w-965b0137775458bd"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-18T14:28:18+00:00",
+   "t": "Xi, Trump and Putin converge on Shenzhen as APEC summit opens, with a three-way meeting set for Thursday",
+   "s": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin were all in Shenzhen for the APEC summit, with a trilateral meeting expected on Thursday. Sources differ in how much they expect from it.",
+   "p": [
+    "Trump landed at Shenzhen Airport on Air Force One on Wednesday, and Xi greeted him there, mirroring a gesture Trump had extended during Xi’s state visit to the US in September. The two leaders then hugged before shaking hands, in what DW described as a highly choreographed arrival.",
+    "Trump and Putin also shook hands in the presence of Xi, ahead of the leaders’ welcome banquet. It was their first in-person meeting since August 2025, when Putin was invited to Alaska for talks primarily concerning Russia’s invasion of Ukraine. The handshake follows talks last week in Abu Dhabi involving Russia, Ukraine and European representatives, after which Trump’s negotiating team travelled to the Kremlin to meet Putin.",
+    "The Guardian’s diplomatic correspondent Patrick Wintour asks whether the three leaders will carve up spheres of influence in the manner of the Yalta conference, a question the paper frames around the summit’s expected meetings. That is a question, not a report of an agreement.",
+    "Trade was also on the agenda. Canadian Prime Minister Mark Carney’s office said he and Trump discussed work towards a trade agreement and agreed to stay in close contact. Mexican President Claudia Sheinbaum said she had a “very good meeting” with Trump and his team and that progress continues on a shared agenda. Washington and Beijing, meanwhile, keep extending a temporary tariff truce, most recently until early January, without a permanent deal.",
+    "The chipmaker Nvidia added a new strand to the US-China relationship. Its interim chief executive, Colette Kress, said the company is no longer shipping licensed Hopper data center products to China, the advanced processors that Jensen Huang had persuaded Trump to allow for sale. Kress did not say why shipments had stopped or whether the halt is permanent. Huang resigned last week amid a scandal over alleged Chinese attempts to gain intelligence on the company’s chief executive and to circumvent import restrictions. Beijing calls the espionage allegations unfounded and has threatened to respond in kind if trade restrictions follow.",
+    "Japanese Prime Minister Sanae Takaichi also arrived in China for the summit, her first official visit there. Beijing has been upset by her moves to bolster Japan’s military and by her comments last year on Taiwan, which have severely strained bilateral ties."
+   ],
+   "cav": "Much of the reporting is live and preliminary, and the outcome of Thursday’s trilateral meeting is not yet known. The Nvidia explanation and the espionage allegations remain unconfirmed claims, and the Guardian’s carve-up question is framing rather than evidence of a deal.",
+   "op": "Leaders may meet privately, but any arrangement touching Ukraine, trade or export controls affects people far beyond the room. Governments should publish what is agreed and why, so that a handshake cannot quietly become a settlement.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+  },
+  {
+   "id": "w-2a53fd4c47a9710e",
+   "member_ids": [
+    "w-2a53fd4c47a9710e",
+    "w-d59c4febecb30b59"
+   ],
+   "section": "World",
+   "published_at": "2026-11-18T14:27:00+00:00",
+   "t": "ICJ to rule on The Gambia’s Rohingya genocide case against Myanmar",
+   "s": "The International Court of Justice is set to issue its judgment on Thursday, November 19, in The Gambia’s case accusing Myanmar of genocide against the Rohingya, according to Al Jazeera. DW says the court will be the first to rule on the treatment of the Rohingya in any court.",
+   "p": [
+    "The Gambia brought the case in November 2019, seven years before the expected ruling, and argued that Myanmar had failed its duties under the 1948 Genocide Convention. Al Jazeera adds that the Gambian action was backed by the Organisation of Islamic Cooperation, a body of 57 member states.",
+    "The Gambia contends that Myanmar’s forces carried out arson, rape and killings in Rakhine State between 2016 and 2017 with the aim of destroying the Rohingya, in whole or in part. DW reports that a UN fact-finding mission concluded that roughly 10,000 people likely died, and that about 700,000 Rohingya fled to Bangladesh. Al Jazeera puts the number of refugees above 740,000.",
+    "The crisis escalated in August 2017, after Arakan Rohingya Salvation Army fighters attacked police posts. Al Jazeera says the military responded with what it called “clearance operations” across northern Rakhine, and that survivors described massacres and burned villages.",
+    "Myanmar rejects the charge. Its position, as DW reports it, is that the operations were a lawful counterinsurgency and counterterrorism effort, and that such actions cannot also amount to genocide. The Gambia answers that sexual violence and the killing of children during the campaign point to a genocidal aim.",
+    "The central issue for the judges is intent. Investigators could not enter Rakhine State, so the evidence rests largely on interviews with people who fled and on reports from the UN and other organisations. DW quotes legal scholars who expect a complex ruling, possibly favouring Myanmar on some duties and the Gambia on others.",
+    "The ICJ rules on state responsibility, not on individual guilt, and it can also order a state to make amends. Aung San Suu Kyi, then Myanmar’s civilian leader, went to The Hague in 2019 to dispute the allegations. In 2020 the court issued emergency measures to prevent genocide, which rights groups say Myanmar has disregarded. The military seized power in 2021.",
+    "Conditions remain difficult. Al Jazeera reports that about 1.2 million Rohingya live in Bangladesh, mostly in the Cox’s Bazar camps, where aid cuts have weakened services. About 520,000 remain in Myanmar under heavy restrictions, and the UNHCR estimates 3,135 people have died or disappeared at sea since 2022."
+   ],
+   "cav": "The two sources differ on figures: DW cites about 700,000 refugees and a UN estimate of roughly 10,000 deaths, while Al Jazeera gives more than 740,000 and no death toll. Much of the account of the Myanmar position and of the Gambia’s claims comes from the parties themselves, not from independent verification. The sources do not say what remedies the court might order.",
+   "op": "This judgment matters beyond one junta, because it tests whether the Genocide Convention has force when a state appears to ignore emergency orders. Justice for the Rohingya should not hinge on whether a court can establish intent in a country it cannot enter. The world cannot afford another decade of unanswered accountability.",
+   "confirmed": true,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-rdf"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-4867261aeddf3394",
+   "member_ids": [
+    "w-4867261aeddf3394"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-18T14:14:15+00:00",
+   "t": "Peltola wins Alaska Senate seat, lifting Democrats to 56, as House leadership votes and oversight letters follow",
+   "s": "Mary Peltola has been declared the winner of Alaska’s Senate race, a result Democratic leader Chuck Schumer welcomed as a boost for his party. The same week, House Democrats began leadership votes and the incoming oversight chair sent preservation requests to Trump-linked figures.",
+   "p": [
+    "Peltola, a Democrat, defeated Republican incumbent Dan Sullivan, according to The Guardian’s live coverage. Officials called the race on Tuesday, about two weeks after the midterm elections, once the lengthy count across the state had finished. If she takes office, she would be the first Alaska Native to serve in the Senate.",
+    "Schumer, who had backed Peltola’s challenge to Sullivan, said on social media that her win was good news for Alaska, the Senate and the country. He said it gave Democrats 56 Senate seats. He praised her knowledge of the state and her focus on fishing, family and personal liberty.",
+    "In the House, Democrats were due to hold closed-door leadership elections. Minority leader Hakeem Jeffries was expected to seek the caucus’s formal endorsement for Speaker through a recorded vote, based on several reports. He faces no declared challenger and is widely expected to win that backing. Party members expect him to secure the 218 votes needed on the House floor when the full chamber votes in January. If chosen, he would be the first Black person to hold the speakership.",
+    "Robert Garcia, the incoming chair of the House oversight committee, has written to 12 people, including members of Donald Trump’s family, current and former officials and aides, asking them to keep documents. Named recipients include JD Vance, Eric Trump, Donald Trump Jr, Stephen Miller and Susie Wiles, among others. Garcia said the planned inquiries are likely to focus on alleged family corruption, misconduct at the Department of Homeland Security and the Justice Department’s handling of the Jeffrey Epstein files.",
+    "Overseas, Trump, Russian leader Vladimir Putin and Chinese leader Xi Jinping exchanged greetings in Shenzhen, China, a day before their first formal trilateral meeting at an Apec summit. The Guardian also reported talks between Trump and Canadian prime minister Mark Carney. Carney’s office said the two leaders had discussed a potential trade deal and agreed to stay in contact.",
+    "Homeland security secretary Markwayne Mullin was scheduled to testify before the House homeland security committee on threats facing the country. Lawmakers were expected to press him on cyber infrastructure, immigration enforcement and his decision to attend a college football game while travellers were stranded at airports after a nationwide flight grounding. FBI deputy director Christopher Raia and national intelligence director Jay Clayton were also expected to appear."
+   ],
+   "cav": "The account rests on a live blog and on reports the Guardian describes but does not name, so the expected Jeffries vote is likely rather than confirmed. The source does not explain why Mullin attended the game or why flights were grounded.",
+   "op": "Congressional oversight depends on officials being unable to ignore requests for records. Democrats are right to press the Trump family and senior aides to preserve documents now. Transparency should not hinge on which party holds the gavel, and the public deserves answers at the hearings ahead.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=140&quality=85&auto=format&fit=max&s=cbeadbe712f64c01e548c20f5717e725",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates"
+  },
+  {
+   "id": "w-ed6ab888d4f6ebdf",
+   "member_ids": [
+    "w-ed6ab888d4f6ebdf",
+    "w-e1f90483e436ea0d",
+    "w-271caf866579f5cc"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-18T12:39:24+00:00",
+   "t": "Trump greets Xi and Putin in Shenzhen ahead of first three-way leaders’ meeting",
+   "s": "US President Donald Trump was welcomed by Chinese leader Xi Jinping on arrival in Shenzhen, ahead of a planned trilateral meeting with Xi and Russian President Vladimir Putin. The talks are expected to take place on Thursday, on the sidelines of an Asia-Pacific summit.",
+   "p": [
+    "Trump arrived in Shenzhen on Wednesday for the Asia-Pacific Economic Cooperation (Apec) summit, where Xi met him personally at the airport. According to the BBC, Xi had received him in a similar way when Trump hosted him in Washington in September, and Xi described that gesture as “special”.",
+    "The two leaders shook hands and hugged on the tarmac. Trump later greeted Putin ahead of a reception. The BBC reported that the Russian leader had landed in Shenzhen earlier the same day and held about two hours of talks with Xi, during which both sides pressed for closer economic and defence ties.",
+    "Trump and Putin are expected to hold one-on-one talks on the sidelines of the summit on Thursday, when the war in Ukraine could be discussed. The main focus, however, is the first in-person meeting of all three leaders. The BBC said the agenda had not been made public, but hints point to the wars in Ukraine and Iran, nuclear proliferation and trade tensions. A second source summarised the topics as including nuclear disarmament.",
+    "A Kremlin spokesperson indicated that short informal talks between Trump and Putin may take place without large delegations present. It was not clear on Wednesday what form those talks would take.",
+    "Ukrainian President Volodymyr Zelensky has raised concerns that a plan to end the war is being discussed without representatives from Kyiv or Europe, the BBC reported.",
+    "Wednesday’s handshake was the first in-person meeting between Trump and Putin since August 2025, when the two held talks in Alaska on the Ukraine war that did not produce a breakthrough.",
+    "The BBC also linked the summit to a separate controversy. It reported that Nvidia chief executive Jensen Huang had been ousted after admitting to an affair with a woman whom US intelligence suspects of spying for Beijing. China has dismissed that spying claim as a “smear”. The BBC described the episode as pointing to continuing tension between Washington and Beijing, even as Trump has sought warmer relations with China."
+   ],
+   "cav": "The sources provide only partial detail: two of them are short summaries, and the full agenda and format of the talks have not been made public. The sources differ on whether the nuclear topic concerns proliferation or disarmament. The Huang claims are reported second-hand, and the spying allegation is a US intelligence suspicion that China rejects.",
+   "op": "Summits of this kind matter most when their agendas are public and the countries most affected by them have a seat at the table. Ukraine’s president has warned that a plan to end the war may be discussed without Kyiv or Europe. Great-power diplomacy should be transparent enough for those who bear its costs to see what is being decided.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+  },
+  {
+   "id": "w-ec412f8ba95fbe91",
+   "member_ids": [
+    "w-ec412f8ba95fbe91"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-18T12:31:39+00:00",
+   "t": "Trump, Xi and Putin Set for First Trilateral Summit as APEC Opens in Shenzhen",
+   "s": "Chinese President Xi Jinping welcomed Donald Trump to Shenzhen for the Asia-Pacific Economic Cooperation summit, ahead of a planned first-ever meeting of Trump, Xi and Russia’s Vladimir Putin. The talks were expected to focus on Ukraine, trade and technology.",
+   "p": [
+    "Chinese President Xi Jinping welcomed US President Donald Trump to Shenzhen on Wednesday for the Asia-Pacific Economic Cooperation (APEC) summit, according to Euronews. The gathering is due to end on Thursday with a trilateral meeting between Trump, Xi and Russia’s Vladimir Putin, which would be the first summit of its kind among the three powers.",
+    "Euronews reported that Xi greeted Trump with a hug at the airport, returning a gesture Trump had made during Xi’s state visit to Washington in September. Xi did not greet Putin at the airport when Putin arrived earlier the same day, the outlet said, despite what it described as a longstanding positive relationship.",
+    "Trump said he plans to discuss ending Russia’s war in Ukraine during the trilateral talks, and declared on Tuesday that “I think it’s very close to getting it done”. Beijing described the planned meeting as in-depth exchanges on world peace and strategic stability. Putin said he expected the summit to be highly useful.",
+    "Putin, attending his first in-person APEC leaders’ meeting since 2017, criticised what he called instruments of economic dominance, including sanctions imposed after Russia’s full-scale invasion of Ukraine in early 2022. He told a CEO summit that sanctions, tariffs and export restrictions had largely lost their intimidating effect, and said Asia-Pacific accounts for more than half of Russia’s total trade.",
+    "Xi, speaking to business executives, said the region must pursue more open trade and equitable growth. He pledged tariff cuts, wider market access and reforms in areas such as rules, regulation and standards. Euronews noted that APEC leaders called for a more open approach without directly criticising the US move to protect its own markets.",
+    "The outlet said Trump’s tariffs run counter to APEC’s long-term aim of a Pacific Rim free trade zone. It also said US limits on Chinese access to advanced American chips, including Nvidia computer chips, remain a constant source of strain. Trump said there were differing views within his administration and that the US has a very good relationship with China.",
+    "According to Euronews, Trump does not plan to raise Taiwan in his talks with Xi, but expects Xi to press him on Taiwan’s sovereignty. APEC’s 21 economies account for 60% of global economic activity, half of global trade and 40% of humanity. The organisation takes no binding decisions, but has served for 37 years as a forum for building consensus on cooperation and more open trade."
+   ],
+   "cav": "The reporting describes plans and positions rather than outcomes, so the results of the trilateral meeting are not known from this coverage. Trump’s claim that a deal on Ukraine is “very close” is his own assertion, and a possible private meeting with Putin and a sit-down with Kim Jong-un had not been confirmed. All details come from a single outlet.",
+   "op": "Summits built on personal chemistry make for vivid headlines, but a war in Ukraine deserves more than improvised deal-making behind closed doors. If the leaders reach any understanding, the public should be told what was promised, by whom and on what conditions. Hugs at airports are no substitute for accountable commitments.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+    ]
+   ]
+  },
+  {
+   "id": "w-fdd583a41f1e9880",
+   "member_ids": [
+    "w-fdd583a41f1e9880"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-18T12:23:41+00:00",
+   "t": "Peltola’s Alaska win gives Democrats 56 Senate seats after final race is called",
+   "s": "Democrats will control 56 seats in the US Senate after Mary Peltola was declared the winner of the final race, a gain of nine seats across the midterms. Her campaign was also marked by a controversy that has drawn federal and state investigations.",
+   "p": [
+    "Democrats will control 56 seats in the US Senate after the last outstanding race of the midterms was called in favour of Mary Peltola, according to the Guardian’s morning newsletter First Thing, published on 18 November. The party gained nine Senate seats over the cycle, a result that is expected to return it decisively to the majority when the new Congress begins next year.",
+    "Peltola, a former US House lawmaker, is the first Democrat Alaska has elected to the Senate since 2008. The newsletter described her victory as the ninth gain for the party in the upper chamber this year.",
+    "Her campaign was overshadowed by a dispute over its tactics. The New York Times reported that members of her staff had helped recruit a second Republican challenger who was also named Dan Sullivan. Peltola’s team denied any involvement in the move, which the newspaper’s reporting suggested was intended to confuse voters.",
+    "The alleged ruse, as the Guardian summarised it, prompted Donald Trump to call for Peltola to be prosecuted and triggered both federal and state investigations. The summary does not say whether any charges have been filed, what investigators have found, or whether Peltola or her staff have been accused of wrongdoing by any authority. Nothing in the reporting cited here establishes that a crime took place.",
+    "The available material also does not include the vote totals, the margin of victory or the exact time the race was called. Those details would help readers judge how decisive the result was and how much the controversy may have affected it.",
+    "For now, the outcome gives Democrats a clear working majority in the Senate, while the inquiries into the campaign’s conduct remain open. Whether the Senate seat is ultimately secured without a cloud over it will depend on what those investigations establish, not on the claims made in public."
+   ],
+   "cav": "The account of the alleged ruse comes second-hand from a New York Times report summarised by the Guardian, and Peltola’s team denies involvement. The sources do not say what the federal and state investigations have found, and the call time and vote margin are not given.",
+   "op": "Allegations about a candidate’s campaign tactics belong before investigators and courts, not in presidential demands for prosecution. Due process protects Peltola as much as it protects the public. Transparency about what the probes find matters more than who wins the argument in public.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/04a35388742a62db030fc59d805e35ab9abac401/149_0_1796_1437/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=9c7242a3a60fede7a7c1947b5091cd2b",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate"
+  },
+  {
+   "id": "w-cdc6a802f0fa0571",
+   "member_ids": [
+    "w-cdc6a802f0fa0571",
+    "w-c95e3f0b9ab542a4",
+    "w-08e52ea744295574",
+    "w-91df9fa07816d4db"
+   ],
+   "section": "Culture",
+   "published_at": "2026-11-18T12:22:15+00:00",
+   "t": "GTA 6 earns near-unanimous critical praise, tying Zelda’s record Metacritic average",
+   "s": "Critics have largely hailed Grand Theft Auto VI as an ambitious, ground-breaking game, with its aggregated review score matching a record held since 1998. Reviewers singled out its realism and its unexpectedly emotional storytelling.",
+   "p": [
+    "Metacritic, which aggregates reviews from critics, averages Grand Theft Auto VI at 99 out of 100. That ties Nintendo’s The Legend of Zelda: Ocarina of Time, which has held the record since 1998. Reviewers broadly agreed the open-world action game was well worth the long wait, which the BBC noted followed 13 years of anticipation and several delays.",
+    "The Guardian’s review praised the game’s detailed virtual world, set in a fictional version of Miami called Leonida. The reviewer described its realism as so lifelike that at times it “beggars belief”, while also noting frustrating controls and occasional unfair missions.",
+    "Much of the praise centres on the fugitive couple at the heart of the story, Jason and Lucia. Critics said they felt like real people rather than characters controlled by the player. The Guardian’s reviewer wrote that the game also offers small rewards for kind acts, a shift in a series known for violence and dark humour.",
+    "Not every critic was uncritical. The New York Times reviewer wondered whether the game’s realism might dull the chaotic fun of earlier entries, while still describing high-speed pursuits with squad cars as a favourite part of play. Eurogamer gave a five-star review, as did Bloomberg’s Jason Schreier, who called the game a masterpiece.",
+    "The game has also been recognised ahead of release. Its 2026 Game Awards nominations made it the most-nominated title, even though it had not yet come out. The nomination of Manni L Perez in the best performance category was reported to confirm widespread speculation that she voices Lucia, a link Rockstar had not officially acknowledged.",
+    "Rockstar has not disclosed the development cost. The BBC reported that some estimates put it above $1bn (£760m), a figure the BBC presented as an estimate rather than a confirmed number.",
+    "Euronews reported that the game is due to launch on 19 November and is generating excitement across Asia, despite censorship and a market dominated by mobile gaming. According to that report, the game is not officially licensed in mainland China and faces content restrictions in Japan, though fans are finding ways to access it. The publisher said the previous instalment, GTA V, sold more than 230 million copies."
+   ],
+   "cav": "The NPR entry supplied only a summary, so its verdict is taken from that short description rather than a full review. Several reviewers’ quotes come from secondhand reporting by the BBC and not from the original reviews. The development cost is an unconfirmed estimate, and the sources do not explain how it was calculated.",
+   "op": "Critics’ praise is welcome, but the record-matching hype should not replace scrutiny. Publishers that release a multibillion-dollar product should disclose its costs and make clear how reviewers and award juries were given access. Transparency, not enthusiasm, should decide whether a game deserves its place in history.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+    ],
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/17/gta-6-what-to-know-about-the-upcoming-grand-theft-auto-game"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po"
+  },
+  {
+   "id": "w-5daa65e9f5f65c63",
+   "member_ids": [
+    "w-5daa65e9f5f65c63",
+    "w-e0cb03bc249f308f",
+    "w-f48018da42d6bca9"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-18T12:14:28+00:00",
+   "t": "Democrat Mary Peltola wins Alaska Senate seat, unseating Republican Dan Sullivan",
+   "s": "Former Democratic representative Mary Peltola has taken Alaska’s Senate seat from incumbent Republican Dan Sullivan, ending a Democratic drought in the state that stretches back more than ten years.",
+   "p": [
+    "Preliminary counts reported by the Associated Press on early Wednesday put Peltola at 50.1 percent of first-choice votes, with Sullivan on 45.8 percent and roughly 99 percent of ballots tallied. Because Alaska uses ranked-choice voting, a candidate who passes the 50 percent mark in the first round wins outright, and no later rounds are needed.",
+    "The contest was among the final Senate races to be called in the midterms, and it was also overshadowed by a dispute over the ballot. Another candidate, Daniel J Sullivan, had a name almost identical to the incumbent’s, and Republicans described him as a decoy. The Trump administration accused Peltola’s campaign of deliberately bringing him in to split Republican support, a tactic known as “ballot stacking”.",
+    "The state elections division took the second Sullivan off the ballot in June, arguing he had picked his name to confuse voters. Courts overturned that move, and the Alaska Supreme Court backed them on June 29. The New York Times later reported that Peltola’s staff and Democratic operatives had encouraged him to run; that account is reported, not independently established. The Justice Department sued to delay certification and to separate ballots cast for the two men, but Federal Judge Sharon Gleason threw out the case on November 1. The department has said it will appeal.",
+    "Scott Lucas, a professor at University College Dublin, told Al Jazeera that Peltola is widely seen as a steady and dependable figure. According to him, she concentrated on local concerns like energy employment, border security and firearms rights, and kept her party affiliation in the background in a state where it is unpopular. He added that Sullivan suffered from being linked to the Trump ticket.",
+    "Lucas also suggested the decoy candidate likely changed little. AP’s tally gave him 1.7 percent. Lucas said a 2 percent share would have been enough to push the incumbent under the majority line and force a ranked-choice tally, but he did not think the outcome was materially affected.",
+    "Peltola, who is Yup’ik, was the first Alaska Native to win a seat in Congress, after a 2022 special House election. She held the House seat until January 2025 and lost her 2024 re-election bid. Her Senate victory gives Democrats 56 seats to the Republicans’ 44, though Democrats already had enough seats to run the chamber.",
+    "Lucas described the outcome as meaningful beyond Alaska, noting Democratic gains in North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa, Maine and Mississippi. Senators serve six-year terms, so this seat will not return to the ballot until 2032. Democrats still lack the two-thirds majority needed to override a presidential veto and will need Republican votes to pass major legislation."
+   ],
+   "cav": "The sources describe the count as preliminary, based on about 99 percent of votes counted, and the Justice Department said it would appeal the dismissal. The claim that Peltola’s side recruited the second Sullivan comes from a New York Times report as summarised by Al Jazeera, and the sources do not establish it as fact.",
+   "op": "A candidate’s name should not decide a Senate race, and a ballot challenge built on that premise deserves scrutiny. Alaska voters are owed a transparent account of who recruited the second Sullivan and why. The courts have so far rejected the attempt to block certification, and that is where the matter should stay.",
+   "confirmed": true,
+   "src": [
+    [
+     "NPR",
+     "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c68798vdprwpo"
+    ]
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-154145",
+   "img_outlet": "NPR",
+   "img_link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+  },
+  {
+   "id": "w-eb01613aa1682da0",
+   "member_ids": [
+    "w-eb01613aa1682da0",
+    "w-24792b5a9ba0e180"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-18T11:55:09+00:00",
+   "t": "Democrat Mary Peltola wins Alaska Senate race, flipping seat and giving Democrats 56-44 majority",
+   "s": "Democrat Mary Peltola has won Alaska’s US Senate race, unseating Republican incumbent Dan Sullivan according to media projections. The result gives Democrats their ninth Senate flip of the midterms.",
+   "p": [
+    "The Associated Press called the race for Peltola after an update in the vote count lifted her just above 50% of first-choice votes. Alaska was the final Senate contest of the 2026 midterms still awaiting a winner, and its outcome gives Democrats a 56-44 advantage in the upper chamber of Congress.",
+    "Peltola, 53, would be the first Democrat to represent the state in the Senate in roughly two decades. Reports also say she will be one of the first two Native American women ever elected to the chamber, alongside Minnesota’s Peggy Flanagan.",
+    "In a written statement, Peltola vowed to confront entrenched interests in the capital and to deliver for working families. She centred her message on controlling costs and challenging corporate power.",
+    "Counting took more than two weeks. The state’s sprawling terrain, isolated rural towns and a slow absentee ballot process all added to the delay.",
+    "The race also attracted wide attention after a New York Times report said people working for Peltola had allegedly attempted to use a second candidate, Dan J. Sullivan Jr., to draw votes away from the Republican incumbent. Peltola has denied knowing anything about such a plan. Sullivan accused her campaign of deceiving voters. Separately, the Trump administration had gone to court seeking to halt certification of the results in case of a possible error.",
+    "Democrats already held enough seats to block legislation and open investigations into officials in the Trump administration. Analysts expect the Alaska outcome to shape morale in both parties."
+   ],
+   "cav": "The sources give different vote figures: one reports 144,302 votes for Peltola and 131,844 for Sullivan, while another gives only the percentage share and a smaller margin without clear totals. The New York Times allegations are second-hand and unproven, and Peltola denies them.",
+   "op": "An allegation that a campaign tried to split the vote with a namesake candidate goes to the integrity of the result, not just its politics. Alaskans deserve a full and transparent account of what aides did before the win is treated as settled. Voters should not have to accept a result while the allegations remain unanswered.",
+   "confirmed": true,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/17fa0044-e341-11f1-9eea-6d75ed565170/w:1024/p:16x9/EN-20261118-103842-104034-CS.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska"
+  },
+  {
+   "id": "w-0ecfa8cd88d167fb",
+   "member_ids": [
+    "w-0ecfa8cd88d167fb"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-18T10:23:57+00:00",
+   "t": "Democrat Mary Peltola wins Alaska Senate race two weeks after counting began",
+   "s": "Democrat Mary Peltola has won Alaska’s Senate race, unseating Republican incumbent Dan S Sullivan and giving her party a 56th seat. The outcome was confirmed only after a two-week count and a contest clouded by alleged spoiler efforts.",
+   "p": [
+    "Officials needed two weeks to declare a winner in the 3 November vote, mainly because ballots from the state’s far-flung, remote communities had to be gathered. Once 99% of ballots were tallied, Peltola held a narrow majority of just over 50%, while Sullivan had fallen short of 46%.",
+    "The result is the ninth Senate seat Democrats have flipped from Republican control in the midterms. According to the BBC, it secures the party’s hold on the chamber, with 56 seats to the Republicans’ 44. Democrats also regained the House of Representatives, which gives them control of Congress for the final two years of Donald Trump’s second term.",
+    "In her victory remarks, Peltola criticised the current approach in Washington, saying it was failing Alaskans. She described meeting older residents who were distressed over empty fish racks, and rural parents forced to pick between keeping their homes warm and buying groceries. She is the first Alaska Native to serve in the US Senate, and the first Democrat to win a Senate seat in Alaska since 2008.",
+    "The contest was overshadowed by an allegation involving her campaign. The New York Times reported that people working with Peltola’s team had tried to field so-called spoiler candidates, apparently to muddy the choice for voters. One result was that Daniel J Sullivan, a little-known resident of a small coastal town whose name matches the incumbent’s, remained on the ballot after court challenges. Election officials used labels to tell the two apart.",
+    "Peltola said she had no knowledge of the alleged plan. The US Justice Department and Alaska’s Republican governor both announced investigations. The Trump administration also sued to block certification of the results should Sullivan lose, but a federal judge threw out the case after challenges from state election officials, the Peltola campaign and voting groups.",
+    "Experts quoted by the BBC said Alaska’s ranked-choice system made it hard for a spoiler to change the outcome, since second choices would have shifted votes away from a candidate with almost no chance. A BBC Verify analysis concluded that Peltola would still have won even if every vote for Daniel J Sullivan had gone to the incumbent. Chuck Schumer, the Senate’s most senior Democrat, praised her campaign as well run and focused on local priorities.",
+    "Sullivan, a former Alaska attorney general and ally of Trump, had run on his record of bringing energy and military investment to the state. He has not yet responded publicly, the BBC reported. Many voters nationwide said rising living costs shaped how they cast their ballots."
+   ],
+   "cav": "The spoiler allegation is reported but not proven in these sources, and no outcome of the announced investigations is given. Sullivan’s response is not yet available.",
+   "op": "A close election should be settled by counted ballots and by courts that rule on the evidence, and Alaska’s officials did that here. The alleged spoiler plot still needs a full, public account from investigators, because voters have a right to know whether the contest was shaped unfairly.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
+  },
   {
    "id": "w-df1977ca966d3981",
    "member_ids": [
@@ -914,266 +1264,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po"
-  },
-  {
-   "id": "w-d228a77ebbfbf922",
-   "member_ids": [
-    "w-d228a77ebbfbf922"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-16T13:48:43+00:00",
-   "t": "Nvidia’s Jensen Huang considered for comeback as US tightens remote access to advanced chips",
-   "s": "Allies of Jensen Huang are reportedly campaigning for his return as Nvidia chief executive days after his resignation. Separately, the US Commerce Department has issued a rule limiting remote access to advanced computing chips.",
-   "p": [
-    "Nvidia chief executive Jensen Huang resigned last Thursday after revelations that he had at least two extramarital affairs, according to the Financial Times, which reported that Huang has discussed the possibility of returning with confidants. One of the affairs was with a woman accused of spying for China, and the other was with a subordinate.",
-    "Nvidia’s board has named chief financial officer Colette Kress as interim chief executive. An open letter calling for Huang’s reinstatement has since drawn more than 165,000 signatories, including Elon Musk, Epic Games founder and chief executive Tim Sweeney, Y Combinator president Garry Tan and Uber co-founder Travis Kalanick.",
-    "More than 7,500 of the signatories describe themselves as Nvidia employees. The live blog said that, if accurate, this would equal around 18% of the company’s workforce, but it did not confirm the figure. The investigation into Huang’s conduct has barely started, and Kress is due to present the company’s latest financial results shortly.",
-    "Separately, the US Commerce Department has issued an interim final rule to limit remote access to advanced chips by certain third countries. The government says the rule is meant to stop existing restrictions on sensitive American technology from being circumvented through data centres abroad.",
-    "Under the rule, licences will be required to reexport advanced chips to Indonesia, Malaysia, Singapore, Thailand and Brazil. The move follows reports that Singapore-based Megaspeed, where suspected Chinese spy Alice Huang worked, transferred advanced Nvidia chips to Chinese companies. The evidence does not independently confirm those reports, and Alice Huang is only a suspect.",
-    "Markets are also watching the planned stock market float of Anthropic, which is due to list on Thursday. The company had initially hoped for a $2tn valuation but may now list at a lower figure. Trading platform IG said its pre-IPO market had found a price around $1.4 trillion after recent volatility in tech, down from about $2 trillion at the end of October.",
-    "The live blog also reported that the FTSE 100 rose by as much as 29 points, or 0.25%, to 10,931 points, and described London’s index as resilient despite a sell-off in tech stocks."
-   ],
-   "cav": "Much of the Huang story rests on a Financial Times report relayed secondhand, and the signatory and employee counts come from the open letter itself, which the live blog did not verify. The Anthropic figures also conflict: the source cites a $1.5bn valuation, which is far below the $1.4 trillion that IG cites, and the sources do not explain the gap.",
-   "op": "Huang’s conduct is a matter for Nvidia’s board and its investigation, not for a petition of celebrity and industry signatures. Any return should wait for the findings to be made public. Transparency, not social-media momentum, should decide who leads one of the world’s most important chip companies.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/43ef54aa8cb3576d2ce5dc6f16443cad6245ded7/362_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4c242185abd6f3b45681b4c0b522b04e",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
-  },
-  {
-   "id": "w-fb710be5c7d9697c",
-   "member_ids": [
-    "w-fb710be5c7d9697c",
-    "w-23127c00a20412b2"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-16T12:54:44+00:00",
-   "t": "Five EU countries expected to unveil deportation hub deal with Rwanda",
-   "s": "Germany, Denmark, Austria, Greece and the Netherlands are reportedly set to announce a migrant deportation centre in Rwanda, the first such facility outside the EU. Rights groups have already raised concerns about the choice of host.",
-   "p": [
-    "Five EU countries are expected to announce a deal to create a migrant deportation centre in Rwanda, according to diplomatic sources cited by the BBC and other outlets. Germany, Denmark, Austria, Greece and the Netherlands said in September that they were working towards an agreement with a non-EU country to host “return hubs” for people whose asylum claims have failed. Rwanda confirmed in August that it had begun “preliminary discussions” with several European states.",
-    "Details are expected at a press conference in Vienna on Monday, where a Rwandan delegation is also reported to be attending a migration conference. Austrian Chancellor Christian Stocker told reporters he would “see next week in Vienna”, without giving details. According to diplomatic sources, the hub would start as a pilot hosting about 100 people, with each of the five countries possibly sending around 20 migrants. The countries hope the centre could be running in 2027.",
-    "The scheme would apply only to asylum seekers who have exhausted their legal options to remain in the EU, which distinguishes it from a British plan to send people to Rwanda for their claims to be processed. That UK deal never took off amid legal challenges and was scrapped by the Labour government in 2024. One source said Kigali is inclined to call the site a “welcome centre”, and that it would not be a detention facility.",
-    "The plan follows a recent EU reform that allowed the creation of hubs outside the bloc. Supporters argue such centres could speed up repatriations and deter irregular migration. Critics have likened them to “legal black holes” where migrants could be left in limbo with little oversight. The International Organization for Migration could play a supporting role, an IOM spokesperson said the agency was in discussions with some EU countries on such arrangements.",
-    "Human Rights Watch has voiced alarm over the choice of Rwanda, citing what it calls a well-established record of repression, arbitrary detention and support for armed rebels in the Democratic Republic of Congo. Its senior Africa researcher, Clementine de Montjoye, warned that paying Kigali to host deportations would finance a government accused of serious rights abuses. The EU Agency for Fundamental Rights has said any third country hosting a return hub must respect fundamental rights, including protection from sending people to places where they face serious risk of persecution.",
-    "The push comes as several EU governments face elections and pressure to show they can control migration. The European Border and Coast Guard Agency reported almost 110,000 irregular border crossings into the EU in the first ten months of the year, a 29% fall on the previous year, though October saw a 22% rise on September, driven largely by arrivals on the route to the Canary Islands. The EU says the plan complies with EU and international law, while human rights bodies say it could violate migrants’ rights."
-   ],
-   "cav": "The details come from diplomatic sources and have not been confirmed by the governments involved before the planned announcement. Reports differ on whether the site would be a detention facility, with one source saying it would not be. Rwanda's government has not been quoted on the specific terms.",
-   "op": "Deporting people to a country with a documented record of repression puts the rule of law at the centre of this deal. Governments should publish the legal safeguards, monitoring arrangements and the identity of anyone sent there before a single migrant boards a plane. Secrecy about a far-off hub will not restore public trust.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cw987343352go"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cw987343352go"
-  },
-  {
-   "id": "w-e6652f0d8581c7ea",
-   "member_ids": [
-    "w-e6652f0d8581c7ea",
-    "w-0eb8c569a4cb5661"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-16T12:48:00+00:00",
-   "t": "Xi, Trump and Putin to hold first trilateral summit in Shenzhen, Beijing says",
-   "s": "Beijing says the leaders of China, the United States and Russia will discuss “world peace” at their first three-way summit this week. It has released few details about the agenda.",
-   "p": [
-    "Beijing said on Monday that Presidents Xi Jinping, Donald Trump and Vladimir Putin will meet in the southern city of Shenzhen, with the meeting expected on Thursday alongside the Asia-Pacific Economic Cooperation summit. The Chinese foreign ministry, speaking through spokeswoman Mao Ning, described the talks as “in-depth exchanges” on safeguarding global peace and strategic stability among major powers. Beyond that language, officials offered little substance.",
-    "Mao Ning called the gathering one of “ground-breaking significance” during a briefing held hours after Beijing confirmed it. A French broadcaster’s report says the Kremlin and the White House had both already confirmed the three-way meeting. The DW report does not include that detail, so the point rests on a single outlet.",
-    "Trump has said nuclear disarmament and the Iran conflict will feature. Speaking at a Florida airport on November 8, he said the talks would cover denuclearization and that Washington was working to bring the Iran war to an end. He had earlier described the meeting as “interesting.” US officials, cited by AFP, said he is not expected to raise Russia’s war in Ukraine.",
-    "A Wall Street Journal report, which DW cites, claims Putin hoped the summit would produce a Ukraine peace deal favouring Moscow. That account is second-hand, and the governments involved have not confirmed it in the material provided.",
-    "German President Frank-Walter Steinmeier, who recently visited China, told the broadcaster ARD that Xi seemed irritated when asked whether Ukraine would be on the agenda. According to Steinmeier, Xi argued that the conflict is a European matter and that Europeans must have a seat at the table. On Friday, German Chancellor Friedrich Merz urged Trump to avoid any surprises on Ukraine during the talks.",
-    "Arms control remains a sticking point. Washington wants China included in future nuclear agreements, whereas Beijing says the United States and Russia must first cut their large stockpiles. China had already turned down Trump’s proposal for wider disarmament talks after the US-Russia nuclear treaty lapsed in February. A State Department readout says Wang Yi and Marco Rubio agreed that “meaningful leader-level conversations” matter, and UN Secretary-General Antonio Guterres said a genuine denuclearization commitment would be a major achievement.",
-    "The Iran war, which started with US and Israeli strikes on February 28, has cooled somewhat, though key disputes are unsettled. Neither Washington nor Jerusalem is currently launching large attacks, while Tehran keeps pressing to control the Strait of Hormuz and continues to target vessels it regards as unauthorised. Pakistan-mediated US-Iran talks in April did not yield a lasting deal. China, a major economic partner of Tehran, has repeatedly offered to mediate and recently hosted Middle Eastern officials in an attempt to bring the parties back to negotiations."
-   ],
-   "cav": "Beijing has given few details, so the agenda is known mainly from official phrases. The claim about Putin’s goals rests on a Wall Street Journal report cited second-hand, and Xi’s reaction comes only from Steinmeier’s account. The sources differ on whether the Kremlin and White House confirmed the meeting, and none says what, if anything, the leaders will agree.",
-   "op": "Three leaders discussing nuclear weapons and Ukraine should not reach understandings out of public view. The public has a right to know what is promised and who would bear the cost. Vague talk of “world peace” is not accountability. Any outcome touching arms control or a neighbour’s war must be published and open to scrutiny.",
-   "confirmed": true,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says"
-    ]
-   ],
-   "img": "https://s.france24.com/media/display/a660692a-e195-11f1-bda7-f71d22e7fea9/w:1024/p:16x9/000-D7K64G3.jpg",
-   "img_outlet": "France 24",
-   "img_link": "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says"
-  },
-  {
-   "id": "w-6b3f9293b8b2b0be",
-   "member_ids": [
-    "w-6b3f9293b8b2b0be",
-    "w-35e3e8b4f8d8e3a0",
-    "w-7ba64f3f8714fe76"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-16T12:20:49+00:00",
-   "t": "Musk backs campaign to reinstate ousted Nvidia boss Jensen Huang as allies lobby for his return",
-   "s": "Allies of Jensen Huang are pressing Nvidia’s board to bring back the former chief executive, who resigned last week amid reports of extramarital affairs. Elon Musk is among the backers of a petition, while the US Treasury Secretary has called for the company to look outside for its next leader.",
-   "p": [
-    "Allies of Jensen Huang are trying to rally support for the former Nvidia chief executive to get his job back. He resigned last week after reports of two extramarital affairs, one of them with a woman suspected of spying for China, according to the BBC. SpaceX boss Elon Musk and Tim Sweeney, chief executive of Epic Games, are among those backing a campaign urging the board to “Bring Jensen Back”.",
-    "An open letter on a website called “Stand with Jensen” asks the board to reinstate Huang while an independent investigation establishes the facts. The number of signatures reported varies by outlet. The BBC puts it above 175,000, the Guardian above 165,000 and Euronews above 160,000. The campaign says its supporters include current and former Nvidia employees, partners and shareholders. Euronews reports that more than 7,500 signatories identified themselves as Nvidia employees.",
-    "The first affair, involving Alice Huang, had initially been expected to be weathered. Huang then resigned after a second relationship emerged, allegedly with an Nvidia executive who reported to him. The Financial Times reported that Huang has discussed a possible return with confidants. One ally told the paper that a “war room” of Silicon Valley executives was being assembled to lobby for him and to seek support from the White House.",
-    "Musk has argued that some of Nvidia’s key deals were agreements made on a handshake with Huang rather than written contracts, and that some of them could be lost without him. The claim is his own and has not been independently tested. Brad Gerstner and Gavin Baker, two large investors, have urged the board to keep “all options” open, including a possible return.",
-    "Not all voices are supportive. Treasury Secretary Scott Bessent said on Fox News that Nvidia needs “a dramatic shake-up” and should look outside the company for its next chief executive. The Guardian reports that he wants answers within 10 days on whether Nvidia knowingly allowed its most advanced chips to reach China and whether it had a culture of compliance with US export rules. The BBC reports that the case has also created tension between the Treasury and Commerce departments over shipments of high-end chips to Megaspeed, the Singapore company where Alice Huang was an executive until 2025. Megaspeed has said it is a “legitimate and lawful business”.",
-    "The BBC understands that Huang’s reinstatement is unlikely while Nvidia’s internal investigations continue. Analyst Dan Ives called the idea “ridiculous” and said the best path was an external chief executive or Colette Kress, the chief financial officer who is currently leading the firm. Huang has agreed to testify before congressional committees, although the dates have not been confirmed. Nvidia is due to report quarterly results on Tuesday."
-   ],
-   "cav": "The petition figures differ between outlets and cannot be checked independently. Details of the affairs, the alleged spying and the FBI investigation come from reports and from Trump’s own comments, not from Nvidia or official findings. Musk’s account of the deals is unverified, and Euronews’ claim about a 25% revenue share on H200 sales is not confirmed by the other sources.",
-   "op": "Nvidia’s board owes shareholders and lawmakers a transparent account of what it knew about chip sales to China and why its chief left. Any reinstatement should follow published findings, not a petition with a large signature count. The real test is process, not popularity.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/16/elon-musk-joins-calls-to-bring-back-jensen-huang-as-allies-build-war-room-to-lobby-his-ret"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4318/live/458f6840-e1c1-11f1-99b6-a35a62fa4264.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
-  },
-  {
-   "id": "w-c3ce6d73d7ba469f",
-   "member_ids": [
-    "w-c3ce6d73d7ba469f"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-16T06:42:33+00:00",
-   "t": "Helen Haines leaves hospital after both legs were amputated following alleged car attack",
-   "s": "Independent MP Helen Haines has been discharged from a Melbourne hospital after an alleged October attack that cost her both legs. A man has been charged, and she is starting rehabilitation.",
-   "p": [
-    "Haines, who sits as an independent, said she was “full of gratitude” after leaving the Alfred Hospital on Monday, according to a statement she released.",
-    "The 65-year-old was hit by a Toyota Land Cruiser on 19 October while standing beside her car in Wangaratta, a regional town in Victoria. The injuries she suffered later required both legs to be amputated.",
-    "Hospital staff said she had been discharged about four weeks after being flown in for emergency care. Haines said she has now begun the rehabilitation phase, which will take place in Melbourne for the foreseeable future.",
-    "Prime Minister Anthony Albanese said he has been in regular contact with Haines and her relatives, and that the government is backing her, her family, her local community and her staff during her rehabilitation.",
-    "Police have laid charges against 43-year-old Brendan Nugent, including dangerous driving causing serious injury, intentionally causing serious injury, and a federal offence of harming a public official. He is presumed innocent unless a court finds otherwise.",
-    "Before entering parliament in 2019, Haines worked as a nurse and midwife. She has campaigned against corruption and for tougher climate policy.",
-    "The case has triggered wider discussion in Australia, where political violence is uncommon even though police have recorded a consistent increase in threats aimed at elected representatives."
-   ],
-   "cav": "The attack is described as alleged, and the charges have not been tested in court. The evidence does not say what motive, if any, police have assigned, and it does not detail the state of the investigation.",
-   "op": "Threats against elected officials are a rule-of-law issue, not a footnote. Whoever is responsible must face a fair trial, and authorities should publish what they are doing to protect members of parliament, so that public service does not depend on personal courage.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack"
-    ]
-   ]
-  },
-  {
-   "id": "w-91fac4cb3d42a02a",
-   "member_ids": [
-    "w-91fac4cb3d42a02a"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-16T06:10:34+00:00",
-   "t": "Estonia to close Russian border crossings after alleged GRU sabotage bid on drone maker",
-   "s": "Tallinn says all its crossings with Russia will shut from 1 December, following what it describes as a foiled arson plot by Russia’s GRU military intelligence. Moscow has said it will check whether the plan is real.",
-   "p": [
-    "Authorities in Estonia have stopped a plot that officials say targeted a drone factory with arson. The government links the scheme to Russia’s GRU military intelligence and has responded by announcing a shutdown of the frontier.",
-    "Prime Minister Kristen Michal posted on X that the GRU had commissioned a “sabotage attempt” against Threod Systems, a defence firm in Estonia, late on Saturday. In his account, heightened security and a rapid response by law enforcement prevented major harm. Chief prosecutor Astrid Asi later told reporters that eight people living in Latvia had been arrested.",
-    "Foreign Minister Margus Tsahkna said on X that every Estonian-Russian crossing would close from 1 December, pointing to “clear evidence” of GRU involvement. He added that he had briefed his counterparts in Finland, Latvia and Lithuania. He warned that Moscow would face consequences for hostile acts, and said efforts to intimidate or destabilise Estonia would not go unanswered.",
-    "Russian foreign ministry spokeswoman Maria Zakharova, speaking to the TASS news agency, said Moscow would first establish whether Tallinn truly intended to seal all crossings. She said that, if it did, Russia would regard the step as yet another instance of hostility toward Russia.",
-    "Michal framed the affair as one front in what he called a wider hybrid campaign against Europe, meant to weaken backing for Ukraine and increase pressure on Russia. Tallinn also recalls that in August the Tallinn-based subcontractor Milrem Robotics was the target of a similar arson attempt, and that Latvian nationals were detained in that case.",
-    "Estonia has three crossing points with Russia: Narva in the north, and Luhamaa and Koidula in the south. Russia halted vehicle traffic at Narva in February 2024, but pedestrians can still pass. These crossings remain among the few land links between Russia and the European Union that are still functioning."
-   ],
-   "cav": "The GRU’s role rests on Estonian government statements, and the sources do not show the underlying evidence. The eight arrested people are suspects, and no charges or court findings are reported. Russia has only said it will verify the closure plan.",
-   "op": "Sealing a border punishes ordinary travellers, families and businesses, and it should not become a reflex. If Tallinn believes the GRU ordered sabotage, it owes the public and the courts the evidence, and the suspects a fair process.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
-    ]
-   ]
-  },
-  {
-   "id": "w-98f8478c07b7c838",
-   "member_ids": [
-    "w-98f8478c07b7c838"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-16T03:09:49+00:00",
-   "t": "Australian MP Helen Haines leaves hospital four weeks after alleged car attack",
-   "s": "Independent MP Helen Haines has been discharged from hospital and says she is now in the rehabilitation phase of her recovery. A man has been charged over the alleged attack, which police are still investigating.",
-   "p": [
-    "Helen Haines, the independent MP for Indi, has left hospital roughly four weeks after she was allegedly struck by a car, according to the BBC. The incident took place on October 19 outside her office in Wangaratta, a town north-east of Melbourne, and it shocked the country.",
-    "In her first public remarks since the attack, Haines, 65, described her discharge as a positive step and thanked the staff at the Alfred hospital for their care. She said she was moving into the next stage of healing and was grateful for the large number of messages and the donations made to Save the Children in her name.",
-    "The BBC reports that Haines lost both of her legs. Her account of her condition is based on the broadcaster’s summary and has not been independently detailed in the material available.",
-    "Brendan Nugent, 43, has been charged with offences including dangerous driving causing serious injury, intentionally causing serious injury, and a federal offence of harming a public official. He has not yet entered a plea, and he is presumed innocent unless and until a court finds otherwise.",
-    "Victoria Police, assisted by the Australian Federal Police, says its investigation is continuing and that no motive has been established. Nugent’s father has said that he and his wife were longtime friends of Haines, while Nugent’s lawyer has said his client has mental health concerns.",
-    "Haines has campaigned for stronger climate action and helped set up a national anti-corruption commission. She entered parliament in 2019 after a career as a nurse and midwife.",
-    "Politicians, police and experts have argued that the tone of public debate is raising the risk of political violence, although the attack’s motive remains unclear. Prime Minister Anthony Albanese said he has been in regular contact with Haines and her family, and that support will continue during her rehabilitation."
-   ],
-   "cav": "The sources do not establish a motive, and the link between heated public debate and the attack is a view put forward by politicians and experts rather than a finding. The loss of both legs is reported by the BBC summary, and the timing is described in different terms across the material.",
-   "op": "Political violence cannot be read off a single case, but this one should sharpen attention on how public anger turns into personal threat. A clear, public account of the motive and a fair court process for Nugent matter as much as Haines’s recovery. Australia owes both to its public.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
-  },
-  {
-   "id": "w-5ec261feee59d832",
-   "member_ids": [
-    "w-5ec261feee59d832"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-16T01:47:57+00:00",
-   "t": "Singapore firm Megaspeed says suspected spy tied to Nvidia affair left its top role in 2025",
-   "s": "Megaspeed, a Singapore-based company that the reporting describes as Southeast Asia’s largest purchaser of Nvidia chips, says Alice Huang, a suspected Chinese spy linked to Nvidia’s former chief executive, left her executive post last year. The claim comes amid wider questions about whether high-end chips reached China despite US restrictions.",
-   "p": [
-    "On Sunday, Megaspeed said it had opened an internal inquiry into its operations. The firm objected to reports that make claims about its business, supply chain and global activities without what it called “verifiable evidence”. It insisted that it operates lawfully and has brought in outside lawyers to lead the review.",
-    "Alice Huang, who is unrelated to Jensen Huang, was examined by Singapore authorities in February 2025 as part of a wider inquiry into Megaspeed and other firms. She is a suspect rather than a convicted person, and the reporting does not describe any verdict against her. Her departure date is disputed: Megaspeed says she left in August last year, while a Washington-based security analysis group, C4ADS, says she stepped down as a director near the end of 2023.",
-    "Jensen Huang stepped down as Nvidia’s chief executive after reports that he had allegedly been involved with Alice Huang and with another employee. The scandal has raised doubts about whether powerful chips sold in Southeast Asia could have been routed to China in breach of US export limits.",
-    "Congressman John Moolenaar, who chairs the House Select Committee on China, said on Sunday that Jensen Huang had agreed to give evidence to his panel and to the Foreign Affairs and Intelligence committees. Those committees had warned they would compel him through subpoenas if he refused. The session is expected to be closed to the public, and its dates have yet to be confirmed.",
-    "Moolenaar said the hearing should clarify how much sensitive material may have been reached, and whether the suspected spy shaped Nvidia’s outlook and the policies on advanced-chip exports.",
-    "The Financial Times reported that Jensen Huang was weighing a return to the company he helped found, a claim his representative declined to address. The BBC understands that a reinstatement looks highly unlikely while internal investigations at Nvidia remain open. For now, chief financial officer Colette Kress is running the company and is scheduled to report results on Tuesday, 17 November.",
-    "Treasury Secretary Scott Bessent has urged Nvidia to pick its next chief executive from outside the firm. On Friday he faulted the Commerce Department, headed by Howard Lutnick, for weak oversight of high-end chip exports. He told CNBC that several agencies had pushed for months to add Megaspeed to the entity list, which restricts trade with listed foreign firms, but that Commerce controlled the decision. Lutnick is due to be questioned by the Senate Banking Committee next month.",
-    "Megaspeed is suspected of providing backdoor access to Nvidia chips for Chinese companies through data centres in Malaysia, Indonesia and Thailand. Singapore does not ban moving such chips to overseas firms, yet doing so can still violate US export rules, and Singapore says it expects companies under its authority to follow those rules. Megaspeed says its compliance frameworks cover US export requirements and local laws wherever it operates."
-   ],
-   "cav": "The sources disagree on when Alice Huang left Megaspeed: one report points to August last year, while C4ADS says she stepped down near the end of 2023 yet remained “practically in control”. The allegations about Jensen Huang and the chip-diversion suspicions are unproven, and Megaspeed’s account is its own.",
-   "op": "Export controls are only as credible as the agencies enforcing them, and secrecy over who held back a listing decision undermines public trust. Congress should press Commerce and Megaspeed for records in public wherever possible. Rule of law requires answers, not closed-door assurances.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
   }
  ]
 }
