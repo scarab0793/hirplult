@@ -1,12 +1,14 @@
 {
  "failed": {
-  "w-e1bd60e26e15074a": 3,
   "w-b8723e8c760a349e": 3,
   "w-cdc92e35aa5a9cfe": 3,
   "w-5e9339e2f04dd607": 3,
-  "w-f3ef77d1d77f2c5d": 3
+  "w-408deb84be412cde": 3,
+  "w-41fb764541d0d9b2": 3,
+  "w-76525af0f9aa4571": 1
  },
  "failed_translations": {
-  "w-eb0e7a768bf58916:fr": 1
+  "w-eb0e7a768bf58916:fr": 2,
+  "w-e465ed7cadc7b0a1:hu": 1
  }
 }
