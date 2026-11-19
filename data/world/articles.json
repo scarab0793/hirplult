@@ -1,6 +1,192 @@
 {
- "updated_at": "2026-11-19T14:39:57.580507+00:00",
+ "updated_at": "2026-11-19T22:45:30.783886+00:00",
  "items": [
+  {
+   "id": "w-aab5ba178748ab48",
+   "member_ids": [
+    "w-aab5ba178748ab48"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-19T22:09:18+00:00",
+   "t": "Anthropic closes first day of trading about 17% above IPO price after record $81.3bn listing",
+   "s": "Anthropic, the startup behind the Claude chatbot, ended its first day of US trading about 17% above its offer price. The Guardian reported that the listing raised $81.3bn, surpassing the previous record set by SpaceX.",
+   "p": [
+    "Anthropic’s shares closed at just over $97 on Thursday, according to the Guardian, compared with an initial public offering price of $83. The stock had reached an early high of $111.50 and rose 34% when trading opened, a move that briefly valued the company at more than $2tn.",
+    "At the close, the company had a total market capitalisation of nearly $1.3tn, or $1.75tn on a fully diluted basis. The Guardian reported that Anthropic’s chief executive, Dario Amodei, rang the Nasdaq opening bell.",
+    "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters in an upsized offering. The Guardian said the deal raised $81.3bn, beating SpaceX’s initial $75bn fundraise in June, and described the listing as one of the biggest stock market flotations in history.",
+    "The broader market was less enthusiastic. US stocks slumped at the end of trading, and most major chipmakers closed lower than they opened. Nvidia extended its losses to a sixth day after its latest earnings call, while Micron and Broadcom also saw their shares decline.",
+    "Analysts at Yorkville Ives said Anthropic is the first firm focused entirely on its field to be publicly traded, and wrote that the listing could help restore investor confidence. Evan Schlossman, a principal at Neostellar, said investors will focus on whether the company’s growth rate can be sustained once it is public.",
+    "According to its investor prospectus, filed at the end of October, Anthropic brought in $16.2bn in revenue in the first six months of 2026, up from $4.6bn for all of 2025. The company also reported losses of $80bn in the first half, which it said were largely due to a one-off charge, and losses of $104bn over the first nine months.",
+    "Computing power, supplied by arrays of semiconductor chips often housed in datacenters, was Anthropic’s largest single expense, at about $18.8bn in the first nine months of 2026. The executives wrote in the prospectus that they expect costs to balloon as the company secures more of it.",
+    "The Guardian also noted that Anthropic has detailed in its filings how its technology could pose dangers, including being used to develop bioweapons, and that Amodei has called for a slowdown in the development of the most advanced systems. The listing comes as the industry braces for possible fallout from a recent Nvidia scandal that led to the resignation of its chief executive, Jensen Huang."
+   ],
+   "cav": "This account rests on a single outlet, and the revenue and loss figures are taken from the company’s prospectus as reported, not from independent verification. The Nvidia scandal and Huang’s resignation are mentioned only in passing, without detail on what happened.",
+   "op": "A public listing is only as credible as the disclosures behind it. Investors can now weigh Anthropic’s $104bn in losses against its revenue, and that scrutiny is exactly what transparency should invite. Regulators and reporters should keep demanding audited, consistent figures rather than accepting the upbeat headline.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+  },
+  {
+   "id": "w-4517641d353957a3",
+   "member_ids": [
+    "w-4517641d353957a3"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-19T21:21:43+00:00",
+   "t": "European leaders say they are ready for talks with Russia to end the war in Ukraine",
+   "s": "At a Berlin summit of Ukraine’s allies, European leaders said they were ready to negotiate with Russia, but Moscow has given mixed signals on whether Europe will get a seat at the table.",
+   "p": [
+    "European leaders said at a summit in Berlin that they were ready for negotiations with Russia to end the war in Ukraine, in a show of support for Kyiv. The gathering of Ukraine’s allies, known as the Coalition of the Willing, was reported by the BBC.",
+    "According to the BBC, UK Prime Minister Andy Burnham said Europe had a “clear and consistent and united negotiating position.” German Chancellor Friedrich Merz said Moscow’s maximalist demands were not realistic, and that serious talks with Russia on European security should be matched by a peace agreement with Ukraine first.",
+    "The summit followed historic trilateral talks in Shenzhen, in south-eastern China, between Donald Trump, Vladimir Putin and Chinese President Xi Jinping. Trump joined the Berlin summit by phone from Air Force One, the report said.",
+    "Jared Kushner, one of two US envoys in Berlin, said Trump had come away from Shenzhen believing that peace was achievable. He said the Russians were willing for Europeans to be at the table, and that Moscow was “comfortable” with Ukraine receiving security guarantees modelled on Nato’s Article Five.",
+    "Putin said at a press conference after the talks that Russia was not against European participation but wanted to know what Europe would bring. He said Moscow had invited Europeans to Moscow to clarify their positions. He also said Russia was not planning to attack anyone, and questioned talk in Europe of war coming in 2030.",
+    "Ukrainian President Volodymyr Zelensky, Merz and French President Emmanuel Macron were less optimistic. Zelensky said Putin had always said no to proposals so far. Macron urged allies to do the maximum to deliver air defence systems to Kyiv and called for the question of Ukraine’s Nato membership to be reopened. Reports say US negotiators have considered Article Five-style guarantees for Ukraine without Nato membership, if Kyiv agreed to painful territorial concessions.",
+    "The Russian position remains unclear. US envoys Steve Witkoff and Kushner had appeared certain after a Moscow visit that Europe would soon have a seat, but Putin’s aide Yury Ushakov said a great deal would have to be done before the format could expand.",
+    "On the same day, drones struck several buildings in Kyiv’s historic centre. One person was killed in a strike on a residential building in the Podilskyi neighbourhood, and the Dutch and Austrian embassies and Saint Volodymyr’s Cathedral reported damage. Putin vowed that Moscow’s response to a Ukrainian strike on the Crimean Bridge would be “considerably more painful,” and said he had discussed a possible ceasefire but decided against it after that attack."
+   ],
+   "cav": "Putin’s claims and the US envoys’ upbeat assessments are the statements of the parties themselves and are not independently confirmed. Reports about possible guarantees without Nato membership are second-hand, and the sources do not say what happened in the Crimean Bridge attack or who carried it out.",
+   "op": "Peace talks cannot be built on understandings struck between great powers while the country under attack is kept at the edge of the room. Any settlement that trades Ukrainian territory or security without Kyiv’s full consent would reward the party that rejected every offer so far. Governments should publish what is being discussed in Shenzhen and Berlin.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+  },
+  {
+   "id": "w-5d000ade1e6277a2",
+   "member_ids": [
+    "w-5d000ade1e6277a2",
+    "w-476d74703607e59f"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-19T20:07:02+00:00",
+   "t": "UN top court finds Myanmar committed genocide against Rohingya in 2017 crackdown",
+   "s": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya minority, the first time the court has held a state responsible for the crime. The finding concerns a 2017 military crackdown in Rakhine State.",
+   "p": [
+    "The UN’s highest court, the International Court of Justice (ICJ), has concluded that Myanmar carried out genocide against the Rohingya, according to the BBC and a French broadcaster. Both reports describe the Thursday decision as unprecedented, since no international court had previously held a state responsible for genocide in this way.",
+    "ICJ president Yuji Iwasawa said Myanmar acted with an “intention to destroy” a large part of the Rohingya population and destroyed evidence on a wide scale to conceal its conduct. As the BBC relayed his remarks, he described indiscriminate killings, executions of men, widespread sexual violence, severe violence against children and the deliberate burning of Rohingya homes, as well as attacks on people fleeing to Bangladesh.",
+    "The judgement was reached by a majority of nine votes to six. The court also found that Myanmar had breached several other provisions of the 1948 Genocide Convention. The French broadcaster said the panel of 15 judges had spent seven years weighing the case, which The Gambia brought against Myanmar.",
+    "The reports give different figures for the scale of the violence. The BBC said the ICJ determined that around 10,000 Rohingya were killed during the operation and that about 815,000 had been targeted in some way, with more than 700,000 thought to have fled to Bangladesh. The French report spoke of thousands of killings and said at least 700,000 people were driven out of Myanmar.",
+    "Myanmar has rejected the genocide claims throughout, saying its operations targeted militant threats after attacks by the Arakan Rohingya Salvation Army. Its representative, Ko Ko Hlaing, told the court in January that the state could not stand by while “terrorists” roamed freely. After the ruling he declined to comment, the BBC reported.",
+    "The French report noted that Min Aung Hlaing, who commanded the military during the crackdown, later ousted the elected government in a 2021 coup. This year he was installed as civilian president after heavily restricted elections. The ICJ has no means of enforcing its rulings, but the finding is likely to add diplomatic pressure on him.",
+    "According to the BBC, the court said Myanmar must pay proportionate reparations, though the exact amount could be set later. Rohingya communities and human rights groups welcomed the decision. UN human rights chief Volker Türk described the suffering of the Rohingya as a stain on humanity’s conscience and urged that the ruling lead to concrete action.",
+    "Mohammed Nowkim, a Rohingya who fled Rakhine in 2017 and now lives in Canada, told the BBC that the verdict amounted to a formal acknowledgment of what his community endured. Legal observers will also watch a separate ICJ case, brought by South Africa, which accuses Israel of genocide against Palestinians in Gaza, for signs of how the court approaches such claims."
+   ],
+   "cav": "The reports give different casualty and displacement figures, with the BBC citing about 10,000 killed and the French report citing thousands, so the precise toll is not settled by these sources. Survivor accounts are reported as testimony and have not been independently verified here.",
+   "op": "The verdict matters because it tests whether the Genocide Convention means anything when the state itself is accused. Recognition alone is not justice: reparations, prosecutions and open access to evidence must follow, or the ruling will remain words on paper.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+  },
+  {
+   "id": "w-08d7172798dfdf6c",
+   "member_ids": [
+    "w-08d7172798dfdf6c"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-19T18:50:06+00:00",
+   "t": "European leaders reject ‘Yalta 2.0’ for Ukraine after Trump, Putin and Xi talks",
+   "s": "European leaders have rejected any attempt to repeat the 1945 Yalta Conference over Ukraine, a day after Donald Trump, Vladimir Putin and Xi Jinping met in China. Berlin hosted a parallel gathering of Kyiv’s backers.",
+   "p": [
+    "Continental leaders are pushing back against any effort to revive the logic of the 1945 Yalta Conference as a way to end Russia’s war, according to Euronews. The concern is that such an arrangement would carve Europe into zones of influence.",
+    "The objection surfaced on Thursday at a session of the Coalition of the Willing, a grouping of Kyiv’s allies, convened in Berlin by Chancellor Friedrich Merz. It followed by only a few hours a trilateral encounter in Shenzhen between Putin, Trump and Xi, which commentators have labelled “Yalta 2.0”.",
+    "Although the three leaders discussed Ukraine, the joint text they issued, called “Declaration Toward Peace”, made no reference to the country, the report said.",
+    "Merz argued that a Yalta-style arrangement would not produce peace, and pledged that Europe would not accept a repeat of such a division. French President Emmanuel Macron said the Shenzhen statement, which contained four points, did not mirror the 1945 outcome that preceded the Cold War. He insisted that any negotiation must bring Ukraine, Europe, the United States and Russia to the same table.",
+    "British Prime Minister Andy Burnham supported that stance, holding that Ukraine cannot be decided on without Ukraine present. Volodymyr Zelenskyy, the Ukrainian president, read the Berlin meeting as evidence that Moscow had not managed to split European allies.",
+    "According to the report, the four leaders agreed that Europe should now hold direct talks with Russia, a step not yet taken. Europe has named a joint team of seven envoys, drawn from France, Britain, Germany, Poland, Italy, the EU institutions and NATO, for the next round. US envoys Steve Witkoff and Jared Kushner, who travelled to Berlin, also urged Russia to accept European participation.",
+    "Putin, speaking in Shenzhen, said he had proposed through diplomatic channels that Europeans travel to Moscow to set out their positions, after which the Kremlin would decide whether to continue dialogue with Kyiv. He also questioned discussing Europe’s security without Europe. Macron described Moscow’s demands on the continent’s security structure as excessive.",
+    "Merz said that debate on European security would only follow a settled peace in Ukraine. Guarantees under discussion include a clause modelled on NATO’s collective defence provision in case Russia attacks again, and a European-led peacekeeping force, which Putin has said he would reject in any case. Kushner called an Article 5-style guarantee a significant step that Trump might accept if it served American interests.",
+    "Kushner confirmed that Trump joined the closed-door Berlin discussions by phone from his aircraft. Media reports suggest Trump voiced doubts about Europe’s military support for Ukraine, yet the leaders present seemed unmoved and agreed that assistance would continue."
+   ],
+   "cav": "The account rests on a single outlet’s reporting. Trump’s scepticism about European military support comes from unnamed media reports, and the guarantees and peacekeeping force remain under discussion without final terms.",
+   "op": "Europe is right to insist that decisions on its security are made with Europe and Ukraine at the table. A joint statement that does not even name Ukraine is a poor basis for peace, and deals made over the heads of the affected countries should never be presented as settlements. Transparent, rule-based talks are the only durable route.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi"
+    ]
+   ]
+  },
+  {
+   "id": "w-c97b806e7131ad05",
+   "member_ids": [
+    "w-c97b806e7131ad05"
+   ],
+   "section": "Asia-Pacific",
+   "published_at": "2026-11-19T18:25:39+00:00",
+   "t": "Trump leaves China without meeting Kim Jong-un as three-way summit raises concerns across Asia",
+   "s": "US President Donald Trump departed China without the Kim Jong-un encounter he had sought, while a rare summit with Xi Jinping and Vladimir Putin left South Korea, Japan and Taiwan uneasy about being sidelined.",
+   "p": [
+    "Trump flew out of Shenzhen on Thursday with no meeting held with the North Korean leader, despite having pursued one during the trip. The stop was built around a seldom-seen gathering of Trump, Xi and Putin on the fringes of the Asia-Pacific Economic Cooperation summit.",
+    "Trump had raised the idea of a Kim meeting many times, though a White House official had said none was scheduled. On Monday he told reporters at the White House that a encounter with Kim might still happen, calling that prospect welcome.",
+    "Kim, for his part, was reported by the South Korean agency Newsis to have toured locations in North Korea’s South Hamgyong province on Tuesday and Wednesday.",
+    "The three leaders committed to continuing talks on reducing nuclear risks and curbing proliferation. Their joint declaration, however, never named the Korean Peninsula or Taiwan. Xinhua, China’s state news agency, later indicated that the leaders had compared notes on the peninsula, Ukraine, nuclear non-proliferation and the Middle East.",
+    "Concern in South Korea, Japan and Taiwan centres on the worry that big powers might settle matters touching their security without involving them. Seoul’s media drew comparisons with the 1945 Yalta Conference. Money Today, a South Korean outlet, argued that leaving the peninsula out eased fears of a repeat but suggested denuclearisation is losing ground on the diplomatic agenda. Park Won-gon of Ewha Womans University thought China and Russia might have taken Pyongyang’s side, while Kim Jae-chun of Sogang University saw the three powers as far apart on North Korea’s nuclear programme. Newsis argued that the lack of a Trump-Kim meeting for a second year could reduce worries about Washington recognising North Korea as a nuclear-armed state. President Lee Jae-myung, speaking at APEC, again stressed peace and stability on the peninsula.",
+    "Japan’s Prime Minister Sanae Takaichi greeted Xi at APEC, but the two held no formal talks. A ruling-party lawmaker told Fuji TV that Japan’s exclusion could look like a diplomatic setback. Takaichi told reporters in Shenzhen she did not think Japan’s interests would suffer, according to TBS. Citing government sources, TV Asahi reported she is setting up a call with Trump.",
+    "The declaration also asked for respect for the immunity of state officials and warned that the International Criminal Court and similar bodies must not overreach. The court is currently led by Japanese judge Tomoko Akane. It issued an arrest warrant for Putin in March 2023 over the alleged unlawful deportation of Ukrainian children. Japanese media drew attention to this passage.",
+    "In Taiwan, TVBS warned the island could become a bargaining chip. Taiwan came up in the Xi-Trump talks earlier on Thursday. Tsai Jung-hsiang of National Chung Cheng University told the Central News Agency that Washington and Beijing read strategic stability very differently, and that Xi wants Washington to accept Beijing’s claim over sovereignty. Tsai said he expects no shift in US Taiwan policy from the meeting.",
+    "Chinese state media presented the three-way meeting as a chance for the major powers to cooperate on international security and stability."
+   ],
+   "cav": "The sources disagree on whether the Korean Peninsula was discussed: the joint declaration does not mention it, while Xinhua says the leaders exchanged views on it. Kim’s activities, Trump’s plans and Takaichi’s planned call rest on Newsis, the White House and Japanese government sources reported by others. Most analysis is second-hand from South Korean, Japanese and Taiwanese outlets.",
+   "op": "A summit that reshapes regional security should not be settled in closed rooms. When a joint declaration says nothing about the Korean Peninsula or Taiwan, while the people there watch the outcome, transparency is the minimum owed. Leaders who discuss the fate of others should explain their terms in public.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across"
+    ]
+   ]
+  },
+  {
+   "id": "w-c97bb793e054c58d",
+   "member_ids": [
+    "w-c97bb793e054c58d"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-19T17:24:44+00:00",
+   "t": "Trump Reportedly Challenges Europe’s Ukraine Spending in Unannounced Call",
+   "s": "US President Donald Trump reportedly joined a gathering of Kyiv’s European backers by phone and pressed them on the cost of their military help. The account rests on European officials who spoke to Politico.",
+   "p": [
+    "According to Politico, Trump has “sharply questioned” European governments about their ongoing funding for Ukraine as it fights Russia. The outlet said four European officials who were briefed on the exchange provided the details.",
+    "The call reportedly came on Thursday, without warning, as Trump asked why Europe was still putting vast sums into arms for Kyiv. It followed a session in Shenzhen, China, where he had met Vladimir Putin and Xi Jinping.",
+    "Three of the officials, who spoke on condition of anonymity, said Trump doubted that the Coalition of the Willing could deliver more assistance. The grouping includes 34 nations along with Ukraine. One official said Trump lamented the loss of life and argued that funds were being squandered in a conflict that has dragged on for close to five years.",
+    "The same official said Trump believes Putin is prepared to work toward a settlement with Kyiv. Trump is said to have made these remarks while aboard Air Force One, insisting that the Russian leader was serious about negotiating."
+   ],
+   "cav": "Every detail comes second-hand from anonymous European officials cited by Politico, and the evidence contains no direct White House statement. The summary says Moscow is ready to negotiate, while the article attributes that view to Trump’s own reading of Putin, so Russia’s actual position remains unsettled.",
+   "op": "Decisions about billions in public money and the future of an invaded nation should not be shaped by unannounced calls and anonymous briefings. Allies and voters deserve on-the-record positions from Washington. If peace talks are the goal, open statements about what is being demanded, and from whom, are the minimum standard.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/19/trump-questions-europes-billions-in-ukraine-aid-during-surprise-call"
+    ]
+   ]
+  },
   {
    "id": "w-d24a269c426fe17a",
    "member_ids": [
@@ -1082,260 +1268,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
-  },
-  {
-   "id": "w-bb59199150f2453b",
-   "member_ids": [
-    "w-bb59199150f2453b",
-    "w-caf893092f4d11e8",
-    "w-43aa54cff9a534c6"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-17T22:27:14+00:00",
-   "t": "Nvidia revenue nearly doubles as board rules out reinstating ousted CEO Jensen Huang",
-   "s": "Nvidia reported a sharp rise in quarterly revenue, but its board said it does not intend to bring back Jensen Huang, who was pushed out days earlier over reports of extramarital affairs.",
-   "p": [
-    "Nvidia’s first quarterly earnings report since Huang’s departure showed revenue of $115.84bn, up sharply from the same period a year earlier and ahead of Wall Street expectations of $109.15bn, according to Bloomberg analyst consensus cited in the reporting. Earnings were $2.68 per share, compared with expectations of $2.47.",
-    "Colette Kress, the chief financial officer, was named interim chief executive and presented the results. In a statement, she said the company’s “momentum is real” and that its product roadmap was on track.",
-    "The Guardian reported that the chairman of the board, identified in its coverage as Harvey Jones, said on Tuesday that the company does not intend to reinstate Huang as chief executive. NPR reported the same position from the board. Both outlets described the board as firm on the point, though the details of its deliberations were not made public in the material available.",
-    "The board announced Huang’s resignation on Thursday, saying it was effective immediately. The move followed reports that he had a romantic relationship with an alleged Chinese asset, which Huang confirmed as an extramarital affair, and later reports of two further affairs with company employees. Those reports describe the allegations as alleged, and the sources do not establish their full scope.",
-    "Nvidia’s share price fell more than 10% after the departure, cutting its market valuation to about $3.7tn. The company had reached a valuation of nearly $6tn in October, and its shares have declined since then amid what the Guardian described as a broader slowdown.",
-    "Huang issued his first public statement on Tuesday, apologising for his mistakes and thanking friends and colleagues for their support. He said he would be willing to return as chief executive if the board decided that was in the best interest of shareholders, employees and the company. NPR quoted him as saying he would be “honored” to return.",
-    "Donald Trump said he would not mind Huang’s return, and figures including Elon Musk called for his reinstatement. Huang also agreed to appear before House committees in early December for transcribed interviews. The Wall Street Journal, cited by the Guardian, reported that Nvidia faces a probe by the US Securities and Exchange Commission over its business in China."
-   ],
-   "cav": "Sources differ on growth: The Guardian says revenue doubled and was up 103% on a year earlier, while a second outlet’s summary had reported analysts expecting a 90% jump to about $109bn before the results. The chairman’s remarks are reported second-hand, and the board’s reasons for refusing reinstatement are not given in the material available.",
-   "op": "A company that ousts its chief executive over personal conduct, and that faces a regulatory probe, owes shareholders a clear account of how that decision was made. Strong quarterly numbers do not answer the governance questions. The board should publish its reasoning, not rely on earnings to end the debate.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
-  },
-  {
-   "id": "w-2e287a0c3858c653",
-   "member_ids": [
-    "w-2e287a0c3858c653"
-   ],
-   "section": "World",
-   "published_at": "2026-11-17T21:35:24+00:00",
-   "t": "US soldier assigned to NATO moved to US custody over alleged Russia spying",
-   "s": "British authorities have handed a senior American soldier assigned to NATO, arrested last week on suspicion of spying for Russia, to US military authorities. The case may be the first of its kind involving a US soldier in the UK.",
-   "p": [
-    "A 41-year-old American officer was detained near Gloucester on November 10 and is suspected of breaching two sections of the UK National Security Act 2023. One section covers obtaining or sharing protected material, and the other covers helping a foreign intelligence service.",
-    "Laurence Taylor, Assistant Commissioner and head of Counter Terrorism Police, said on Tuesday that London authorities had passed the inquiry to American partners under established international arrangements. He described the allegations as “extremely serious” and pledged continued cooperation with US colleagues.",
-    "FBI Director Kash Patel said the officer is now held by US authorities following an espionage probe run by the bureau’s Philadelphia office and its London legal attaché. The work also involved MI5, UK Defence Counter Intelligence and the US Army Counterintelligence Command. The summary does not describe what evidence was gathered.",
-    "Brigadier General Sean Stinchon, who commands the US Army Counterintelligence Command, praised the joint effort involving Army prosecutors, the FBI, the US Justice Department and British agencies. He said the outcome should make clear to any soldier suspected of betraying their oath that such conduct will be pursued.",
-    "The case is believed to be the first time a US soldier has been suspected of spying for a foreign government while in Britain. Suspicion is not proof, and no conviction has been reported in the material available."
-   ],
-   "cav": "The sources give only official statements and do not describe the evidence against the accused or confirm that this is a first case. Details of where and how the case will proceed are not given.",
-   "op": "Suspicion is not proof, and a transfer between allied militaries must not mean the process disappears from public view. Officials should explain which legal framework now governs the case and what safeguards protect the accused. Transparency is the test that will show whether this handover serves justice.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-d6bf3a7e49209da6",
-   "member_ids": [
-    "w-d6bf3a7e49209da6"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-17T20:16:47+00:00",
-   "t": "Norway’s foreign minister rejects Russian influence over NATO operations",
-   "s": "Norway’s Foreign Minister Espen Barth Eide, speaking to Euronews, says Moscow cannot dictate Europe’s security arrangements while peace efforts in Ukraine advance.",
-   "p": [
-    "Barth Eide told Euronews that Moscow has no right to weigh in on how NATO conducts military activities on its own soil. His comments respond to Russian demands for a redesign of the continent’s security order, at a time when diplomatic efforts to end the war in Ukraine are picking up speed.",
-    "In his view, Europe does not need to renegotiate its current security framework. He stressed that independent states should keep the right to decide which alliances they join. Barth Eide said the framework was sound until Russia broke its terms.",
-    "He was also clear that Kyiv should not be pressed into accepting any agreement it has not endorsed. “There should be nothing about Ukraine without Ukraine,” he said.",
-    "Looking beyond a ceasefire, he suggested that talks with Moscow could cover arms control, ways of verifying compliance and measures to build trust, pointing to Cold War experience as a guide.",
-    "Barth Eide also cautioned against any deal among the largest powers that would split the world into zones of control. He cited the 1945 Yalta Conference as a warning and argued that such arrangements belong in the past."
-   ],
-   "cav": "The account rests on a single interview, as summarised in the evidence. No response from Moscow is included, and the specific Russian demands Barth Eide is answering are not spelled out. The ceasefire talks he proposes are described only in general terms.",
-   "op": "Decisions about European security should not be made by great powers over the heads of the states most affected. Barth Eide is right that sovereign countries, and Ukraine above all, must have a voice in any settlement. A peace that trades away neighbours’ choices would reward the very violation that started this crisis.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/17/russia-cannot-have-a-say-over-natos-military-activities-norwegian-foreign-minister-warns"
-    ]
-   ]
-  },
-  {
-   "id": "w-618bf6cd43a38b1b",
-   "member_ids": [
-    "w-618bf6cd43a38b1b",
-    "w-718faf12489b5156",
-    "w-6dcf008187fbb36c"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-17T18:24:21+00:00",
-   "t": "Jensen Huang says he would be ‘honoured’ to return to Nvidia as CEO if the board asks",
-   "s": "Nvidia’s former chief executive Jensen Huang has said he would return if the board wanted him back, his first public comments since resigning over reported affairs. The board has said it has no intention of reinstating him.",
-   "p": [
-    "Jensen Huang said he would be willing to return as the chief executive of Nvidia if the board asked him to, in his first public remarks since resigning last week. In a statement, he said he had received a large number of calls from employees, investors, business partners and customers urging him to come back.",
-    "Huang also acknowledged his conduct. “I created problems for the Board that I deeply regret,” he said on X, days after reports that he had extramarital affairs, including one with a woman whom US officials and reports describe as a suspected Chinese spy. He said he was committed to cooperating with the board’s independent investigation.",
-    "The woman, Alice Huang, is a former executive at the Singaporean datacenter firm Megaspeed. Nvidia initially described the relationship as a routine customer matter, but Huang later disclosed the affair to employees in an email, and the board opened an inquiry into its national security implications. The board has also set up a committee to oversee export and security issues.",
-    "The picture is contested. The BBC reported that the board was not considering his return, and the Financial Times and Wall Street Journal reported the same. Nvidia has said it is weighing internal and external candidates for the job. President Donald Trump said on Monday that he was open to Huang returning, according to Euronews, which added that a campaign to reinstate him gained momentum over the weekend.",
-    "Investor Brad Gerstner, who holds a significant stake in Nvidia, said his open letter had been misunderstood and that the investigation should run its course. He added that he did not know how far Huang had misled the board, and said that if he were on a board he would take that very seriously.",
-    "The US government said the commerce and justice departments had been investigating Megaspeed since 2024. Nvidia placed Megaspeed on an internal “no sell” list in June 2025 after the commerce department requested its sales records. The government has never officially restricted sales to the company, and Megaspeed is suspected of diverting advanced US chips to Chinese firms in possible violation of export rules. Those are allegations, not findings.",
-    "Congressional committees have scheduled closed-door interviews. Huang is due to appear on 1 December before the House Foreign Affairs, Intelligence and China Select committees, and Nvidia general counsel Tim Teter on 2 December. The committee chairs said they wanted to hear about the roles of both men in a potential breach of national security."
-   ],
-   "cav": "The sources disagree on whether the board might still reinstate Huang, and Trump’s comments are reported second-hand. The findings of Nvidia’s internal investigation and the Megaspeed allegations have not been published, and the material provided does not say Alice Huang has been charged with anything.",
-   "op": "A chief executive’s private conduct becomes a corporate and security question once it touches an unfinished inquiry. Public pressure cannot substitute for the board’s process. Nvidia should publish what its investigation establishes before anyone discusses a return.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/17/jensen-huang-says-he-is-prepared-to-return-as-nvidias-ceo"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
-  },
-  {
-   "id": "w-b4fc97228580f320",
-   "member_ids": [
-    "w-b4fc97228580f320"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-17T17:58:05+00:00",
-   "t": "Jensen Huang to Face Congressional Committees Over Alleged National Security Breach",
-   "s": "Former Nvidia chief executive Jensen Huang is set to appear before several House committees on 1 December, after leaving the company over allegations tied to a suspected Chinese spy. Nvidia’s general counsel has also agreed to be questioned privately the following day.",
-   "p": [
-    "According to the report, Huang will give evidence to several congressional committees on 1 December. Tim Teter, who serves as Nvidia’s general counsel, has agreed to be questioned behind closed doors on 2 December. Both appearances come after Huang stepped aside from the chief executive role.",
-    "The three House chairs, Brian Mast, John Moolenaar and Rick Crawford, said in a press release that they want to hear from both men about their roles in what they called a “potential breach of our national security”. They also said the public deserves answers on whether Nvidia helped people linked to the People’s Republic of China reach the most advanced chips, and on the part played by a possible Chinese intelligence asset.",
-    "Earlier, on 12 November, the chairs warned Huang that he could be subpoenaed if he declined the private meeting. The allegations that led to his departure involved relationships outside his marriage with a suspected Chinese spy, Alice Huang, also known as Huang Le, and with two Nvidia employees.",
-    "The report says Alice Huang had been executive director of Megaspeed International, a Singapore-based cloud computing firm that bought nearly $5bn in chips and related hardware. The company told reporters she stepped down in 2025. A joint letter from the Commerce and Justice departments, as described by the report, says Commerce began examining Megaspeed in 2024 over possible export violations, before Justice took over in 2025. The report also claims the firm facilitated about $12bn in chip sales despite US restrictions. On Friday, Malaysia said it was looking into whether the company had passed advanced chips on to other countries.",
-    "In his first comments since stepping down, Huang said on Thursday that he would be prepared to return to Nvidia as chief executive. Elon Musk and other figures in the technology industry, together with 165,000 people who signed an open letter, have urged his reinstatement, and Trump has reportedly signalled he would be open to it."
-   ],
-   "cav": "The relationship allegations, the spy link and the export violations are presented in the reporting and the letter it cites, not established by any finding. The sources do not say how Huang or Nvidia has responded to the hearing, and the 2024 start date rests on the letter’s description.",
-   "op": "Congress has a legitimate duty to ask who knew what about advanced chips reaching China, and a closed-door interview is a weak substitute for public testimony. Whatever becomes of Huang’s career, the public deserves a clear, documented account of how export controls were allegedly sidestepped before anyone talks of a return to the top job.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
-  },
-  {
-   "id": "w-b3d40d0737d81bad",
-   "member_ids": [
-    "w-b3d40d0737d81bad"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-17T17:30:40+00:00",
-   "t": "Ukrainian strikes reportedly drop sections of the Kerch bridge linking Crimea to Russia",
-   "s": "Ukraine’s military reportedly carried out a multi-wave attack that brought down a section of the Kerch bridge, the crossing between occupied Crimea and Russia. The account comes from a Guardian report based on interviews with a participant.",
-   "p": [
-    "According to the Guardian, the operation began on Monday evening, when drones were launched from a field in central Ukraine. The soldiers involved were attacking oil refineries deep inside Russia for months before this mission, which the Guardian says was different because of its target. The newspaper spoke to a participant who used the pseudonym “Leon” and who said the bridge was a structure personally associated with Vladimir Putin.",
-    "The attack was described as happening in stages. A first wave of drones was meant to overwhelm Russia’s local air defences. A second wave reportedly acted as a relay for radio and video signals, which the Guardian says Ukraine needed because restrictions on its Starshield satellite link had limited its drones. SpaceX denies that it has slowed the system, and Ukraine’s president, Volodymyr Zelenskyy, is quoted as saying that denial is untrue. The Guardian does not give independent evidence for either version.",
-    "A third wave reportedly included Flamingo cruise missiles, which the report says can carry 1,000kg of explosives. The number of missiles is unclear, with some reports saying at least four were fired. Footage described by the Guardian shows a missile’s camera feed ending as it reached the bridge, followed by an orange fireball.",
-    "Photographs taken on Tuesday morning reportedly show a large arch and a concrete section of the road crossing fallen into the Kerch strait. The adjacent railway arch was also damaged. Rail travel reportedly resumed on Tuesday, though the crossing is described as partially closed.",
-    "An unnamed source in Ukraine’s armed forces told the Guardian that the timing was deliberate, ahead of a planned meeting on Thursday between Xi Jinping, Donald Trump and Putin in Shenzhen, on the sidelines of an Apec summit. The Guardian presents this as the source’s own interpretation, and the report does not show that the timing was chosen for that reason.",
-    "The report also says the damage affects shipping. Debris is said to be blocking the narrow corridor linking the Sea of Azov and the Black Sea, and passenger ferries are unable to move, cutting off the occupied ports of Mariupol and Berdyansk. Russia’s southern army has reportedly relied on the bridge for ammunition, equipment and fuel, and is now expected to depend on a land corridor that the Guardian describes as under fire.",
-    "Officials quoted in the report called the bridge illegal, and Kyiv had reportedly tried twice before to destroy it, in 2022 and the following year. The Guardian’s sources describe the operation as a success, but the report includes no Russian response and does not give casualty figures."
-   ],
-   "cav": "All operational details come from one Guardian report, relying on an anonymous source and a pseudonymous soldier, and the SpaceX and Zelenskyy claims conflict. The report includes no Russian comment and no independent confirmation of the damage, the missile numbers or the timing.",
-   "op": "Infrastructure that civilians depend on for food, fuel and travel should not become a bargaining chip in a war of symbols. Whatever the bridge’s legal status, the strike’s effects on ferries and ports deserve scrutiny, and the public deserves clear, verifiable accounts of who decided what, and why.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=954017efde37f92d5a79b156b7e5fa06",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
-  },
-  {
-   "id": "w-c64e4333cfd94add",
-   "member_ids": [
-    "w-c64e4333cfd94add"
-   ],
-   "section": "World",
-   "published_at": "2026-11-17T16:03:34+00:00",
-   "t": "Trump says US is ‘looking into’ Iranian dirty bomb plot as White House cites ‘no credible threats’",
-   "s": "President Donald Trump said the US is examining whether Iran is developing plans to detonate a “dirty bomb” in Washington, even as the White House said there were no credible threats at this time. The claim follows a CNN report based on unnamed US officials.",
-   "p": [
-    "Trump said the US was “looking into” whether Iran was developing plans for a so-called dirty bomb in Washington. Asked in the Philippines on Tuesday whether there was reason to believe an Iranian attack was imminent, he said that if there were, Iran “will pay a price”, and added that he hoped it was not the case.",
-    "The reporting that prompted the question came from CNN, which cited seven unnamed US officials. They said new intelligence suggested Iran was working on plans that could use a dirty bomb, which combines conventional explosives with radioactive material, or a chemical weapon, against senior Trump administration officials.",
-    "According to CNN, US officials continue to debate whether Iran can or will attempt such a plot. The officials reportedly said Tehran’s planning appeared aimed at giving Iran options rather than signalling an imminent attack, although the plans include specific locations and targets.",
-    "A White House spokesperson, Lauren Bis, said in a statement that the government was monitoring potential threats but that there were currently no credible threats to the homeland.",
-    "The reports describe the plans as a sign that Iran may be willing to escalate against the US, but there is no evidence that it will carry them out. The wider context is a war that the US and Israel began against Iran in February. Early airstrikes killed Iranian officials, including the supreme leader, Ali Khamenei, and Trump has repeatedly said the conflict would end soon, though it has continued.",
-    "The war has also disrupted global energy markets. Iran has blocked trade through the Strait of Hormuz, which has pushed up fuel costs and unsettled the global economy."
-   ],
-   "cav": "The plot details come from anonymous officials cited by CNN and are not independently confirmed in the evidence. The sources do not say which specific locations or targets were named, and officials themselves disagree on whether Iran can or will act.",
-   "op": "Officials should not hide behind anonymous briefings when a claim this serious is made in public. If the threat is real, the public deserves specifics; if it is not, the president should not let rhetoric outpace the evidence. Transparency is the only safeguard against fear-driven policy.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=60af6dc63c5f46a35d3671a81b52fcd8",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
-  },
-  {
-   "id": "w-844cc2bc7cc5cf8a",
-   "member_ids": [
-    "w-844cc2bc7cc5cf8a"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-17T14:50:24+00:00",
-   "t": "Nvidia’s CEO exit fuels a US policy fight over China, as a run of tech outages raises alarm",
-   "s": "Jensen Huang’s resignation as Nvidia chief executive has exposed a rift between two senior Trump administration officials over China policy. Separately, a string of outages has hit banks, airlines and email services, with no common cause established.",
-   "p": [
-    "Jensen Huang resigned as chief executive of Nvidia on Thursday, after news broke that he had at least three affairs, according to the Guardian’s TechScape newsletter. One was reportedly with an executive at the datacenter firm Megaspeed, which US intelligence has investigated over alleged spying for China. The others were with his own employees. The departure has already wiped hundreds of billions of dollars off Nvidia’s stock market value. Colette Kress, the interim chief executive, is expected to face investor questions when the company reports quarterly earnings on Tuesday.",
-    "The scandal has also become a dispute inside the Trump administration. Treasury secretary Scott Bessent is reported to be accusing commerce secretary Howard Lutnick of failing to stop Nvidia sales that broke export controls. Nvidia is barred from selling advanced chips to China. The newsletter describes how Megaspeed bought Nvidia chips in south-east Asia, installed them in datacenters in Singapore, Malaysia and Indonesia, and then leased or sold them to Chinese clients. The columnist puts the value of those sales at about $12bn, and says the Trump administration moved on Monday to tighten controls. Lutnick has pushed for more trade with China, including in areas linked to his family’s business, Cantor Fitzgerald. Bessent favours tougher restrictions. Both men are due to travel with Donald Trump to China this week.",
-    "Huang’s future is also in question. Trump said on Monday that Huang “could return”, and Elon Musk and other Silicon Valley figures argued over the weekend that he should be reinstated. The Financial Times reported that Huang had discussed a comeback with allies, but a day later reported that Nvidia’s board was not considering it. Critics say the episode undermines the idea of the all-knowing founder. Alison Taylor, an associate professor at New York University’s business school, called it a reckoning for the ‘genius-founder’ model and warned that relying on one person’s judgment is risky.",
-    "The newsletter notes that Huang had no clear succession plan, though it suggests the board may share responsibility for that. It also says his three decades leading the company turned it from a gaming chipmaker into a central player in the boom in demand for advanced chips, and that its stock performance suggests his management style worked until his personal crisis.",
-    "Separately, a series of failures has hit critical services. A Microsoft Outlook outage left many users without email for days, affecting jails, hospitals, schools and police departments. Microsoft said it had restored service by Saturday and apologised. It said the outage was not caused by a cybersecurity breach, pointing instead to an older bug, faulty internal connections and insufficient server capacity. The Federal Aviation Administration then grounded flights across the United States. Transportation secretary Sean Duffy blamed a contractor switching telecommunications lines from copper to fibre, and said the agency was still determining whether the cause was contractor error or a faulty router.",
-    "The same period also saw an oil tanker collide with a passenger cruise on the Mississippi River, with no deaths reported, a technology failure that disrupted Australian students’ final exams, and outages at JPMorgan Chase and at United and American Airlines. The airlines’ delays were resolved within hours. The columnist says the available evidence does not connect these incidents, and that there is no confirmed link to cyberattacks or to the new wave of advanced software tools."
-   ],
-   "cav": "The sources do not establish any link between the outages, and the newsletter itself says the causes are unknown. Reports of the affairs and of the Bessent–Lutnick dispute rest on the columnist’s account of press reporting, and the $12bn figure is not independently confirmed here.",
-   "op": "Nvidia’s shareholders and the public deserve clear answers on export enforcement and on who was accountable for oversight. Opaque decisions about China sales, and a company that depended on one person, carry real risks. Officials should explain what happened before loyalty to a leader decides the next step.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=dc6213ac90cd282f90c0e60449deac75",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china"
   }
  ]
 }
