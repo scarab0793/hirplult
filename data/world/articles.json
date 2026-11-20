@@ -1,6 +1,353 @@
 {
- "updated_at": "2026-11-20T14:19:49.327001+00:00",
+ "updated_at": "2026-11-20T21:56:50.725759+00:00",
  "items": [
+  {
+   "id": "w-9a38142955443e68",
+   "member_ids": [
+    "w-9a38142955443e68",
+    "w-2952a9f1bbe21693"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-20T21:47:41+00:00",
+   "t": "Trump threatens ‘tremendous penalties’ on US tech firms building datacenters abroad",
+   "s": "President Donald Trump said on Friday that American tech companies building datacenters outside the US would face “tremendous penalties”, though he offered no details. He made the remarks at a wide-ranging White House press conference.",
+   "p": [
+    "Trump said he did not want US companies to build datacenters in other countries, arguing that China would take them if they were allowed to. He told reporters he had not yet informed his own officials about the plan.",
+    "At the same briefing, Trump said he would “look into” a report that Iran had been planning to detonate a “dirty bomb” in Washington DC. He described the report as a rumour and said that if Iran did so, “we’re going to fight.”",
+    "Trump also backed Vice-President JD Vance, whose comments had blamed Republican losses in the midterm elections on the Iran war. Asked about reports of a rift between them, Trump said Vance’s remark was “a very accurate statement”.",
+    "On foreign leaders, Trump spoke warmly about Russian President Vladimir Putin and Chinese President Xi Jinping, whom he met at the Apec summit on Thursday. He said he had “fantastic relationships” with both, and was asked whether Putin could be considered a friend given Russia’s close ties to Iran.",
+    "On datacenters at home, Trump said Americans should welcome the facilities but that communities should seek payments from developers. “Make them pay your community,” he said, adding that they should not be shut out.",
+    "The remarks come as many Americans oppose datacenters being built near their homes. The tech industry has responded by promising fewer government handouts, more transparency and more money for towns that host the facilities.",
+    "Separately, the administration on Monday issued new rules restricting remote access to advanced US computing chips, which it said were meant to limit China’s ability to use US chips for training. A House committee said on Wednesday that the US had approved sales of nearly 900,000 chips to China over six months. The chipmaker Nvidia, in which Trump is an investor, has also drawn attention after its chief executive, Jensen Huang, was fired over an affair with a woman who was alleged to be spying for China."
+   ],
+   "cav": "The Guardian reports the penalties without any details, and Al Jazeera’s summary describes “a tremendous tax” instead, so the exact measure remains unclear. The dirty bomb report is unverified, and the chip sales figure comes from a House committee rather than a confirmed administration statement.",
+   "op": "Threatening punishment for companies without publishing a rule, a legal basis or a timetable is governance by remark. Businesses and communities deserve to know what the penalties would be before they make decisions that affect jobs and land. Clarity, not bluster, is what should be expected from the White House.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+  },
+  {
+   "id": "w-1c5ff25894a97b57",
+   "member_ids": [
+    "w-1c5ff25894a97b57"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-20T21:05:07+00:00",
+   "t": "Trump defends Putin ties and warns data centres must stay in the US",
+   "s": "US President Donald Trump praised his recent trip to China and defended his relationship with Russia’s Vladimir Putin, while warning tech companies against building data centres overseas. The remarks came at a wide-ranging White House news conference on Friday.",
+   "p": [
+    "Trump described Putin as a “friend” during a recent summit that also included Chinese President Xi Jinping. When reporters at a White House briefing asked whether the Russian leader was in fact a friend to the United States, Trump did not give a direct answer. “I can’t speak to America,” he said, before adding that Putin had been “very nice” during the so-called Russia hoax investigation that followed his 2016 presidential campaign.",
+    "Trump said he had a very good relationship with Putin, and he linked the comments to Russia’s nuclear weapons capabilities. He also praised the summit as one of the most important international meetings in many years. According to his account, it was the first ever trilateral meeting between the leaders of the United States, Russia and China. He praised what he called a “first of its kind trilateral peace agreement”, although the reporting says no major deals were announced from the meeting.",
+    "On Friday, Trump played up his agreement with Putin and Xi to hold future discussions on nuclear proliferation, presenting it as a success of the summit.",
+    "The news conference also covered the war involving Iran, which is approaching its 10-month anniversary. Trump accused Tehran of negotiating in bad faith. He said Iran wanted a deal but not one acceptable to him, and that Washington wanted a real agreement rather than a fake one. He did not set out the terms he was seeking.",
+    "Several senior officials stood beside him in the briefing room, including Vice President JD Vance and Secretary of State Marco Rubio, both of whom were named as possible 2028 presidential contenders. Treasury Secretary Scott Bessent, Defence Secretary Hegseth and newly appointed White House chief of staff Stephen Miller were also present.",
+    "Trump denied he was upset with Vance, who had reportedly blamed the Iran war for the historic midterm losses suffered by Republicans. Trump said Vance’s statement was fine, adding that if asked, he would have said he would do the war again, and that the answer was yes. Vance said the president makes the decisions and that his job was to support him.",
+    "Trump warned US technology companies against building new data centres in other countries, saying they would face a “tremendous tax”. He said the country would not allow such facilities abroad because China would take them all, and that penalties would follow for companies that tried. He did not explain how the policy would be enforced and said he had not yet briefed his own officials on it. Al Jazeera said it had contacted the White House for comment and had not received a reply."
+   ],
+   "cav": "Trump’s claims about the summit, including that it was the first of its kind and produced a peace agreement, are his own characterisations and are not independently confirmed in the reporting. Vance’s midterm remarks are described second-hand. The data centre policy has no published details, and the White House had not responded at the time of reporting.",
+   "op": "A leader who praises a rival’s personal friendship while promising unexplained penalties for companies owes the public clear rules and clear reasons. Policy announced from a press room, before officials are briefed, is a warning sign for transparency. Governments should set out the terms before they threaten business.",
+   "confirmed": false,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+    ]
+   ]
+  },
+  {
+   "id": "w-1d859d9b959d0882",
+   "member_ids": [
+    "w-1d859d9b959d0882"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-20T20:54:12+00:00",
+   "t": "Trump threatens ban on US firms building data centres overseas",
+   "s": "US President Donald Trump has said American companies will not be allowed to build data centres abroad, threatening a “tremendous tax” on firms that do so. He gave few details, and it remains unclear how such a policy would work.",
+   "p": [
+    "Donald Trump said he would ban US companies from building data centres overseas, according to the BBC. He threatened a “tremendous tax” for technology firms that went ahead anyway. Speaking to reporters at a press briefing after returning from a trip to Asia, he said: “We’re going to keep it all in this country.”",
+    "The BBC reported that Trump gave little detail on the potential policy. He said other members of his cabinet were hearing about it for the first time, and he admitted he had not yet raised it with his own team. He linked the idea to China, saying Beijing would otherwise take all such facilities.",
+    "The BBC noted that it remains unclear how the policy would be enforced if it were introduced. Large technology companies, including Meta and Google, have already signed agreements to build data centres overseas.",
+    "The remarks came after data centres became a central issue in the midterm elections earlier in November. Many Democratic candidates promised tougher regulation of their construction, and concerns about noise pollution and energy consumption helped them win on 3 November, the BBC said.",
+    "Trump took a different line on the facilities themselves. He told reporters that communities should “take advantage” of data centres and make the companies pay them, rather than shut them out. He added that many places want them and have energy and other assets to offer.",
+    "The announcement also follows a separate move by Washington. On Monday, the US said firms would need a licence to buy advanced computer chips, so officials can monitor whether the chips are used to serve Chinese companies or smuggled into China. The BBC reported that this will affect South East Asian countries that have invested heavily in data centres.",
+    "According to the Pew Research Centre, cited by the BBC, there were about 3,000 data centres across the US as of April, with another 1,500 at various stages of approval and construction. Many are in rural areas.",
+    "The BBC also reported that Canada has moved to position itself as an alternative location, with less local pushback so far. Meta has broken ground on a data centre in Alberta, and Anthropic has signed a long-term agreement to lease a proposed site in Nova Scotia. In Finland, Google announced a €13bn ($15bn: £11bn) infrastructure investment in September, including funding for three data centres. The BBC said building work on two of them was halted last month over concerns about clearing more than 300 hectares of forest. Trump singled out the Finland project, saying his administration was “not allowing that to happen.”"
+   ],
+   "cav": "The source is a single BBC report and the policy has not been published or formally defined. The BBC says it is unclear how enforcement would work, and the claim that other officials had not been briefed comes from Trump's own remarks.",
+   "op": "A major economic policy should not be announced through off-the-cuff remarks to reporters. Companies, allies and voters need written rules, legal authority and a clear enforcement mechanism. Until those exist, a threatened “tremendous tax” is a headline, not a policy.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+  },
+  {
+   "id": "w-276e85c44bc9fd69",
+   "member_ids": [
+    "w-276e85c44bc9fd69"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-20T20:31:00+00:00",
+   "t": "COP31 enters final phase in Antalya with no deal yet and a draft that omits fossil fuel phaseout",
+   "s": "The UN climate summit in Antalya, Turkey, was running past its scheduled close on Friday with no agreement, after a new draft declaration left out any mention of phasing out fossil fuels. According to DW, talks could continue into the weekend.",
+   "p": [
+    "Delegates from nearly 200 countries gathered in Antalya for the closing stage of the COP31 climate summit, after about two weeks of negotiations. DW reported that countries remain divided on how to tackle global warming.",
+    "A new draft declaration does not mention phasing out fossil fuels, which DW describes as the main drivers of climate change. Campaigners quoted by the broadcaster called the omission a step backwards and a clear regression.",
+    "Late on Friday, a plenary session began well after its official closing time. Turkish presidency's opening address was partly drowned out by a protester who shouted objections in English, and the chamber applauded.",
+    "COP31 President Murat Kurum, who is also Turkey's environment minister, told the plenary that negotiators had been working for days to find common ground and hailed the progress made. The plenary also noted that several of the more ambitious parts of the political declaration were still incomplete. Several national delegates used the session to complain about slow progress, and in some cases what they described as backsliding.",
+    "Ethiopia, which will host next year's summit, confirmed its plans during the same session. Foreign minister Gedion Timothewos, who will preside over COP32, described the process as a long-distance race rather than a sprint, and said Addis Ababa would take up the work next year.",
+    "DW also reported that the IPCC has put on hold its next series of multi-year scientific assessments, at the urging of countries including Russia, Saudi Arabia and Iran. The broadcaster said the US government has not sent an official delegation, while American lawmakers, mayors and governors travelled to Turkey instead. US President Donald Trump, who has called global warming a hoax, did not send a formal delegation for the second year running.",
+    "Uganda's environment minister, Beatrice Atim Anywar, said funding promised by wealthy countries to help with climate impacts has not materialised, and that her country hopes oil and carbon credits will help close the gap.",
+    "Victor Menotti of the Demand Climate Justice NGO told DW that European governments appeared to be borrowing negotiating tactics associated with the Trump administration. He accused them of seeking to dilute their responsibilities and of expecting unrealistic commitments from developing countries. He also pointed to Germany's continued subsidies for coal and fossil fuels, and said the wealthier countries should act first."
+   ],
+   "cav": "All of the substance comes from a single DW report, and the summit outcome was still unresolved when it was published. The claims about Germany, the US posture and Uganda's funding are attributed to the people quoted and have not been independently checked in these sources.",
+   "op": "A climate deal that avoids naming fossil fuels fails the basic test of what the summit is for. Governments owe their citizens clear commitments and public scrutiny of what they agree to, not vague language settled after midnight. Delegates should put the phaseout back on the table and explain any refusal in public.",
+   "confirmed": false,
+   "src": [
+    [
+     "DW",
+     "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf"
+    ]
+   ]
+  },
+  {
+   "id": "w-b22f8dbd2baa3726",
+   "member_ids": [
+    "w-b22f8dbd2baa3726"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-20T20:04:46+00:00",
+   "t": "Cop31 talks in Antalya overrun deadline as draft text omits fossil fuels",
+   "s": "Negotiators at the Cop31 summit in Antalya, Turkey, kept working past the planned Friday close, with a draft that makes no reference to fossil fuels at the centre of the dispute.",
+   "p": [
+    "Negotiations at the Cop31 UN climate summit ran past their planned close on Friday, according to The Guardian. Delegates were still disputing a draft agreement that contains no reference to fossil fuels, and several other unresolved questions were slowing progress. The paper understood that a revised text would probably not be ready until Saturday morning.",
+    "The wording had moved considerably during the week. An early draft called for faster phase-outs of coal, oil and gas. A shorter version circulated on Thursday removed any mention of those fuels and softened targets on electrification.",
+    "Brazil’s national secretary for climate change, Aloisio Lopes Pereira de Melo, summed up the mood by saying “At this point, no one is happy.” Panama’s climate minister, Juan Carlos Navarro, rejected a document that does not mention fossil fuels at all. Eight countries have asked for a clear transition away from fossil fuels to be reinstated, and seven others, including Panama and Belgium, listed issues they consider essential.",
+    "Cop insiders, speaking anonymously to the Guardian, said Saudi Arabia was taking an obstructive line. The paper reported that the kingdom wants carbon capture, utilisation and storage to be prominently referenced in the final text, as a way of limiting overshoot of the 1.5C goal set in Paris. Neil Grant of the advisory group Climate Analytics argued that the technology is being written in because fossil fuel interests want it there, calling it a “Trojan horse”.",
+    "Observer groups with a formal role in the talks described the process as the “worst Cop ever”. They said none of their priorities had survived the negotiations, and they were especially aggrieved that a just transition mechanism agreed a year earlier had not been advanced.",
+    "Ministers from Ghana, Zambia, Senegal, Kenya and Sierra Leone held a press conference on Friday morning. They argued that African countries were being made to bear the costs of a crisis they had not created, and accused wealthier nations of using carbon taxes to keep the continent from turning its mineral resources into industry. Zanetor Agyeman-Rawlings of Ghana, who chairs the African negotiators’ group, said: “We didn’t come here to beg.”",
+    "Climate finance remains a major sticking point. A senior EU official said the bloc and its member states had provided €32.3bn from public sources and mobilised €9.3bn in private finance in 2025. Observers have blamed richer countries, the EU among them, for holding back progress on money throughout the week. These EU figures are the official’s own statement and were not checked independently in the article.",
+    "Chris Bowen, who is presiding over the talks, defended the process, saying “Well, red lines – that’s how negotiations work.” He added that no one had yet proposed abandoning the effort. The last Cop to end on schedule was held in Italy in 2003, and some earlier sessions have spilled into the following Sunday."
+   ],
+   "cav": "Every detail here comes from one Guardian report written on the final day, and the sources do not include the final text or the outcome. The claims about Saudi Arabia rest on anonymous insiders, and the criticism of carbon capture is one expert’s opinion. The EU funding figures are an official’s claim.",
+   "op": "Nearly 200 governments are still divided over whether a climate deal should name the fuel driving the crisis, and that omission is the real test. A text that promises action while leaving fossil fuels out invites distrust. Negotiators should state their objections openly and make clear who is blocking progress.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=213d9f5c5115f07440db4915083c1965",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
+  },
+  {
+   "id": "w-bb98b992ff44e74b",
+   "member_ids": [
+    "w-bb98b992ff44e74b",
+    "w-73f7cc09bff06076"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-20T20:00:53+00:00",
+   "t": "Anthropic shares slide back toward IPO price as tech sell-off deepens",
+   "s": "Anthropic’s stock market debut drew strong early interest, but its shares have fallen back toward their offer price as a wider sell-off hits technology stocks. Major US indexes slipped into correction territory on Friday.",
+   "p": [
+    "Anthropic, the maker of the Claude chatbot, rose sharply on its first day of trading on the Nasdaq on Thursday, after raising a record $81bn in its initial public offering. The shares opened at $111.50 and peaked at $115 before ending the day up 17% at $97.17, according to the BBC.",
+    "On Friday the stock gave back much of that gain. The BBC reported that it dropped at one point by more than 12% to about $85, close to its IPO price of $83. Al Jazeera put the shares at $87.95 around midday in New York, about 9.5% below Thursday’s close, while still above the offer price of $83.30. The two outlets’ figures reflect different moments in the session.",
+    "The fall in Anthropic’s shares came against a broader decline in technology stocks. By mid-afternoon, the S&P 500 was down about 2.8% and the Dow Jones Industrial Average was down more than 1%. Both touched correction territory, which is generally defined as trading 10% or more below a recent high. The tech-heavy Nasdaq Composite fell more than 4%.",
+    "Several large companies also dropped. The BBC reported that Nvidia had fallen more than 11% by the afternoon, with Tesla and SpaceX down more than 6% and Meta down more than 5%. Al Jazeera, citing an earlier point in the day, put Nvidia down nearly 7%, with Meta down almost 4%. Chip makers including AMD and Sandisk also sold off sharply in Al Jazeera’s account.",
+    "Analysts quoted in the reports said the IPO had not restored confidence across the sector. Ed Moya of AlphaSense told the BBC that investors were asking how much they were willing to pay for growth, and that Wall Street appeared to be shifting toward demanding stronger cash flow. David Miller of Catalyst Funds told Al Jazeera that investors are “becoming more selective about what they will pay for that growth.”",
+    "Markets in Europe and Asia also weakened. The BBC reported that Germany’s Dax closed down 2.6%, while South Korea’s Kospi and Japan’s Nikkei 225 each closed down about 5%. Taiwan’s market fell roughly 6% on Friday, which the BBC said was reported to be its biggest weekly fall since 1990.",
+    "Both outlets noted that early volatility is common for newly listed technology firms. Analysts pointed out that Anthropic had no direct listed peers, and comparisons were drawn with SpaceX, whose shares swung sharply after its June debut. Al Jazeera reported that SpaceX rose nearly 50% in its first three days before falling below its IPO price a month later."
+   ],
+   "cav": "The sources give different intraday figures for Anthropic and Nvidia because they were captured at different times, so the exact moves should be treated as snapshots. The BBC’s reference to a “bubble” is an ongoing concern voiced by commentators, not a confirmed finding, and the sources do not say whether Anthropic’s shares will recover.",
+   "op": "A strong IPO was supposed to lift the sector, and instead it has become a test of whether investors will keep paying for growth without clear returns. Markets reward transparency about profits, and that discipline should be demanded of every newly listed tech firm asking the public for its money.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+  },
+  {
+   "id": "w-dfe00c059737f8e1",
+   "member_ids": [
+    "w-dfe00c059737f8e1",
+    "w-8a87ce9461bd0cd6",
+    "w-0b1a286f76bd34b1"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-20T19:40:07+00:00",
+   "t": "Indian man sentenced to more than 19 years over US plot to kill Sikh separatist in New York",
+   "s": "A federal court in Manhattan has sentenced Nikhil Gupta, an Indian national, to 235 months in prison for plotting to hire a hitman to kill Gurpatwant Singh Pannun. Prosecutors say an Indian government official was involved, a claim New Delhi denies.",
+   "p": [
+    "A Manhattan federal judge imposed the 235-month term on Gupta, 55, according to Al Jazeera, the BBC and the Guardian. He had admitted in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.",
+    "Prosecutors say Gupta was recruited in May 2023 by Vikash Yadav, whom the BBC describes as an Indian intelligence officer. Yadav allegedly supplied details of Pannun's New York address and daily routine. Court papers indicate that $15,000 in cash was to be handed to a man presented as a hitman, who was in fact an undercover officer.",
+    "Gupta was arrested at Prague airport in June 2023 and later extradited to the United States. Al Jazeera reports that his plea agreement called for at least two decades behind bars, while prosecutors had requested about 24 years. The BBC reports the judge said he will likely be deported after serving his sentence.",
+    "At the hearing, Gupta apologised and said he had strayed from the nonviolent example of Mahatma Gandhi. “I’m sorry to Mr Pannun, I’m sorry to the communities I hurt, I’m sorry to my own family,” he said.",
+    "Yadav is charged in the case but is not in US custody, and it is unclear whether he has a lawyer. India’s government denies any role in the plot and says such conduct would violate its policy. The BBC reports that a spokesperson for the Ministry of External Affairs said Yadav no longer works for the government and that an inquiry committee had been set up to address US security concerns.",
+    "Pannun, who attended the hearing, described Gupta as a foot soldier acting on behalf of Prime Minister Narendra Modi, and said the Modi government wanted him dead for leading an open campaign. He said self-determination for Punjab remains his lifetime goal. According to the BBC, India has accused Pannun of terrorism, which he denies.",
+    "US and Canadian authorities have linked the case to a wider pattern of alleged plots against Sikh separatists, which has strained relations with New Delhi. The BBC reports that prosecutors allege Gupta called the 2023 killing of Hardeep Singh Nijjar in British Columbia a target as well. India has also denied involvement in that killing."
+   ],
+   "cav": "Sources differ on Pannun’s citizenship: Al Jazeera and the Guardian call him a dual US-Canadian citizen, while the BBC calls him American. The allegations against Yadav and Gupta’s remarks about Nijjar are prosecutors’ claims and have not been tested in court here.",
+   "op": "A long sentence for a plot against a critic on American soil is a rightful response. Yet accountability cannot stop at a foot soldier. Washington should press New Delhi to answer the allegations on the record, and openly.",
+   "confirmed": true,
+   "src": [
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
+  },
+  {
+   "id": "w-944d9ff3f86b799a",
+   "member_ids": [
+    "w-944d9ff3f86b799a"
+   ],
+   "section": "World",
+   "published_at": "2026-11-20T18:55:06+00:00",
+   "t": "Trump defends ties with Putin and Xi, accuses Iran of dishonesty in talks",
+   "s": "Back from a four-day tour of Asia, US President Donald Trump used a White House appearance to stand by his dealings with Xi Jinping and Vladimir Putin. He also pressed Tehran for a “real deal” and set out new trade ideas.",
+   "p": [
+    "Trump said his meetings with both leaders had gone well and described the relationships as a positive sign. He also dismissed people who object to those ties as foolish, a reaction to the criticism that followed his habit of calling Putin a friend. When reporters asked whether Putin counted as a friend of the United States, Trump said he could not answer on behalf of the country. He did, however, describe his own bond with the Russian president in glowing terms.",
+    "On Ukraine, Trump claimed that Putin had signalled a preference for ending the fighting through negotiation. He conceded that a settlement had been hard to secure and put much of the blame on the animosity between Putin and Ukrainian President Volodymyr Zelenskyy. Asked about guarantees for Kyiv's security, he said Washington was not ready to address that question until a broader agreement was in place.",
+    "Separately, the American, Russian and Chinese leaders released a joint declaration in China while the war continues. According to the report, the document commits the three to stability and security at the international level. It also sets out goals for overhauling the United Nations and for limiting the reach of the International Criminal Court.",
+    "Turning to Iran, Trump said Tehran wanted a deal with Washington but had not yet put forward terms he could accept. He accused the Iranian government of deceiving its own population for half a century. He further asserted that the US would not tolerate Iran building a so-called dirty bomb, pointing to what he called a rumour. The report stresses that this claim has not been confirmed.",
+    "Trump forecast that petrol prices in the US would fall further, though he admitted that the outcome would hinge on how the Iran conflict ends. The report notes that petrol nationwide still costs roughly €0.13 per litre more than when he entered office, which sits awkwardly with his assertion that prices had recently dropped.",
+    "On trade, Trump said Washington was nearing an agreement with Mexico after discussions with President Claudia Sheinbaum. He insisted, however, that the US would not accept a surplus running in Mexico's favour. Regarding Canada, he said significant work still lay ahead and accused Ottawa of exploiting American trade for years. He added that Prime Minister Mark Carney was keen to revive the Keystone pipeline, but warned Canada would have to make further concessions first.",
+    "Trump also said he planned to levy steep taxes on American firms that build data centres abroad, arguing that such facilities belong at home. He gave no specifics and admitted he had not yet raised the idea with his own advisers. Alongside this, he urged Americans to back data centre projects in their own communities while bargaining for benefits from the developers."
+   ],
+   "cav": "All of this comes from one outlet's account of remarks Trump made to reporters, and most of the claims are his own. The dirty bomb assertion is explicitly unconfirmed, and the petrol price claim sits uneasily with the figures the report cites. The data centre tax has no details and no official review, so its scope and timing are unknown.",
+   "op": "Leaders may speak frankly, but treating a war-making president as a friend while floating taxes no adviser has reviewed is a weak basis for policy. Transparency matters most when war and trade are on the table. Voters deserve evidence and considered plans, not rumours and improvised proposals.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties"
+    ]
+   ]
+  },
+  {
+   "id": "w-9b520ab179ed22f6",
+   "member_ids": [
+    "w-9b520ab179ed22f6"
+   ],
+   "section": "Americas",
+   "published_at": "2026-11-20T18:26:08+00:00",
+   "t": "Senate passes fast-track permitting bill that would limit lawsuits and loosen environmental laws",
+   "s": "The US Senate has passed the Bipartisan American Affordability and Jobs Act, which would speed approval of energy and datacenter projects. Environmental groups oppose it, while some Democrats and the bill’s backers argue it may be the only chance to speed up clean energy.",
+   "p": [
+    "The US Senate has approved a measure that would speed up energy and datacenter construction by loosening some environmental rules and limits on court challenges. The bill, known as the Bipartisan American Affordability and Jobs Act or Baaja, still needs to clear the Republican-controlled House before President Donald Trump can sign it, according to the Guardian. Trump has argued that it will raise economic activity and bring down energy costs.",
+    "Under the measure, building oil pipelines, power lines, windfarms and datacenters would become considerably simpler. Legal challenges would be curtailed, with lawsuits capped at 150 days. Key environmental statutes, including the Clean Water Act and the Endangered Species Act, would carry less weight when officials decide whether a project may proceed.",
+    "Some parts of the bill are presented as safeguards. Large datacenters would be required to cover their own grid and power expenses so that neighbouring communities are not burdened. Transmission line approvals would be sped up through greater coordination among regions, a change that might halve the time needed to build power lines. That provision has drawn praise from Democrats and environmental groups alike.",
+    "Future administrations and judges would find it much harder to withdraw or alter permits, including ones that were granted improperly. Businesses, fossil fuel companies among them, could also claim substantial compensation if they can demonstrate that government action delayed them.",
+    "Opponents expect the measure to boost fossil fuel activity. Jeff Merkley, a Democrat who is expected to lead the Senate environment committee, warned it would “accelerate the extraction and burning of fossil fuels”. Al Gore described it as a “serious mistake”, and Brett Hartl of the Center for Biological Diversity called it “the largest giveaway in history” to polluters.",
+    "Backers, including Democratic senator Sheldon Whitehouse, who co-sponsored the bill, contend that it may be the best opening to move forward on renewable projects now stuck in regulatory backlogs. Whitehouse said Democrats could not afford to hold out for an “imaginary perfect bill” once they regain control of Congress in January. Fellow Democrat Martin Heinrich, who co-wrote the bill, said voters need relief now. The bill was co-authored with Republicans Shelley Moore Capito and Mike Lee.",
+    "The Guardian reports that roughly 85% of generation awaiting grid connection in the US is solar, wind or battery storage. Citing the Rhodium Group, it says the bill could cut up to 1.5bn tons of pollution by 2040 and lower household electricity bills by as much as $78 a year by the same date. Merkley dismissed those savings as a “mere $5 a month” in 15 years. The bill was voted on without any hearings, and tribal groups say they were not consulted."
+   ],
+   "cav": "The emissions and savings figures come from a Rhodium Group analysis cited by the Guardian, and critics dispute how meagre they are. The article does not say whether the House will pass the bill, and it is unclear how much Republican support a stronger bill written in January would receive. Klein’s concerns about vague provisions are reported second-hand.",
+   "op": "Speed is worth having, but not at the cost of a law written behind closed doors while tribal consultation is brushed aside. Permits that courts and future governments cannot revisit is a transparency problem as much as an environmental one. Lawmakers should slow down enough to write these rules in public.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+  },
+  {
+   "id": "w-10cf7cc78c1a9d34",
+   "member_ids": [
+    "w-10cf7cc78c1a9d34"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-20T17:02:14+00:00",
+   "t": "EU and UK agree post-Brexit reset as Russian missiles hit Poland, COP31 talks stall",
+   "s": "EU and UK leaders reached a post-Brexit reset at a Brussels summit, according to Euronews. The same broadcast also flagged Russian projectiles landing in Poland and stalled climate talks in Antalya.",
+   "p": [
+    "At the Brussels summit, leaders from both sides settled on looser trade rules for farm goods, closer alignment of their carbon pricing systems and a scheme that would let young people move between the two. They also committed to further talks on how the relationship should develop. Prime Minister Andy Burnham was reported to hint at a tighter arrangement after the next election.",
+    "Euronews reports that two Russian missiles came down in southeastern Poland during lethal overnight strikes on Ukraine. Warsaw has described the landing as a deliberate provocation. The incident followed a joint pledge by Donald Trump and Vladimir Putin to work toward global peace. The broadcast also cites reports that Washington is weighing NATO membership for Ukraine if Kyiv gave up the Donbas region.",
+    "In Antalya, negotiators at the COP31 climate summit missed their scheduled close and extended talks into the weekend. Four disputes remain open: a timetable for moving away from fossil fuels, whether a 2035 electrification target of 35% depends on clean power, how climate finance will be delivered, and how to make the energy shift fair for every worker and community."
+   ],
+   "cav": "This is a programme preview built on a broadcast summary, not a full report, so the terms of the EU-UK deal and the circumstances of the missile incident are not set out. The NATO proposal is described only as reported, and no outcome for the COP31 talks is yet known.",
+   "op": "Trade terms and security claims should be judged on published texts, not on a teaser. If Warsaw’s charge of deliberate provocation is made, and talk of Ukraine ceding Donbas is real, citizens are owed open evidence and open debate.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland"
+    ]
+   ]
+  },
+  {
+   "id": "w-9f958aafbaa97a7a",
+   "member_ids": [
+    "w-9f958aafbaa97a7a"
+   ],
+   "section": "Sport",
+   "published_at": "2026-11-20T15:08:20+00:00",
+   "t": "Itoje rules out win-at-all-costs approach as England prepare to face All Blacks at Twickenham",
+   "s": "England captain Maro Itoje has said he will never adopt a win-at-all-costs mentality, ahead of Saturday’s match against the All Blacks at Twickenham. He also called for respect for referees after South Africa’s Rassie Erasmus was sanctioned over his match-fixing remarks.",
+   "p": [
+    "England captain Maro Itoje has said he will never adopt a win-at-all-costs mentality as his side prepare to face the All Blacks at Twickenham on Saturday. The Guardian reports that Itoje spoke after a week in sport dominated by comments from Springboks head coach Rassie Erasmus and the resurfacing of the 2018 sandpaper affair involving the Australia cricket team.",
+    "Itoje said England could take a significant step by winning back-to-back matches against New Zealand, something not achieved since 2003. He said his Christian faith and sense of right and wrong shape the limits he sets for himself. “There’s a line,” he said, adding that he would not take part in performance-enhancing drugs or betting on a game, even to win.",
+    "The context is Erasmus’s recent ban. According to the report, he was suspended for six matches after suggesting that officials might be match-fixing and that they had “manipulated the game”. The comments were widely seen as an attempt to put pressure on match officials before the Springboks’ upcoming fixtures.",
+    "Itoje backed the position taken by England head coach Steve Borthwick and several other coaches around the world that referees must be protected. Like Borthwick, he did not directly address Erasmus. He pointed out that World Rugby had acted against the coach and said players should uphold the values they want the sport to keep after they leave the field.",
+    "Itoje also said referees face heavy criticism, particularly online, and that rugby is praised by people in other sports, especially football, for the respect it shows officials. He noted that New Zealand and England supporters will sit side by side at Twickenham and said mutual respect is a value the rugby community should hold on to.",
+    "England arrive on the back of four consecutive wins and still have a chance of reaching next week’s Nations Championship final. Next year’s World Cup is also looming. Itoje said the coming games were the kind England must play if they want to become a great side, because they will face highly motivated and strong opponents."
+   ],
+   "cav": "The report relies on Itoje’s own comments and on the Guardian’s description of Erasmus’s remarks as a cynical attempt to pressure officials; the article does not give Erasmus’s full statement or his response. Itoje’s quotation refers to Erasmus being banned three times, while the same report says he was banned for six matches, and the sources do not reconcile the two.",
+   "op": "Itoje is right that referees deserve protection, because rules only work when those who enforce them are trusted. Claims of match-fixing made without evidence erode that trust, whoever makes them. Sport should answer such accusations with transparent process and clear sanctions, not with rhetoric.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/sport/2026/nov/20/maro-itoje-win-at-all-costs-mentality-england-all-blacks"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/6dd4713aca6ca0a0b1f1596491e58d39083e7da8/261_70_3237_2590/master/3237.jpg?width=140&quality=85&auto=format&fit=max&s=b1c3d4d76ee87c9e5f2c431e46c5210d",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/sport/2026/nov/20/maro-itoje-win-at-all-costs-mentality-england-all-blacks"
+  },
   {
    "id": "w-8d072a424d87a86c",
    "member_ids": [
@@ -754,343 +1101,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e9/live/f75e8720-e367-11f1-9f51-4bfc31543510.jpg",
    "img_outlet": "BBC News",
    "img_link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o"
-  },
-  {
-   "id": "w-e6f3618742b2e479",
-   "member_ids": [
-    "w-e6f3618742b2e479",
-    "w-1a82a2206b264444",
-    "w-47e7e0fbe31fef10",
-    "w-cae6568f00cddfb9",
-    "w-fc2541614de8c1f8",
-    "w-83f5be6073ca6df6",
-    "w-380c6ed3ece312d8"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-18T21:13:06+00:00",
-   "t": "Democrats formally nominate Hakeem Jeffries for House Speaker, putting him on course to be first Black lawmaker to lead the chamber",
-   "s": "House Democrats have formally nominated Hakeem Jeffries to be the next Speaker, a step that puts the New York congressman on course to become the first Black lawmaker to lead the chamber. The full House is due to vote on January 3.",
-   "p": [
-    "Democrats in the US House of Representatives nominated Hakeem Jeffries on Wednesday to be the next Speaker. The full House will vote on January 3, when the new Congress convenes and Democrats take control of the chamber. His election is widely expected.",
-    "The nomination was made at a closed-door caucus meeting. The Guardian, citing a source familiar with the tally, reported that Jeffries received 251 of 262 ballots cast. Euronews and the BBC reported 251 votes in favour and 11 against, while DW gave the ballot total as 265. No other lawmaker challenged him. Jeffries told reporters the nomination was “a high honour and a distinct privilege”. He was also re-elected as the party’s leader.",
-    "According to the BBC, Democrats will hold at least 257 House seats, well above the 218 needed for a majority, and seven races from the midterm elections remain uncalled. The Speaker is second in line to the presidency after the vice-president. The Guardian reported that Jeffries would preside over the largest Democratic majority in nearly two decades, and that Democrats also won control of the Senate.",
-    "The nomination did not pass without dissent. Seven incoming Democrats, including Darializa Avila Chevalier and Claire Valdez, said in a joint statement that their caucus vote was no. They pointed to Medicare for All, immigration enforcement, campaign finance and Gaza as priorities they said constituents had demanded. The group said conversations with Jeffries were ongoing.",
-    "Jeffries pledged that House Democrats would fight to lower the costs of groceries, gas and housing, and make healthcare affordable. Euronews quoted him vowing to “hold the crooks accountable”, a reference to planned investigations into Trump officials and his business interests. Euronews also reported that Robert Garcia, the top Democrat on the House Oversight Committee, sent 12 letters asking Trump’s family and senior officials to preserve documents.",
-    "The Guardian reported that Jeffries had angered some progressives by refusing to endorse Medicare for All, and that he has recently moved toward their positions on Medicare eligibility. In the Senate, Chuck Schumer faces a challenge from Chris Van Hollen, with a caucus vote scheduled for December 1."
-   ],
-   "cav": "Vote totals differ between outlets: 251 to 11 (BBC, Euronews), 251 of 262 (Guardian) and 251 of 265 (DW). Accounts also differ on how long Jeffries has led House Democrats, with France 24 saying since 2022 and others saying since 2023. The Indivisible poll and the Congressional Progressive Caucus statements are reported by one outlet each and are not independently verified.",
-   "op": "A Speaker’s power over what reaches the floor and which inquiries proceed should be exercised in the open. Jeffries’ history-making status matters less than whether he delivers transparent oversight and answers progressives’ demands on the record. Voters want accountability, and that is the standard he should be held to.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
-  },
-  {
-   "id": "w-eb0e7a768bf58916",
-   "member_ids": [
-    "w-eb0e7a768bf58916",
-    "w-094db73ddfe86508"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-18T20:38:06+00:00",
-   "t": "Israel launches ground operation west of Gaza’s Yellow Line, forcing families to flee again",
-   "s": "Israeli forces have launched a ground operation in central Gaza, advancing west of the Yellow Line and pushing Palestinian families from their homes, according to Al Jazeera and DW. The move comes as warnings grow that the ceasefire agreed last year is at risk.",
-   "p": [
-    "Israeli forces have begun a ground operation in central Gaza, moving beyond the line they withdrew to under last year’s ceasefire. Al Jazeera reports that many of the families affected had already been displaced and are now fleeing again.",
-    "The Israeli military described the operation as “a precise operation” aimed at removing a threat to its troops. It said the action responded to Hamas ceasefire violations and attempts to rearm. The army has not said how long the operation will last.",
-    "Al Jazeera correspondents reported that Israeli tanks and bulldozers advanced towards Salah al-Din Street, Gaza’s main north-south route, near the Nuseirat and Bureij refugee camps. Palestinians fled the area amid heavy gunfire and artillery shelling. The military’s civil affairs body, COGAT, told residents to stay away from the area until further notice.",
-    "Palestinian medics told Reuters that one person was killed in an Israeli airstrike in central Gaza, and two more died in separate incidents in Deir al-Balah and Gaza City. Al Jazeera reported further deaths in attacks elsewhere in the enclave.",
-    "Hamas called the operation “a flagrant violation of the ceasefire agreement”. Israeli Defence Minister Israel Katz said Israel will not withdraw until Hamas is dismantled, and that forces are prepared to seize more territory if tensions escalate.",
-    "The operation comes as the wider plan for Israeli withdrawal, reconstruction and Hamas disarmament has stalled. The United States-backed Board of Peace has warned that the agreement risks collapse. Aid access remains restricted, and the International Organization for Migration says about 100,000 tents are waiting to enter Gaza.",
-    "The International Organization for Migration and the World Food Programme warned this week that funding shortfalls and access limits put Palestinian lives at risk. They say more than 1.7 million Gazans are displaced, and that 1.4 million face acute hunger as winter approaches."
-   ],
-   "cav": "Casualty figures differ between sources. Al Jazeera cites Gaza’s Ministry of Health at 1,658 Palestinians killed since the ceasefire, while DW cites health authorities at at least 1,600, and the reported Israeli soldier deaths range from five to fewer than 10. Claims by Hamas and Israel about the operation’s purpose remain unverified.",
-   "op": "The ceasefire was meant to open a path to withdrawal, reconstruction and disarmament, and every new operation narrows that path. Civilians who have already been displaced once should not be the price of a dispute between governments and armed groups. Both sides should be asked publicly what this operation achieves and when it will end.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
-  },
-  {
-   "id": "w-116efff4a5dd6d63",
-   "member_ids": [
-    "w-116efff4a5dd6d63",
-    "w-3ea99db2529f3c8a",
-    "w-9caf8473edb42eef",
-    "w-445174ade28b8475"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-18T20:14:57+00:00",
-   "t": "Israel sends ground forces past Yellow Line into central Gaza, drawing Hamas condemnation",
-   "s": "Israeli ground forces moved into part of central Gaza beyond the Yellow Line on Wednesday after issuing evacuation orders. Hamas says the move breaches the October 2025 ceasefire.",
-   "p": [
-    "Israeli tanks pushed east of the Nuseirat refugee camp on Wednesday, witnesses said, rolling onto Gaza's principal north-south thoroughfare while artillery fire covered their advance. An AFP journalist saw tanks take up positions in the area, which lies in the part of central Gaza held by Hamas.",
-    "The Israeli army said the action aimed to take apart a “terror tunnel” west of the Yellow Line, the demarcation that leaves Israel in control of more than 60 percent of the enclave. Military and Shin Bet personnel took part, the army said, and it described Hamas infrastructure in the zone as a threat to its soldiers.",
-    "COGAT, the Israeli body overseeing civilian matters in the Palestinian territories, told residents of districts north of the Nuseirat and Bureij camps to move away for their safety. It also closed a stretch of the Salah al-Din road and asked aid groups to stay out of the affected zones.",
-    "Hamas responded by calling the incursion a perilous escalation and a clear breach of the truce agreed last October. Both sides routinely trade accusations of breaking the US-mediated deal, which ended two years of fighting.",
-    "Video posted by Palestinian outlets and on social media showed households leaving the area. One displaced resident told BBC Arabic that people had abandoned all their possessions, including bedding and clothing. Another described heavy shelling and reported deaths, though these accounts could not be independently verified. Asked about casualties, the army offered only a generic response.",
-    "Gaza's civil defence agency, which operates under Hamas, said three men died in separate drone strikes on Wednesday, in Nuseirat, Gaza City and Deir al-Balah. The military said it had hit “terrorists” in the first two and had no knowledge of the third. It remained unclear whether any of the strikes were connected to the ground move.",
-    "Health officials in Gaza, also working under Hamas authority, put the death toll since the truce at more than 1,600, a count the UN regards as dependable. The military reports seven soldiers and one contractor killed in the same period. Roughly 1.9 million people remain displaced, and rebuilding has yet to start as Washington's peace proposal has largely stalled."
-   ],
-   "cav": "The sources give different figures: BBC reports six Israeli soldiers killed and more than 1,658 Palestinians, while AFP and Euronews cite seven soldiers plus a contractor and more than 1,600 Palestinians. Witness claims about casualties and the army's stated purpose are not independently verified, and any link between the drone strikes and the ground operation remains unclear.",
-   "op": "A ceasefire that both sides accuse each other of breaking cannot be protected by exceptions labelled as limited operations. Israel should publicly explain the specific threat it cites, and civilians ordered to flee with nothing deserve a clear account of what comes next. Without transparency, every incursion erodes the truce and leaves the people of Gaza to pay for it.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cw8r7510degno"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza"
-    ],
-    [
-     "France 24",
-     "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
-  },
-  {
-   "id": "w-9cbeb2b128a2c4f7",
-   "member_ids": [
-    "w-9cbeb2b128a2c4f7"
-   ],
-   "section": "World",
-   "published_at": "2026-11-18T18:35:14+00:00",
-   "t": "Trump, Xi and Putin’s Shenzhen meeting is a first, but the Guardian sees no progress in it",
-   "s": "A planned meeting of Donald Trump, Xi Jinping and Vladimir Putin in Shenzhen would be the first time the leaders of the US, China and Russia have gathered for talks as a trio, according to a Guardian editorial. The paper argues that the event is a gain for Beijing and Moscow and a setback for Washington and its allies.",
-   "p": [
-    "The Guardian’s editorial board, writing on 18 November 2026, says the meeting is striking but should not be mistaken for an achievement. The talks are due to take place on Thursday in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Cooperation summit. The editorial notes that the gathering has no clear agenda, and argues that the spectacle is effectively the substance.",
-    "In the paper’s reading, the event serves the interests of Mr Xi and Mr Putin. Mr Xi is portrayed as a power broker and gracious host in a city that showcases China’s economic and technological ambitions. The editorial contrasts this with a United States that it describes as troubled by tech failures affecting flights and banking. Mr Putin, who had been boasting about the “humiliation” of Europe in the run-up, is said to gain the look of a superpower peer rather than the leader of a pariah state with a struggling economy.",
-    "For Mr Trump, the editorial says, the meeting offers a red-carpet welcome and another “first” to promote, which is preferable to headlines about the Republicans’ midterm losses. It argues, however, that his country has less to celebrate. The paper says his tariffs and transactional approach to security have pushed countries such as the Philippines, which hosted the US president on his way to China, into hedging their bets.",
-    "The editorial expects little discussion of certain sensitive issues. According to the piece, Mr Trump is not expected to raise Nvidia or suspected Chinese espionage, a choice the paper links to his closeness to Jensen Huang, the chip company’s ousted chief executive. It also suggests the US president is unlikely to press China over its support for Russia’s war against Ukraine, and that Ukraine and Taiwan have reason to be anxious about anything he says to Mr Putin and Mr Xi.",
-    "The editorial rejects comparisons with the 1945 Yalta summit, which divided up Europe, as an exaggeration, noting that the meeting is scheduled to last less than an hour. It describes the three governments as having strongly competing interests, despite their surface amity. It says a trade truce followed a Chinese threat over rare earths, but that skirmishes continue. Mr Trump has said he wants to discuss denuclearisation, while the paper notes that China is arming itself quickly, although its arsenal remains much smaller than those of the US and Russia.",
-    "The paper stresses that talks between rivals are not inherently unwise. It argues that a carefully prepared trilateral on issues such as disarmament could be productive under a different US leadership, but that this meeting does not fit that model. The sources do not include any official statement of outcomes, so the editorial’s assessment is an opinion about a meeting that had not yet taken place when it was written."
-   ],
-   "cav": "This is an editorial opinion, not a news report, and the meeting had not yet taken place when it was published. Claims about the lack of agenda, Mr Trump’s intentions and the state of the US economy and tech sector are the paper’s characterisations and are not independently confirmed in the source.",
-   "op": "Summits without a published agenda ask the public to accept theatre in place of accountability. Smaller states and European allies have a direct stake in what is traded over their heads. Leaders who want credit for a first should be willing to show what they actually agreed.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/0a39324e72bc02a7f4bb0ac2e6dfd44a982911b7/320_0_3991_3193/master/3991.jpg?width=140&quality=85&auto=format&fit=max&s=3e5c5f09d5bfa9f65d17a1d4e760bb38",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress"
-  },
-  {
-   "id": "w-b0aebc48e7cdec69",
-   "member_ids": [
-    "w-b0aebc48e7cdec69"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-18T18:13:07+00:00",
-   "t": "Democrats nominate Jeffries for speaker as progressives weigh how far to push him left",
-   "s": "Democrats have nominated Hakeem Jeffries to be the next House speaker, and a Guardian opinion column argues that progressives in the incoming class should press him on Medicare for All, ICE and Israel. The column draws on figures from several other outlets.",
-   "p": [
-    "Democrats nominated Hakeem Jeffries on Wednesday to lead the House once they take control of Congress. According to the Guardian column by Norman Solomon, the choice leaves progressives facing a leader whose record, in the writer's account, is hostile to the left.",
-    "The column recalls that Jeffries said five years ago that he would never accept “hard-left democratic socialism.” It notes that at least eight democratic socialists will be among the dozens of progressives entering office, and it urges them to set clear conditions before backing him.",
-    "Solomon describes Jeffries’ career as a move from corporate lawyer and state legislator to a House leader who has consistently backed the party’s establishment. He cites reporting by the Intercept and the American Prospect that Jeffries relies heavily on corporate PACs and financial-sector money, a claim the column presents without independent checks.",
-    "On healthcare, the column says Jeffries supported Medicare for All as late as 2021. It quotes him on NBC’s Meet the Press this summer saying he is not currently cosponsoring the bill, and says he did not directly answer whether he would hold a floor vote if he became speaker.",
-    "The column also says Jeffries has declined to back abolishing Immigration and Customs Enforcement, offering instead a pledge to reform it. It contrasts this with a Democratic National Committee resolution, approved three months earlier, calling for the agency to be abolished.",
-    "On Israel, Solomon writes that Jeffries opposed an amendment to block $3.3bn in military aid and that a record 103 House Democrats voted for it the next day. He cites pro-Israel PAC money of $1,741,230 to Jeffries from 2013 through 2024, figures the column attributes to public records and which were not independently verified in the piece.",
-    "Solomon reports that Sludge found donations to Jeffries from executives at Anduril and Palantir, and that a Reuters-Ipsos poll from midway through 2025 found 62% of Democrats wanted party leadership replaced. Greg Casar and Alexandria Ocasio-Cortez have both said they would back Jeffries, which the column criticises as premature.",
-    "The column closes with Melat Kiros, a 29-year-old attorney and democratic socialist heading to the House from Denver, who said she wants a concrete plan on healthcare, data centres and big tech before supporting any speaker."
-   ],
-   "cav": "This is an opinion column by Norman Solomon, not reporting, and many of its figures come second-hand from the Intercept, Sludge, the American Prospect, Reuters-Ipsos and others, none of which are checked here. The evidence does not include a response from Jeffries’ office or from the Democratic leadership.",
-   "op": "Progressives are right to demand clear commitments before handing a leader a gavel. If a speaker’s position on healthcare, immigration and foreign aid is shaped by donors, voters are entitled to know it, and to see those positions tested on the floor. Democrats should answer the questions in public.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/9a919517241dc26e051ef41bc4f473db8289e685/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=624c0db3069ed1e4475c738d05714e59",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives"
-  },
-  {
-   "id": "w-44e2104e2ba8cd9d",
-   "member_ids": [
-    "w-44e2104e2ba8cd9d",
-    "w-e9e1824ee972d1ae"
-   ],
-   "section": "Culture",
-   "published_at": "2026-11-18T18:00:04+00:00",
-   "t": "Grand Theft Auto VI launches amid record hype and questions over developer working conditions",
-   "s": "Rockstar’s long-awaited Grand Theft Auto VI is set to go on sale this week, with predictions of record sales. Behind the hype, workers on the game are pressing for union recognition over hours and pay.",
-   "p": [
-    "Grand Theft Auto VI is due to go on sale on Thursday, with the game available to buy from midnight local time. The Guardian reports that gamers in New Zealand are among the first able to download it officially. DW says players can already start downloading the large file a few days before the November 19 release, a process that may take several days depending on connection speed.",
-    "The game has been in development for 13 years. According to the Guardian, it cost more than $1bn to make, and some predictions put total sales at 40m copies in its first three months. Its predecessor, Grand Theft Auto V, was the bestselling game of the past decade in the US and reached US$1bn in sales faster than any entertainment product in history, according to the same report.",
-    "DW cites figures suggesting that around 10 million people have already bought the game in pre-orders, a claim it presents as a general estimate rather than a verified count. It also says nearly 5,000 people have worked on the project for more than ten years, and that development costs are estimated at around $1 billion, or €900 million.",
-    "The launch is being marketed heavily. DW reports that Miami, the real-life inspiration for the fictional Vice City, has received a themed makeover. The local Miami Heat basketball team is due to wear custom Vice City jerseys for a home game, a local festival will feature artists from the game’s soundtrack, and roadside signage has been installed across the area.",
-    "Commentators quoted by DW say the series has a broad appeal across generations, from millennials who grew up with earlier instalments to Gen Z players of Grand Theft Auto V. DW also describes the game’s non-player characters as a standout feature, with an estimated 600,000 animations for civilians in the fictional state of Leonida.",
-    "DW also notes that the hype could help the wider games industry, which has suffered job losses since the pandemic boom. It estimates that 50,000 people worldwide in the sector have lost their jobs since 2022, though the source does not give a detailed method for that figure.",
-    "The Guardian reports that the developers behind the game are campaigning for trade union recognition at the same time as the launch. According to the report, the union push would cover working hours, pay, pensions and parental leave. Former developers have reported extremely long hours and heavy workloads that led to health problems, and trade unions have accused managers of employee surveillance. Rockstar has not been quoted in these reports in the material available here.",
-    "The Guardian also invites readers to share their first impressions of the game and whether they plan to take time off work to play it."
-   ],
-   "cav": "The 40m sales figure is a prediction, and the 10 million pre-order figure is described only as thought to be the case. The labour allegations come from former developers and trade unions, and the evidence does not include a response from Rockstar. The 50,000 job-loss figure is a worldwide estimate without a clear source.",
-   "op": "A record-breaking launch should not crowd out the people who made it. If a studio’s profits depend on punishing schedules and contested treatment of staff, transparency about working conditions belongs in the launch coverage, not in a footnote. Fans deserve the game, and developers deserve a fair say in how it gets made.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/6f6a96abc7c44dbaf4071cc6e2ab2db0d18bd33b/298_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9c85215f470360fd997fcd98b64bedf1",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi"
-  },
-  {
-   "id": "w-6bfe24fc53ebe8cf",
-   "member_ids": [
-    "w-6bfe24fc53ebe8cf"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-18T16:20:17+00:00",
-   "t": "Bancroft claims whole 2018 squad knew of ball tampering, putting Cummins and Cricket Australia under pressure",
-   "s": "Former Australia opener Cameron Bancroft has said that all players and coaches on the 2018 tour of South Africa knew about the plan to tamper with the ball. His first-person account, which the Guardian reports on, directly challenges the current Test captain Pat Cummins and Cricket Australia’s efforts to close the affair.",
-   "p": [
-    "Bancroft has published a lengthy first-person article in the West Australian that disputes the account of the ball-tampering affair given by Cricket Australia and by its current Test captain. He wrote that the knowledge extended well beyond himself, Steve Smith and David Warner, and that it covered the whole team.",
-    "Bancroft said he had not given a complete and truthful account when he was questioned during Cricket Australia’s investigation. He wrote that he withheld details, including when the use of sandpaper began, how long it continued and who else was aware, in order to protect the inquiry and avoid implicating others. He described Cummins’ press conference at the Sydney Cricket Ground as an act of betrayal and said it led him to tell his side for the first time.",
-    "According to Bancroft, the idea was raised by Warner during a team discussion at Port Elizabeth, now known as Gqeberha, with then bowling coach David Saker and then head coach Darren Lehmann present. He says Smith joined the conversation briefly and made clear he wanted no part of it. Bancroft also claims that fast bowlers, including Cummins, Mitchell Starc, Josh Hazlewood and Mitchell Marsh, asked him whether his work on the ball was producing enough reverse swing, and that he found their feedback helpful.",
-    "Bancroft further alleges that the practice continued into the third Test in Cape Town, where television cameras caught him trying to hide sandpaper in his trousers. He says Saker approached him during the Test at Newlands and told him to do more to make the ball swing, and that Saker later warned against naming sandpaper as the material during the press conference. Bancroft described that account as another lie.",
-    "The background is that Bancroft received a nine-month ban, while Smith and Warner were suspended for 12 months. Warner was also barred from leadership roles for life, having been seen as the ringleader. The affair was revived earlier this year when the recently retired Usman Khawaja released an autobiography claiming the knowledge went far beyond those three players. Warner and the 12th man in Cape Town, Chadd Sayers, reportedly backed that version.",
-    "Cricket Australia said it would take time to consider Bancroft’s comments and that its forum for players to give confidential testimony would continue, with Bancroft welcome to take part. Cummins’ management said that nothing in Bancroft’s article had not already been answered by Cummins at his press conference, while saying it sympathised with Bancroft.",
-    "Cummins, Starc, Hazlewood and Nathan Lyon had earlier issued a joint statement denying any knowledge or involvement, and Cummins repeated that position under questioning. The Guardian also reports that Lehmann left his ABC commentary position early at the final one-day international between Australia and England in Hobart after being told of Bancroft’s claims, and that Marsh did not attend the post-match press conference."
-   ],
-   "cav": "Bancroft’s account is his own uncorroborated claim, and the Guardian’s report relies on his article rather than on independent evidence. The earlier denials from Cummins and the other bowlers still stand, and Cricket Australia has not said whether it accepts or disputes the new account. The Khawaja, Warner and Sayers points, and the reactions of Lehmann and Marsh, are second-hand as reported.",
-   "op": "The truth about 2018 matters more than whichever reputation is damaged by it. A confidential forum earns trust only if it is open about who is heard, what is said and what is recorded. Cricket Australia should publish its terms and test every account, Bancroft’s included, against the evidence before anyone’s integrity is settled.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/sport/2026/nov/18/cameron-bancroft-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/ea557845e2af67a9e909ace4b08858a7932440e2/424_0_4222_3379/master/4222.jpg?width=140&quality=85&auto=format&fit=max&s=cdfb4fc36dfcf690d47332fe5c46de61",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/sport/2026/nov/18/cameron-bancroft-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
-  },
-  {
-   "id": "w-d8409bdc74cef688",
-   "member_ids": [
-    "w-d8409bdc74cef688",
-    "w-965b0137775458bd"
-   ],
-   "section": "Asia-Pacific",
-   "published_at": "2026-11-18T14:28:18+00:00",
-   "t": "Xi, Trump and Putin converge on Shenzhen as APEC summit opens, with a three-way meeting set for Thursday",
-   "s": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin were all in Shenzhen for the APEC summit, with a trilateral meeting expected on Thursday. Sources differ in how much they expect from it.",
-   "p": [
-    "Trump landed at Shenzhen Airport on Air Force One on Wednesday, and Xi greeted him there, mirroring a gesture Trump had extended during Xi’s state visit to the US in September. The two leaders then hugged before shaking hands, in what DW described as a highly choreographed arrival.",
-    "Trump and Putin also shook hands in the presence of Xi, ahead of the leaders’ welcome banquet. It was their first in-person meeting since August 2025, when Putin was invited to Alaska for talks primarily concerning Russia’s invasion of Ukraine. The handshake follows talks last week in Abu Dhabi involving Russia, Ukraine and European representatives, after which Trump’s negotiating team travelled to the Kremlin to meet Putin.",
-    "The Guardian’s diplomatic correspondent Patrick Wintour asks whether the three leaders will carve up spheres of influence in the manner of the Yalta conference, a question the paper frames around the summit’s expected meetings. That is a question, not a report of an agreement.",
-    "Trade was also on the agenda. Canadian Prime Minister Mark Carney’s office said he and Trump discussed work towards a trade agreement and agreed to stay in close contact. Mexican President Claudia Sheinbaum said she had a “very good meeting” with Trump and his team and that progress continues on a shared agenda. Washington and Beijing, meanwhile, keep extending a temporary tariff truce, most recently until early January, without a permanent deal.",
-    "The chipmaker Nvidia added a new strand to the US-China relationship. Its interim chief executive, Colette Kress, said the company is no longer shipping licensed Hopper data center products to China, the advanced processors that Jensen Huang had persuaded Trump to allow for sale. Kress did not say why shipments had stopped or whether the halt is permanent. Huang resigned last week amid a scandal over alleged Chinese attempts to gain intelligence on the company’s chief executive and to circumvent import restrictions. Beijing calls the espionage allegations unfounded and has threatened to respond in kind if trade restrictions follow.",
-    "Japanese Prime Minister Sanae Takaichi also arrived in China for the summit, her first official visit there. Beijing has been upset by her moves to bolster Japan’s military and by her comments last year on Taiwan, which have severely strained bilateral ties."
-   ],
-   "cav": "Much of the reporting is live and preliminary, and the outcome of Thursday’s trilateral meeting is not yet known. The Nvidia explanation and the espionage allegations remain unconfirmed claims, and the Guardian’s carve-up question is framing rather than evidence of a deal.",
-   "op": "Leaders may meet privately, but any arrangement touching Ukraine, trade or export controls affects people far beyond the room. Governments should publish what is agreed and why, so that a handshake cannot quietly become a settlement.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
-  },
-  {
-   "id": "w-2a53fd4c47a9710e",
-   "member_ids": [
-    "w-2a53fd4c47a9710e",
-    "w-d59c4febecb30b59"
-   ],
-   "section": "World",
-   "published_at": "2026-11-18T14:27:00+00:00",
-   "t": "ICJ to rule on The Gambia’s Rohingya genocide case against Myanmar",
-   "s": "The International Court of Justice is set to issue its judgment on Thursday, November 19, in The Gambia’s case accusing Myanmar of genocide against the Rohingya, according to Al Jazeera. DW says the court will be the first to rule on the treatment of the Rohingya in any court.",
-   "p": [
-    "The Gambia brought the case in November 2019, seven years before the expected ruling, and argued that Myanmar had failed its duties under the 1948 Genocide Convention. Al Jazeera adds that the Gambian action was backed by the Organisation of Islamic Cooperation, a body of 57 member states.",
-    "The Gambia contends that Myanmar’s forces carried out arson, rape and killings in Rakhine State between 2016 and 2017 with the aim of destroying the Rohingya, in whole or in part. DW reports that a UN fact-finding mission concluded that roughly 10,000 people likely died, and that about 700,000 Rohingya fled to Bangladesh. Al Jazeera puts the number of refugees above 740,000.",
-    "The crisis escalated in August 2017, after Arakan Rohingya Salvation Army fighters attacked police posts. Al Jazeera says the military responded with what it called “clearance operations” across northern Rakhine, and that survivors described massacres and burned villages.",
-    "Myanmar rejects the charge. Its position, as DW reports it, is that the operations were a lawful counterinsurgency and counterterrorism effort, and that such actions cannot also amount to genocide. The Gambia answers that sexual violence and the killing of children during the campaign point to a genocidal aim.",
-    "The central issue for the judges is intent. Investigators could not enter Rakhine State, so the evidence rests largely on interviews with people who fled and on reports from the UN and other organisations. DW quotes legal scholars who expect a complex ruling, possibly favouring Myanmar on some duties and the Gambia on others.",
-    "The ICJ rules on state responsibility, not on individual guilt, and it can also order a state to make amends. Aung San Suu Kyi, then Myanmar’s civilian leader, went to The Hague in 2019 to dispute the allegations. In 2020 the court issued emergency measures to prevent genocide, which rights groups say Myanmar has disregarded. The military seized power in 2021.",
-    "Conditions remain difficult. Al Jazeera reports that about 1.2 million Rohingya live in Bangladesh, mostly in the Cox’s Bazar camps, where aid cuts have weakened services. About 520,000 remain in Myanmar under heavy restrictions, and the UNHCR estimates 3,135 people have died or disappeared at sea since 2022."
-   ],
-   "cav": "The two sources differ on figures: DW cites about 700,000 refugees and a UN estimate of roughly 10,000 deaths, while Al Jazeera gives more than 740,000 and no death toll. Much of the account of the Myanmar position and of the Gambia’s claims comes from the parties themselves, not from independent verification. The sources do not say what remedies the court might order.",
-   "op": "This judgment matters beyond one junta, because it tests whether the Genocide Convention has force when a state appears to ignore emergency orders. Justice for the Rohingya should not hinge on whether a court can establish intent in a country it cannot enter. The world cannot afford another decade of unanswered accountability.",
-   "confirmed": true,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss"
-    ]
-   ]
   }
  ]
 }
