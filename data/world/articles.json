@@ -1,6 +1,264 @@
 {
- "updated_at": "2026-11-22T13:35:03.697718+00:00",
+ "updated_at": "2026-11-22T20:28:13.761598+00:00",
  "items": [
+  {
+   "id": "w-58887607f9ea2ca3",
+   "member_ids": [
+    "w-58887607f9ea2ca3",
+    "w-0a72272c8d43a3ce",
+    "w-d84625d68923cd6b",
+    "w-0de2cd18c13a61a9",
+    "w-a7edb752b04510e0",
+    "w-f6f8616d806cbffc"
+   ],
+   "section": "World",
+   "published_at": "2026-11-22T19:52:50+00:00",
+   "t": "Russian navy ship hit by suspected drone attack at Benghazi port, Libyan authorities say",
+   "s": "A Russian navy vessel was reportedly struck by a suspected drone attack at the port of Benghazi in eastern Libya, local authorities said. No one has claimed responsibility, and accounts of casualties and cargo conflict.",
+   "p": [
+    "Libya’s eastern-based government said an explosion at dawn on Sunday aboard a Russian ship docked at Benghazi’s naval base port was caused by a suspected drone attack. The ship had stopped to refuel and resupply on its way back to Russia under a maritime cooperation agreement, the administration said. Moscow had not commented when the reports were published.",
+    "Satellite imagery reviewed by BBC Verify showed a vessel on fire at the port, and a later image appeared to show the same ship partially submerged. The US-based intelligence firm Vantor said its images identified the ship as the Merkury, a Project 20380 Steregushchiy-class corvette, and showed it mostly capsized and sunk by Sunday. Naval News also identified the ship as the Merkury and said it was almost certainly destroyed.",
+    "Officials affiliated with the self-styled Libyan National Army told the Associated Press that several Ukrainian sea drones were launched from a base run by Ukrainian forces in western Libya. They said at least four drones were intercepted and two hit the warship. These claims come from an initial investigation and have not been independently confirmed.",
+    "Casualty reports differ. The eastern government said the site was secured and that there were no casualties. Al Jazeera, citing local sources it did not name, reported an unknown number of Libyan and Russian nationals killed and said the ship was carrying weapons, ammunition and drones. Euronews reported that early accounts had described a fire at an ammunition store before the eastern authorities said the blast came from the ship. None of these details has been verified.",
+    "Separately, a sea drone hit a commercial vessel off Benghazi on Sunday evening, according to Reuters military sources. Al Jazeera said the ship was Malta-flagged, and Libya’s health ministry said its injured crew were receiving treatment, some with minor injuries. Counts of intercepted drones also vary: Almasar television said at least 12 were destroyed, while Reuters sources spoke of more than 12 intercepted off the coast.",
+    "The eastern government condemned the suspected strike as a violation of Libyan sovereignty and a threat to maritime safety. It said it would pursue legal and diplomatic measures against anyone found responsible and would run a joint investigation with Russia. The Tripoli-based Government of National Unity warned against hosting foreign forces or letting them use facilities, citing “serious fears” about the threat to citizens and national assets.",
+    "Jalel Harchaoui, a Libya specialist at the Royal United Services Institute, told the BBC he believed Ukraine was behind the attack, though this has not been officially confirmed. He said the Haftar family, which backs the eastern government, was likely to respond. Ukraine has not claimed the strike.",
+    "The incident follows a drone strike on a Russian cargo ship in the Baltic Sea on Saturday. Finland’s border guard and military said Ukraine was probably responsible. The ship, the Sparta II, had 16 crew members, who were evacuated, and one was slightly injured. In March, Russia accused Ukraine of attacking a tanker in the Mediterranean off Libya."
+   ],
+   "cav": "Casualty figures, cargo and the attacker’s identity remain unconfirmed; most attribution comes from anonymous officials or analysts. Drone counts differ between Reuters, Almasar and the AP.",
+   "op": "A foreign warship struck in a port of a state that says it stays out of the war raises the stakes for everyone using that harbour. The public deserves a verified account of who fired, and what the ship carried, from Benghazi, Moscow and Kyiv alike.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+  },
+  {
+   "id": "w-176c628065fb0487",
+   "member_ids": [
+    "w-176c628065fb0487"
+   ],
+   "section": "Africa",
+   "published_at": "2026-11-22T19:41:23+00:00",
+   "t": "Suspected Ukrainian drone hits Russian warship at Benghazi naval base, Libyan officials say",
+   "s": "A Russian navy corvette was damaged at a naval base in eastern Libya on Sunday. Libyan officials blame a suspected Ukrainian sea drone, in what appears to be the latest incident in the country linked to the Russia-Ukraine war.",
+   "p": [
+    "Libyan military officials report that a suspected Ukrainian sea drone struck the Merkury, a Russian navy corvette moored at the Benghazi Naval Base. The blast caused heavy damage to the ship and set off a blaze at the site, the officials said.",
+    "Their initial probe, as they describe it, indicates that several sea drones were sent toward the vessel from a facility in western Libya run by Ukrainian forces. Four or more were shot down, while two reached the warship. The officials belong to the self-styled Libyan National Army, which holds the east and south of the country. They gave their account without being named, as they are barred from speaking to the press.",
+    "The government based in eastern Libya issued a statement describing an explosion and a fire that crews later brought under control. According to it, the warship had come in for fuel and provisions under a cooperation accord with Russia, though it offered no specifics about the vessel or what it carried. Authorities have opened a joint inquiry with Moscow.",
+    "So far nobody has taken credit for the attack, and neither Moscow nor Kyiv had responded by the time of reporting. Later on Sunday, local outlets said a separate sea drone struck a merchant ship off Benghazi, though they supplied no other details. The Almasar satellite broadcaster reported that naval and air units had downed at least 12 more drones near the city.",
+    "The rival administration in Tripoli, which the United Nations supports, condemned the risk of “dragging Libyan ports and civilian facilities into external conflicts”, which it read as a veiled allusion to the war in Ukraine. It insisted that Libya must not become a arena for foreign states to settle their disputes.",
+    "Earlier, in March, Libyan officials said Ukrainian personnel working in the west under a secret arrangement had hit a Russian tanker in the Mediterranean near Malta with a sea drone. Those personnel, largely drone specialists, were based chiefly at an air base in Misrata, with additional presence at military sites in Tripoli and Zawiya, the officials told the Associated Press.",
+    "Libya has remained split since the 2011 uprising that ousted Muammar Gaddafi, and its oil resources keep it at the centre of a contest between Russia and the West."
+   ],
+   "cav": "Every detail of the strike comes from anonymous Libyan military officials and an eastern government statement. Neither Russia nor Ukraine has commented, and no group has claimed the attack. The drone launch from Ukrainian-run bases in western Libya is unverified, and the reports of a commercial vessel hit and 12 drones destroyed lack further detail.",
+   "op": "Foreign militaries operating on Libyan soil under covert arrangements put ordinary people and ports at risk without any public mandate. Libyans deserve to know which forces are present, on whose authority, and who answers when a strike hits a base. Secret deals that turn a divided country into a battlefield should not survive scrutiny.„}]",
+   "confirmed": false,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/659e3cc8-e6a9-11f1-ae55-1bac47ab2f5d/w:1024/p:16x9/AP26326649718247.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
+  },
+  {
+   "id": "w-fcb85812f82b61e0",
+   "member_ids": [
+    "w-fcb85812f82b61e0",
+    "w-8f5de30604270c93",
+    "w-469ad66dfb44ac81",
+    "w-23386a71988921e2"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-22T18:57:24+00:00",
+   "t": "COP31 talks in Turkey close without a deal after fossil fuel row",
+   "s": "Climate negotiations at COP31 in Antalya, Turkey, closed without an agreed text after the European Union and other countries rejected a draft that left out fossil fuels. The talks ran past their scheduled end.",
+   "p": [
+    "According to the BBC and Euronews, the COP31 summit in Antalya ended with no consensus on a new agreement. Euronews reported that the negotiations overran by two days, and Al Jazeera described the talks as the longest in the summit's history.",
+    "Fossil fuels were the central dispute. The BBC reports that the European Union and several other states turned down a draft that did not refer to phasing them out, which it describes as the largest driver of global climate change. Euronews said an earlier draft had called for an accelerated phase-out, but a later version removed every reference to them. Al Jazeera says oil and gas producers opposed mentioning the fuels at all. The BBC reports that Russia defended that opposition, while an EU representative accused some oil states of hijacking the talks.",
+    "Al Jazeera reported that the rejected draft would have, for the first time, acknowledged that global warming is on course to pass 1.5 degrees Celsius, the limit countries had aimed to hold to under the 2015 Paris Agreement. The revised text also dropped a $120bn target for helping poorer countries adapt to climate change.",
+    "UN Secretary-General Antonio Guterres said he was disappointed by the outcome and blamed powerful fossil fuel interests for obstructing action, according to Al Jazeera. Euronews quoted him saying that those who profit from destroying the planet must not set the terms of the fight against it. Ireland's climate and energy minister, Darragh O’Brien, said the EU would not back a package that omitted fossil fuels, which he called the key driver of climate change.",
+    "Other delegations were also critical. Al Jazeera said the Least Developed Countries group, made up of 44 nations representing more than a billion people, struggled to win outcomes for vulnerable states and warned against backsliding. The Marshall Islands said it had been failed by all sides, while Kenya complained that Africa was not specifically named. Saudi Arabia argued that all solutions should stay on the table.",
+    "Murat Kurum, Turkiye's environment minister and COP31 president, acknowledged there was no agreement and that the decisions had not been adopted. Al Jazeera reported that he said no new text would be drafted and that existing decisions would be implemented. Australia's climate minister, Chris Bowen, who led the negotiations, called the outcome disappointing. He pointed to a pledge on electrification signed by more than 90 countries, but said it was not enough on climate action.",
+    "Al Jazeera described the collapse as the first such failure since the Copenhagen summit in 2009."
+   ],
+   "cav": "The sources give different accounts of the sequence of drafts. The BBC refers to a fourth draft, Al Jazeera to a final draft, and Euronews to a Thursday version and a Sunday text. The sources do not say what implementing existing decisions will involve in practice.",
+   "op": "A summit that cannot name the main cause of warming in its agreed text leaves a gap that no closing statement can fill. Governments that resisted the wording should publicly explain what they were protecting and who gains from it. Transparency about those positions matters more than the headline failure, because it sets the terms for the next round.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo"
+  },
+  {
+   "id": "w-5a536dc8ad71aff4",
+   "member_ids": [
+    "w-5a536dc8ad71aff4"
+   ],
+   "section": "Climate",
+   "published_at": "2026-11-22T18:17:59+00:00",
+   "t": "COP31 ends without a major climate deal as fossil fuel and finance disputes divide delegates",
+   "s": "UN climate talks in Turkey failed to produce a major new agreement, after deep disagreements over fossil fuels and money for poorer countries. The conference ran past its scheduled close and became the longest UN climate meeting in history, according to the BBC.",
+   "p": [
+    "Countries failed to reach a major new deal on climate change at the COP31 talks in Turkey, according to the BBC, after divisions over fossil fuels and finance surfaced. Negotiations due to finish on Friday ran late into Sunday in a search for common ground.",
+    "The final text was rejected by the EU, Pacific island nations and others because it did not directly mention fossil fuels, the main cause of global warming. The words did not appear anywhere in the draft presented in the early hours of Sunday. Its only indirect reference pointed back to a 2023 agreement at COP28 on moving away from them in energy systems.",
+    "Irish Minister Darragh O’Brien, speaking for the EU, said the bloc “strongly” objected and called a pact without any mention of fossil fuels “unconscionable”. Panama and the Marshall Islands also said the deal did far too little to address the pace of climate change.",
+    "Oil-producing states pushed back against stronger language. A draft from Monday that mentioned fossil fuels six times was unacceptable to them. Saudi Arabia’s delegate, Mohammad Ayoub, said Arab countries had continued to engage in good faith and argued that they accounted for only a small share of historical greenhouse gas emissions. Russia warned against “slogans” and claimed that moving away from fossil fuels too quickly would cause fuel poverty.",
+    "Finance was the other major sticking point. Last year at COP30 in Brazil, nations agreed to triple funding to help poorer countries adapt to heatwaves and droughts. This year’s text contained no concrete figures and no baseline against which that pledge would be measured, raising fears that richer nations would have too much room to manoeuvre. Mohamed Adow of Power Shift Africa said rich nations and polluting governments “cannot keep arriving empty-handed”.",
+    "UN Secretary General Antonio Guterres, attending his last COP before stepping down, said he was “deeply disappointed” and accused “powerful fossil fuel interests” of distorting the science and delaying action. The UK’s Energy Secretary, Miatta Fahnbulleh, described the lack of a political agreement as “immensely disappointing”, while saying the UK’s commitment was unwavering.",
+    "Australia led the official negotiations in a dynamic that some observers described as chaotic. Chris Bowen, Australian minister and COP31 president of negotiations, said there were “unbridgeable red lines” and pointed to what he called the most complicated geopolitical environment in living memory.",
+    "The backdrop is stark. The year 2026 could end as the hottest on record, with extreme weather across much of the world. COP31 was also the first annual UN conference to formally discuss how the 1.5C limit agreed in Paris in 2015 would be missed. The last time a COP’s main political agreement collapsed in this way was in Copenhagen in 2009."
+   ],
+   "cav": "The account of the talks, including the positions of Saudi Arabia and Russia, relies on the BBC’s reporting and on statements attributed to delegates; the full final text is not quoted. The claim that 2026 could be the hottest year on record is described as a possibility, not a confirmed outcome.",
+   "op": "A climate agreement that cannot name the main cause of the problem is not a compromise worth celebrating. Negotiators should publish finance baselines and emissions language in plain terms, so the public can see who blocked what. Vague pledges without figures let the richest countries avoid accountability.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+  },
+  {
+   "id": "w-0689dfc975abe75b",
+   "member_ids": [
+    "w-0689dfc975abe75b",
+    "w-dbc14de1b7fc68f9"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-22T16:25:09+00:00",
+   "t": "Israel opens probe into West Bank arson; opposition leader Eisenkot labels attacks “Jewish terrorism”",
+   "s": "Authorities in Israel are looking into fires set to Palestinian cars and houses in the occupied West Bank. Opposition figure Gadi Eisenkot has described the incidents as “Jewish terrorism.”",
+   "p": [
+    "Officials are examining a set of suspected arson incidents and property damage aimed at Palestinians in the occupied territory. Photographs circulating online showed cars burning and graffiti on walls, one message invoking the biblical name for the West Bank, Judea.",
+    "Residents interviewed by news agencies blamed Israeli settlers. Jihad al-Qaq, a local activist, told AFP that a group arrived near the edge of a village at about 2 a.m., torched roughly eight vehicles and sprayed racist messages on homes. Muntasir al-Malik said he was jolted awake by blasts and saw seven cars ablaze. These personal accounts have not been independently verified, and the reports do not identify any suspect.",
+    "Israeli troops and police were sent to the affected communities after the reports emerged. The Israel Defense Forces said it “strongly condemns” the conduct. Reporting differs on how widespread the damage was: one broadcaster described attacks across three villages, while DW listed four towns, namely Deir as-Sudan, Deir Abu Mashaal, Kafr Malik and Al-Tuwani.",
+    "Eisenkot, a rival of Prime Minister Benjamin Netanyahu, posted his condemnation on X and said the blaze amounted to “Jewish terrorism” in every sense. He demanded harsh penalties for those responsible and warned that such sabotage weakens stability in the region and harms Israel’s standing abroad. He is currently involved in talks aimed at forming a new government following the election.",
+    "The West Bank has been under Israeli occupation since 1967. Settlements there, which international law considers illegal, are home to more than 500,000 Israelis, while roughly 3 million Palestinians also live in the territory. Attacks on Palestinians have intensified since Hamas’s assault on Israel on October 7, 2023, and the Palestinian Health Ministry says more than 1,100 Palestinians in the West Bank have been killed by Israeli soldiers or settlers.",
+    "Eisenkot’s use of the word “terrorists” for violent settlers echoes a description that US ambassador to Israel Mike Huckabee gave in September. Washington usually applies that label to Palestinian militant groups."
+   ],
+   "cav": "The sources do not report any arrests or charges, and no perpetrators are named. The casualty figures come from the Palestinian Health Ministry, and outlets give different counts of affected locations and vehicles.",
+   "op": "Arson against homes and cars is a crime, whoever commits it, and calling it terrorism only matters if investigators identify and prosecute those responsible. Israel’s courts and security services must show that settler violence meets the same consequences as any other attack, or doubts about the rule of law in the West Bank will persist.",
+   "confirmed": true,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism"
+    ],
+    [
+     "DW",
+     "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-rdf"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism"
+  },
+  {
+   "id": "w-7a8b958c3140f133",
+   "member_ids": [
+    "w-7a8b958c3140f133"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-22T15:52:31+00:00",
+   "t": "Four West Bank Palestinian villages hit by suspected settler attacks, cars burned and graffiti found",
+   "s": "Overnight attacks that local activists blamed on Israeli settlers left vehicles torched and hostile graffiti in four Palestinian villages in the occupied West Bank. Israeli police say they have opened an investigation.",
+   "p": [
+    "On Sunday 22 November 2026, footage from Deir Abu Mashaal, northwest of Ramallah, showed residents looking over burned-out vehicles beside houses daubed with writing. Residents of Kafr Malik, east of the city, faced similar damage and read Hebrew phrases scrawled across walls.",
+    "Jihad al-Qaq, a local activist, told AFP that settlers reached the edge of Kafr Malik around 2 am, torched roughly eight cars and left racist notes on homes. Deir as-Sudan and Al-Tuwani were also hit.",
+    "Israeli police confirmed an inquiry is underway. The military said it had sent troops and officers to the four villages and denounced the assaults.",
+    "The unrest follows a steep escalation in deaths since the Hamas-led assault on Israel on 7 October 2023 and the ensuing Gaza war. An AFP count drawn from Palestinian health ministry data puts at least 1,119 Palestinians killed by Israeli forces or settlers in the West Bank over that period. Official Israeli figures record at least 51 Israelis, soldiers among them, killed in Palestinian attacks or clashes in the same span.",
+    "Some 500,000-plus settlers share the territory with around three million Palestinians, and international law regards settlements as illegal. The attacks came shortly after new British and Australian sanctions aimed at eight Israeli firms tied to settlement activity."
+   ],
+   "cav": "The attacks are only suspected to be by settlers, based on claims from local activists; the sources identify no attackers and report no charges. The casualty tallies come from different sources, and it is unclear whether the military has linked any suspects to the incidents.",
+   "op": "Burning cars and scrawling racist messages on family homes is intimidation, not politics, and it demands swift arrests. Israeli authorities must show that settler violence is pursued as rigorously as any other crime, or the rule of law in the West Bank will remain an empty promise.",
+   "confirmed": false,
+   "src": [
+    [
+     "Euronews",
+     "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks"
+    ]
+   ]
+  },
+  {
+   "id": "w-043841536d7cb43a",
+   "member_ids": [
+    "w-043841536d7cb43a"
+   ],
+   "section": "Middle East",
+   "published_at": "2026-11-22T15:22:38+00:00",
+   "t": "Israeli opposition leader calls settler arson in West Bank ‘Jewish terrorism’",
+   "s": "Overnight arson by Israeli settlers in several Palestinian villages has drawn condemnation from opposition leader Gadi Eisenkot and sparked a wider political dispute in Israel. Police say they have opened an investigation.",
+   "p": [
+    "Over the weekend, a large group of settlers moved through Palestinian villages in the occupied West Bank, torching roughly a dozen cars and a number of houses and daubing hateful graffiti on walls. According to the Guardian, at least four communities were hit. Israeli police have opened an inquiry and are working with forensic specialists.",
+    "Pictures from Kafr Malik, close to Ramallah, showed a Hebrew slogan reading “This is the first revenge.” Vehicles and homes there were set alight. Footage from neighbouring Deir al-Sudan showed cars in flames. Palestinian sources, whose claims the article does not independently verify, said a farm building had burned in Deir Ballut and vehicles had been set on fire in Deir Abu Mashal.",
+    "The violence has become a domestic political flashpoint. A recent election produced no clear winner and cost Benjamin Netanyahu his parliamentary majority. Eisenkot has now been tasked with forming a government, a job he has been given 28 days to attempt, with a possible extra fortnight.",
+    "Eisenkot called the overnight fires a form of terrorism committed by Jews and said the perpetrators were damaging regional stability and Israel’s security and diplomatic ties. He blamed the far-right ministers Itamar Ben-Gvir and Bezalel Smotrich for pushing the West Bank toward lawlessness, and called on the government and security services to use detention without charge and operations by the Shin Bet internal security agency against those responsible.",
+    "Other parliamentarians also turned on Netanyahu. Yair Lapid, who leads Yesh Atid, argued the government had encouraged the attacks, saying ministers were effectively endorsing the violence by staying quiet. Yair Golan, head of the Democrats, warned of a possible third intifada. Noam Tibon, a retired major general and Knesset member, wrote that Israel would be destroyed unless it stopped this kind of violence in the West Bank.",
+    "Governments abroad have also responded. Australia imposed sanctions on three individuals and four Israeli entities, one of them a construction firm, over alleged roles in settlement expansion and abuses against Palestinians. The day before, Britain sanctioned eight Israeli construction companies involved in settlement building, which the UN considers occupied Palestinian land under Israeli control since 1967.",
+    "The article sets these events against a wider surge in settlement growth and attacks since the Hamas-led assault on Israel on 7 October 2023. It reports that more than 1,100 Palestinians have been killed in the West Bank by Israeli forces or settlers. It also describes a 72-year-old Palestinian woman shot dead in an overnight settler attack in a village near Jericho, where the group had recently moved into several homes."
+   ],
+   "cav": "The article does not say whether any suspects have been identified or arrested, and it gives no casualty figures for the overnight arson. The Palestinian accounts of damage in Deir Ballut and Deir Abu Mashal are unverified. The “Jewish terrorism” label is Eisenkot’s characterisation, not a legal finding.",
+   "op": "Arson against homes and families is a matter of law and order, not partisan rhetoric. Israeli authorities must show that investigations lead to charges and that perpetrators face the same consequences as any other attackers. Ministers who share the settlers’ politics cannot stay silent and still claim to uphold the rule of law.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+  },
   {
    "id": "w-70e1f3780366b345",
    "member_ids": [
@@ -1046,326 +1304,6 @@
      "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf"
     ]
    ]
-  },
-  {
-   "id": "w-b22f8dbd2baa3726",
-   "member_ids": [
-    "w-b22f8dbd2baa3726"
-   ],
-   "section": "Climate",
-   "published_at": "2026-11-20T20:04:46+00:00",
-   "t": "Cop31 talks in Antalya overrun deadline as draft text omits fossil fuels",
-   "s": "Negotiators at the Cop31 summit in Antalya, Turkey, kept working past the planned Friday close, with a draft that makes no reference to fossil fuels at the centre of the dispute.",
-   "p": [
-    "Negotiations at the Cop31 UN climate summit ran past their planned close on Friday, according to The Guardian. Delegates were still disputing a draft agreement that contains no reference to fossil fuels, and several other unresolved questions were slowing progress. The paper understood that a revised text would probably not be ready until Saturday morning.",
-    "The wording had moved considerably during the week. An early draft called for faster phase-outs of coal, oil and gas. A shorter version circulated on Thursday removed any mention of those fuels and softened targets on electrification.",
-    "Brazil’s national secretary for climate change, Aloisio Lopes Pereira de Melo, summed up the mood by saying “At this point, no one is happy.” Panama’s climate minister, Juan Carlos Navarro, rejected a document that does not mention fossil fuels at all. Eight countries have asked for a clear transition away from fossil fuels to be reinstated, and seven others, including Panama and Belgium, listed issues they consider essential.",
-    "Cop insiders, speaking anonymously to the Guardian, said Saudi Arabia was taking an obstructive line. The paper reported that the kingdom wants carbon capture, utilisation and storage to be prominently referenced in the final text, as a way of limiting overshoot of the 1.5C goal set in Paris. Neil Grant of the advisory group Climate Analytics argued that the technology is being written in because fossil fuel interests want it there, calling it a “Trojan horse”.",
-    "Observer groups with a formal role in the talks described the process as the “worst Cop ever”. They said none of their priorities had survived the negotiations, and they were especially aggrieved that a just transition mechanism agreed a year earlier had not been advanced.",
-    "Ministers from Ghana, Zambia, Senegal, Kenya and Sierra Leone held a press conference on Friday morning. They argued that African countries were being made to bear the costs of a crisis they had not created, and accused wealthier nations of using carbon taxes to keep the continent from turning its mineral resources into industry. Zanetor Agyeman-Rawlings of Ghana, who chairs the African negotiators’ group, said: “We didn’t come here to beg.”",
-    "Climate finance remains a major sticking point. A senior EU official said the bloc and its member states had provided €32.3bn from public sources and mobilised €9.3bn in private finance in 2025. Observers have blamed richer countries, the EU among them, for holding back progress on money throughout the week. These EU figures are the official’s own statement and were not checked independently in the article.",
-    "Chris Bowen, who is presiding over the talks, defended the process, saying “Well, red lines – that’s how negotiations work.” He added that no one had yet proposed abandoning the effort. The last Cop to end on schedule was held in Italy in 2003, and some earlier sessions have spilled into the following Sunday."
-   ],
-   "cav": "Every detail here comes from one Guardian report written on the final day, and the sources do not include the final text or the outcome. The claims about Saudi Arabia rest on anonymous insiders, and the criticism of carbon capture is one expert’s opinion. The EU funding figures are an official’s claim.",
-   "op": "Nearly 200 governments are still divided over whether a climate deal should name the fuel driving the crisis, and that omission is the real test. A text that promises action while leaving fossil fuels out invites distrust. Negotiators should state their objections openly and make clear who is blocking progress.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=213d9f5c5115f07440db4915083c1965",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
-  },
-  {
-   "id": "w-bb98b992ff44e74b",
-   "member_ids": [
-    "w-bb98b992ff44e74b",
-    "w-73f7cc09bff06076"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-20T20:00:53+00:00",
-   "t": "Anthropic shares slide back toward IPO price as tech sell-off deepens",
-   "s": "Anthropic’s stock market debut drew strong early interest, but its shares have fallen back toward their offer price as a wider sell-off hits technology stocks. Major US indexes slipped into correction territory on Friday.",
-   "p": [
-    "Anthropic, the maker of the Claude chatbot, rose sharply on its first day of trading on the Nasdaq on Thursday, after raising a record $81bn in its initial public offering. The shares opened at $111.50 and peaked at $115 before ending the day up 17% at $97.17, according to the BBC.",
-    "On Friday the stock gave back much of that gain. The BBC reported that it dropped at one point by more than 12% to about $85, close to its IPO price of $83. Al Jazeera put the shares at $87.95 around midday in New York, about 9.5% below Thursday’s close, while still above the offer price of $83.30. The two outlets’ figures reflect different moments in the session.",
-    "The fall in Anthropic’s shares came against a broader decline in technology stocks. By mid-afternoon, the S&P 500 was down about 2.8% and the Dow Jones Industrial Average was down more than 1%. Both touched correction territory, which is generally defined as trading 10% or more below a recent high. The tech-heavy Nasdaq Composite fell more than 4%.",
-    "Several large companies also dropped. The BBC reported that Nvidia had fallen more than 11% by the afternoon, with Tesla and SpaceX down more than 6% and Meta down more than 5%. Al Jazeera, citing an earlier point in the day, put Nvidia down nearly 7%, with Meta down almost 4%. Chip makers including AMD and Sandisk also sold off sharply in Al Jazeera’s account.",
-    "Analysts quoted in the reports said the IPO had not restored confidence across the sector. Ed Moya of AlphaSense told the BBC that investors were asking how much they were willing to pay for growth, and that Wall Street appeared to be shifting toward demanding stronger cash flow. David Miller of Catalyst Funds told Al Jazeera that investors are “becoming more selective about what they will pay for that growth.”",
-    "Markets in Europe and Asia also weakened. The BBC reported that Germany’s Dax closed down 2.6%, while South Korea’s Kospi and Japan’s Nikkei 225 each closed down about 5%. Taiwan’s market fell roughly 6% on Friday, which the BBC said was reported to be its biggest weekly fall since 1990.",
-    "Both outlets noted that early volatility is common for newly listed technology firms. Analysts pointed out that Anthropic had no direct listed peers, and comparisons were drawn with SpaceX, whose shares swung sharply after its June debut. Al Jazeera reported that SpaceX rose nearly 50% in its first three days before falling below its IPO price a month later."
-   ],
-   "cav": "The sources give different intraday figures for Anthropic and Nvidia because they were captured at different times, so the exact moves should be treated as snapshots. The BBC’s reference to a “bubble” is an ongoing concern voiced by commentators, not a confirmed finding, and the sources do not say whether Anthropic’s shares will recover.",
-   "op": "A strong IPO was supposed to lift the sector, and instead it has become a test of whether investors will keep paying for growth without clear returns. Markets reward transparency about profits, and that discipline should be demanded of every newly listed tech firm asking the public for its money.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
-  },
-  {
-   "id": "w-dfe00c059737f8e1",
-   "member_ids": [
-    "w-dfe00c059737f8e1",
-    "w-8a87ce9461bd0cd6",
-    "w-0b1a286f76bd34b1"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-20T19:40:07+00:00",
-   "t": "Indian man sentenced to more than 19 years over US plot to kill Sikh separatist in New York",
-   "s": "A federal court in Manhattan has sentenced Nikhil Gupta, an Indian national, to 235 months in prison for plotting to hire a hitman to kill Gurpatwant Singh Pannun. Prosecutors say an Indian government official was involved, a claim New Delhi denies.",
-   "p": [
-    "A Manhattan federal judge imposed the 235-month term on Gupta, 55, according to Al Jazeera, the BBC and the Guardian. He had admitted in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.",
-    "Prosecutors say Gupta was recruited in May 2023 by Vikash Yadav, whom the BBC describes as an Indian intelligence officer. Yadav allegedly supplied details of Pannun's New York address and daily routine. Court papers indicate that $15,000 in cash was to be handed to a man presented as a hitman, who was in fact an undercover officer.",
-    "Gupta was arrested at Prague airport in June 2023 and later extradited to the United States. Al Jazeera reports that his plea agreement called for at least two decades behind bars, while prosecutors had requested about 24 years. The BBC reports the judge said he will likely be deported after serving his sentence.",
-    "At the hearing, Gupta apologised and said he had strayed from the nonviolent example of Mahatma Gandhi. “I’m sorry to Mr Pannun, I’m sorry to the communities I hurt, I’m sorry to my own family,” he said.",
-    "Yadav is charged in the case but is not in US custody, and it is unclear whether he has a lawyer. India’s government denies any role in the plot and says such conduct would violate its policy. The BBC reports that a spokesperson for the Ministry of External Affairs said Yadav no longer works for the government and that an inquiry committee had been set up to address US security concerns.",
-    "Pannun, who attended the hearing, described Gupta as a foot soldier acting on behalf of Prime Minister Narendra Modi, and said the Modi government wanted him dead for leading an open campaign. He said self-determination for Punjab remains his lifetime goal. According to the BBC, India has accused Pannun of terrorism, which he denies.",
-    "US and Canadian authorities have linked the case to a wider pattern of alleged plots against Sikh separatists, which has strained relations with New Delhi. The BBC reports that prosecutors allege Gupta called the 2023 killing of Hardeep Singh Nijjar in British Columbia a target as well. India has also denied involvement in that killing."
-   ],
-   "cav": "Sources differ on Pannun’s citizenship: Al Jazeera and the Guardian call him a dual US-Canadian citizen, while the BBC calls him American. The allegations against Yadav and Gupta’s remarks about Nijjar are prosecutors’ claims and have not been tested in court here.",
-   "op": "A long sentence for a plot against a critic on American soil is a rightful response. Yet accountability cannot stop at a foot soldier. Washington should press New Delhi to answer the allegations on the record, and openly.",
-   "confirmed": true,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss"
-    ],
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
-  },
-  {
-   "id": "w-944d9ff3f86b799a",
-   "member_ids": [
-    "w-944d9ff3f86b799a"
-   ],
-   "section": "World",
-   "published_at": "2026-11-20T18:55:06+00:00",
-   "t": "Trump defends ties with Putin and Xi, accuses Iran of dishonesty in talks",
-   "s": "Back from a four-day tour of Asia, US President Donald Trump used a White House appearance to stand by his dealings with Xi Jinping and Vladimir Putin. He also pressed Tehran for a “real deal” and set out new trade ideas.",
-   "p": [
-    "Trump said his meetings with both leaders had gone well and described the relationships as a positive sign. He also dismissed people who object to those ties as foolish, a reaction to the criticism that followed his habit of calling Putin a friend. When reporters asked whether Putin counted as a friend of the United States, Trump said he could not answer on behalf of the country. He did, however, describe his own bond with the Russian president in glowing terms.",
-    "On Ukraine, Trump claimed that Putin had signalled a preference for ending the fighting through negotiation. He conceded that a settlement had been hard to secure and put much of the blame on the animosity between Putin and Ukrainian President Volodymyr Zelenskyy. Asked about guarantees for Kyiv's security, he said Washington was not ready to address that question until a broader agreement was in place.",
-    "Separately, the American, Russian and Chinese leaders released a joint declaration in China while the war continues. According to the report, the document commits the three to stability and security at the international level. It also sets out goals for overhauling the United Nations and for limiting the reach of the International Criminal Court.",
-    "Turning to Iran, Trump said Tehran wanted a deal with Washington but had not yet put forward terms he could accept. He accused the Iranian government of deceiving its own population for half a century. He further asserted that the US would not tolerate Iran building a so-called dirty bomb, pointing to what he called a rumour. The report stresses that this claim has not been confirmed.",
-    "Trump forecast that petrol prices in the US would fall further, though he admitted that the outcome would hinge on how the Iran conflict ends. The report notes that petrol nationwide still costs roughly €0.13 per litre more than when he entered office, which sits awkwardly with his assertion that prices had recently dropped.",
-    "On trade, Trump said Washington was nearing an agreement with Mexico after discussions with President Claudia Sheinbaum. He insisted, however, that the US would not accept a surplus running in Mexico's favour. Regarding Canada, he said significant work still lay ahead and accused Ottawa of exploiting American trade for years. He added that Prime Minister Mark Carney was keen to revive the Keystone pipeline, but warned Canada would have to make further concessions first.",
-    "Trump also said he planned to levy steep taxes on American firms that build data centres abroad, arguing that such facilities belong at home. He gave no specifics and admitted he had not yet raised the idea with his own advisers. Alongside this, he urged Americans to back data centre projects in their own communities while bargaining for benefits from the developers."
-   ],
-   "cav": "All of this comes from one outlet's account of remarks Trump made to reporters, and most of the claims are his own. The dirty bomb assertion is explicitly unconfirmed, and the petrol price claim sits uneasily with the figures the report cites. The data centre tax has no details and no official review, so its scope and timing are unknown.",
-   "op": "Leaders may speak frankly, but treating a war-making president as a friend while floating taxes no adviser has reviewed is a weak basis for policy. Transparency matters most when war and trade are on the table. Voters deserve evidence and considered plans, not rumours and improvised proposals.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties"
-    ]
-   ]
-  },
-  {
-   "id": "w-9b520ab179ed22f6",
-   "member_ids": [
-    "w-9b520ab179ed22f6"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-20T18:26:08+00:00",
-   "t": "Senate passes fast-track permitting bill that would limit lawsuits and loosen environmental laws",
-   "s": "The US Senate has passed the Bipartisan American Affordability and Jobs Act, which would speed approval of energy and datacenter projects. Environmental groups oppose it, while some Democrats and the bill’s backers argue it may be the only chance to speed up clean energy.",
-   "p": [
-    "The US Senate has approved a measure that would speed up energy and datacenter construction by loosening some environmental rules and limits on court challenges. The bill, known as the Bipartisan American Affordability and Jobs Act or Baaja, still needs to clear the Republican-controlled House before President Donald Trump can sign it, according to the Guardian. Trump has argued that it will raise economic activity and bring down energy costs.",
-    "Under the measure, building oil pipelines, power lines, windfarms and datacenters would become considerably simpler. Legal challenges would be curtailed, with lawsuits capped at 150 days. Key environmental statutes, including the Clean Water Act and the Endangered Species Act, would carry less weight when officials decide whether a project may proceed.",
-    "Some parts of the bill are presented as safeguards. Large datacenters would be required to cover their own grid and power expenses so that neighbouring communities are not burdened. Transmission line approvals would be sped up through greater coordination among regions, a change that might halve the time needed to build power lines. That provision has drawn praise from Democrats and environmental groups alike.",
-    "Future administrations and judges would find it much harder to withdraw or alter permits, including ones that were granted improperly. Businesses, fossil fuel companies among them, could also claim substantial compensation if they can demonstrate that government action delayed them.",
-    "Opponents expect the measure to boost fossil fuel activity. Jeff Merkley, a Democrat who is expected to lead the Senate environment committee, warned it would “accelerate the extraction and burning of fossil fuels”. Al Gore described it as a “serious mistake”, and Brett Hartl of the Center for Biological Diversity called it “the largest giveaway in history” to polluters.",
-    "Backers, including Democratic senator Sheldon Whitehouse, who co-sponsored the bill, contend that it may be the best opening to move forward on renewable projects now stuck in regulatory backlogs. Whitehouse said Democrats could not afford to hold out for an “imaginary perfect bill” once they regain control of Congress in January. Fellow Democrat Martin Heinrich, who co-wrote the bill, said voters need relief now. The bill was co-authored with Republicans Shelley Moore Capito and Mike Lee.",
-    "The Guardian reports that roughly 85% of generation awaiting grid connection in the US is solar, wind or battery storage. Citing the Rhodium Group, it says the bill could cut up to 1.5bn tons of pollution by 2040 and lower household electricity bills by as much as $78 a year by the same date. Merkley dismissed those savings as a “mere $5 a month” in 15 years. The bill was voted on without any hearings, and tribal groups say they were not consulted."
-   ],
-   "cav": "The emissions and savings figures come from a Rhodium Group analysis cited by the Guardian, and critics dispute how meagre they are. The article does not say whether the House will pass the bill, and it is unclear how much Republican support a stronger bill written in January would receive. Klein’s concerns about vague provisions are reported second-hand.",
-   "op": "Speed is worth having, but not at the cost of a law written behind closed doors while tribal consultation is brushed aside. Permits that courts and future governments cannot revisit is a transparency problem as much as an environmental one. Lawmakers should slow down enough to write these rules in public.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
-  },
-  {
-   "id": "w-312bd5c0c3f4c343",
-   "member_ids": [
-    "w-312bd5c0c3f4c343"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-20T17:49:48+00:00",
-   "t": "UK and EU agree deal on food, emissions and youth travel, with Burnham open to closer ties",
-   "s": "Prime Minister Andy Burnham says the UK will explore closer ties with the EU after the two sides agreed a package on food exports, emissions trading and a youth scheme. Opposition leaders attacked the agreement, and the government's economic claims have yet to be tested.",
-   "p": [
-    "Burnham went to Brussels to close the latest chapter of Britain's effort to reset its relationship with the bloc after Brexit, an effort first launched by Sir Keir Starmer when he was prime minister. The agreements were unveiled on Friday at a summit in the Belgian capital, according to BBC News.",
-    "The package would lift most inspections on British food exports. In exchange, the UK would adopt some EU rules from 2028. The two sides also said talks on linking their emissions trading systems had concluded, with the aim of applying the link from the same year.",
-    "A youth experience scheme would let up to 100,000 people aged 18 to 31 from each side live, work and study in the other for as long as three years. Both sides want places to be open by January 2030 at the latest. Tuition fees are the main unresolved issue, and a further six months has been set aside to negotiate them. Brussels has pressed for reduced fees for EU students at British universities, and the joint statement says any deal would also apply to UK students in the EU.",
-    "Burnham said the Treasury estimates the agreement could add as much as £17bn a year to the economy, calling the day a positive one for Britain and Europe. Ministers argue the changes will reduce business costs and may ease prices for shoppers. Critics contend Britain would be left following Brussels’ rules rather than shaping them. Conservative leader Kemi Badenoch said the deal was unfair, while Reform’s Nigel Farage described it as a betrayal of voters.",
-    "On migration, the two governments pledged to cooperate more closely against people smuggling and human trafficking, and their police and enforcement bodies are expected to exchange more information. Burnham said real headway had been made in weakening the networks behind hazardous Channel crossings.",
-    "Burnham said polling indicates the public wants closer links with the EU, and that the deal meets that wish. He argued that small steps can only achieve so much and that the long-term shape of the relationship needs thought. Over the coming months, both sides will hold an informal exploratory process before the next summit. The government also plans to publish a 10-year plan next month. Legislation to put the deal into effect is due in Parliament next week, and Burnham has said Labour’s manifesto rules out a return to the single market, the customs union or free movement of people."
-   ],
-   "cav": "The account rests on a single broadcaster's summary of the summit. The Treasury's £17bn figure is a government estimate, not an independent assessment, and the deal's effect on prices is disputed. Tuition fees and the long-term relationship remain open, and the legislation has not yet been introduced.",
-   "op": "The deal may cut friction for businesses, but its benefits must be proven rather than assumed. Ministers should publish the costings behind the £17bn claim and the regulations Britain will follow. Voters deserve clear answers before any wider relationship is discussed.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o"
-  },
-  {
-   "id": "w-10cf7cc78c1a9d34",
-   "member_ids": [
-    "w-10cf7cc78c1a9d34"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-20T17:02:14+00:00",
-   "t": "EU and UK agree post-Brexit reset as Russian missiles hit Poland, COP31 talks stall",
-   "s": "EU and UK leaders reached a post-Brexit reset at a Brussels summit, according to Euronews. The same broadcast also flagged Russian projectiles landing in Poland and stalled climate talks in Antalya.",
-   "p": [
-    "At the Brussels summit, leaders from both sides settled on looser trade rules for farm goods, closer alignment of their carbon pricing systems and a scheme that would let young people move between the two. They also committed to further talks on how the relationship should develop. Prime Minister Andy Burnham was reported to hint at a tighter arrangement after the next election.",
-    "Euronews reports that two Russian missiles came down in southeastern Poland during lethal overnight strikes on Ukraine. Warsaw has described the landing as a deliberate provocation. The incident followed a joint pledge by Donald Trump and Vladimir Putin to work toward global peace. The broadcast also cites reports that Washington is weighing NATO membership for Ukraine if Kyiv gave up the Donbas region.",
-    "In Antalya, negotiators at the COP31 climate summit missed their scheduled close and extended talks into the weekend. Four disputes remain open: a timetable for moving away from fossil fuels, whether a 2035 electrification target of 35% depends on clean power, how climate finance will be delivered, and how to make the energy shift fair for every worker and community."
-   ],
-   "cav": "This is a programme preview built on a broadcast summary, not a full report, so the terms of the EU-UK deal and the circumstances of the missile incident are not set out. The NATO proposal is described only as reported, and no outcome for the COP31 talks is yet known.",
-   "op": "Trade terms and security claims should be judged on published texts, not on a teaser. If Warsaw’s charge of deliberate provocation is made, and talk of Ukraine ceding Donbas is real, citizens are owed open evidence and open debate.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland"
-    ]
-   ]
-  },
-  {
-   "id": "w-9f958aafbaa97a7a",
-   "member_ids": [
-    "w-9f958aafbaa97a7a"
-   ],
-   "section": "Sport",
-   "published_at": "2026-11-20T15:08:20+00:00",
-   "t": "Itoje rules out win-at-all-costs approach as England prepare to face All Blacks at Twickenham",
-   "s": "England captain Maro Itoje has said he will never adopt a win-at-all-costs mentality, ahead of Saturday’s match against the All Blacks at Twickenham. He also called for respect for referees after South Africa’s Rassie Erasmus was sanctioned over his match-fixing remarks.",
-   "p": [
-    "England captain Maro Itoje has said he will never adopt a win-at-all-costs mentality as his side prepare to face the All Blacks at Twickenham on Saturday. The Guardian reports that Itoje spoke after a week in sport dominated by comments from Springboks head coach Rassie Erasmus and the resurfacing of the 2018 sandpaper affair involving the Australia cricket team.",
-    "Itoje said England could take a significant step by winning back-to-back matches against New Zealand, something not achieved since 2003. He said his Christian faith and sense of right and wrong shape the limits he sets for himself. “There’s a line,” he said, adding that he would not take part in performance-enhancing drugs or betting on a game, even to win.",
-    "The context is Erasmus’s recent ban. According to the report, he was suspended for six matches after suggesting that officials might be match-fixing and that they had “manipulated the game”. The comments were widely seen as an attempt to put pressure on match officials before the Springboks’ upcoming fixtures.",
-    "Itoje backed the position taken by England head coach Steve Borthwick and several other coaches around the world that referees must be protected. Like Borthwick, he did not directly address Erasmus. He pointed out that World Rugby had acted against the coach and said players should uphold the values they want the sport to keep after they leave the field.",
-    "Itoje also said referees face heavy criticism, particularly online, and that rugby is praised by people in other sports, especially football, for the respect it shows officials. He noted that New Zealand and England supporters will sit side by side at Twickenham and said mutual respect is a value the rugby community should hold on to.",
-    "England arrive on the back of four consecutive wins and still have a chance of reaching next week’s Nations Championship final. Next year’s World Cup is also looming. Itoje said the coming games were the kind England must play if they want to become a great side, because they will face highly motivated and strong opponents."
-   ],
-   "cav": "The report relies on Itoje’s own comments and on the Guardian’s description of Erasmus’s remarks as a cynical attempt to pressure officials; the article does not give Erasmus’s full statement or his response. Itoje’s quotation refers to Erasmus being banned three times, while the same report says he was banned for six matches, and the sources do not reconcile the two.",
-   "op": "Itoje is right that referees deserve protection, because rules only work when those who enforce them are trusted. Claims of match-fixing made without evidence erode that trust, whoever makes them. Sport should answer such accusations with transparent process and clear sanctions, not with rhetoric.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/sport/2026/nov/20/maro-itoje-win-at-all-costs-mentality-england-all-blacks"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/6dd4713aca6ca0a0b1f1596491e58d39083e7da8/261_70_3237_2590/master/3237.jpg?width=140&quality=85&auto=format&fit=max&s=b1c3d4d76ee87c9e5f2c431e46c5210d",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/sport/2026/nov/20/maro-itoje-win-at-all-costs-mentality-england-all-blacks"
-  },
-  {
-   "id": "w-8d072a424d87a86c",
-   "member_ids": [
-    "w-8d072a424d87a86c",
-    "w-ea4cbaa5c4c9ffb3"
-   ],
-   "section": "Climate",
-   "published_at": "2026-11-20T14:07:02+00:00",
-   "t": "Africa’s negotiators say rich nations are undermining COP31 as talks near their deadline",
-   "s": "African ministers accused rich countries of breaking Paris commitments as the Antalya climate summit entered its final official day. Disputes over finance threaten to push the talks past their scheduled end.",
-   "p": [
-    "African ministers said on Friday that rich countries were undermining the process, trust and credibility of the UN climate summit by failing to meet their commitments under the Paris agreement. The remarks came on the last official day of the Cop31 talks in Antalya, Turkey.",
-    "Zanetor Agyeman-Rawlings, chair of the African Group of Negotiators, told a press conference: “We didn’t come here to beg.” She said African countries were being excluded through technical rules, finance that was hard to access, and targets that kept shifting.",
-    "Agyeman-Rawlings said the draft texts on climate finance, a just transition mechanism and a global goal on adaptation did not yet make sense to people in Africa. She added that Africa was “not a continent merely seeking assistance” and was asking developed countries to keep promises they had already made.",
-    "Civil society groups had earlier named the EU as leading a bloc of rich countries that was obstructing progress on finance, the just transition and adaptation. Al Jazeera, in a separate report, said Ghana had demanded climate justice and funding for African nations and warned leaders against empty promises. That report’s details were not available beyond a short summary.",
-    "The EU rejected the criticism. A senior EU official said the bloc provided the largest share of global climate finance, citing €32.3bn from public sources and €9.3bn mobilised from private finance in 2025. Another EU official said the current draft decision was “unbalanced” and warned of a possible no-deal outcome unless there was substantial movement.",
-    "Cop negotiations president Chris Bowen said there was still a spirit of goodwill after overnight talks with blocs and with his Turkish counterpart, Murat Kurum. He also responded to an open letter from Panama that set out demands in return for its support of any agreement.",
-    "Separately, the US held its first deep-sea mining lease sales off American Samoa on Thursday, despite an adverse court ruling earlier in the week and local opposition, according to reporting by the Guardian. Two areas covering parts of a 12.7m hectare seabed zone were sold for $3m each to Wetstone US Ventures, the only bidder, according to a spokesperson for the Marine Minerals Administration. The buyer gains permission for preliminary surveys, not full mining.",
-    "Interior secretary Doug Burgum called the sale a historic step for America’s energy and mineral security. Critics and local groups have raised concerns, and the Guardian’s report did not detail the full terms of the court ruling."
-   ],
-   "cav": "The sources do not say whether the summit will overrun its official end, and the Al Jazeera account is available only as a short summary. The EU’s figures and its characterisation of the draft text come from anonymous officials and have not been independently verified.",
-   "op": "Climate finance promises only mean something if they are measured and delivered. Rich countries that signed the Paris agreement should publish clear, checkable figures and explain delays in plain terms. Without that transparency, the trust that the process depends on will keep eroding.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&quality=85&auto=format&fit=max&s=66719ec4342409e6ee6942c37a1d3b46",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates"
-  },
-  {
-   "id": "w-dd678c417ecd29bb",
-   "member_ids": [
-    "w-dd678c417ecd29bb"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-20T13:52:04+00:00",
-   "t": "Polish officials say Russian cruise missile crashed in Poland during Western military drill",
-   "s": "Polish authorities say a Russian cruise missile was one of three objects that entered the country’s airspace early on Friday. Prime Minister Donald Tusk said the timing did not look accidental.",
-   "p": [
-    "Early on Friday, Polish authorities reported that three objects had breached the country’s airspace, one of them a Russian cruise missile. Officials said no one had been injured and that no damage had been reported so far. According to Defence Minister Wladyslaw Kosiniak-Kamysz, the Kh-101 missile struck open countryside at Nowy Lipowiec in the southeast, roughly 50km (31 miles) from the Ukrainian frontier, at about 06:30 local time.",
-    "A local resident, Natalie Szponar, was quoted as saying she was getting her children ready for school when she heard a whistling sound followed by a muffled thud. Footage from a farm camera captured the impact. Officials later said residents faced no danger.",
-    "Kosiniak-Kamysz added that another suspected missile came down near Rudnik nad Sanem, west of the impact site, and that a jet-powered drone fell to the south, near Mołodycz. He described the incursion as a “provocation” by Russia and said Warsaw would seek additional support from Nato.",
-    "Tusk told reporters the objects landed close to Nowa Dęba, where a military exercise supported by Polish troops was under way, and said that was “no coincidence”. Moscow has not commented on the violations, which coincided with one of the largest aerial attacks on Ukraine since the full-scale invasion began in 2022.",
-    "Nato Secretary General Mark Rutte condemned the breaches as serious and said alliance jets had been scrambled in response. He said the episode was clearly dangerous and stemmed from Russia’s war on Ukraine. Rutte is due to travel to Warsaw on Saturday. UK Prime Minister Andy Burnham called the incident intolerable, while UK Defence Secretary Wes Streeting, visiting Poland, said the fallout of the war was spreading into neighbouring countries. European Council President António Costa voiced support for the Polish people and urged Russia to enter negotiations.",
-    "The exercise, named Koalicja 2026, is led by Britain and France and includes 11 countries from the Coalition of the Willing, a Western grouping preparing for a possible peace deal in Ukraine. The violations came a day after a Berlin summit attended by 40 countries, where Chancellor Friedrich Merz argued that talks with Russia should begin soon on neutral ground. The same day, at least eight people were killed when Russian missiles and drones hit three bridges over the Dnipro in Kyiv and a station in Lviv. Days earlier, Vladimir Putin had promised a painful response to repeated strikes on the Kerch Strait bridge linking Russia to occupied Crimea.",
-    "Spillover into Poland is not new. In July, a cruise missile landed in the country during an attack on Lviv, leaving a crater 10m (33ft) wide. Casualties in Poland have been rare, although two Polish farmers were killed by a missile in November 2022, which was believed to be a Ukrainian air-defence missile fired at a Russian attack. On Friday, Moldovan officials said a drone briefly entered their airspace during Russian strikes on Ukraine, and that the country’s defence ministry has recorded 118 such violations since February 2022."
-   ],
-   "cav": "Russia has not responded, so the account of the missile’s origin rests on Polish officials and their allies. The second missile and the drone are described as suspected, and the 2022 attribution is only a belief, not a confirmed finding.",
-   "op": "Every breach of a Nato member’s airspace should be met with a clear public account of what crossed the border and who sent it. Poland and its allies are entitled to verifiable facts, not only ministers’ assessments. Moscow, which has offered no comment, should be pressed to explain itself.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
   }
  ]
 }

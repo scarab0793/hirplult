@@ -1,14 +1,17 @@
 {
  "failed": {
   "w-9ccdbee282485263": 3,
-  "w-70227b1a479b8661": 3,
   "w-4ba86ab9ab5ac511": 3,
   "w-1a534c1f7f074398": 3,
-  "w-58c5a950fcf389bb": 3
+  "w-58c5a950fcf389bb": 3,
+  "w-b291b457579a52fa": 3,
+  "w-6660a0cd7c1aaf2b": 3,
+  "w-35cb6d5769c70262": 3,
+  "w-ea06b84dbc3c7afe": 3,
+  "w-b26cb672a5ee3fa4": 3
  },
  "failed_translations": {
-  "w-b22f8dbd2baa3726:de": 2,
-  "w-4a362b91171ebc5e:de": 1,
-  "w-4a362b91171ebc5e:es": 1
+  "w-4a362b91171ebc5e:de": 2,
+  "w-4a362b91171ebc5e:es": 2
  }
 }
