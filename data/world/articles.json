@@ -1,6 +1,319 @@
 {
- "updated_at": "2026-11-22T20:28:13.761598+00:00",
+ "updated_at": "2026-11-23T16:26:59.265014+00:00",
  "items": [
+  {
+   "id": "w-baf5bff4c4d47bce",
+   "member_ids": [
+    "w-baf5bff4c4d47bce",
+    "w-f48018da42d6bca9",
+    "w-4ac1fe94ae4878e2",
+    "w-111ce7de9dd43d6e"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-23T16:19:22+00:00",
+   "t": "Nvidia reinstates Jensen Huang as CEO after Trump says he pressed the board",
+   "s": "Nvidia has reinstated Jensen Huang as chief executive, a little more than a week after he resigned amid reports of extramarital affairs. Its shares jumped more than 33 percent on the news.",
+   "p": [
+    "Nvidia’s board has reinstated Jensen Huang as president and chief executive, reversing his resignation earlier this month. The chipmaker announced the move on Monday, and the company said the decision took effect immediately.",
+    "Huang stepped down after reports of extramarital affairs, including one with a woman whom US intelligence is said to believe is a Chinese spy. Al Jazeera described the affairs as at least two in number and said the alleged spy was a suspected Chinese agent. Those claims are not confirmed in the sources.",
+    "President Donald Trump said on CNBC that he had spoken with the board “directly and indirectly” and had convinced its members to bring Huang back. He said the board had asked for assurances on national security risks and that his administration had provided them. Trump also said he had spoken with Huang on Sunday night, before the announcement.",
+    "Nvidia said its leadership had received input from senior levels of the US government and was confident that Huang’s reinstatement posed no national security risk. Trump wrote on Truth Social that the government had no reason to believe the return posed any risk. The sources do not publish the assurances themselves, so their content can only be judged from these official statements.",
+    "The return followed a campaign by Elon Musk and others. A petition calling for Huang’s return drew more than 180,000 signatures within days of his departure, according to Al Jazeera. Musk posted that “the mistake has been corrected” after the announcement. Colette Kress, who had served as interim CEO, will remain chief financial officer.",
+    "Analysts said Huang’s role at Nvidia is central to the wider spending boom in data centres and chips. BBC News reported that the company sells chips to customers including Meta, SpaceX and OpenAI, and has also provided funding to firms in its supply chain, a practice known as circular financing. Some investors worry that a pullback in Nvidia’s spending could spread to the wider US economy. Dan Ives said Nvidia could have lost as much as 30 percent of its value without Huang, a view Al Jazeera attributed to him.",
+    "Several issues remain open. Al Jazeera reported that investigations into the company by the US Securities and Exchange Commission and the Department of Justice are still ongoing. Goldman Sachs, cited by the BBC, expects investment in this spending wave to exceed $1 trillion in 2026. Early trading on Monday showed strong gains across major US indices, with the Nasdaq up 6.7 percent."
+   ],
+   "cav": "The alleged spy link and the number of affairs are reported claims, not established facts, and the assurances given to the board have not been published. The sources also differ slightly on the share jump, with one saying more than 33 percent and another 33 percent.",
+   "op": "A chipmaker’s leadership should not be settled by a president’s phone calls and national-security assurances the sources do not publish. Whatever the merits of Huang’s return, investors and citizens are being asked to trust private briefings while federal inquiries remain open. Transparency about what was promised, and to whom, should come before the market celebrates.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/c68798vdprwpo"
+    ],
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261123-nvidia-reinstates-jensen-huang-as-ceo"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+  },
+  {
+   "id": "w-e960cc4aeddb644c",
+   "member_ids": [
+    "w-e960cc4aeddb644c"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-23T16:13:46+00:00",
+   "t": "Trump backs Nvidia’s reinstatement of Jensen Huang as lawmakers press national security questions",
+   "s": "US President Donald Trump has said he spoke with Nvidia’s board about Jensen Huang’s return as chief executive and that the company’s concerns over national security were addressed. House committees say the reinstatement “changes nothing” for their own inquiry.",
+   "p": [
+    "Donald Trump told CNBC that he had spoken “directly and indirectly” with Nvidia’s board about the reinstatement of Jensen Huang as chief executive, which he described as the correct decision. In a phone interview, Trump said he had also spoken with Huang the night before the board announced the move.",
+    "According to Trump, the board asked for assurances on national security risks, and the administration provided them. He said the government had conducted a “very thorough investigation” into Huang and concluded that Huang had shown bad judgement in somewhat unrelated incidents but had done nothing wrong. Trump said Huang had been exonerated. The evidence does not include the findings of that investigation, and Trump’s account is his own.",
+    "Trump also declined to say whether he had joined the Nvidia board meeting, saying only that he “was represented at the board”.",
+    "A spokesperson for the House intelligence committee told NBC News that the reinstatement changes nothing for three House committees, which plan a closed-door transcribed interview with Huang on 1 December. Nvidia’s general counsel is due to appear the following day. The committee spokesperson said serious questions about national security implications still need answers.",
+    "Senator Ron Wyden, the top Democrat on the Senate intelligence committee, said the decision showed that national security was “up for sale”. Senator Elizabeth Warren, who is set to chair the Senate banking committee from January, called the decision “reckless” and said the board still owes Congress answers about the company’s compliance with US export controls.",
+    "The reinstatement follows reports, cited by the New York Times, that Alice Huang, a Chinese businesswoman at the centre of the Nvidia scandal, had been in contact with an officer of China’s Ministry of State Security from spring 2025 until this autumn. The Times reported this on the basis of people with knowledge of US intelligence reports, and the claims have not been confirmed in the evidence.",
+    "Markets responded strongly. Nvidia’s shares were reported to have risen by about 31 per cent at the start of trading, while the S&P 500 jumped 4.5 per cent. Reports on the size of the share gain vary, with one headline citing 33 per cent."
+   ],
+   "cav": "The sources do not establish whether Huang was cleared of wrongdoing; that claim comes from Trump. The Alice Huang reports are second-hand, cited from the New York Times, which is behind a paywall. The share increase is reported inconsistently, as 31 per cent in one part of the coverage and 33 per cent in another.",
+   "op": "A chief executive’s return matters to the public when it touches export controls and national security. When a president vouches for a company’s leader while Congress is still seeking answers, the public deserves the same transparency. The assurances given to the board should be disclosed, not left for closed-door sessions.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+  },
+  {
+   "id": "w-3b5fce3baff0040f",
+   "member_ids": [
+    "w-3b5fce3baff0040f"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-23T16:13:25+00:00",
+   "t": "Nvidia reinstates Jensen Huang as CEO less than two weeks after he resigned",
+   "s": "Nvidia has reinstated Jensen Huang as president and chief executive, less than two weeks after he resigned. Its board said it had received input from senior US government levels before making the decision.",
+   "p": [
+    "Nvidia’s board of directors voted unanimously to bring Huang back, according to a company statement. The board said it was satisfied with “Mr. Huang’s candor and ability to lead Nvidia” after a series of discussions and meetings.",
+    "The board said that, based on input from senior levels of the US government, it was confident Huang’s reinstatement posed no national security risk. It did not name the officials involved or describe the input in detail.",
+    "President Donald Trump praised Huang as a “great patriot and national treasure”. The Guardian’s live blog reported that Trump said he had spoken to the Nvidia board directly about Huang.",
+    "Colette Kress, who had served as interim CEO while keeping her role as chief financial officer, was thanked by the board for her service. The live blog’s headline said Nvidia shares rose 33% on the news, adding $1tn to the company’s value."
+   ],
+   "cav": "The sources do not explain why Huang resigned. The government input is unnamed, and the 33% gain and $1tn figure appear only in the live-blog headline, so they are not confirmed in the excerpt.",
+   "op": "A company’s leadership decision shaped by unnamed government input deserves more openness than a one-line assurance. Markets and the public should be told what officials said and why it satisfied the board. Without that, a national security clearance looks like a private deal.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/170c53dae32ff033a36f686b5d20fe6b904fdae5/297_0_5407_4326/master/5407.jpg?width=140&quality=85&auto=format&fit=max&s=44d5d06073aba066a4a4a662931e0f6f",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+  },
+  {
+   "id": "w-7f625056a5ad4262",
+   "member_ids": [
+    "w-7f625056a5ad4262"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-23T16:00:51+00:00",
+   "t": "Hacked Russian records point to more than 1,000 military suicides in the Ukraine war",
+   "s": "Russian state records, obtained in leaked form and analysed by the Guardian, list more than a thousand soldiers as having taken their own lives since the invasion began. The newspaper and its sources believe the true total is higher.",
+   "p": [
+    "The Guardian’s analysis of a cache of more than 11 million death certificates puts the number of Russian soldiers recorded as suicides since the full-scale invasion at over 1,000. The paper says that total roughly equals one regiment. The figures are drawn from records held by Rosstat, Russia’s state statistics body, which has not made them public.",
+    "The newspaper illustrates the pattern with one man, Alexei Bolgov, a sergeant guarding a headquarters in occupied Donetsk. In late 2024 he reportedly told his wife by phone that what he was witnessing was dreadful and promised to explain when he returned. According to a written account by his commander, which the Guardian has seen, he walked roughly 300 metres from his unit’s post into woodland about five weeks later and shot himself, shortly after his 29th birthday. “On the day of his death, Bolgov was in a withdrawn state,” the commander wrote.",
+    "A separate group of 885 deaths in or near Ukraine was logged as firearm-related injuries of “undetermined intent”. Specialists warn that this label can hide suicides, and the Guardian says it independently confirmed several such cases as suicides. Taken together with the confirmed suicides, the paper counts 1,038 similar deaths, 885 of them in or near Ukraine.",
+    "Of the 1,087 suicides the paper has identified, at least 614 occurred in occupied Ukrainian territory or in the Russian border regions of Belgorod and Bryansk, while 113 entries give no location. More than half involved firearms, often near the front, at camps, training grounds and private homes. The wartime cases include 43 soldiers aged 18 or 19. The wider set also contains 108 men under 25 who died by suicide elsewhere in Russia, some of whom may have been conscripts pressed into contracts.",
+    "Recorded cases rose from more than 50 in 2022 to more than 200 in 2024, reaching a peak of 365 in 2025. The database already holds almost 300 suicides for 2026, which the paper describes as the second-highest yearly total of the war so far. It stresses that the records are incomplete and lag behind events at the front.",
+    "Analysts cited by the Guardian point to pressure from commanders and fellow soldiers, dread of lethal assignments, and contracts that offer little or no way out. Rob Lee of the Foreign Policy Research Institute described coercion by the military, including abuse and torture, and said it was unsurprising that some men take their own lives. Ivan Chuvilyaev, a spokesperson for Idite Lesom, a group that helps Russian soldiers desert, called the official count an underestimate: “I would say it is a low estimate.” He also argued that many self-inflicted deaths on the battlefield are probably logged as combat losses.",
+    "The Kremlin does not publish military suicide data and treats casualty figures as a state secret. The Guardian also examined the case of Sergei Savenok, a lieutenant colonel from the Irkutsk region who was found shot dead in occupied Luhansk in July 2023. Officials told his wife that he had died by suicide, yet he does not appear in the Rosstat suicide records. A certificate matching his date of birth instead records an injury from a handheld firearm of undetermined intent."
+   ],
+   "cav": "The figures come from a hacked cache of death certificates and the Guardian’s own analysis, not from an official Russian publication, and the sources provided do not include a Kremlin response. The claims that the true number is higher are estimates from experts and activists, not measured totals, and the case details rely on a commander’s account and a wife’s report.",
+   "op": "When a state hides its war dead, families and the public are left to rely on leaks and hacked files. Counting how soldiers die is basic accountability, not wartime propaganda. Until Moscow publishes its records, its silence should be read as a choice, and it deserves to be challenged.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1db83e1b7176961a2aee98d6da53222a",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
+  },
+  {
+   "id": "w-faaac939e2af4bb7",
+   "member_ids": [
+    "w-faaac939e2af4bb7"
+   ],
+   "section": "Technology",
+   "published_at": "2026-11-23T15:49:52+00:00",
+   "t": "Nvidia reinstates Jensen Huang as chief executive just 11 days after he resigned",
+   "s": "Nvidia's board has reinstated Jensen Huang as chief executive, 11 days after he stepped down amid reports of two extra-marital affairs. The chipmaker sits at the centre of the US-China race for technology leadership.",
+   "p": [
+    "For a long time Jensen Huang, the founder of Nvidia, was widely admired in the technology industry. His reputation shifted after allegations of two affairs emerged, one involving a businesswoman whom US officials allege is a Chinese intelligence asset. Those reports rattled the tech sector and global stock markets, and Huang resigned.",
+    "The first reports appeared on 29 October in the New York Times, which said Huang had been in a relationship with a businesswoman, Alice Huang, who is not related to him. US officials allege that she is linked to Singapore-based firm Megaspeed. Huang has admitted being unfaithful to his wife and has apologised for hurting his family.",
+    "A second affair, with Kimberly Powell, Nvidia's vice president of healthcare, who has worked at the company for 18 years, prompted a board meeting. The board then announced that Huang was stepping down.",
+    "Within days a campaign called Bring Jensen Back was launched. It was reportedly started by current and former employees, partners, shareholders and supporters. Huang said he would be honoured to return if the board asked him. The board has now done so, saying his return was in the best interests of its stockholders, employees, partners and customers.",
+    "Huang's importance goes beyond his personal story. Nvidia dominates the market for the microchips used to power the rapid growth of new technology over the past three years. Its customers include Google, Meta, Amazon, Microsoft and Tesla. Nvidia is the world's second most valuable company, according to the BBC.",
+    "Huang has also built close ties with political leaders. He has been courted by US President Donald Trump and China's President Xi Jinping. At a recent summit at the White House he was chosen from a group of 42 to stand beside the president, alongside Elon Musk.",
+    "Huang's personal fortune has also moved sharply. According to the Bloomberg Billionaires Index, it reached close to $200bn earlier this year before falling to around $105bn. Born in Taiwan in 1963, he moved with his family to the US west coast as a child, studied electrical engineering and later founded Nvidia. He has long presented himself as a family man, and his two children now hold senior roles at the company.",
+    "Stephen Witt, author of a biography of Huang, told the BBC that Huang is a visionary and a demanding boss. Witt also said Huang shows a level of arrogance and self-deception."
+   ],
+   "cav": "The affair allegations and the spy claim rest on New York Times reporting and on US officials who have not been named in the evidence, so the national security element is second-hand. The board has given only a brief reason for reversing course, and the evidence does not show what it reviewed before doing so.",
+   "op": "A chief executive's private conduct is not automatically a matter for regulators, but a board that reverses itself within days owes shareholders a clear account. If a national security allegation was weighed, the public should be told how. Otherwise, a fan campaign has overridden the governance it is supposed to protect.",
+   "confirmed": false,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cmze750zg0jeo"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo"
+  },
+  {
+   "id": "w-c4a2bcadc8d258cc",
+   "member_ids": [
+    "w-c4a2bcadc8d258cc",
+    "w-b963e445ef87a77d"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-23T15:46:48+00:00",
+   "t": "Thousands evacuated from Manchester Don Toliver concert after unknown substance released",
+   "s": "Around 12,000 people were evacuated from a Don Toliver concert at Manchester’s Co-op Live arena after an unidentified irritant was reported in the crowd, police said. Dozens were treated by medics.",
+   "p": [
+    "Police in Manchester, in northwest England, said on Monday that a Sunday-night show by the US rapper Don Toliver was emptied after people in the audience reported ill effects. Greater Manchester Police treated the situation as a major incident.",
+    "Attendance figures differ between outlets. Euronews put the crowd near 12,000 at the Co-op Live arena. A separate international report said more than 80 people had received treatment from medics, while the regional ambulance service said it had assessed over 50 people on site, some with eye and breathing problems.",
+    "Police said several people were treated on site and one was sent to hospital. Steph Parker of Greater Manchester Police said investigators were working out what the substance was. The venue said it was cooperating with officers to establish the source of the problem.",
+    "The ambulance service said decontamination took place at the venue. Toliver, an American singer who has worked with Travis Scott and Justin Bieber, is on the second leg of his Nitrous world tour and had been due to perform in London on Monday.",
+    "Reports on the number of people affected vary, and the sources available so far do not identify the substance."
+   ],
+   "cav": "The sources do not say what the substance was, and the figures for people treated or assessed differ between the international report and the police and ambulance accounts. The story is described as developing, so details may change.",
+   "op": "Audiences moved out of a packed arena are owed a clear account of what they were exposed to and whether the response was proportionate. The venue and police should publish their findings, not just reassurances, because public trust depends on it.",
+   "confirmed": true,
+   "src": [
+    [
+     "France 24",
+     "https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/23/thousands-evacuated-after-unknown-substance-released-at-uk-don-toliver-concert"
+    ]
+   ],
+   "img": "https://s.france24.com/media/display/1342f74c-e754-11f1-9e59-1bac47ab2f5d/w:1024/p:16x9/minimanchester.jpg",
+   "img_outlet": "France 24",
+   "img_link": "https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans"
+  },
+  {
+   "id": "w-97e5a541e8ca5f64",
+   "member_ids": [
+    "w-97e5a541e8ca5f64"
+   ],
+   "section": "Europe",
+   "published_at": "2026-11-23T15:46:40+00:00",
+   "t": "EU unveils 22nd Russia sanctions package, reviving ban on Russian ex-combatants entering the bloc",
+   "s": "Ursula von der Leyen has presented a 22nd package of sanctions against Russia, covering banking, energy and sports. Unanimous approval from all 27 member states is still required.",
+   "p": [
+    "Doubts had grown over whether the EU could agree meaningful new Russia sanctions at all. The European Commission is now trying to tighten the screws again, and von der Leyen has brought back a plan to keep Russian soldiers out of EU territory.",
+    "The package, presented as the 22nd round of measures over the war in Ukraine, also targets Russian banks, energy flows and sporting competitions. Each area is described in the Commission’s announcement, though the live coverage the reporting draws on offers only a summary of its contents.",
+    "The earlier 21st package was hard fought in July. A sanction on the transfer of liquefied natural gas was weakened, and a proposal to bar former combatants from the bloc was put off after France and Italy objected. Two oligarchs were then struck off the EU sanctions list in September.",
+    "That same month, von der Leyen argued in her annual address to the European Parliament that enforcing current measures mattered more than adding new ones. According to the reporting, the situation has since moved on: Moscow has stepped up its attacks on Ukraine, and several incidents in the EU have been blamed on Russia, among them a foiled attack on Leipzig airport.",
+    "Estonia has been the most vocal backer of barring Russian ex-combatants and of stopping athletes from competing under the Russian flag. Mark Rutte, speaking for Nato, stressed that Ukraine must keep receiving air defence systems and munitions.",
+    "The package is not assured of passage. It needs backing from every one of the 27 member states, yet the case that the EU has no need for fresh measures is becoming harder to make in Brussels."
+   ],
+   "cav": "Blame for the Denmark assassination attempt, the Leipzig drone plot and the Black Sea strikes is attributed to Russia in the reporting, not confirmed by findings. The package’s details come from a live blog summary, and the final text may change in negotiations.",
+   "op": "Sanctions only deserve trust if they are enforced and explained. Brussels should publish the legal basis and evidence behind each measure, and show how a ban on individuals will be applied fairly. Credibility, not announcements, will decide whether this package has any effect.",
+   "confirmed": false,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a9e288abb70ca807887f49b794811d54",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+  },
+  {
+   "id": "w-b9ddec0a0e5713a7",
+   "member_ids": [
+    "w-b9ddec0a0e5713a7",
+    "w-833a072f63c18c6f",
+    "w-76db5006969fb441",
+    "w-5449cc1a25bb232f"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-23T15:39:41+00:00",
+   "t": "Nvidia shares surge as board brings back Jensen Huang as CEO, days after his resignation",
+   "s": "Nvidia has restored Jensen Huang as chief executive less than two weeks after he stepped down over reports of extramarital affairs, one of them involving an alleged Chinese spy. The company's shares jumped sharply when trading opened in New York on Monday.",
+   "p": [
+    "On Monday Nvidia said it had brought Huang back as president, chief executive and board member, with the change taking hold at once. The board voted unanimously after a series of meetings, and said its directors were satisfied with his “candor and ability to lead”.",
+    "The turnaround is abrupt. Only days earlier the board had said it would weigh internal and external candidates to succeed him, and its chair, Harvey Jones, told investors it had no plan to reinstate Huang. Huang had indicated he would return if the board asked him to.",
+    "Huang stepped down on 12 November following reports of extramarital affairs, including one with Chinese businesswoman Alice Huang. At the time, US Attorney General Todd Blanche said the FBI was looking into reports that she had worked for the Chinese government, and that the Justice Department had not reached a conclusion. Beijing rejects the allegation.",
+    "Nvidia’s market value rose by more than $1 trillion as its shares climbed. Sources give different figures for the gain, between 30% and 33%, depending on when the price was measured. Wider markets also rallied, with the Nasdaq reported up between 5.9% and 6.5% in early trading. Micron, Intel and AMD also rose. The gains came after Nvidia shares fell close to 14% on Friday, a drop that followed a Reuters report, not confirmed by the BBC, that the US Securities and Exchange Commission was examining the company’s accounting.",
+    "Donald Trump, who had publicly urged the board to reappoint Huang, welcomed the move. He said the US government had no reason to think Huang’s return threatened national security, and pointed to Blanche’s statement that the government held no evidence of unlawful conduct by Huang.",
+    "Nvidia said senior US government officials had given input and that it was confident the return carried no national security risk. It also said an independent investigation into whether Huang had been targeted by a Chinese intelligence operation would continue. Huang is scheduled to answer questions from three US House committees on 1 December.",
+    "Market commentators linked the decision to the wider tech sector. Dan Ives, a senior tech analyst, argued that the board had little option, since keeping a company this central to the sector without its founder was the greater danger to shareholders. Sam North of eToro said Huang’s comeback showed how heavily the sector’s momentum depends on one person."
+   ],
+   "cav": "The sources give different figures for the share and index moves because they measured at different points in trading. The SEC investigation comes from a Reuters report that the BBC did not confirm. Beijing’s denial is the only official response to the espionage allegation in the evidence, and the outcome of the independent investigation is not yet known.",
+   "op": "A reinstatement announced after government assurances, while the investigation is still open, asks shareholders and the public to trust a board that has just reversed itself. The inquiry’s findings should be published in full, not just summarised, before markets and the public treat the matter as closed.",
+   "confirmed": true,
+   "src": [
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+    ],
+    [
+     "Al Jazeera",
+     "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss"
+    ],
+    [
+     "Euronews",
+     "https://www.euronews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned"
+    ]
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg",
+   "img_outlet": "BBC News",
+   "img_link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+  },
+  {
+   "id": "w-110ae3b8d0a03ac0",
+   "member_ids": [
+    "w-110ae3b8d0a03ac0",
+    "w-8af616c319cf3211"
+   ],
+   "section": "Business",
+   "published_at": "2026-11-23T14:50:31+00:00",
+   "t": "Next says hackers reached data through a supplier, but customer personal data is not believed compromised",
+   "s": "Clothing and homewares chain Next says hackers reached some of its data via a third-party supplier. It believes customers’ personal details were not exposed, and investigations are still under way.",
+   "p": [
+    "Britain’s high street fashion chain Next has disclosed that an outside technology provider suffered a breach, giving unauthorised people access to some company data. The retailer, which operates more than 800 shops in the UK and Ireland and a further 200 abroad, announced the news on Monday after the provider told it of a “cyber incident”.",
+    "The company’s current view is that the compromised material was of minor sensitivity, and that no personal details capable of enabling fraud were taken. According to the Guardian, which cited an understanding rather than a confirmed statement, the files exclude contact information, home addresses, login credentials and bank details.",
+    "Next maintains that its own network was untouched, even though the intrusion has reached into the supplier’s environment. In a note to shareholders it described the data as harmless, while stressing that it was handling the case with great care and coordinating with the provider, police and regulators. Those inquiries remain open, so the picture could change.",
+    "The BBC’s account differs in emphasis. It reported that only some Next data had been reached, and it placed the company’s headquarters in Enderby, Leicestershire. It also called the supplier an online provider, where the Guardian called it a technology firm. Neither outlet explains what kinds of records were involved.",
+    "The episode follows a run of attacks on retail brands. The BBC linked it to October’s breach at the online seller Asos, where an intruder accessed an employee’s account and some customer names and contact details. The Guardian recalled attacks on TFG London, which owns Hobbs and Whistles, in which customer records were accessed, and on Marks & Spencer, the Co-op and Harrods last year, which disrupted trading for months. The BBC noted that M&S halted online sales for about six weeks.",
+    "Security analyst Alan Simpson of Rapid7 told the Guardian that a breach through a supplier worried him, because attackers tend to target the most loosely guarded entry point. He advised customers to distrust unsolicited messages claiming to come from Next, and to visit the official website or app directly rather than follow links sent to them."
+   ],
+   "cav": "The sources differ on scale: the Guardian describes data “relating to” Next, while the BBC says only some of its data was accessed. The claim that customer data was not compromised rests on the company’s present assessment, and the list of excluded data is second-hand, attributed to what is understood rather than confirmed by Next.",
+   "op": "A supplier breach should not be treated as a footnote to a retailer’s reassurances. Customers are entitled to firm, dated answers about which records were taken and why the provider had such broad access. Until Next publishes them, “benign” is a verdict the company has yet to earn.",
+   "confirmed": true,
+   "src": [
+    [
+     "The Guardian",
+     "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo"
+    ]
+   ],
+   "img": "https://i.guim.co.uk/img/media/b98cd780bf9e268b9ab1c77545ad7f2b5026a2b0/485_0_4852_3881/master/4852.jpg?width=140&quality=85&auto=format&fit=max&s=1d99c51eef9c74958275a549ea71ae21",
+   "img_outlet": "The Guardian",
+   "img_link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers"
+  },
   {
    "id": "w-58887607f9ea2ca3",
    "member_ids": [
@@ -769,541 +1082,6 @@
    "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
    "img_outlet": "NPR",
    "img_link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
-  },
-  {
-   "id": "w-2245d49aa2586b92",
-   "member_ids": [
-    "w-2245d49aa2586b92"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-21T13:57:15+00:00",
-   "t": "Russian ballistic missile hits Zelenskyy’s hometown Kryvyi Rih, killing two people",
-   "s": "A Russian ballistic missile struck Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy, killing two people and injuring dozens, according to local officials. The attack came as Moscow promised a response to a Ukrainian strike on the Crimean bridge.",
-   "p": [
-    "Local authorities said a seven-year-old boy and a 20-year-old woman were killed in the central Ukrainian city. About 60 people were hurt, among them six children.",
-    "Zelenskyy identified the woman as an emergency medical worker and named the boy as Tykhon, born in 2019. In a post on X, he said that most of the child’s short life had been spent during the war and that homes, offices and civilian facilities in an ordinary city had been hit.",
-    "Oleksandr Vilkul, who heads the city administration, posted on Telegram that the strike started four fires and damaged around 25 apartment buildings, a hospital, schools, an industrial site, businesses and vehicles.",
-    "Zelenskyy also said Russia had targeted other cities and villages across several regions, including Kharkiv, Donetsk, Dnipro, Rivne, Chernihiv, Mykolaiv and Zaporizhzhia. Local media reported that a railway station in Krolevets, in the Sumy region, was hit and three people were injured.",
-    "The Russian attack followed a Ukrainian strike on the Crimean bridge the previous week. Russian President Vladimir Putin promised a “painful” reply after meeting Donald Trump and Xi Jinping. Zelenskyy, who was in Berlin for talks with allies that day, described the summit as a failure for Putin’s effort to “redraw” the world.",
-    "Ukraine’s General Staff said on Telegram that it had hit an ammunition depot near Pervomaiske in occupied Crimea, arguing that the shells stored there would not reach Ukrainian front-line troops. Local media also reported Ukrainian strikes on a bridge in Luhansk and on two Russian command posts in the Zaporizhzhia and Donetsk regions."
-   ],
-   "cav": "The sources give different dates for Zelenskyy’s remarks, so the timing of his statements is unclear. The Ukrainian strikes are reported through local media and the General Staff, and the Luhansk bridge report gives little detail. Casualty figures come from local authorities and may change. No Russian response to the Ukrainian claims is included.",
-   "op": "Strikes on apartment blocks, schools and a hospital affect ordinary people, and every civilian death deserves the same scrutiny as any military claim. Both Moscow and Kyiv should allow independent verification of their claims. Transparency is the least civilians under fire can expect.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people"
-    ]
-   ]
-  },
-  {
-   "id": "w-6e5196c5585d1a77",
-   "member_ids": [
-    "w-6e5196c5585d1a77"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-21T13:15:21+00:00",
-   "t": "Mexican drug lord on FBI’s most wanted list arrested after shoot-out",
-   "s": "Mexican special forces have detained Fausto Isidro Meza Flores, a suspect on the FBI’s 10 most wanted list, after a gun battle with authorities in Sinaloa state, according to Mexico’s defence secretariat.",
-   "p": [
-    "Mexico’s defence secretariat said special forces took Meza Flores and a senior aide into custody in Guasave, Sinaloa, on Friday. The BBC reported that the arrest came after a shoot-out with Mexican authorities, and that the two men were later flown to Mexico City to face prosecution.",
-    "In Mexico, Meza Flores faces organised crime charges. The FBI has accused him of helping send fentanyl, cocaine, heroin and other dangerous drugs into the United States, and Washington is seeking his extradition. He has not yet been tried, and any allegations remain unproven until a court rules on them.",
-    "When the FBI placed him on its most-wanted list in 2025, it cited kidnapping, extortion and torture among the charges. Brian Driscoll, who was then acting FBI director, said the group had pushed illegal narcotics across the southern border. Mexican authorities reportedly tied his cartel to 20 million fentanyl pills seized in 2024.",
-    "US prosecutors first brought drug trafficking charges against him in 2012 and filed further charges in 2019. The 44-year-old is alleged to have plotted the production and distribution of large volumes of cocaine, heroin, methamphetamine and marijuana between 2005 and 2019.",
-    "Meza Flores once held a high rank in the Beltrán Leyva Organization. A rift between rival factions triggered a spike in bloodshed, and by 2013 he had launched his own cartel. US officials have called his group’s clash with the Sinaloa Cartel, which operates in the same area, an extremely violent turf war.",
-    "According to the defence secretariat, the operation relied on US intelligence about his location. Troops sealed off the property to block an escape and stop backup from arriving, then met gunfire and explosives before going in. Online footage reportedly shows helicopters shooting towards the ground in Guasave, and people running from a baseball stadium. Several vehicles were also seen burning on a highway near Los Mochis.",
-    "President Claudia Sheinbaum has adopted a firmer approach to cartels, in part to push back against US intervention on Mexican territory. Mexico has welcomed greater joint work with Washington but has declined to let American forces operate on the ground. President Donald Trump has made stopping drug flows across the southern border a central promise of his campaigns."
-   ],
-   "cav": "The sources do not confirm the full account of the operation, and the defence secretariat’s description of the gunfight is its own. The online videos are unverified, and the reported link to the 2024 fentanyl seizure is described only as reported. Outlets spell the suspect’s nickname differently, so the spelling here follows the BBC’s headline version.",
-   "op": "A capture of this kind deserves scrutiny as much as applause. A gunfight involving helicopters and burning vehicles raises real questions about public safety, and Meza Flores must receive a fair hearing in Mexico before any extradition decision. Transparency about the operation and its evidence should accompany every headline.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
-  },
-  {
-   "id": "w-86b740478c70257f",
-   "member_ids": [
-    "w-86b740478c70257f"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-21T12:49:05+00:00",
-   "t": "Denmark to expel Russian defence attaché over alleged plot to kill US-Ukrainian rapper",
-   "s": "Denmark is moving to expel Russia’s defence attaché in Copenhagen after police said they had foiled an alleged Russian intelligence plot to kill the rapper Kyivstoner before a September concert.",
-   "p": [
-    "Foreign Minister Lars Løkke Rasmussen told a news conference that the Russian ambassador had been summoned and informed of the decision. The diplomat is due to leave the country within seven days. Rasmussen also said Denmark was considering suspending Schengen visas for Russians, a step he wants the wider EU to adopt.",
-    "Danish police said they had prevented an attempt by Russian intelligence services to kill Kyivstoner, whose legal name is Albert Viktorovich Vasiliev, before he was due to perform in Denmark. Officials said Vasiliev holds both US and Ukrainian citizenship.",
-    "According to prosecutors, three men with ties to the Danish criminal underworld were stopped shortly before the concert on 25 September, which was subsequently cancelled. Prosecutors said the group was heading to the venue north of Copenhagen carrying two loaded pistols and two knives. A fourth suspect was detained later that evening.",
-    "One of the suspects had reportedly bought a ticket for the event, according to the charges. The suspects face charges under Section 108 of Denmark’s criminal code, which concerns assisting a foreign intelligence service, as well as attempted murder. They have denied wrongdoing in court, according to the broadcaster DR.",
-    "Rasmus Kieffer-Kristensen, who heads Denmark’s national security and intelligence service, said his agency’s clear assessment was that Russian intelligence had planned the killing. He argued that the case was important for understanding the threat Denmark faces from Moscow, and described Russia as increasingly aggressive and willing to take risks.",
-    "In a message to senior European diplomats, Rasmussen reportedly proposed that the EU halt tourist visas for Russian citizens and stop recognising Russian non-biometric passports across the 29-nation Schengen zone. He also urged member states to issue more limited visas and tougher entry rules for serving and former soldiers. European Commission president Ursula von der Leyen said the EU stood in full solidarity with Denmark.",
-    "The Russian embassy in Copenhagen rejected the accusations, saying Denmark had not produced supporting proof."
-   ],
-   "cav": "The link to Russian intelligence rests on the Danish security service’s assessment and police statements; the sources do not publish the underlying evidence. The Russian embassy disputes the claims, and the suspects have denied wrongdoing, so no verdict has been reached. Details of the EU visa proposal come from Reuters reporting, not from an official EU text.",
-   "op": "A state suspected of ordering an assassination on European soil should face consequences that are visible and open to scrutiny. Expelling a diplomat is a reasonable signal, but a government making such an accusation should also release as much of its evidence as security allows, so that allies, courts and the public can judge the claim for themselves.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
-  },
-  {
-   "id": "w-b9f55373dafe7bac",
-   "member_ids": [
-    "w-b9f55373dafe7bac",
-    "w-9e6ae836510724de"
-   ],
-   "section": "Science",
-   "published_at": "2026-11-21T12:30:16+00:00",
-   "t": "Anthropic mathematician says Claude helped him prove the Riemann hypothesis; experts urge caution",
-   "s": "Levent Alpöge, a mathematician at Anthropic, says he has found a proof of the Riemann hypothesis with the help of the company’s Claude system. Outside mathematicians have reacted with a mix of enthusiasm and reserve.",
-   "p": [
-    "Levent Alpöge, who works as a mathematician for the company Anthropic, has published a short document on Friday arguing that he has proven the Riemann hypothesis. He credits Claude with major help in the final stage of the work.",
-    "The conjecture dates back to an 1859 paper by the German mathematician Bernhard Riemann. It deals with how prime numbers are spread out as the counting numbers grow without limit, and it has resisted proof for well over a century.",
-    "Alpöge wrote that Claude made its greatest contribution near the end, describing the system as having been far ahead of him at that point. According to his account, the key steps came late on a Sunday night, after which he contacted Anthropic chief executive Dario Amodei about making the result public.",
-    "The announcement followed a day after Anthropic’s stock market debut on Thursday. Alpöge has linked to computer code written in Lean, a proof assistant used in mathematics, which he says confirms the argument.",
-    "Brian Greene, a physics and mathematics professor at Columbia University, said the result could be one of the most important mathematical advances of the last two centuries, but only if it holds up. Abhishek Saha, a mathematics professor at Queen Mary University of London, said he thought the proof had a very good chance of being correct.",
-    "NPR reported that this is the second time in recent months that a technology company, or someone connected to one, has claimed to have solved a famous unsolved problem in mathematics."
-   ],
-   "cav": "The sources do not report that independent mathematicians have checked the proof itself. Greene’s and Saha’s views are conditional or probabilistic, and the Lean code is Alpöge’s claim, not something the sources verified. NPR’s reference to an earlier claim is given without details.",
-   "op": "Extraordinary claims of mathematical proof should meet the same standard as any other, regardless of who makes them or what company profits. Publishing checkable code is a sensible step, but the real test is scrutiny by independent experts, not a company’s timing around its market debut. Until that scrutiny happens, this remains an assertion.",
-   "confirmed": true,
-   "src": [
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
-    ],
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/21/anthropic-worker-claims-to-have-solved-famed-167-year-old-maths-problem-with-help-of-ai"
-    ]
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg",
-   "img_outlet": "NPR",
-   "img_link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
-  },
-  {
-   "id": "w-f356dda974c38fa7",
-   "member_ids": [
-    "w-f356dda974c38fa7"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-21T12:12:56+00:00",
-   "t": "EU and Indonesia sign free trade deal after a decade of talks",
-   "s": "The European Union and Indonesia signed trade and investment agreements on Saturday, closing out a decade of negotiations. Both sides still have to complete ratification before the deals can take effect.",
-   "p": [
-    "Brussels says the accords will cut tariffs on 98.5% of goods shipped from the EU to Indonesia. The European Commission described the agreements as a source of openings for companies on both sides.",
-    "The Commission projected that EU exports to the Southeast Asian country could climb by almost 40% over 15 years. It also estimated that EU exporters could avoid more than €600 million in customs duties each year, with machinery and motor vehicles expected to gain the most.",
-    "Investment prospects in Indonesia were also flagged, specifically in electric vehicles, electronics and pharmaceuticals, according to the Commission.",
-    "Bilateral trade reached €28.9 billion in 2025. EU exports accounted for €10.2 billion of that total, while EU imports made up €18.7 billion.",
-    "Ursula von der Leyen, the Commission president, hailed the occasion as a “momentous day”. She said the pact ranks among the EU’s most ambitious Asian agreements and linked a bloc of 450 million people with Southeast Asia’s largest economy. She added that nearly all duties between the two would be lifted.",
-    "Before the deals take effect, the European Parliament has to give its approval, and Indonesia must go through its own domestic ratification steps. Application could begin in the early months of the coming year, but only if both steps are completed."
-   ],
-   "cav": "The export gains, savings and tariff figures are Commission projections or statements and are not independently verified; the sources do not explain how they were calculated. Because both sides must still ratify, the start date is conditional.",
-   "op": "Trade agreements of this scale should be judged on published text and independent scrutiny, not on official enthusiasm. The European Parliament’s vote is the real test of accountability, and MEPs should demand the methodology behind the projected gains before approving anything. Promised benefits for businesses and farmers mean little unless the public can check them.",
-   "confirmed": false,
-   "src": [
-    [
-     "Euronews",
-     "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
-    ]
-   ]
-  },
-  {
-   "id": "w-9f05831bc14fd72c",
-   "member_ids": [
-    "w-9f05831bc14fd72c"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-21T11:02:49+00:00",
-   "t": "Russian missiles and drone land in Poland as NATO weighs its response",
-   "s": "Warsaw says two missiles and a jet-powered drone came down on its soil during a massive Russian overnight assault on Ukraine, and it questions whether the fall was deliberate. Invoking NATO’s collective defence clause requires a high bar.",
-   "p": [
-    "Defence Minister Wladyslaw Kosiniak-Kamysz briefed reporters in the Polish capital on the debris sites. According to his account, two missiles and a drone landed in the southeast at Nowy Lipowiec, Rudnik nad Sanem and Molodycz during Russia’s overnight strike on November 20. Al Jazeera reported that security cameras recorded a suspected Russian missile hitting Polish ground. No immediate injuries or damage were reported.",
-    "Officials believe one missile fell roughly 35 km from the site of European military exercises. A Kh-101 cruise missile is said to have come down about 50 km inside Poland from the Ukrainian frontier, while a drone believed to be jet-powered struck about 30 km from that border. These distance estimates are preliminary, and the reporting does not show independent verification.",
-    "The attack formed part of one of Russia’s largest barrages against Ukraine. President Volodymyr Zelenskyy put the launch count at more than 400 drones and at least 110 missiles, among them 27 ballistic missiles, some carrying cluster warheads. He said at least eight civilians died and more than two dozen were injured.",
-    "Prime Minister Donald Tusk suggested Moscow carried out a deliberate provocation, and he argued it may have been timed to overlap with the European drill in Poland. That two-week exercise, which started on November 9, is meant to prepare troops for a possible post-war stabilisation role in Ukraine. Tusk’s intent claim is Warsaw’s position, not an established finding.",
-    "Commentators in Al Jazeera’s coverage framed the episode as part of a longer pattern. Scott Lucas of University College Dublin described Moscow probing how far it can push, while Harry Nedelcu of Rasmussen Global cited earlier incursions affecting Poland, Romania and non-NATO Moldova. Their reading of Russian motives is interpretation, not confirmed intent.",
-    "The timing also intersects with diplomacy. Envoys Jared Kushner and Steve Witkoff have been talking with Kyiv and Moscow, and Emmanuel Macron urged a fresh look at Ukraine’s NATO prospects after meeting in Berlin. Deputy Foreign Minister Sergey Ryabkov rejected any “quasi membership” arrangement. Lucas suggested the missile incident may be linked to these talks, a connection he offered as plausible rather than proven.",
-    "NATO chief Mark Rutte labelled the event a serious breach of Polish airspace and plans a visit to Poland this weekend. British Prime Minister Andy Burnham described it as completely unacceptable, and Germany’s Foreign Ministry called it another instance of Russian provocation. US President Donald Trump had earlier minimised the incursions, claiming Putin’s drones had strayed into Poland by accident."
-   ],
-   "cav": "The sources do not establish whether the missiles were fired deliberately; that rests on Polish officials’ assessment and analysts’ interpretation. Impact locations and distances are preliminary official estimates, and the evidence contains no Russian response to the Polish claims.",
-   "op": "Whether Moscow meant it matters less than the pattern: missiles and drones crossing a NATO border while peace talks advance with Europe on the sidelines. Allies should demand a transparent, public account of every incursion, because ambiguity repeated long enough becomes policy by default.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-8b7bc02a677fcabd",
-   "member_ids": [
-    "w-8b7bc02a677fcabd"
-   ],
-   "section": "Climate",
-   "published_at": "2026-11-21T09:52:11+00:00",
-   "t": "Fossil fuel wording splits COP31 talks in Turkey as climate deal stalls overnight",
-   "s": "Negotiations at the COP31 climate summit in Turkey ran through the night without agreement on a new global deal, with a bloc of countries objecting to a draft that does not mention cutting fossil fuel demand.",
-   "p": [
-    "Talks at the COP31 UN climate summit in Turkey were deadlocked after running through the night, with countries still unable to agree a new global climate agreement, according to BBC reporting.",
-    "The dispute centres on fossil fuels. A group of countries led by France and Panama pushed back late on Friday against a draft that contained no reference to reducing the world’s demand for fossil fuels. Panama’s environment minister, Juan Carlos Navarro, said such a text was unacceptable, and France’s ecological transition minister, Monique Barbut, said the world could not claim progress on temperature limits while carrying on as before.",
-    "Barbut also criticised several references to carbon capture, use and storage, which she described as a licence for countries to keep burning oil and gas. Ministers from island states and a group of EU members, including Spain, Belgium, Sweden and Finland, have reportedly backed the push to restore a commitment to move away from oil, gas and coal. Fossil fuel producers led by Saudi Arabia had pressed for its removal.",
-    "The draft, known as the Antalya Accords, acknowledges for the first time at a COP that the goal of keeping warming below 1.5C has been missed. Scientists cited in the reporting warn that millions more people will be exposed to sea level rise and extreme heat beyond that threshold.",
-    "Money is another flashpoint. The African Group of negotiators is seeking firmer commitments on finance for adaptation. Earlier drafts included a target to raise such funding to $120bn by 2035, but that figure has reportedly been removed. Zanetor Agyeman Rawlings, Ghana’s environment minister and chair of the group, said its members had not come to the summit to ask for charity.",
-    "Chris Bowen, Australia’s climate change and energy minister, who is leading the negotiations, argued that this summit should focus on implementation and the shift to clean energy. A proposal said to be under discussion would keep fossil fuels off the table in exchange for Saudi Arabia and other petro-states pledging that 35% of their energy consumption comes from electricity by 2035, though the BBC says this is only understood to be on the table.",
-    "Observers, including climate activists and environmental groups, have been sharply critical. Mohamed Adow of Powershift Africa called it the worst COP ever. One observer said Turkey, as host, had become unpopular after its lead negotiator walked out of crucial talks, leaving many countries feeling disrespected. That account is second-hand.",
-    "A final text was expected to be published on Saturday."
-   ],
-   "cav": "The sources do not confirm whether the final text will be published on Saturday or what it will contain. The 35% electricity proposal is described as understood rather than confirmed, the claim about the Turkish negotiator’s walkout comes from an unnamed observer, and the BBC says other EU nations were asked to join the objection but declined.",
-   "op": "A climate agreement that cannot name the fuel driving the crisis invites suspicion about who shaped it. Negotiators should put fossil fuel commitments, finance figures and deadlines in writing, in public view, so citizens can check whether promises are kept. Vague wording is itself a political choice, and it deserves to be defended openly.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
-  },
-  {
-   "id": "w-d6c46e9b6fd915d5",
-   "member_ids": [
-    "w-d6c46e9b6fd915d5"
-   ],
-   "section": "Middle East",
-   "published_at": "2026-11-21T05:00:49+00:00",
-   "t": "Displaced families in Gaza brace for another winter as floods, blocked aid and a stalled ceasefire deepen misery",
-   "s": "Heavy rain has made life in Gaza’s tent camps harsher, and a sandbank collapse earlier this month killed four people. Aid officials and the UN warn that the coming months will bring more hardship.",
-   "p": [
-    "Abdul Karim al-Sahhar, 30, was awake during a wet, windy night earlier this month when a sandbank gave way metres from his makeshift tent in al-Mawasi, a coastal zone in southern Gaza. Four people died in the collapse. He described the scene as deeply frightening and said he was so shocked that his legs went numb. He reported finding his mother buried under sand, and seeing others trapped under sand and rocks, none of them moving. The neighbouring tent vanished entirely.",
-    "Al-Sahhar’s family came originally from Beit Hanoun in northern Gaza, an area that was almost entirely destroyed in the early weeks of the two-year war. He is a former municipal rubbish worker who now has no job, no income and no savings. He told the Guardian that his family is afraid, and that he has nowhere else to turn. Rents have risen sharply, and he does not know how he would pay one.",
-    "The UN says recent rains affected more than 220,000 people and damaged over 40,000 shelters. Al-Mawasi is packed with tents sheltering some of the nearly 2 million people displaced across Gaza, and sanitation, water and other basics are scarce. Wadhah Hubaishi, a regional director of the World Central Kitchen, said winter in Gaza is always severe and that experts expect more tragedies like this one as conditions worsen. Aid officials said the poorest, disabled, elderly and sick would suffer most.",
-    "The US-backed Board of Peace, which was created to put the October 2025 ceasefire into practice, said last week that Israel and Hamas had not kept their commitments. Its wider plan calls for Hamas to disarm, Israeli troops to pull back and reconstruction to start, but it has stalled. Gaza’s health ministry says more than 1,600 Palestinians have been killed by Israeli fire since the ceasefire. Israeli forces hold about 70% of the territory, and Israel has said it will not withdraw until Hamas disarms.",
-    "Under the ceasefire deal, Israel agreed to let 18,000 trucks into Gaza each month. Data obtained by the Israeli newspaper Haaretz, as cited by the Guardian, shows the monthly figure has never passed 13,000 since March, and in some months fewer than 5,000 entered. Israeli officials say more than 93,000 tents and over 8,600 trucks carrying winter supplies and equipment have arrived. The UN, however, says approval requirements and limited crossing capacity delay supplies, and NGOs say many aid trucks carry only partial loads.",
-    "The UN estimates that up to two-thirds of Gaza’s population will face severe food shortages through the end of 2026, down only slightly from 77% at the end of 2025. Many goods are on sale but out of reach for most residents. Emad al-Ghoul, secretary general of the North Gaza Chamber of Commerce, said about 95% of local industry has stopped operating. An August UN geospatial assessment found that only 3% of Gaza’s farmland is still accessible and undamaged.",
-    "Last week Australia, Canada, the UK and Italy called on Israel to admit 150,000 tents and other vital supplies waiting at the border before winter."
-   ],
-   "cav": "The account of the sandbank collapse rests largely on al-Sahhar’s own description. Israeli figures on tents and trucks conflict with the Haaretz data and NGO claims about partial loads, and the sources do not reconcile them. The 1,600 deaths figure is attributed to Gaza’s health ministry and is not independently verified here.",
-   "op": "Aid counted on paper but stuck at crossings does not keep families dry or fed. A ceasefire whose backers say nothing visible has been delivered cannot be judged by promises alone. Publishing what enters Gaza, when and in what quantity should be a condition of the deal, not an afterthought.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/26201be87e284f4ecb47614de8f4d5aef7618855/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=eaa8f56b59cc6345ed8ac61085fe8b01",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery"
-  },
-  {
-   "id": "w-8ec5238f4b6c2fda",
-   "member_ids": [
-    "w-8ec5238f4b6c2fda",
-    "w-12139eecb9ba95de",
-    "w-6701fc72f13b1f87"
-   ],
-   "section": "Business",
-   "published_at": "2026-11-21T03:49:09+00:00",
-   "t": "US judge approves Bayer’s $7.25bn Roundup cancer settlement",
-   "s": "A Missouri judge has approved Bayer’s $7.25bn settlement of lawsuits claiming its Roundup weedkiller causes cancer, a deal that covers current and future claimants. Lawyers for some victims say the individual payments are too low.",
-   "p": [
-    "Judge Timothy Boyer approved the agreement on Friday, finding it “fair, reasonable and adequate”, according to reports from the BBC, DW and the Guardian. The settlement is designed to resolve most current and future Roundup claims in the United States.",
-    "The payments are aimed at people who say they developed non-Hodgkin lymphoma after using Roundup, and at people who may be diagnosed later after earlier exposure. Individual awards are expected to range from about $10,000 to $165,000, depending on factors such as how often the product was used, when the cancer was diagnosed and how severe the illness is. Bayer will pay into a fund over up to 21 years.",
-    "Some attorneys objected that the amounts were too low, arguing that earlier claimants had been paid more. The judge rejected those objections, saying that delays could leave seriously ill patients, including those with terminal cancer, waiting an indeterminate number of years. Christopher Seeger, a lawyer for many plaintiffs, welcomed the ruling and said he wanted the relief to reach victims as quickly as possible.",
-    "The approval follows a ruling by the US Supreme Court in June, which sided with Bayer by a 7-2 vote. According to the BBC, the court held that Bayer cannot be sued in state courts because federal regulations do not require a cancer warning label. The Guardian reported that the decision barred failure-to-warn claims brought under state law, which weakened a central argument in many lawsuits.",
-    "Bayer bought Monsanto, which developed Roundup, in 2018 for $63bn. Bayer’s chief executive, Bill Anderson, described the approval as a decisive milestone in managing pending and future litigation. The company has long said that glyphosate is safe and that studies have not shown it causes cancer. The International Agency for Research on Cancer classified glyphosate as a probable human carcinogen in 2015, a finding Bayer and the US Environmental Protection Agency have disputed.",
-    "According to Bayer, about 200 cases are still being litigated in federal courts outside the settlement. The Guardian reported that Bayer’s shares had fallen 46% since the Monsanto takeover, and that the company had previously paid roughly $10bn to resolve Roundup litigation."
-   ],
-   "cav": "The sources disagree on the number of claims: the Guardian cites about 65,000, while DW says around 200,000. Payout figures and the euro conversion also vary between outlets, and the objecting lawyers’ view comes second-hand. None of the sources gives the total number of eventual recipients.",
-   "op": "A court’s approval is not the same as justice for the people waiting to be paid. Transparency about how awards are calculated, and about how fast money actually moves, matters as much as the headline total. The courts should keep scrutinising whether a company that shaped the law this way is also paying victims fairly.",
-   "confirmed": true,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cwvg21gyl650o"
-    ],
-    [
-     "DW",
-     "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39e3/live/c6e1e8a0-e559-11f1-b23f-abf0ac4ebbc0.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o"
-  },
-  {
-   "id": "w-c9d4845ad8d2dc55",
-   "member_ids": [
-    "w-c9d4845ad8d2dc55"
-   ],
-   "section": "Europe",
-   "published_at": "2026-11-21T02:41:14+00:00",
-   "t": "Russian missiles and drone crash in Poland during Nato exercises, prompting European alarm",
-   "s": "Two Russian cruise missiles and a jet-powered drone came down in Poland on Friday, according to Polish officials, drawing sharp condemnation from European leaders and a rebuke from Nato.",
-   "p": [
-    "Polish officials said two Russian cruise missiles and a jet-powered drone crashed in the country on Friday, during major military exercises held by Nato members. The missiles fell while Russia was carrying out air attacks on Ukraine, according to the same officials. Nato secretary general Mark Rutte described the incident as a serious breach of Polish airspace and tied it to Russia’s ongoing war in Ukraine. He was expected to travel to Poland over the weekend in response.",
-    "The debris was reported in Nowy Lipowiec, Mołodycz and Rudnik nad Sanem in south-eastern Poland, located roughly 50km to 60km from Nowa Dęba, where the exercises are under way. Poland’s defence minister, Władysław Kosiniak-Kamysz, said he believed the timing was “not accidental”, given that the drills involve troops from 11 countries in the so-called coalition of the willing.",
-    "Prime Minister Donald Tusk called the incident an intentional provocation by Russia. He said he had spoken with Rutte, who shared his view that the attack the night before the drills did not appear to be a coincidence. Tusk warned that the months ahead would bring serious challenges for everyone. The same day, the defence ministers of Britain, France, Estonia, Lithuania and Poland toured the training site at Nowa Dęba, where about 2,800 soldiers from 10 countries are training, supported by several thousand Polish logistics troops.",
-    "French president Emmanuel Macron argued that Russia’s conduct in Ukraine and across Europe amounted to an “irresponsible gamble” that would isolate Moscow further and harden European unity. He made the remarks on X after Russia struck Ukraine heavily on Friday.",
-    "Ukraine’s president, Volodymyr Zelenskyy, said the Russian attack was one of the largest since the full-scale invasion in 2022. He said at least eight people were killed and nearly 30 injured across Ukraine that day, and that the strikes hit civilian infrastructure. He argued that Vladimir Putin had pressed ahead after what he called weak meetings with US President Donald Trump and China’s Xi Jinping.",
-    "Trump told reporters that Putin wanted to end the war and described a “very good” personal relationship with him. He did not directly answer whether he regards Putin as a friend of the United States. Zelenskyy, in an interview broadcast by CNN, called Putin a killer.",
-    "Separately, Denmark’s foreign minister, Lars Løkke Rasmussen, said Russia’s defence attaché in Copenhagen would be expelled within seven days. Danish police said they had prevented an attempt by Russian intelligence services to kill the US-Ukrainian rapper Kyivstoner in September, before a planned performance in Denmark. Rasmussen also said Denmark was considering suspending Schengen visas for Russians."
-   ],
-   "cav": "The sources attribute the airspace incident to Russia mainly through Polish officials and political leaders; the evidence does not include a Russian response or independent confirmation of the missiles’ origin or intent. The Danish case rests on police statements about an attempt that was averted, and the evidence gives no further details of who was charged.",
-   "op": "Allegations of deliberate Russian provocation on NATO territory demand more than political statements. Poland and its allies should publish what they know about the trajectory and origin of the missiles, so that a serious response rests on evidence the public can examine.",
-   "confirmed": false,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/ee4e8d3bfa15abf02070d9f05b07ca54aee4c586/499_0_4731_3787/master/4731.jpg?width=140&quality=85&auto=format&fit=max&s=4639cbd54c3592405bcb2695cd92507c",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland"
-  },
-  {
-   "id": "w-0ec53dc221cfaae5",
-   "member_ids": [
-    "w-0ec53dc221cfaae5"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-21T01:02:08+00:00",
-   "t": "Trump calls US air traffic control systems ‘ancient’ as he presses Congress for upgrade funds",
-   "s": "President Donald Trump has described the air traffic control systems that manage US flights as “ancient” and is backing a request for $50bn to rebuild them. His comments follow a four-hour ground stop on 13 November that halted flights across the country.",
-   "p": [
-    "Speaking to reporters, Trump said the systems were “obsolete” and at least 55 years old, and that some towers were not in good shape structurally. He said the country’s skies were safe, but argued that the reason was that flights were handled slowly, which he said is why travellers face long waits at airports.",
-    "The remarks came about a week after the ground stop, which the BBC reports was the longest such halt in US flight operations since the attacks of 11 September 2001. The Federal Aviation Administration said it planned to share more information about what led to the stoppage.",
-    "Earlier, senior aviation officials in the administration had attributed the cause to ageing equipment becoming overloaded, along with recent system updates. US Transportation Secretary Sean Duffy has said a government contractor was upgrading an aviation telecommunications network, replacing copper lines with fibre and installing a router. According to Duffy’s account, the router began flooding other parts of the system with connection attempts, and 17 of the 22 air route traffic control centres in the US lost some voice and ground communications.",
-    "The aviation authority reportedly took 45 minutes to pinpoint the source of the problem, partly because maintenance records are kept manually on paper. It is still unclear whether the root cause was the wire replacement or a fault in the router.",
-    "According to flight tracking data cited by the BBC, more than 15,000 US flights were delayed or cancelled on the day of the outage, affecting an estimated 1.5 million passengers. Disruption continued over the following days, and some passengers were stuck on aircraft on the tarmac. Some flights from the UK and Europe were also cancelled.",
-    "Asked whether the ground stop was linked to other technology outages that same week, Trump said they were “all separate events”, adding that many companies were upgrading and that upgrades can cause problems.",
-    "Trump said the transportation department had been allotted $12bn, which he called insufficient. He said he had told Duffy to spend only as much as necessary to keep the existing system running until a new one is built. He again accused Congress, which is controlled by Republicans, of blocking the money, and said lawmakers now seemed receptive to funding after the disruption.",
-    "Transportation leaders have repeatedly urged Congress for billions of dollars and have warned that outages like this one will continue without a broader overhaul."
-   ],
-   "cav": "The cause of the outage is still disputed in detail: officials earlier pointed to overloaded older equipment and upgrades, while Duffy’s account centres on the contractor’s work, and it is unclear whether the wire swap or the router was at fault. The flight and passenger figures come from flight tracking data, and Trump’s description of the systems’ age and condition is his own claim.",
-   "op": "A failure that stranded travellers and disrupted international schedules deserves a full, public account before anyone asks for $50bn. Dismissing the link to other outages as “all separate events” does not answer the question. Transparency about the cause should come before, not after, the spending decision.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cr930ney9d1po"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/fa18ad10-e533-11f1-bffc-2f34a47495d4.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cr930ney9d1po"
-  },
-  {
-   "id": "w-f2b965acf30650c0",
-   "member_ids": [
-    "w-f2b965acf30650c0",
-    "w-1f55bc39dbfcd608"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-21T00:16:26+00:00",
-   "t": "Trump's White House briefing becomes an informal test of his 2028 heirs",
-   "s": "At a press conference on Friday about his Asia trip, President Trump put Vice-President JD Vance and Secretary of State Marco Rubio in front of reporters, and Stephen Miller drew attention with a loud tribute to the president. The Guardian described the event as an early audition for the 2028 race.",
-   "p": [
-    "President Donald Trump held a press conference at the White House to highlight his trip to Asia, which included a trilateral meeting with the leaders of China and Russia. According to the Guardian, the event was also a first look at the field for the 2028 presidential election, with Vance and Rubio standing behind the president at the lectern.",
-    "The Guardian reported that Vance is widely expected to seek the Republican nomination, though Rubio placed first in the latest Emerson College national poll it cited. Stephen Miller, the White House official described in the article as a recently appointed chief of ideological zealotry, also spoke, praising Trump's record in lavish terms and suggesting Trump had more achievements than any previous president.",
-    "Early in the event, reporters said they could barely hear Trump over an air conditioning unit, and a sound adjustment left his voice echoing. The Guardian's account of the session is written in a satirical style, with its描述 of the two men's body language, such as Rubio fidgeting and Vance smiling, reflecting the columnist's interpretation rather than a documented record.",
-    "Trump praised the Chinese leader Xi Jinping for greeting him at the airport and said the US, Russia and China hold most of the world's nuclear weapons, a figure the Guardian reported as 92 per cent of global nuclear power. Rubio defended engagement with the three countries, calling the idea that their leaders should not talk regularly “absurd” and “dangerous”.",
-    "When a reporter asked Trump which of his two colleagues would make a better president, he did not answer. Vance was asked whether the war in Iran had been worth it, given its link to the loss of the Senate, and said the president makes the decisions and had said he would do it again. The Guardian characterised this as careful positioning ahead of the campaign.",
-    "NPR published a short summary of the same press conference, describing it as wide-ranging and following Trump's meetings with Xi and Russian President Vladimir Putin. Its summary does not include the details of the exchanges reported by the Guardian, and the two outlets date the event differently, with NPR's entry dated the day before the Guardian's report."
-   ],
-   "cav": "The Guardian piece is a column with a satirical tone, so its descriptions of body language, mood and motives are the writer's reading and not verified fact. The NPR summary is brief and does not confirm the specific exchanges, and the publication dates differ by one day. Figures such as the poll result and the nuclear share are attributed to the sources and were not independently checked.",
-   "op": "Succession in a democracy should be settled by voters in open contests, not by ministers and advisers competing for a president's approval at a podium. When officials are pressed to back a war they privately doubt, and reporters' questions go unanswered, the public loses the information it needs to judge both policy and the race. Transparency should come first.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio"
-    ],
-    [
-     "NPR",
-     "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=140&quality=85&auto=format&fit=max&s=efa2f21711e4d5e1709b16fb42ade6ae",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio"
-  },
-  {
-   "id": "w-930b7109b7008a34",
-   "member_ids": [
-    "w-930b7109b7008a34"
-   ],
-   "section": "Science",
-   "published_at": "2026-11-20T23:08:57+00:00",
-   "t": "Anthropic employee says Claude helped him prove the Riemann hypothesis, a claim still awaiting verification",
-   "s": "A mathematician who works at Anthropic says he used the company’s Claude chatbot to produce a proof of the Riemann hypothesis. Experts say checking the work will take considerable time.",
-   "p": [
-    "Levent Alpöge, an Anthropic employee and mathematician, said on Friday that he had used the company’s Claude chatbot to prove the Riemann hypothesis, one of the best-known unsolved problems in mathematics. According to the BBC, he said the work took about six weeks and that he used a non-public version of Claude to build a detailed proof.",
-    "The hypothesis, proposed by Bernhard Riemann nearly 170 years ago, concerns the distribution of prime numbers along the number line. It is widely regarded as the most famous problem in the field, largely because of its difficulty. Prime numbers underpin much of higher mathematics, so a genuine breakthrough would have wide implications.",
-    "Alpöge described the result in grand terms, saying it was “one dawn across science of something far greater”. He said the full proof, written in Lean, a computer language used to confirm mathematical proofs, runs to more than 250,000 pages.",
-    "The announcement came a day after Anthropic made its debut on the US stock market. Alpöge said he had messaged Anthropic chief executive Dario Amodei on Sunday to ask how the discovery could be announced. He acknowledged that the timing was poor, saying that if he could have, he would have finished the work much earlier. He rejected the idea that the timing was a cynical move, calling that suspicion false.",
-    "Terrance Tao, a prominent mathematician, said on Friday that verification was still some way off. He said the process of digesting the proof would take time, though he noted that a human author was available to help with the task.",
-    "The claim follows a wave of announcements from technology companies. OpenAI said in September that employees using a non-public version of its tools had solved part of the Navier-Stokes equations, which describe how fluids move, in 88 hours, with more than 10,000 computer-programmed bots assisting. That proof has not been confirmed as accurate and drew criticism from parts of the academic mathematics community. A group of mathematicians later wrote that such boasts were “detrimental to the science of mathematics”. A month after that, OpenAI released claimed solutions or progress on 372 further advanced problems, which experts will need months to assess."
-   ],
-   "cav": "The Riemann proof is so far only Alpöge’s claim, reported by the BBC, and its correctness has not been established. The article does not say whether any outside mathematician has examined the full text, and the timing of the announcement is disputed by the author himself.",
-   "op": "Extraordinary claims need open scrutiny before they earn applause. Companies that profit from such tools should not be allowed to announce breakthroughs ahead of expert verification, and the public deserves transparent checking of every proof, however it was made.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
-  },
-  {
-   "id": "w-9a38142955443e68",
-   "member_ids": [
-    "w-9a38142955443e68",
-    "w-2952a9f1bbe21693"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-20T21:47:41+00:00",
-   "t": "Trump threatens ‘tremendous penalties’ on US tech firms building datacenters abroad",
-   "s": "President Donald Trump said on Friday that American tech companies building datacenters outside the US would face “tremendous penalties”, though he offered no details. He made the remarks at a wide-ranging White House press conference.",
-   "p": [
-    "Trump said he did not want US companies to build datacenters in other countries, arguing that China would take them if they were allowed to. He told reporters he had not yet informed his own officials about the plan.",
-    "At the same briefing, Trump said he would “look into” a report that Iran had been planning to detonate a “dirty bomb” in Washington DC. He described the report as a rumour and said that if Iran did so, “we’re going to fight.”",
-    "Trump also backed Vice-President JD Vance, whose comments had blamed Republican losses in the midterm elections on the Iran war. Asked about reports of a rift between them, Trump said Vance’s remark was “a very accurate statement”.",
-    "On foreign leaders, Trump spoke warmly about Russian President Vladimir Putin and Chinese President Xi Jinping, whom he met at the Apec summit on Thursday. He said he had “fantastic relationships” with both, and was asked whether Putin could be considered a friend given Russia’s close ties to Iran.",
-    "On datacenters at home, Trump said Americans should welcome the facilities but that communities should seek payments from developers. “Make them pay your community,” he said, adding that they should not be shut out.",
-    "The remarks come as many Americans oppose datacenters being built near their homes. The tech industry has responded by promising fewer government handouts, more transparency and more money for towns that host the facilities.",
-    "Separately, the administration on Monday issued new rules restricting remote access to advanced US computing chips, which it said were meant to limit China’s ability to use US chips for training. A House committee said on Wednesday that the US had approved sales of nearly 900,000 chips to China over six months. The chipmaker Nvidia, in which Trump is an investor, has also drawn attention after its chief executive, Jensen Huang, was fired over an affair with a woman who was alleged to be spying for China."
-   ],
-   "cav": "The Guardian reports the penalties without any details, and Al Jazeera’s summary describes “a tremendous tax” instead, so the exact measure remains unclear. The dirty bomb report is unverified, and the chip sales figure comes from a House committee rather than a confirmed administration statement.",
-   "op": "Threatening punishment for companies without publishing a rule, a legal basis or a timetable is governance by remark. Businesses and communities deserve to know what the penalties would be before they make decisions that affect jobs and land. Clarity, not bluster, is what should be expected from the White House.",
-   "confirmed": true,
-   "src": [
-    [
-     "The Guardian",
-     "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-    ],
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss"
-    ]
-   ],
-   "img": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
-   "img_outlet": "The Guardian",
-   "img_link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-  },
-  {
-   "id": "w-1c5ff25894a97b57",
-   "member_ids": [
-    "w-1c5ff25894a97b57"
-   ],
-   "section": "Americas",
-   "published_at": "2026-11-20T21:05:07+00:00",
-   "t": "Trump defends Putin ties and warns data centres must stay in the US",
-   "s": "US President Donald Trump praised his recent trip to China and defended his relationship with Russia’s Vladimir Putin, while warning tech companies against building data centres overseas. The remarks came at a wide-ranging White House news conference on Friday.",
-   "p": [
-    "Trump described Putin as a “friend” during a recent summit that also included Chinese President Xi Jinping. When reporters at a White House briefing asked whether the Russian leader was in fact a friend to the United States, Trump did not give a direct answer. “I can’t speak to America,” he said, before adding that Putin had been “very nice” during the so-called Russia hoax investigation that followed his 2016 presidential campaign.",
-    "Trump said he had a very good relationship with Putin, and he linked the comments to Russia’s nuclear weapons capabilities. He also praised the summit as one of the most important international meetings in many years. According to his account, it was the first ever trilateral meeting between the leaders of the United States, Russia and China. He praised what he called a “first of its kind trilateral peace agreement”, although the reporting says no major deals were announced from the meeting.",
-    "On Friday, Trump played up his agreement with Putin and Xi to hold future discussions on nuclear proliferation, presenting it as a success of the summit.",
-    "The news conference also covered the war involving Iran, which is approaching its 10-month anniversary. Trump accused Tehran of negotiating in bad faith. He said Iran wanted a deal but not one acceptable to him, and that Washington wanted a real agreement rather than a fake one. He did not set out the terms he was seeking.",
-    "Several senior officials stood beside him in the briefing room, including Vice President JD Vance and Secretary of State Marco Rubio, both of whom were named as possible 2028 presidential contenders. Treasury Secretary Scott Bessent, Defence Secretary Hegseth and newly appointed White House chief of staff Stephen Miller were also present.",
-    "Trump denied he was upset with Vance, who had reportedly blamed the Iran war for the historic midterm losses suffered by Republicans. Trump said Vance’s statement was fine, adding that if asked, he would have said he would do the war again, and that the answer was yes. Vance said the president makes the decisions and that his job was to support him.",
-    "Trump warned US technology companies against building new data centres in other countries, saying they would face a “tremendous tax”. He said the country would not allow such facilities abroad because China would take them all, and that penalties would follow for companies that tried. He did not explain how the policy would be enforced and said he had not yet briefed his own officials on it. Al Jazeera said it had contacted the White House for comment and had not received a reply."
-   ],
-   "cav": "Trump’s claims about the summit, including that it was the first of its kind and produced a peace agreement, are his own characterisations and are not independently confirmed in the reporting. Vance’s midterm remarks are described second-hand. The data centre policy has no published details, and the White House had not responded at the time of reporting.",
-   "op": "A leader who praises a rival’s personal friendship while promising unexplained penalties for companies owes the public clear rules and clear reasons. Policy announced from a press room, before officials are briefed, is a warning sign for transparency. Governments should set out the terms before they threaten business.",
-   "confirmed": false,
-   "src": [
-    [
-     "Al Jazeera",
-     "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
-    ]
-   ]
-  },
-  {
-   "id": "w-1d859d9b959d0882",
-   "member_ids": [
-    "w-1d859d9b959d0882"
-   ],
-   "section": "Technology",
-   "published_at": "2026-11-20T20:54:12+00:00",
-   "t": "Trump threatens ban on US firms building data centres overseas",
-   "s": "US President Donald Trump has said American companies will not be allowed to build data centres abroad, threatening a “tremendous tax” on firms that do so. He gave few details, and it remains unclear how such a policy would work.",
-   "p": [
-    "Donald Trump said he would ban US companies from building data centres overseas, according to the BBC. He threatened a “tremendous tax” for technology firms that went ahead anyway. Speaking to reporters at a press briefing after returning from a trip to Asia, he said: “We’re going to keep it all in this country.”",
-    "The BBC reported that Trump gave little detail on the potential policy. He said other members of his cabinet were hearing about it for the first time, and he admitted he had not yet raised it with his own team. He linked the idea to China, saying Beijing would otherwise take all such facilities.",
-    "The BBC noted that it remains unclear how the policy would be enforced if it were introduced. Large technology companies, including Meta and Google, have already signed agreements to build data centres overseas.",
-    "The remarks came after data centres became a central issue in the midterm elections earlier in November. Many Democratic candidates promised tougher regulation of their construction, and concerns about noise pollution and energy consumption helped them win on 3 November, the BBC said.",
-    "Trump took a different line on the facilities themselves. He told reporters that communities should “take advantage” of data centres and make the companies pay them, rather than shut them out. He added that many places want them and have energy and other assets to offer.",
-    "The announcement also follows a separate move by Washington. On Monday, the US said firms would need a licence to buy advanced computer chips, so officials can monitor whether the chips are used to serve Chinese companies or smuggled into China. The BBC reported that this will affect South East Asian countries that have invested heavily in data centres.",
-    "According to the Pew Research Centre, cited by the BBC, there were about 3,000 data centres across the US as of April, with another 1,500 at various stages of approval and construction. Many are in rural areas.",
-    "The BBC also reported that Canada has moved to position itself as an alternative location, with less local pushback so far. Meta has broken ground on a data centre in Alberta, and Anthropic has signed a long-term agreement to lease a proposed site in Nova Scotia. In Finland, Google announced a €13bn ($15bn: £11bn) infrastructure investment in September, including funding for three data centres. The BBC said building work on two of them was halted last month over concerns about clearing more than 300 hectares of forest. Trump singled out the Finland project, saying his administration was “not allowing that to happen.”"
-   ],
-   "cav": "The source is a single BBC report and the policy has not been published or formally defined. The BBC says it is unclear how enforcement would work, and the claim that other officials had not been briefed comes from Trump's own remarks.",
-   "op": "A major economic policy should not be announced through off-the-cuff remarks to reporters. Companies, allies and voters need written rules, legal authority and a clear enforcement mechanism. Until those exist, a threatened “tremendous tax” is a headline, not a policy.",
-   "confirmed": false,
-   "src": [
-    [
-     "BBC News",
-     "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
-    ]
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
-   "img_outlet": "BBC News",
-   "img_link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
-  },
-  {
-   "id": "w-276e85c44bc9fd69",
-   "member_ids": [
-    "w-276e85c44bc9fd69"
-   ],
-   "section": "Climate",
-   "published_at": "2026-11-20T20:31:00+00:00",
-   "t": "COP31 enters final phase in Antalya with no deal yet and a draft that omits fossil fuel phaseout",
-   "s": "The UN climate summit in Antalya, Turkey, was running past its scheduled close on Friday with no agreement, after a new draft declaration left out any mention of phasing out fossil fuels. According to DW, talks could continue into the weekend.",
-   "p": [
-    "Delegates from nearly 200 countries gathered in Antalya for the closing stage of the COP31 climate summit, after about two weeks of negotiations. DW reported that countries remain divided on how to tackle global warming.",
-    "A new draft declaration does not mention phasing out fossil fuels, which DW describes as the main drivers of climate change. Campaigners quoted by the broadcaster called the omission a step backwards and a clear regression.",
-    "Late on Friday, a plenary session began well after its official closing time. Turkish presidency's opening address was partly drowned out by a protester who shouted objections in English, and the chamber applauded.",
-    "COP31 President Murat Kurum, who is also Turkey's environment minister, told the plenary that negotiators had been working for days to find common ground and hailed the progress made. The plenary also noted that several of the more ambitious parts of the political declaration were still incomplete. Several national delegates used the session to complain about slow progress, and in some cases what they described as backsliding.",
-    "Ethiopia, which will host next year's summit, confirmed its plans during the same session. Foreign minister Gedion Timothewos, who will preside over COP32, described the process as a long-distance race rather than a sprint, and said Addis Ababa would take up the work next year.",
-    "DW also reported that the IPCC has put on hold its next series of multi-year scientific assessments, at the urging of countries including Russia, Saudi Arabia and Iran. The broadcaster said the US government has not sent an official delegation, while American lawmakers, mayors and governors travelled to Turkey instead. US President Donald Trump, who has called global warming a hoax, did not send a formal delegation for the second year running.",
-    "Uganda's environment minister, Beatrice Atim Anywar, said funding promised by wealthy countries to help with climate impacts has not materialised, and that her country hopes oil and carbon credits will help close the gap.",
-    "Victor Menotti of the Demand Climate Justice NGO told DW that European governments appeared to be borrowing negotiating tactics associated with the Trump administration. He accused them of seeking to dilute their responsibilities and of expecting unrealistic commitments from developing countries. He also pointed to Germany's continued subsidies for coal and fossil fuels, and said the wealthier countries should act first."
-   ],
-   "cav": "All of the substance comes from a single DW report, and the summit outcome was still unresolved when it was published. The claims about Germany, the US posture and Uganda's funding are attributed to the people quoted and have not been independently checked in these sources.",
-   "op": "A climate deal that avoids naming fossil fuels fails the basic test of what the summit is for. Governments owe their citizens clear commitments and public scrutiny of what they agree to, not vague language settled after midnight. Delegates should put the phaseout back on the table and explain any refusal in public.",
-   "confirmed": false,
-   "src": [
-    [
-     "DW",
-     "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf"
-    ]
-   ]
   }
  ]
 }
