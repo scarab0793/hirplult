@@ -1,44 +1,16 @@
-# Hírpult – automatikus frissítés
+# Hírpult – hírgyűjtés és szerkesztés
 
-Napi négy futás (6, 10, 13 és 16 óra, angliai idő szerint), a `.github/workflows/update-news.yml` indítja.
+A GitHub Actions naponta négy alkalommal (6, 10, 13, 16 óra, UK idő) gyűjt RSS/Atom híreket a 119 forrásból. A sikeres és sikertelen források listája a data/news.json fájlban található. A data/news-history.json a nyers hírarchívum.
 
-## Lépések
+A fizetős Claude-cikkírás és backfill nincs a workflow-ban. A korábbi szkriptek megmaradnak, de automatikusan nem futnak. A duplikációszűrés továbbra is fut.
 
-1. `fetch_news.py` – 9 forrás RSS-e (a Telex a GitHub-futtatóról jelenleg 403-at ad, ilyenkor a korábbi adat marad). Eredmény: `data/news.json` (utolsó 72 óra) és `data/news-history.json`.
-2. `enrich_news.py` – futásonként legfeljebb 10 történetből cikket ír a Claude API-val (`claude-haiku-5-5`). A forráscikket letölti, és csak abból dolgozik. Eredmény: `data/editorial.json` (az RSS-ből készült cikkeket 10 napig tartja meg).
-3. `dedupe_editorial.py` – összevonja az ugyanarról az eseményről szóló cikkeket (nincs hálózat, nincs API-hívás). A hasonlóságot a `hp_dedupe.py` méri: a címből és a vezetőszövegből a ritka szavak (6 betűre vágva, ritkaság szerint súlyozva) koszinusz-hasonlósága, 0,5-ös küszöbbel és 72 órás ablakkal. Az összevonáskor a legjobb cikk marad (megírt, legtöbb forrású), a többi forrása hozzákerül, a címke újraszámolódik. A még nyers RSS-híreket is a már megírt cikk forrásaihoz fűzi. Csak az `rss-` azonosítójú cikkekhez nyúl, a kézzel írt katalóguscikkekhez soha. Az `enrich_news.py` is ugyanezt a szabályt használja: egy már megírt történetről nem ír második cikket.
-4. `backfill_news.py` – a régi katalóguscikkek bővítése. **Alapból szünetel** (`HIRPULT_BACKFILL_BATCH: '0'`), mert a katalóguscikkek készek. Ha be van kapcsolva, a meglévő „Amit érdemes tudni” és „Szubjektív nézőpont” dobozokat nem írja felül.
+## Szerkesztőségi publikálás
+- A nyers RSS nem kész cikk. Ellenőrizni kell az eredeti forrásokat, lehetőleg több független forrásból.
+- A data/editorial.json meglévő items tömbjét kell bővíteni a jelenlegi séma szerint, egyedi id, published_at, ai_edited: true, t, s, p, src, r, c, st, time, w, cav, op mezőkkel.
+- Megyei cikk esetén m mezőben a megye neve szerepeljen; sport esetén r: Sport.
+- Saját megfogalmazás, elegendő ellenőrzött tény, elkülönített vélemény. Ne legyen kitalált adat, forrás vagy képcredit.
+- Kép csak igazolt felhasználási joggal; egyébként üres img mező és a frontend saját illusztrációja.
+- A régi azonosítókat és forráslinkeket meg kell őrizni. Publikálás előtt JSON, egyedi azonosítók és forrásduplikációk ellenőrzése.
+- Közvetlen main commit friss blob SHA-val, utána visszaellenőrzés.
 
-Az oldal (`index.html`) a `data/news.json` és a `data/editorial.json` tartalmát futás közben fésüli össze, és elrejti azt a kártyát, amelynek forráslinkjét egy másik kártya már felsorolja (előbb a megírt, több forrású cikk marad).
-
-## Egy cikk elkészülése
-
-A modell cikket, „Amit érdemes tudni” és „Szubjektív nézőpont” dobozt, valamint rovatot ad vissza. A kód ezután ellenőrzi:
-
-- minden szám szerepel-e a forrásban, számjeggyel és betűvel kiírva is (a vélemény sem hozhat be újat; az „egy”, „hat”, „hét” szavakat nem vizsgálja),
-- minden idézet szó szerint megvan-e a forrásban és legfeljebb 12 szó,
-- a szöveg nem ismétli-e szó szerint a forrást (hatszavas részletek átfedése legfeljebb 15%),
-- a hossz arányos-e a forrás hosszával (nem tölt ki üres helyet),
-- nincs benne HTML/markdown és nincs benne utalás mesterséges intelligenciára.
-
-Ha valami nem stimmel, vagy a válasz nem érvényes JSON (például elírt idézőjel), a modell egyszer javíthat. Ha utána sem megy át, a cikk **nem jelenik meg**, a következő futásban még egyszer próbálkozik, azután lemond róla (`data/ai-state.json`). Olvashatatlan (fizetőfalas) forrásnál azonnal lemond, API-hívás nélkül.
-
-„Megerősített” címkét az kap, amelyiknél legalább két különböző kiadó vagy egy hivatalos forrás szerepel, egyébként „Jelentett”.
-
-## Beállítások (GitHub → Settings)
-
-| Név | Hol | Mire |
-| --- | --- | --- |
-| `ANTHROPIC_API_KEY` | Secrets and variables → Actions → **Secrets** | az API-kulcs |
-| `ANTHROPIC_WORKSPACE_ID` | ugyanott, **Variables** (nem kötelező) | csak akkor kell, ha a kulcs nincs egy munkaterülethez kötve és a hívás erről szóló hibát ad |
-
-| `HIRPULT_AI_MODEL` | ugyanott, **Variables** (nem kötelező) | a modell cseréje; üresen `claude-haiku-5-5` (például `claude-sonnet-5-5` erősebb, de drágább) |
-
-| `HIRPULT_AI_EFFORT` | ugyanott, **Variables** (nem kötelező) | a „gondolkodás” mennyisége: `low` (alap, olcsóbb), `medium` (a modell saját alapja), `high`, `xhigh`, `max` |
-
-Hasznos környezeti változók a szkriptekben: `HIRPULT_AI_MAX_ARTICLES` (cikk/futás, alap 6, itt 10, legfeljebb 12), `HIRPULT_AI_MAX_CALLS` (API-hívás/futás, alap 16, itt 24), `HIRPULT_KEEP_DAYS` (alap 10).
-
-## Próba
-
-`python scripts/test_hp_ai.py` – az ellenőrző szabályok és az API-kliens tesztjei (hálózat nélkül).
-Más ágról indított kézi futás (Actions → Run workflow) a saját ágára commitol, a `main`-hez nem nyúl.
+A szerkesztőségi munka ChatGPT-beszélgetésben történik, nem a GitHub Actions fizetős API-hívásaival. Az RSS ütemezés önmagában nem indít ChatGPT-cikkírást.
