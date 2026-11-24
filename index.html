@@ -190,7 +190,7 @@ function mlist(){
   el.innerHTML=h;bind();
 }
 function megye(){
-  app.innerHTML=_tabs()+`<div class="shell"><nav class="rail" aria-label="Megyék"><h2>Megye</h2>${MEGYEK.map(m=>`<button class="sec" data-m="${esc(m)}" aria-pressed="${m==mcty}">${esc(m)}</button>`).join("")}</nav><div class="main"><p class="note">Megyei és helyi hírek, 2026. július 30. és október 30. között. Minden tétel forráscikkre épül, a forrás a cikk alján látható.</p><input type="search" class="search" id="q2" placeholder="Keresés a megyei hírekben" aria-label="Keresés a megyei hírekben" value="${esc(term)}"><div id="list"></div></div></div>`;
+  app.innerHTML=_tabs()+`<div class="shell"><nav class="rail" aria-label="Megyék"><h2>Megye</h2>${MEGYEK.map(m=>`<button class="sec" data-m="${esc(m)}" aria-pressed="${m==mcty}">${esc(m)}</button>`).join("")}</nav><div class="main"><p class="note">Megyei és helyi hírek. Minden tétel forráscikkre épül, a forrás a cikk alján látható.</p><input type="search" class="search" id="q2" placeholder="Keresés a megyei hírekben" aria-label="Keresés a megyei hírekben" value="${esc(term)}"><div id="list"></div></div></div>`;
   bindTabs();
   app.querySelectorAll("[data-m]").forEach(b=>b.onclick=()=>{mcty=b.dataset.m;megye()});
   document.getElementById("q2").oninput=e=>{term=e.target.value.toLowerCase();mlist()};
@@ -231,7 +231,7 @@ async function loadNews(){
    const newer=overrides.get(items[n].id);
    if(newer)items[n]=mergeItem(items[n],newer);
   }
-  const known=new Set(items.map(i=>i.id));
+  const known=new Set(items.concat(COUNTY).map(i=>i.id));
   const incoming=[...(Array.isArray(live.items)?live.items:[]),...editorial]
    .filter(i=>i&&typeof i.id==="string"&&typeof i.t==="string"&&Array.isArray(i.src)&&i.src[0]&&/^https:\/\//.test(i.src[0][1]));
   // An editorial record supersedes its short RSS version.
@@ -240,7 +240,7 @@ async function loadNews(){
   // The same source article must not appear twice. A finished article lists every report it covers, so the
   // bare RSS cards of those reports (and any other item built on the same link) stay hidden.
   const urlKey=u=>String(u||"").trim().toLowerCase().replace(/^https?:\/\/(www\.)?/,"").replace(/[?#].*$/,"").replace(/\/+$/,"");
-  const seenUrls=new Set(items.flatMap(i=>(i.src||[]).map(s=>urlKey(s[1]))));
+  const seenUrls=new Set(items.concat(COUNTY).flatMap(i=>(i.src||[]).map(s=>urlKey(s[1]))));
   const ordered=[...unique.values()].sort((a,b)=>(!!b.ai_edited-!!a.ai_edited)||(b.src.length-a.src.length));
   for(const i of ordered){
    if(known.has(i.id)){
@@ -251,12 +251,19 @@ async function loadNews(){
    const keys=i.src.map(s=>urlKey(s[1]));
    if(keys.some(k=>seenUrls.has(k)))continue;
    keys.forEach(k=>seenUrls.add(k));
-   items.push(i);known.add(i.id);
+   if(i.m && i.ai_edited && Array.isArray(i.p) && i.p.join(" ").length>=800){
+    COUNTY.push(i);
+    COUNTY_ALL.push({...i,r:i.m});
+    if(!MEGYEK.includes(i.m))MEGYEK.push(i.m);
+   }else if(!i.m){items.push(i);}
+   known.add(i.id);
   }
   const months={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};
   const stamp=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t;}const m=String(i.time||"").match(/^(\S+)\s+(\d{1,2})/);return m&&months[m[1]]?Date.UTC(2026,months[m[1]]-1,Number(m[2])):0;};
   items.sort((a,b)=>stamp(b)-stamp(a));
-  if(!routeArticle()&&view==="nat"&&typeof home==="function")home();
+  COUNTY_ALL.sort((a,b)=>stamp(b)-stamp(a));
+  MEGYEK.splice(1,MEGYEK.length-1,...MEGYEK.slice(1).sort((a,b)=>a.localeCompare(b,"hu")));
+  if(!routeArticle()&&typeof home==="function")home();
  }catch(err){console.warn("News data unavailable",err);}
 }
 loadNews();
