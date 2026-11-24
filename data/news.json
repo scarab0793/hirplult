@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:11:03.548373+00:00",
+  "updated_at": "2026-11-24T20:13:16.424840+00:00",
   "sources_ok": [
     "Telex",
     "HVG",
@@ -11,16 +11,21 @@
     "Magyar Nemzet",
     "Magyar Hang",
     "Blikk",
+    "Kontroll",
     "Válasz Online",
     "Átlátszó",
+    "Magyar Narancs",
     "Portfolio",
     "Világgazdaság",
+    "Economx",
+    "Forbes",
     "Privátbankár",
     "Menedzsment Fórum",
     "Pénzcentrum",
     "Piac és Profit",
     "Agrárszektor",
     "Nemzeti Sport",
+    "Csakfoci",
     "NB1.hu",
     "FociClub",
     "Formula.hu",
@@ -29,12 +34,18 @@
     "WBASKET",
     "VLV",
     "Jégkorongblog",
+    "Qubit",
+    "HWSW",
     "PROHARDVER!",
     "National Geographic",
     "Csillagászat",
+    "Totalcar",
     "Vezess",
+    "IHO",
     "AIRportal",
+    "Magyar Közlöny",
     "Ügyészség",
+    "MÁV",
     "bama.hu",
     "pecsma.hu",
     "baon.hu",
@@ -54,7 +65,9 @@
     "dorogimedence.hu",
     "nool.hu",
     "3100.hu",
+    "budapestkornyeke.hu",
     "sonline.hu",
+    "kaposvarmost.hu",
     "szon.hu",
     "teol.hu",
     "szekszardihirek.hu",
@@ -65,65 +78,106 @@
   ],
   "sources_failed": [
     "Mandiner: ValueError: no recent valid entries",
-    "Infostart: ValueError: no advertised RSS/Atom feed",
+    "Infostart: ValueError: no recent valid entries",
     "ATV: HTTPError: HTTP Error 403: Forbidden",
-    "RTL: ValueError: no advertised RSS/Atom feed",
-    "Hír TV: ValueError: no advertised RSS/Atom feed",
+    "RTL: ValueError: no recent valid entries",
+    "Hír TV: ValueError: no recent valid entries",
     "Hirado.hu: HTTPError: HTTP Error 403: Forbidden",
-    "Kontroll: ValueError: no advertised RSS/Atom feed",
     "Direkt36: ValueError: no recent valid entries",
-    "Magyar Narancs: ValueError: no advertised RSS/Atom feed",
-    "MTI: ValueError: no advertised RSS/Atom feed",
-    "Economx: ValueError: no advertised RSS/Atom feed",
-    "Forbes: ValueError: no advertised RSS/Atom feed",
-    "G7: ValueError: no advertised RSS/Atom feed",
+    "MTI: ValueError: no recent valid entries",
+    "G7: ValueError: no recent valid entries",
     "Agroinform: HTTPError: HTTP Error 403: Forbidden",
     "M4 Sport: HTTPError: HTTP Error 403: Forbidden",
-    "Sportal: ValueError: no advertised RSS/Atom feed",
-    "Eurosport: ValueError: no advertised RSS/Atom feed",
-    "Csakfoci: ValueError: no advertised RSS/Atom feed",
+    "Sportal: ValueError: no recent valid entries",
+    "Eurosport: ValueError: no recent valid entries",
     "Rangadó: ValueError: no recent valid entries",
-    "RallyCafe: ValueError: no advertised RSS/Atom feed",
-    "BB1: ValueError: no advertised RSS/Atom feed",
+    "RallyCafe: ValueError: no recent valid entries",
+    "BB1: ValueError: no recent valid entries",
     "Handball.hu: HTTPError: HTTP Error 403: Forbidden",
-    "Magyar Olimpiai Bizottság: ValueError: no advertised RSS/Atom feed",
+    "Magyar Olimpiai Bizottság: ValueError: no recent valid entries",
     "MLSZ: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>",
-    "Qubit: ValueError: no advertised RSS/Atom feed",
-    "HWSW: ValueError: no advertised RSS/Atom feed",
-    "Rakéta: ValueError: no advertised RSS/Atom feed",
-    "Űrvilág: ValueError: no advertised RSS/Atom feed",
-    "Totalcar: ValueError: no advertised RSS/Atom feed",
-    "IHO: ValueError: no advertised RSS/Atom feed",
+    "Rakéta: ValueError: no recent valid entries",
+    "Űrvilág: ValueError: no recent valid entries",
     "Honvédelem: ValueError: no recent valid entries",
-    "Háború Művészete: ValueError: no advertised RSS/Atom feed",
-    "Rendőrség: ValueError: no advertised RSS/Atom feed",
-    "Katasztrófavédelem: ValueError: no advertised RSS/Atom feed",
-    "KSH: ValueError: no advertised RSS/Atom feed",
-    "MNB: ValueError: no advertised RSS/Atom feed",
-    "NAV: ValueError: no advertised RSS/Atom feed",
-    "Magyar Közlöny: ValueError: no advertised RSS/Atom feed",
-    "Országgyűlés: ValueError: no advertised RSS/Atom feed",
+    "Háború Művészete: ValueError: no recent valid entries",
+    "Rendőrség: ValueError: no recent valid entries",
+    "Katasztrófavédelem: ValueError: no recent valid entries",
+    "KSH: ValueError: no recent valid entries",
+    "MNB: ValueError: no recent valid entries",
+    "NAV: ValueError: no recent valid entries",
+    "Országgyűlés: ValueError: no recent valid entries",
     "Bíróságok: HTTPError: HTTP Error 403: Forbidden",
     "HungaroMet: ValueError: no recent valid entries",
     "Útinform: HTTPError: HTTP Error 403: Forbidden",
-    "MÁV: ValueError: no advertised RSS/Atom feed",
-    "BKK: ValueError: no advertised RSS/Atom feed",
-    "Nébih: ValueError: no advertised RSS/Atom feed",
-    "minap.hu: ValueError: no advertised RSS/Atom feed",
+    "BKK: ValueError: no recent valid entries",
+    "Nébih: ValueError: no recent valid entries",
+    "minap.hu: ValueError: no recent valid entries",
     "szegeder.hu: HTTPError: HTTP Error 403: Forbidden",
-    "fmc.hu: ValueError: no advertised RSS/Atom feed",
-    "dehir.hu: ValueError: no advertised RSS/Atom feed",
+    "fmc.hu: ValueError: no recent valid entries",
+    "dehir.hu: ValueError: no recent valid entries",
     "szolnoktv.hu: URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1011)>",
     "pestpilis.hu: ValueError: no recent valid entries",
-    "budapestkornyeke.hu: ValueError: no advertised RSS/Atom feed",
-    "kaposvarmost.hu: ValueError: no advertised RSS/Atom feed",
-    "nyiregyhaza.hu: ValueError: no advertised RSS/Atom feed",
+    "nyiregyhaza.hu: ValueError: no recent valid entries",
     "nyugat.hu: HTTPError: HTTP Error 403: Forbidden",
-    "kanizsaujsag.hu: ValueError: no advertised RSS/Atom feed",
-    "budapest.hu: ValueError: no advertised RSS/Atom feed",
-    "enbudapestem.hu: ValueError: no advertised RSS/Atom feed"
+    "kanizsaujsag.hu: ValueError: no recent valid entries",
+    "budapest.hu: ValueError: no recent valid entries",
+    "enbudapestem.hu: ValueError: no recent valid entries"
   ],
   "items": [
+    {
+      "id": "rss-d23a5852b260749475",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:11:00+00:00",
+      "t": "Kitépték a vezetékeket a falakból, aztán eladták: megvan az egyik dömsödi betörő",
+      "s": "Három betörés, szétvert falak, kitépett csövek. Dömsödön novemberben nem csak loptak, hanem a házakat is tönkretették. A rendőrök két férfit azonosítottak, egyiküket már gyanúsítottként hallgatták ki. Source",
+      "p": [
+        "Három betörés, szétvert falak, kitépett csövek. Dömsödön novemberben nem csak loptak, hanem a házakat is tönkretették. A rendőrök két férfit azonosítottak, egyiküket már gyanúsítottként hallgatták ki. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/kiteptek-a-vezetekeket-a-falakbol-aztan-eladtak-megvan-az-egyik-domsodi-betoro/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-8f09c9c9b53791bb8b",
+      "r": "Közélet",
+      "m": "",
+      "c": "Blikk",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:10:56+00:00",
+      "t": "Teljes sokk Szegeden: egy húszéves nő holttestére bukkantak - Mindenkit riasztottak!",
+      "s": "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves fiatal nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget.",
+      "p": [
+        "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves fiatal nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/fiatal-lany-holttest-szeged/8j56pp2"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
     {
       "id": "rss-edd00d938c10bad4cd",
       "r": "Gazdaság",
@@ -179,6 +233,33 @@
       "cred": ""
     },
     {
+      "id": "rss-87ebc357e33fd90b23",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:05:00+00:00",
+      "t": "„Újabb letartóztatások jönnek”: Kátai-Németh Vilmos csepeli ellenfelének alapítványainál jártak",
+      "s": "Ismét ledobta a lájkbombát a fideszes körökben jól értesültnek számító trombitás jogász, aki a Facebook-oldalán rendkívüli hírként jelentette be: újabb letartóztatások következnek. Egy korábbi kormánypárti képviselőjelöltre utalhatott.",
+      "p": [
+        "Ismét ledobta a lájkbombát a fideszes körökben jól értesültnek számító trombitás jogász, aki a Facebook-oldalán rendkívüli hírként jelentette be: újabb letartóztatások következnek. Egy korábbi kormánypárti képviselőjelöltre utalhatott."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/belfold/ujabb-letartoztatasok-jonnek-katai-nemeth-vilmos-csepeli-ellenfelenek-alapitvanyainal-jartak/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-581757056a39b7e677",
       "r": "Sport",
       "m": "",
@@ -198,6 +279,33 @@
         [
           "Nemzeti Sport",
           "https://nemzetisport.hu/bajnokok-ligaja/2026/11/bl-alapszakasz-real-madrid-psv-eindhoven"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-9d5e38a114585b7f20",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:04:06+00:00",
+      "t": "Sződliget megtelt – A polgármester, Juhász Béla szerint elég volt abból, hogy az agglomerációs települések alvóvárosokká, a családok pedig a kényszerű autótartás és a dugók túszaivá váljanak",
+      "s": "Juhász Béla, Sződliget polgármestere üdvözölte, hogy a miniszter a zöldfelületek beépítése és a szétterülő családi házas övezetek ellen lép fel. A település szerinte már két éve hangoztatja, hogy megtelt. Source",
+      "p": [
+        "Juhász Béla, Sződliget polgármestere üdvözölte, hogy a miniszter a zöldfelületek beépítése és a szétterülő családi házas övezetek ellen lép fel. A település szerinte már két éve hangoztatja, hogy megtelt. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/szodliget-is-megtelt-a-polgarmester-juhasz-bela-szerint-eleg-volt-abbol-hogy-az-agglomeracios-telepulesek-alvovarosokka-a-csaladok-pedig-a-kenyszeru-autotartas-es-a-dugok-tuszaiva-valjanak/"
         ]
       ],
       "img": "",
@@ -422,6 +530,33 @@
       "cred": ""
     },
     {
+      "id": "rss-73d8a4d4010d4622cc",
+      "r": "Megyei",
+      "m": "Heves",
+      "c": "heol.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:58:55+00:00",
+      "t": "Ki gondolná, hogy éppen ez a korosztály keres a legjobban? Mutatjuk a Heves megyei számokat",
+      "s": "Hevesben is közel 760 ezer forintot keres egy bizonyos korcsoport.",
+      "p": [
+        "Hevesben is közel 760 ezer forintot keres egy bizonyos korcsoport."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "heol.hu",
+          "https://www.heol.hu/helyi-gazdasag/2026/11/65-ev-felettiek-heves-brutto-atlagkereset"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-6ab7eed0117dbdc6d9",
       "r": "Belpolitika",
       "m": "",
@@ -457,7 +592,7 @@
       "st": "Jelentett",
       "time": "nov. 24.",
       "published_at": "2026-11-24T19:55:52+00:00",
-      "t": "BL-alapszakasz: Arsenal–Borussia Dortmund",
+      "t": "Gyökeres varázslatos lövésével vezet máris az Arsenal",
       "s": "A Premier League és a Bundesliga éllovasa csap össze a rangadón – csúcsfutballt várunk a mérkőzéstől.",
       "p": [
         "A Premier League és a Bundesliga éllovasa csap össze a rangadón – csúcsfutballt várunk a mérkőzéstől."
@@ -495,6 +630,33 @@
         [
           "Világgazdaság",
           "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/byd-francia-uzem-vasarlas"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-c2bcc3932eca17a33e",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:55:14+00:00",
+      "t": "A magyar válogatott játékos kiállítása után betelt a pohár - rendkívüli egyeztetést hívott össze a szövetség",
+      "s": "Egyre nagyobb vihart kavar Dániában Markgráf Ákos kiállítása és az azt követő reakciók ügye. A játékosok és az edzők szerint a fegyelmi testület döntései miatt már a játékvezetők bírálatától is tartaniuk kell, miközben a dán szövetség most a klubokkal is egyeztet a kialakult helyzetről.",
+      "p": [
+        "Egyre nagyobb vihart kavar Dániában Markgráf Ákos kiállítása és az azt követő reakciók ügye. A játékosok és az edzők szerint a fegyelmi testület döntései miatt már a játékvezetők bírálatától is tartaniuk kell, miközben a dán szövetség most a klubokkal is egyeztet a kialakult helyzetről."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/kulfoldi-foci/a-magyar-valogatott-jatekos-kiallitasa-utan-betelt-a-pohar-rendkivuli-egyeztetest-hivott-ossze-a-szovetseg"
         ]
       ],
       "img": "",
@@ -746,6 +908,33 @@
       "cred": ""
     },
     {
+      "id": "rss-b6c84464fb3dedb718",
+      "r": "Közélet",
+      "m": "",
+      "c": "MÁV",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:49:00+00:00",
+      "t": "Jelentős változások a miskolci fővonalon",
+      "s": "Baleseti helyszínelés miatt a Budapest – Miskolc közötti járatoknál jelentős változások ra kell számítani: Mezőkövesd és Mezőkeresztes-Mezőnyárád között átmenetileg nem közlekedhetnek a vonatok. A forgalom átszervezése folyamatban van, türelmüket köszönjük! A változás az egri Agria, valamint a gyöngyösi Mátra InterRégiókat nem érinti, Füzesabony, Hatvan felől ezeket a járatokat",
+      "p": [
+        "Baleseti helyszínelés miatt a Budapest – Miskolc közötti járatoknál jelentős változások ra kell számítani: Mezőkövesd és Mezőkeresztes-Mezőnyárád között átmenetileg nem közlekedhetnek a vonatok. A forgalom átszervezése folyamatban van, türelmüket köszönjük! A változás az egri Agria, valamint a gyöngyösi Mátra InterRégiókat nem érinti, Füzesabony, Hatvan felől ezeket a járatokat"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "MÁV",
+          "https://www.mavcsoport.hu/mavinform/jelentos-valtozasok-miskolci-fovonalon"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-63f03cc17963c39164",
       "r": "Közélet",
       "m": "",
@@ -792,6 +981,33 @@
         [
           "Portfolio",
           "https://www.portfolio.hu/global/20261124/sulyos-penzugyi-csapas-fenyegeti-a-szebb-napokat-is-latott-orszagot-egyre-sulyosabb-dontesek-johetnek-878822"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-e7c264abb6cb01168f",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:45:00+00:00",
+      "t": "Nem kerülheti el Matolcsy György: itt hallgatnák meg",
+      "s": "A vizsgálóbizottság elnöke azt javasolja, a bv-intézetben hallgassák meg Matolcsy Györgyöt az MNB-ügyben.",
+      "p": [
+        "A vizsgálóbizottság elnöke azt javasolja, a bv-intézetben hallgassák meg Matolcsy Györgyöt az MNB-ügyben."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/belfold/nem-kerulheti-el-matolcsy-gyorgy-itt-hallgatnak-meg/"
         ]
       ],
       "img": "",
@@ -1394,6 +1610,33 @@
       "cred": ""
     },
     {
+      "id": "rss-56070750319e053072",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:26:00+00:00",
+      "t": "Magyar Péter kormánya elővette a megállapodást, amelyet Orbánék tíz évig nem mertek lezárni – fellázadtak a civilek",
+      "s": "Közel tíz év várakozás után a Tisza-kormány a parlament elé vitte az EU és Kanada közötti CETA szabadkereskedelmi megállapodás magyar ratifikációját. A legvitatottabb beruházásvédelmi mechanizmus viszont csak a teljes ratifikáció után léphet hatályba.",
+      "p": [
+        "Közel tíz év várakozás után a Tisza-kormány a parlament elé vitte az EU és Kanada közötti CETA szabadkereskedelmi megállapodás magyar ratifikációját. A legvitatottabb beruházásvédelmi mechanizmus viszont csak a teljes ratifikáció után léphet hatályba."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/magyar-gazdasag/ceta-szabadkereskedelmi-egyezmeny-magyar-peter-orban-viktor-multik-kanada/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-a6d01fc3bccd24ebf4",
       "r": "Külföld",
       "m": "",
@@ -1575,6 +1818,33 @@
         [
           "Telex",
           "https://telex.hu/belfold/2026/11/24/tankerulet-igazgatok-kivalasztas-miniszterelnokseg-oktatasi-es-gyermekugyi-miniszterium"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-e707d844d655729be1",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:22:26+00:00",
+      "t": "Barca-Real-PSG háború is jöhet Haalandért, döntöttek az MU vitatott liverpooli piros lapjáról - külföldi körkép",
+      "s": "A legfontosabb és legérdekesebb keddi hírek a külföldi foci világából.",
+      "p": [
+        "A legfontosabb és legérdekesebb keddi hírek a külföldi foci világából."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/kulfoldi-korkep/barca-real-psg-haboru-is-johet-haalandert-dontottek-az-mu-vitatott-liverpooli-piros-lapjarol-kulfoldi-korkep"
         ]
       ],
       "img": "",
@@ -1970,9 +2240,9 @@
       "time": "nov. 24.",
       "published_at": "2026-11-24T19:13:31+00:00",
       "t": "Magyar Péter Beregszászon: Magyarországnak kulcsszerepe lesz az ukrán újjáépítésben",
-      "s": "Zelenszkij és Magyar közösen koszorúztak Ungváron a történelmi találkozó kezdéseként. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni. Élőben a beregszászi közös tájékoztató.",
+      "s": "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni.",
       "p": [
-        "Zelenszkij és Magyar közösen koszorúztak Ungváron a történelmi találkozó kezdéseként. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni. Élőben a beregszászi közös tájékoztató."
+        "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -1980,6 +2250,33 @@
         [
           "Telex",
           "https://telex.hu/kulfold/2026/11/24/magyar-peter-volodimir-zelenszkij-magyar-ukran-sajtotajekoztato-beregszasz"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-48f3b9a222d68d12df",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:12:00+00:00",
+      "t": "Udvaron parkoljanak a pilisvörösváriak a hó miatt, csütörtökön és pénteken áramszünet is lesz",
+      "s": "Jön a hó, és a hókotróknak hely kell. Pilisvörösváron arra kérik a lakókat, hogy az autókat lehetőleg a telken belül hagyják. A hét végén ráadásul csaknem 500 fogyasztónál áramszünet is lesz karbantartás miatt. Source",
+      "p": [
+        "Jön a hó, és a hókotróknak hely kell. Pilisvörösváron arra kérik a lakókat, hogy az autókat lehetőleg a telken belül hagyják. A hét végén ráadásul csaknem 500 fogyasztónál áramszünet is lesz karbantartás miatt. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/udvaron-parkoljanak-a-pilisvorosvariak-a-ho-miatt-csutortokon-es-penteken-aramszunet-is-lesz/"
         ]
       ],
       "img": "",
@@ -2061,6 +2358,33 @@
         [
           "Magyar Hang",
           "https://hang.hu/belfold/romaba-vezeto-utak-szaz-ev-magyar-puspoki-latogatasai-a-papaknal-193685"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-939c2d60f4cfc60116",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T19:10:00+00:00",
+      "t": "Kármán András sem hagyta szó nélkül a visszatérő katát: szerinte százezrek élhetnek vele",
+      "s": "Nagy lendülettel fogott bele a kormány a kata visszaállításába. A pénzügyminiszter szerint sokan fogják választani ezt az adózási nemet.",
+      "p": [
+        "Nagy lendülettel fogott bele a kormány a kata visszaállításába. A pénzügyminiszter szerint sokan fogják választani ezt az adózási nemet."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/magyar-gazdasag/karman-andras-kata-adozas/"
         ]
       ],
       "img": "",
@@ -3230,6 +3554,33 @@
       "cred": ""
     },
     {
+      "id": "rss-ada8e54b147604089f",
+      "r": "Közélet",
+      "m": "",
+      "c": "Magyar Narancs",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:54:00+00:00",
+      "t": "Bernard Guetta: Egy fénykép öt hazugsága",
+      "s": "Úgy pózolt egymás mellett Trump, Putyin és Hszi a sencseni találkozó fényképén, mintha ők lennének a világ urai. El akarták hitetni, hogy Európa már nem számít, de ez nagyon távol áll a valóságtól – írja a francia EP-képviselő.",
+      "p": [
+        "Úgy pózolt egymás mellett Trump, Putyin és Hszi a sencseni találkozó fényképén, mintha ők lennének a világ urai. El akarták hitetni, hogy Európa már nem számít, de ez nagyon távol áll a valóságtól – írja a francia EP-képviselő."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Magyar Narancs",
+          "https://magyarnarancs.hu/publicisztika/bernard-guetta-egy-fenykep-ot-hazugsaga-280672"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-e7aeefcd5e82f374ac",
       "r": "Megyei",
       "m": "Bács-Kiskun",
@@ -3303,6 +3654,60 @@
         [
           "Világgazdaság",
           "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/beruhazas-ozd-fejletlen-energetikai-infrastruktura"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-1043f23ad10d84e3bf",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:52:15+00:00",
+      "t": "Fegyverrel menekül az élettársát kivégző férfi, a rendőrség figyelmeztet, senki ne tartóztassa fel",
+      "s": "Hajtóvadászatot indított a rendőrség az ellen a férfi ellen, aki kedd délelőtt agyonlőtte élettársát Győrben, a Mosoni-Duna-parton. Az 53 éves férfi szökésben van, a rendőrség szerint fegyver van nála. Azt kérik, ha valaki látja, ne közelítse meg, inkább azonnal hívja a rendőrséget. Lövések Likócsnál Győr külterületén, a Mosoni-Duna mentén, Likócs térségében lövéseket hallottak",
+      "p": [
+        "Hajtóvadászatot indított a rendőrség az ellen a férfi ellen, aki kedd délelőtt agyonlőtte élettársát Győrben, a Mosoni-Duna-parton. Az 53 éves férfi szökésben van, a rendőrség szerint fegyver van nála. Azt kérik, ha valaki látja, ne közelítse meg, inkább azonnal hívja a rendőrséget. Lövések Likócsnál Győr külterületén, a Mosoni-Duna mentén, Likócs térségében lövéseket hallottak"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/fegyverrel-menekul-az-elettarsat-kivegzo-ferfi-a-rendorseg-figyelmeztet-senki-ne-tartoztassa-fel/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-41fba40c6c89837843",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:52:00+00:00",
+      "t": "Élesedik a kormányválság a költségvetés miatt, a nyugdíjaknál akadhat el az együttműködés",
+      "s": "Egyre látványosabbak a repedések a német kormánykoalíción: Fridriech Merz kereszténydemokrata-szocdem kabinetje több kulcsfontosságú reformkérdésben is élesen egymásnak feszül, a két párt egyre nehezebben talál közös nevezőt. Elemzők szerint a konfliktusok már nem egyszerű szakpolitikai viták, hanem a kormány cselekvőképességét is bénítják. A legnagyobb aknamező a tervezett nyu",
+      "p": [
+        "Egyre látványosabbak a repedések a német kormánykoalíción: Fridriech Merz kereszténydemokrata-szocdem kabinetje több kulcsfontosságú reformkérdésben is élesen egymásnak feszül, a két párt egyre nehezebben talál közös nevezőt. Elemzők szerint a konfliktusok már nem egyszerű szakpolitikai viták, hanem a kormány cselekvőképességét is bénítják. A legnagyobb aknamező a tervezett nyu"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/kulfold/elesedik-kormanyvalsag-koltsegvetes-nyugdij-reform-nemetorszag-koalicio-merz-egyuttmukodes/"
         ]
       ],
       "img": "",
@@ -3411,6 +3816,33 @@
         [
           "feol.hu",
           "https://www.feol.hu/helyi-eletstilus/2026/11/100-ev-szuletesnap-julika-neni-galeria"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-9f576d5acdbd25a2cf",
+      "r": "Közélet",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:50:59+00:00",
+      "t": "„A magyar nép Önök mellett áll” – mondta Magyar Péter Volodimir Zelenszkijnek Ungváron",
+      "s": "Magyar Péter és Volodimir Zelenszkij együtt koszorúzta meg az Ukrajna függetlenségi harcában elesett ukrán és magyar hősök emlékművét az ungvári Kálvária temetőben. Az ukrán elnök és a magyar miniszterelnök is úgy fogalmazott, hogy új fejezet kezdődött a két ország kapcsolatában a kárpátaljai találkozóval.",
+      "p": [
+        "Magyar Péter és Volodimir Zelenszkij együtt koszorúzta meg az Ukrajna függetlenségi harcában elesett ukrán és magyar hősök emlékművét az ungvári Kálvária temetőben. Az ukrán elnök és a magyar miniszterelnök is úgy fogalmazott, hogy új fejezet kezdődött a két ország kapcsolatában a kárpátaljai találkozóval."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/belfold/2026/11/24/a-magyar-nep-oenoek-mellett-all-mondta-magyar-peter-volodimir-zelenszkijnek-ungvaron"
         ]
       ],
       "img": "",
@@ -3870,6 +4302,33 @@
         [
           "kisalfold.hu",
           "https://www.kisalfold.hu/helyi-kozelet/2026/11/boogie-woogie-fesztival-gyor"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-7d0a430da078146459",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:40:32+00:00",
+      "t": "Dragóner bármikor visszatérne a Fradiba és súgott is az újabb EL-kihívás előtt: \"Borbély taktikája nem fog nekik annyira ízleni\"",
+      "s": "A szlovén élvonalban szereplő NK Nafta magyar védője, Dragóner Áron szerint a Ferencváros magas letámadással okozhat kellemetlen perceket a Celjének az Európa Liga alapszakaszának csütörtöki mérkőzésén. A 22 éves futballista a szlovén együttes játékstílusáról és a Fradi esélyeiről is beszélt.",
+      "p": [
+        "A szlovén élvonalban szereplő NK Nafta magyar védője, Dragóner Áron szerint a Ferencváros magas letámadással okozhat kellemetlen perceket a Celjének az Európa Liga alapszakaszának csütörtöki mérkőzésén. A 22 éves futballista a szlovén együttes játékstílusáról és a Fradi esélyeiről is beszélt."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/kulfoldi-foci/dragoner-visszaterne-a-fradiba-es-sugott-is-az-ujabb-el-kihivas-elott-borbely-taktikaja-nem-fog-nekik-annyira-izleni"
         ]
       ],
       "img": "",
@@ -4904,33 +5363,6 @@
       "cred": ""
     },
     {
-      "id": "rss-0a383140f403a4800a",
-      "r": "Sport",
-      "m": "",
-      "c": "Blikk",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T18:18:54+00:00",
-      "t": "Tömegverekedés tört ki a törpefutball-vb-n: videón, ahogy ütik-rúgják egymást",
-      "s": "Döbbenetes jelenetek játszódtak le a Marokkóban zajló törpefutball-világbajnokság Marokkó–Kolumbia mérkőzésén. A lefújás után ütötték-rúgták egymást a játékosok. Az incidensről készült videó bejárta a közösségi médiát.",
-      "p": [
-        "Döbbenetes jelenetek játszódtak le a Marokkóban zajló törpefutball-világbajnokság Marokkó–Kolumbia mérkőzésén. A lefújás után ütötték-rúgták egymást a játékosok. Az incidensről készült videó bejárta a közösségi médiát."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Blikk",
-          "https://www.blikk.hu/sport/kulfoldi-foci/torpefutball-vb-tomegverekedes/99b49bk"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
       "id": "rss-a0e400564060acf9d8",
       "r": "Gazdaság",
       "m": "",
@@ -4977,6 +5409,33 @@
         [
           "HVG",
           "https://hvg.hu/itthon/20261124_gyori-gyilkossag-gyilkos-elfogas-rendorseg-akcio"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-9d49c0c66e1038d767",
+      "r": "Közélet",
+      "m": "",
+      "c": "Magyar Közlöny",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:16:17+00:00",
+      "t": "Magyar Közlöny 2026. évi 179. szám",
+      "s": "Magyar Közlöny 2026. évi 179. szám",
+      "p": [
+        "Magyar Közlöny 2026. évi 179. szám"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Magyar Közlöny",
+          "https://magyarkozlony.hu/dokumentumok/9aea255461db8f664f571d9ae41317adbb172207/megtekintes"
         ]
       ],
       "img": "",
@@ -5220,6 +5679,60 @@
         [
           "Magyar Nemzet",
           "https://magyarnemzet.hu/bayer-zsolt/2026/11/egy-remek-osszefoglalo"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-2a3fe0ca8c00703c23",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Forbes",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:11:07+00:00",
+      "t": "Cukorbetegség: a rendszeres vizsgálatok kulcsfontosságúak",
+      "s": "A hazánkban mintegy 1,5 millió embert érintő 2-es típusú diabétesz nem csupán anyagcserezavar, hanem az egész szervezetre ható krónikus betegség – hangsúlyozzák a szakértők a novemberi Diabétesz Világnaphoz kapcsolódva. A cukorbetegség kezelése ezért egyre inkább a teljes egészségi állapot figyelembevételére, a vele együttjáró szövődmények megelőzésére és a hosszú távú egészség",
+      "p": [
+        "A hazánkban mintegy 1,5 millió embert érintő 2-es típusú diabétesz nem csupán anyagcserezavar, hanem az egész szervezetre ható krónikus betegség – hangsúlyozzák a szakértők a novemberi Diabétesz Világnaphoz kapcsolódva. A cukorbetegség kezelése ezért egyre inkább a teljes egészségi állapot figyelembevételére, a vele együttjáró szövődmények megelőzésére és a hosszú távú egészség"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Forbes",
+          "https://www.forbes.hu/tamogatoi-tartalom/cukorbetegseg-a-rendszeres-vizsgalatok-kulcsfontossaguak/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-056df9a292747ce632",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:11:00+00:00",
+      "t": "17 budapesti adventi vásáron lesznek ott a rendőrök, a zsebtolvajokra is figyelnek",
+      "s": "Forralt bor, tömeg, tele táskák. A budapesti rendőrök idén is ott lesznek a karácsonyi vásárokon, összesen 17 helyszínen. A legforgalmasabb két vásárnál már a biztonsági elemeket is kihelyezték. Source",
+      "p": [
+        "Forralt bor, tömeg, tele táskák. A budapesti rendőrök idén is ott lesznek a karácsonyi vásárokon, összesen 17 helyszínen. A legforgalmasabb két vásárnál már a biztonsági elemeket is kihelyezték. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/17-budapesti-adventi-vasaron-lesznek-ott-a-rendorok-a-zsebtolvajokra-is-figyelnek/"
         ]
       ],
       "img": "",
@@ -5652,6 +6165,33 @@
         [
           "Magyar Nemzet",
           "https://magyarnemzet.hu/bayer-zsolt-blogja/2026/11/koszonet-forgacs-istvannak-bayer"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-ba9e6ae0a39e51ef24",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T18:03:58+00:00",
+      "t": "\"Ez nem mindennapi!\": Edzője is a magyar tini mesternégyesét ünnepelte Németországban",
+      "s": "A Hamburg edzője ugyanakkor a fölényes győzelem után is talált javítanivalót.",
+      "p": [
+        "A Hamburg edzője ugyanakkor a fölényes győzelem után is talált javítanivalót."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/magyar-foci/ez-nem-mindennapi-edzoje-is-a-magyar-tini-mesternegyeset-unnepelte-nemetorszagban"
         ]
       ],
       "img": "",
@@ -7388,6 +7928,33 @@
       "cred": ""
     },
     {
+      "id": "rss-8714cad4f4474e6b94",
+      "r": "Közélet",
+      "m": "",
+      "c": "Magyar Közlöny",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T17:31:32+00:00",
+      "t": "Magyar Közlöny 2026. évi 178. szám",
+      "s": "Magyar Közlöny 2026. évi 178. szám",
+      "p": [
+        "Magyar Közlöny 2026. évi 178. szám"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Magyar Közlöny",
+          "https://magyarkozlony.hu/dokumentumok/8d12e3aac17e3a2d25c9b4996596f1ffd53475be/megtekintes"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-115b601f2b57773e8e",
       "r": "Megyei",
       "m": "Tolna",
@@ -7569,6 +8136,33 @@
         [
           "Menedzsment Fórum",
           "https://mfor.hu/cikkek/makro/meszaros-lorinc-remek-utemerzekkel-piszkalta-meg-a-vagyonkezelo-alapitvanyat.html?utm_source=rss&utm_medium=referral"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-76508f77c2458bc349",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T17:27:14+00:00",
+      "t": "Megegyezett a Baleseti Intézet a nemrég felmondott 13 ápolóval, maradnak az intenzív osztály ápolói",
+      "s": "Tizenhárom intenzíves ápoló felmondott a Manninger Jenő Baleseti Központban, a kórház pedig most megegyezett velük. A bérmegállapodás a fővárosi átlaghoz zárkóztatta fel a fizetésüket, és elhárította az osztály működését fenyegető kockázatot. Source",
+      "p": [
+        "Tizenhárom intenzíves ápoló felmondott a Manninger Jenő Baleseti Központban, a kórház pedig most megegyezett velük. A bérmegállapodás a fővárosi átlaghoz zárkóztatta fel a fizetésüket, és elhárította az osztály működését fenyegető kockázatot. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/megegyezett-a-baleseti-intezet-a-nemreg-felmondott-13-apoloval-maradnak-az-intenziv-osztaly-apoloi/"
         ]
       ],
       "img": "",
@@ -8271,6 +8865,33 @@
         [
           "Pénzcentrum",
           "https://www.penzcentrum.hu/egeszseg/20261124/egyre-durvabban-terjed-a-majomhimlo-magyarorszagon-surgosseggel-rendelnek-oltoanyagot-1209610"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-50570be50423f98e6a",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T17:12:00+00:00",
+      "t": "Szerdán jön a hó: Pest megyére figyelmeztetést adtak ki, Budapesten 4-5 centi is összegyűlhet",
+      "s": "Katalin napján beköszönt a tél. Szerdán havazás miatt Pest megyére is figyelmeztetést adott ki a HungaroMet, a fővárosban és környékén éjfélig 4-5 centi hó is összegyűlhet, estétől pedig ónos eső is jöhet. Source",
+      "p": [
+        "Katalin napján beköszönt a tél. Szerdán havazás miatt Pest megyére is figyelmeztetést adott ki a HungaroMet, a fővárosban és környékén éjfélig 4-5 centi hó is összegyűlhet, estétől pedig ónos eső is jöhet. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/szerdan-jon-a-ho-pest-megyere-figyelmeztetest-adtak-ki-budapesten-4-5-centi-is-osszegyulhet/"
         ]
       ],
       "img": "",
@@ -10736,6 +11357,33 @@
       "cred": ""
     },
     {
+      "id": "rss-c8d002704731cf29ec",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T17:00:01+00:00",
+      "t": "Szoboszlai hibás mezben lőtt parádés gólt a Manchester Unitednek - kép",
+      "s": "Szokatlan gyártási hibára figyeltek fel Szoboszlai Dominik Liverpool-mezén a Manchester United elleni, 4-0-s győzelemmel végződő Premier League-rangadón.",
+      "p": [
+        "Szokatlan gyártási hibára figyeltek fel Szoboszlai Dominik Liverpool-mezén a Manchester United elleni, 4-0-s győzelemmel végződő Premier League-rangadón."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/oldalhalo-csakfoci-light/szoboszlai-hibas-mezben-lott-parades-golt-a-manchester-unitednek-kep"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-98d63c8835c7e8ca7b",
       "r": "Közélet",
       "m": "",
@@ -11006,6 +11654,60 @@
       "cred": ""
     },
     {
+      "id": "rss-f11e8be70f4f81f1b9",
+      "r": "Közélet",
+      "m": "",
+      "c": "Totalcar",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:53:55+00:00",
+      "t": "Életveszélyes volt, amit a 79 éves autós művelt Kaposváron",
+      "s": "Az idős sofőr Suzukiját az egyik intézkedő rendőr állította le.",
+      "p": [
+        "Az idős sofőr Suzukiját az egyik intézkedő rendőr állította le."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Totalcar",
+          "https://totalcar.hu/hirek/eletveszelyes-vezetes-kaposvar-79-eves-sofor/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-ef978b8d7a7e5a4d8b",
+      "r": "Közélet",
+      "m": "",
+      "c": "Totalcar",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:53:48+00:00",
+      "t": "Visszatért a jó ár-érték arányú autók kora?",
+      "s": "Egyre több az olyan új autó, amely a korábbi évek drágulása után sokkal inkább a földhözragadtságot képviseli. Az MG3 például bőven befért a hatmilliós lélektani küszöb alá, amivel a legolcsóbb új autó Magyarországon.",
+      "p": [
+        "Egyre több az olyan új autó, amely a korábbi évek drágulása után sokkal inkább a földhözragadtságot képviseli. Az MG3 például bőven befért a hatmilliós lélektani küszöb alá, amivel a legolcsóbb új autó Magyarországon."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Totalcar",
+          "https://totalcar.hu/magazin/mg-uj-auto-arak-6-millio-alatt-mg3-hybrid/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-9e6092e20230ce4e6b",
       "r": "Megyei",
       "m": "Hajdú-Bihar",
@@ -11052,6 +11754,33 @@
         [
           "delmagyar.hu",
           "https://www.delmagyar.hu/helyi-kek-hirek/2026/11/holttest-szeged-20-eves-lany-kockahaz-utca"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-a3a62d4ecc4100ad8c",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:52:17+00:00",
+      "t": "Holttestet találtak a gödi Duna-parton, lezárták a környéket a rendőrök",
+      "s": "Egy 62 éves férfi holttestét találták meg kedden Göd Duna-parti ártéri erdejében, az Ilka-patak zsilipjének közelében. A rendőrség megerősítette a halálesetet, és vizsgálja, hogyan történt. Source",
+      "p": [
+        "Egy 62 éves férfi holttestét találták meg kedden Göd Duna-parti ártéri erdejében, az Ilka-patak zsilipjének közelében. A rendőrség megerősítette a halálesetet, és vizsgálja, hogyan történt. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/holttestet-talaltak-a-godi-duna-parton-lezartak-a-kornyeket-a-rendorok/"
         ]
       ],
       "img": "",
@@ -11168,6 +11897,60 @@
       "cred": ""
     },
     {
+      "id": "rss-2f069d97aa4e40b26f",
+      "r": "Külföld",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:50:26+00:00",
+      "t": "Trump közbenjárt az Nvidia vezéréért, a visszatérés után akár 15 millió dollárral is többet érhettek a részvényei",
+      "s": "Donald Trump szerint Hszi Csin-ping helyében ő egyszerűen leszerződtetné Jensen Huangot, akkor még kémekkel sem kellene bajlódnia. Az amerikai elnök ezzel magyarázta, miért szállt be az Nvidia vezetői vitájába, és miért győzködte az igazgatókat, hogy vegyék vissza a cég alapítóját, aztán mire hétfőn bezárt a tőzsde, az Nvidia részvényei 31,5 százalékkal értek többet. Trumpnak i",
+      "p": [
+        "Donald Trump szerint Hszi Csin-ping helyében ő egyszerűen leszerződtetné Jensen Huangot, akkor még kémekkel sem kellene bajlódnia. Az amerikai elnök ezzel magyarázta, miért szállt be az Nvidia vezetői vitájába, és miért győzködte az igazgatókat, hogy vegyék vissza a cég alapítóját, aztán mire hétfőn bezárt a tőzsde, az Nvidia részvényei 31,5 százalékkal értek többet. Trumpnak i"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/kulfold/2026/11/24/trump-koezbenjart-az-nvidia-vezereert-a-visszateres-utan-akar-15-millio-dollarral-is-toebbet-erhettek-a-reszvenyei"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-bf685ab6598fbd8996",
+      "r": "Belpolitika",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:50:06+00:00",
+      "t": "Szorul a hurok egy volt fideszes parlamenti képviselő civil szervezeti hálója körül",
+      "s": "A Nemzeti Nyomozó Iroda 12 helyszínen hajtott végre házkutatásokat, ezek során szerződéseket, számlákat, teljesítési igazolásokat foglaltak le, továbbá számítógépeken, mobiltelefonokon tárolt adatokat helyeztek biztonságba. Az NNI közleménye nevet nem említ, de abból, hogy a nyomozás a Miniszterelnökség hűtlen kezelés gyanújával nyáron tett feljelentésére indult, kikövetkezteth",
+      "p": [
+        "A Nemzeti Nyomozó Iroda 12 helyszínen hajtott végre házkutatásokat, ezek során szerződéseket, számlákat, teljesítési igazolásokat foglaltak le, továbbá számítógépeken, mobiltelefonokon tárolt adatokat helyeztek biztonságba. Az NNI közleménye nevet nem említ, de abból, hogy a nyomozás a Miniszterelnökség hűtlen kezelés gyanújával nyáron tett feljelentésére indult, kikövetkezteth"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/belfold/2026/11/24/szorul-a-hurok-egy-volt-fideszes-parlamenti-kepviselo-civil-szervezeti-haloja-koeruel"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-2dc4c8e2377e1c8a97",
       "r": "Közélet",
       "m": "",
@@ -11241,6 +12024,33 @@
         [
           "444",
           "https://444.hu/2026/11/24/lannert-judit-jelentosen-noveljuk-a-tanarok-tankkonyvvalasztasi-lehetosegeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-e1822681aec691f19d",
+      "r": "Sport",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:47:55+00:00",
+      "t": "Tizenegy rendbeli nemi erőszakkal vádolják a palimpiai ezüstérmes brit sportolót",
+      "s": "Barátnőjén követhette el a bűncselekményeket, drogbirtoklást és kukkolást is a számlájára írnak.",
+      "p": [
+        "Barátnőjén követhette el a bűncselekményeket, drogbirtoklást és kukkolást is a számlájára írnak."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/kulfold/2026/11/24/tizenegy-rendbeli-nemi-eroszakkal-vadoljak-a-labak-nelkueli-paralimpiai-ezuestermes-brit-sportolot"
         ]
       ],
       "img": "",
@@ -11654,6 +12464,33 @@
       "cred": ""
     },
     {
+      "id": "rss-aef2183dd92a9c6ebc",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Forbes",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:36:55+00:00",
+      "t": "A legnagyobb hazai kiskereskedelmi lánc is üdvözli az árrésstop végét, ilyen hatással lesz az intézkedés az árakra",
+      "s": "Az árrésstopnak hamarosan vége, sorra futnak be a szakmai reakciók.",
+      "p": [
+        "Az árrésstopnak hamarosan vége, sorra futnak be a szakmai reakciók."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Forbes",
+          "https://www.forbes.hu/hirek/arresstop-vege-lidl-oksz/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-336241301b439fa251",
       "r": "Megyei",
       "m": "Nógrád",
@@ -11835,6 +12672,33 @@
         [
           "Telex",
           "https://telex.hu/kulfold/2026/11/24/szerbia-aleksandar-vucic-cupic-hazelnok-agyonbeszeles-obstrukcio"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-5f2b033ff09b563462",
+      "r": "Közélet",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:32:34+00:00",
+      "t": "Ókovács szerint a minisztérium felel a Diótörő elmaradásáért, Nagy Ervin szerint viszont a menesztett főigazgató mulasztott",
+      "s": "Műszaki hiba miatt a vasárnap elmaradt operaházbeli Diótörő előadás újabb politikai és szakmai vitát generált a nemrégiben menesztett Ókovács Szilveszter szerepét illetően. Nagy Ervin kulturális államtitkár súlyos mulasztásokkal vádolja az intézmény korábbi vezetését, míg a volt főigazgató a minisztérium felelősségét firtatja.",
+      "p": [
+        "Műszaki hiba miatt a vasárnap elmaradt operaházbeli Diótörő előadás újabb politikai és szakmai vitát generált a nemrégiben menesztett Ókovács Szilveszter szerepét illetően. Nagy Ervin kulturális államtitkár súlyos mulasztásokkal vádolja az intézmény korábbi vezetését, míg a volt főigazgató a minisztérium felelősségét firtatja."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/kultura/2026/11/24/okovacs-szerint-a-miniszterium-felel-a-diotoero-elmaradasaert-nagy-ervin-szerint-viszont-a-menesztett-foigazgato-mulasztott"
         ]
       ],
       "img": "",
@@ -12059,6 +12923,33 @@
       "cred": ""
     },
     {
+      "id": "rss-7c05241c0a39095eb9",
+      "r": "Közélet",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:29:07+00:00",
+      "t": "Orbán Áronék a titkosszolgálat segítségét is kérték a Rogán-közeli konkurencia elleni harcban",
+      "s": "Egy külügyi alkalmazott kénytelen volt magyarázkodni egy Rogán Antal ismeretségi köréhez sorolt üzletasszonynak, amiért Orbán Áron érdekeltségének elsőbbséget kellett biztosítania a vietnami munkavállalók vízumkérelmeinek intézésénél. A két, egymással versengő üzleti kör közötti konfliktusban a miniszterelnök öccse és társai az Alkotmányvédelmi Hivatal közbenjárását is megpróbá",
+      "p": [
+        "Egy külügyi alkalmazott kénytelen volt magyarázkodni egy Rogán Antal ismeretségi köréhez sorolt üzletasszonynak, amiért Orbán Áron érdekeltségének elsőbbséget kellett biztosítania a vietnami munkavállalók vízumkérelmeinek intézésénél. A két, egymással versengő üzleti kör közötti konfliktusban a miniszterelnök öccse és társai az Alkotmányvédelmi Hivatal közbenjárását is megpróbá"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/belfold/2026/11/24/orban-aronek-a-titkosszolgalat-segitseget-is-kertek-a-rogan-koezeli-konkurencia-elleni-harcban"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-5663740422e852d5ba",
       "r": "Gazdaság",
       "m": "",
@@ -12105,6 +12996,33 @@
         [
           "HVG",
           "https://hvg.hu/itthon/20261124_lugos-orvos-renner-erika-zaklato-birosag-tagadas-nok-elleni-zaklatas"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-0acdda9160b42b3b5a",
+      "r": "Közélet",
+      "m": "",
+      "c": "Kontroll",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:28:22+00:00",
+      "t": "A milliárdos károkat okozó, színes-szagos illegális vape-ek füstjében ténfereg egész Európa",
+      "s": "Egyre súlyosabb problémával néz szembe a vape-ek európai piaca: a termékek csaknem felét a szürke- vagy feketekereskedelem adja. A szabályozatlan termékek forgalma már most meghaladja a 6,6 milliárd eurót (2558 milliárd forintot), becslések szerint 2030-ra ez már a 10,8 milliárd eurót is elérheti.",
+      "p": [
+        "Egyre súlyosabb problémával néz szembe a vape-ek európai piaca: a termékek csaknem felét a szürke- vagy feketekereskedelem adja. A szabályozatlan termékek forgalma már most meghaladja a 6,6 milliárd eurót (2558 milliárd forintot), becslések szerint 2030-ra ez már a 10,8 milliárd eurót is elérheti."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Kontroll",
+          "https://kontroll.hu/cikk/kulfold/2026/11/24/a-milliardos-karokat-okozo-szines-szagos-illegalis-vape-ek-fuestjeben-tenfereg-egesz-europa"
         ]
       ],
       "img": "",
@@ -12321,6 +13239,33 @@
         [
           "bama.hu",
           "https://www.bama.hu/helyi-kek-hirek/2026/11/kamion-es-kisteherauto-utkozott-a-6-os-fouton-tuzoltok-vonultak-a-helyszinre"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-19c7bffd0cb352d2c8",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:23:52+00:00",
+      "t": "Rejtélyes nyilatkozatot adott a jövőről az ETO edzője: \"Jön egy bomba\"",
+      "s": "Egyelőre nem árulta el, pontosan miről van szó, de Efraín Juárez egy nagy bejelentést helyezett kilátásba.",
+      "p": [
+        "Egyelőre nem árulta el, pontosan miről van szó, de Efraín Juárez egy nagy bejelentést helyezett kilátásba."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/magyar-foci/rejtelyes-nyilatkozatot-adott-az-eto-edzoje-jon-egy-bomba"
         ]
       ],
       "img": "",
@@ -12888,6 +13833,60 @@
         [
           "kemma.hu",
           "https://www.kemma.hu/helyi-idojaras/2026/11/friss-hoterkep-havazas-komarom-esztergom-veszjelzes"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-a98f9bf89f8df2722a",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "budapestkornyeke.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:12:00+00:00",
+      "t": "Kivilágított villamosok és Mikulásbusz: pénteken indul a BKV Fényflottája",
+      "s": "Péntek este ismét fényárban úszik Budapest. A BKV kivilágított villamosai az 1-es villamos vonalán vonulnak, és ugyanaznap indul útjára a Mikulásbusz, a fényfogaskerekű és a fényhajó is. Source",
+      "p": [
+        "Péntek este ismét fényárban úszik Budapest. A BKV kivilágított villamosai az 1-es villamos vonalán vonulnak, és ugyanaznap indul útjára a Mikulásbusz, a fényfogaskerekű és a fényhajó is. Source"
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "budapestkornyeke.hu",
+          "https://budapestkornyeke.hu/kivilagitott-villamosok-es-mikulasbusz-penteken-indul-a-bkv-fenyflottaja/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-7f7d82eab07efda75a",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Forbes",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T16:11:38+00:00",
+      "t": "Több bejelentést is tett Magyar Péter Ukrajnában, kiderültek a részletek",
+      "s": "A kormányfő szerint egy olyan fejezetet nyitnak a két ország kapcsolatában, amire a jó szomszédoknak szüksége van.",
+      "p": [
+        "A kormányfő szerint egy olyan fejezetet nyitnak a két ország kapcsolatában, amire a jó szomszédoknak szüksége van."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Forbes",
+          "https://www.forbes.hu/hirek/karpatalja-magyar-peter-bejelentes/"
         ]
       ],
       "img": "",
@@ -13598,6 +14597,33 @@
       "cred": ""
     },
     {
+      "id": "rss-12ea447d3f26ab6dfd",
+      "r": "Közélet",
+      "m": "",
+      "c": "Totalcar",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:57:25+00:00",
+      "t": "Olyat tervez az Audi a belterekkel, amire nem volt még példa",
+      "s": "A szabadalmi bejegyzések szerint bátor megoldással készülnek.",
+      "p": [
+        "A szabadalmi bejegyzések szerint bátor megoldással készülnek."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Totalcar",
+          "https://totalcar.hu/hirek/audi-szabadalom-mozgo-fizikai-gombsor/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-3a3bd54b08c8a7d405",
       "r": "Közélet",
       "m": "",
@@ -13725,6 +14751,33 @@
         [
           "kemma.hu",
           "https://www.kemma.hu/helyi-kozelet/2026/11/robert-picardo-star-trek-sztar-budapesti-videok"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-30b3da9f61b93102fa",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Forbes",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:50:44+00:00",
+      "t": "Fidesz-közeli civil szervezeteknél tartott házkutatást az NNI, az is kiderült, pontosan miért",
+      "s": "A Nemzeti Nyomozó Iroda tizenkét helyszínen csapott le.",
+      "p": [
+        "A Nemzeti Nyomozó Iroda tizenkét helyszínen csapott le."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Forbes",
+          "https://www.forbes.hu/hirek/hazkutatas-civilek-nni/"
         ]
       ],
       "img": "",
@@ -13868,6 +14921,33 @@
       "cred": ""
     },
     {
+      "id": "rss-b3c63823f62502f82c",
+      "r": "Közélet",
+      "m": "",
+      "c": "Qubit",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:47:30+00:00",
+      "t": "Miklósi Ádám etológust választották a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal új elnökének",
+      "s": "A Tudományos és Technológiai Minisztérium szerint Miklósi feladata, hogy új tudományos alapokra helyezze a hivatal működését, és képviselje a kormány új kutatás-fejlesztési és innovációs stratégiáját a hazai kutatói közösség felé.",
+      "p": [
+        "A Tudományos és Technológiai Minisztérium szerint Miklósi feladata, hogy új tudományos alapokra helyezze a hivatal működését, és képviselje a kormány új kutatás-fejlesztési és innovációs stratégiáját a hazai kutatói közösség felé."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Qubit",
+          "https://qubit.hu/2026/11/24/miklosi-adam-etologust-valasztottak-a-nemzeti-kutatasi-fejlesztesi-es-innovacios-hivatal-uj-elnokenek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-03024f63a0e213f29f",
       "r": "Megyei",
       "m": "Győr-Moson-Sopron",
@@ -13968,6 +15048,33 @@
         [
           "Origo",
           "https://www.origo.hu/auto/2026/11/remalom-valt-valosagga-a-hegyekben"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-0dfc0744d950ca5c37",
+      "r": "Sport",
+      "m": "",
+      "c": "Csakfoci",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:44:59+00:00",
+      "t": "Maradt a pályán hozott ítélet: a Nemzetközi Sportdöntőbíróság döntést hozott a 2025-os Afrika-kupa győzteséről",
+      "s": "Hónapokig tartó jogi huzavona után pont került a 2025-ös Afrika-kupa egyik legnagyobb botrányának végére: a Nemzetközi Sportdöntőbíróság helyt adott Szenegál fellebbezésének, hatályon kívül helyezte az afrikai szövetség korábbi határozatát, így hivatalosan is megerősítette a januári döntő 1-0-s végeredményét. A trófea tehát ismét a szenegáliaké.",
+      "p": [
+        "Hónapokig tartó jogi huzavona után pont került a 2025-ös Afrika-kupa egyik legnagyobb botrányának végére: a Nemzetközi Sportdöntőbíróság helyt adott Szenegál fellebbezésének, hatályon kívül helyezte az afrikai szövetség korábbi határozatát, így hivatalosan is megerősítette a januári döntő 1-0-s végeredményét. A trófea tehát ismét a szenegáliaké."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Csakfoci",
+          "https://www.csakfoci.hu/kulfoldi-foci/maradt-a-palyan-hozott-itelet-a-nemzetkozi-sportdontobirosag-dontest-hozott-a-2025-os-afrika-kupa-gyozteserol"
         ]
       ],
       "img": "",
@@ -14894,6 +16001,60 @@
       "cred": ""
     },
     {
+      "id": "rss-3680761ba65053780c",
+      "r": "Közélet",
+      "m": "",
+      "c": "HWSW",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:23:45+00:00",
+      "t": "Okosabb lett a Google keresője, az AI-mód még több adatunkkal képes már dolgozni",
+      "s": "Ha szeretnénk, akkor hozzáférést adhatunk a Geminivel folytatott beszélgetésekhez is, hogy a lehető legjobb eredményeket kapjuk meg a kereséskor.",
+      "p": [
+        "Ha szeretnénk, akkor hozzáférést adhatunk a Geminivel folytatott beszélgetésekhez is, hogy a lehető legjobb eredményeket kapjuk meg a kereséskor."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "HWSW",
+          "https://www.hwsw.hu/daralo/71240/ai-google-kereso-personal-intelligence-gemini-ai-kereses.html"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-dd0df1c30709dd84de",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Forbes",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T15:23:25+00:00",
+      "t": "Bármi áron meghallgatná Matolcsy Györgyöt az MNB-s vizsgálóbizottság, kiderült, miként kerülhet sor a találkozóra",
+      "s": "A volt jegybankelnök február végéig biztosan nem szabadul a letartóztatásból, az MNB-s visszaéléseket vizsgáló bizottságot viszont ez nem tántorítja el.",
+      "p": [
+        "A volt jegybankelnök február végéig biztosan nem szabadul a letartóztatásból, az MNB-s visszaéléseket vizsgáló bizottságot viszont ez nem tántorítja el."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Forbes",
+          "https://www.forbes.hu/hirek/matolcsy-mnb-bizottsag-meghallgatas/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-3e14a97af4910fd30c",
       "r": "Sport",
       "m": "",
@@ -15156,1167 +16317,6 @@
         [
           "Origo",
           "https://www.origo.hu/belpol/2026/11/ado-emeles-valtozas-tisza-orszaggyules-vagyonado-kata"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e475aaa6a237750883",
-      "r": "Közélet",
-      "m": "",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:18:46+00:00",
-      "t": "Másfél milliárdos hűtlen kezelési ügyben fideszes álcivil szervezeteknél tartottak házkutatást",
-      "s": "A Nemzeti Nyomozó Iroda kedd reggel összesen 12 helyszínen tartott házkutatást, több zsáknyi iratot foglaltak le.",
-      "p": [
-        "A Nemzeti Nyomozó Iroda kedd reggel összesen 12 helyszínen tartott házkutatást, több zsáknyi iratot foglaltak le."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/belfold/2026/11/24/fideszes-alcivil-szervezetek-hutlen-kezeles-hazkutatas-nni"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e6adde371ca60adfc4",
-      "r": "Közélet",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:17:57+00:00",
-      "t": "Fideszes álcivil szervezetekhez vonult ki a Nemzeti Nyomozóiroda",
-      "s": "A Miniszterelnökség júliusban tett feljelentést hét, a fideszes Király Nórához köthető civil szervezet állami támogatásai miatt. Kedd reggel a Nemzeti Nyomozóiroda munkatársai házkutatásokat tartottak, hűtlen kezelés gyanúja miatt folyik büntetőeljárás.",
-      "p": [
-        "A Miniszterelnökség júliusban tett feljelentést hét, a fideszes Király Nórához köthető civil szervezet állami támogatásai miatt. Kedd reggel a Nemzeti Nyomozóiroda munkatársai házkutatásokat tartottak, hűtlen kezelés gyanúja miatt folyik büntetőeljárás."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261124_kiraly-nora-civil-szervezetek-nni-hazkutatas"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-67b8311a1290bd8bb8",
-      "r": "Sport",
-      "m": "",
-      "c": "Vezess",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:17:09+00:00",
-      "t": "Kivonul a motorsportokból a Peugeot, az Opel",
-      "s": "Beszünteti meglévő motorsport-tevékenységeit a Stellantis. A döntés több európai márkát is érint, de lesznek túlélők.",
-      "p": [
-        "Beszünteti meglévő motorsport-tevékenységeit a Stellantis. A döntés több európai márkát is érint, de lesznek túlélők."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Vezess",
-          "https://www.vezess.hu/hirek/2026/11/24/kivonul-a-motorsportokbol-a-peugeot-az-opel/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-fa1b84569b352227e3",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Pénzcentrum",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:17:00+00:00",
-      "t": "Mindössze 500 forintba kerül itt a karácsonyfa: mutatjuk kik jogosultak rá és hol vehetik át",
-      "s": "Idén is megszervezi kedvezményes fenyőfavásárát a Budavári Önkormányzat, ahol a helyi lakosok 500 forintért juthatnak karácsonyfához.",
-      "p": [
-        "Idén is megszervezi kedvezményes fenyőfavásárát a Budavári Önkormányzat, ahol a helyi lakosok 500 forintért juthatnak karácsonyfához."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Pénzcentrum",
-          "https://www.penzcentrum.hu/gazdasag/20261124/mindossze-500-forintba-kerul-itt-a-karacsonyfa-mutatjuk-kik-jogosultak-ra-es-hol-vehetik-at-1209584"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-5fc01989b2e0598588",
-      "r": "Közélet",
-      "m": "",
-      "c": "Magyar Nemzet",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:16:14+00:00",
-      "t": "Súlyos verekedés robbant ki a törpefutball-világbajnokságon - videó",
-      "s": "Akkora volt a balhé, hogy a rendőrségnek kellett közbelépnie.",
-      "p": [
-        "Akkora volt a balhé, hogy a rendőrségnek kellett közbelépnie."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Magyar Nemzet",
-          "https://magyarnemzet.hu/sport/2026/11/verekedes-torpefutball-vilagbajnoksag-marokko"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-77950b53616a0d2571",
-      "r": "Megyei",
-      "m": "Baranya",
-      "c": "bama.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:16:00+00:00",
-      "t": "Rejtélyes eltűnés: a Balatonnál veszhetett nyoma a 24 éves pécsi férfinak",
-      "s": "A keresés egyelőre nem járt sikerrel.",
-      "p": [
-        "A keresés egyelőre nem járt sikerrel."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "bama.hu",
-          "https://www.bama.hu/helyi-kozelet/2026/11/eltunes-balaton-rendorseg-kereses-eltunt-fiatal"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-560eed693c9781e6f2",
-      "r": "Megyei",
-      "m": "Tolna",
-      "c": "teol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:15:06+00:00",
-      "t": "Ideiglenes forgalomkorlátozásra és fennakadásokra kell számolni pénteken",
-      "s": "Ideiglenes forgalomkorlátozásra és kisebb fennakadásokra készülhetnek az autósok.",
-      "p": [
-        "Ideiglenes forgalomkorlátozásra és kisebb fennakadásokra készülhetnek az autósok."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "teol.hu",
-          "https://www.teol.hu/helyi-kozelet/2026/11/karacsonyi-diszkivilagitas-lezaras-dombovar"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-167efc0e415e9861a0",
-      "r": "Belpolitika",
-      "m": "",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:15:00+00:00",
-      "t": "Hűtlen kezelés gyanúja miatt csapott le a rendőrség hét civil szervezetre a Miniszterelnökség feljelentése alapján",
-      "s": "Hűtlen kezelés gyanúja miatt csapott le a rendőrség hét civil szervezetre a Miniszterelnökség feljelentése alapján",
-      "p": [
-        "Hűtlen kezelés gyanúja miatt csapott le a rendőrség hét civil szervezetre a Miniszterelnökség feljelentése alapján"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/belfold/2026/11/24/nemzeti-nyomozo-iroda-kutatas-civil-szervezetek-hutlen-kezeles-lefoglalasok/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-9e66e2637e560d6829",
-      "r": "Közélet",
-      "m": "",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:15:00+00:00",
-      "t": "Elhunyt a Szomszédok sztárja: ezek a színészlegendák nincsenek már köztünk a sikersorozat szereplői közül – Galéria",
-      "s": "Újabb veszteség érte a sikersorozat szereposztását.",
-      "p": [
-        "Újabb veszteség érte a sikersorozat szereposztását."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/filmklub/2026/11/kiss-gabor-szomszedok-szereplok-gyasz"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-ce3011e0b7cfc3b3cb",
-      "r": "Megyei",
-      "m": "Békés",
-      "c": "beol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:14:17+00:00",
-      "t": "Varga Mihály Békéscsabán elárulta, mikor lehet reális az euró bevezetése",
-      "s": "Három jubileumot ünnepeltek a gazdasági karon.",
-      "p": [
-        "Három jubileumot ünnepeltek a gazdasági karon."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "beol.hu",
-          "https://www.beol.hu/helyi-gazdasag/2026/11/alfold-economic-forum-varga-mihaly-euro"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-2c9cd07077091f4de7",
-      "r": "Megyei",
-      "m": "Komárom-Esztergom",
-      "c": "dorogimedence.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:12:56+00:00",
-      "t": "Esztergomban is várják az angyalbatyukat: tegyük szebbé a rászoruló gyermekek karácsonyát!",
-      "s": "Játékokkal, könyvekkel, édességekkel és iskolai felszerelésekkel is csatlakozhatnak a térségben élők a Katolikus Karitász Angyalbatyu ajándékgyűjtő akciójához. A felajánlásokat Esztergomban a Simor János utcai Karitász Házban, december 4-én pedig a Széchenyi téri adventi vásárban is fogadják. Az összegyűjtött ajándékokat még karácsony előtt eljuttatják a nélkülöző gyermekekhez.",
-      "p": [
-        "Játékokkal, könyvekkel, édességekkel és iskolai felszerelésekkel is csatlakozhatnak a térségben élők a Katolikus Karitász Angyalbatyu ajándékgyűjtő akciójához. A felajánlásokat Esztergomban a Simor János utcai Karitász Házban, december 4-én pedig a Széchenyi téri adventi vásárban is fogadják. Az összegyűjtött ajándékokat még karácsony előtt eljuttatják a nélkülöző gyermekekhez."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "dorogimedence.hu",
-          "https://dorogimedence.hu/index.php/2026/11/24/esztergomban-is-varjak-az-angyalbatyukat-tegyuk-szebbe-a-raszorulo-gyermekek-karacsonyat/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-f39e1c5f1b4af8f08c",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:12:00+00:00",
-      "t": "Káosz az iskolakezdési utalványok körül: sok helyen nem fogadják el, mások szabadulnának tőle",
-      "s": "Megjött az 50 ezer forintos iskolakezdési utalvány, de az igazi meglepetés a kasszánál érkezik.",
-      "p": [
-        "Megjött az 50 ezer forintos iskolakezdési utalvány, de az igazi meglepetés a kasszánál érkezik."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/gazdasag/2026/11/24/iskolakezdesi-utalvany-iskolakezdes-iskolakezdesi-tamogatas-kiskereskedelem-kormany-fogyasztovedelem/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-2a2347f7d65f238887",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Világgazdaság",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:12:00+00:00",
-      "t": "Búcsúzik az ősz: akár 10 centiméter hó is hullhat, téli üzemmódra kapcsolt a közútkezelő",
-      "s": "Több száz munkagép, több ezer dolgozó és hatalmas mennyiségű síkosságmentesítő anyag áll készenlétben a téli időjárásra.",
-      "p": [
-        "Több száz munkagép, több ezer dolgozó és hatalmas mennyiségű síkosságmentesítő anyag áll készenlétben a téli időjárásra."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Világgazdaság",
-          "https://www.vg.hu/kozelet/2026/11/havazas-hokotro-sozas-utviszonyok-tel-magyar-kozut"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-c549d60fcac19f1b65",
-      "r": "Megyei",
-      "m": "Tolna",
-      "c": "teol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:10:58+00:00",
-      "t": "Érem nélkül, de szép helyezésekkel zártak a tolnai atléták az ob-n",
-      "s": "Negyedik helyekig jutottak a DOVASE és a Szekszárdi Sportközpont futói a 118. Mezei Futó Országos Bajnokságon.",
-      "p": [
-        "Negyedik helyekig jutottak a DOVASE és a Szekszárdi Sportközpont futói a 118. Mezei Futó Országos Bajnokságon."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "teol.hu",
-          "https://www.teol.hu/helyi-sport/2026/11/erem-nelkul-de-szep-helyezesekkel-zartak-a-tolnai-atletak-az-ob-n"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-0e32c8fa35a5ad9df0",
-      "r": "Külföld",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:10:51+00:00",
-      "t": "Magyar Péter Ungváron: A magyar nép elítéli az ukrán nép elleni, öt éve tartó agressziót",
-      "s": "A magyar miniszterelnök és az ukrán elnök közösen koszorúzott az ungvári hősök temetőjében.",
-      "p": [
-        "A magyar miniszterelnök és az ukrán elnök közösen koszorúzott az ungvári hősök temetőjében."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/itthon/20261124_zelenszkij-magyar-peter-ungvar-temeto-koszoru"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-ff81209856ed7ded60",
-      "r": "Megyei",
-      "m": "Borsod-Abaúj-Zemplén",
-      "c": "boon.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:10:13+00:00",
-      "t": "Ez már több a soknál! Undorító dolgot tett a miskolctapolcai BMW-s, ezt már a szemtanú sem hagyta szó nélkül",
-      "s": "Egyik rossz húzás jött a másik után. A BMW sofőrje alaposan kihúzta ezzel a gyufát.",
-      "p": [
-        "Egyik rossz húzás jött a másik után. A BMW sofőrje alaposan kihúzta ezzel a gyufát."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "boon.hu",
-          "https://www.boon.hu/helyi-kozelet/2026/11/bmw-szemet-jarda-felhaborodas-miskolctapolca"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-eb8f8816ebbcfa619c",
-      "r": "Megyei",
-      "m": "Békés",
-      "c": "behir.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:09:49+00:00",
-      "t": "Békéscsabán gyűltek össze a közgazdászok a 30. Alföldi Közgazdasági Napokon",
-      "s": "A Gál Ferenc Egyetem Gazdasági Kara és a Magyar Közgazdasági Társaság Békés Megyei Szervezete Alföld Economic Forum címmel konferenciát szervezett a 30. Alföldi Közgazdasági Napok jubileuma alkalmából kedden délelőtt. Az eseménynek az egyetem szintén kereket évfordulót ünneplő csabai gazdasági kara adott otthont, amelyen Varga Mihály jegybankelnök is beszédet mondott.",
-      "p": [
-        "A Gál Ferenc Egyetem Gazdasági Kara és a Magyar Közgazdasági Társaság Békés Megyei Szervezete Alföld Economic Forum címmel konferenciát szervezett a 30. Alföldi Közgazdasági Napok jubileuma alkalmából kedden délelőtt. Az eseménynek az egyetem szintén kereket évfordulót ünneplő csabai gazdasági kara adott otthont, amelyen Varga Mihály jegybankelnök is beszédet mondott."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "behir.hu",
-          "https://behir.hu/bekescsaban-gyultek-ossze-a-kozgazdaszok-a-30-alfoldi-kozgazdasagi-napokon"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-14243c8e055bf6df19",
-      "r": "Belpolitika",
-      "m": "",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:09:34+00:00",
-      "t": "Közösen koszorúzott Ungváron Zelenszkij és Magyar, a miniszterelnök szerint történelmi nap a mai",
-      "s": "Az ukrán elnök mellett állva a miniszterelnök azt mondta, Magyarország minden lehetséges humanitárius módon támogatja Ukrajnát, és most sem üres kézzel érkeztek. Zelenszkij arról beszélt, hogy a mai nappal valóban új fejezet kezdődött a két ország életében.",
-      "p": [
-        "Az ukrán elnök mellett állva a miniszterelnök azt mondta, Magyarország minden lehetséges humanitárius módon támogatja Ukrajnát, és most sem üres kézzel érkeztek. Zelenszkij arról beszélt, hogy a mai nappal valóban új fejezet kezdődött a két ország életében."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/kulfold/2026/11/24/magyar-peter-volodimir-zelenszkij-koszoruzas-ungvar-ukrajna"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-fded8f5489ea515a91",
-      "r": "Közélet",
-      "m": "",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:08:00+00:00",
-      "t": "Ungváron koszorúzott közösen Magyar Péter és Volodimir Zelenszkij, a magyar kisebbség jogairól is tárgyalnak",
-      "s": "Tizenegy év után látogatott el magyar kormányfő Ukrajnába.",
-      "p": [
-        "Tizenegy év után látogatott el magyar kormányfő Ukrajnába."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/kulfold/2026/11/24/ukrajna-magyar-peter-volodimir-zelenszkij-koszoruzas/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-9fa9278a6cd1545b41",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:06:00+00:00",
-      "t": "Házkutatást tartottak hét civil szervezetnél, több mint másfél milliárd forint támogatást vizsgálnak",
-      "s": "A Nemzeti Nyomozó Iroda 12 helyszínen tartott kutatást, iratokat és elektronikus adatokat foglaltak le. Hűtlen kezelés gyanúja miatt folyik nyomozás.",
-      "p": [
-        "A Nemzeti Nyomozó Iroda 12 helyszínen tartott kutatást, iratokat és elektronikus adatokat foglaltak le. Hűtlen kezelés gyanúja miatt folyik nyomozás."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/kek-hirek/2026/11/civil-szervezetek-hazkutatas-tamogatas"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-3d8b504e30bb4b1f5b",
-      "r": "Belpolitika",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:05:54+00:00",
-      "t": "Ramzan Kadirov csecsen vezető fia megváltoztatta a nevét, és szerb útlevéllel utazgat Európában",
-      "s": "Ali Kadirovnak szerb állampolgárságot is adtak Aleksandar Vucicék, nem egyedüliként a Putyin-közeli befolyásos emberek közül.",
-      "p": [
-        "Ali Kadirovnak szerb állampolgárságot is adtak Aleksandar Vucicék, nem egyedüliként a Putyin-közeli befolyásos emberek közül."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261124_ali-kadirov-szerb-utlevel-allampolgarsag-utazgatas"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-5c4e6fb87da97535a7",
-      "r": "Sport",
-      "m": "",
-      "c": "Racingline",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:03:51+00:00",
-      "t": "Most a McLarent és a Red Bullt vádolják azzal, amivel pár hónapja még a Ferrarit",
-      "s": "Carlos Sainz ferde szemmel néz a McLaren és a Red Bull szezon végi formajavulására.",
-      "p": [
-        "Carlos Sainz ferde szemmel néz a McLaren és a Red Bull szezon végi formajavulására."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Racingline",
-          "https://racingline.hu/forma-1/sainz-mclaren-red-bull-williams-fejlesztes"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-7660469cab1e0ae187",
-      "r": "Közélet",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:03:00+00:00",
-      "t": "Megmutatta a Nothing a kijelző nélküli kütyüjét",
-      "s": "A mesterséges intelligencia vezérli majd azt a szerkezetet, amit a Nothing december 8-án mutathat majd be.",
-      "p": [
-        "A mesterséges intelligencia vezérli majd azt a szerkezetet, amit a Nothing december 8-án mutathat majd be."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/tudomany/20261124_nothing-ear-note-fulhallgato-mesterseges-intelligencia"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-94c9042b8de7d43933",
-      "r": "Közélet",
-      "m": "",
-      "c": "Telex",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:02:31+00:00",
-      "t": "Lélektani határt lépett át a kínai autók részesedése Európában",
-      "s": "Minden tizedik eladott új autó kínai hátterű volt az EU-ban az első tíz hónapban, ha a tulajdonosa miatt a Volvót is idesoroljuk. A szélesebb európai autópiacon ennél is nagyobb a kínai részesedés.",
-      "p": [
-        "Minden tizedik eladott új autó kínai hátterű volt az EU-ban az első tíz hónapban, ha a tulajdonosa miatt a Volvót is idesoroljuk. A szélesebb európai autópiacon ennél is nagyobb a kínai részesedés."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Telex",
-          "https://telex.hu/g7/adat/2026/11/24/kinai-autok-europa-acea-adatok-volvo"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-74d19d8fb790815d03",
-      "r": "Sport",
-      "m": "",
-      "c": "Nemzeti Sport",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:02:07+00:00",
-      "t": "Ázsiában talált csapatot az előző idényben még NB I-ben játszó légiós",
-      "s": "Sodiq Rasheedot nyáron küldte el a kiesett Kazincbarcika, azóta klub nélkül volt.",
-      "p": [
-        "Sodiq Rasheedot nyáron küldte el a kiesett Kazincbarcika, azóta klub nélkül volt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Nemzeti Sport",
-          "https://nemzetisport.hu/minden-mas-foci/2026/11/azsiaban-talalt-csapatot-az-elozo-idenyben-meg-nb-i-ben-jatszo-legios"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-fef2a2bf9869f9effc",
-      "r": "Megyei",
-      "m": "Borsod-Abaúj-Zemplén",
-      "c": "boon.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:02:07+00:00",
-      "t": "Lángok csaptak fel egy ózdi épületben",
-      "s": "Tűz ütött ki kedden délután.",
-      "p": [
-        "Tűz ütött ki kedden délután."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "boon.hu",
-          "https://www.boon.hu/helyi-kek-hirek/2026/11/tuz-katasztrofavedelem-ozd-tuzolto"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-f968e3be78c778d2ba",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Agrárszektor",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:01:00+00:00",
-      "t": "Sötét jövőt jósol a szakértő a magyaroknak is: innen már lehet, hogy nincs visszaút",
-      "s": "A felmelegedés visszafordítása már lehetetlen, de a folyamat megállítása még elhozhat egy élhetőbb jövőt.",
-      "p": [
-        "A felmelegedés visszafordítása már lehetetlen, de a folyamat megállítása még elhozhat egy élhetőbb jövőt."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Agrárszektor",
-          "https://www.agrarszektor.hu/fenntarthatosag/20261124/sotet-jovot-josol-a-szakerto-a-magyaroknak-is-innen-mar-lehet-hogy-nincs-visszaut-65901"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-a00bd3f8685d388b23",
-      "r": "Megyei",
-      "m": "Csongrád-Csanád",
-      "c": "delmagyar.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:55+00:00",
-      "t": "Hatalmas szenzációt szolgáltatott a zsombói parasportlövő",
-      "s": "Világbajnoki ezüstérem után újabb nagy sikert ért el.",
-      "p": [
-        "Világbajnoki ezüstérem után újabb nagy sikert ért el."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "delmagyar.hu",
-          "https://www.delmagyar.hu/helyi-sport/2026/11/rescsik-csaba-parasportlovo-hungarian-open-budapest"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-6b7c4c388b51b350a2",
-      "r": "Sport",
-      "m": "",
-      "c": "Jégkorongblog",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:28+00:00",
-      "t": "Sidney Crosby szeretne a Penguinsből visszavonulni",
-      "s": "Pat Brisson, a csatár ügynöke úgy fogalmazott: a csatár célja, hogy örökre pingvin legyen.",
-      "p": [
-        "Pat Brisson, a csatár ügynöke úgy fogalmazott: a csatár célja, hogy örökre pingvin legyen."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Jégkorongblog",
-          "https://jegkorongblog.hu/2026/11/24/sidney-crosby-orokre-pingvin-maradna/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-1dfbffd42080e9f67a",
-      "r": "Sport",
-      "m": "",
-      "c": "FociClub",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:21+00:00",
-      "t": "Pep Guardiola után Enzo Maresca is bízik benne: új szerződést kaphat a Manchester City portugálja",
-      "s": "A középpályásból lett védő jó teljesítményét a klub egy szerződéshosszabbítással hálálná meg...",
-      "p": [
-        "A középpályásból lett védő jó teljesítményét a klub egy szerződéshosszabbítással hálálná meg..."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "FociClub",
-          "https://www.fociclub.hu/2026/11/24/pep-guardiola-utan-enzo-maresca-is-bizik-benne-uj-szerzodest-kaphat-a-manchester-city-portugalja/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-852c28de9c95eb6206",
-      "r": "Közélet",
-      "m": "",
-      "c": "Vezess",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:01+00:00",
-      "t": "Máris bedurvul a tél, 813 géppel várják a havat a magyar utakon",
-      "s": "Intenzív havazás érheti el szerdán és csütörtökön az országot. A november 10. óta téli üzemmódban dolgozó Magyar Közút készenlétben áll.",
-      "p": [
-        "Intenzív havazás érheti el szerdán és csütörtökön az országot. A november 10. óta téli üzemmódban dolgozó Magyar Közút készenlétben áll."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Vezess",
-          "https://www.vezess.hu/hirek/2026/11/24/maris-bedurvul-a-tel-813-geppel-varjak-a-havat-a-magyar-utakon/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-c48522b2e9fd920e67",
-      "r": "Közélet",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "t": "Tényleg elfogy a víz, és drágul az áram az adatközpontok miatt?",
-      "s": "Mindenféle rossz szándék nélkül legeneráltatunk egy képet a mesterséges intelligenciával, mire az azt hajtó szerverpark kiissza a Balatont, és elfogyasztja Paksot – legalábbis a legnagyobb félelmeink szerint. Mennyire áll közel ehhez a valóság?",
-      "p": [
-        "Mindenféle rossz szándék nélkül legeneráltatunk egy képet a mesterséges intelligenciával, mire az azt hajtó szerverpark kiissza a Balatont, és elfogyasztja Paksot – legalábbis a legnagyobb félelmeink szerint. Mennyire áll közel ehhez a valóság?"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/360/20261124_ai8-adatkozpontok-energiarak-vizfogyasztas"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-c55b9dab33d31be00a",
-      "r": "Közélet",
-      "m": "",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "t": "Ezt is megértük: vadonatúj Ikarus busz tűnik fel Budapest útjain!",
-      "s": "Megkezdte próbafutását a különleges midi a Gellérthegyen.",
-      "p": [
-        "Megkezdte próbafutását a különleges midi a Gellérthegyen."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/auto/2026/11/ikarus-uj-midibusz-budapesten"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-11054befec1e6fabc3",
-      "r": "Megyei",
-      "m": "Bács-Kiskun",
-      "c": "kecsup.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "t": "Az NJEA korábbi kuratóriuma közölte: \"természetesen hallgatók is részt vettek\" a bugaci ingatlanokon szervezett eseményeken",
-      "s": "Az egyetemi alapítvány volt kuratóriuma elküldött szerkesztőségünknek egy listát arról, milyen események voltak az NJEA tulajdonában lévő bugaci ingatlanokon. Egyetemi hallgatókat 15 eseménynél jeleznek, legkevesebb 6, legfeljebb 14 fővel.",
-      "p": [
-        "Az egyetemi alapítvány volt kuratóriuma elküldött szerkesztőségünknek egy listát arról, milyen események voltak az NJEA tulajdonában lévő bugaci ingatlanokon. Egyetemi hallgatókat 15 eseménynél jeleznek, legkevesebb 6, legfeljebb 14 fővel."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "kecsup.hu",
-          "https://kecsup.hu/2026/11/az-njea-korabbi-kuratoriuma-kozolte-termeszetesen-hallgatok-is-reszt-vettek-a-bugaci-ingatlanokon-szervezett-esemenyeken/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-4428a411e28f52fcd5",
-      "r": "Megyei",
-      "m": "Hajdú-Bihar",
-      "c": "haon.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "t": "Emelhetik a DKV jegy- és bérletárait",
-      "s": "Nem mindenki érintett, de a debreceniek jelentős része számára drágább lesz a buszbérlet.",
-      "p": [
-        "Nem mindenki érintett, de a debreceniek jelentős része számára drágább lesz a buszbérlet."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "haon.hu",
-          "https://www.haon.hu/helyi-kozelet/2026/11/berletar-buszjegy-villamos-debrecen-dkv-jarat"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-392394419aba27eb9c",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Privátbankár",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:57:00+00:00",
-      "t": "Újabb nagy bizniszbe vágta a fejszéjét a 4iG",
-      "s": "Megint céget vásárolt fel a hazai óriásvállalat.",
-      "p": [
-        "Megint céget vásárolt fel a hazai óriásvállalat."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Privátbankár",
-          "https://privatbankar.hu/cikkek/vallalat/ujabb-nagy-bizniszbe-vagta-a-fejszejet-a-4ig.html?utm_source=rss&utm_medium=referral"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-49ca9a65889318e31e",
-      "r": "Közélet",
-      "m": "",
-      "c": "HVG",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:56:42+00:00",
-      "t": "Betörtek Vilmos herceg és Katalin hercegné vidéki rezidenciájára",
-      "s": "Két embert letartóztattak. A hercegi pár nem tartózkodott a házban.",
-      "p": [
-        "Két embert letartóztattak. A hercegi pár nem tartózkodott a házban."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "HVG",
-          "https://hvg.hu/elet/20261124_vilmos-herceg-katalin-hercegno-wales-betores-rezidencia-walesi-herceg-kate-middleton"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-bfb4a530fedd4ae848",
-      "r": "Megyei",
-      "m": "Fejér",
-      "c": "feol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:56:38+00:00",
-      "t": "Három autó karambolozott az M7-esen, Pázmánd közelében",
-      "s": "A baleset Pázmánd közelében lassítja a Budapest felé haladó forgalmat.",
-      "p": [
-        "A baleset Pázmánd közelében lassítja a Budapest felé haladó forgalmat."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "feol.hu",
-          "https://www.feol.hu/helyi-kek-hirek/2026/11/harom-auto-karambolozott-m7-es-pazmand"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-6f723834139a910978",
-      "r": "Közélet",
-      "m": "",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:56:00+00:00",
-      "t": "A parádézó Szoboszlai Dominik bekerült az angol bajnokság álomcsapatába",
-      "s": "A Manchester United ellen remek játéka mellett szabadrúgásból gólt is szerzett.",
-      "p": [
-        "A Manchester United ellen remek játéka mellett szabadrúgásból gólt is szerzett."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/sport/futball/2026/11/24/premier-league-11.-fordulo-alomcsapat-whoscored.com-szoboszlai-dominik-liverpool-manchester-united/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e6e9207cf4830863af",
-      "r": "Közélet",
-      "m": "",
-      "c": "Magyar Hang",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:55:00+00:00",
-      "t": "Észtország készül rá, mit tegyenek egy esetleges orosz invázió vagy megszállás esetén",
-      "s": "A kormányzati szolgáltatásokat külföldről, felhőalapú rendszereken keresztül működtetnék tovább.",
-      "p": [
-        "A kormányzati szolgáltatásokat külföldről, felhőalapú rendszereken keresztül működtetnék tovább."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Magyar Hang",
-          "https://hang.hu/kulfold/esztorszag-a-felhobol-kormanyozna-orosz-megszallas-eseten-194117"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-3ad45423b87d02308e",
-      "r": "Megyei",
-      "m": "Nógrád",
-      "c": "nool.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:54:22+00:00",
-      "t": "Meglepő fizetési adat érkezett Nógrádból: ez a korcsoport keres a legjobban",
-      "s": "Nógrádban közel 193 ezer forint a különbség az idősebbek javára.",
-      "p": [
-        "Nógrádban közel 193 ezer forint a különbség az idősebbek javára."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "nool.hu",
-          "https://www.nool.hu/helyi-gazdasag/2026/11/nograd-brutto-atlagkereset-65-ev-feletti"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-acc3b2978399364cf1",
-      "r": "Közélet",
-      "m": "",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:54:21+00:00",
-      "t": "Lúgos orvos-ügy: tagadja a vádakat a férfi, aki állítólag életveszélyesen megfenyegette Renner Erikát",
-      "s": "Mit mondott valójában R. László?",
-      "p": [
-        "Mit mondott valójában R. László?"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/kek-hirek/2026/11/lugos-orvos-ugy-tagadja-a-vadakat-a-ferfi"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e6ee645310fc8377a8",
-      "r": "Sport",
-      "m": "",
-      "c": "Formula.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T14:54:00+00:00",
-      "t": "Már kapható az Autósport évkönyv 2026 – több mint 50 bajnokság egyetlen kötetben!",
-      "s": "Már megrendelhető az Autósport évkönyv 2026: a több mint 200 oldalas, színes, keményfedeles kötet több mint 50 hazai és nemzetközi versenysorozat 2026-os idényét mutatja be.",
-      "p": [
-        "Már megrendelhető az Autósport évkönyv 2026: a több mint 200 oldalas, színes, keményfedeles kötet több mint 50 hazai és nemzetközi versenysorozat 2026-os idényét mutatja be."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Formula.hu",
-          "https://formula.hu/f1/2026/11/24/mar-kaphato-az-autosport-evkonyv-2026-tobb-mint-50-bajnoksag-egyetlen-kotetben"
         ]
       ],
       "img": "",
