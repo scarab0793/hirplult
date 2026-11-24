@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:13:16.424840+00:00",
+  "updated_at": "2026-11-24T20:20:12.673220+00:00",
   "sources_ok": [
     "Telex",
     "HVG",
@@ -125,6 +125,222 @@
   ],
   "items": [
     {
+      "id": "rss-4dc6260f4fc4db5264",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Economx",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:20:00+00:00",
+      "t": "Új expresszjárat indul a repülőtérről a magyarok egyik kedvenc vidéki városába",
+      "s": "Új expresszbusz indulását jelentette be a közlekedési és beruházási miniszter.",
+      "p": [
+        "Új expresszbusz indulását jelentette be a közlekedési és beruházási miniszter."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Economx",
+          "https://www.economx.hu/belfold/budapest-ferihegy-pecs-expressz-buszjarat-vitezy-david/"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-567203d173103d4ee1",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Világgazdaság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:15:24+00:00",
+      "t": "Szupersztárként ünnepelték a botrány után visszatérő Nvidia-vezért – Trump elárulta, hogy simította el a dolgokat, de ez nem mindenkit nyugtat meg",
+      "s": "Jensen Huang hangos visszatérése ugyanakkor korántsem zárta le az ügyet, sőt újabb kérdéseket vetett fel az Nvidia jövőjével és az amerikai elnök szerepvállalásával kapcsolatban.",
+      "p": [
+        "Jensen Huang hangos visszatérése ugyanakkor korántsem zárta le az ügyet, sőt újabb kérdéseket vetett fel az Nvidia jövőjével és az amerikai elnök szerepvállalásával kapcsolatban."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Világgazdaság",
+          "https://www.vg.hu/nemzetkozi-gazdasag/2026/11/jensen-huang-nvidia-vezer-visszateres-kembotrany-trump"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-e5fe4f4a15303705a3",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Világgazdaság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:15:18+00:00",
+      "t": "Hatalmas terjeszkedésbe kezd külföldön a magyar óriásvállalat, bevásárlóközpontok sorát szerezheti meg: most fog dönteni a felvásárlásról a hatóság",
+      "s": "A biatorbágyi Premier Outlet megszerzése után újabb kereskedelmi ingatlanokkal bővítheti érdekeltségeit a Futureal.",
+      "p": [
+        "A biatorbágyi Premier Outlet megszerzése után újabb kereskedelmi ingatlanokkal bővítheti érdekeltségeit a Futureal."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Világgazdaság",
+          "https://www.vg.hu/cegvilag/2026/11/bevasarlokozpont-futureal-felvasarlas-lengyelorszag"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-4b60f531fa963edf8d",
+      "r": "Sport",
+      "m": "",
+      "c": "Nemzeti Sport",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:15:10+00:00",
+      "t": "Videó: Cristiano Ronaldo betalált, már 987 gólnál jár",
+      "s": "A portugál klasszis az Al-Szadd elleni Bajnokok Ligája-mérkőzésen volt eredményes. Joao Félix parádés gólja győzelmet ért.",
+      "p": [
+        "A portugál klasszis az Al-Szadd elleni Bajnokok Ligája-mérkőzésen volt eredményes. Joao Félix parádés gólja győzelmet ért."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Nemzeti Sport",
+          "https://nemzetisport.hu/minden-mas-foci/2026/11/video-cristiano-ronaldo-betalalt-mar-987-golnal-jar"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-07bcd340935d0ff0ca",
+      "r": "Közélet",
+      "m": "",
+      "c": "Origo",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:15:00+00:00",
+      "t": "Két olyan szigetre bukkantak a tudósok, amelyet korábban még nem taposott emberi láb",
+      "s": "Két eddig még talán nem ismert fajt találtak az atollokon.",
+      "p": [
+        "Két eddig még talán nem ismert fajt találtak az atollokon."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Origo",
+          "https://www.origo.hu/tudomany/2026/11/szigetre-bukkantak-tudosok-korabban-nem-taposott-ember"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-dc0f418c0e720c109e",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:13:00+00:00",
+      "t": "Megint elromlott a hangulat, újra esnek a tőzsdék",
+      "s": "Jensen Huang visszatérésének hírére tegnap közel 7 százalékkal emelkedett a Nasaq, és közel 32 százalékkal az Nvidia. A technológiai papírokat tömörítő index tavaly április óta nem zárt ilyen erős napot. Ezt követően ma reggel Ázsiában felemás, de többnyire pozitív kereskedést láthattunk, Európában viszont esés következett a nyitást követően, és a magyar tőzsdén is elfogyott a ",
+      "p": [
+        "Jensen Huang visszatérésének hírére tegnap közel 7 százalékkal emelkedett a Nasaq, és közel 32 százalékkal az Nvidia. A technológiai papírokat tömörítő index tavaly április óta nem zárt ilyen erős napot. Ezt követően ma reggel Ázsiában felemás, de többnyire pozitív kereskedést láthattunk, Európában viszont esés következett a nyitást követően, és a magyar tőzsdén is elfogyott a "
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/uzlet/20261124/megint-elromlott-a-hangulat-ujra-esnek-a-tozsdek-878616"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-597da27e1ea0393f61",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:13:00+00:00",
+      "t": "Alig tért vissza az Nvidia botrányba keveredett vezére, máris megüzente: nem lesznek nagy változások",
+      "s": "Jensen Huang, az Nvidia vezérigazgatója a Financial Times értesülése szerint kiállt a vállalat központosított irányítási modellje mellett, és nem tervez átfogó változásokat a cég vezetésében. A keddi összdolgozói értekezleten Huang bocsánatot kért a munkatársaktól, és megígérte, hogy nyitottabb lesz a visszajelzésekre.",
+      "p": [
+        "Jensen Huang, az Nvidia vezérigazgatója a Financial Times értesülése szerint kiállt a vállalat központosított irányítási modellje mellett, és nem tervez átfogó változásokat a cég vezetésében. A keddi összdolgozói értekezleten Huang bocsánatot kért a munkatársaktól, és megígérte, hogy nyitottabb lesz a visszajelzésekre."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/uzlet/20261124/alig-tert-vissza-az-nvidia-botranyba-keveredett-vezere-maris-meguzente-nem-lesznek-nagy-valtozasok-878872"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-115d08b4a3b3dcb4a3",
+      "r": "Gazdaság",
+      "m": "",
+      "c": "Portfolio",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:11:00+00:00",
+      "t": "Megállapodott Magyar Péter Volodimir Zelenszkijjel: erről tárgyalt a két vezető Kárpátalján",
+      "s": "Kárpátalján találkozott kedden Volodimir Zelenszkij ukrán elnök és Magyar Péter magyar miniszterelnök. Az ungvári katonai temetőben tartott koszorúzást követően a két vezető Beregszászra érkezett, és a Kossuth Lajos Líceumban egy egymás elleni röplabdameccsen vettek részt. A napot egy nemzetközi sajtótájékoztatóval zárták, amely este 9 óra után ért véget.",
+      "p": [
+        "Kárpátalján találkozott kedden Volodimir Zelenszkij ukrán elnök és Magyar Péter magyar miniszterelnök. Az ungvári katonai temetőben tartott koszorúzást követően a két vezető Beregszászra érkezett, és a Kossuth Lajos Líceumban egy egymás elleni röplabdameccsen vettek részt. A napot egy nemzetközi sajtótájékoztatóval zárták, amely este 9 óra után ért véget."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "Portfolio",
+          "https://www.portfolio.hu/global/20261124/megallapodott-magyar-peter-volodimir-zelenszkijjel-errol-targyalt-a-ket-vezeto-karpataljan-878868"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
       "id": "rss-d23a5852b260749475",
       "r": "Megyei",
       "m": "Pest",
@@ -160,10 +376,10 @@
       "st": "Jelentett",
       "time": "nov. 24.",
       "published_at": "2026-11-24T20:10:56+00:00",
-      "t": "Teljes sokk Szegeden: egy húszéves nő holttestére bukkantak - Mindenkit riasztottak!",
-      "s": "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves fiatal nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget.",
+      "t": "Teljes sokk Szegeden: egy húszéves nő holttestére bukkantak, mindenkit riasztottak",
+      "s": "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget.",
       "p": [
-        "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves fiatal nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget."
+        "A mentők megpróbálták újraéleszteni, de már nem tudták megmenteni annak a húszéves nőnek az életét, akire a szegedi Kockaház utcában találtak rá. A helyszínre a rendőrök és a tűzoltók is kivonultak, a hatóságok kizárták az idegenkezűséget."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -395,33 +611,6 @@
       "cred": ""
     },
     {
-      "id": "rss-dc0f418c0e720c109e",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T20:01:00+00:00",
-      "t": "Megint elromlott a hangulat, újra esnek a tőzsdék",
-      "s": "Jensen Huang visszatérésének hírére tegnap közel 7 százalékkal emelkedett a Nasaq, és közel 32 százalékkal az Nvidia. A technológiai papírokat tömörítő index tavaly április óta nem zárt ilyen erős napot. Ezt követően ma reggel Ázsiában felemás, de többnyire pozitív kereskedést láthattunk, Európában viszont esés következett a nyitást követően, és a magyar tőzsdén is elfogyott a ",
-      "p": [
-        "Jensen Huang visszatérésének hírére tegnap közel 7 százalékkal emelkedett a Nasaq, és közel 32 százalékkal az Nvidia. A technológiai papírokat tömörítő index tavaly április óta nem zárt ilyen erős napot. Ezt követően ma reggel Ázsiában felemás, de többnyire pozitív kereskedést láthattunk, Európában viszont esés következett a nyitást követően, és a magyar tőzsdén is elfogyott a "
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/uzlet/20261124/megint-elromlott-a-hangulat-ujra-esnek-a-tozsdek-878616"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
       "id": "rss-7ec8a016c7403546b6",
       "r": "Közélet",
       "m": "",
@@ -495,6 +684,33 @@
         [
           "beol.hu",
           "https://www.beol.hu/helyi-kozelet/2026/11/haluska-mesehaz-makos-tesztaetelek-haluskaleves"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": ""
+    },
+    {
+      "id": "rss-19ae78b224d9194b8c",
+      "r": "Megyei",
+      "m": "Jász-Nagykun-Szolnok",
+      "c": "szoljon.hu",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:00:00+00:00",
+      "t": "29 évig volt az abonyiak lelkipásztora, most a plébánia falán is tovább él az emléke",
+      "s": "András atya emléke tovább él Abonyban, ahol vasárnap emléktáblát avattak a tiszteletére.",
+      "p": [
+        "András atya emléke tovább él Abonyban, ahol vasárnap emléktáblát avattak a tiszteletére."
+      ],
+      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
+      "op": "",
+      "src": [
+        [
+          "szoljon.hu",
+          "https://www.szoljon.hu/helyi-kozelet/2026/11/emlektabla-avatas-nagy-andras-atya"
         ]
       ],
       "img": "",
@@ -1105,10 +1321,10 @@
       "st": "Jelentett",
       "time": "nov. 24.",
       "published_at": "2026-11-24T19:40:01+00:00",
-      "t": "Pályán Vitálisék, a Real és az Arsenal is – BL-eredménykövető",
-      "s": "A Manchester City a Napolit, a Leipzig a Lenst fogadja.",
+      "t": "Három perc alatt két gólt szerzett a Leipzig, elsült Gyökeres lába – BL-eredménykövető",
+      "s": "Vezet a Porto a Feyenoord vendégeként.",
       "p": [
-        "A Manchester City a Napolit, a Leipzig a Lenst fogadja."
+        "Vezet a Porto a Feyenoord vendégeként."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -1294,7 +1510,7 @@
       "st": "Jelentett",
       "time": "nov. 24.",
       "published_at": "2026-11-24T19:32:58+00:00",
-      "t": "„Hiányzik egy madár a csodálatos munkácsi várról” – közös sajtótájékoztatót tart Magyar Péter és Volodimir Zelenszkij",
+      "t": "„Hiányzik egy madár a csodálatos munkácsi várról” – közös sajtótájékoztatót tartott Magyar Péter és Volodimir Zelenszkij",
       "s": "A két vezető Kárpátalján találkozott.",
       "p": [
         "A két vezető Kárpátalján találkozott."
@@ -2240,9 +2456,9 @@
       "time": "nov. 24.",
       "published_at": "2026-11-24T19:13:31+00:00",
       "t": "Magyar Péter Beregszászon: Magyarországnak kulcsszerepe lesz az ukrán újjáépítésben",
-      "s": "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni.",
+      "s": "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre, Magyar Péter erre meg is hívta az ukrán elnököt. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni.",
       "p": [
-        "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni."
+        "Zelenszkij azt mondta, hogy ha ő lenne a magyar miniszterelnök, meghívná magát Budapestre, Magyar Péter erre meg is hívta az ukrán elnököt. Bejelentették, hogy fejlesztik a Kijev–Budapest-vasútvonalat, a közös határátkelőket és a turizmust, de az ukrán kukoricáról is fognak tárgyalni."
       ],
       "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
       "op": "",
@@ -3681,33 +3897,6 @@
         [
           "budapestkornyeke.hu",
           "https://budapestkornyeke.hu/fegyverrel-menekul-az-elettarsat-kivegzo-ferfi-a-rendorseg-figyelmeztet-senki-ne-tartoztassa-fel/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-41fba40c6c89837843",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Economx",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T18:52:00+00:00",
-      "t": "Élesedik a kormányválság a költségvetés miatt, a nyugdíjaknál akadhat el az együttműködés",
-      "s": "Egyre látványosabbak a repedések a német kormánykoalíción: Fridriech Merz kereszténydemokrata-szocdem kabinetje több kulcsfontosságú reformkérdésben is élesen egymásnak feszül, a két párt egyre nehezebben talál közös nevezőt. Elemzők szerint a konfliktusok már nem egyszerű szakpolitikai viták, hanem a kormány cselekvőképességét is bénítják. A legnagyobb aknamező a tervezett nyu",
-      "p": [
-        "Egyre látványosabbak a repedések a német kormánykoalíción: Fridriech Merz kereszténydemokrata-szocdem kabinetje több kulcsfontosságú reformkérdésben is élesen egymásnak feszül, a két párt egyre nehezebben talál közös nevezőt. Elemzők szerint a konfliktusok már nem egyszerű szakpolitikai viták, hanem a kormány cselekvőképességét is bénítják. A legnagyobb aknamező a tervezett nyu"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Economx",
-          "https://www.economx.hu/kulfold/elesedik-kormanyvalsag-koltsegvetes-nyugdij-reform-nemetorszag-koalicio-merz-egyuttmukodes/"
         ]
       ],
       "img": "",
@@ -7388,33 +7577,6 @@
       "cred": ""
     },
     {
-      "id": "rss-e783e188b4394c731f",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T17:45:00+00:00",
-      "t": "Újabb pusztító háború robbanhat ki – A világ súlyosan alábecsüli a veszélyt, brutális energiaárrobbanás jöhet",
-      "s": "A világ alábecsüli annak a veszélyét, hogy újra teljes körű háború törhet ki az Egyesült Államok, Izrael és Irán között, figyelmeztet a Bloomberg elemzője. Bár az amerikai olajblokád működik, és a térség nem iráni olajexportja már a háború előtti szint 90 százalékán áll, Teherán számára tarthatatlan a jelenlegi patthelyzet. Mivel a megadás szóba sem jöhet, az iráni vezetés a ho",
-      "p": [
-        "A világ alábecsüli annak a veszélyét, hogy újra teljes körű háború törhet ki az Egyesült Államok, Izrael és Irán között, figyelmeztet a Bloomberg elemzője. Bár az amerikai olajblokád működik, és a térség nem iráni olajexportja már a háború előtti szint 90 százalékán áll, Teherán számára tarthatatlan a jelenlegi patthelyzet. Mivel a megadás szóba sem jöhet, az iráni vezetés a ho"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261124/ujabb-pusztito-haboru-robbanhat-ki-a-vilag-sulyosan-alabecsuli-a-veszelyt-brutalis-energiaarrobbanas-johet-878816"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
       "id": "rss-88b3e92c37b3a45ad3",
       "r": "Megyei",
       "m": "Békés",
@@ -7434,33 +7596,6 @@
         [
           "beol.hu",
           "https://www.beol.hu/helyi-kozelet/2026/11/vasutas-emlektabla-tarsasjatek-koncert"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-6386c00b148278bd73",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Portfolio",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T17:44:00+00:00",
-      "t": "Keményen asztalra csapott a NATO keleti bástyája: orosz fegyverek csapódtak be, bekérették a nagykövetet",
-      "s": "Bekérették kedden a lengyel külügyminisztériumba Oroszország varsói nagykövetét annak kapcsán, hogy a múlt héten három, orosz gyártmányúként azonosított manőverező robotrepülőgép zuhant le Délkelet-Lengyelországban - közölte az onet.pl lengyel hírportál.",
-      "p": [
-        "Bekérették kedden a lengyel külügyminisztériumba Oroszország varsói nagykövetét annak kapcsán, hogy a múlt héten három, orosz gyártmányúként azonosított manőverező robotrepülőgép zuhant le Délkelet-Lengyelországban - közölte az onet.pl lengyel hírportál."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Portfolio",
-          "https://www.portfolio.hu/global/20261124/kemenyen-asztalra-csapott-a-nato-keleti-bastyaja-orosz-fegyverek-csapodtak-be-bekerettek-a-nagykovetet-878846"
         ]
       ],
       "img": "",
@@ -16182,141 +16317,6 @@
         [
           "National Geographic",
           "https://ng.24.hu/tudomany/2026/11/24/perseverance-marsjaro-mars-odyssey-leallas/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-538ad1efb6d868bc7b",
-      "r": "Gazdaság",
-      "m": "",
-      "c": "Menedzsment Fórum",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:20:00+00:00",
-      "t": "Baka András kapott egy levelet, valamit válaszolnia kell",
-      "s": "Baka András kapott egy levelet, valamit válaszolnia kell",
-      "p": [
-        "Baka András kapott egy levelet, valamit válaszolnia kell"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Menedzsment Fórum",
-          "https://mfor.hu/cikkek/kozelet/baka-andras-kapott-egy-levelet-valamit-valaszolni-a-kell.html?utm_source=rss&utm_medium=referral"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e4591cec76add20bba",
-      "r": "Megyei",
-      "m": "Fejér",
-      "c": "feol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:20:00+00:00",
-      "t": "A biztonságosabb, élhetőbb környezetért tett nagy lépést ez a település Fejérben",
-      "s": "Kisapostagon járdák épültek, megújultak közterületek, és a csapadékvíz-elvezetést korszerűsítették.",
-      "p": [
-        "Kisapostagon járdák épültek, megújultak közterületek, és a csapadékvíz-elvezetést korszerűsítették."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "feol.hu",
-          "https://www.feol.hu/helyi-kozelet/2026/11/biztonsagosabb-kozlekedes-kornyezet-fejlesztesek-fejer"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-b0ea8f77c54f8636eb",
-      "r": "Közélet",
-      "m": "",
-      "c": "Index",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:19:39+00:00",
-      "t": "Mák Kata a szereplésről: „A műsorvezetést nagyon szívesen csinálom, de a teljesítmény nélküli, üres magamutogatást nem”",
-      "s": "Mák Kata a szereplésről: „A műsorvezetést nagyon szívesen csinálom, de a teljesítmény nélküli, üres magamutogatást nem”",
-      "p": [
-        "Mák Kata a szereplésről: „A műsorvezetést nagyon szívesen csinálom, de a teljesítmény nélküli, üres magamutogatást nem”"
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Index",
-          "https://index.hu/mindekozben/poszt/2026/11/24/mak-kata-szereples-tevezes-musorvezetes-radio/"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-e953a3aa03957f1a19",
-      "r": "Megyei",
-      "m": "Zala",
-      "c": "zaol.hu",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:19:32+00:00",
-      "t": "Petíció indult a keszthelyi gyermekosztályért – nem engednék megszüntetni",
-      "s": "Petíció indult a Keszthelyi Kórház 0-24 órás gyermekgyógyászati fekvőbeteg-ellátásának megőrzéséért.",
-      "p": [
-        "Petíció indult a Keszthelyi Kórház 0-24 órás gyermekgyógyászati fekvőbeteg-ellátásának megőrzéséért."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "zaol.hu",
-          "https://www.zaol.hu/helyi-kozelet/2026/11/gyermekosztaly-nem-engednek-megszuntetni"
-        ]
-      ],
-      "img": "",
-      "imgs": "",
-      "imgl": "",
-      "cred": ""
-    },
-    {
-      "id": "rss-ea84fbf921f8f0b2c8",
-      "r": "Közélet",
-      "m": "",
-      "c": "Origo",
-      "w": "",
-      "st": "Jelentett",
-      "time": "nov. 24.",
-      "published_at": "2026-11-24T15:19:24+00:00",
-      "t": "Íme a részletes adóváltozások, amelyeket megszavazott ma az Országgyűlés",
-      "s": "Magyar Péter a kampányban még azt ígérte, hogy minden adó csökken vagy változatlan marad.",
-      "p": [
-        "Magyar Péter a kampányban még azt ígérte, hogy minden adó csökken vagy változatlan marad."
-      ],
-      "cav": "Automatikusan átvett RSS-ajánló, egyetlen forrás alapján. Részletek az eredeti cikkben.",
-      "op": "",
-      "src": [
-        [
-          "Origo",
-          "https://www.origo.hu/belpol/2026/11/ado-emeles-valtozas-tisza-orszaggyules-vagyonado-kata"
         ]
       ],
       "img": "",
