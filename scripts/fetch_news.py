@@ -142,10 +142,14 @@ def main():
         host = urlparse(home).hostname.removeprefix("www.")
         try:
             feeds = [fixed[host][1]] if host in fixed else discover(home)
-            if not feeds: raise ValueError("no advertised RSS/Atom feed")
+            if not feeds:
+                hints = {"hwsw.hu":["https://www.hwsw.hu/xml/latest_news_rss.xml"]}
+                feeds = hints.get(host, []) + [urljoin(home, p) for p in ("/feed/","/rss","/rss.xml","/feed.xml","/atom.xml","/index.xml")]
             rows = []
             for feed in feeds:
-                try: rows.extend(collect(name,feed,host,now,category,county))
+                try:
+                    rows.extend(collect(name,feed,host,now,category,county))
+                    if rows: break
                 except Exception: continue
             if not rows: raise ValueError("no recent valid entries")
             return name, rows, ""
