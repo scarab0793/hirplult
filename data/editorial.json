@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "rss-369012fad7a1f60f20",
+      "r": "Megyei",
+      "m": "Budapest",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T20:05:15+00:00",
+      "t": "Csütörtöktől lezárás a budai rakparton: előkészítik az új villamosvonalat",
+      "s": "A dél-budai villamosfejlesztés első munkái miatt november 26-tól átmenetileg megváltozik a rakpart közlekedése.",
+      "p": [
+        "November végén megkezdődik a dél-budai villamoshálózat bővítésének előkészítése. A munkaterület kialakítása miatt az autósok átmenetileg elveszítik a budai alsó rakpart egyik fontos szakaszát. A BKK november 24-i tájékoztatása szerint csütörtökön, november 26-án reggel kilenckor lép életbe a korlátozás, amely várhatóan november 30-án estig tart.",
+        "A lezárt útrész a Bertalan Lajos utca és a Rákóczi híd közé esik. A dél felé haladó forgalmat a felső rakpartra vezetik át. A belváros felé tartók az Egry József utcánál térhetnek vissza az alsó rakpartra. A Rákóczi híd és a Dombóvári út felől érkezőknek szintén a felszíni útvonalakat kell használniuk. Az érintett útvonalakon ezért érdemes az utazás előtt ellenőrizni a forgalmi helyzetet.",
+        "A mostani beavatkozás még nem a villamossínek lefektetését jelenti. A kivitelezés első feladata a föld alatti infrastruktúra előkészítése, hogy a későbbi építkezés során a közművek ne akadályozzák az új pálya kialakítását. Ez magyarázza, miért szükséges már a beruházás kezdetén hozzányúlni a közúthoz.",
+        "A fejlesztés célja a Szent Gellért tér és a Dombóvári út környékének összekapcsolása. A BKK terveiben 2,8 kilométernyi új pálya és hét megállópár szerepel. Az egyetemek, az Infopark és a Kopaszi-gát térségének elérhetősége egyaránt javulhat. A vasúti és villamoshálózat közötti átszállási kapcsolatok is bővülhetnek.",
+        "A beruházás mögött uniós és magyar állami finanszírozás áll. A kivitelezés több egymásra épülő szakaszból áll, a teljes vonal elkészülését 2029 végére tervezik. A mostani korlátozás tehát csak az első lépés; a következő években további, eltérő időtartamú forgalmi változások várhatók.",
+        "A korábbi bejelentések még rövidebb lezárási időszakot említettek. Az autósok számára ezért a BKK frissebb tájékoztatása az irányadó. A megadott befejezési időpont terv, nem garancia: az aktuális közlekedési információkat az építkezés ideje alatt is célszerű figyelni."
+      ],
+      "cav": "A lezárás befejezése és a beruházás átadása tervezett időpont. A korábbi közlések eltérő lezárási időtartamot említettek.",
+      "op": "A kötöttpályás közlekedés fejlesztése indokolt, de az építkezés idején az előre kiszámítható terelések és a rendszeres tájékoztatás legalább ilyen fontosak.",
+      "src": [
+        [
+          "BKK",
+          "https://bkk.hu/hirek/2026/11/elokeszito-munkakkal-indul-a-budai-fonodo-villamoshalozat-ii-utemenek-kivitelezese-ot-napra-lezarjak-a-budai-also-rakpart-egy-szakaszat.17603/"
+        ],
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/23/budai-fonodo-villamos-budapest-lezaras"
+        ],
+        [
+          "Magyar Építők",
+          "https://magyarepitok.hu/kotott-palya/2026/11/rajtol-buda-uj-villamosvonalanak-az-epitese-mutatjuk-mire-kell-figyelni-az-autosoknak"
+        ],
+        [
+          "Blikk",
+          "https://www.blikk.hu/aktualis/belfold/budai-rakpart-lezaras-bkk/12f9enc"
+        ]
+      ],
+      "img": "",
+      "imgs": "",
+      "imgl": "",
+      "cred": "",
+      "ai_edited": true
+    },
+    {
       "id": "kreml-europa-tarsalas-nov-1",
       "r": "Külföld",
       "c": "Ukrajna-háború",
