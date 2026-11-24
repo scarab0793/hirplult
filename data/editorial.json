@@ -5790,6 +5790,40 @@
       "imgl": "https://hvg.hu/itthon/20261123_lannert-judit-beremeles-egyeztetes-pedagogusok-szakszervezete-psz-pedagogusok-demokratikus-szakszervezete-pdsz",
       "cred": "Kép: HVG – eredeti cikk",
       "ai_edited": true
+    },
+    {
+      "id": "hirpult-20261124-baleseti-bermegallapodas",
+      "r": "Közélet",
+      "c": "Egészségügy",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T11:20:00Z",
+      "t": "Bérmegállapodás után maradnak a baleseti központ intenzíves ápolói",
+      "s": "Tizenhárom szakápoló távozását sikerült megelőzni a keddi megállapodással.",
+      "p": [
+        "Kedden lezárult a budapesti Manninger Jenő Baleseti Központ intenzív osztályán kialakult bérvita egyik fontos szakasza. A kórház közlése szerint a megállapodás lehetővé teszi, hogy az érintett tizenhárom szakápoló folytassa a munkát. A dolgozók egy héttel korábban adták be felmondásukat.",
+        "A fizetési vita hátterében az intézmények közötti eltérések álltak. Hegedűs Zsolt egészségügyi miniszter szerint a bemutatott bérjegyzékek alapján a másutt dolgozó kollégák havi bruttó keresete akár 180–260 ezer forinttal magasabb lehetett. A hétfői tárgyalás még eredménytelenül zárult, kedden azonban sikerült egyezségre jutni.",
+        "A fővárosi intézmény számára a megállapodás jelentősége túlmutat a létszámkérdésen. A súlyos sérültek ellátásában a szakmai tapasztalat, a feladatok összehangolása és a folyamatos rendelkezésre állás egyaránt fontos. A csapat megtartása ezért az ellátás szervezésének folytonosságát is szolgálja.",
+        "Az Index beszámolója szerint márciusban ismét áttekintik az egyezség részleteit. A mostani korrekció a tervezett ágazati béremeléstől elkülönül. Az új fizetések pontos összege egyelőre nem nyilvános, így a rendezés hosszú távú hatását még nem lehet megítélni."
+      ],
+      "cav": "A megállapodás pontos pénzügyi részletei nem nyilvánosak.",
+      "op": "Az intézmények közötti bérkülönbségek korai feltárása segíthet megelőzni hasonló munkaügyi konfliktusokat.",
+      "src": [
+        [
+          "Telex",
+          "https://telex.hu/belfold/2026/11/24/orszagos-baleseti-intezet-kozpont-fiumei-ut-apolok-felmondasok-berrendezes-megallpodas"
+        ],
+        [
+          "Index",
+          "https://index.hu/belfold/2026/11/24/baleseti-kozpont-felmondott-apolok-maradas-berfeszultseg-enyhites/"
+        ],
+        [
+          "Infostart",
+          "https://mail.infostart.hu/belfold/2026/11/24/nem-mondanak-fel-az-apolok-megegyezes-a-baleseti-kozpontban"
+        ]
+      ],
+      "ai_edited": true
     }
   ]
 }
