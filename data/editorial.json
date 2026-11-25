@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "id": "nasa-sr1-freedom-nuklearis-mars-nov-25",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "ai_edited": true,
+      "t": "Lezárult az SR-1 Freedom tervezési felülvizsgálata: a NASA nukleáris meghajtású űrszondája 2028 végén indulhat a Mars felé",
+      "s": "A NASA közleménye szerint az első, Föld körüli pályán túl működő nukleáris meghajtású jármű három helikoptert vinne a Marsra.",
+      "p": [
+        "A Qubit beszámolója szerint a NASA kedden, a clevelandi Glenn Kutatóközpontban lezárta az SR-1 Freedom (Space Reactor-1) űreszköz részletes szakmai felülvizsgálatát. A folyamat októberben kezdődött, az űrügynökség kutatói az amerikai Energiaügyi Minisztérium (DOE) és az iparág szakértőinek bevonásával végezték. Az SR-1 lesz az első, a Föld körüli pályán kívül működő nukleáris meghajtású technológia, indítását a NASA két éven belülre, a cikk szerint 2028 végére tervezi.",
+        "Az űreszköz a SkyFall nevű kapszulát juttatná a Marsra, amely három új generációs helikoptert szállít. Ezek a bolygó geológiai és éghajlattörténeti sajátosságait vizsgálnák, új területeket fedeznének fel, és a felszín alatti jég nyomait keresnék. Az SR-1 a nukleáris energia mellett napenergiát is használ, ezért reaktorral és napelemekkel is fel lesz szerelve. A közlemény szerint a sugárvédelem és a tervezési fejlesztések lehetővé teszik, hogy a reaktort közelebb helyezzék a jármű többi részéhez. A NASA a küldetést a Naprendszer „vasútvonalán” közlekedő első teherszállító járatnak nevezi, Steve Sinacore programigazgató szerint a mostani döntések a jövőbeli atommeghajtású űreszközök alapjait teremtik meg.",
+        "Nyitott kérdés még a hőleadó panelek száma, a nukleáris energiaellátó modul teljesítménye és a reaktor tervezett üzemideje."
+      ],
+      "cav": "A beszámoló a NASA közleményére épül, amit közvetlenül nem olvastunk. Az indítás időpontja bizonytalan: a cikk szerint „két éven belül”, 2028 végén, egy korábbi, 2026. márciusi Qubit-cikk pedig 2028-as indítást említ. A költségekről és a reaktor teljesítményéről nincs adat. A képen nincs feltüntetve a készítő.",
+      "op": "Egy atomreaktoros Mars-szonda látványos, de a tervezési felülvizsgálat még csak az első lépés: az igazi kérdés az, hogy a két éves menetrendet a költségvetés és a biztonsági engedélyezés kibírja-e. A nukleáris meghajtás viszont valóban kulcs lehet a mélyűri küldetésekhez.",
+      "src": [
+        [
+          "Qubit: A NASA véglegesítette az első nukleáris meghajtással működő, Mars-küldetést teljesítő űreszközének terveit",
+          "https://qubit.hu/2026/11/25/a-nasa-veglegesitette-az-elso-nuklearis-meghajtassal-mukodo-mars-kuldetest-teljesito-ureszkozenek-terveit"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q7EXkzpZxadWGOCs-lg.webp",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/25/a-nasa-veglegesitette-az-elso-nuklearis-meghajtassal-mukodo-mars-kuldetest-teljesito-ureszkozenek-terveit",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "meta-netto-zero-2030-adatkozpont-nov-24",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T10:00:00+00:00",
+      "ai_edited": true,
+      "t": "Egy év alatt csaknem 40 százalékkal nőtt a Meta kibocsátása, a cég felülvizsgálja a 2030-as nettó zéró célját",
+      "s": "A Meta fenntarthatósági jelentése szerint az AI-infrastruktúra gyorsabban nő a vártnál; új határidőt még nem nevezett meg.",
+      "p": [
+        "A Qubit beszámolója szerint a Meta november 19-én közzétett fenntarthatósági jelentésében közölte, hogy újragondolja nettó zéró kibocsátási menetrendjét és köztes céljait, köztük a 2030-as határidőt. Az indok az AI-infrastruktúra iránti, a vártnál gyorsabb növekedés. A bevezetőt Rachel Peterson adatközpontokért felelős alelnök és Blair Swedeen fenntarthatósági vezető írta. A cég a TechCrunchnak azt mondta, elkötelezett a nettó zéró mellett, de új dátumot nem adott meg. A cikk szerint a Meta az első nagy amerikai techcég, amely nyíltan megkérdőjelezi a saját klímacélját, az Amazon, a Google és a Microsoft egyelőre kitart a vállalásai mellett.",
+        "A teljes kibocsátás egy év alatt 15,6 millió tonnáról több mint 21,7 millió tonna CO₂-egyenértékre nőtt, ez csaknem 40 százalékos emelkedés. Az Ars Technica összesítése szerint ugyanebben az időszakban a Microsoft kibocsátása 25, a Google-é 18, az Amazoné 16 százalékkal nőtt. A Meta szerint a növekedés nagy része a beszerzett eszközökhöz, például az adatközpontokba vásárolt szerverek gyártásához köthető. A zöldáram-vásárlással és légköri szén-dioxid megvásárlásával ellentételezett szint nélkül a maradék kibocsátás 8,1 millióról 11,8 millió tonnára nőtt, ami 45 százalék. A Trellis szakportál szerint a cél egyre kevésbé elérhető: a vállalás szerint 2030-ra a közvetett kibocsátás nem haladhatná meg a 2021-es szintet, de ez már most kétszerese annak.",
+        "A vízfogyasztás saját létesítményekben 2025-ben nagyjából 3,1 milliárdról 3 milliárd literre csökkent, a vízhiányos térségekben viszont körülbelül 750 millióról 930 millió literre nőtt. Az adatközpontoknak áramot termelő erőművek vízfogyasztása 36 százalékkal, nagyjából 72 milliárdról 98 milliárd literre emelkedett; a cikk szerint a Meta az egyetlen nagy adatközpont-üzemeltető, amely ezt a számot nyilvánosságra hozza."
+      ],
+      "cav": "A számok a Meta jelentéséből származnak a Qubit és az általa hivatkozott TechCrunch, Ars Technica, Trellis és Data Center Dynamics közvetítésével, a jelentést nem olvastuk. A versenytársak kibocsátás-növekedési adatai egy harmadik fél összesítésén alapulnak. A cikk szerint a Meta abszolút kibocsátása a négy cég közül valószínűleg a kisebbek közé tartozik.",
+      "op": "Az, hogy egy cég az első, amely kimondja, hogy nem fogja tartani a klímacélját, tisztességesebb, mint a csendes elhalasztás. De a lényeg az, hogy az AI-hajsza energiaigénye valódi környezeti költség, és a „nettó zéró” ígéretek mögött egyre vékonyabb a fedezet.",
+      "src": [
+        [
+          "Qubit: Az AI-adatközpontok miatt elengedheti 2030-as nettó zéró klímacélját a Meta",
+          "https://qubit.hu/2026/11/24/az-ai-adatkozpontok-miatt-elengedheti-2030-as-netto-zero-klimaceljat-a-meta"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PutynToeoSY1hU18Ks.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/24/az-ai-adatkozpontok-miatt-elengedheti-2030-as-netto-zero-klimaceljat-a-meta",
+      "cred": "Jon Cherry, Getty Images via AFP: a Meta ohiói Prometheus adatközpont-komplexumának részlete, 2026. november 1."
+    },
+    {
+      "id": "eu-bizottsag-ai-kibertamadas-nov-19",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 19.",
+      "published_at": "2026-11-19T15:00:00+00:00",
+      "ai_edited": true,
+      "t": "AI-eszközökkel hajtottak végre kibertámadást az Európai Bizottság ellen, napokra leálltak a belső rendszerek",
+      "s": "A Bizottság szóvivője megerősítette az október 22-én észlelt támadást; a felelősök és a károk köre egyelőre ismeretlen.",
+      "p": [
+        "A Qubit a Reuters nyomán írja, hogy az Európai Bizottság megerősítette: mesterséges intelligencia eszközeivel végrehajtott kibertámadás célpontja volt. A támadást a cikk szerint október 22-én észlelték, a tényt november 19-én jelentették be. Thomas Regnier szóvivő sajtótájékoztatón azt mondta, hogy a Bizottság az észlelt támadási kampányra reagálva megtette a szükséges lépéseket, a vizsgálat folyamatban van, az eredmények függvényében pedig további intézkedések jöhetnek.",
+        "Több alkalmazást ideiglenesen leállítottak, a legtöbbet azóta újra elérhetővé tették. A Politico értesülései szerint a leállított rendszerek között volt a bérjegyzékek és a munkaidő-nyilvántartás kezelésére szolgáló, valamint az orvosi költségtérítéseket kezelő rendszer, a fennakadás pedig tíz napig tartott. A Politico szerint jelentős mennyiségű személyes adat kerülhetett veszélybe, ezt a Bizottság nem erősítette meg. A lap szerint a Bizottság összehívta legmagasabb szintű belső válságkezelő testületét, Henna Virkkunen technológiai biztos szerdán tájékoztatta a többi biztost.",
+        "A szóvivő nem nevezte meg a felelősöket, és nem tudta megerősíteni, hogy érkezett-e váltságdíjkövetelés. A támadás módjáról a cikk csak annyit közöl, hogy AI-eszközöket használtak. A Qubit más közelmúltbeli incidenseket is felidéz: októberben több száz franciaországi szupermarket hűtőberendezéseit bénították meg, augusztusban az Egyesült Államokba tartó hajók, júliusban amerikai vízkezelő létesítmények, márciusban pedig a Los Angeles-i tömegközlekedés volt célpont. A HWSW szerint az EU Academy oktatási platform nyilvános hozzáférését is ideiglenesen letiltották, mert felhasználók nevei és e-mail-címei kerülhettek illetéktelen kezekbe, a számuk nem ismert."
+      ],
+      "cav": "A tényeket a Bizottság szóvivői nyilatkozata erősíti meg, de az érintett rendszerekről és az adatok veszélyeztetéséről szóló részletek a Politico értesülései, a Bizottság ezeket nem erősítette meg. A HWSW az EU Academy-incidenst a Cybersecurity News alapján írja, ennek összefüggése a fő támadással nem tisztázott. A „tíz nap” és az október 22-i dátum a Qubit leírásán alapul, a Reuters-cikket nem láttuk. A szóvivő nevét a Qubit egy helyen elírja.",
+      "op": "Ha egy uniós intézmény napokra leáll egy AI-val támogatott támadástól, az a tisztán elméleti AI-kockázatokról szóló vitákat is földhözragadtabbá teszi. Az átláthatóság hiányzik: egy hónapba telt, mire kiderült.",
+      "src": [
+        [
+          "Qubit: AI-eszközökkel végrehajtott kibertámadás érte az Európai Bizottságot",
+          "https://qubit.hu/2026/11/19/ai-eszkozokkel-vegrehajtott-kibertamadas-erte-az-europai-bizottsagot"
+        ],
+        [
+          "HWSW: Adatok szivárogtak ki az Európai Bizottság elleni támadásban",
+          "https://www.hwsw.hu/daralo/71239/europai-bizottsag-eu-academy-kiberbiztonsag-kibertamadas-adatszivargas-adathalaszat-ai.html"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8PyDEwZ45CLjGWB0s-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/19/ai-eszkozokkel-vegrehajtott-kibertamadas-erte-az-europai-bizottsagot",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "hunor-program-meghosszabbitas-nov-19",
+      "r": "Közélet",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 19.",
+      "published_at": "2026-11-19T14:00:00+00:00",
+      "ai_edited": true,
+      "t": "Tanács Zoltán: 2027 közepéig meghosszabbítanák a HUNOR űrkutatási programot új állami pénz nélkül",
+      "s": "A miniszter az ATV műsorában azt mondta, a program megtakarításai fedezik a folytatást; közben az akadémiai dolgozók a HUN-REN-törvény visszavonását kérik.",
+      "p": [
+        "A Qubit beszámolója szerint Tanács Zoltán tudományos és technológiai miniszter az ATV Egyenes beszéd című műsorában jelentette be, hogy a kormány félévvel, 2027 közepéig meghosszabbítaná a HUNOR-programot. Az eredeti költségkeret változatlan maradna, új állami forrás nem kellene, a miniszter szerint a program megtakarításai fedezik a folytatást. Indoka szerint a hosszabbítás azért fontos, hogy a magyar kutatóintézetek és egyetemek befejezhessék a külföldi űrmissziókhoz kapcsolódó kísérleteiket, amelyek 2027-ben is folytatódnak.",
+        "A HUNOR-programban összesen 30 tudományos kísérlet valósul meg, ebből 25-öt Kapu Tibor űrhajós végzett el tavaly nyáron a Nemzetközi Űrállomáson. A kísérletek az anyagtudománytól az űrorvoslásig és a pszichológiáig terjednek, mögöttük mintegy 150 kutató dolgozik. Kapu Tibort júniusban kérték fel a program vezetésére és átszervezésére, Tanács szerint átvilágították a működést és megtakarítást értek el. A cikk egy november 11-i MTA-szimpóziumról szóló korábbi beszámolóra utal, amely szerint a RANDAM-kísérlet sugárzásmérő szenzorcsomagját a 27G-Technology Kft. fejlesztette, és a NASA Artemis programjában is szerepet kaphat.",
+        "A cikk másik szála a HUN-REN-törvény vitája: az Akadémiai Dolgozók Fóruma a módosított törvénytervezet visszavonását és Tanács lemondását követeli. A tervezet szerint MTA Kutatóhálózat jönne létre, amelybe visszakerülhetnének az ELTE-hez csatolt négy társadalom- és bölcsészettudományi intézet. A fórum szerint a kormányzati befolyás továbbra is jelentős lenne. Tanács ezt álságos kritikának nevezte: szerinte az irányító testületbe az MTA három, a kutatói közösség három, a miniszter pedig három tagot delegálhat, a dolgozók képviselőt választhatnak, az elnököt a testület maga választja."
+      ],
+      "cav": "A megtakarításokról és a program összköltségéről a cikk nem közöl számot, a „megtakarítások fedezik” állítás a miniszter szava. Az ADF kritikáját és Tanács válaszát a Qubit közvetíti, a törvénytervezet szövegét nem láttuk. A hosszabbítás még szándék, nem elfogadott döntés. A kép készítője nincs feltüntetve.",
+      "op": "Az, hogy egy sikeres űrprogram új pénz nélkül folytatódhat, jó hír, de a megtakarításról szóló állítást érdemes számokkal is alátámasztani. A HUN-REN-vita ettől függetlenül fontos: a kutatás szabadsága a testületek összetételén múlik, nem a retorikán.",
+      "src": [
+        [
+          "Qubit: Tanács Zoltán bejelentette, hogy folytatni szeretnék a HUNOR-programot",
+          "https://qubit.hu/2026/11/19/tanacs-zoltan-bejelentette-hogy-folytatni-szeretnek-a-hunor-programot"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8L8dAz6sVzK61Kat6s-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/19/tanacs-zoltan-bejelentette-hogy-folytatni-szeretnek-a-hunor-programot",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
       "id": "forint-374-uj-napi-melypont-kamatvagas-veszelyben-nov-25",
       "r": "Gazdaság",
       "c": "Pénzpiac",
