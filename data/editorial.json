@@ -1,6 +1,166 @@
 {
   "items": [
     {
+      "id": "ksh-beruhazas-3-negyedev-nov-23",
+      "r": "Gazdaság",
+      "c": "Statisztika",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 23.",
+      "published_at": "2026-11-23T08:30:00+00:00",
+      "ai_edited": true,
+      "t": "Tizenegy százalékkal estek a beruházások a harmadik negyedévben, a feldolgozóipar húzta le a számot",
+      "s": "A KSH gyorstájékoztatója szerint a beruházások volumene éves alapon 11,4%-kal, az előző negyedévhez képest 2,8%-kal csökkent, kilenc hónap alatt nagyjából 7,5%-os a visszaesés.",
+      "p": [
+        "A Központi Statisztikai Hivatal november 23-án közzétett gyorstájékoztatója szerint a magyarországi beruházások volumene 2026 harmadik negyedévében 11,4%-kal maradt el az egy évvel korábbitól (nyers adat). A szezonálisan kiigazított számok az előző negyedévhez képest 2,8%-os csökkenést mutatnak, a nemzetgazdasági beruházások pedig a szezonálisan kiigazított éves összevetésben 10,2%-kal estek vissza.",
+        "A hivatal szerint a legnagyobb visszaesést a feldolgozóipar okozta. Az energiaipar beruházási aktivitása nőtt, ez valamelyest mérsékelte a csökkenést. A vállalkozások és a költségvetési szervezetek beruházásai csökkentek, a háztartásoké ezzel szemben emelkedett.",
+        "Az első három negyedév együtt a tavalyi azonos időszak 92,5%-át tette ki, vagyis nagyjából 7,5%-os a csökkenés. A negyedéves nyers indexek (az előző év azonos időszaka = 100): az első negyedévben 99,5, a másodikban 90,9, a harmadikban 88,6, tehát a lejtő negyedévről negyedévre meredekebb lett. A következő, 2026. negyedik negyedéves adat várhatóan 2027 februárjában jelenik meg."
+      ],
+      "cav": "A gyorstájékoztató nem bontja külön az építési és a gépberuházásokat, és az okokat sem elemzi: hogy a visszaesés mögött a magas kamatok, a bizonytalanság vagy az uniós források késése áll-e, az innen nem derül ki. A nyers és a szezonálisan kiigazított mutatók eltérnek, ezért a 11,4% és a 10,2% nem ugyanaz a szám.",
+      "op": "Három egymást követő gyengülő negyedév már nem véletlen: a beruházás a jövő termelékenysége, és ha ez zsugorodik, abból később jövedelem és bér lesz kevesebb. Az energiaipari növekedés jó hír, de ez önmagában nem pótolja a feldolgozóipar kiesését.",
+      "src": [
+        [
+          "KSH gyorstájékoztató: Beruházás, 2026. III. negyedév",
+          "https://www.ksh.hu/gyorstajekoztatok/ber/ber2609.html"
+        ]
+      ]
+    },
+    {
+      "id": "mnb-hitelallomany-3-negyedev-nov-20",
+      "r": "Gazdaság",
+      "c": "Pénzügy",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 20.",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "ai_edited": true,
+      "t": "Európai csúcson a magyar lakossági hitelezés, miközben a vállalati új szerződések 13%-kal elmaradnak a tavalyitól",
+      "s": "Az MNB adatai szerint a háztartási hitelállomány 21,8%-kal nőtt egy év alatt, a vállalatoké 11,3%-kal, de a Wekerle Plusz miatt a támogatott lakáshitelek száma csökkenhet.",
+      "p": [
+        "A Magyar Nemzeti Bank november 20-án közzétett összefoglalója szerint 2026 harmadik negyedévében is gyorsan nőtt a hitelállomány. A vállalati hitelek éves növekedése szeptember végén 11,3% volt, ami meghaladja a visegrádi régió (9,7%) és az EU átlagát (4,2%). A kkv-hitelállomány előzetes adatok szerint 10,7%-kal bővült. A negyedévben kötött új vállalati szerződések értéke ugyanakkor 13%-kal elmaradt az egy évvel korábbitól.",
+        "A Széchenyi Kártyaprogram hiteleinek értéke jelentősen visszaesett: július 15-től a fix 3%-os ügyfélkamat helyett a háromhónapos BUBOR lépett életbe, ami a negyedéves átlag alapján 5,5%-os kamatot jelent. A Demján Sándor Program 900 milliárd forintos keretének 92%-a szeptember végére lekötött volt. Az 1 millió eurót meghaladó forinthitelek átlagkamata 7,1%, a kisebbeké 8,3% volt.",
+        "A háztartási hitelállomány éves növekedése 21,8%, ami az MNB szerint Európában a legnagyobb, és messze meghaladja a visegrádi (8,6%) és az uniós (3,4%) átlagot. Az új háztartási hitelszerződések értéke másfélszeresére, 1275 milliárd forintra nőtt. Az Otthon Start programban 2025 szeptembere és 2026 októbere között 66 ezer szerződés született mintegy 2,3 ezer milliárd forint értékben; október 28-tól ezt a Wekerle Plusz váltotta, amely az MNB becslése szerint legalább 34%-kal csökkentheti a támogatott lakáshitelek szerződéskötéseit. Használt lakásnál a kamat 3%-ról 5%-ra emelkedik. A piaci lakáshitelek átlagos kamata 6,5%-ról 6,3%-ra mérséklődött, a személyi kölcsönök új szerződéseinek értéke 38%-kal nőtt, az átlagkamat 13,5%.",
+        "A bankok a következő félévben hasonló mértékű feltétellazítást terveznek lakás- és fogyasztási hitelnél, a felmérésben megkérdezettek nettó 73%-a növekvő fogyasztásihitel-keresletet látott."
+      ],
+      "cav": "A számok a jegybank saját összefoglalójából és Hitelezési felméréséből származnak, független ellenőrzést nem végeztünk. A 34%-os csökkenés az MNB becslése, nem tény. A közlemény nem értékeli, hogy a gyors háztartási hitelnövekedés kockázatot jelent-e a pénzügyi stabilitásra.",
+      "op": "A világon is kirívóan gyors lakossági hitelfelfutás nem büszkeségre ad okot, hanem figyelemre. Különösen a 13,5%-os személyi kölcsön-kamat mellett nő a kérdés, ki bírja majd a törlesztést, ha lassul a bérnövekedés.",
+      "src": [
+        [
+          "MNB: 2026 harmadik negyedévében is jelentősen bővült a vállalati és a lakossági hitelállomány",
+          "https://www.mnb.hu/sajtoszoba/hirek/2026-evi-hirek/2026-harmadik-negyedeveben-is-jelentosen-bovult-a-vallalati-es-a-lakossagi-hitelallomany"
+        ]
+      ]
+    },
+    {
+      "id": "varga-mihaly-euro-penzugyi-stabilitas-nov-24",
+      "r": "Gazdaság",
+      "c": "Pénzügy",
+      "w": "Euróbevezetés",
+      "st": "Megerősített",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Varga Mihály: az euró nem old meg mindent, a csatlakozáshoz pénzügyi stabilitás és fegyelmezett pénzügypolitika kell",
+      "s": "A jegybankelnök Békéscsabán úgy fogalmazott, hogy az euróbevezetés lehetőség, de feladja az önálló monetáris politikát, ezért az eladósodás és a hitelezési kockázatok kezelése kulcskérdés.",
+      "p": [
+        "Az MNB közleménye szerint Varga Mihály jegybankelnök november 24-én, Békéscsabán, az Alföld Economic Forum konferencián beszélt az euróbevezetésről. Szerinte az euró jelentős lehetőségeket kínál Magyarországnak, de önmagában nem oldja meg a gazdaság problémáit. A csatlakozás feltétele a tartós árstabilitás és a fegyelmezett monetáris politika, emellett növelni kell a termelékenységet és erősíteni a versenyképességet.",
+        "Az elnök hangsúlyozta, hogy az euró átvételével az ország feladja önálló monetáris politikáját, a közös európai kamatpolitika pedig nem minden helyzetben optimális a hazai viszonyoknak. Ezért különösen fontosnak nevezte a pénzügyi stabilitás megőrzését, a túlzott eladósodás megelőzését és a hitelezési kockázatok megfelelő kezelését.",
+        "A közlemény számokat is említ: Magyarország 2026 júliusától ismét teljesíti az euróbevezetés inflációs kritériumát, az októberi infláció 2% volt, a 3%-os referenciaérték alatt. A forint–euró átváltások megszűnésével évente akár 100–130 milliárd forint takarítható meg, a sikeres csatlakozás pedig mérsékelheti az állampapír-hozamokat és a finanszírozási költségeket. Az elnök a kedvező inflációs adatok ellenére óvatos, türelmes monetáris politikát tartott indokoltnak, mert a világgazdaságban továbbra is jelentősek az inflációs kockázatok, az euróbevezetést pedig többéves, gondos felkészülést igénylő folyamatnak nevezte."
+      ],
+      "cav": "A beszámoló az MNB saját sajtóközleményén alapul, a felszólalás teljes szövegét nem láttuk. A 100–130 milliárd forintos megtakarítás becslés, a közlemény a számítás módját nem részletezi. Az euróbevezetés dátumáról nem esik szó.",
+      "op": "Üdvözlendő, hogy a jegybank a szépítés helyett a lemondásról is beszél: az önálló kamatpolitika feladása komoly ár. Az euró melletti érv erős, de akkor hiteles, ha a költségvetési fegyelem a kampányokon túl is él.",
+      "src": [
+        [
+          "MNB: Az euró sikeres bevezetéséhez pénzügyi stabilitásra van szükség",
+          "https://www.mnb.hu/sajtoszoba/sajtokozlemenyek/2026-evi-sajtokozlemenyek/az-euro-sikeres-bevezetesehez-penzugyi-stabilitasra-van-szukseg"
+        ]
+      ]
+    },
+    {
+      "id": "mnb-maganegeszsegugy-biztositas-nov-25",
+      "r": "Gazdaság",
+      "c": "Pénzügy",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T11:00:00+00:00",
+      "ai_edited": true,
+      "t": "Az MNB figyelmezteti a magánegészségügyi cégeket: a fix díjas, korlátlan ellátás biztosításnak minősülhet",
+      "s": "A jegybank szerint felügyeleti engedély nélkül nem lehet egészségbiztosítást nyújtani, és szükség esetén piacfelügyeleti eljárást indít.",
+      "p": [
+        "A Magyar Nemzeti Bank november 25-i közleménye arra hívja fel a magánegészségügyi intézmények figyelmét, hogy vizsgálják felül termékkínálatukat, és nézzék meg, tartalmaz-e biztosítási elemet. A jegybank álláspontja szerint egészségbiztosítási tevékenység csak pénzügyi felügyeleti engedéllyel végezhető.",
+        "A probléma az, hogy egyes szolgáltatók sok ügyféllel vagy nagyobb munkáltatóval kötnek szerződést előre rögzített díjért, és cserébe előre nem látható vagy korlátlan mennyiségű szolgáltatást vállalnak arra az esetre, ha az ügyfél vagy a munkavállaló megbetegszik, illetve vizsgálatra szorul. Ez tartalmilag a biztosítási törvény szerinti egészségbiztosításnak minősülhet. Különösen kockázatosnak nevezi a közlemény a véletlen események, például baleset vagy megbetegedés miatti, valamint az előre nem tervezett diagnosztikai vizsgálatokra vállalt szolgáltatásokat.",
+        "Az MNB szerint engedély nélküli ügyletnél jogosulatlan biztosítási tevékenység gyanúja merülhet fel. Szükség esetén piacfelügyeleti eljárást indít, intézkedhet, bírságot szabhat ki, és büntetőeljárást kezdeményezhet. Az ügyfeleknek is kockázat, hogy a biztosítókra szigorú tőkemegfelelési és fogyasztóvédelmi előírások vonatkoznak, amelyeket az MNB rendszeresen ellenőriz, a magánegészségügyi szolgáltatókra viszont nem. A munkáltatóknak és ügyfeleknek is mérlegelniük kell, hogy az igénybe venni kívánt szolgáltatást nem biztosítással kellene-e fedezni."
+      ],
+      "cav": "A közlemény nem nevez meg konkrét céget, határidőt vagy számot, és nem említ megindított eljárást. Hogy hány szolgáltatót érint, nem tudni.",
+      "op": "A jelzés logikus: aki egy havi díjért bármennyi ellátást ígér, az tulajdonképpen kockáztat, ráadásul az ügyfél pénzét. A szabályozás kérdése, hogy a cégek tisztázzák-e a termékeiket anélkül, hogy a munkahelyi egészségcsomagok eltűnnének.",
+      "src": [
+        [
+          "MNB: Indokolt a magánegészségügyi szolgáltatók ajánlatainak felülvizsgálata",
+          "https://www.mnb.hu/sajtoszoba/sajtokozlemenyek/indokolt-a-maganegeszsegugyi-szolgaltatok-ajanlatainak-felulvizsgalata"
+        ]
+      ]
+    },
+    {
+      "id": "anthropic-ai-munkaero-felvetel-nov-25",
+      "r": "Gazdaság",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T08:56:00+00:00",
+      "ai_edited": true,
+      "t": "Nem rúgnak ki, csak nem vesznek fel: az Anthropic közgazdászai 58 cég tapasztalatait vizsgálták az AI munkaerőpiaci hatásáról",
+      "s": "A Qubit beszámolója szerint a vizsgált cégek közül csak kettőnél szűnt meg munkakör az automatizálás miatt, kétharmaduk viszont kevesebb új embert vesz fel, mint AI nélkül tenne.",
+      "p": [
+        "A Qubit cikke az Anthropic közgazdászainak (Nathan Wilmers, Maxim Massenkoff és Peter McCrory) friss jelentéséről számol be. A szerzők 58 amerikai vállalat munkatársaival készítettek összesen 66 interjút, a fogorvosi rendelőktől a fuvarozókon és ügyvédi irodákon át a pénzügyi alapokig. A cégek mind az Anthropic ügyfelei, ezért a minta nem véletlenszerű és nem reprezentatív, a szerzők szerint a jelentés történeteket és értelmezési keretet ad, amelyeket később számszerű kutatásokkal kell ellenőrizni.",
+        "A megállapítások szerint az elbocsátás egyelőre ritka: mindössze két cégnél szűnt meg teljesen egy munkakör az automatizálás miatt. Öt cég azért küldött el munkatársakat, mert nem akartak AI-t használni, tíz pedig az AI bevezetése és informatikai támogatása miatt vett fel új embereket. A cégek kétharmada viszont azt mondta, kevesebb embert vett fel, mint AI nélkül tenne, ez inkább betöltetlen pozíciókat jelent, mint megszüntetetteket. Hat AI-startup szerint AI nélkül átlagosan négyszer annyi alkalmazottjuk lenne.",
+        "A leginkább érintettek a külső alvállalkozók: kilenc cég szüntette meg szerződéseit, köztük fejlesztőkét, ügyfélszolgálatosokét, jogászokét és adminisztratív munkatársakét, egy pénzügyi vállalat több mint száz külföldi alvállalkozótól vált meg. A felülről elrendelt automatizálás gyakran elakad, mert a szakértők nem szívesen építik saját helyettesítőjüket. A legjobban azok jártak, amelyek átszervezték a munkafolyamatokat, és szélesebb feladatkört adtak a dolgozóknak. A szerzők nem zárják ki, hogy az AI a jövőben tömegesen szüntet meg munkahelyeket, ilyenkor kormányzati fellépés kellene.",
+        "A Qubit szerint a külföldi alvállalkozók elleni leépítések intő jelek lehetnek a magyarországi üzleti szolgáltató központoknak, hiszen számos nemzetközi cég működtet ilyet hazánkban."
+      ],
+      "cav": "A jelentést az Anthropic, vagyis egy AI-fejlesztő cég munkatársai írták, a vizsgált vállalatok is az ügyfelei, ezért az eredmény érdekelt fél saját felmérése. A jelentést közvetlenül nem olvastuk, a leírás a Qubit cikkén alapul. A magyar vonatkozás a cikk szerzőjének következtetése, nem a jelentésé.",
+      "op": "A „nem rúgnak, csak nem vesznek fel” pontosan az a mintázat, amit a statisztika későn vesz észre: a pályakezdők és az alvállalkozók járnak jól, vagyis rosszul. Magyarországon, ahol sok az outsourcing, ez nem elvont kérdés.",
+      "src": [
+        [
+          "Qubit: Nem rúgnak ki, csak nem vesznek fel – az Anthropic felmérte az AI valós munkaerőpiaci hatásait",
+          "https://qubit.hu/2026/11/25/nem-rugnak-ki-csak-nem-vesznek-fel-az-anthropic-felmerte-az-ai-valos-munkaeropiaci-hatasait"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q6MAdT1GzHU1Rdxls-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/25/nem-rugnak-ki-csak-nem-vesznek-fel-az-anthropic-felmerte-az-ai-valos-munkaeropiaci-hatasait",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "openai-kozos-kepessegkuszob-javaslat-nov-23",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 23.",
+      "published_at": "2026-11-23T10:00:00+00:00",
+      "ai_edited": true,
+      "t": "Az OpenAI kutatója közös, önkéntes képességküszöböt javasol az AI-cégeknek, Sam Altman is mellé állt",
+      "s": "Jakub Pachocki szerint addig ne lépjék át az AI-fejlesztők a megállapodott küszöböt, amíg nem értik jobban a modellek viselkedését; a mérce a perplexitás lenne.",
+      "p": [
+        "A Qubit beszámolója szerint Jakub Pachocki, az OpenAI vezető kutatója közös, önkéntes korlátokat javasol az AI-fejlesztő cégeknek. A cégek vállalnák, hogy egy megállapodott képességküszöböt nem lépnek át, amíg a modellek viselkedésének megértésében és megfigyelésében el nem érnek egy konkrét mérföldkövet. Az ötletet Pachocki az OpenAI „Perplexity and Intelligence” című, november 22-én, vasárnap közzétett írásában fejtette ki, Sam Altman vezérigazgató pedig az X-en támogatta.",
+        "A javasolt mérce a perplexitás, vagyis az, mennyire jól jósolja meg a nyelvi modell a szöveg következő részét. Pachocki közölte az OpenAI modelljeinek adatsorát a GPT-3.5 óta: a perplexitás logaritmusa a GPT-3.5-nél nagyjából 0,99, a 2023 márciusában megjelent GPT-4-nél 0,91 volt. Szerinte 0,76 körül jelent meg az, hogy a modellek rendszeresen megoldanak nehéz matematikai feladatokat, a 0,68–0,70 tartományban pedig ma még előre nem látható képességek tűnhetnek fel. A fejlődés szerinte már 2027-ben olyan gyorsan felgyorsulhat, hogy a biztonsági és megfigyelési módszerek nem tudnak lépést tartani.",
+        "Pachocki érvelése szerint a perplexitást nehéz kozmetikázni, mert a cégek nem tudják konkrét tesztfeladatokra felkészíteni a modelljeiket, és külső értékelők nélkül is egyszerűen mérhető. Gyengeségként említi, hogy a cégek különböző szövegeken mérnek, nem egyértelmű, hogy az alacsonyabb érték a felhasználónak is jobb modellt jelent-e, és a későbbi finomítás (például a lépésről lépésre gondolkodás tanítása) a perplexitásban nem látszik. A Qubit szerint a javaslat az amerikai félidős választások utáni időszakban érkezik, amikor erősödtek az AI-szkeptikus hangok. Októberben a nagy AI-cégek vezetői a Fehér Házban önkéntes, nem kötelező érvényű megállapodást írtak alá a biztonságos fejlesztésről; szövetségi szabályozás a cikk szerint esélytelennek tűnik."
+      ],
+      "cav": "A javaslat az OpenAI saját kutatójától származik, a cég érdekelt abban, milyen mércével mérik majd a versenyt. Az eredeti írást nem olvastuk, a leírás a Qubit cikkén alapul. A képen szereplő fotó 2025 októberi beszélgetésen készült, forrása a YouTube/OpenAI, fotós nincs feltüntetve.",
+      "op": "Önkéntes korlát ott működik, ahol a szereplők amúgy is szeretnének lassítani. Ettől függetlenül a perplexitás-alapú közös mérce érdekes: legalább egy mérhető számot ad, amiről vitatkozni lehet, nem csak marketingígéreteket.",
+      "src": [
+        [
+          "Qubit: Az OpenAI közös felső határt szabna a mesterséges intelligencia fejlettségének",
+          "https://qubit.hu/2026/11/23/az-openai-kozos-felso-hatart-szabna-a-mesterseges-intelligencia-fejlettsegenek"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q4Kr0rJjdBOTPHQs-xl.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/23/az-openai-kozos-felso-hatart-szabna-a-mesterseges-intelligencia-fejlettsegenek",
+      "cred": "Qubit: Jakub Pachocki és Sam Altman, 2025. októberi beszélgetés (forrás: YouTube/OpenAI; fotós nincs feltüntetve)"
+    },
+    {
       "id": "megyei-42-es-fout-javitas-hajdu-bihar-nov-25",
       "r": "Megyei",
       "m": "Hajdú-Bihar",
