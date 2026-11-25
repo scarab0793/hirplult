@@ -601,7 +601,7 @@
       "img": "https://assets.4cdn.hu/kraken/8Q7EXkzpZxadWGOCs-lg.webp",
       "imgs": "Qubit",
       "imgl": "https://qubit.hu/2026/11/25/a-nasa-veglegesitette-az-elso-nuklearis-meghajtassal-mukodo-mars-kuldetest-teljesito-ureszkozenek-terveit",
-      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+      "cred": "Fotó: NASA/Jonathan North"
     },
     {
       "id": "meta-netto-zero-2030-adatkozpont-nov-24",
@@ -663,7 +663,7 @@
       "img": "https://assets.4cdn.hu/kraken/8PyDEwZ45CLjGWB0s-lg.jpeg",
       "imgs": "Qubit",
       "imgl": "https://qubit.hu/2026/11/19/ai-eszkozokkel-vegrehajtott-kibertamadas-erte-az-europai-bizottsagot",
-      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+      "cred": "Fotó: NICOLAS TUCAT/AFP"
     },
     {
       "id": "hunor-program-meghosszabbitas-nov-19",
@@ -692,7 +692,7 @@
       "img": "https://assets.4cdn.hu/kraken/8L8dAz6sVzK61Kat6s-lg.jpeg",
       "imgs": "Qubit",
       "imgl": "https://qubit.hu/2026/11/19/tanacs-zoltan-bejelentette-hogy-folytatni-szeretnek-a-hunor-programot",
-      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+      "cred": "Fotó: Bodnár Boglárka/MTI/MTVA"
     },
     {
       "id": "forint-374-uj-napi-melypont-kamatvagas-veszelyben-nov-25",
@@ -2749,7 +2749,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261124/1795509387-temp-cdlq9aoc22341fddiop_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/24/egyhangulag-tamogatta-a-mukodo-es-emberseges-magyarorszag-intezet-letrehozasat-a-parlamenti-bizottsag"
+      "imgl": "https://telex.hu/belfold/2026/11/24/egyhangulag-tamogatta-a-mukodo-es-emberseges-magyarorszag-intezet-letrehozasat-a-parlamenti-bizottsag",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "matolcsy-adam-eae-kiadatas-nov-24",
@@ -2860,7 +2861,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261124/1795512755-temp-fofdm7dvd73ndjimfhf_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/24/m1-metro-kisfoldalatti-feluitas-meghosszabbitas-jarmutelep-foldhasznalati-jog-ceg"
+      "imgl": "https://telex.hu/belfold/2026/11/24/m1-metro-kisfoldalatti-feluitas-meghosszabbitas-jarmutelep-foldhasznalati-jog-ceg",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "wekerle-plusz-gyenge-indulas-nov-24",
@@ -3202,7 +3204,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261123/1795464675-temp-n3q4vff691qp2baakpa_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/sport/2026/11/23/kecskemeti-te-atigazolas-fk-csikszereda-szekelyfold-erdely-foci-tartozas-fifa-romania"
+      "imgl": "https://telex.hu/sport/2026/11/23/kecskemeti-te-atigazolas-fk-csikszereda-szekelyfold-erdely-foci-tartozas-fifa-romania",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "iran-tankertamadasok-rekord-blokad-nov-23",
@@ -3343,7 +3346,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261123/1795446390-temp-ep9m564misk43mchgkm_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/23/sesztak-miklos-300-millios-ovadekot-ajanlott-fel-de-a-fovarosi-torvenyszek-helybenhagyta-a-letartoztatasat"
+      "imgl": "https://telex.hu/belfold/2026/11/23/sesztak-miklos-300-millios-ovadekot-ajanlott-fel-de-a-fovarosi-torvenyszek-helybenhagyta-a-letartoztatasat",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "matolcsy-letartoztatas-februar-23-nov-23",
@@ -3486,7 +3490,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261123/1795438878-temp-v0ef8kfvn1hq9ppeicg_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/23/vonat-baleset-kamion-vasuti-atjaro-sumony-serultek"
+      "imgl": "https://telex.hu/belfold/2026/11/23/vonat-baleset-kamion-vasuti-atjaro-sumony-serultek",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "csepel-lidl-gazolas-letartoztatas-nov-23",
@@ -3513,7 +3518,8 @@
       ],
       "img": "https://assets.telex.hu/images/20261123/1795430305-temp-oo67ukd3c986aldlida_facebook.jpg",
       "imgs": "Telex",
-      "imgl": "https://telex.hu/belfold/2026/11/23/letartoztattak-a-ferfit-aki-szandekosan-elgazolt-egy-bolti-dolgozot-budapesten"
+      "imgl": "https://telex.hu/belfold/2026/11/23/letartoztattak-a-ferfit-aki-szandekosan-elgazolt-egy-bolti-dolgozot-budapesten",
+      "cred": "Telex (a készítőt a forrásoldal nem tünteti fel)"
     },
     {
       "id": "ho-kozelit-csutortok-hungaromet-nov-23",
@@ -4478,7 +4484,7 @@
       "img": "https://assets.4cdn.hu/kraken/8Q6MAdT1GzHU1Rdxls-lg.jpeg",
       "imgs": "Qubit",
       "imgl": "https://qubit.hu/2026/11/25/nem-rugnak-ki-csak-nem-vesznek-fel-az-anthropic-felmerte-az-ai-valos-munkaeropiaci-hatasait",
-      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+      "cred": "Fotó: CHARLY TRIBALLEAU/AFP"
     },
     {
       "id": "openai-kozos-kepessegkuszob-javaslat-nov-23",
