@@ -1,8 +1,11 @@
 {
  "failed": {
-  "w-bdff3377b3708d78": 3
+  "w-47ca4558bf73fbb1": 3,
+  "w-a72dbe4ec741ad62": 1
  },
  "failed_translations": {
-  "w-faaac939e2af4bb7:es": 1
+  "w-ffeef623d5cacc00:es": 1,
+  "w-ffeef623d5cacc00:fr": 1,
+  "w-752d869dedc551fa:hu": 1
  }
 }
