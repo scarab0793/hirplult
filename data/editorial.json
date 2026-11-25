@@ -1,6 +1,128 @@
 {
   "items": [
     {
+      "id": "szibiha-kisebbsegi-jogok-magyar-peter-brusszel-nov-25",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T17:38:00+00:00",
+      "ai_edited": true,
+      "t": "Szibiha szerint Ukrajna gyorsítja a magyar kisebbség jogairól szóló megállapodások végrehajtását, Magyar Péter pedig Brüsszelbe indult az uniós költségvetési tárgyalásra",
+      "s": "A kárpátaljai út után Magyar Péter Facebookon számolt be Andrij Szibiha szavairól; a miniszterelnök a repülőtérről üzent, hogy a hétéves uniós költségvetés tárgyalása kritikus szakaszba érkezett.",
+      "p": [
+        "Magyar Péter miniszterelnök szerdán Facebook-bejegyzésben közölte, hogy az ukrán külügyminiszter szerint Ukrajna kész felgyorsítani a magyar nemzeti kisebbség nyelvi, kulturális és oktatási jogairól szóló megállapodások végrehajtását. Az Index az Ukrinform és az MTI beszámolója alapján azt írja, hogy Andrij Szibiha ezt kijevi sajtótájékoztatón mondta, amelyet Margus Tsahkna észt külügyminiszterrel tartott. Az ukrán diplomácia vezetője szerint az ehhez szükséges jogi keretek már rendelkezésre állnak.",
+        "Szibiha elmondta, hogy beszélt Orbán Anita magyar külügyminiszterrel is, és az ukrán fél konstruktívan áll a kérdéshez; rövid idézete szerint „készen állunk az ilyen párbeszédre és az ilyen lépésekre”. A közeljövőben több találkozót tervez, és újraindítják a kétoldalú mechanizmusok és bizottságok munkáját. Hozzátette, hogy Ukrajnának érdeke a kisebbségi jogvédelemben az uniós és az Európa Tanács által képviselt legmagasabb normákat követni. A Portfolio az ukrán lépést úgy írja le, hogy a kulturális, oktatási és nyelvhasználati jogokat könnyítő új törvényjavaslatok átültetését gyorsítják fel.",
+        "Az előzmény a keddi kárpátaljai látogatás: Magyar Péter Ungváron és Beregszászon tárgyalt Volodimir Zelenszkij ukrán elnökkel. Az Index szerint szó esett energetikai és gazdasági kérdésekről, a közlekedési kapcsolatokról és a kárpátaljai magyar közösség jogairól; Zelenszkij a kölcsönös tiszteleten alapuló párbeszédre mondott igent. A miniszterelnök egymilliárd forint értékű egészségügyi felszerelést, gyógyszert és energetikai eszközt ajánlott fel Ukrajnának, a cikk szerint ugyanekkora összeget a kárpátaljai magyar közösség támogatására is szán a kormány. Beregszászon a Kossuth Lajos Líceumban diákokkal röplabdázott.",
+        "A Portfolio beszámolója szerint Magyar Péter ezután Brüsszelbe indult, és a repülőtérről küldött videóüzenetben azt mondta, hogy a következő hétéves uniós költségvetésről szóló tárgyalások „kritikus, nagyon fontos szakaszához” érkeztek. Szerinte sok milliárd euróról van szó, amelyre a magyar gazdaságnak, a vállalatoknak, a vízmegtartási projekteknek, az infrastruktúrának, a kórházaknak és az oktatásnak szüksége van. A kormányfő úgy fogalmazott, hogy ez az uniós pénzekért folyó verseny utolsó előtti köre, a befutó decemberben dől el."
+      ],
+      "cav": "A beszámoló az Index és a Portfolio cikkein alapul; Szibiha sajtótájékoztatóját, az Ukrinform tudósítását és Magyar Péter Facebook-bejegyzését közvetlenül nem láttuk. Nem derül ki, pontosan mely megállapodásokról van szó, mi a határidő, és mit jelent a gyorsítás a gyakorlatban; az ukrán külügyminisztérium saját közleményét nem ismerjük. A Portfolio címe „bejelentést” említ, de a szövegben nincs konkrét bejelentés az uniós költségvetésről: sem összeg, sem a magyar követelések nem szerepelnek benne, és a brüsszeli találkozó pontos időpontja sem. A Portfolio két időbélyeget mutat (18:34 és 18:38), a közzététel pontos ideje bizonytalan. Az egymilliárd forintos támogatás hovatartozását az Index nem írja le pontosan.",
+      "op": "Jó, hogy a kárpátaljai magyarok jogairól végre konkrét ukrán ígéret hangzik el, de ígéretből még nem lesz törvény: érdemes majd a határidőket és a végrehajtást számon kérni, nem a gesztusokat. A brüsszeli út ugyanilyen mérce lesz: a „sok milliárd euró” csak akkor valóság, ha decemberben a számok is megérkeznek.",
+      "src": [
+        [
+          "Index: Magyar Péter: Ukrajna felgyorsítja a magyar nemzeti kisebbség jogairól szóló megállapodás végrehajtását",
+          "https://index.hu/kulfold/2026/11/25/magyar-peter-ukrajna-andrij-szibiha-karpatalja-kisebbsegi-jogok/"
+        ],
+        [
+          "Portfolio: Kritikus szakaszához érkeztek az EU-s tárgyalások, bejelentést tett Magyar Péter",
+          "https://www.portfolio.hu/gazdasag/20261125/kritikus-szakaszahoz-erkeztek-az-eu-s-targyalasok-bejelentest-tett-magyar-peter-879150"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7270/72706/727063/72706393_8d92ab49664132d6ffac440ee30c470a_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/25/magyar-peter-ukrajna-andrij-szibiha-karpatalja-kisebbsegi-jogok/",
+      "cred": "Borítókép: Magyar Péter és Volodimir Zelenszkij a beregszászi sajtótájékoztatón, 2026. nov. 24. – Fotó: Nemes János / MTI (az Index aláírása szerint)"
+    },
+    {
+      "id": "tozsdei-esés-ai-reszvenyek-nasdaq-nov-25",
+      "r": "Gazdaság",
+      "c": "Tőzsde",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:46:00+00:00",
+      "ai_edited": true,
+      "t": "Zuhantak a tőzsdék szerdán: Ázsiában két számjegyű esések, New Yorkban a Nasdaq nyitáskor 4 százalékot veszített, az Anthropic a kibocsátási ár alá esett",
+      "s": "A Portfolio élő tudósítása szerint az AI-beruházások visszaesésétől való félelem húzta le a technológiai részvényeket; a Dow, az S&P 500 és a Nasdaq is mélyen nyitott.",
+      "p": [
+        "A Portfolio percről percre követett szerdai tudósítása szerint a világ tőzsdéin ismét eladási hullám indult, a befektetők elsősorban a mesterséges intelligenciához kötődő részvényekből menekültek. A lap szerint már a jó hírek sem segítettek a hangulaton. Ázsiában a SoftBank árfolyama mintegy 15, az Advantesté 13, a Tokyo Electroné közel 13 százalékot esett; a dél-koreai Kospi több mint 6, a japán Nikkei 225 2,88 százalékot veszített. Európában viszont az indulás csendes volt: a DAX nagyjából 0,1, a francia CAC és a londoni FTSE 100 körülbelül 0,5 százalékkal emelkedett.",
+        "A tudósítás szerint kedden az amerikai Nasdaq 2 százalékot esett, az Nvidia közel 6, az Anthropic 6,5 százalékot, utóbbi így a 83 dolláros kibocsátási ár alá került. A lap az Nvidia esését részben profitrealizálással magyarázza a hétfői, 31,5 százalékos ralit követően. A nyitás előtti kereskedésben a Nasdaq határidős indexe 3, az S&P 500-é 2, a Dow-é 1,4 százalékot veszített. A nyitás után a Dow Jones 1,8, az S&P 500 2,7, a Nasdaq 4 százalékos mínuszban állt; az Nvidia 8, a Meta 5, az Amazon közel 5, az Anthropic 8 százalékot esett. A Dell részvénye az erős harmadik negyedéves eredmény ellenére is nagyjából 6 százalékkal gyengült. A VIX félelemindex a nap folyamán 10 százalékot ugrott.",
+        "A tudósítás az Anthropic részvényéről azt is leírja, hogy a cég múlt szerdán lépett a Nasdaqra, a kibocsátással 81,3 milliárd dollárt vont be, az első napi nyitóár 111,50 dollár volt a 83 dolláros kibocsátási árhoz képest. Egy pénzügyi hírben azt írják, hogy az amerikai kormány a 16 kereskedelmi partner ipari túlkapacitását vizsgáló eljárás után új importvámokat javasolhat, 15–25 százalékos tételekkel; az EU-ra a lap szerint 15 százalékos plafon marad, Kínával pedig január 10-ig fegyverszünet van érvényben. A drágafémek is estek: az arany 3, az ezüst 5 százalékot aznap, az arany idén eddig 20, az ezüst 46 százalékot veszített.",
+        "A magyar piacról a Portfolio azt jegyzi meg, hogy az OTP árfolyama a nyitáskor 3,6 százalékot esett, a forint reggel az euró 370 forintos szintje fölött gyengült. A Masterplast közleménye szerint az MVM felmondta a cég 18 milliárd forintos, eredetileg több mint tíz évre szóló keretszerződését, amely alig több mint egy évig volt érvényben. A Goldman Sachs egyik stratégája szerint még túl korai az AI-részvények esését vételi lehetőségnek tekinteni."
+      ],
+      "cav": "A beszámoló egyetlen percről percre tudósításon alapul, amely több időpontú pillanatképet tartalmaz; az indexek és árfolyamok napközben változtak, a záróértékeket nem ismerjük. A tudósítás saját táblázata és szövege több helyen eltér (például a Nikkei és a CSI 300 napi változásánál), valószínűleg eltérő időpontú adatok miatt. A tudósítás szerkesztésében a lap jelzése szerint AI-asszisztens is közreműködött, a tartalmat újságíró ellenőrizte. A vámokról szóló információ egy volt kereskedelmi tisztviselőre hivatkozik, megerősítést nem láttunk. Az esés okát a lap az AI-beruházások visszaesésétől való félelemmel magyarázza, ez értelmezés, nem megerősített tény. A kép illusztráció, a címlapkép-forrás megjelölése nem egyértelmű.",
+      "op": "Az AI-láz után az első komoly kijózanodás látszik, és érdemes észrevenni: ugyanazok a cégek, amelyeket hetekig csak felfelé lehetett elképzelni, egy nap alatt 5–8 százalékot veszthetnek. Aki a megtakarítását egyetlen témára tette fel, az ma megtanulhatta, mit jelent a koncentrált kockázat.",
+      "src": [
+        [
+          "Portfolio: Megint esnek a tőzsdék, menekülnek a befektetők az AI-részvényekből",
+          "https://www.portfolio.hu/uzlet/20261125/megint-esnek-a-tozsdek-menekulnek-a-befektetok-az-ai-reszvenyekbol-878904"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/t/o/z/tozsde-872750.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/uzlet/20261125/megint-esnek-a-tozsdek-menekulnek-a-befektetok-az-ai-reszvenyekbol-878904",
+      "cred": "Portfolio címlapkép, illusztráció (a forrásmegjelölés nem egyértelmű, fotós nincs feltüntetve)"
+    },
+    {
+      "id": "amerikai-gdp-felulvizsgalat-4-3-pce-fed-kamatemeles-nov-25",
+      "r": "Gazdaság",
+      "c": "Makró",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T13:40:00+00:00",
+      "ai_edited": true,
+      "t": "4,3 százalékra emelték az amerikai GDP harmadik negyedéves növekedését, az infláció 3,8 százalékon maradt, a piac decemberi Fed-emelést vár",
+      "s": "A Portfolio szerint a fogyasztás erősebb alakulása miatt módosítottak felfelé, miközben a PCE-infláció havi szinten 0,3 százalék volt.",
+      "p": [
+        "A Portfolio szerdai összefoglalója szerint az amerikai gazdaság harmadik negyedéves növekedését a korábbi 3,5 százalékról 4,3 százalékra módosították felfelé. A lap ezt főleg a fogyasztás erősebb alakulásával magyarázza: a magánfogyasztás növekedési ütemét 3,8 százalékról 4,2 százalékra javították. A háztartások fogyasztási kiadása havi alapon 0,3 százalékkal nőtt, jövedelmük 0,7 százalékkal, a reálfogyasztás ugyanakkor havi összevetésben stagnált.",
+        "Az inflációs adatok a várakozásoknak megfelelően alakultak: a PCE-árindex havi alapon 0,3 százalékkal emelkedett, a maginfláció is 0,3 százalékot ért el, éves szinten a PCE-infláció 3,8 százalék. A vállalati profitok a cikk szerint 3,8 százalékkal nőttek, az előző időszak 7,7 százalékos bővülése után.",
+        "A kamatkilátásokról a Portfolio azt írja, hogy a piac a Fed decemberi ülésén 25 bázispontos kamatemelést vár, és a következő évre további két-három emelést áraz be. A cikk szerzője szerint az inflációs várakozások gyorsan csökkennek, a nyersanyagárak lejjebb kerültek, az AI-val kapcsolatos bizonytalanság miatt pedig a növekedési kilátások is homályosabbak. Értékelése szerint a GDP-revízió jó hír, de a jövőre nézve keveset mond, a PCE-adat pedig nagyrészt hetekkel korábbi inflációs adatok átsúlyozása. A lap a részvénypiaci esés hátterében is az AI-beruházások visszaesésétől való félelmet jelöli meg."
+      ],
+      "cav": "A beszámoló a Portfolio rövid cikkén alapul; az adatot kiadó intézmény nevét a cikk nem említi, és a konszenzusos várakozásokat sem közli (csak a havi PCE-nél jelzi, hogy az adat megfelelt a várakozásnak). A vállalati profitnövekedésnél nem egyértelmű, hogy negyedéves vagy éves összevetésről van szó. A kamatemelési várakozások forrása és valószínűsége nincs megadva. A cikk végén egy önálló mondat az olajárról szerepel, amelynek összefüggése nem derül ki; ezt nem használtuk fel.",
+      "op": "A jó GDP-szám önmagában megtévesztő: ha a reálfogyasztás havi alapon áll, a növekedés mögött kisebb a lendület, mint a címlapszám sugallja. Közben a 3,8 százalékos infláció miatt a decemberi kamatemelés inkább kényelmetlen valószínűség – a forintnak és a magyar kamatvágásnak pedig ez kimondottan rossz hír.",
+      "src": [
+        [
+          "Portfolio: Felfelé módosították az amerikai GDP-t, de maradt az infláció",
+          "https://www.portfolio.hu/gazdasag/20261125/felfele-modositottak-az-amerikai-gdp-t-de-maradt-az-inflacio-879064"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/u/s/a/usa-zaszlo-369336.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261125/felfele-modositottak-az-amerikai-gdp-t-de-maradt-az-inflacio-879064",
+      "cred": "Címlapkép forrása: Martin Ruegner (a Portfolio megjelölése szerint), illusztráció"
+    },
+    {
+      "id": "iowa-ologazid-robbantas-middletown-nov-25",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T16:59:00+00:00",
+      "ai_edited": true,
+      "t": "Mintegy 4500 kilogramm ólom-azidot robbantott fel az amerikai hadsereg egy iowai lőszergyárban, a lakosokat arra kérték, hagyják el otthonaikat",
+      "s": "A Qubit szerint a lejárt szavatosságú, kikristályosodott robbanóanyag a hideg miatt kontrollálatlanul felrobbanhatott volna; a környezetvédők ólomszennyezéstől tartanak.",
+      "p": [
+        "A Qubit beszámolója szerint az Egyesült Államok hadserege szerdán, keleti idő szerint délelőtt tízkor, magyar idő szerint délután négykor mintegy 4500 kilogramm ólom-azid robbanóanyagot robbantott fel az iowai Middletown lőszergyárában. A hatóságok arra kérték a település és a környék lakóit, hogy a detonáció idejére hagyják el otthonaikat, mert a robbanás ólomszennyeződést juttathat a levegőbe. Ezt a lap a CNN élő közvetítésére hivatkozva írja.",
+        "A robbantás indoka a cikk szerint az, hogy 68 hordónyi ólom-azid esetében fennállt az öngyulladás és a spontán robbanás veszélye (ezt a Qubit a France 24 videójára hivatkozva közli). A hadsereg illetékesei szerint a lejárt szavatosságú anyag kikristályosodhat, a kristályok pedig fagypont közeli hőmérsékleten könnyebben eltörhetnek, ami ellenőrizhetetlen detonációt okozhat. Az anyag különösen a gyerekekre és a terhes nőkre veszélyes; egyes környezetvédő csoportok szerint az ólompor Iowa vidéki részein és Missouri északkeleti részén terjedhet el.",
+        "A detonációt azután hajtották végre, hogy a hadsereg reggel megkapta a szövetségi fellebbviteli bíróság jóváhagyását. A Qubit az AP-ra hivatkozva írja, hogy a 8. körzeti fellebbviteli bíróság háromtagú tanácsa hétfőn kimondta: a környezetvédelmi hatóság (EPA) megtette a szükséges biztonsági lépéseket, és figyelembe vette a környezetvédők javaslatait. Donald Trump amerikai elnök szerint a korai jelentések alapján a hadsereg robbanáskockázat-mérséklési erőfeszítései „messze felülmúlták a várakozásokat”."
+      ],
+      "cav": "A beszámoló a Qubit cikkén alapul, amely a CNN, a France 24 és az AP közléseire hivatkozik; ezeket közvetlenül nem olvastuk. A cikk nem közli, hány embert érintett a kitelepítés, mért-e a robbantás után ólomszennyezést a levegőben vagy a talajban, voltak-e sérültek vagy károk, és hogy a lakók visszatérhettek-e. A 4500 kilogramm és a 68 hordó viszonyát nem magyarázza, és azt sem, miért és mióta tárolták az anyagot. Trump nyilatkozata korai jelentéseken alapul, független megerősítést nem láttunk. A fellebbviteli döntés pontos dátuma a „hétfő” megjelölésen túl nem ismert.",
+      "op": "Az ilyen ügyekben az ellentmondás nem a robbantás szükségességében van, hanem abban, hogy a lakók és a környezetvédők mikor kapnak független mérési adatot a levegő ólomtartalmáról. Az elnöki „felülmúlta a várakozásokat” akkor ér valamit, ha mellé számok is érkeznek, nem csak elégedett mondatok.",
+      "src": [
+        [
+          "Qubit: Az Egyesült Államok hadserege több mint négy tonna vegyi anyagot robbantott fel Iowa államban",
+          "https://qubit.hu/2026/11/25/az-egyesult-allamok-hadserege-tobb-mint-negy-tonna-vegyi-anyagot-robbantott-fel-iowa-allamban"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q7hwcyMn7AK1Lctms-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/25/az-egyesult-allamok-hadserege-tobb-mint-negy-tonna-vegyi-anyagot-robbantott-fel-iowa-allamban",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
       "id": "sakk-vb-dontoje-2-jatszma-dontetlen-gukesh-sindarov-nov-25",
       "r": "Sport",
       "c": "Sakk",
