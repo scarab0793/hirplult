@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "matolcsy-ugyved-feltetelek-bilincs-nov-25",
+      "r": "Belpolitika",
+      "c": "Vizsgálóbizottság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T13:54:00+00:00",
+      "ai_edited": true,
+      "t": "Matolcsy György elmenne a Parlamentbe, ha nem mutatják bilincsben – közölte az ügyvédje",
+      "s": "A Telex és az Index szerint Bátki Pál azt mondta, hogy a volt jegybankelnök a nyilvános bizottsági ülésen megjelenne, ha az emberi méltósága és az ártatlanság vélelme nem sérül.",
+      "p": [
+        "A Telex és az Index beszámolója szerint Matolcsy György volt jegybankelnök ügyvédje, Bátki Pál szerdán azt közölte, hogy védence személyesen megjelenne az MNB-ügyeket vizsgáló parlamenti bizottság nyilvános ülésén, ha biztosítják, hogy a meghallgatás során nem sérül az emberi méltósága és az ártatlanság vélelme. A bizottság csütörtöki ülésén arról tárgyalna, hogy Matolcsyt abban a büntetés-végrehajtási intézetben keressék fel, ahol letartóztatásban van. Az ügyvéd szerint erre nincs szükség.",
+        "Bátki azt kéri, hogy a börtön eseti alapon mérje fel, fennáll-e olyan konkrét biztonsági kockázat, amely indokolná a bilincs vagy a póráz használatát. Ha nincs észszerű aggály a szökésre vagy támadásra, a volt elnököt az ügyvéd szerint megkötözés nélkül kellene a Parlamentbe kísérni, és megkötözés nélkül kellene vallomást tennie. Ha a büntetés-végrehajtás mégis elkerülhetetlennek tartaná a megkötést, a védelem azt kéri, hogy az érkezés és a távozás kamerák látóterén kívül történjen, így nem készülhet felvétel bilincsben. A sajtó az ülésről ettől függetlenül szabadon tudósíthatna. Az ügyvéd szerint a letartóztatás és a közérdek önmagában nem indokolja a bilincset, a feltételek pedig minden gyanúsítottnak járó emberi jogi minimumot jelentenek, nem kivételezést a volt tisztség miatt.",
+        "A háttér: a beszámolók szerint Matolcsyt október 21-én vették őrizetbe, a letartóztatását két nappal később rendelték el, hétfőn pedig a bíróság három hónappal meghosszabbította. A jegybank vezetése alatt több mint 266 milliárd forintnyi közpénz került az általa alapított Pallas Athéné alapítványokhoz, amelyek vagyonát később az Optima Befektetési Zrt. kezelte. Az Állami Számvevőszék 2025 márciusi jelentései több száz milliárd forintos vagyonvesztést állapítottak meg, a nyomozás ennek nyomán indult. A bizottság november 5-re idézte Matolcsyt. A Telex szerint az ülésen felolvastak egy levelet, amely szerint a volt elnök élni kíván a hallgatáshoz való jogával. Csőszi Attila bizottsági elnök korábban úgy fogalmazott, hogy akár pórázon is behozathatják, az ügyészség szerint viszont nincs jogalap arra, hogy a bizottság elé vigyék."
+      ],
+      "cav": "A bizottság csütörtöki döntése még nem ismert, és az sem, hogyan ítéli meg a büntetés-végrehajtás a biztonsági kockázatot. A feltételek a védő kérései, nem hatósági döntések. Az, hogy Matolcsy a bizottság előtt vallomást tenne-e, vagy élne a hallgatás jogával, nem derül ki. A letartóztatás meghosszabbításának és a bizottsági javaslatnak a tényeit korábbi, november 24-i cikkünk tartalmazza, ezeket csak röviden idéztük.",
+      "op": "Az ártatlanság vélelme mindenkit megillet, a volt jegybankelnököt is, és a bilincsben vonuló gyanúsított képe senkit sem visz közelebb az igazsághoz. Ugyanakkor a bizottságnak joga van választ kérni a közpénz sorsáról, a hallgatás joga pedig Matolcsyt illeti: a meghallgatás tétje az, mi hangzik el rajta, nem az, hogyan érkezik meg.",
+      "src": [
+        [
+          "Telex: Matolcsy György elmenne a Parlamentbe, ha tiszteletben tartják az emberi méltóságát, és nem mutatják bilincsben",
+          "https://telex.hu/belfold/2026/11/25/matolcsy-gyorgy-letartoztatas-parlament-meghallgatas-ugyved-bemegy"
+        ],
+        [
+          "Index: Ügyvédje közölte, milyen feltételekkel jelenne meg a Parlamentben Matolcsy György",
+          "https://index.hu/belfold/2026/11/25/matolcsy-gyorgy-parlament-batki-pal-ugyved-volt-jegybankelnok/"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261125/1795614910-temp-drjsb36pkk5q8ifbpkd_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/25/matolcsy-gyorgy-letartoztatas-parlament-meghallgatas-ugyved-bemegy",
+      "cred": "Matolcsy Györgyöt szállító rendőrautó a Nagy Ignác utcai büntetés-végrehajtási intézetnél a letartóztatás elrendelése után – Fotó: Koszticsák Szilárd / MTI"
+    },
+    {
+      "id": "tek-telefonos-csalok-vezeroi-elfogas-nov-25",
+      "r": "Közélet",
+      "c": "Bűnügy",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:37:00+00:00",
+      "ai_edited": true,
+      "t": "Elfogták a bankalkalmazottnak és rendőrnek kiadó telefonos csalók két vezetőjét, az egyiket fürdőköpenyben teperte le a TEK",
+      "s": "Az Index és a Telex szerint a Hajdú-Bihar vármegyei rendőrség kibercsoportja és a TEK több száz milliós csalássorozat két irányítóját fogta el.",
+      "p": [
+        "Az Index és a Telex a rendőrség közleményére hivatkozva azt írja, hogy a Terrorelhárítási Központ (TEK) műveleti egységei és a hajdú-bihari kibercsoport rendőrei elfogtak két férfit, akiket több százmillió forint elcsalásával gyanúsítanak. Az Index szerint a két férfi 34 és 45 éves, ők irányították a hálózatot, hozzájuk futott be a megszerzett pénz, és ők toboroztak új tagokat. Szervezett csalás és pénzmosás miatt hallgatták ki őket, a bíróság elrendelte a letartóztatásukat. A nyomozás februárban indult.",
+        "A csalók banki ügyintézőnek adták ki magukat, és rávették az egyik áldozatot, hogy töltsön le egy alkalmazást a telefonjára, amellyel hozzáfértek a bankszámlájához. Innen mintegy 100 millió forintot utaltak át más számlákra. A rendőrség azonnal értesítette a bankot, így több mint 50 millió forintot sikerült visszatartani. A nyomozás további, hasonló eseteket kapcsolt a csoporthoz. Fő profiljuk a banki megtévesztés volt, de egyes áldozatokat rendőrnek kiadva magukat is becsaptak.",
+        "A nyomozók először a pénzt felvevő címzetteket azonosították, majd azokat, akik ellenőrizték, hogy a címzettek minden összeggel elszámolnak. Nyáron négy embert fogtak el Szigetszentmiklóson és Budapesten, őket pénzmosás miatt hallgatták ki, és a bíróság letartóztatta őket. Az Index szerint november 10-én kora reggel a két vezetőt Pest és Bács-Kiskun vármegyében fogták el. Lefoglaltak mintegy 3 millió forint készpénzt, külföldi fizetőeszközt és egy nagy értékű autót, a házkutatások során gázriasztó eszköz, gumilövedékes pisztoly és puska is előkerült. A rendőrség videót tett közzé az elfogásról: az Index leírása szerint az egyik gyanúsított fürdőköpenyben kirohant az utcára, a TEK földre vitte és megbilincselte, a másikat egy parkolóban, az autója mellett fogták el, nem sokkal azután, hogy vásárolt. A rendőrség szerint az ilyen akciókat úgy időzítik, hogy a gyanúsítottak a legkevésbé számítsanak rájuk."
+      ],
+      "cav": "A gyanúsítottak nevét a beszámolók nem közlik, mi sem találgatjuk. A letartóztatás időtartamát, a károsultak számát és a teljes kár pontos összegét („több százmillió forint”) nem adják meg. A fegyverek jogszerű voltáról nincs adat. A november 10-i dátum az Index közlése, a Telex részletei rövidebbek. Képet nem teszünk ki, mert a cikk a képhez nem tüntet fel készítőt. Az ártatlanság vélelme a gyanúsítottakat is megilleti.",
+      "op": "A fürdőköpenyes jelenet látványos, de a tanulság hétköznapi: a csalóknak egyetlen bizalmat keltő telefonhívás elég a számlához. Ha valaki a bank nevében kér alkalmazás-telepítést, a legbiztosabb válasz a letenni és a bank hivatalos számát visszahívni.",
+      "src": [
+        [
+          "Index: Fürdőköpenyben teperte le a TEK a százmilliókat kaszáló telefonos csalók vezérét",
+          "https://index.hu/belfold/2026/11/25/rendorseg-tek-kibercsalas-bank-nyomozas/"
+        ],
+        [
+          "Telex: 100 milliót szedtek le egy áldozat számlájáról a csalók, a TEK ment értük",
+          "https://telex.hu/belfold/2026/11/25/tek-rendorseg-nyomozas-szazmillios-csalas-elfogas-lofegyver"
+        ]
+      ]
+    },
+    {
+      "id": "kamu-index-oldal-befektetesi-csalas-nov-25",
+      "r": "Közélet",
+      "c": "Csalás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:02:00+00:00",
+      "ai_edited": true,
+      "t": "Kamu Index-oldallal csaptak be egy olvasót: százezer forintot bukott egy hamis befektetési hirdetésen",
+      "s": "Az Index szerint a csalók az Index arculatát és ismert emberek nevét használták egy kitalált, jegybankelnökös „interjúhoz”.",
+      "p": [
+        "Az Index beszámolója szerint egy névtelenséget kérő olvasó 100 ezer forintot vesztett egy hamis weboldalon. Az oldal annyira hűen másolta az Index arculatát és logóját, hogy az olvasó azt hitte, valódi gazdasági cikket olvas. A hamis írás szerint Rónai Egon sarokba szorította Varga Mihályt, az MNB elnökét, aki élő adásban kisétált a stúdióból. A kitalált beszélgetés egy bankoktól független, jóval nagyobb hozamot ígérő befektetésről szólt, amelynek cégeként a Mol-csoportot nevezte meg. Az írásban egy Kovács Gábor nevű szereplő története is szerepelt, aki mindent elvesztett, a befektetés azonban állítólag helyrehozta az anyagi helyzetét. Bojár Gábor és más közgazdászok is állítólag ajánlották a konstrukciót, az olvasót pedig űrlap kitöltésére kérték.",
+        "Az űrlap legalább 100 ezer forintos befizetést írt elő. A telefonszám megadása után az olvasót egy „menedzser” hívta fel, bankkártyaszámot közölt, és utalást kért, majd felhasználónevet és jelszót is kért, helyette új felhasználónevet adott. Azt mondta, az utalás után egy másik menedzser fog jelentkezni. Másnap egy Mogyorósi nevű férfi hívta, akit az olvasó túl barátságosnak talált, ezért gyanút fogott. Visszakérte a pénzt, a telefonszámok ekkor elérhetetlenné váltak, a pénzt pedig nem kapta vissza.",
+        "Az Index szerint a csalók a portál népszerűségét és ismert emberek, köztük Bojár Gábor, Varga Mihály és Rónai Egon nevét használják fel, a mesterséges intelligencia pedig hatékonyabbá teszi a megtévesztő oldalakat és üzeneteket. A cikk egy 2024-es esetet is felidéz, amikor a rendőrség azért utasított el egy feljelentést hamis befektetési hirdetés miatt, mert pénzügyi kár nem keletkezett. Tanácsként azt írják, hogy a gyanús bejegyzést jelenteni kell az adott platformon, és nem szabad pénzt utalni vagy banki adatokat megadni közösségi hirdetésen át elért oldalon, ismeretlen „menedzser” utasítására, még akkor sem, ha az oldal ismert portálnak tűnik."
+      ],
+      "cav": "Az áldozat névtelen, az eset az Index saját olvasói bejelentésére épül. A hamis oldal címét, a csalók kilétét és azt, hogy történt-e feljelentés, a cikk nem közli. A hamis cikkben szereplő személyek nem vettek részt a kitalált beszélgetésben és ajánlásban, nevüket a csalók használták fel. A 2024-es eset részleteit nem ismételtük. A kép a cikk borítóképe, nem a hamis oldalt mutatja.",
+      "op": "A csalók azt használják ki, hogy egy ismert portál arculata bizalmat kelt, egy jegybankelnök neve pedig hitelességet. Aki ilyet lát, nézze meg a böngésző címsorát, és soha ne utaljon pénzt egy „menedzser” utasítására, bármilyen jól hangzik az ígért hozam.",
+      "src": [
+        [
+          "Index: Kamu Index-oldallal csapták be olvasónkat, százezer forintot bukott",
+          "https://index.hu/belfold/2026/11/25/index-nev-visszaeles-penzugyi-csalas-kamuoldal/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7270/72703/727034/72703471_e4630f529526ba32088f4529d5030f06_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/25/index-nev-visszaeles-penzugyi-csalas-kamuoldal/",
+      "cred": "Borítókép: Kaszás Tamás / Index"
+    },
+    {
+      "id": "gazmaffia-afacsalas-bunugyi-felugyelet-nov-25",
+      "r": "Közélet",
+      "c": "Bűnügy",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T09:11:00+00:00",
+      "ai_edited": true,
+      "t": "Szabadlábra kerültek a „gázmaffia” fő gyanúsítottjai, a Telex szerint az áfacsalás mögött ismeretlen nemzetközi kör állhat",
+      "s": "A Telex videós összefoglalója szerint a két gázpiaci szereplőt kiengedték a letartóztatásból, az ügy hátterében azonosítatlan csoportot sejtenek.",
+      "p": [
+        "A Telex Vezetőben című műsorában Dezső András összefoglalta a „gázmaffia” néven ismert ügyet. A lap szerint a bíróság kiengedte a letartóztatásból, és bűnügyi felügyelet alá helyezte azt a két magyar gázpiaci szereplőt, akik egy nagyszabású áfacsalási ügyben gyanúsítottak. A hírt a Telex az egyik érintett védőjétől, Bodó Kristóftól tudta meg. A bíróság nevét a lap ebben az összefoglalóban nem közli.",
+        "A Telex szerint noha jelenleg ők a fő gyanúsítottak, a nyomozati iratok és a lap saját kutatása alapján egyre inkább az a kép rajzolódik ki, hogy a hatalmas áfacsalás mögött egy mai napig azonosítatlan, nemzetközi szinten mozgó kör állhat. Ez a kör strómanokkal bástyázta körül magát, így sokáig homályban maradt. A lap kutatásában egy lengyel strómanról, aki iskolázatlan és lakótelepen él, valamint egy indiai házaspárról is szó van.",
+        "A „gázmaffia” elnevezés a Telex szerint megtévesztő: az elkövetők csak kihasználták a gázpiacot, a külföldre juttatott, a lap szerint több száz milliárd forintos összeg nem gázkereskedelemből, hanem az áfával való csalásból származik. A műsor címe 67 milliárdos kérdésről beszél, devizanemet azonban nem közöl."
+      ],
+      "cav": "A beszámoló videós összefoglaló, a nyomozati iratokat nem idézi részletesen. A gyanúsítottak nevei nem szerepelnek, mi sem találgatunk. A 67 milliárdos összeg devizaneme a címben nincs megadva, a szövegből forintra következtetünk. A bíróság nevét és a bűnügyi felügyelet feltételeit nem ismerjük. Az ismeretlen nemzetközi körre vonatkozó állítás a Telex értelmezése, hatósági megerősítés nincs mellette. A Telex korábbi cikkeinek (május 12., október 15., november 23.) tényeit nem ismételtük. Képet nem teszünk ki, mert a lap nem tüntet fel készítőt.",
+      "op": "Ha a két fő gyanúsított szabadlábra kerül, miközben a háttérben egy azonosítatlan kör áll, jogos a kérdés, mit sikerült eddig bizonyítani. Az áfacsalás akkor ér el a közpénzig, ha a nyomozás a tényleges haszonélvezőkig jut, nem áll meg a strómanoknál.",
+      "src": [
+        [
+          "Telex: A 67 milliárdos kérdés, hogy ki áll a gázmaffia élén",
+          "https://telex.hu/video/2026/11/25/vezeto-dezso-andras-gazmaffia-afacsalas"
+        ]
+      ]
+    },
+    {
+      "id": "felcsuti-kisvasut-uzemszunet-nov-25",
+      "r": "Közélet",
+      "c": "Közlekedés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:23:00+00:00",
+      "ai_edited": true,
+      "t": "Nem közlekedik a felcsúti kisvasút, a következő üzemnap ismeretlen",
+      "s": "A HVG szerint a Vál-völgyi kisvasút üzemszünetet jelentett be, a működtetőt telefonon nem érték el.",
+      "p": [
+        "A HVG beszámolója szerint a Vál-völgyi kisvasút üzemszünetet jelentett be. Erről Bihari Ádám, az RTL riportere osztott meg fényképet a Facebook-oldalán. A tájékoztatás szerint a kisvasút következő üzemnapja a Vál-völgyi Zsúr idején lesz, ennek időpontja azonban még nem ismert. A HVG szerint a rendezvényt tavaly óta Vál-völgyi Fesztiválnak hívják, hagyományosan májusban vagy június elején tartják. A lap a működtetőt telefonon nem érte el, ezért e-mailben kérdezett, a válaszra várva a cikket frissíteni fogja.",
+        "A HVG emlékeztet rá, hogy ez nem az első leállás a környéken a kormányváltás óta. Nyáron az Alcsúti Arborétum bejelentette, hogy felújítás miatt várhatóan 2027 elejéig bezár; a kisvasút a felcsúti Pancho Aréna és az arborétum között közlekedik. A felcsúti Pancho Hotel eredetileg ifjúsági sportszállásnak készült, 2022-ben azonban felnőttbarát négycsillagos szállodaként nyílt meg, és több milliárd forintnyi tao-forrásból épült. A szálloda decemberben véglegesen bezár, ezt a Puskás Akadémia is megerősítette. Az épületet később alkalmanként ifjúsági szállásként és sportolók rehabilitációját segítő helyszínként használják majd."
+      ],
+      "cav": "Az üzemszünet okát nem közölték, a működtető nem válaszolt a lapnak. A szállodabezárásról szóló korábbi HVG-cikkek (november 21. és 23.) tényeit csak röviden idéztük. A Facebook-bejegyzést nem láttuk, a HVG idézi. A kép illusztráció, nem a leállást mutatja.",
+      "op": "Egy kisvasút leállása önmagában nem országos ügy, de a környék sorozatos leállásai azt kérdezik, mi lesz a támogatásból épült látványberuházásokkal, amikor a pénz elfogy. A közpénzből épült létesítményeknek akkor van értelme, ha van fenntartásuk és használatuk is.",
+      "src": [
+        [
+          "HVG: Nem közlekedik a felcsúti kisvasút",
+          "https://hvg.hu/itthon/20261125_felcsuti-kisvasut-uzemszunet"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/20e4d51b-dda6-4f4a-9f8f-3c64bf620f90.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261125_felcsuti-kisvasut-uzemszunet",
+      "cred": "Illusztráció (Felcsút körzetriport) – © HVG / Lakos Gábor"
+    },
+    {
       "id": "rss-369012fad7a1f60f20",
       "r": "Megyei",
       "m": "Budapest",
