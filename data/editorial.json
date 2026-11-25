@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "id": "sakk-vb-dontoje-2-jatszma-dontetlen-gukesh-sindarov-nov-25",
+      "r": "Sport",
+      "c": "Sakk",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T16:08:45+00:00",
+      "ai_edited": true,
+      "t": "Húsz lépés után döntetlen a sakkvilágbajnoki döntő második játszmája is: Gukesh és Sindarov 1–1-nél tart Genfben",
+      "s": "A címvédő Gukesh világossal sem tudott nyerni, a játszma háromszori lépésismétléssel ért véget; a párosmérkőzésből még tizenkét parti hátra van.",
+      "p": [
+        "A Nemzeti Sport szerdai beszámolója szerint a genfi sakkvilágbajnoki döntő második játszmája is döntetlennel zárult. A világossal játszó címvédő, az indiai Dommaraju Gukesh (2710 Elo) és üzbég kihívója, Javokhir Sindarov (2782 Elo) mindössze húsz lépést tettek meg, mielőtt háromszori lépésismétléssel megegyeztek az osztozkodásban. Az állás ezzel 1–1, a lap szerint még tizenkét játszma van hátra a párosmérkőzésből.",
+        "A cikk szerint a találkozó nem volt túl izgalmas: a felek korán, kockázatvállalás nélkül jutottak el a lépésismétlésig. A következő játszmát csütörtökön rendezik. A meccset a FIDE világbajnoki oldalán lehet követni, a Nemzeti Sport pedig Lékó Péter ajánlására Pjotr Szvidler kommentárjával kísért élő közvetítést említ.",
+        "A lap ismerteti a díjazást is. A párosmérkőzés díjalapja 2,5 millió dollár, vagyis nagyjából 850 millió forint. Minden megnyert játszma 200 ezer dollárt ér, a fennmaradó összeget a két játékos egyenlően osztja el. Ha a végeredmény 7,5–6,5 vagy 8–6, a győztes 1,3, a vesztes 1,2 millió dollárt kap; ugyanez az arány érvényes akkor is, ha tizennégy játszma után 7–7 az állás, és a rövidített játékidejű játszmák döntenek."
+      ],
+      "cav": "A beszámoló a Nemzeti Sport rövid cikkén alapul, a játszma lépéseit nem láttuk, a FIDE hivatalos közleményét sem. A cikk nem közöl időpontot a következő játszmához, csak annyit, hogy csütörtökön lesz. Az Elo-adatok a cikkből származnak.",
+      "op": "A világbajnoki döntőben a korai lépésismétlés érthető, de a nézőnek csalódás: kétmillió dolláros tét mellett éppen a bátorságot szeretnénk látni. Kár, hogy a fekete és a fehér is inkább a biztosat választotta; remélhetőleg a hátralévő tizenkét parti élénkebb lesz.",
+      "src": [
+        [
+          "Nemzeti Sport: Újabb lépésismétléses döntetlen a sakk-vb döntőjében",
+          "https://www.nemzetisport.hu/egyeb-egyeni/2026/11/ujabb-lepesismetleses-dontetlen-a-sakk-vb-dontojeben"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/c6zIv42hX7KUD5f9AssUkBkVw3mdz8T_F_2EEnllA8A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2Y5ZDRmOTdlOGYyMTRiOTFiZDBlYTk3NzVmM2U0N2Q3.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/egyeb-egyeni/2026/11/ujabb-lepesismetleses-dontetlen-a-sakk-vb-dontojeben",
+      "cred": "Fotó: ChessBase India (a Nemzeti Sport cikkében)"
+    },
+    {
+      "id": "dkka-nyilt-level-magyar-peter-felszamolas-nov-25",
+      "r": "Sport",
+      "c": "Kézilabda",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T13:24:50+00:00",
+      "ai_edited": true,
+      "t": "Nyílt levélben kér segítséget a miniszterelnöktől a felszámolás alatt álló dunaújvárosi kézilabda-akadémia, hogy a gyerekek befejezhessék az idényt",
+      "s": "A DKKA utánpótlás-edzői ingyen is dolgoznának, csak a bajnokság befejezését kérik; a klubot a múlt héten a Magyar Közlönyben közzétett hirdetmény szerint felszámolás alá vonták.",
+      "p": [
+        "A Nemzeti Sport szerint a Dunaújvárosi Kohász Kézilabda Akadémia (DKKA) újabb nyílt levelet írt, amelyet Magyar Péter miniszterelnöknek, Kálnoki-Kiss Attila sportért felelős államtitkárnak, Nagy Ervin kultúráért felelős államtitkárnak és a Magyar Kézilabda-szövetségnek címeztek. A levelet a klub Facebook-oldalán tették közzé, az utánpótlásban dolgozó edzők, a gyerekek és a szülők nevében. Eszerint az akadémia felszámolás alatt áll, ezért gyerekek százainak sportolási lehetősége, többéves munkája és jövője lett bizonytalan.",
+        "A szerzők nem fizetést, különleges bánásmódot vagy személyes előnyöket kérnek: azt írják, hogy a munkatársak a szezon hátralévő részében akár ingyen is dolgoznának, csak a gyerekek léphessenek pályára és fejezhessék be a bajnokságot. Figyelmeztetnek, hogy más magyar sportegyesületek is hasonló helyzetbe kerülhetnek, ezért országos szintű megoldást kérnek a gyermek- és utánpótlássport védelmére. A levél a címzetteket személyes hangon szólítja meg: Kálnoki-Kisst egykori világbajnok sportolóként, Magyar Pétert édesapaként, akinek a levél szerint a fia magas szinten sportol.",
+        "A lap felidézi az előzményeket. A klub súlyos anyagi gondjai közel egy éve ismertek: az NB I-es csapat játékosainak többsége távozott, 2026 februárjában a korábbi vezetés is felállt, az idényt utánpótláskorú játékosokkal fejezték be, és 47 év után búcsúztak az élvonaltól. Idén már csak az NB II-ben indulhattak. A tulajdonos dunaújvárosi önkormányzat augusztusban átvállalta a mintegy 80 millió forintos banki tartozást, korábban megvásárolta az akadémiához kapcsolódó, nagyjából 224,7 millió forintos kölcsön- és távhőkövetelést, a DVG Zrt. pedig 63 millió forintos kölcsönt adott a járuléktartozások rendezésére. A helyzet ennek ellenére nem rendeződött.",
+        "A múlt héten a közgyűlés leváltotta Mázló Imre ügyvezetőt, a posztot a DVG Zrt. vezetője kapta. November 18-án a klub munkatársai nyílt levelet írtak a polgármesternek és az önkormányzatnak, jelezve, hogy négy-héthavi bérrel tartoznak nekik. Egy nappal később a Magyar Közlönyben megjelent a felszámolási eljárásról szóló hirdetmény. Zubai Gábor edző azt mondta, harcolnak azért, hogy a gyerekek befejezhessék az idényt."
+      ],
+      "cav": "A beszámoló a Nemzeti Sport cikkére épül; a levél teljes szövegét és a klub Facebook-bejegyzését nem láttuk. A gyerekek pontos számát a levél nem adja meg („százak”). Nem ismert sem az önkormányzat, sem a kormány vagy a szövetség válasza, és határidő sincs megjelölve. Az összegek és dátumok a Nemzeti Sport szövegéből származnak, külön nem ellenőriztük őket. A cikk tartalmaz egy korábbi, a mi oldalunkon is szereplő ügyet (az edző elmaradt fizetése), ennek tényeit nem ismételjük.",
+      "op": "Megrendítő, hogy egy tizenéves gyerekekkel dolgozó közösségnek ingyenmunkát kell felajánlania ahhoz, hogy a bajnokságot befejezhesse. Az, hogy az önkormányzat százmilliókat tett az ügybe, és mégis felszámolásig jutott a klub, súlyos kérdéseket vet fel a gazdálkodásról; de a felelősség keresése ne vigye el a gyerekektől az idényt.",
+      "src": [
+        [
+          "Nemzeti Sport: Újabb nyílt levélben kér segítséget az idény befejezéséhez a DKKA",
+          "https://www.nemzetisport.hu/kezilabda/2026/11/ujabb-nyilt-levelben-ker-segitseget-az-ideny-befejezesehez-a-dkka"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/vmce9KHAKvcYFqWEd1JH5AT2ZUFew3dujyhytpYIAtM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQxODRlMmM0OTZmZjRjOGVhNWE1NzA0YTY1NGFiYTQ1.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/kezilabda/2026/11/ujabb-nyilt-levelben-ker-segitseget-az-ideny-befejezesehez-a-dkka",
+      "cred": "Fotó: Facebook/Dunaújvárosi Kohász Kézilabda Akadémia – DKKA (a Nemzeti Sport cikkében)"
+    },
+    {
+      "id": "voroskereszt-autonom-fegyverek-szabalyozas-nov-23",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 23.",
+      "published_at": "2026-11-23T11:18:00+00:00",
+      "ai_edited": true,
+      "t": "A Vöröskereszt szerint hamarosan túl késő lesz szabályozni az autonóm fegyvereket, az ENSZ genfi tárgyalásán nem született megállapodás",
+      "s": "Az ICRC jogilag kötelező erejű szerződést sürget, amely „vörös vonalakat” húz: például ember ellen gép ne dönthessen a célba vételről.",
+      "p": [
+        "A Qubit a brit Guardian cikkére hivatkozva azt írja, hogy a Nemzetközi Vöröskereszt Bizottság (ICRC) és több jogvédő szervezet figyelmeztet: az autonóm fegyverek fejlesztése gyorsabb, mint a szabályozásukra irányuló törekvések, és hamarosan túl késő lehet beavatkozni. A felhívás az „egyes hagyományos fegyverekről” szóló ENSZ-egyezmény több mint százhúsz tagállamának egyhetes genfi tanácskozása után hangzott el. A növekvő nyomás ellenére a résztvevők nem tudtak megállapodni olyan eszközről, amely a következő két évben keretet adott volna az autonóm fegyverek kezelésére.",
+        "Cordula Droege, az ICRC nemzetközi jogért és partnerségekért felelős igazgatója szerint már látszik, hogy a mesterséges intelligencia megjelenik a harctereken, és esetleg a fegyverrendszerekben is. Ha ezt szabályozatlanul hagyják, utólag sokkal nehezebb lesz kordában tartani. A Qubit példaként említi a célpontlisták összeállítására használt MI-t, amelyet a cikk szerint az izraeli hadsereg alkalmazott Gázában, valamint az orosz–ukrán háborúban használt félautonóm drónokat, amelyeknél a végső megközelítést az MI veszi át.",
+        "Mirjana Spoljaric Egger, az ICRC elnöke és António Guterres ENSZ-főtitkár jogilag kötelező eszközt sürget, amely egyértelmű tilalmakat és korlátozásokat ír elő. Droege hangsúlyozta, hogy nem minden autonóm fegyverrendszert kell betiltani, hanem nemzetközi szerződésben kell rögzíteni azokat a „vörös vonalakat”, amelyeket soha nem szabad átlépni. Ilyen erkölcsi határnak nevezte, hogy emberek célba vételét gépekre bízzák."
+      ],
+      "cav": "A beszámoló a Qubit cikkén alapul, amely a Guardian 2026. november 22-i írását közvetíti; a Guardian cikkét és az ICRC közleményét közvetlenül nem olvastuk. A cikk nem nevezi meg, mely államok blokkolták a megállapodást. A gázai célpontlista-rendszerről szóló állítás a Qubit (és közvetve a Guardian) megfogalmazása, az izraeli hadsereg álláspontját a cikk nem közli. A kép illusztráció, a készítő nincs feltüntetve.",
+      "op": "Az a legnyugtalanítóbb ebben, hogy a technológia nem várja meg a diplomatákat: miközben Genfben egy hétig sem sikerült keretben megegyezni, a harctéren már használják a félautonóm rendszereket. Az ICRC érve józan: nem kell mindent betiltani, de azt a vonalat, hogy gép ne döntsön emberi életről, jobb időben lerögzíteni, mint utólag sajnálni.",
+      "src": [
+        [
+          "Qubit: A Vöröskereszt szerint mielőbb szabályozni kell az autonóm fegyverek használatát",
+          "https://qubit.hu/2026/11/23/a-voroskereszt-szerint-mielobb-szabalyozni-kell-az-autonom-fegyverek-hasznalatat"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8LiWcaPVwV56Cg8Xs-lg.png",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/23/a-voroskereszt-szerint-mielobb-szabalyozni-kell-az-autonom-fegyverek-hasznalatat",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
       "id": "tidal-ai-zenek-tiltasa-dec-9-nov-25",
       "r": "Kultúra",
       "c": "Tech",
