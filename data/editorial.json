@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "id": "megyei-42-es-fout-javitas-hajdu-bihar-nov-25",
+      "r": "Megyei",
+      "m": "Hajdú-Bihar",
+      "c": "Hajdú-Bihar",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:35:00+00:00",
+      "ai_edited": true,
+      "t": "Háromezer tonna aszfaltot építenek be a 42-es főúton Hajdú-Biharban, félpályás lezárásokkal",
+      "s": "A Dehir az MTI-re hivatkozva írja, hogy Báránd és Földes között, valamint Berettyóújfalu térségében nagyfelületű burkolatjavítás folyik, a munkák november végéig tartanak.",
+      "p": [
+        "A Dehir az MTI jelentését közölve azt írja, hogy a Magyar Közút nagyfelületű javításokat végez a 42-es főúton Hajdú-Bihar vármegyében. A munkáról Vitézy Dávid közlekedési és beruházási miniszter számolt be szerdán a Facebook-oldalán. A cikk szerint a 42-es az ország egyik legfontosabb kétszámjegyű főútja, ugyanakkor az egyik legrosszabb állapotú is.",
+        "A Báránd és Földes közötti, 1,5 kilométeres szakaszon november 17-én kezdődött a munka, itt mintegy 1500 tonna aszfaltot építenek be, a tervek szerint november 27-ig. Berettyóújfalu térségében november 23-án indultak a munkák, ugyancsak mintegy 1500 tonna aszfalttal, november 30-i határidővel. A két helyszínen összesen nagyjából 3000 tonna aszfalt kerül az útba. A burkolatjavítás után a padkákat rendezik és új burkolati jeleket festenek, ez december első hetére várható. A munkák idejére félpályás lezárás van, a forgalmat jelzőőr vagy ideiglenes jelzőlámpa irányítja, és 40 km/h-s sebességkorlátozás érvényes."
+      ],
+      "cav": "A beszámoló az MTI-n és a miniszter Facebook-bejegyzésén alapul, a bejegyzést nem láttuk. A költséget és a kivitelezőt nem közlik. A határidők tervezettek, időjárás miatt csúszhatnak. A kép a Dehir által használt borítókép, készítőt nem tüntetnek fel.",
+      "op": "Egy elhanyagolt főút néhány tonna aszfalttal még nem lesz jó, de jó látni, hogy a vidéki utak felújítása a miniszteri bejelentésekből a gyakorlatba jut. A tét az, hogy a hosszú szakaszokat is rendbe teszik-e, vagy csak a foltozás marad.",
+      "src": [
+        [
+          "Dehir: Nagyfelületű javításokat végez a Magyar Közút Hajdú-Bihar megyében (MTI)",
+          "https://dehir.hu/hajdu-bihar/nagyfeluletu-javitasokat-vegez-a-magyar-kozut-hajdu-bihar-megyeben/2026/11/25"
+        ]
+      ],
+      "img": "https://dehir.hu/upload/images/wp_cikkek/2026/42-es_vitezy_david.jpg",
+      "imgs": "Dehir",
+      "imgl": "https://dehir.hu/hajdu-bihar/nagyfeluletu-javitasokat-vegez-a-magyar-kozut-hajdu-bihar-megyeben/2026/11/25",
+      "cred": "Dehir borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-miskolc-kozos-fenydiszites-nov-25",
+      "r": "Megyei",
+      "m": "Borsod-Abaúj-Zemplén",
+      "c": "Borsod-Abaúj-Zemplén",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T11:00:00+00:00",
+      "ai_edited": true,
+      "t": "Ötvennyolc óvodai és nyugdíjas csoport díszítette fel a miskolci belvárosi karácsonyfákat",
+      "s": "A Borsod24 szerint idén második alkalommal volt közös fenyődíszítés a sétálóutcán, néhány nappal korábban viszont díszeket loptak el az egyik fáról.",
+      "p": [
+        "A Borsod24 beszámolója szerint szerdán délelőtt idén második alkalommal díszítették fel közösen a miskolci belvárosban kihelyezett karácsonyfákat. Az eseményt a Miskolci Belvárosi Kör és Matiscsák Éva alpolgármester szervezte, a résztvevők többsége visszatérő csoport volt. A sétálóutcán összesen 32 óvodai és 26 nyugdíjas csoport vett részt, irodai dolgozók és néhány diákönkormányzati tag is csatlakozott. A cikk szerint a gyerekek kígyózó sorokban érkeztek a felügyelőikkel, a bulgárföldi óvodások az ottani szolgáltatóház idős lakóival együtt jöttek.",
+        "A szervezők egész évben tartanak közös programokat, a következő a mikulásnapi alkalom, amikor idősek olvasnak mesét óvodásoknak. A cikk szerint néhány nappal korábban az egyik fáról díszeket loptak el, ezt a Miskolci Belvárosi Kör a közösségi médiában is megerősítette. A városi dolgozók ezután jobban figyelnek a fákra, a lakókat és az arra járókat pedig arra kérték, hogy jelezzék a hasonló eseteket."
+      ],
+      "cav": "A lopás részleteit, a kár nagyságát és azt, hogy történt-e feljelentés, a cikk nem közli. A résztvevők számát a szervezők adták meg. A kép a Borsod24 borítóképe, a fotós neve nincs feltüntetve, a kép nem feltétlenül a lopás helyszínét mutatja.",
+      "op": "Apró hír, de jó látni, hogy a város legkisebbjei és legidősebbjei közösen csinálnak valamit a belvárosban. A lopás kellemetlen kontraszt, mégis inkább a közösség figyelme legyen a válasz, mint a megszorítás.",
+      "src": [
+        [
+          "Borsod24: A Grincsnek esélye sincs Miskolcon – óriási érdeklődés övezte a közös fenyődíszítést a belvárosban",
+          "https://borsod24.hu/2026/11/25/a-grincsnek-eselye-sincs-miskolcon-oriasi-erdeklodes-ovezte-a-kozos-fenyodiszitest-a-belvarosban/"
+        ]
+      ],
+      "img": "https://cdn.site24.systems/borsod24/uploads/2026/11/groupen.jpg",
+      "imgs": "Borsod24",
+      "imgl": "https://borsod24.hu/2026/11/25/a-grincsnek-eselye-sincs-miskolcon-oriasi-erdeklodes-ovezte-a-kozos-fenyodiszitest-a-belvarosban/",
+      "cred": "Borsod24 borítókép (készítő nincs feltüntetve)"
+    },
+    {
       "id": "nni-hazkutatas-fideszes-alcivil-halozat-nov-25",
       "r": "Belpolitika",
       "c": "Nyomozás",
