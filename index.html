@@ -161,7 +161,7 @@ function list(){
  el.innerHTML=h;bind();
 }
 function open(id){
- const i=items.concat(COUNTY).find(x=>x.id==id);if(!i)return;
+ const i=items.concat(COUNTY,TECH).find(x=>x.id==id);if(!i)return;
  app.innerHTML=`<div class="full" data-r="${i.r}"><button class="back" id="bk">← Vissza a hírekhez</button><div><span class="tag">${i.r} · ${esc(i.c)}</span><span class="mm">${i.time} · ${i.st}</span></div><h2>${i.t}</h2><p class="lede">${i.s}</p>${i.img?`<figure class="ph"><img src="${i.img}" alt="${esc(i.t)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><figcaption>${i.cred?esc(i.cred)+" · ":"Kép: "}${i.imgs} – az eredeti cikkből, <a href="${i.imgl||i.src[0][1]}" target="_blank" rel="noopener">megtekintés a forrásnál</a>. A kép jogosultja az eredeti kiadó.</figcaption></figure>`:""}${i.p.map(p=>`<p>${p}</p>`).join("")}
  ${i.op?`<div class="cav op"><b>Szubjektív nézőpont</b>${i.op}</div>`:""}
  ${i.ai_edited?"":i.cav?`<div class="cav"><b>Amit érdemes tudni</b>${i.cav}</div>`:""}
@@ -178,8 +178,10 @@ const MEGYEK=["Mind"].concat([...new Set(COUNTY_ALL.map(i=>i.m))].sort((a,b)=>a.
 let view="nat", mcty="Mind";
 const CITIES=[["Budapest",47.4979,19.0402],["Debrecen",47.5316,21.6273],["Miskolc",48.1035,20.7784],["Szeged",46.253,20.1414],["Pécs",46.0727,18.2328],["Győr",47.6875,17.6504],["Nyíregyháza",47.9554,21.7167],["Siófok",46.9049,18.052]];
 const WC=c=>c==0?"Derült":c<=3?"Felhős":c<=48?"Köd":c<=67?"Eső":c<=77?"Havazás":c<=82?"Zápor":"Zivatar";
+const TECH=[],isTech=i=>["Tech","Technológia","Tudomány"].includes(i.c);
+function splitTech(){for(let k=items.length-1;k>=0;k--)if(isTech(items[k]))TECH.unshift(items.splice(k,1)[0]);const st=i=>{if(i.published_at){const t=Date.parse(i.published_at);if(Number.isFinite(t))return t}return typeof MKEY==="function"?MKEY(i.time):0};TECH.sort((a,b)=>st(b)-st(a))}
 const _homeNat=home;
-const _tabs=()=>`<nav class="views" aria-label="Nézetek">${[["nat","Országos"],["megye","Megyei hírek"],["ido","Időjárás"]].map(([k,l])=>`<button class="vt" data-v="${k}" aria-pressed="${view==k}">${l}</button>`).join("")}</nav>`;
+const _tabs=()=>`<nav class="views" aria-label="Nézetek">${[["nat","Országos"],["tech","Tech"],["megye","Megyei hírek"],["ido","Időjárás"]].map(([k,l])=>`<button class="vt" data-v="${k}" aria-pressed="${view==k}">${l}</button>`).join("")}</nav>`;
 function bindTabs(){app.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>{view=b.dataset.v;home()})}
 function mlist(){
   const el=document.getElementById("list"); if(!el)return;
@@ -196,6 +198,15 @@ function megye(){
   document.getElementById("q2").oninput=e=>{term=e.target.value.toLowerCase();mlist()};
   mlist();document.title="Hírpult – Megyei hírek";
 }
+function tech(){
+  app.innerHTML=_tabs()+`<h2 class="wxh">Tech</h2><p class="wxn">Technológia, tudomány, mesterséges intelligencia, kiberbiztonság.</p><div id="list"></div>`;
+  bindTabs();document.title="Hírpult – Tech";
+  const el=document.getElementById("list");
+  if(!TECH.length){el.innerHTML='<p class="empty">Még nincs tech hír.</p>';return}
+  let h="",d=null;
+  for(const i of TECH){const k=MKEY(i.time);if(k!==d){d=k;h+=`<div class="day">2026. ${i.time}</div>`}h+=row(i)}
+  el.innerHTML=h;bind();
+}
 function weather(){
   app.innerHTML=_tabs()+`<h2 class="wxh">Időjárás – élő előrejelzés</h2><p class="wxn">Az adatok az Open-Meteo előrejelzési szolgáltatásból töltődnek be az Ön böngészőjébe, a szolgáltató frissítése szerint. Hivatalos figyelmeztetésekért: <a href="https://www.met.hu/idojaras/veszelyjelzes/index.php" target="_blank" rel="noopener">HungaroMet</a>.</p><div id="wxg" class="wxg"><p class="empty">Betöltés…</p></div>`;
   bindTabs();document.title="Hírpult – Időjárás";
@@ -207,11 +218,13 @@ function weather(){
   .catch(()=>{const g=document.getElementById("wxg");if(g)g.innerHTML='<p class="empty">Az élő előrejelzés most nem tölthető be. Próbálja később, vagy nézze meg a <a href="https://www.met.hu/idojaras/elorejelzes/index.php" target="_blank" rel="noopener">HungaroMet előrejelzését</a>.</p>'});
 }
 home=function(){
+  splitTech();
+  if(view=="tech"){tech();return}
   if(view=="nat"){_homeNat();app.insertAdjacentHTML("afterbegin",_tabs());bindTabs();return}
   if(view=="megye"){megye();return}
   weather();
 };
-function routeArticle(){const m=location.hash.match(/^#\/article\/(.+)$/);if(m){let id;try{id=decodeURIComponent(m[1])}catch{return false}if(items.concat(COUNTY).some(i=>i.id===id)){open(id);return true}}return false}
+function routeArticle(){const m=location.hash.match(/^#\/article\/(.+)$/);if(m){let id;try{id=decodeURIComponent(m[1])}catch{return false}if(items.concat(COUNTY,TECH).some(i=>i.id===id)){open(id);return true}}return false}
 window.addEventListener("hashchange",()=>{if(!routeArticle())home()});
 if(!routeArticle())home();
 // Load timestamped RSS news; editorial records remain unchanged.
@@ -219,6 +232,7 @@ if(!routeArticle())home();
 const mergeItem=(base,extra)=>{const x={...extra};for(const k of ["op","cav"])if(!x[k])delete x[k];return{...base,...x}};
 async function loadNews(){
  try {
+  items.push(...TECH.splice(0));
   const [liveResponse,archiveResponse]=await Promise.all([
    fetch("data/news.json",{cache:"no-store"}),
    fetch("data/editorial.json",{cache:"no-store"})
