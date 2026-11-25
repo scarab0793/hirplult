@@ -5592,6 +5592,40 @@
         ]
       ],
       "ai_edited": true
+    },
+    {
+      "id": "hirpult-20261125-teli-idojaras",
+      "r": "Belföld",
+      "c": "Időjárás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T08:53:00Z",
+      "t": "Havazás érte el Budapestet, ónos eső is nehezítheti a közlekedést",
+      "s": "Az ősz eddigi leghidegebb éjszakája után több térségben havazásra és jeges utakra kell készülni.",
+      "p": [
+        "Szerdán délelőtt Budapestet is elérte a havazás, miközben az ország különböző részein eltérő csapadékformákra kell számítani. A déli és délnyugati területeken inkább eső, északabbra hó, az átmeneti térségekben pedig havas vagy ónos eső is előfordulhat a HungaroMet előrejelzése szerint.",
+        "A téli időjárást erős éjszakai lehűlés előzte meg. A meteorológiai hálózat minden állomásán fagyot mértek; Lénárddarócon mínusz 10,4, Zabaron mínusz 10,3 fokig csökkent a hőmérséklet. A meteorológiai szolgálat szerint a következő éjszakák átmenetileg enyhébbek lehetnek, majd a jövő héten ismét erősödhet a fagy.",
+        "A közlekedés szempontjából különösen az ónos eső jelenthet problémát. A Bakonyban és később Budapest tágabb környezetében is számolni kell ezzel a csapadékformával. A magasabban fekvő északi területeken helyenként tíz centimétert meghaladó hó is összegyűlhet, de ez előrejelzés, nem már megmért hóvastagság.",
+        "A Magyar Közút téli felkészüléséhez 813 munkagép, több mint 3300 munkatárs és 122 ezer tonna útszóró só áll rendelkezésre a közölt adatok szerint. A felszerelés országos készletet jelent, nem azt, hogy valamennyi jármű egyszerre dolgozik. Az autósoknak célszerű az útviszonyokhoz igazítaniuk a sebességet, és indulás előtt tájékozódniuk az aktuális útállapotokról."
+      ],
+      "cav": "A várható hóvastagság előrejelzés, helyenként jelentősen eltérhet.",
+      "op": "",
+      "src": [
+        [
+          "Telex – havazás Budapesten",
+          "https://telex.hu/belfold/2026/11/25/idojaras-havazas-budapest"
+        ],
+        [
+          "Telex – országos előrejelzés",
+          "https://telex.hu/belfold/2026/11/25/hungaromet-elorejelzes-ho-onos-eso"
+        ],
+        [
+          "Telex – hajnali fagy",
+          "https://telex.hu/belfold/2026/11/25/hungaromet-fagy-eddigi-leghidegebb-ejszaka"
+        ]
+      ],
+      "ai_edited": true
     }
   ]
 }
