@@ -1,6 +1,293 @@
 {
   "items": [
     {
+      "id": "megyei-budapest-moodys-kilatas-stabil-nov-25",
+      "r": "Megyei",
+      "m": "Budapest",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T06:05:00+00:00",
+      "ai_edited": true,
+      "t": "A Moody's stabilra javította Budapest kilátását, a főváros besorolása marad a nem befektetési „Ba2”",
+      "s": "Az Infostart az MTI nyomán írja, hogy a hitelminősítő a kormány és a főváros javuló viszonyával és a 120 milliárdos októberi állami támogatással indokolt, a likviditást továbbra is gyengének látja.",
+      "p": [
+        "Az Infostart szerdai, MTI-re épülő cikke szerint a Moody's Ratings kedd este Londonban negatívról stabilra javította Budapest osztályzati kilátását. A főváros hosszú futamú kötelezettségeinek „Ba2” besorolását ugyanakkor megerősítette. Ez nem befektetési ajánlású kategória, és három fokozattal van a szuverén magyar minősítés alatt. A hitelminősítő múlt pénteken Magyarország „Baa2” besorolásának kilátását is stabilra javította, a fővárosi döntés ennek közvetlen folytatása.",
+        "Az indoklás szerint az áprilisi országgyűlési választás óta javult a főváros működési környezete, a kormányváltással konstruktívabb viszony alakulhatott ki a kormány és Budapest között. Ez a Moody's szerint mérsékli az intézményrendszert terhelő bizonytalanságot, és csökkentek a rövid távú likviditási kockázatok. A hitelminősítő felidézi, hogy a kormány októberben 120 milliárd forint egyszeri támogatást adott a fővárosnak. Ebből 90 milliárd a szolidaritási hozzájárulási tartozást fedezte, így Budapest nagyjából 30 milliárd forintos nettó likviditási pozícióba került.",
+        "A Moody's szerint a főváros likviditását továbbra is szerkezeti gyengeség és ingadozás jellemzi, a működési teljesítmény rövid távon gyenge marad. Előrejelzése szerint az elsődleges működési egyenleg a bevételekhez mérten idén 1, 2027-ben 2 százalékra javul, főként a kisebb kamatköltség, a kiadási intézkedések és a tömegközlekedés finanszírozásának átalakítása miatt.",
+        "A háttérhez tartozik, hogy a Moody's tavaly decemberben „Baa3”-ról „Ba1”-re, idén márciusban pedig „Ba2”-re rontotta Budapest besorolását. A márciusi indoklás szerint az akkori kormány januárban pénzt vont el a fővárostól, mert az nem fizette be a 2026-os szolidaritási hozzájárulás első részletét. Ugyanebben a körben a hitelminősítő négy magyar bank, a Raiffeisen, a K&H, az Erste Bank Hungary és az MFB kilátását is stabilra javította."
+      ],
+      "cav": "A cikk a Moody's elemzésére hivatkozik az MTI közvetítésével, az elemzés eredeti szövegét nem olvastuk. A hitelminősítő előrejelzései becslések. A főváros vagy a kormány reakcióját a cikk nem közli. Magyarország szuverén kilátásának javításáról szóló korábbi cikkünk tényeit nem ismételtük. A kép archív, 2025. júliusi felvétel.",
+      "op": "A javuló kilátás jó hír, de árulkodó: Budapest hitelképessége láthatóan azon múlik, hogy éppen milyen viszonyban van a kormánnyal. Egy főváros pénzügyeit nem a politikai széljárásnak kellene meghatároznia, hanem kiszámítható, törvényben rögzített finanszírozásnak.",
+      "src": [
+        [
+          "Infostart: Megváltozott Budapest hitelminősítői besorolása",
+          "https://infostart.hu/belfold/2026/11/25/megvaltozott-budapest-hitelminositoi-besorolasa"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2026/08/1786964977-G8GLWgWGR_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/belfold/2026/11/25/megvaltozott-budapest-hitelminositoi-besorolasa",
+      "cred": "Archív kép: a Duna, a Lánchíd és az Országház a Citadella felől, 2025. július 14. Fotó: Szigetváry Zsolt"
+    },
+    {
+      "id": "megyei-zalaegerszeg-adventi-vasar-megnyitott-nov-25",
+      "r": "Megyei",
+      "m": "Zala",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T17:20:00+00:00",
+      "ai_edited": true,
+      "t": "Megnyílt a karácsonyi vásár Zalaegerszeg Dísz terén, pénteken kapcsolják fel az ünnepi fényeket",
+      "s": "A város hírportálja szerint egy hónapig tart az Egerszegi Advent, a hétvégéken óvodások és jégpályás műsorok, vasárnaponként közös gyertyagyújtás várja a látogatókat.",
+      "p": [
+        "Zalaegerszeg önkormányzati hírportálja szerint szerdán megnyitotta kapuit a karácsonyi vásár a Dísz téren, ezzel elkezdődött az idei Egerszegi Advent programsorozata. A nagyjából egy hónapig tartó rendezvény forró italokkal, meleg ételekkel és ajándékötletekkel várja a belvárosba érkezőket, a szervezők pedig a korábbi évekhez képest több helyszínt és programot ígérnek.",
+        "A hétvégéken óvodások előadásai és a jégpályán bemutatott műsorok lesznek, vasárnaponként közös gyertyagyújtásra hívják a város lakóit. Az ünnepi fényeket november 27-én, pénteken kapcsolják fel. A részletes programról a város turisztikai honlapján és a résztvevő intézmények közösségi oldalain lehet tájékozódni."
+      ],
+      "cav": "A cikk a város saját hírfelülete, programfelsorolás jellegű: időpontokat, nyitvatartást és árakat nem közöl, és nem írja, hány árus van. A kép a portál galériájából való, készítője nincs feltüntetve.",
+      "op": "Az adventi vásár a kisebb megyeszékhelyeken is a belváros egyik legfontosabb közösségi alkalma lett. A siker mércéje nem a fények mennyisége, hanem hogy a helyi kézművesek és vállalkozók is megélnek-e belőle.",
+      "src": [
+        [
+          "Zalaegerszeg.hu: Egerszegi Advent – Megnyitott a karácsonyi vásár",
+          "https://zalaegerszeg.hu/hirek/egerszegi-advent-megnyitott-a-karacsonyi-vasar/"
+        ]
+      ],
+      "img": "https://zalaegerszeg.hu/wp-content/uploads/2026/11/ESP_20261123-37_f9fvmwe88wenrv-1-800x578.jpg",
+      "imgs": "Zalaegerszeg.hu",
+      "imgl": "https://zalaegerszeg.hu/hirek/egerszegi-advent-megnyitott-a-karacsonyi-vasar/",
+      "cred": "Zalaegerszeg.hu (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-szolnok-fiumei-uti-parkolo-fasitas-nov-25",
+      "r": "Megyei",
+      "m": "Jász-Nagykun-Szolnok",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T17:20:00+00:00",
+      "ai_edited": true,
+      "t": "Negyven fát ültetnek december végéig a szolnoki Fiumei úti parkolóba, az első négy perzsa varázsfa már a helyén van",
+      "s": "A Szolnok TV szerint a fafajokat úgy választották ki, hogy bírják a szélsőséges időjárást.",
+      "p": [
+        "A Szolnok TV szerdai híradása szerint négy perzsa varázsfa elültetésével elkezdődött a Fiumei úti parkoló fásítása Szolnokon. A tervek szerint december végéig összesen 40 fát ültetnek ki a parkolóba. A fákat a beszámoló szerint úgy válogatták össze, hogy elviseljék az utóbbi időben tapasztalt szélsőséges időjárást."
+      ],
+      "cav": "A beszámoló egy rövid tévéhíradó-anyag kísérőszövege, nem közli, ki rendelte meg és ki végzi a munkát, mennyibe kerül, és milyen más fafajok kerülnek a parkolóba. Képet nem közlünk, mert az oldalon csak a csatorna logója érhető el.",
+      "op": "Egy aszfaltos parkoló árnyékolása a nyári hőségben nagyon is gyakorlati ügy. Jó, hogy a fajválasztásnál az éghajlatot is szempontnak tekintik, a valódi próba pedig az lesz, hogy a fák pár év múlva is élnek-e.",
+      "src": [
+        [
+          "Szolnok TV: Elkezdődött a fásítás",
+          "https://www.szolnoktv.hu/hirek/elkezdodott-a-fasitas"
+        ]
+      ]
+    },
+    {
+      "id": "megyei-szombathely-huszarlaktanya-koz-ter-11-nov-24",
+      "r": "Megyei",
+      "m": "Vas",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T12:51:00+00:00",
+      "ai_edited": true,
+      "t": "KÖZ-tér 11 néven közösségi ház lesz a szombathelyi volt huszárlaktanya parancsnoki épületéből",
+      "s": "Az SZTV szerint a város január óta kezeli újra az épületet, az első családi programot november 28-án tartják, a belépés ingyenes.",
+      "p": [
+        "A Szombathelyi Televízió november 24-i beszámolója szerint a volt huszárlaktanya egykori parancsnoki épületében KÖZ-tér 11 néven új kulturális és közösségi teret alakítanak ki. A tervet hétfői sajtótájékoztatón mutatták be. Az épület január 1-jén került vissza az Apáczai Alapítványtól a városhoz, azóta a SZOVA kezeli.",
+        "Bokányi Adrienn tanácsnok, a 2-es egyéni választókerület önkormányzati képviselője szerint a környéken élők régi vágya teljesül. A választókerülethez tartozik a Stromfeld-lakótelep, a Huszár úti tömbbelső, a vasútállomás és az Arena Savaria környéke. A kétszintes épületben több terem van, a korábbi bérlők egy része marad, és új érdeklődők is jelentkeztek. Horváth Zoltán, az Agora Savaria Kulturális és Médiaközpont ügyvezetője szerint az Agora városi rendezvényeket is szervez majd a nagyteremben, a folyosón, az aulában és az udvaron, később az udvari faépítményeket is rendbe teszik. Szerinte nyitottak a civil együttműködésre, magánszemélyek és szervezetek már önkéntes segítséget is ajánlottak.",
+        "Az első program november 28-án, szombaton 10 órakor kezdődik: a gyerekeket ringató, arcfestés és kézműves-foglalkozás várja adventi és mikulási hangulatban, egy légtorna- és fitneszstúdió nyílt napot tart. Délben zenés piknik kezdődik teával és forralt borral, a szervezők süteményfelajánlásokat is várnak. A belépés ingyenes."
+      ],
+      "cav": "A beszámoló nem közöl költséget, nyitvatartást, és nem írja, milyen felújítás kell az épületen. Az Apáczai Alapítványtól való visszakerülés körülményeiről sincs részlet. A kép a televízió felvétele, készítője nincs feltüntetve.",
+      "op": "Egy lakótelep mellett álló, üresen kongó laktanyaépület közösségi házzá alakítása pontosan az a kis léptékű városfejlesztés, ami a lakók életén a legtöbbet javít. Jó jel, hogy civilek is jelentkeztek, a ház akkor marad élő, ha ők alakíthatják.",
+      "src": [
+        [
+          "SZTV: Élettel töltenék meg a volt huszárlaktanya egykori parancsnoki épületét Szombathelyen",
+          "https://www.sztv.hu/hirek/elettel-toltenek-meg-a-volt-huszarlaktanya-egykori-parancsnoki-epuletet-szombathelyen"
+        ]
+      ],
+      "img": "https://www.sztv.hu/img/998_3676_kep2.jpg",
+      "imgs": "SZTV",
+      "imgl": "https://www.sztv.hu/hirek/elettel-toltenek-meg-a-volt-huszarlaktanya-egykori-parancsnoki-epuletet-szombathelyen",
+      "cred": "SZTV (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-pest-160-uj-volan-busz-agglomeracio-nov-22",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 22.",
+      "published_at": "2026-11-22T18:11:00+00:00",
+      "ai_edited": true,
+      "t": "160 új, alacsony padlós Volán-busz érkezik a Budapest környéki járatokra 2027 második felében",
+      "s": "A Budapestkörnyéke.hu szerint lezárult a közbeszerzés értékelése, a buszok négy részletben állnak forgalomba, egy részük régi járműveket vált le.",
+      "p": [
+        "A Budapestkörnyéke.hu november 22-i cikke szerint a Volán 160 darab IVECO Crossway Low Entry típusú buszt kap a Pest megyei agglomerációs járatokra. A portál szerint a bejelentést Vitézy Dávid közlekedési és beruházási miniszter tette, azt nem írja, milyen csatornán. A közbeszerzés értékelése lezárult, a szerződést a végső döntés után lehet aláírni.",
+        "A buszok 2027 második felében, négy részletben érkeznek: először 20, majd 40, aztán 60, végül ismét 40 darab, így 2027 végére mind forgalomba állhat. Mindegyik járművön 45 ülőhely van, a sofőrrel együtt összesen 82 ember fér el rajta. A padló alacsony, ezért kerekesszékkel is fel lehet szállni. Kívül kijelző mutatja az útvonalat, belül képernyők tájékoztatják az utasokat, a buszokba kamera, utasszámláló és erősebb légkondicionáló kerül.",
+        "A sofőröket több rendszer segíti: figyelmeztetnek a holttérben, vagyis a tükörből nem látható helyen lévő járműre, jelzik a sebességhatárt, a vezető fáradtságát és a gumiabroncsok nyomását. Az új buszok egy része régi járműveket vált le, a felszabaduló sárga buszokat a cikk szerint más régiókba viszik át."
+      ],
+      "cav": "A cikk rövid, nem közli a beszerzés értékét, a nyertes ajánlattevőt, sem azt, hogy pontosan mely vonalakon és hány régi busz helyére állnak az újak. A szerződés aláírása még hátravan, ezért a 2027-es menetrend feltétel mellett érvényes. A miniszteri bejelentést közvetlenül nem láttuk. Az oldal borítóképe általános portálkép, ezért nem közlünk képet.",
+      "op": "Az agglomerációban ingázóknak minden korszerű, akadálymentes busz kézzelfogható javulás, és jó, hogy a vezetőt segítő biztonsági rendszerek is szerepelnek a listán. Az igazi próba azonban az lesz, hogy a járatsűrűség is javul-e, vagy csak a régi menetrend kap új buszt.",
+      "src": [
+        [
+          "Budapestkörnyéke.hu: 160 új, alacsony padlós busz érkezik a Budapest környéki járatokra",
+          "https://budapestkornyeke.hu/160-uj-alacsony-padlos-busz-erkezik-a-budapest-kornyeki-jaratokra/"
+        ]
+      ]
+    },
+    {
+      "id": "megyei-nyiregyhaza-telex-fotokiallitas-vaci-mihaly-nov-22",
+      "r": "Megyei",
+      "m": "Szabolcs-Szatmár-Bereg",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 22.",
+      "published_at": "2026-11-22T08:47:00+00:00",
+      "ai_edited": true,
+      "t": "Nyíregyházán indul a Telex díjnyertes sajtófotóiból összeállított kiállítás országos körútja",
+      "s": "A városi portál szerint a tárlat november 25-től december 17-ig ingyenesen látogatható a Váci Mihály Kulturális Központban.",
+      "p": [
+        "Nyíregyháza városi portálja szerint november 25-én, szerdán 17 órakor nyílik kiállítás a Telex díjnyertes sajtófotóiból a Váci Mihály Kulturális Központban (Szabadság tér 9.). A tárlat december 17-ig ingyenesen látogatható. Nyíregyháza a kiállítás országos körútjának első állomása, a tervek szerint 2027-ben Szegedre, Pécsre és Debrecenbe is eljut. A válogatást augusztusban, a szerkesztőség hatodik születésnapján egy napra már bemutatták a budapesti Dürer Kertben.",
+        "A megnyitón Klág Dávid újságíró Huszti István fotóriporterrel beszélget a kiállított képekről és a fotóriporteri munkáról, a beszélgetésen részt vesz Német Tamás főszerkesztő is. A közönség kérdezhet, például arról, hogyan jutott a fotós egy-egy kép helyszínére. A kiállítás arról is szól, mikor kell egy fotósnak kivárni, és mikor van csak egyetlen másodperce."
+      ],
+      "cav": "A cikk a városi portál előzetes programajánlója, a megnyitóról beszámolót nem láttunk. Azt nem közli, hány fotó szerepel és kik a díjazott fotósok. A kép a portál felvétele, készítője nincs feltüntetve.",
+      "op": "Jó látni, hogy egy országos szerkesztőség vidéken kezdi a körútját, és nem csak a fővárosban mutatja meg magát. A sajtófotó a független újságírás egyik leglátványosabb bizonyítéka, érdemes személyesen is megnézni.",
+      "src": [
+        [
+          "Nyiregyhaza.hu: A hírekből a falra – Nyíregyházáról indul a Telex fotókiállítása",
+          "https://www.nyiregyhaza.hu/post/a-hirekbol-a-falra-nyiregyhazarol-indul-a-telex-fotokiallitasa-2026-11-22"
+        ]
+      ],
+      "img": "https://www.nyiregyhaza.hu/uploads/images/image_750x_6b02abf671b17.jpg",
+      "imgs": "Nyiregyhaza.hu",
+      "imgl": "https://www.nyiregyhaza.hu/post/a-hirekbol-a-falra-nyiregyhazarol-indul-a-telex-fotokiallitasa-2026-11-22",
+      "cred": "Nyiregyhaza.hu (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-somogyi-tuzoltok-fekvenyomo-bajnoksag-nov-21",
+      "r": "Megyei",
+      "m": "Somogy",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 21.",
+      "published_at": "2026-11-21T12:10:00+00:00",
+      "ai_edited": true,
+      "t": "Három arany- és három ezüstérmet nyertek a somogyi tűzoltók a katasztrófavédelem fekvenyomó-bajnokságán",
+      "s": "A Kaposvármost a megyei katasztrófavédelem közlése alapján írja, hogy a miskolci versenyen a somogyi csapat összetettben negyedik lett.",
+      "p": [
+        "A Kaposvármost november 21-i cikke a Somogy Megyei Katasztrófavédelmi Igazgatóság közlésére hivatkozva számol be arról, hogy a BM Országos Katasztrófavédelmi Főigazgatóság fekvenyomó-bajnokságát november 18-án Miskolcon rendezték. A város harmadszor adott otthont a versenynek, a Miskolci Rendvédelmi Technikum negyedszer fogadta a résztvevőket. Összesen 64-en indultak, a katasztrófavédelem női és férfi munkatársai egyéni és csapatversenyben is.",
+        "A versenyt a Magyar Professzionális Erőemelő Liga szabályai szerint rendezték, nemenként súlycsoportokban és három korosztályban (Open, Masters I. és Masters II.). A csapatok rangsorát az egyéni pontokból számolták: a tízfős keretből a két legjobb női és a négy legeredményesebb férfi versenyző eredménye számított.",
+        "A hatfős somogyi csapat az összetett csapatversenyben a negyedik helyen végzett. Saját kor- és súlycsoportjában három somogyi versenyző aranyérmet, három pedig ezüstérmet nyert. A közlemény külön kiemeli Kadarkuti Csabáné Gulyás Gréta teljesítményét, aki kategóriája megnyerése mellett korcsoportja abszolút győztese is lett."
+      ],
+      "cav": "A cikk a katasztrófavédelem saját közleményén alapul, az elért súlyokat és a többi megye eredményeit nem közli. A kép a portál fotója, készítője nincs feltüntetve.",
+      "op": "Kis hír, de jó emlékeztető: a tűzoltók munkájához fizikai erőnlét kell, és jó, ha erre a szervezet sportversennyel is ösztönöz. A negyedik hely egy megyei csapattól tisztes eredmény.",
+      "src": [
+        [
+          "Kaposvármost: Súlyos sikereket értek el a somogyi tűzoltók",
+          "https://kaposvarmost.hu/hirek/kaposvari-hirek/2026/11/21/sulyos-sikereket-ertek-el-a-somogyi-tuzoltok.html"
+        ]
+      ],
+      "img": "https://kaposvarmost.hu/files/0/d/0d9649325c91138095cb653ca9852a8b.jpeg",
+      "imgs": "Kaposvármost",
+      "imgl": "https://kaposvarmost.hu/hirek/kaposvari-hirek/2026/11/21/sulyos-sikereket-ertek-el-a-somogyi-tuzoltok.html",
+      "cred": "Kaposvármost (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-eger-teli-felkeszules-tizenegy-jarmu-nov-17",
+      "r": "Megyei",
+      "m": "Heves",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 17.",
+      "published_at": "2026-11-17T14:12:00+00:00",
+      "ai_edited": true,
+      "t": "Tizenegy munkagéppel készül Eger a télre, a polgármester szerint tartós havazásnál ez kevés lehet",
+      "s": "Az EgerHírek szerint megtartották a hóügyeleti szemlét, a síkosságmentesítő anyagot kihelyezték, de Vágner Ákos a géppark bővítését sürgeti.",
+      "p": [
+        "Az EgerHírek november 17-i beszámolója szerint Egerben megkezdődött a felkészülés a téli útüzemeltetésre. A Városgondozás szakemberei hóügyeleti szemlén nézték át az eszközöket, a gépek állapotát és a téli útfenntartás lehetőségeit, a város több pontján pedig már kihelyezték a síkosságmentesítő anyagokat. A szemléről Vágner Ákos polgármester a közösségi oldalán számolt be, a portál az ő bejegyzésére hivatkozik.",
+        "A Városgondozás jelenleg tizenegy munkagéppel végzi a hóeltakarítást és a síkosságmentesítést: három nagy, két közepes és hat kisebb kapacitású járművel. A polgármester szerint ha intenzív, tartós havazás jön, ez a géppark már nem elég ahhoz, hogy a város összes érintett szakaszát rövid idő alatt megtisztítsák. A városvezetés ezért a meglévő eszközökkel szervezi a munkát, közben keresi a gépek korszerűsítésének és bővítésének lehetőségét. Költséget, forrást vagy határidőt a cikk nem említ.",
+        "A takarítás sorrendje előre rögzített. Először a fő közlekedési útvonalak következnek, különösen azok a szakaszok, amelyeken a mentők, a tűzoltók és a menetrend szerinti buszok járnak. A városon átvezető 25-ös főút téli karbantartása nem a Városgondozás, hanem a Magyar Közút feladata. A főutak után a nagyobb forgalmú lakóövezeti utcák jönnek, a kisebb forgalmú lakóutcákban a havazás megszűnése után, szükség szerint dolgoznak. Kézi hóeltakarításnál elsőként a buszmegállókat, az odavezető járdákat és lépcsőket tisztítják meg.",
+        "Az ütemezésnél figyelembe veszik az időjárás-előrejelzést, és rendszeresen egyeztetnek a Magyar Közúttal. A lakossági bejelentéseket a Városgondozás hóügyelete fogadja a +36 30 884 8365-ös számon. A polgármester arra kérte az egrieket, hogy havas, jeges időben óvatosan közlekedjenek, segítsék a munkagépek haladását, és legyenek türelmesek a téli szolgálat dolgozóival."
+      ],
+      "cav": "A beszámoló a polgármester közösségi oldalára épül, azt mi nem láttuk, és a Városgondozás vagy más szereplő külön nem nyilatkozott. A cikk nem közli, mennyi síkosságmentesítő anyag áll rendelkezésre, és mennyibe kerülne a géppark bővítése. A cikk november 17-i állapotot tükröz.A kép a portál borítóképe, készítője nincs feltüntetve.",
+      "op": "Becsületes, hogy a polgármester előre kimondja: nagy hónál kevés lesz a gép. Ettől azonban a lakók még nem jutnak el hamarabb a munkahelyükre, ezért a „keressük a lehetőséget” mellé jó volna egy konkrét terv és egy összeg is.",
+      "src": [
+        [
+          "EgerHírek: Tizenegy járművel készül Eger a télre, nagy havazás esetén ez kevés lehet",
+          "https://egerhirek.hu/2026/11/17/tizenegy-jarmuvel-keszul-eger-a-telre-nagy-havazas-eseten-ez-keves-lehet/varos/egerhirek"
+        ]
+      ],
+      "img": "https://egerhirek.hu/wp-content/uploads/2026/11/913181183_2123957274907428_57762677574853349_n.png.jpeg",
+      "imgs": "EgerHírek",
+      "imgl": "https://egerhirek.hu/2026/11/17/tizenegy-jarmuvel-keszul-eger-a-telre-nagy-havazas-eseten-ez-keves-lehet/varos/egerhirek",
+      "cred": "EgerHírek borítókép, hókotró (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "megyei-salgotarjan-eszk-igazgato-lemondott-nov-17",
+      "r": "Megyei",
+      "m": "Nógrád",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 17.",
+      "published_at": "2026-11-25T17:20:00+00:00",
+      "ai_edited": true,
+      "t": "Lemondott a salgótarjáni Egészségügyi-Szociális Központ igazgatója, az intézménynél költségvetési hiány miatt rendőrségi nyomozás is folyik",
+      "s": "A város közleménye szerint Gortva István indoklás nélkül mondott le; a hiány egyelőre nem érinti az ellátásokat, az új vezetőt pályázaton választják.",
+      "p": [
+        "Salgótarján városi honlapjának november 17-i közleménye szerint Gortva István aznap lemondott a Salgótarján és Térsége Egészségügyi-Szociális Központ (ESZK) igazgatói beosztásáról és közalkalmazotti jogviszonyáról. Írásbeli, indoklás nélküli lemondását a Salgótarján és Térsége Önkormányzatainak Társulása (STÖT) elnökéhez juttatta el. A közlemény hangsúlyozza, hogy az igazgató munkáltatója a társulás volt, nem a város.",
+        "Az ESZK fenntartója a STÖT, amelynek Salgótarján Megyei Jogú Város mellett 28 másik település a tagja, a salgótarjáni polgármesteri hivatal munkaszervezetként segíti a társulás működését. A hivatal szeptember végén, a féléves költségvetés értékelésekor észlelte az intézmény költségvetési problémáit, és ellenőrzést indított. A közlemény szerint a hiány jelenleg nincs hatással a központ ellátásaira. Hogy milyen döntések vezettek a hiányhoz, azt az ellenőrzés és az intézménynél folyamatban lévő rendőrségi nyomozás deríti ki.",
+        "Az új igazgatót a társulás szabályzata szerint pályázaton választják ki. Salgótarján azt kezdeményezi, hogy a központ dolgozóinak képviselete véleményt mondhasson a kiválasztásnál."
+      ],
+      "cav": "Az egyetlen forrás a város saját közleménye, a lemondott igazgató álláspontját nem ismerjük. A hiány összegét, a nyomozás tárgyát és azt, hogy kit érint, a közlemény nem közli; a nyomozás ténye nem jelenti, hogy bárki felelős volna. Képet nem közlünk.",
+      "op": "Egy szociális és egészségügyi központ pénzügyi zavara azokat fenyegeti a legjobban, akik a legkiszolgáltatottabbak, ezért megnyugtató, hogy az ellátás egyelőre zavartalan. A közvélemény viszont joggal várja, hogy a hiány összege és oka is nyilvános legyen, ne csak a lemondás ténye.",
+      "src": [
+        [
+          "Salgotarjan.hu: Lemondott Salgótarján és Térsége Egészségügyi-Szociális Központjának vezetője",
+          "https://www.salgotarjan.hu/?p=17671"
+        ]
+      ]
+    },
+    {
+      "id": "megyei-bekescsaba-kozgyules-epitmenyado-lakber-nov-12",
+      "r": "Megyei",
+      "m": "Békés",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 12.",
+      "published_at": "2026-11-12T08:17:00+00:00",
+      "ai_edited": true,
+      "t": "Húsz százalékkal emeli az építményadót és 6–8 százalékkal a lakbéreket Békéscsaba közgyűlése",
+      "s": "A Behir tudósítása szerint a város mintegy 150 millió forint többletbevételt vár az adóemeléstől, az idegenforgalmi adó 550 forintra nő, a kitüntetéseken pedig spórolnak.",
+      "p": [
+        "A Behir november 12-i helyszíni tudósítása szerint Békéscsaba képviselő-testülete csütörtökön ülésezett, majd közmeghallgatást tartott. A költségvetés módosított előirányzata 41,97 milliárd forint. Az addigi bevétel 33,38 milliárd forint, ez az előirányzat 80 százaléka, a kiadás 28,75 milliárd forint, vagyis 68 százalék. Az adóbevételek 98 százaléka befolyt, de az októberi rendkívüli ülésen az iparűzési adó előirányzatát egymilliárd forinttal csökkentették, új feladatra nincs elég forrás.",
+        "Az építményadó törvényi maximuma a Pénzügyminisztérium adatai szerint négyzetméterenként 3059,3 forintról 3193,8 forintra emelkedik, Békéscsabán a mostani legmagasabb tétel 1500 forint. A testület 20 százalékos emelést fogadott el: a belvárosban 1500 helyett 1800, a többi belterületen 700 helyett 840, külterületen 400 helyett 500 forint lesz négyzetméterenként. Ez nagyjából 150 millió forint többletbevételt hozhat. Az idegenforgalmi adó vendégéjszakánként 400-ról 550 forintra nő. Szarvas Péter polgármester szerint magánszemélyeket terhelő adó nincs, újat nem terveznek. A pénzügyi bizottság módosítóját 11 igen és 2 tartózkodás, a teljes javaslatot 11 igen, 1 nem és 1 tartózkodás mellett szavazták meg.",
+        "A városnak 503 bérlakása van. A Békéscsaba Vagyonkezelő Zrt. 6,7 százalékos lakbéremelést javasolt, a polgármester módosítója nyomán végül a szociális és ifjúsági garzonoknál 6, a többi lakásnál 8 százalékkal nő a díj. Hricsovinyi Tamás képviselő átfogó ingatlan-kimutatást kért. A városi kitüntetésekre 2025-ben 16,9 millió forintot fordítottak; a pénz- és tárgyjutalmak csökkentésével évente mintegy 10,5 millió forint takarítható meg, a változás 2027. január 1-jén lép hatályba.",
+        "A testület a LIFE HungAIRy projekt keretében felülvizsgált levegőminőségi tervről is tárgyalt, a Zöld 14 Egyesület észrevételei közül az előterjesztő csak egy kibocsátási adat javítását tartotta szükségesnek. A Bét Bárhesz Egyesület 2027-re két botlatókövet helyezne el a városban, saját költségén. A Magyar Atlétikai Szövetség felkínálta a 2029-es gyalogló csapat Európa-bajnokság rendezését, a városnak infrastruktúrát kellene adnia, a pályázat határideje november 30. A külterületi hulladékszállítás gondjaira a testület többek között jogszabály-módosítást kezdeményezne a térség országgyűlési képviselőjénél."
+      ],
+      "cav": "A tudósítás élő, percenkénti bejegyzésekből áll, a napirendi pontok teljes szövegét a város honlapján lévő közgyűlési anyagok tartalmazzák, ezeket nem olvastuk. A 150 milliós többletbevétel előzetes számítás. A közmeghallgatáson elhangzott kérdésekről és válaszokról a cikk nem ad részletes képet, a válaszokat a város 30 napon belül teszi közzé. A cikk november 12-i ülésről szól.",
+      "op": "A helyi adóemelés sosem népszerű, de egy egymilliárddal kisebb iparűzésiadó-bevétel mellett a városnak kevés választása maradt. Tisztességes lépés, hogy a kitüntetéseken is spórolnak, a lakbéremelésnél viszont jó volna látni, mi lesz a pénzből: felújítás vagy csak lyukbetömés.",
+      "src": [
+        [
+          "Behir: Közgyűlést, majd közmeghallgatást tartott Békéscsaba képviselő-testülete",
+          "https://behir.hu/kozgyules-2026-november"
+        ]
+      ],
+      "img": "https://behir.hu/web/content/media/2026/11/261112-kozgyules-11-of-1jpg-800x450.webp",
+      "imgs": "Behir",
+      "imgl": "https://behir.hu/kozgyules-2026-november",
+      "cred": "Közgyűlés Békéscsabán 2026. november 12-én. Fotó: behir.hu / Bere Mátyás"
+    },
+    {
       "id": "nasa-sr1-freedom-nuklearis-mars-nov-25",
       "r": "Külföld",
       "c": "Tech",
