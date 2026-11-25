@@ -1,6 +1,293 @@
 {
   "items": [
     {
+      "id": "tidal-ai-zenek-tiltasa-dec-9-nov-25",
+      "r": "Kultúra",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T15:35:00+00:00",
+      "t": "December 9-től kitiltja a kizárólag AI-jal generált zenéket a Tidal, az elmúlt három hónap feltöltéseinek 43 százaléka ilyen volt",
+      "s": "A streamingszolgáltató X-bejegyzése szerint novemberben már a beérkező számok több mint 60 százalékát nem ember készítette; a szűréshez az Ircam Amplify technológiáját használják.",
+      "p": [
+        "A Qubit beszámolója szerint a Tidal zenei streamingszolgáltató kedden az X-en jelentette be, hogy december 9-től nem fogad el és eltávolít minden olyan zeneszámot, amelyet teljes egészében mesterséges intelligencia generált. A cég indoklása az, hogy az elmúlt 90 napban drasztikusan megnőtt az ilyen tartalmak aránya: ebben az időszakban a platformra feltöltött zenék 43 százaléka teljesen AI-generált volt. A Tidal ezeket eddig megjelölte, és megvonta a hozzájuk tartozó előadóktól a jogdíjat.",
+        "A bejegyzés szerint a beáramlás novemberben volt a legerősebb: a hónapban beérkezett számok több mint 60 százaléka nem emberi munka eredménye. A szolgáltató idén már előírta, hogy az AI-jal készült zenéket címkével kell ellátni, ezt a cég az előadók védelmével és a hallgatók tájékoztatásával indokolta. Jelenleg 27 millió ilyen címkés szám van a katalógusban. A felismeréshez és a törléshez a Tidal az AI-zenéket azonosító szoftvert fejlesztő Ircam Amplify technológiáját veszi igénybe.",
+        "A cég saját adatai szerint a címkézett AI-tartalmak a katalógus 6,3 százalékát adják, ezek 96 százalékát viszont az elmúlt három hónapban egyetlen előfizető sem hallgatta meg. A bejelentésig több mint 65 ezer számot töröltek azért, mert feltehetően más előadók nevével éltek vissza, ezt a Tidal szintén az AI-zenék elterjedésének tulajdonítja. A szolgáltató azt ígéri, hogy minden száz százalékban gépi úton készült számot eltávolít, és az ilyen tartalmak beküldését is megtiltja.",
+        "A Qubit emlékeztet arra, hogy a független zenekarok és kiadók körében népszerű Bandcamp már korábban betiltotta az egészben vagy részben AI-jal készült zenéket. A lap egy korábbi írása szerint a streamingplatformokra feltöltött zenék felét senki nem hallgatja meg, ami a feltörekvő előadóknak is nehezíti a dolgát."
+      ],
+      "cav": "Az adatok a Tidal saját X-bejegyzéséből származnak, a Qubit közvetítésével, a bejegyzést közvetlenül nem láttuk. Nem derül ki, hogyan kezelik a részben AI-jal készült számokat, és mennyire pontos a felismerő szoftver; a téves törlések esetén követendő eljárásról sincs adat. A 43 és a 60 százalék a feltöltésekre, a 6,3 százalék a teljes katalógusra vonatkozik, a két szám nem összevethető.",
+      "op": "A Tidal döntése józan: ha a feltöltések nagyobb része gép által gyártott tartalom, amit senki sem hallgat, az nem kulturális gazdagság, hanem zaj, ami az élő zenészek elől veszi el a figyelmet és a jogdíjat. A kérdés az, hogy a felismerő szoftver mennyire lesz igazságos a határesetekkel.",
+      "src": [
+        [
+          "Qubit: A Tidal betiltja felületén az AI-zenéket",
+          "https://qubit.hu/2026/11/25/a-tidal-betiltja-feluleten-az-ai-zeneket"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q7bb7KyiXhsv9c6s-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/25/a-tidal-betiltja-feluleten-az-ai-zeneket",
+      "cred": "Qubit borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "crowdstrike-zscaler-felvasarlas-439-milliard-nov-24",
+      "r": "Gazdaság",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T12:54:00+00:00",
+      "t": "43,9 milliárd dollárért veszi meg a Zscalert a CrowdStrike, ez a kiberbiztonsági ágazat eddigi legnagyobb üzlete",
+      "s": "A HWSW a Reuters nyomán írja, hogy a tranzakció teljes egészében részvénycserével zajlik; a Zscaler árfolyama 13 százalékkal nőtt, a CrowdStrike-é közel 12 százalékkal esett.",
+      "p": [
+        "A HWSW a Reuters értesülésére hivatkozva arról számolt be, hogy a CrowdStrike 43,9 milliárd dolláros ügyletben felvásárolja a Zscalert. A tranzakció teljes egészében részvénycserével zajlik: a Zscaler részvényesei minden papírjukért 1,135 CrowdStrike-részvényt kapnak, ami a bejelentés előtti árfolyamhoz képest nagyjából 34 százalékos prémium. A lezárás után a CrowdStrike mostani részvényesei a közös cég körülbelül 84 százalékát birtokolják. Az üzlet lezárását a CrowdStrike 2028-as pénzügyi évének második felére várják.",
+        "A lap szerint az összevonás logikája egyszerű. A CrowdStrike a végpontvédelemben és az identitásbiztonságban erős, a Zscaler a felhőalapú hálózatbiztonságban. Együtt az eszköztől egészen a felhasználók, alkalmazások és felhős szolgáltatások közötti kapcsolatokig lefedhetik a védelmet, ami a CrowdStrike-ot közvetlenebb versenybe hozza a Palo Alto Networksszel és a Microsofttal.",
+        "A HWSW az ügyletet egy tágabb trend részének tartja: a nagyvállalatok csökkenteni akarják az egymástól független biztonsági termékek számát, a gyártók pedig egyre több funkciót húznak egyetlen platform alá. A mesterséges intelligencia ezt gyorsítja, mert új támadási módokat és új védendő szereplőket, például autonóm AI-ügynököket hoz a vállalati rendszerekbe. Összehasonlításképpen a Cisco 2024-ben mintegy 28 milliárd dollárért vette meg a Splunkot, a Google 2025-ben 32 milliárd dolláros Wiz-felvásárlást jelentett be, így a mostani ügylet új csúcs az ágazatban.",
+        "A piac első reakciója vegyes volt: a Zscaler árfolyama több mint 13 százalékkal emelkedett, a CrowdStrike-é közel 12 százalékkal csökkent. A befektetőknek a lap szerint versenyhatósági vizsgálattal is számolniuk kell."
+      ],
+      "cav": "A beszámoló a HWSW cikkén alapul, amely a Reuters értesülését közvetíti; a cégek közleményét nem olvastuk. A versenyhatósági jóváhagyás még hátravan, az ügylet meghiúsulhat. Az árfolyam-változások az első reakciót mutatják, azóta módosulhattak. A HWSW cikkében a bejelentést „tegnapinak” nevezi, a pontos dátumot nem közli.",
+      "op": "A kiberbiztonsági piac néhány óriás felé tolódik, ami a vevőknek kényelmes, de kockázatos is: ha egy platform hibázik, az egyszerre mindent visz. A konszolidáció mellé erős versenyfelügyelet kell.",
+      "src": [
+        [
+          "HWSW: 44 milliárd dollárért kebelezi be a Zscalert a CrowdStrike",
+          "https://www.hwsw.hu/hirek/71238/crowdstrike-zscaler-kiberbiztonsag-felvasarlas-halozatbiztonsag-felhobiztonsag.html"
+        ]
+      ],
+      "img": "https://www.hwsw.hu/kepek/hirek/2026/11/crowdstrike-zscaler.jpg",
+      "imgs": "HWSW",
+      "imgl": "https://www.hwsw.hu/hirek/71238/crowdstrike-zscaler-kiberbiztonsag-felvasarlas-halozatbiztonsag-felhobiztonsag.html",
+      "cred": "HWSW illusztráció (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "openrouter-dragos-zdr-adatszivargas-nov-25",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T10:14:00+00:00",
+      "t": "Kétmillió csapdaprompttal buktatta le az AI-szolgáltatókat a Dragos, az OpenRouter hármat kizárt, 125 végpontról levette az adatvédelmi jelzést",
+      "s": "A HWSW szerint a vizsgálat kimutatta, hogy a „nulla adatmegőrzést” ígérő szolgáltatóknál is kiszivárogtak promptok és tesztkulcsok, egyes amerikainak címzett kérések kínai szolgáltatóknál kötöttek ki.",
+      "p": [
+        "A HWSW beszámolója szerint a Dragos biztonsági cég összesen mintegy kétmillió, nyomkövető elemekkel, úgynevezett canary tokenekkel ellátott prompttal tesztelte az AI-inferenciaszolgáltatók piacát idén júliustól novemberig, öt hónapon át. A vizsgálat nyomán az OpenRouter, amely egyetlen felületen keresztül ad hozzáférést sok szolgáltató modelljeihez, három szolgáltatót kizárt adatkezelési szabályok megsértése miatt, 125 végpontnál pedig, részben elővigyázatosságból, megszüntette a Zero Data Retention (ZDR) jelölést. Ez a beállítás azt ígéri, hogy a külső szolgáltató sem a beküldött promptot, sem a választ nem tárolja.",
+        "A Dragos több problémát talált. A promptokba rejtett nyomkövető linkek és a cég AWS-tesztkörnyezeteihez tartozó belépési adatok több esetben kiszivárogtak, és támadók fel is használták őket. Kiderült az is, hogy szolgáltatók viszonteladói illetéktelenül hozzáfértek felhasználói promptokhoz, ehhez semmilyen sérülékenységet nem kellett kihasználniuk, elég volt a naplózási funkció. Egyes szolgáltatók a saját adatvédelmi szabályaikat sem tartották be: amerikai székhelyű szolgáltatónak címzett kérések kínai AI-cégeknél kötöttek ki.",
+        "Az OpenRouter blogbejegyzése szerint a saját platformján nem talált illetéktelen hozzáférést, a kizárt cégeket nem nevezte meg. Öt érintett partner viszont megszólalt. A MiniMax biztonsági rendszere elmentette és automatikusan megnyitotta a kérésekben szereplő URL-eket, a cég szerint harmadik fél nem fért hozzá az adatokhoz, a mechanizmust kikapcsolták. Az Atlas Cloud és a Novita a MiniMax hivatalos felülete felé továbbított kéréseket, utóbbi konfigurációs hiba miatt. A Phalánál támadók átvették az irányítást egy GPU-szerveren futó virtuális gép felett. A Together AI-nál egy fejlesztési célú AI-ügynök nyilvános GitHub-tárolóba töltötte fel a cég privát Hugging Face-tárolójának belépési adatait, ahol tesztelési céllal valódi promptokat is őriztek; a cég szerint ezeknél nem volt bekapcsolva a ZDR.",
+        "Az OpenRouter minden potenciálisan érintett ügyfelét értesítette, a ZDR-jelölést csak ellenőrzött garanciák mellett adja vissza, és beépíti saját ellenőrzéseibe a Dragos módszereit. A Dragos körültekintő szolgáltatóválasztást és lehetőség szerint saját infrastruktúrán futtatott modelleket javasol."
+      ],
+      "cav": "A beszámoló a HWSW cikkén alapul, a Dragos jelentését és az OpenRouter bejegyzését közvetlenül nem olvastuk. A kizárt három szolgáltató neve nem nyilvános; a nyilatkozó öt cég közül nem tudni, melyiket zárták ki. Az érintett felhasználók számáról és a kiszivárgott adatok köréről nincs adat. A MiniMax állítását, hogy harmadik fél nem fért hozzá az adatokhoz, független forrás nem erősítette meg.",
+      "op": "A „nem tároljuk az adataidat” ígéret annyit ér, amennyit valaki ellenőriz belőle, és ez a vizsgálat azt mutatja, hogy eddig nem nagyon ellenőrizte senki. Aki érzékeny adatot küld egy közvetítőn át egy ismeretlen szolgáltatónak, annak érdemes ezt üzleti kockázatként kezelni, nem technikai részletként.",
+      "src": [
+        [
+          "HWSW: Adatszivárgás miatt zárt ki több szolgáltatót az OpenRouter",
+          "https://www.hwsw.hu/hirek/71245/openrouter-api-zero-data-retention-ai-inferenciaszolgaltato-tiltas-adatszivargas-biztonsag.html"
+        ]
+      ],
+      "img": "https://www.hwsw.hu/kepek/hirek/2026/11/adatszivargas.jpg",
+      "imgs": "HWSW",
+      "imgl": "https://www.hwsw.hu/hirek/71245/openrouter-api-zero-data-retention-ai-inferenciaszolgaltato-tiltas-adatszivargas-biztonsag.html",
+      "cred": "HWSW illusztráció (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "magyarorszag-melegedesi-terkep-landsat-ksh-nov-25",
+      "r": "Közélet",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "t": "Műholdas melegedési térkép: ahol a felszín a legjobban melegedett, ott alig laknak, a fák alatt viszont nagyjából 2 fokkal hűvösebb",
+      "s": "Janosov Milán adattudós a Qubiten közölt elemzésében Landsat-felvételeket vetett össze a KSH tömbszintű népszámlálási adataival; szerinte a fásítást a lakosság hőterhelése szerint kellene célozni.",
+      "p": [
+        "Janosov Milán adattudós, fizikus a Qubiten közölt elemzésében országos térképet készített arról, hol melegedett leginkább a felszín Magyarországon. Két adatsort vetett össze: a Landsat-műholdak 30 méteres felbontású felvételeiből a 2004–2008-as és a 2022–2026-os nyarak tipikus (medián) felszínhőmérsékletét, valamint a KSH tömbszintű népszámlálási adatait. A szerző hangsúlyozza, hogy felszín-, nem léghőmérsékletről van szó, és a különbségtérkép a melegedés helyét mutatja meg, nem pontos fokértéket, mert közben a műszer is kicserélődött, és egy-egy nyár mediánja akár 10 fokkal is eltérhet.",
+        "Az eredmény szerint a melegedés nagy része ritkán lakott helyeken történt. Az ország leggyorsabban melegedő tizedén a lakosok 0,7 százaléka él, a leggyorsabban melegedő negyedben 4,0, a gyorsabban melegedő felében 23,8 százalék; egyenletes eloszlásnál ez 10, 25 és 50 százalék lenne. A legnagyobb melegedés az alföldi szántókon látszik, ahol a nyári felszínt a vetés és az aszály is befolyásolja. A tíz legnagyobb városban is hasonló a kép: a város leggyorsabban melegedő negyedében Miskolcon és Budapesten 17–18, Kecskeméten és Szegeden 1 százaléknyian élnek. Budapesten ez is 286 ezer embert jelent.",
+        "A legszélsőségesebb foltok javarészt lakatlan ipartelepek. Az élen a kecskeméti Mercedes úti ipartelep 101 hektáros foltja áll, átlagosan +19, a legmelegebb pontján +26 fokkal; itt a 2014-es műholdképen még szántók voltak a későbbi csarnokok helyén. Győrben az Audi Hungária út menti 34 hektáros folt +15 fokkal melegedett, Pécsett egy volt bányató helyén egy 2,5 hektáros folt szintén +15-tel. A 131 vizsgált szélsőséges foltnál 500 méteren belül 13–23 ezer ember lakik.",
+        "A legfontosabb következtetés a szerző szerint a lombkorona hatása: ugyanazon a négyzetkilométeres blokkon belül a fákkal fedett felszín nagyjából 2, a küszöböktől függően 2,0–2,6 fokkal hűvösebb a beépítettnél, városonként 1,5 és 3,7 fok között. Ez az érett fákra igaz, a frissen ültetett csemete évekig nem ad árnyékot. A kormány nemrég bejelentett, 57 milliárd forintos fásítási programja kapcsán Janosov azt javasolja, hogy a célzás ne a melegedési térkép, hanem a lakosság mai hőterhelése, korösszetétele és a meglévő fák alapján történjen."
+      ],
+      "cav": "Ez egy szerzői adatelemzés, nem lektorált tudományos tanulmány; a módszertant és az adatokat a cikk alapján ismertetjük, ellenőrizni nem tudtuk. A szerző maga jelzi, hogy a felszínhőmérséklet nem azonos a léghőmérséklettel, a fokértékek a műszercsere és a felvételi napok miatt torzulhatnak, az okok automatikus besorolása pedig egy szúrópróba szerint csak nagyjából fele-kétharmad arányban helytálló. Az Ajkai és a Tapolcai járásban hiányos a műholdas lefedettség.",
+      "op": "Ritka és üdítő, hogy egy közpénzből induló program előtt valaki nyilvános adatokból megmutatja, hol érdemes elkölteni a pénzt. Ha a fásítás oda megy, ahol idős emberek laknak forró, fátlan háztömbökben, abból valódi egészségügyi haszon lesz, ha a látványos térképfoltokra, akkor csak jó sajtó.",
+      "src": [
+        [
+          "Qubit: Elkészült Magyarország melegedési térképe",
+          "https://qubit.hu/2026/11/25/elkeszult-magyarorszag-melegedesi-terkepe"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q5hxag6VfzCpcT2s-lg.png",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/25/elkeszult-magyarorszag-melegedesi-terkepe",
+      "cred": "Qubit borítókép, a cikk térképgrafikája (Landsat: USGS/NASA; népesség: KSH; készítő nincs külön feltüntetve)"
+    },
+    {
+      "id": "neandervolgyiek-kihalasa-modern-ember-science-advances-nov-24",
+      "r": "Kultúra",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T10:00:00+00:00",
+      "t": "Spanyol kutatók modellje szerint nem a klíma, hanem a modern ember terjeszkedése tüntette el a neandervölgyieket",
+      "s": "A Science Advancesben megjelent szimulációkban a neandervölgyiek 98 százalékos eséllyel túlélték az éghajlatváltozást, ha a Homo sapiens népessége kicsi maradt.",
+      "p": [
+        "A Qubit beszámolója szerint a Kantábriai Egyetem kutatói a Science Advances folyóiratban közölt tanulmányukban arra jutottak, hogy a neandervölgyiek európai eltűnésében a modern ember terjeszkedése jóval nagyobb szerepet játszott, mint az éghajlatváltozás. A kutatók számítógépes modellt építettek Európáról az 55–27 ezer évvel ezelőtti időszakra. A korabeli klíma- és állatállomány-adatokból megbecsülték, mennyi táplálék volt elérhető az egyes térségekben, és hány ember tarthatta el magát belőle, majd több ezer szimulációban vizsgálták a neandervölgyiek sorsát a modern ember megjelenésével és nélküle.",
+        "A modellben a klímaváltozás önmagában ritkán okozott kihalást. A romló körülmények szűkítették az élelemforrásokat, és egyes vidékekről eltűntek a neandervölgyi csoportok, de ha a modern ember népessége alacsony maradt, a szimulációk 98 százalékában fennmaradtak. Amikor viszont a Homo sapiens népessége nőni kezdett, és újabb hullámokban terjedt el a kontinensen, a kihalás esélye jelentősen megugrott.",
+        "A túlélés kulcsa a modell szerint a csoportok közötti kapcsolat volt: az egymáshoz közel élő, mozgékony közösségek tovább kitartottak, a nagy területen szétszóródott, elszigetelt csoportok hamarabb eltűntek. A szerzők szerint a modern ember nemcsak versengett az élelemért, hanem elfoglalta azokat a területeket is, amelyeket a megfogyatkozott neandervölgyiek újra benépesíthettek volna. Ehhez nem kellett fejlettebb intelligencia vagy technológia, elég volt a nagyobb népesség és a szorosabb hálózat.",
+        "A kérdésről évtizedek óta vita folyik. A Qubit felidéz egy idén tavaszi tanulmányt, amely szerint nem az intelligencia hiánya okozta a neandervölgyiek vesztét, és egy kanadai kutatást, amely szintén a modern emberi csoportok szorosabb kapcsolataiban látta a döntő különbséget. A két faj nagy területen keveredett is: a ma Afrikán kívül élő emberek génjeinek néhány százaléka neandervölgyi eredetű, ezért egyes kutatók kihalás helyett inkább beolvadásról beszélnek."
+      ],
+      "cav": "Az eredmények szimuláción alapulnak, nem közvetlen régészeti bizonyítékon, és erősen függnek a modell feltevéseitől (táplálékbecslés, népességszám). A tanulmányt közvetlenül nem olvastuk, a kutatók nevét és a megjelenés dátumát a Qubit nem közli. A kép archív illusztráció.",
+      "op": "Kényelmetlen, de tanulságos eredmény: egy faj eltűnéséhez nem kellett felsőbbrendűség, elég volt a létszám és a hálózat. Ez legalább annyit mond a mi működésünkről, mint a neandervölgyiekéről.",
+      "src": [
+        [
+          "Qubit: Nem a klíma, hanem a modern ember miatt halhattak ki a neandervölgyiek",
+          "https://qubit.hu/2026/11/24/nem-a-klima-hanem-a-modern-ember-miatt-halhattak-ki-a-neandervolgyiek"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/7S6fnqFOJbEvvfgqs-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/24/nem-a-klima-hanem-a-modern-ember-miatt-halhattak-ki-a-neandervolgyiek",
+      "cred": "Qubit borítókép, archív illusztráció (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "bodog-tamas-nyiregyhaza-felmentes-fekete-tivadar-nov-25",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T16:52:00+00:00",
+      "t": "Felmentették Bódog Tamást, az utolsó helyen álló Nyíregyháza vezetőedzőjét, távozik Fekete Tivadar sportigazgató is",
+      "s": "A Nemzeti Sport értesülését a klub is megerősítette: a tréner szerződésének felbontásáról tárgyalnak, a sportigazgató közös megegyezéssel megy el.",
+      "p": [
+        "A Nemzeti Sport szerdai értesülése szerint az NB I-ben szereplő Nyíregyháza Spartacus felmentette a munkavégzés alól Bódog Tamás vezetőedzőt. A lap szerint a tréner már elköszönt a csapattól, és aznap edzést sem tartott. Kora este a klub a hivatalos honlapján is megerősítette a döntést, és közölte, hogy megkezdődtek a tárgyalások Bódog szerződésének felbontásáról.",
+        "Az 56 éves szakembert 2025 októberében nevezték ki a Szpari élére. Irányításával a csapat 38 mérkőzésen 13 győzelmet, 10 döntetlent és 15 vereséget ért el, és jelenleg a tizenkét csapatos NB I tabellájának utolsó helyén áll.",
+        "Ugyanaznap a klub azt is bejelentette, hogy Fekete Tivadar sportigazgató közös megegyezéssel távozik. Fekete szinte napra pontosan négy éve érkezett Nyíregyházára, amikor a csapat az NB II-ben a kiesés ellen küzdött. A 2023–2024-es idényben új kerettel és stábbal bajnoki címet nyertek, a Magyar Kupában pedig a klub történetében először elődöntőt játszottak. Az élvonalban az első idényben a 8., a következőben a 9. helyen végeztek. A csapat körül az elmúlt napokban más ügy is volt: a debreceni szurkolókkal a keleti rangadó előtt kialakult tömegverekedésről korábban külön cikkben írtunk."
+      ],
+      "cav": "A felmentés okát sem a klub, sem a lap nem közli. Az utód és az ideiglenes megoldás nem ismert. A 38 mérkőzéses mérleg a Nemzeti Sport összesítése, nem derül ki, mely sorozatokat tartalmazza.",
+      "op": "Az utolsó hely mellett az edzőcsere szinte törvényszerű, de az, hogy a sportigazgató is egyszerre távozik, azt jelzi, hogy a klub nemcsak trénert, hanem irányt is vált. Ilyenkor a kérdés az, van-e terv, vagy csak pánik.",
+      "src": [
+        [
+          "Nemzeti Sport: Már nem Bódog Tamás a Nyíregyháza vezetőedzője – hivatalos",
+          "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/mar-nem-bodog-tamas-a-nyiregyhaza-vezetoedzoje-hivatalos"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/pwC_yGncqci6s4BbK_il3fYyOeqUtdhTEOmvho5Y7Sw/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FhNTA2M2FjNzllYTQwMWI5NWVjM2RkNjRmNDRkNTJj.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/mar-nem-bodog-tamas-a-nyiregyhaza-vezetoedzoje-hivatalos",
+      "cred": "Bódog Tamás – Fotó: Czinege Melinda / Nemzeti Sport"
+    },
+    {
+      "id": "kubatov-gabor-level-baka-andras-osszeferhetetlenseg-nov-24",
+      "r": "Sport",
+      "c": "Sportpolitika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T12:40:00+00:00",
+      "t": "Kubatov Gábor levélben kéri Baka Andrást, hogy ne írja alá a sportösszeférhetetlenségi törvényt",
+      "s": "Az FTC elnöke videóüzenetében alkotmányossági aggályokra, az egyesülési jog sérelmére és visszaható hatályra hivatkozott; a törvényt kedden szavazta meg az Országgyűlés.",
+      "p": [
+        "A Nemzeti Sport szerint Kubatov Gábor, a Ferencvárosi TC októberben újraválasztott elnöke a közösségi oldalán jelentette be, hogy a klub, a sportolók, edzők és szurkolók nevében levelet ad át Baka András köztársasági elnöknek. Ebben arra kéri az államfőt, hogy ne írja alá a kedden elfogadott sportösszeférhetetlenségi törvényt.",
+        "A törvény szerint aki politikai szolgálati, biztosi vagy felső vezetői kormányzati tisztséget, illetve többségi állami cégnél vezető pozíciót töltött be, annak a megbízatása megszűnése után négy évig nem lehet az ötszáznál több igazolt sportolóval rendelkező egyesület, sportszövetség vagy sportvállalkozás elnöke, alelnöke, elnökségi tagja vagy vezető tisztségviselője; ugyanez vonatkozik sportiskolák és utánpótlás-alapítványok vezetésére. A lap szerint a szabály Kubatov mellett Deutsch Tamást (MTK) és Szijjártó Pétert (Kispest-Honvéd) is érinti.",
+        "Videóüzenetében Kubatov azt mondta, hogy a javaslat és módosítása súlyos alkotmányossági aggályokat vet fel. Szerinte szükségtelenül és aránytalanul korlátozza az Alaptörvény VIII. cikkében biztosított egyesülési jogot, személyre szabott rendelkezései sértik a törvény előtti egyenlőséget, és visszaható hatállyal írja felül a közösségek jogszerűen meghozott döntéseit, hiszen olyan tisztségekből zárná ki a vezetőket, amelyek megválasztásukkor még nem jelentettek akadályt. Kubatov szerint az ügy minden sportegyesületet és civil közösséget érint, és a tagoknak joguk van eldönteni, ki vezesse őket. Üzenetét azzal zárta, hogy nem adja fel, de nem harcot, hanem jogbiztonságot kér."
+      ],
+      "cav": "A beszámoló Kubatov saját videóüzenetén alapul, a Nemzeti Sport közvetítésével; a levél teljes szövegét nem láttuk. A köztársasági elnök reakciója és döntése még nem ismert, ahogy az sem, hogy a törvény Alkotmánybíróság elé kerülhet-e. A szavazásról szóló korábbi cikkünk tényeit nem ismételtük. A Nemzeti Sport „újraválasztott” elnökről ír, a 444 korábbi cikke szerint Kubatovot októberben választották a klub élére.",
+      "op": "Kubatov alkotmányos érvei nem légből kapottak: a visszaható hatály és a személyre szabott szabály valóban kényes. Csak éppen kevéssé hiteles, ha a sport és a politika összefonódásának egyik legismertebb alakja hirtelen a civil autonómia védelmezőjeként lép fel. A döntés most az államfőnél van, és jó, ha jogi, nem politikai alapon születik meg.",
+      "src": [
+        [
+          "Nemzeti Sport: Kubatov Gábor kéri a köztársasági elnököt, hogy ne írja alá az összeférhetetlenségi törvényt",
+          "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/kubatov-gabor-keri-a-koztarsasagi-elnokot-hogy-ne-irja-ala-az-osszeferhetetlensegi-torvenyt"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/cZjDy-zIubEtRtVsLwlsdYVXRHi-q-dpXdtrK4bL-ao/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzEyODM0NjMxMWQ4YjQ4NjdiMWY3ODJjMDg2NDM4MzVm.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/labdarugo-nb-i/2026/11/kubatov-gabor-keri-a-koztarsasagi-elnokot-hogy-ne-irja-ala-az-osszeferhetetlensegi-torvenyt",
+      "cred": "Kubatov Gábor – Fotó: Török Attila / Nemzeti Sport"
+    },
+    {
+      "id": "bl-5-fordulo-keddi-eredmenyek-real-psv-leipzig-nusa-nov-24",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 24.",
+      "published_at": "2026-11-24T22:09:00+00:00",
+      "t": "BL, 5. forduló: Willi Orbánék Nusa két góljával nyertek, a Real Madrid 5–1-re kiütötte a PSV-t, a Como legyőzte Vargáék AEK-ját",
+      "s": "A keddi játéknapon a Manchester City kétszer egyenlített a Napoli ellen, az Arsenal 1–1-et játszott a Dortmunddal, a Galatasaray és a Bodö/Glimt késői góllal nyert.",
+      "p": [
+        "A Nemzeti Sport összefoglalója szerint a labdarúgó Bajnokok Ligája alapszakaszának 5. fordulójában kedden kilenc mérkőzést rendeztek. A magyar érdekeltségű meccsek közül az RB Leipzig 3–1-re legyőzte a Lenst: David Raum a 6. percben szabadrúgásból, a sorfalról megpattanó labdával szerzett vezetést, Nusa a 9. percben duplázott, a Lens Mathieu Udol révén szépített, a ráadásban pedig ismét Nusa talált be. Willi Orbán kezdőként lépett pályára a lipcseieknél.",
+        "Az AEK Athén 1–0-ra kikapott Comóban, a győztes gólt Luis Milla szerezte az 57. percben. Vitális Milán kezdett, Varga Barnabás a 62. percben állt be, de egyenlíteni nem tudtak. A görögök az első félidőben szerencsével úszták meg, hogy Lucas Da Cunha kihagyta a Como tizenegyesét.",
+        "A Real Madrid hátrányból fordítva 5–1-re győzte le a PSV-t: Ivan Perisic a 32. percben tizenegyesből szerzett vezetést a hollandoknak, a szünet után Federico Valverde, Jude Bellingham, kétszer Kylian Mbappé és Vinícius Júnior is betalált. A Manchester City kétszer hozta vissza a Napoli elleni meccset: Rasmus Höjlund és Noa Lang góljaira Buaddi, aki első gólját szerezte a Cityben, és Cherki válaszolt, a vége 2–2. Az Arsenal és a Borussia Dortmund 1–1-re végzett, Viktor Gyökeres a 10. percben szerzett vezetést, Maximilian Beier az 55.-ben egyenlített.",
+        "A kora esti sávban a Galatasaray Deniz Gül 78. percben, szöglet után fejelt góljával 1–0-ra verte az Aston Villát, a Bodö/Glimt pedig Andreas Helmersen hosszabbításbeli találatával győzött 1–0-ra a LASK ellen. A Porto 1–0-ra nyert Rotterdamban a Feyenoord ellen, a Real Betis pedig Cucho Hernández két góljával 2–0-ra győzött a Slovan Bratislava otthonában. A forduló szerdai meccsein Szoboszlai Dominik Liverpoolja az FC Bruges vendége lesz."
+      ],
+      "cav": "A Porto gólját a Nemzeti Sport eredménylistája Targalin 2. percben szerzett öngóljaként, a lap élő közvetítése Victor Froholdt 3. percben szerzett találataként írja le; a hivatalos jegyzőkönyvet nem láttuk. A csoportállásokat a cikk nem közli. A kép a City–Napoli meccsen készült.",
+      "op": "Willi Orbánék és Nusa lipcsei estéje jó hír, Vargáéknak viszont a legjobb európai mezőny továbbra is kemény lecke. A forduló legnagyobb üzenete mégis Madridból jött: egy rossz első félidő után a Real a második félidőben öt gólt rúgott.",
+      "src": [
+        [
+          "Nemzeti Sport: AEK-vereség Comóban, Orbánék Nusa duplájával nyertek, négygólos iksz Manchesterben – keddi BL-eredmények",
+          "https://www.nemzetisport.hu/bajnokok-ligaja/2026/11/aek-vereseg-comoban-orbanek-nusa-duplajaval-nyertek-negygolos-iksz-manchesterben-keddi-bl-eredmenyek"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/VJQ-rVJgRd6ObiS7knDRXv5t-kdEWQyGz8ZsUxPJuUs/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzZiNDQxOTU4MjM1YTRmODc4NWQ2ZDYxMGEwMjM3MzY2.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/bajnokok-ligaja/2026/11/aek-vereseg-comoban-orbanek-nusa-duplajaval-nyertek-negygolos-iksz-manchesterben-keddi-bl-eredmenyek",
+      "cred": "Buaddi és Cherki a Manchester City–Napoli meccsen – Fotó: Getty Images"
+    },
+    {
+      "id": "raheem-sterling-felfuggesztett-borton-basingstoke-nov-25",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T14:17:00+00:00",
+      "t": "Felfüggesztett börtönbüntetést kapott Raheem Sterling veszélyes vezetés miatt, két évre bevonták a jogosítványát",
+      "s": "A basingstoke-i bíróság 12 hónapra ítélte a bűnösségét beismerő, jelenleg klub nélküli volt angol válogatottat, az ítéletet 18 hónapra felfüggesztették.",
+      "p": [
+        "A Nemzeti Sport az MTI nyomán arról számolt be, hogy a basingstoke-i bíróság szerdán 12 hónap szabadságvesztésre ítélte Raheem Sterlinget, az angol labdarúgó-válogatott korábbi szélsőjét, az ítélet végrehajtását 18 hónapra felfüggesztették. Mellékbüntetésként száz óra közmunkát kapott, a jogosítványát pedig két évre bevonták. Sterling a tárgyaláson bűnösnek vallotta magát.",
+        "A 31 éves játékos május végén szenvedett balesetet egy brit autópályán. A balesetben csak az ő Lamborghinije volt érintett, személyi sérülés nem történt. Sterlingnek veszélyes vezetés, dinitrogén-oxid birtoklásának gyanúja és a mintaadás elmulasztása miatt kellett bíróság elé állnia. A köznyelvben kéjgázként vagy nevetőgázként ismert anyagot a fogászatban és a sebészetben fájdalomcsillapításra használják, belélegzési célú használata Angliában tilos.",
+        "Sterling 82 válogatott mérkőzésen 20 gólt szerzett, tagja volt a 2021-es Európa-bajnokságon döntős és a 2019-ben Nemzetek Ligája-bronzérmes angol csapatnak. Játszott a Liverpoolban, a Manchester Cityben, a Chelsea-ben és kölcsönben az Arsenalban, az év elején néhány meccsen a holland Feyenoordban is pályára lépett. Jelenleg nincs klubja."
+      ],
+      "cav": "A beszámoló az MTI-n alapuló rövid hírre épül; a bíróság közleményét és a vádpontok pontos jogi minősítését nem láttuk. Nem derül ki, hogy a három vádpont közül melyekben mondták ki bűnösnek, és hogy a dinitrogén-oxid birtoklása bizonyítást nyert-e.",
+      "op": "Szerencse, hogy a balesetben senki sem sérült meg. Egy hírességnek ugyanúgy kell felelnie, mint bárkinek, és a jogosítvány bevonása itt fontosabb üzenet, mint a felfüggesztett börtön.",
+      "src": [
+        [
+          "Nemzeti Sport: Felfüggesztett börtönre ítélték Raheem Sterlinget",
+          "https://www.nemzetisport.hu/angol-labdarugas/2026/11/felfuggesztett-bortonre-iteltek-raheem-sterlinget"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/l71_rFHyvtRXGjLVCGpDj1hqMHXKo2C8HYCfdjrEtgg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU2NmViN2NkNTZjNjQ0NWVhM2JkYWY3NzU3YWQyYThh.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/angol-labdarugas/2026/11/felfuggesztett-bortonre-iteltek-raheem-sterlinget",
+      "cred": "Raheem Sterling – Fotó: Getty Images"
+    },
+    {
+      "id": "labdarugas-napja-puskas-emleknapok-mlsz-unesco-nov-25",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T15:47:00+00:00",
+      "t": "A Magyar Labdarúgás Napján bejelentették: tavasszal nemzetközi Puskás-emléknapokat tart az MLSZ a 100. évforduló alkalmából",
+      "s": "Csányi Sándor a mintegy száz volt válogatott előtt beszélt a szerbek elleni osztályozóról, Rossi 14 újoncáról és a 2029-es budapesti Konferencialiga-döntőről; a rendezvényt az UNESCO partnerségével tervezik.",
+      "p": [
+        "A Nemzeti Sport az MLSZ honlapja alapján arról ír, hogy a szövetség november 25-én, a Magyar Labdarúgás Napján a hagyományokhoz híven ünnepségre hívta a korábbi női és férfi válogatott játékosokat, akik ezúttal a Hotel Arénában találkoztak. A napot az MLSZ 40 évvel az 1953. november 25-i, a Wembley-ben Anglia ellen 6:3-ra megnyert „évszázad mérkőzése” után nyilvánította ünneppé. Az eseményen mintegy száz volt válogatott vett részt, képviseltette magát a Magyar Olimpiai Bizottság, az MTVA, a Magyar Sportújságírók Szövetsége és a Nemzeti Sport is. A résztvevők megemlékeztek a legutóbbi labdarúgás napja óta elhunyt játékosokról, játékvezetőkről és sportvezetőkről.",
+        "Az ünnepi beszédet Csányi Sándor, az MLSZ elnöke mondta. Értékelte a válogatott évét, és kiemelte, hogy a Nemzetek Ligája rájátszásában nagyon nehéz ellenfél vár a csapatra: Szerbiát kell legyőzni az A-ligába jutáshoz. Szólt arról is, hogy Marco Rossi 2026-ban 14 újoncot avatott, és egyre több játékos kerül a válogatottba az NB I-ből. Csányi szerint a válogatott szurkolói klubjának már több mint 400 ezer regisztrált tagja van, és a csapat rendre telt ház előtt játszik a Puskás Arénában.",
+        "Az elnök a 2029-ben Budapesten rendezendő Konferencialiga-döntőről azt mondta, hogy ezzel a magyar főváros minden nagy európai kupasorozat fináléjának házigazdája lehet. Hozzátette, hogy a szövetség takarékos gazdálkodásának köszönhetően a magyar futball finanszírozása biztosított.",
+        "Csányi bejelentette azt is, hogy Puskás Ferenc születésének 100. évfordulója alkalmából az MLSZ jövő tavasszal, a tervek szerint az UNESCO partnerségével, nemzetközi Puskás-emléknapokat tart. Az Aranycsapat kapitánya olimpiai bajnok és világbajnoki ezüstérmes volt, a válogatottban 84 gólt szerzett, és háromszor nyert BEK-et."
+      ],
+      "cav": "A beszámoló az MLSZ saját honlapjának ismertetésén alapul, a Nemzeti Sport közvetítésével. Az emléknapok pontos időpontja, programja és az UNESCO részvétele még nem végleges („a tervek szerint”). A finanszírozás biztonságáról szóló állítás az MLSZ elnökének értékelése, számokat nem közöltek.",
+      "op": "Puskás centenáriuma méltó alkalom arra, hogy a magyar futball a legjobb arcát mutassa a világnak. Jó lenne, ha az emléknapok nemcsak a múltról, hanem a ma futballozó gyerekekről is szólnának, és a stadionépítések helyett a pályák mellett is maradna pénz.",
+      "src": [
+        [
+          "Nemzeti Sport: Puskás-emléknapokat tart az MLSZ a korszakos futballzseni születésének századik évfordulóján",
+          "https://www.nemzetisport.hu/magyar-valogatott/2026/11/puskas-emleknapokat-tart-az-mlsz-a-korszakos-futballzseni-szuletesenek-szazadik-evfordulojan"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/rv9pZ5s81ASyJbqTCY45-5xPcT-mzjnHN-ikn_fXNkQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MwNTk2MDg1NDU2YjQ3OTk4OTU0NjU2OTVjMzFjMmQ5.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/magyar-valogatott/2026/11/puskas-emleknapokat-tart-az-mlsz-a-korszakos-futballzseni-szuletesenek-szazadik-evfordulojan",
+      "cred": "Fotó: MLSZ (a Nemzeti Sport cikkében)"
+    },
+    {
       "id": "megyei-budapest-moodys-kilatas-stabil-nov-25",
       "r": "Megyei",
       "m": "Budapest",
