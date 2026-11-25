@@ -123,9 +123,20 @@ const COUNTY=[{"id": "m-sasto", "r": "Megyei", "m": "Heves", "c": "Aszály", "w"
 let cat="Mind",thr="",term="";
 const app=document.getElementById("app");
 const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
-const DAYS={17:"Szombat, okt. 17.",18:"Vasárnap, okt. 18.",19:"Hétfő, okt. 19.",24:"Szombat, okt. 24.",25:"Vasárnap, okt. 25.",26:"Hétfő, okt. 26.",27:"Kedd, okt. 27.",28:"Szerda, okt. 28.",20:"Kedd, okt. 20.",21:"Szerda, okt. 21.",22:"Csütörtök, okt. 22.",23:"Péntek, okt. 23."};
-const dayVal=t=>{const m=String(t).match(/(\d{1,2})\./);return m?+m[1]:0};
-{const s=items.map((i,k)=>[i,k]).sort((a,b)=>dayVal(b[0].time)-dayVal(a[0].time)||a[1]-b[1]).map(x=>x[0]);items.splice(0,items.length,...s)}
+const HU_MONTHS=["jan.","febr.","márc.","ápr.","máj.","jún.","júl.","aug.","szept.","okt.","nov.","dec."];
+const HU_WEEKDAYS=["Vasárnap","Hétfő","Kedd","Szerda","Csütörtök","Péntek","Szombat"];
+const BP_DATE=new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Budapest",year:"numeric",month:"numeric",day:"numeric"});
+// Calendar day of a story: published_at (Budapest time) first, otherwise the "time" field ("nov. 25.").
+function dayOf(i){
+ if(i&&i.published_at){const t=new Date(i.published_at);if(!isNaN(t)){const p={};for(const x of BP_DATE.formatToParts(t))p[x.type]=+x.value;return{y:p.year,m:p.month,d:p.day}}}
+ const m=String(i&&i.time||"").match(/^(\S+)\s+(\d{1,2})\./);if(!m)return null;
+ const mo=HU_MONTHS.indexOf(m[1])+1;if(!mo)return null;
+ const now=new Date();let y=now.getFullYear();if(Date.UTC(y,mo-1,+m[2])>now.getTime()+864e5)y--;
+ return{y,m:mo,d:+m[2]};
+}
+const dayVal=i=>{const x=dayOf(i);return x?x.y*10000+x.m*100+x.d:0};
+const dayLabel=i=>{const x=dayOf(i);if(!x)return i.time||"";return HU_WEEKDAYS[new Date(Date.UTC(x.y,x.m-1,x.d)).getUTCDay()]+", "+HU_MONTHS[x.m-1]+" "+x.d+"."};
+{const s=items.map((i,k)=>[i,k]).sort((a,b)=>dayVal(b[0])-dayVal(a[0])||a[1]-b[1]).map(x=>x[0]);items.splice(0,items.length,...s)}
 const stc=i=>i.st=="Megerősített"?"c":"u";
 function newsFallback(i){
  const palette={"Belpolitika":"#284c83","Gazdaság":"#16756e","Külföld":"#873d68","Közélet":"#816422","Sport":"#367e47","Kultúra":"#6846a2"};
@@ -156,7 +167,7 @@ function list(){
  const l=items.filter(i=>Array.isArray(i.p)&&i.p.join(" ").length>=800&&(cat=="Mind"||i.r==cat)&&(!thr||i.w==thr)&&(i.t+" "+i.s).toLowerCase().includes(term));
  if(!l.length){el.innerHTML='<p class="empty">Ebben a rovatban még nincs elkészült részletes cikk. A rövid RSS-ajánlókat nem jelenítjük meg teljes cikként.</p>';return}
  let h="",d=null;
- for(const i of l){const dv=dayVal(i.time);if(dv!==d){d=dv;h+=`<div class="day">${DAYS[dv]||i.time}</div>`}h+=row(i)}
+ for(const i of l){const dv=dayVal(i);if(dv!==d){d=dv;h+=`<div class="day">${dayLabel(i)}</div>`}h+=row(i)}
  el.innerHTML=h;bind();
 }
 function open(id){
@@ -171,7 +182,7 @@ function open(id){
 document.getElementById("home").onclick=e=>{e.preventDefault();location.hash="/";thr="";cat="Mind";term="";home()};
 
 const COUNTY_ALL=COUNTY.map(i=>Object.assign({},i,{r:i.m}));
-const MKEY=t=>{const M={"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11};const m=String(t).match(/^(\S+)\s+(\d{1,2})/);return m?(M[m[1]]||0)*100+ +m[2]:0};
+const MKEY=t=>{const M={"jan.":1,"febr.":2,"márc.":3,"ápr.":4,"máj.":5,"jún.":6,"júl.":7,"aug.":8,"szept.":9,"okt.":10,"nov.":11,"dec.":12};const m=String(t).match(/^(\S+)\s+(\d{1,2})/);return m?(M[m[1]]||0)*100+ +m[2]:0};
 COUNTY_ALL.sort((a,b)=>MKEY(b.time)-MKEY(a.time));
 const MEGYEK=["Mind"].concat([...new Set(COUNTY_ALL.map(i=>i.m))].sort((a,b)=>a.localeCompare(b,"hu")));
 let view="nat", mcty="Mind";
@@ -264,7 +275,7 @@ async function loadNews(){
    const keys=i.src.map(s=>urlKey(s[1]));
    if(keys.some(k=>seenUrls.has(k)))continue;
    keys.forEach(k=>seenUrls.add(k));
-   if(i.m && i.ai_edited && Array.isArray(i.p) && i.p.join(" ").length>=800){
+   if(i.m && i.ai_edited && Array.isArray(i.p) && i.p.join(" ").length>=300){
     COUNTY.push(i);
     COUNTY_ALL.push({...i,r:i.m});
     if(!MEGYEK.includes(i.m))MEGYEK.push(i.m);
