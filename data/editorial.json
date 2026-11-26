@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "gki-bizalmi-index-hetho-melypont-leepitesek-nov-26",
+      "r": "Gazdaság",
+      "c": "Konjunktúra",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Hét havi mélyponton a gazdasági bizalom: a GKI szerint a cégek leépítésre készülnek, a lakosság hangulata is romlik",
+      "s": "A GKI novemberi felmérése szerint a konjunktúraindex mínusz 8 pontra esett, a vállalatok többen terveznek létszámcsökkentést, mint bővítést, és az inflációs félelmek is erősödnek.",
+      "p": [
+        "Az Index csütörtök reggeli cikke szerint a GKI Gazdaságkutató novemberi felmérésében a gazdasági bizalom hét havi mélypontra süllyedt. A GKI konjunktúraindexe egy ponttal romlott, és mínusz 8 pontot mutat. Az üzleti bizalmi index másfél ponttal csökkent mínusz 9-re, a fogyasztói bizalmi index pedig további 0,4 ponttal, mínusz 6,5 pontra esett; ez utóbbi szintén hét havi mélypont, vagyis a tavaszi javulás után a lakossági várakozások ismét romlanak.",
+        "A vállalati válaszok a munkaerőpiacról sem kecsegtetnek jóval. A foglalkoztatási hajlandóság 16 hónapos mélyponton van: a következő három hónapban a megkérdezett cégek 7 százaléka tervez létszámbővítést, 16 százaléka viszont leépítést. A beruházási kedv is gyengült. A 2027-es kiadásokra vonatkozó terveknél a vállalatok 18 százaléka számít magasabb, 23 százaléka alacsonyabb beruházási összegre; egy évvel korábban ez az arány még 27 és 18 százalék volt.",
+        "Az árak felől sem derült az ég: az árindikátor szerint a cégek 19 százaléka tervez áremelést, és csak 6 százalékuk árcsökkentést. A cikk ezt az inflációs félelmek erősödéseként értékeli. A lakossági hangulat ugyanakkor még így is jobb, mint egy évvel korábban: a fogyasztói bizalom 21 ponttal magasabb a tavalyinál.",
+        "A cikk a felmérés mellett a KSH friss adatára is utal: a nemzetgazdasági beruházások a harmadik negyedévben nyers adatok szerint 11,4, a szezonálisan kiigazított adatok szerint 10,2 százalékkal estek. Ez a GKI-felmérés beruházási várakozásaival együtt azt a képet erősíti, hogy a vállalati szektor óvatosabbá vált."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul; a GKI saját közleményét és a teljes kérdőíves adatsort nem láttuk. A cikk nem közli, hány vállalatot és háztartást kérdeztek meg, és a módszertan sem derül ki belőle. A kormány gazdaságpolitikájának hatásáról a cikk címe és tartalma alapján nincs ellenőrizhető megállapítás; az okokat (bizonytalanság, kamat, infláció) a lap értelmezi. Az Index oldalának metaadata a megjelenés előtti módosítási időt mutat (nov. 25.), ennek oka nem ismert. A kép illusztráció, nem a magyar gazdasághoz kapcsolódó felvétel.",
+      "op": "Ha a cégek közel kétszer annyian készülnek leépítésre, mint bővítésre, az a következő hónapok béreire és a keresletre is hat, hiába jobb a lakossági hangulat egy évvel korábbinál. Ezt érdemes komolyabban venni az egyszeri kormányzati bejelentéseknél: a beruházásokat nem szlogenek, hanem kiszámítható adók és olcsóbb hitelek hozzák vissza.",
+      "src": [
+        [
+          "Index: GKI: a cégek leépítésekre készülnek, olvad a lakosság optimizmusa, az inflációs félelmek is erősödnek",
+          "https://index.hu/gazdasag/2026/11/26/gki-felmeres-gazdasagi-kilatasok-bizalmi-index-kormany-magyar-peter-beruhazas-inflacio"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7270/72705/727053/72705341_4f795dab1cc30c7d9be5abfa3885e876_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/gazdasag/2026/11/26/gki-felmeres-gazdasagi-kilatasok-bizalmi-index-kormany-magyar-peter-beruhazas-inflacio",
+      "cred": "Illusztráció (az Index aláírása szerint: szinte teljesen üres íróasztalok a bostoni Fuze irodájában, 2020. március 10.) – Fotó: David L. Ryan / The Boston Globe via Getty Images"
+    },
+    {
+      "id": "parlament-csutortok-kozmedia-elelmiszermento-hazszabaly-nov-26",
+      "r": "Belpolitika",
+      "c": "Országgyűlés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Csütörtökön a közmédia finanszírozása, az Élelmiszermentő Központ megszüntetése és a házszabály-módosítás is az Országgyűlés előtt van",
+      "s": "Az Infostart az MTI nyomán ismerteti a parlament csütörtöki napirendjét: médiatörvény, élelmiszerlánc-törvény, kutatóhálózat, aszálymoratórium és a tiszás képviselők házszabály-javaslata.",
+      "p": [
+        "Az Országgyűlés csütörtökön reggel kilenckor kezdi az ülést, és az Infostart összefoglalója szerint több törvényjavaslat is soron van. Az egyik a médiatörvény módosítása a közszolgálati média finanszírozásáról. A tervezet célja a lap szerint, hogy biztosítsa a 2027-es átmeneti költségvetés feltételeit, és kiegészítse a 2028-tól alkalmazandó hároméves költségvetési rendszert.",
+        "Az élelmiszerláncról szóló törvény módosítása megszüntetné az Élelmiszermentő Központot. A javaslat indoklása szerint a boltok és a karitatív szervezetek közvetlen együttműködése központi koordináció nélkül is működik. A földügyi javaslatcsomag részleges haszonbérfizetési moratóriumot vezetne be az aszály okozta károk enyhítésére.",
+        "A tudományos kutatóhálózatról szóló javaslat szerint a HUN-REN Magyar Kutatási Hálózat jogfolytonosan MTA Kutatóhálózat néven működne tovább, az alapítói jogokat az MTA gyakorolná. Az ELTE-n belüli négy humán kutatóközpont visszakerülne a hálózatba. A napirenden szerepel a gondosóra-program tartós, közfeladatként történő végrehajtásának jogi kerete, valamint a kormányhivatalok szakigazgatási szerveinek és a járási hivataloknak a hatásköri önállóságát rögzítő szabályozás is.",
+        "Az ülésnap végén általános vita lesz a tiszás képviselők házszabály-módosító javaslatáról. Az Infostart szerint a javaslat megszüntetné az európai parlamenti képviselők plenáris és bizottsági részvételi jogait a magyar Országgyűlésben, képviselőcsoportonként hetente egy napirend előtti felszólalást engedne, a személyes érintettség miatti felszólalás idejét egy percre rövidítené, és eltörölné a fegyelmi tiszteletdíj-csökkentés alsó határait."
+      ],
+      "cav": "A beszámoló az Infostart (MTI) napirendi összefoglalóján alapul; a törvényjavaslatok szövegét közvetlenül nem olvastuk. A cikk nem közli, mikor lesz zárószavazás az egyes javaslatokról, és az ellenzéki frakciók álláspontját sem. A házszabály-javaslat részleteiről a nov. 25-i Hadházy-cikkünk is szól; az ott leírt bírálat és a mostani leírás ugyanarra a javaslatra vonatkozik, de a két forrás nem azonos részleteket emel ki. A fotó archív (nov. 3-i ülés), nem a csütörtöki napról készült.",
+      "op": "A közmédia finanszírozásának és a parlament működési szabályainak ugyanazon a napon való tárgyalása jó alkalom lenne a nyilvános vitára, de az ilyen salátacsomagoknál rendszerint az derül ki utólag, mi maradt ki a figyelemből. Az Élelmiszermentő Központ megszüntetésének indoklása – hogy a boltok és karitatív szervezetek koordináció nélkül is jól dolgoznak – akkor áll meg, ha a számok is ezt mutatják, nem csak a szándék.",
+      "src": [
+        [
+          "Infostart: Most kerül a Tisztelt Ház asztalára a közmédia – parlamenti csütörtök",
+          "https://infostart.hu/belfold/2026/11/26/most-kerul-a-tisztelt-haz-asztalara-a-kozmedia-parlamenti-csutortok"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2026/11/1793705538-qjvc9BtEU_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/belfold/2026/11/26/most-kerul-a-tisztelt-haz-asztalara-a-kozmedia-parlamenti-csutortok",
+      "cred": "Archív kép: Magyar Péter miniszterelnök napirend előtti felszólalásra reagál az Országgyűlés plenáris ülésén 2026. november 3-án – Fotó: MTI/Purger Tamás (az Infostart aláírása szerint)"
+    },
+    {
+      "id": "oroszorszag-ukrajna-energiahalozat-finomitok-nov-26",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Moszkva az energiahálózatot támadja a tél előtt, Kijev két szamarai olajfinomítót ért találattal válaszolt",
+      "s": "Az Index szerint az orosz csapásokban szerdán kilencen haltak meg és 59-en megsebesültek, öt ukrán régióban volt áramkimaradás; az ukrán vezérkar megerősítette a két finomító elleni támadást.",
+      "p": [
+        "Az Index csütörtök reggeli összefoglalója szerint az orosz csapások szerdán is főleg az ukrán energia-infrastruktúrát célozták. A lap az ukrán légierőre hivatkozva írja, hogy 153 drónt indítottak, ebből 134-et lelőttek. Az orosz támadásokban kilencen meghaltak, 59-en megsebesültek, köztük egy 12 éves gyerek. A DTEK szerint egy hőerőművet nagyszabású támadás ért, az üzem leállt. Artem Nekraszov energiaügyi miniszterhelyettes szerint öt régióban, a dnyipropetrovszki, a donyecki, a zaporizzsjai, az odesszai és a harkivi területen volt áramkimaradás.",
+        "A halálos áldozatokról a cikk részleteket is közöl: az Al-Dzsazíra szerint Odessza környékén ketten haltak meg és hárman megsebesültek, köztük egy gyerek, Csernyihiv térségében egy ember vesztette életét, Dnyipróban pedig egy 42 éves férfi sebesült meg.",
+        "Ukrajna a szamarai területen lévő szizrani és kujbisevi olajfinomítót támadta, ezt az ukrán vezérkar megerősítette; a két létesítmény a cikk szerint nagyjából száz kilométerre van egymástól. Emellett a nyizsnyij novgorodi területen lévő szavaszlejkai légibázison repülőgépeket is támadtak. Az ukrán biztonsági szolgálat (SZBU) őrizetbe vett egy volt katonát, akit egy különleges erőkbeli parancsnok elleni merényletkísérlettel gyanúsítanak Hmelnyickijben.",
+        "A frontról a lap a Hudson Intézetre hivatkozik, amely szerint a közeljövőben nem várható jelentős területi változás. A Deep State elemzői szerint ugyanakkor orosz erők új állásokat foglaltak el Verhnya Tersa közelében, a hulajpolei irányban."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az ukrán légierőre, a DTEK-re, az Al-Dzsazírára, az ABC-re és az ukrán vezérkarra hivatkozik; ezeket közvetlenül nem olvastuk. Az áldozatszámok és a lelőtt drónok száma hadviselő fél adatai, független megerősítést nem láttunk. A finomítók károsodásának mértékéről és az orosz oldal álláspontjáról a cikk nem szól. A Deep State és a Hudson Intézet értékelése elemzői vélemény, nem megerősített hadi tény.",
+      "op": "Az energiahálózat elleni csapások a polgári lakosságot sújtják, és ezen az sem változtat, hogy a másik fél olajfinomítókat támad: a tél közeledtével minden áramszünet fűtés nélküli otthont jelent. Akik a békéről beszélnek, tegyék hozzá, hogy a civil infrastruktúra elleni támadások megszűnése az első, legkisebb feltétel.",
+      "src": [
+        [
+          "Index: Moszkva az energiahálózatot támadja a tél előtt, Kijev olajfinomítókra csapott le válaszul",
+          "https://index.hu/kulfold/2026/11/26/oroszorszag-ukrajna-haboru-energiahalozat-titkosszolgalat"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7270/72708/727087/72708735_246435d50e1affc737de7a6e9492b24d_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/26/oroszorszag-ukrajna-haboru-energiahalozat-titkosszolgalat",
+      "cred": "Rendőrök egy orosz sugárhajtású drón hajtóműve mellett egy kijevi lakóépületnél, 2026. november 24. – Fotó: Gleb Garanich / Reuters (az Index aláírása szerint)"
+    },
+    {
+      "id": "mnb-kamatcsokkentes-december-15-kurali-nov-25",
+      "r": "Gazdaság",
+      "c": "Jegybank",
+      "w": "MNB-kamatpolitika",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Portfolio: december 15-én aligha lazít az MNB – a Monetáris Tanács egyik tagja már kamatcsökkentésre szavazott, de a forint és a külső környezet nem kedvez",
+      "s": "A Portfolio elemzése szerint az 5,5 százalékos alapkamatot novemberben változatlanul hagyó jegybank decemberi mozgásterét a forint, az infláció és a Fed-emelés kilátásai szűkítik.",
+      "p": [
+        "A Portfolio elemzője szerdán azt a kérdést járta körül, hogy tud-e az MNB a decemberi ülésen kamatot csökkenteni. A Monetáris Tanács november közepén 5,5 százalékon hagyta az alapkamatot, a sajtótájékoztatón viszont kiderült, hogy legalább egy tag már kamatcsökkentésre szavazott. Az idei utolsó kamatdöntés december 15-én lesz; a jegybank közleménye szerint a tanács a decemberi Inflációs jelentés alapján értékeli majd a mozgásteret. Kurali Zoltán alelnök hétfőn finomította az üzenetet: a monetáris mozgásteret a hazai és a nemzetközi környezet alapján mérlegelik.",
+        "Az előzmény, hogy az MNB nyáron három lépésben összesen 75 bázisponttal csökkentette az alapkamatot. Azóta a környezet romlott: az EKB júniusban, a Fed szeptemberben kamatot emelt, a cseh jegybank júniusban emelt, novemberben pedig folytatta. A forint a múlt héten hét hónapos mélypontra került az euróval szemben, pénteken 374 fölött jegyezték. A cikk szerint enyhítő tényező, hogy a Brent olaj ára 110 dollárról 90 dollár alá esett.",
+        "A szerző szerint a Fed december 9-i ülésén akár 50 bázispontos szigorítás is szóba jöhet, a novemberi magyar inflációs adatot pedig december 8-án jelenik meg. Mindezek alapján az elemző nem tartja valószínűnek, hogy a Monetáris Tanács december 15-én lazításról döntene. A cikk azt is megemlíti, hogy jövőre a jelenlegi tizenkét helyett évi nyolc kamatdöntő ülés lesz."
+      ],
+      "cav": "A beszámoló a Portfolio elemzésén alapul, amely az MNB közleményére és sajtótájékoztatójára hivatkozik; ezeket közvetlenül nem olvastuk. A cikk véleményelemzés: az, hogy december 15-én nem várható lazítás, a szerző értékelése, nem az MNB döntése. Nem derül ki, ki szavazott kamatcsökkentésre. A kamatpálya a forint és a decemberi inflációs adat függvényében még változhat. Témája részben átfedi a nov. 25-i forint–kamatvágás cikkünket, de az MNB-döntés menetrendjét és a külső háttér részleteit ez a cikk adja.",
+      "op": "A jegybank dilemmája nem csupán szakmai: az infláció és a gyenge forint ellen ma a legjobb eszköz a türelem, még ha a gazdaság lassulása ezzel ellentétes irányba is húz. Érdemes az MNB-től nyíltabb kommunikációt várni arról, mi kell ahhoz, hogy a kamatcsökkentés újra napirendre kerüljön, mert ez a vállalati és lakossági hitelek árát is meghatározza.",
+      "src": [
+        [
+          "Portfolio: Biztos, hogy most kell kamatot csökkentenie az MNB-nek? Mikor léphet újra a lazítás útjára a jegybank?",
+          "https://www.portfolio.hu/gazdasag/20261125/biztos-hogy-most-kell-kamatot-csokkentenie-az-mnb-nek-mikor-lephet-ujra-a-lazitas-utjara-a-jegybank-878768"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/m/a/g/magyar-nemzeti-bank-mnb-jegybank-742047.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261125/biztos-hogy-most-kell-kamatot-csokkentenie-az-mnb-nek-mikor-lephet-ujra-a-lazitas-utjara-a-jegybank-878768",
+      "cred": "Portfolio címlapkép, illusztráció (fotós nincs feltüntetve)"
+    },
+    {
+      "id": "repulo-kenyszerleszallas-ajto-phoenix-nov-26",
+      "r": "Külföld",
+      "c": "Légiközlekedés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Kényszerleszállt az American Airlines San Diego–Chicago járata, mert egy utas a levegőben ki akarta nyitni az ajtót",
+      "s": "Az Index szerint az utasokat és a személyzetet is lefogták az utast, senki nem sérült meg; a gép Phoenixben szállt le, az FAA vizsgálatot indított.",
+      "p": [
+        "Az Index beszámolója szerint az American Airlines AA1494-es, San Diegóból Chicagóba tartó járata szerdán kényszerleszállást hajtott végre a phoenixi Sky Harbor repülőtéren. A lap az abc7 helyi tévére és a phoenixi rendőrség közleményére hivatkozik. A cikk az esetet november 25-re, szerda hajnalra teszi.",
+        "A leírás szerint az egyik utas a gép elejébe ment, többször megtagadta az utasítást, hogy üljön vissza a helyére, és megpróbálta kinyitni a repülőgép ajtaját. A személyzet és a többi utas lefogta, így senki nem sérült meg. Az eseményről videó is készült, amelyet Sean Bennett tett közzé a Facebookon; egy utas szerint lenyűgöző volt, milyen gyorsan cselekedtek az emberek.",
+        "A cikk szerint az amerikai légügyi hatóság, az FAA vizsgálatot indított. A lap azt is jelzi, hogy az FAA közleményének szövege a cikkben hibásan és nehezen érthetően szerepel."
+      ],
+      "cav": "A beszámoló az Index rövid cikkén alapul, amely az abc7-re és a phoenixi rendőrségre hivatkozik; ezeket közvetlenül nem olvastuk. Nem derül ki az utas neve (nem is keressük), az indítéka, az, hogy milyen intézkedést tettek ellene, és milyen eljárás indult. Az FAA-közlemény az Index szövegében hibás, ezért a vizsgálat részleteit nem ismerjük. A dátum és a pontos időpont nem teljesen egyértelmű. A kép a cikk borítóképe, készítője nincs feltüntetve.",
+      "op": "Az ilyen esetekben nem az a megnyugtató, hogy az utasok rendet tettek, hanem az, hogy a személyzet és a rendszer jól működött. A hasonló esetekben viszont érdemes lenne a nyilvánosságnak is megtudni, mi lett az utas sorsa, nem csak azt, hogy a videó mennyire látványos.",
+      "src": [
+        [
+          "Index: Kényszerleszállást hajtott végre egy repülőgép, miután az egyik utas ki akarta nyitni az ajtót a levegőben",
+          "https://index.hu/kulfold/2026/11/26/egyesult-allamok-chicago-american-airlines-kenyszerleszallas"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7270/72708/727081/72708145_5356637_e36e9d8abea847a389af7fb2e1b0df1b_wm.png",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/26/egyesult-allamok-chicago-american-airlines-kenyszerleszallas",
+      "cred": "Index borítókép (készítő nincs feltüntetve)"
+    },
+    {
+      "id": "foxpost-karacsonyi-csomagforgalom-hataridok-nov-26",
+      "r": "Gazdaság",
+      "c": "Logisztika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Heti hétmillió csomag is lehet karácsony előtt: a Foxpost december 18-át jelölte meg belföldi határidőnek",
+      "s": "A csomagautomata-hálózat az MTI-n keresztül közölte, hogyan készül az ünnepi csúcsra; a külföldi küldeményeknél már december 17-ig kell feladni.",
+      "p": [
+        "Az Infostart az MTI nyomán arról számolt be, hogy a Foxpost szerdán közleményben jelezte: az ünnepi időszakban a magyar piacon a heti küldeményforgalom a cég becslése szerint a hétmilliót is meghaladhatja, ami az éves heti átlag majdnem kétszerese. A cég ezért bővíti kapacitását és gyakrabban üríti az automatákat.",
+        "Budapest legterheltebb térségeiben extra átvételi lehetőséget biztosítanak: ahová a csomag nem fér be az automatába, ott három napig ideiglenes személyes átvevőpontokon vehetik át, és az érintett ügyfelek külön értesítést kapnak.",
+        "A közlemény szerint a belföldi karácsony előtti kézbesítést a cég legkésőbb a december 18-án, pénteken feladott csomagokra vállalja. A Packeta-hálózaton Csehországba, Romániába és Szlovákiába küldött csomagokat december 17-én, csütörtökön kell átadni. A Foxpost azt kéri az ügyfeleitől, hogy időben rendeljenek és adjanak fel, gondosan csomagoljanak, és az automatába érkezett küldeményeket mielőbb vegyék át. A cég a Packeta Group tagja, 2014-ben startupként indult, hálózata országos."
+      ],
+      "cav": "A beszámoló az Infostart (MTI) cikkén alapul; a Foxpost közleményét közvetlenül nem olvastuk. A heti hétmillió csomag a cég saját becslése, az éves átlag pontos értékét a cikk nem adja meg. A közlemény csak a Foxpostra vonatkozik, a többi szolgáltató (pl. posta, futárcégek) határidejét nem ismerjük. A kézbesítési vállalás nem jelent garanciát vis maior esetén.",
+      "op": "A karácsonyi csomagcsúcs minden évben kiszámítható, mégis minden évben váratlanul éri a szolgáltatókat és a vásárlókat. Aki ajándékot rendel, ne a december 18-i határidőt tekintse célnak: ami nem a megadott határidő előtt egy héttel indul el, az már kockázat.",
+      "src": [
+        [
+          "Infostart: Karácsonyi csomagkáosz jöhet, fontos dátumot közölt a Foxpost",
+          "https://infostart.hu/belfold/2026/11/26/karacsonyi-csomagkaosz-johet-fontos-datumot-kozolt-a-foxpost"
+        ]
+      ]
+    },
+    {
+      "id": "mars-regulus-jupiter-hold-paralelogramma-nov-30",
+      "r": "Közélet",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:00:00+00:00",
+      "ai_edited": true,
+      "t": "Hétfő hajnalon paralelogrammát formál a Mars, a Regulus, a Jupiter és a fogyó Hold, a Svábhegyi Csillagvizsgáló hajnali észlelést tart",
+      "s": "Az MTI nyomán az Infostart szerint november 30-án reggel hat órakor, a déli égbolton látványos égi alakzat figyelhető meg szabad szemmel is.",
+      "p": [
+        "Az Infostart az MTI nyomán arról írt, hogy november 30-án, hétfőn hajnalban a Mars, az Oroszlán csillagkép legfényesebb csillaga, a Regulus, a Jupiter és a fogyó Hold lapos paralelogrammát alkot az égen. Az információ a Svábhegyi Csillagvizsgálótól származik.",
+        "A közlemény szerint az alakzat reggel hat órakor a déli égbolton látszik, nagyjából 54 fokkal a horizont felett. A fogyó Hold ekkor 62 százalékos fázisú, és a Jupitertől 2,3 fokra balra áll. A Regulus kékesfehér, a Mars vöröses színű; a két égitest egymástól szintén 2,3 fokra van.",
+        "A csillagvizsgáló november 30-án 5 és 7 óra között hajnali észlelőprogramot szervez csillagászok vezetésével. A programon a látogatók a Marsot, a Jupitert, a Hold krátereit, a Vénuszt és a Merkúrt is megfigyelhetik."
+      ],
+      "cav": "A beszámoló az Infostart (MTI) cikkén alapul; a Svábhegyi Csillagvizsgáló saját közleményét nem láttuk. A látványt az időjárás befolyásolhatja: a cikk nem említi a felhőzetet,. A programhoz a cikk nem ad meg jegyárat vagy regisztrációs információt.",
+      "op": "Jó, hogy egy rövid hír emlékeztet arra, hogy a szabad szemmel látható égbolt még a városi fényszennyezésben is érdemes néhány percnyi figyelemre. Aki hajnalban kel, ne a telefonját nézze, hanem fel az égre – ha a felhők engedik.",
+      "src": [
+        [
+          "Infostart: Ritka égi jelenség kápráztathatja el a korán kelőket",
+          "https://infostart.hu/tudomany/2026/11/26/ritka-egi-jelenseg-kapraztathatja-el-a-koran-keloket"
+        ]
+      ]
+    },
+    {
       "id": "szibiha-kisebbsegi-jogok-magyar-peter-brusszel-nov-25",
       "r": "Külföld",
       "c": "Ukrajna",
