@@ -1,6 +1,210 @@
 {
   "items": [
     {
+      "id": "lakhatasi-program-11-milliard-karacsony-vitezy-fkt-nov-26",
+      "r": "Közélet",
+      "c": "Budapest",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "11 milliárdos lakhatási programot indít a kormány és a főváros: a tervezett 20 milliárdból az uniós pénz egy része elveszett",
+      "s": "A 444 beszámolója szerint Karácsony Gergely és Vitézy Dávid az FKT ülése után a lakhatási program mellett a rákosrendezői fejlesztésről és a budapesti hóhelyzetről is beszélt.",
+      "p": [
+        "A 444 csütörtök esti cikke szerint Karácsony Gergely főpolgármester a Fővárosi Közfejlesztések Tanácsa (FKT) ülése utáni sajtótájékoztatón elmondta: a korábbi kormánnyal még 20 milliárd forintos, uniós forrásból finanszírozott lakhatási programról egyeztek meg, a pénz egy része azonban az idő- és forrásvesztés miatt elveszett, így a program most nagyjából 11 milliárd forintos. A főpolgármester először 12, majd 11 milliárd forint „megmentéséről” beszélt; a 444 szerint nem világos, miért tért el a két szám.",
+        "A program indulásához a Pénzügyminisztérium hozzájárulása kell. A forrásból nagyjából 5 milliárd forintot üres iskolaépületek lakássá alakítására fordítanának, a többit pedig a szerényebb jövedelmű, hajléktalanná vált budapestiek szociális és lakbértámogatására. Karácsony további intézkedéseket is kilátásba helyezett.",
+        "Az FKT ülésén döntés született arról is, hogy az állam és a főváros közös projektcéggel viszi tovább a rákosrendezői területfejlesztést, ahol a főváros részesedése a korábbi ráfordítások arányában nagyjából 25–30 százalék lesz. Közös társaság foglalkozik majd a budapesti hajózással is. Megkezdődik a pesti nagykörút megújítása (célidő: 2029 vége), előkészítés alatt áll a 3-as metró meghosszabbítása, a pesti fonódó villamos és a HÉV-flotta megújítása (utóbbi két projekt célideje 2030 vége). A Népliget felújításáról egyelőre nincs döntés, mert ehhez nem találtak uniós forrást.",
+        "Vitézy Dávid közlekedési miniszter „óriási beruházási dömpinget” ígért Budapesten, és azt mondta, a budapesti projekteket Lázár János az uniós források befagyasztása idején „a fiókja legmélyére” rejtette. A hóhelyzetről Karácsony azt közölte, hogy főleg a budai oldalon dolgozik több mint 70 gép és több mint 700 ember. Vitézy szerint a MÁV 20 percnél nagyobb késései az északi agglomeráción kívül nem jellemzők, a Volán zavarai főleg Vas, Nógrád és Pest vármegyében okoznak gondot. A fővárosi létszámleépítésről Karácsony annyit mondott, hogy azt „a lehető legemberségesebben” kezelik."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul; a sajtótájékoztatót és a döntéseket közvetlenül nem láttuk. Valamennyi összeg és a hóhelyzetre vonatkozó adat a megszólalók állítása, a cikk nem ellenőrizte őket. A 12 és 11 milliárdos szám közti eltérést a cikk nem tisztázza; nem derül ki az sem, hogyan oszlik meg a pénz az iskolaátalakítás és a szociális támogatás között, és mekkora a Pénzügyminisztérium hozzájárulásának hatóköre.",
+      "op": "Aki lakhatási válságban él, annak a 11 milliárd jobb hír a semminél, de nehéz nem észrevenni: a program majdnem a felére zsugorodott, mert politikai huzavona közben elúszott az uniós pénz. Jó volna, ha a főváros és a kormány most nemcsak egymásra mutogatna, hanem nyilvános ütemtervet adna arról, hány lakás készül el és mikorra.",
+      "src": [
+        [
+          "444: 11 milliárdos programot indít a kormány és a főváros a budapesti lakhatási válság kezelésére",
+          "https://444.hu/2026/11/26/11-milliardos-programot-indit-a-kormany-es-a-fovaros-a-budapesti-lakhatasi-valsag-kezelesere"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q98u2cPf4awT4JGs-lg.png",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/11-milliardos-programot-indit-a-kormany-es-a-fovaros-a-budapesti-lakhatasi-valsag-kezelesere",
+      "cred": "Fotó: Facebook (a 444 aláírása szerint; fotós nincs megnevezve)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "vitezy-lakhatasi-szabalyozas-berlakas-2027-nov-26",
+      "r": "Gazdaság",
+      "c": "Lakhatás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Vitézy Dávid: 2027 első negyedévére elkészülhet a megfizethető bérlakások teljes szabályozási kerete",
+      "s": "Az Index szerint a miniszter egy budapesti konferencián az intézményi bérlakás-szektort nevezte a rendszer fő pillérének, és több törvényi és tervezési változást ismertetett.",
+      "p": [
+        "Az Index csütörtöki cikke szerint Vitézy Dávid a „Build to Live Hungary – Új irányok a lakhatásban” című budapesti konferencián azt mondta, hogy 2027 első negyedévéig elkészülhet a megfizethető bérlakások teljes jogi kerete, és addig a piaci szereplőktől is javaslatokat várnak. A miniszter szerint az intézményi bérlakás-szektor lesz a rendszer fő pillére, mert Magyarországon a modern lakhatási rendszer alapjai még hiányoznak.",
+        "Vitézy állítása szerint a lakásárak az elmúlt két évtizedben legalább kétszer olyan gyorsan emelkedtek, mint a reálbérek. A kedvezményes jelzáloghitel-programokat a fiatalokra, a családalapítás előtt állókra és az első munkahelyüket kezdőkre irányítanák át, az új lakások 5 százalékos áfáját pedig véglegessé tennék. A lakástakarék-rendszer újraindításáról szóló javaslat szerdán került a parlament elé. Az Otthon Start építési szabályainál a javaslat könnyítene a „kiemelt státuszon” az olyan projekteknél, amelyek legalább 200 diákférőhelyet vagy 100 lakást foglalnak magukban megfelelő közlekedési kapcsolattal.",
+        "A tervezési rendszerben „mesterterv”-koncepció jön, átalakítják az Országos Építészeti Tervtanácsot, a Wekerle Plusz program keretében pedig kötelező egyeztetést írnak elő az érintett önkormányzatokkal; Budapesten egyes projektekhez a Fővárosi Közfejlesztések Tanácsának egyetértése is kell. A miniszter szerint a fővárosban legalább öt rozsdaövezet van, amelyeken több tízezer lakás épülhet, köztük a Rákosrendező. A Wekerle Lakásépítési Programra az uniós helyreállítási alapból 550 millió euró jut, amiből szerinte nagyjából 3 milliárd euró értékű építkezés indulhat; a programot a Magyar Fejlesztési Bank kezeli.",
+        "Vitézy a hátteret is felvázolta: tavaly 12 ezer lakás épült, az Otthon Start-hitelek több mint 90 százaléka pedig használt lakás vásárlására ment. A konferencián azt mondta: „Majd kérjék számon ezt a mondatomat két év múlva.”"
+      ],
+      "cav": "A beszámoló az Index cikkén alapul; a konferencia felszólalását és a törvényjavaslatokat közvetlenül nem láttuk. Valamennyi adat (12 ezer lakás, 90 százalék, 550 millió euró, 3 milliárd euró, az árak és bérek aránya) a miniszter állítása, a cikk nem ellenőrizte őket. Nincs törvényszöveg, költségvetési fedezet vagy részletes időrend a 2027 első negyedévi kereten túl; a kedvezményezett csoportok pontos meghatározása is hiányzik. A Rákosrendezőről szóló megállapodást a cikk még tervezettként írja le.",
+      "op": "Az, hogy a kormány végre tudomásul veszi: a bérlakás-szektor hiánya a lakhatási válság egyik lényege, helyes irány. A bejelentések viszont még ígéretek, és a „két év múlva számon kérem” mondat éppen annyit ér, amennyit a következő negyedévek tényleges jogszabályai igazolnak.",
+      "src": [
+        [
+          "Index: Teljesen új lakhatási szabályozást készít elő a kormány, 2027-re állhat össze a rendszer",
+          "https://index.hu/gazdasag/2026/11/26/lakhatas-szabalyozas-kormany-vitezy-david-berlakas"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7255/72554877_3b1654077d5e958c6ef5c43bc73a5a56_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/gazdasag/2026/11/26/lakhatas-szabalyozas-kormany-vitezy-david-berlakas",
+      "cred": "Vitézy Dávid, 2026. október 1. – Fotó: Papajcsik Péter / Index (az Index borítókép-aláírása szerint; archív kép)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "beralku-alairas-minimalber-347-ezer-netto-nov-26",
+      "r": "Gazdaság",
+      "c": "Munkaerőpiac",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Aláírták a béralkut: jövőre 347 ezer forint a bruttó minimálbér, nettóban 17,2 százalékkal emelkedik",
+      "s": "A Portfolio szerint a kormány és a szociális partnerek csütörtökön szentesítették a VKF-megállapodást; a nettó emelés nagy részét az új adójóváírás adja.",
+      "p": [
+        "A Portfolio csütörtök délutáni cikke szerint Kármán András pénzügyminiszter és Kátai-Németh Vilmos szociális miniszter aláírta a munkáltatói és munkavállalói képviselőkkel a jövő évi minimálbérről és garantált bérminimumról szóló megállapodást, amelyet a Versenyszféra és a Kormány Állandó Konzultációs Fórumán (VKF) tárgyaltak le. A bruttó minimálbér 7,5 százalékkal, 347 ezer forintra nő (havi 24 200 forint többlet), a garantált bérminimum 6,1 százalékkal, 396 ezer forintra (havi 22 800 forint többlet). A felek a versenyszféra általános béremelési ajánlásában 5 százalékban állapodtak meg.",
+        "A nettó minimálbér a cikk szerint 214 662 forintról 251 575 forintra emelkedik, ez havi 36 913 forint, azaz 17,2 százalék. A garantált bérminimum nettója 248 178 forintról 281 220 forintra nő, havi 33 042 forinttal, 13,3 százalékkal. A bruttó emelésnél jóval nagyobb nettó növekedés oka az új adójóváírás, amelyet az Országgyűlés kedden, november 24-én fogadott el. A cikk szerint a minimálbér jövedelemadója ezzel 15 százalékról 9 százalékra csökken: a jóváírás a minimálbérig terjedő bruttó bér 6 százaléka, majd fokozatosan csökken, és a minimálbér kétszeresénél megszűnik.",
+        "Kármán András szerint „Magyarország eddigi legnagyobb minimálbér-emelésére került sor”."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely az írás idején még frissült; a megállapodás szövegét közvetlenül nem láttuk. A cikk nem nevezi meg az aláíró munkáltatói és munkavállalói szervezeteket, nem közöl kritikus álláspontot, és az állami vagy munkáltatói költségekről sem ad becslést. A bruttó emelés és az alapvető számok a november 19-i bejelentéssel egyeznek; az új elem az aláírás és a nettó számítás.",
+      "op": "A nettó 17 százalékos emelés valóban jelentős a legkisebb keresetűeknek, és az adójóváírás jó eszköz arra, hogy a munka megérje. Az viszont jogos kérdés, hogy a költségvetés hosszabb távon hogyan viseli a kieső bevételt, és mi lesz azokkal, akik a minimálbér kétszerese fölött már nem látnak semmit ebből.",
+      "src": [
+        [
+          "Portfolio: Aláírták a béralkut - Ennyivel nő jövőre a minimálbér",
+          "https://www.portfolio.hu/gazdasag/20261126/alairtak-a-beralkut-ennyivel-no-jovore-a-minimalber-879336"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/k/a/r/karman-004-873176.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/alairtak-a-beralkut-ennyivel-no-jovore-a-minimalber-879336",
+      "cred": "Címlapkép forrása: Portfolio (fotós és képaláírás nincs megadva)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "boysen-nyiregyhaza-uzem-leallitas-kornyezetvedelem-nov-26",
+      "r": "Közélet",
+      "c": "Környezet",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Azonnali hatállyal leállították a nyíregyházi ipari park akkumulátoripari üzemét: 17 engedélyi előírást szegtek meg",
+      "s": "Az MTI nyomán a Portfolio azt írja, hogy a megyei kormányhivatal a talajvízben és a levegőben is határérték feletti szennyezést mért, és 60 millió forint bírságot szabott ki.",
+      "p": [
+        "A Portfolio az MTI-re hivatkozva azt írja, hogy a Szabolcs-Szatmár-Bereg Megyei Kormányhivatal azonnali hatállyal felfüggesztette az ipari termelést a nyíregyházi ipari park egyik akkumulátoripari üzemében. A hivatal közleménye a céget nem nevezte meg, az MTI szerint a Boysen Battery Components Hungary Kft.-ről van szó, amely német tulajdonban lévő vállalat, elektromos autókhoz gyárt acéllemez-burkolatokat, és a cikk szerint a debreceni BMW-gyár beszállítója is. Az üzem 2025 óta működik.",
+        "A hivatal az elmúlt hónapokban ellenőrizte a gyárat, és az egységes környezethasználati engedély 17 pontjának megsértését állapította meg. A talajvízmintákban határérték feletti szennyezést mértek, főleg alumíniumot, benzolt, krómot és nikkelt, két légszennyező forrásnál pedig az illékony szerves vegyületek és a nitrogén-oxidok haladták meg a megengedett értéket. A közlemény szerint a szennyezés helyi jellegű volt, a város ivóvízbázisát nem érintette, a városi levegő minőségében sem okozott kedvezőtlen változást.",
+        "A hatóság 10 millió forint tűzvédelmi és 50 millió forint környezetvédelmi bírságot szabott ki. Emellett tényfeltáró vizsgálatot rendelt el, a szennyező folyamatok azonosítását és műszaki helyreállítást írt elő."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely az MTI-re hivatkozik; a kormányhivatal közleményét közvetlenül nem láttuk. A hivatal a céget nem nevezte meg, a nevet az MTI adja meg. A cikk nem közli a cég reakcióját, a felfüggesztés időtartamát, azt, hogy érinti-e a debreceni BMW-gyár ellátását, és azt sem, hogy a vállalat fellebbez-e. A kép illusztráció, nem a nyíregyházi üzemet mutatja.",
+      "op": "Egy új akkumulátoripari beruházásnál nem lehet mellékes, hogy az engedély 17 pontját megsértették, és a talajvízben benzolt és krómot találtak. A gyors hatósági lépés helyes, de az igazi kérdés az, hogy más ipari parkokban is ilyen következetesen ellenőriznek-e, vagy csak akkor, ha már baj van.",
+      "src": [
+        [
+          "Portfolio (MTI): Azonnal leállították az egyik magyarországi akkumulátoripari üzemet",
+          "https://www.portfolio.hu/gazdasag/20261126/azonnal-leallitottak-az-egyik-magyarorszagi-akkumulatoripari-uzemet-879428"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2284123015-akkumultorgyrts-akkumultor-akkumultoripar-automatizls-robot-gy-851730.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/azonnal-leallitottak-az-egyik-magyarorszagi-akkumulatoripari-uzemet-879428",
+      "cred": "Illusztráció – Getty Images (a Portfolio jelzése szerint; nem a nyíregyházi üzem)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "tkkm-huszonharom-intezmeny-atvilagitas-nemzeti-szinhaz-nov-26",
+      "r": "Kultúra",
+      "c": "Közpénz",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Huszonhárom kulturális intézményt és céget világít át a minisztérium, köztük a Nemzeti Színházat: a nagyobb kiadásokhoz addig engedély kell",
+      "s": "A Portfolio szerint az ellenőrzés 2022. január 1. és 2026. szeptember 1. közötti időszakot fed le, és a jogszerűség mellett a költések célszerűségét is vizsgálja.",
+      "p": [
+        "A Portfolio csütörtöki cikke szerint a Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium (TKKM) 23 intézményt és céget ellenőriz. A listán szerepel a Nemzeti Színház, a Magyar Nemzeti Múzeum Közgyűjteményi Központ és a Petőfi Kulturális Ügynökség, továbbá egyebek mellett az MNF, az Erkel Színház, a Thália Színház, a Hollóházi Hungarikum és a Concerto Akadémia.",
+        "Az ellenőrzés 2022. január 1. és 2026. szeptember 1. közötti időszakra terjed ki. A vizsgálat a vezetést, a működést, a személyi ügyeket, a szakmai feladatokat, a szabálytalanságokat és a kockázatokat érinti, és azt kérdezi, hogy a korábbi kiadások szolgálták-e az intézmények feladatait; a költések szükségességét és eredményességét is megnézik, nem csupán a jogszerűségüket.",
+        "Amíg az ellenőrzések tartanak, a rendes működésen túli nagyobb pénzügyi vállalásokhoz a minisztérium jóváhagyása szükséges; a tárca ezt azzal indokolja, hogy ne szülessenek az átvilágítást akadályozó döntések. A működés folytatódik. A cikk felidézi, hogy Tarr Zoltán már augusztusban bejelentette a Nemzeti Színház átvilágítását, Vidnyánszky Attila pedig együttműködést jelzett."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul; a minisztérium közleményét közvetlenül nem láttuk. A cikk nem közli az ellenőrzések határidejét, sem azt a pénzösszeget, amely fölött jóváhagyás szükséges. A cikk címkéi „Kulturális és Innovációs Minisztériumot” említenek, a szövege a TKKM-et; az eltérést nem magyarázza. A kép a Portfolio jelzése szerint mesterséges intelligenciával készült illusztráció.",
+      "op": "A közpénzből működő kulturális intézményeknél az átvilágítás jogos és kellő idő után szükséges is, ráadásul az, hogy a célszerűséget is vizsgálják, többet ígér a puszta jogi ellenőrzésnél. Fontos viszont, hogy a vizsgálat ne váljon a kulturális élet politikai tisztogatásának, és az eredményeket nyilvánosan, intézményenként közöljék.",
+      "src": [
+        [
+          "Portfolio: Átfogó ellenőrzést indított a kormány: huszonhárom intézményt világítanak át",
+          "https://www.portfolio.hu/gazdasag/20261126/atfogo-ellenorzest-inditott-a-kormany-huszonharom-intezmenyt-vilagitanak-at-879418"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/m/i/n/miniszterium-palyazat-kormany-kinevezes-ugyvezeto-kulturalis-igazgato-szinhaz-kultura-ti-866570.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/atfogo-ellenorzest-inditott-a-kormany-huszonharom-intezmenyt-vilagitanak-at-879418",
+      "cred": "Illusztráció – a címlapkép mesterséges intelligenciával készült (Portfolio jelzése szerint)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "karpatalja-adomanyok-celba-ertek-magyar-peter-nov-26",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Célba ért a Kárpátaljának küldött magyar adományok egy része: közel százmillió forintos gyógyszer- és műszerszállítmány érkezett kórházakba",
+      "s": "A HVG szerint Magyar Péter csütörtökön közölte, hogy a többi szállítmány, köztük energetikai berendezések és mobil menedékek is úton vannak.",
+      "p": [
+        "A HVG csütörtöki cikke szerint Magyar Péter miniszterelnök bejelentette, hogy a kárpátaljai kórházakba megérkeztek a magyar állam által finanszírozott orvosi műszerek, betegmegfigyelő monitorok és egy majdnem 100 millió forint értékű gyógyszerszállítmány. A kormányfő hozzátette, hogy a közlekedési és energetikai berendezések, valamint a mobil menedékek még úton vannak.",
+        "Magyar Péter kedden, november 24-én látogatott Kárpátaljára Volodimir Zelenszkij ukrán elnökkel: Ungváron koszorút helyeztek el a hősi halottak temetőjében, Beregszászon tárgyaltak, majd közös sajtótájékoztatót tartottak. A HVG szerint a magyar küldöttség egymilliárd forint értékű egészségügyi és energetikai felszerelést vitt. A kormány emellett egymilliárd forintos támogatásról döntött a kárpátaljai magyarság számára, hogy szülőföldjén maradhasson; a cikk nem írja le, mire fordítják az összeget.",
+        "A cikk szerint az eddigi kormányzati álláspont változatlan: Magyarország nem küld fegyvert, de humanitárius segélyt és békefenntartókat küldene Ukrajnába."
+      ],
+      "cav": "A beszámoló a HVG cikkén alapul; a miniszterelnök bejelentését közvetlenül nem láttuk. A szállítmány megérkezését a miniszterelnök közölte, független megerősítést a cikk nem közöl. Nem derül ki az egymilliárd forint pontos megoszlása, a szállítmányok pontos tartalma és az érkezés napja. Az utolsó bekezdés a HVG korábbi cikkére utal, amelyet nem ellenőriztünk.",
+      "op": "Egy háborús övezetben az egészségügyi segély nehezen vitatható, és az is jó, hogy a kormány a kárpátaljai magyarokra külön figyel. Annál fontosabb, hogy a támogatások felhasználásáról később is átlátható beszámoló szülessen, mert a bejelentések és a tényleges célba érés között gyakran nagy a távolság.",
+      "src": [
+        [
+          "HVG: Gyógyszerek, betegmegfigyelő monitorok: célba értek a Kárpátaljának küldött magyar adományok",
+          "https://hvg.hu/itthon/20261126_celba-ertek-a-karpataljanak-kuldott-magyar-adomanyok"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/44a1dc27-6e3c-40b4-8a6c-39e3b0c38f34.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261126_celba-ertek-a-karpataljanak-kuldott-magyar-adomanyok",
+      "cred": "Magyar Péter és Volodimir Zelenszkij az ungvári hősi temetőben, 2026. november 24-én – © HVG / Veres Viktor (a HVG aláírása szerint)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
+      "id": "magyar-peter-facebook-kovetok-lehagyta-orban-viktor-nov-26",
+      "r": "Belpolitika",
+      "c": "Közösségi média",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "t": "Magyar Péter a Facebookon is megelőzte Orbán Viktort: 193 követővel vezet",
+      "s": "A HVG a 444 nyomán azt írja, hogy a miniszterelnök követőinek száma csütörtök reggel meghaladta a hivatali elődjéét.",
+      "p": [
+        "A HVG csütörtöki cikke szerint Magyar Péter Facebook-követőinek száma csütörtök reggel meghaladta Orbán Viktorét, így a miniszterelnök lett a legtöbb követővel rendelkező magyar politikus a platformon. A HVG ezt a 444 megfigyelésére hivatkozva írja.",
+        "A 444 szerint kora délelőtt, nagyjából 9:45-kor Magyar Péternek 1 747 626, Orbán Viktornak 1 747 433 követője volt. A Facebook csak kerekített számokat mutat, szeptember óta mindkettőnél körülbelül 1,7 millió szerepelt, ezért a pontos különbség nem látszott; a pontos adatokat a livecounts.nl oldal adta. A cikk megjelenése után a különbség nőtt: Magyar Péter követőinek száma 1748 ezer körül volt, Orbán Viktoré néhánnyal csökkent, így a különbség közel hatszázra emelkedett."
+      ],
+      "cav": "A beszámoló a HVG rövid cikkén alapul, amely a 444 megfigyelésére hivatkozik; a 444 cikkét és a livecounts.nl adatait közvetlenül nem láttuk. A cikk nem közli a 9:45 időzónáját, nem tisztázza, hogy a harmadik fél oldal számai megegyeznek-e a Facebook belső adataival, és nem magyarázza az Orbán-követők kismértékű csökkenését. A követőszám nem mutat politikai támogatottságot.",
+      "op": "Valódi súlya nincs annak, hogy ki hány Facebook-követőt gyűjt, hiszen a követő nem szavazó. Annyit viszont elárul, hogy az online térben is átrendeződött a közéleti figyelem, és hogy a Fidesz egykor fölényes közösségimédia-uralmának vége.",
+      "src": [
+        [
+          "HVG: Magyar Péter a Facebookon is lehagyta Orbán Viktort",
+          "https://hvg.hu/itthon/20261126_magyar-peter-orban-viktor-facebook-kovetok"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/681d4448-e3fc-4192-883a-bbe9c492c425.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261126_magyar-peter-orban-viktor-facebook-kovetok",
+      "cred": "Magyar Péter és Orbán Viktor – © HVG (a HVG aláírása szerint; fotós nincs megnevezve)",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true
+    },
+    {
       "id": "nmhh-mediatanacs-m1-tenyek-frizbi-hajdu-peter-nov-26",
       "r": "Közélet",
       "c": "Média",
