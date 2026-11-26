@@ -1,6 +1,361 @@
 {
   "items": [
     {
+      "id": "nmhh-mediatanacs-m1-tenyek-frizbi-hajdu-peter-nov-26",
+      "r": "Közélet",
+      "c": "Média",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T14:31:55+01:00",
+      "ai_edited": true,
+      "t": "Megbüntette az NMHH a közmédiát és a TV2 Tények adását, eljárás indult a Frizbi Hajdú Péterrel miatt, Gryllus Dorka RTL-es reklámja viszont nem sértett jogot",
+      "s": "A 444 szerint a Médiatanács kedden négy ügyben döntött: két szabálysértést állapított meg, egy YouTube-műsor ellen eljárást indított, egy RTL-es kampányt pedig nem talált jogsértőnek.",
+      "p": [
+        "A 444 csütörtöki beszámolója szerint az NMHH Médiatanácsa keddi ülésén elvi jelentőségűnek nevezett döntéseket hozott. A hatóság négy ügyben határozott: két műsorszolgáltatónál jogsértést állapított meg, egy YouTube-csatorna műsorával kapcsolatban eljárást indított, egy másik ügyben pedig nem talált jogsértést.",
+        "Az M1 Híradóval kapcsolatban a testület megállapította, hogy 2025 márciusában három napon át tizenkétszer fűztek saját véleményt a politikai hírekhez a bemondók: a Tisza politikusait sértegetőnek, fenyegetőnek, az újságírókat uszítónak vagy elfogadhatatlan stílusúnak nevezték, illetve ukránbarát politika folytatásával vádolták. A közmédiát működtető társaságnak közleményt kell közzétennie a jogelődje jogsértéséről, amely már akkor is sértette a hatályos szabályokat.",
+        "A TV2 Tények a Mokka műsorában 2025. március 31-én sugárzott, „Magyar Péter Ukrajna mellett kampányol” című összeállítása a lap szerint megsértette a kiegyensúlyozott tájékoztatás követelményét: a Tisza Nemzet Hangja kezdeményezését uniós csatlakozási aláírásgyűjtésként mutatta be, és szembeállította a kormány kezdeményezésével, noha mindkettőnél igennel vagy nemmel lehetett válaszolni. A TV2-nek öt napon belül közleményt kell közölnie.",
+        "A „Frizbi Hajdú Péterrel” szeptember 29-i adásával kapcsolatban a Médiatanács csak eljárást indított, jogsértést még nem állapított meg. A Frizbi TV YouTube-csatornáján a műsorvezető egy ismert borászt faggatott, akit kiskorú sérelmére elkövetett szexuális bűncselekménnyel vádolnak. A hatóság szerint a beszélgetés egyoldalúan a vádlott szempontjából mutatta be az ügyet, áldozathibáztató lehetett, és sérthette az áldozatok méltóságát. A Médiatanács közölte: az igény-szerinti médiaszolgáltatásnak minősülő YouTube-csatornákra is vonatkoznak a médiaszabályok, ha magyar joghatóság alá esnek.",
+        "Az RTL Reggeli 2026. október 12-i adásában sugárzott, Gryllus Dorkához kötődő menopauzakampányt a Médiatanács nem találta jogsértőnek, ezért eljárást sem indított. A testület hozzátette, hogy a törvényesség nem jelenti a médiaetikai megfelelést: egy tartalom lehet jogszerű és szakmailag hibás vagy etikailag elfogadhatatlan is. A 444 megjegyzi, hogy a TV2 azóta törölte a Tények-összeállítást a honlapjáról és az X-oldaláról.",
+        "A Médiatanács a gyermekvédelmi törvény és a médiatörvény módosítása miatt felülvizsgálta a korhatár-besorolási ajánlását is: kikerültek a nemi identitásra, a nemváltásra és a homoszexualitás ábrázolására vonatkozó részek, helyettük a szexuális erőszak, a szexuális kizsákmányolás, a szexuális manipuláció és az ezek célját szolgáló kapcsolatkeresés ábrázolásának és népszerűsítésének tilalma került be. A testület a teljesebb felülvizsgálatot későbbre tervezi."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul; a Médiatanács határozatait közvetlenül nem láttuk. A hatóság döntései az összefoglaló szerint 2025-ös adásokra vonatkoznak, amelyeket a korábbi testület idején sugároztak. A Frizbi-ügyben csak eljárás indult, jogsértést nem állapítottak meg. A borászt érintő büntetőügyben az ártatlanság vélelme érvényes. A TV2 vagy a közmédia reakcióját a cikk nem közli.",
+      "op": "Az, hogy a közmédia bemondói tucatszor tettek a hírekhez saját, sértő jelzőket, nem értelmezés kérdése, hanem a szakma alapja: a hírműsor nem pártgyűlés. Ugyanakkor a hatóságnak a YouTube-műsoroknál különösen vigyáznia kell, hogy a méltányos védelem és a sajtószabadság között jó helyen húzza meg a határt, az eljárás kimenetele ezért fontosabb lesz, mint a bejelentés.",
+      "src": [
+        [
+          "444: Megbüntette az NMHH az ukránozó Tényeket és az áldozathibáztató Hajdú Pétert, Gryllus Dorka átverését viszont nem",
+          "https://444.hu/2026/11/26/megbuntette-az-nmhh-az-ukranozo-tenyeket-es-az-aldozathibaztato-hajdu-petert-gryllus-dorka-atvereset-viszont-nem"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/83Xonsj84MHQchPos-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/megbuntette-az-nmhh-az-ukranozo-tenyeket-es-az-aldozathibaztato-hajdu-petert-gryllus-dorka-atvereset-viszont-nem",
+      "cred": "Fotó: Németh Dániel / 444 (a 444 aláírása szerint)"
+    },
+    {
+      "id": "nav-vagyonosodasi-eljaras-torveny-hatalyba-lepett-nov-26",
+      "r": "Belpolitika",
+      "c": "Vagyonosodás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T10:59:08+01:00",
+      "ai_edited": true,
+      "t": "Hatályba lépett a vagyonosodási eljárások törvénye: a NAV 30 napon belül elkezdi a politikusok kockázatelemzését, az első eredmények februárban jönnek",
+      "s": "A 444 az MTI nyomán azt írja, hogy a NAV a képviselők, miniszterek, államtitkárok és hozzátartozóik vagyonosodását vizsgálja; az 5 millió forintos adóhiányt mutató ellenőrzések eredménye nyilvános listára kerül.",
+      "p": [
+        "A 444 az MTI alapján azt írja, hogy a Nemzeti Adó- és Vámhivatal csütörtökön, a vagyonosodási eljárásokról szóló törvény hatálybalépésének napján közölte: felkészült az új eljárásokra. A hivatal az érintett közjogi tisztségviselők és hozzátartozóik egyedi kockázatelemzését a törvény szerint 30 napon belül megkezdi. Az elemzés azt vizsgálja, fennáll-e adófizetési kötelezettség elmulasztásának vagy bűncselekménynek a kockázata.",
+        "Az eljárás hatálya alá tartoznak az országgyűlési és európai parlamenti képviselők, a miniszterelnök, a miniszterek, az államtitkárok, a közigazgatási államtitkárok, a kormány- és miniszteri biztosok, valamint a hozzátartozóik. A NAV a hatóságoknál meglévő adatokat, a vagyonnyilatkozatot, valamint a tranzakciószintű banki és egyéb pénzügyi adatokat használja fel. Az elemzés alapján dönt arról, hogy adóellenőrzés indokolt-e, bűncselekmény gyanúja esetén pedig szigorúbb lépéseket tesz.",
+        "Az ütemezés szerint elsőként azoknak a tisztségviselőknek az elemzése indul, akiknek a megbízatása az elmúlt öt évben megszűnt. A hivatalban lévőknél az elemzés a jogviszony második évének utolsó napjától számított 30 napon belül kezdődik. Egy elemzés 60 napig tart.",
+        "A NAV havonta közzéteszi az eredményeket a honlapján: az elemzések, az ellenőrzések és a feljelentések számát, valamint a bűncselekmények megnevezését. Az első közzététel február 10-én lesz. Aki ellen az ellenőrzés legalább 5 millió forintos adóhiányt állapít meg, annak neve nyilvános listára kerül, és legalább 90 nap után, a teljes adótartozás rendezése esetén kerülhet le róla."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely az MTI-re hivatkozik; a törvényszöveget és a NAV közleményét közvetlenül nem láttuk. A törvény elfogadásáról korábbi cikkünk szólt (a köztársasági elnök vétója után újra megszavazták). A cikk nem közli, hány személyt érint összesen, és azt sem, hogy a hozzátartozók körét pontosan hogyan határozza meg a törvény.",
+      "op": "Aki közpénzből vagy közhatalmat gyakorolva él, annak el kell viselnie, hogy a vagyona fejlődését egy hatóság rendszeresen megvizsgálja, és az átláthatóság itt nem kegy, hanem a bizalom ára. Ugyanakkor a pénzügyi tranzakciók ilyen mélységű elemzése adatvédelmi kérdéseket vet fel, ezért legalább annyira fontos, hogy a NAV tényleg minden politikai oldalra egyformán alkalmazza a szabályt.",
+      "src": [
+        [
+          "444: A NAV már készen áll a politikusok vagyonosodási vizsgálataira",
+          "https://444.hu/2026/11/26/a-nav-mar-keszen-all-a-politikusok-vagyonosodasi-vizsgalataira"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8OrQMWaHuA1A17Ajws-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/a-nav-mar-keszen-all-a-politikusok-vagyonosodasi-vizsgalataira",
+      "cred": "Illusztráció – Fotó: Adobe Stock (a 444 aláírása szerint)"
+    },
+    {
+      "id": "orban-anita-ukrajna-ujjaepites-40-ceg-gyermekkoalicio-nov-26",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:12:00+01:00",
+      "ai_edited": true,
+      "t": "Orbán Anita: több mint negyven magyar cég venne részt Ukrajna újjáépítésében, Magyarország csatlakozik az elhurcolt gyerekeket hazatérését segítő koalícióhoz",
+      "s": "Az Index az MTI nyomán azt írja, hogy a külügyminiszter szerint a kárpátaljai tárgyalás kijelölte az irányt, jövő év első negyedévében kormányközi bizottság ülésezik.",
+      "p": [
+        "Az Index az MTI-re hivatkozva írja, hogy Orbán Anita külügyminiszter csütörtök reggel a Kossuth Rádió Felkelő című műsorában elmondta: több mint negyven magyar cég jelezte a kormánynak, hogy részt venne Ukrajna háború utáni újjáépítésében. A miniszterelnök keddi kárpátaljai látogatásán szóba került az újjáépítés, többek között vasúti és közúti projektek, valamint egy új határátkelő. A miniszter szerint sok ukrán ipari üzem költözött Kárpátaljára, és a kelet-magyarországi megyéknek is részt kell tudniuk venni a munkában.",
+        "A kedden egyeztetett irányt a következő lépések követik: 2027 első negyedévében kormányközi bizottság ülésezik, és a két ország mezőgazdasági, illetve gazdasági miniszterei is tárgyalnak. Energiaügyben Magyarország már vásárol nyersolajat Ukrajnától, a cégek szerint a mennyiség megduplázódhat, és Magyarország dízelt is ad el Ukrajnának, ami a MOL bevételét növeli.",
+        "Az uniós csatlakozásról a miniszter azt mondta, hogy a két fél fél év alatt lépésről lépésre haladt: Magyarország kérte, hogy Ukrajna gyorsítsa a nyelvtörvény alkalmazását, ezt Kijev megígérte, és Magyarország egy uniós csatlakozási klasztert megnyitott. Szerinte a nyelvtörvény érvényesítése feltétel az adott klaszterben, és ha Ukrajna nem teljesíti a magyar kisebbség jogait, nem haladhat tovább. A 45 milliárd eurós ukrajnai hitelprogramból Magyarország ki akar maradni, de a műsorvezető kérdésére megerősítette, hogy nem akadályozza a folyamatot.",
+        "A kárpátaljai találkozóra sem hivatalos, sem nem hivatalos kremli reakció nem érkezett, az orosz diplomáciai kapcsolatok pedig folytatódnak. Moszkva tükörlépését a tíz orosz diplomata kiutasítására a miniszter „teljesen normálisnak” nevezte. Orbán Anita csütörtökön Facebookon azt is bejelentette, hogy Magyarország csatlakozik az Elhurcolt Ukrán Gyermekek Hazatérését Segítő Nemzetközi Koalícióhoz. Az Index az Európai Parlament 2026. november 12-i határozatára hivatkozva idézi, hogy 2026 szeptemberéig 20 651 megerősített esetben vittek vagy deportáltak ukrán gyermeket Oroszországba, az orosz megszállt területeken becslés szerint 1,6 millió ukrán gyerek él, október 28-ig pedig 2752 gyereket küldtek vissza a családjához."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az MTI-re, Orbán Anita Facebook-bejegyzésére és az EP határozatára hivatkozik; ezeket közvetlenül nem láttuk. A „negyven cég” a miniszter állítása, a cégek neve és a tervezett projektek értéke nem ismert. Az olajvásárlás duplázódásáról a cikk csak cégekre hivatkozva ír. A klaszter pontos megnevezését a cikk nem közli.",
+      "op": "Jó, hogy a magyar külpolitika újra tárgyal Kijevvel, és a gyerekek hazatérését segítő koalíció az a pont, ahol nehéz bármilyen politikai oldalról vitatkozni. A gazdasági ígéretek viszont addig csak szándéknyilatkozatok, amíg nem derül ki, mely cégek, mekkora szerződésekkel és mekkora közpénzkockázattal vágnának bele.",
+      "src": [
+        [
+          "Index: Már több mint negyven magyar cég jelezte, hogy részt venne Ukrajna újjáépítésében",
+          "https://index.hu/belfold/2026/11/26/orban-anita-ukrajna-magyarorszag-ujjaepites-elhurcolt-gyerekek/"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7271/72711/727117/72711779_424fd8d0058dea33430cd0b9813a9059_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/orban-anita-ukrajna-magyarorszag-ujjaepites-elhurcolt-gyerekek/",
+      "cred": "Orbán Anita külügyminiszter az 1956-os forradalom és az ENSZ című konferencián az Országházban, 2026. november 26. – Fotó: Purger Tamás / MTI (az Index borítókép-aláírása szerint)"
+    },
+    {
+      "id": "knbsz-27-milliard-tobblet-kibervedelem-2027-koltsegvetes-nov-26",
+      "r": "Belpolitika",
+      "c": "Nemzetbiztonság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T06:35:00+01:00",
+      "ai_edited": true,
+      "t": "Huszonhét milliárddal több pénzt kapna a katonai titkosszolgálat 2027-ben, a kibervédelmet fejlesztenék",
+      "s": "Az Index szerint a költségvetési tervezet a KNBSZ keretét 50-ről 77 milliárd forintra emelné, a pénz elsősorban az orosz hibrid támadások elleni kibervédelemre mehet.",
+      "p": [
+        "Az Index csütörtöki cikke szerint a 2027-es költségvetési tervezet a Katonai Nemzetbiztonsági Szolgálatnak (KNBSZ) 27 milliárd forinttal több pénzt adna, mint 2026-ban: a keret 50 milliárdról 77 milliárd forintra nőne. A lap a Népszabadság szerdai, nszo.hu-n megjelent beszámolójára hivatkozik, amely „orosz hatásként” írja le a növekedést.",
+        "A névtelen források szerint a pénz a szolgálat elektronikus műszaki felderítő eszközeinek bővítésére és az orosz hibrid műveletek, köztük a felgyorsult kibertámadások elleni védelemre megy. A cikk visszatekint: a korábbi kormányzat 2014-től leépítette a kibervédelmet, 2015-ben megszüntették a Kiberbiztonsági Központot, amelyet Európa egyik legjobbjaként említenek, a megmaradt kapacitások pedig a Nemzetbiztonsági Szakszolgálat alá, a Nemzeti Kiberbiztonsági Intézetbe kerültek.",
+        "A képességeket most újjáépítik. Nem megerősített információ szerint a szétszabdalt kibervédelmi feladatokat később önálló intézménybe vonhatják össze. Az Alkotmányvédelmi Hivatal (AH) feladatai között évek óta először külön szerepel a kibervédelem: 2027-ben technológiai, informatikai és elemzői kapacitását fejlesztené, hogy felismerje a technológiával támogatott befolyásolási műveleteket és az információs manipulációt, amelyek a források szerint elsősorban orosz dezinformációs és befolyásoló kampányokat jelentenek."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely a Népszabadság névtelen forrásaira hivatkozik; a költségvetési tervezet szövegét és hivatalos kormányzati közleményt nem láttunk. Az 50 és 77 milliárd forintos számokat nem tudtuk a tervezetből ellenőrizni. Az önálló kiberintézményről szóló információ nem megerősített. A cikk nem közöl kormányzati reakciót.",
+      "op": "Egy olyan országban, amely évekig leépítette a kibervédelmét, a pótlás indokolt, és az sem baj, ha ezt végre a hibrid fenyegetések komolyan vételéről szóló nyílt vita kíséri. A nagyságrend viszont kontrollt igényel: a titkosszolgálati keret növelése akkor ér valamit, ha a parlamenti ellenőrzés is vele együtt erősödik.",
+      "src": [
+        [
+          "Index: Huszonhét milliárddal több pénzt kap a katonai titkosszolgálat, a kibervédelmet fejlesztenék",
+          "https://index.hu/belfold/2026/11/26/katonai-nemzetbiztonsagi-szolgalat-koltsegvetes-oroszorszag-kibertamadas"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7270/72708/727081/72708171_5356639_909a918ad143b487c8a5b07771d20c02_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/katonai-nemzetbiztonsagi-szolgalat-koltsegvetes-oroszorszag-kibertamadas",
+      "cred": "Index borítókép; képaláírás és fotós nincs megadva az oldalon"
+    },
+    {
+      "id": "ceta-civil-szervezetek-ne-fogadja-el-parlament-nov-26",
+      "r": "Gazdaság",
+      "c": "Kereskedelem",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:38:00+01:00",
+      "ai_edited": true,
+      "t": "Civil szervezetek kérik, hogy a parlament ne ratifikálja a CETA-t: szerintük a külföldi befektetők külön vitarendezést kapnának, és a GMO-mentesség is veszélybe kerülhet",
+      "s": "Az Index szerint a Greenpeace, a Magyar Természetvédők Szövetsége és a Magyar Biokultúra Szövetség közös levelet írt a Külügyi Bizottságnak; a törvényjavaslat vitája pénteken kezdődik.",
+      "p": [
+        "Az Index csütörtöki cikke szerint a Greenpeace Magyarország, a Magyar Természetvédők Szövetsége és a Magyar Biokultúra Szövetség közös levélben kérte az Országgyűlés Külügyi Bizottságát, hogy ne támogassa az EU–Kanada CETA-megállapodás jóváhagyását. A törvényjavaslat parlamenti vitája pénteken, november 27-én kezdődik.",
+        "A szervezetek szerint a megállapodás külön vitarendezési eljárást adna a külföldi befektetőknek, és veszélyeztethetné Magyarország GMO-mentes státuszát és a környezetvédelmet. Emlékeztetnek egy tízéves országgyűlési határozatra, amely szerint a parlament nem támogathat olyan kereskedelmi megállapodást, amely a környezet- vagy egészségvédelmet, az élelmiszer-biztonságot veszélyezteti, vagy nem megfelelő a vitarendezése; most az a kérdés, hogy ezek a feltételek teljesülnek-e.",
+        "A CETA szabályainak többsége 2017 óta alkalmazandó, a külön befektetői bírósági rendszer azonban még nem működik. Ha a megállapodás teljesen hatályba lép, a kanadai befektetők a magyar bíróságoktól független nemzetközi fórumon követelhetnének kártérítést Magyarországtól. A szervezetek attól tartanak, hogy a milliárdos követelések és a költséges perek miatt az állam vonakodna szigorítani a környezeti szabályokat. Példaként a verespataki ügyet említik: a kanadai Gabriel Resources körülbelül 6,5 milliárd dolláros kártérítést követelt Romániától egy tervezett aranybánya miatt, Románia pedig több mint tízéves vita után nyert.",
+        "Magyarországi példaként a kanadai CanCambria Energy magyar leányvállalatát hozzák fel, amelynek szénhidrogén-kutatási és -kitermelési koncessziója van Kiskunhalas környékén; szerintük a Homokhátság sérülékeny vízkészletei miatt fontos, hogy a környezeti döntéseket ne korlátozza a kártérítési perektől való félelem. Azt is kifogásolják, hogy az EU és Kanada az új szabályok előtt egyeztethet azok kereskedelmi hatásairól, ami szerintük nagyobb súlyt adhat az üzleti érdekeknek a GMO- és az új géntechnológiai szabályozásban."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely a három szervezet közös közleményére épül; a levelet és a törvényjavaslatot közvetlenül nem láttuk. A cikkben csak a civil szervezetek érvei szerepelnek, a kormány vagy a CETA támogatóinak álláspontját nem közli. A kártérítési kockázatok a szervezetek becslései, jogi értékelést a cikk nem tartalmaz.",
+      "op": "A civilek figyelmeztetése azért fontos, mert a befektetővédelmi vitarendezés valóban kényes pont: kérdés, hogy egy ország mennyire szabadon szigoríthat a környezetvédelmen. Ugyanakkor érdemes lenne a kereskedelmi előnyöket és a konkrét jogi garanciákat is nyíltan megvitatni, mert a vita csak így lehet többről szó, mint ijesztgetésről.",
+      "src": [
+        [
+          "Index: Súlyos veszélyre figyelmeztet több civil szervezet, azt kérik, hogy a parlament ne fogadja el ezt a megállapodást",
+          "https://index.hu/belfold/2026/11/26/ceta-megallapodas-kanada-europai-unio-greenpeace-magyar-termeszetvedok-szovetsege-magyar-biokultura-szovetseg-parlament"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7271/72711/727114/72711405_5c32616c191398c1da897bd2e814fc71_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/ceta-megallapodas-kanada-europai-unio-greenpeace-magyar-termeszetvedok-szovetsege-magyar-biokultura-szovetseg-parlament",
+      "cred": "Az Országgyűlés plenáris ülése 2026. november 24-én – Fotó: Németh Kata / Index (az Index borítókép-aláírása szerint; illusztráció)"
+    },
+    {
+      "id": "elte-kutatokozpontok-beremeles-2027-februar-hun-ren-nov-26",
+      "r": "Közélet",
+      "c": "Kutatás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T10:11:00+01:00",
+      "ai_edited": true,
+      "t": "Februárban kaphatnak béremelést az ELTE-hez került kutatóközpontok dolgozói, a HUN-REN átalakításáról csütörtökön kezdődött az általános vita",
+      "s": "Az Index az MTI nyomán azt írja, hogy Tanács Zoltán miniszter szerint a szükséges 3,87 milliárd forint rendelkezésre áll, de még adminisztratív lépések hiányoznak.",
+      "p": [
+        "Az Index csütörtöki cikke szerint a négy, az ELTE-hez kerülő kutatóközpont dolgozói a jövő év februárjában kaphatnak béremelést. Tanács Zoltán tudományos és technológiai miniszter a Kossuth Rádióban, az MTI szerint elmondta, hogy a szükséges 3,87 milliárd forint már rendelkezésre áll, de több adminisztratív lépést még le kell zárni. A minisztérium azon dolgozik, hogy a kifizetést előrehozza, jelenleg azonban a február a legvalószínűbb időpont.",
+        "A bérrendezés az egységes kutatóhálózat átalakításának része. Az Országgyűlés csütörtökön kezdte meg a HUN-REN kutatási hálózat átszervezéséről szóló törvényjavaslat általános vitáját. A kormány terve szerint a hálózat visszakerülne a Magyar Tudományos Akadémia alapítói jogkörébe, és „Magyar Tudományos Akadémia Kutatóhálózat” néven működne tovább; az ELTE-hez áthelyezett négy központ is visszakerülne.",
+        "Az Index két korábbi cikkre is utal: a november 17-i beszámolóra, amely szerint az Akadémiai Dolgozók Fóruma Tanács Zoltán lemondását követelte, és egy 2025. júniusi cikkre a HUN-REN–ELTE megállapodásról."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az MTI-s rádióinterjúra hivatkozik; a törvényjavaslatot és az interjú szövegét közvetlenül nem láttuk. A cikk nem közli, hány dolgozót érint a béremelés, és mekkora lesz az emelés mértéke. Az Index oldalának metaadata a megjelenés előtti módosítási időt mutatja, ennek oka nem ismert.",
+      "op": "A kutatók joggal várják, hogy a nagy átszervezések során ne ők fizessenek a hónapokig tartó bizonytalansággal: a februári dátum jobb a semminél, de egy ilyen költségvetési fedezet mellett a hosszú várakozás nehezen magyarázható. Az átalakításnak a bizalmat kellene helyreállítania az akadémiai közösségben, nem újabb vitákat nyitni.",
+      "src": [
+        [
+          "Index: Jövő februárban kaphatnak béremelést az ELTE-hez került kutatóközpontok dolgozói",
+          "https://index.hu/belfold/2026/11/26/elte-berrendezes-tanacs-zoltan-hun-ren/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7270/72709/727097/72709735_5356755_a6f040dc08e0164ecb667a533ec6f4b7_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/elte-berrendezes-tanacs-zoltan-hun-ren/",
+      "cred": "Index borítókép; képaláírás és fotós nincs megadva az oldalon"
+    },
+    {
+      "id": "nakama-partners-beszamolo-aston-martin-tartozas-nov-26",
+      "r": "Közélet",
+      "c": "Vállalatok",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T10:14:52+01:00",
+      "ai_edited": true,
+      "t": "Fél évet késett a beszámolójával Rogán-Szendrei Cecília reklámcége, a tartozások 35,6 millióról 256,6 millió forintra nőttek",
+      "s": "A HVG a Telex nyomán azt írja, hogy a Nakama & Partners bevétele 357 millió forint volt, az adózott eredmény 45,9 millióra csökkent, a cég pedig egy Aston Martint lízingelt.",
+      "p": [
+        "A HVG csütörtöki cikke szerint a Nakama & Partners, amelyet Rogán Antal volt feleségeként ismert Rogán-Szendrei Cecília és Sarka Kata tulajdonolt, majdnem fél évvel a május 31-i határidő után tette közzé a 2025-ös éves beszámolóját. A cikk szerint a számokat elsőként a Telex vette észre.",
+        "A beszámoló szerint a cég árbevétele 346 millióról 357 millió forintra nőtt, az adózott eredmény viszont 59,1 millióról 45,9 millió forintra csökkent. A tulajdonosok nem vették ki a nyereséget, hanem az eredménytartalékba tették. A kötelezettségek közben 35,6 millióról 256,6 millió forintra emelkedtek.",
+        "A HVG szerint a cég egy Aston Martin luxusterepjárót lízingelt, amelyet 2025 decemberében vettek forgalomba Magyarországon. A jármű 821 kilométer futásteljesítménnyel októberben 80 millió forintért szerepelt egy hirdetésben, amely a Telex cikkének megjelenése után elérhetetlenné vált. A cikk szerint 2025-ben Sarka Kata is tulajdonos volt, aki októberben eladta 49 százalékos részesedését."
+      ],
+      "cav": "A beszámoló a HVG rövid cikkén alapul, amely a Telex közlésére hivatkozik; a cégbeszámolót és a Telex cikkét közvetlenül nem láttuk. A kötelezettségek növekedésének okát a cikk nem magyarázza meg. Az Aston Martin lízingjének és a hirdetésnek a részleteit a cikk nem forrásolja dokumentummal. Rogán-Szendrei Cecília vagy a cég reakcióját nem közli. A kép archív, 2023-as, nem a céges ügyhöz kapcsolódik.",
+      "op": "Egy kis reklámcég beszámolója nem tűnne közüggyé, ha nem lenne a háttérben egy olyan politikai kör, amelynek tagjai évekig a közpénz körül mozogtak. A hat számjegyű kötelezettség-ugrás és a luxusautó-lízing kérdéseket vet fel, de válaszra a cég dokumentumai, nem találgatások adnak alapot.",
+      "src": [
+        [
+          "HVG: Fél év csúszással közölte eredményeit Rogán-Szendrei Cecília reklámcége, brutálisan megugró tartozás derül ki az adatokból",
+          "https://hvg.hu/elet/20261126_rogan-szendrei-cecilia-reklamceg-nakama-beszamolo"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/fcfd7472-c325-4870-b1e9-922cc5c6caa8.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/elet/20261126_rogan-szendrei-cecilia-reklamceg-nakama-beszamolo",
+      "cred": "Archív kép: Rogán-Szendrei Cecília és Sarka Kata a Miss World Hungary sajtótájékoztatóján, Budapesten, 2023. május 16-án – © MTI / Mónus Márton (a HVG aláírása szerint)"
+    },
+    {
+      "id": "miniszterelnokseg-4ig-szerzodesek-atvizsgalas-444-per-nov-25",
+      "r": "Belpolitika",
+      "c": "Közbeszerzés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T15:29:24+01:00",
+      "ai_edited": true,
+      "t": "A Miniszterelnökség szerint nincs adata a 4iG-szerződésekről, amelyeknek Magyar Péter tételes átvizsgálását ígérte",
+      "s": "A HVG szerint a 444 peres úton kérte ki, mely szerződéseket vizsgálják; a tárca a bűnüldözési érdekekre hivatkozik, a tárgyaláson pedig azt mondta, nem adatkezelő.",
+      "p": [
+        "A HVG szerdai cikke szerint a 444 megkérdezte a Miniszterelnökséget, mely 4iG-szerződéseket vizsgálják át, és mi a tárgyuk. A tárca a bűnmegelőzési és bűnüldözési érdekekre hivatkozva megtagadta a választ, a 444 pedig bírósághoz fordult. A tárgyaláson a Miniszterelnökség jogásza azt mondta, hogy a tárca nem adatkezelője az érintett szerződéseknek. A HVG szerint a 444 ezt úgy értelmezi, hogy a minisztérium még a szerződések listáját sem tudja megadni.",
+        "Magyar Péter miniszterelnök augusztus közepén jelentette be, hogy a korábbi kormány valamennyi 4iG-vel kötött szerződését átvizsgálják, és néhány különösen gyanúsnak tartott szerződést meg is nevezett; erről augusztusban kormányhatározat is született. A HVG augusztus 17-i cikke szerint az átvilágítás a magyar állam és a 4iG, illetve a közvetlenül vagy közvetve a NER tulajdonában lévő cégek tulajdonosi, pénzügyi, gazdasági és egyéb szerződéses kapcsolataira terjed ki.",
+        "A HVG egy kapcsolódó ajánlóban megemlíti, hogy a Honvédelmi Minisztérium 2026 márciusában 1 311 050 000 000 forint értékű keretszerződést írt alá a 4iG űrtechnológiai egységével, amely a beszámoló szerint 2035-ig szól, és áprilisban lépett hatályba; ezt a cikk nem részletezi."
+      ],
+      "cav": "A beszámoló a HVG cikkén alapul, amely a 444 pereire hivatkozik; a bírósági iratokat és a 444 cikkeit közvetlenül nem láttuk. A cikk nem közli, hogy a Miniszterelnökség vagy más szerv végez-e tényleges vizsgálatot. A kormányhatározatot és a keretszerződést a HVG ajánlójából ismerjük, ezeket nem ellenőriztük. A kép archív, nem az ügyhöz kapcsolódó eseményen készült.",
+      "op": "Ha egy kormány nyilvánosan ígér tételes átvilágítást, aztán a bíróságon azt mondja, hogy nincs adata, az nem a transzparencia nyelve. Lehet, hogy jogi okok állnak a háttérben, de a szerződések listáját nem kellene egy peres eljárásban kicsikarni.",
+      "src": [
+        [
+          "HVG: A Miniszterelnökség állítja, semmit sem tud a 4iG-szerződésekről, amelyeknek Magyar Péter a tételes átvizsgálását ígérte",
+          "https://hvg.hu/itthon/20261125_miniszterelnokseg-semmi-adat-szerzodes-magyar-peter-teteles-atvizsgalas-igeret"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/f8336d6a-eaaf-4ff0-9c68-b398356a56a9.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261125_miniszterelnokseg-semmi-adat-szerzodes-magyar-peter-teteles-atvizsgalas-igeret",
+      "cred": "Archív kép: Ruff Bálint, a Miniszterelnökséget vezető miniszter – © MTI / Koszticsák Szilárd (a HVG aláírása szerint)"
+    },
+    {
+      "id": "varga-mihaly-ekb-altalanos-tanacs-penzugyi-stabilitas-nov-26",
+      "r": "Gazdaság",
+      "c": "MNB",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:28:00+01:00",
+      "ai_edited": true,
+      "t": "Varga Mihály Frankfurtban: óvatos, adatvezérelt monetáris politikára van szükség, az októberi infláció 2 százalék volt",
+      "s": "A Portfolio szerint az MNB elnöke az EKB Általános Tanácsának ülésén a pénzügyi stabilitás fontosságát hangsúlyozta, és a magyar bankrendszer erősségét emelte ki.",
+      "p": [
+        "A Portfolio csütörtöki cikke szerint Varga Mihály, az MNB elnöke Frankfurtban, az Európai Központi Bank Általános Tanácsának ülésén beszélt. A jegybank közleménye alapján azt hangsúlyozta, hogy bizonytalan nemzetközi környezetben pénzügyi stabilitásra és óvatos, adatvezérelt monetáris politikára van szükség, és az európai jegybankok együttműködése volatilis globális helyzetben egyre nagyobb súlyt kap.",
+        "A jegybankelnök szerint az MNB célja a tartós árstabilitás és a biztonságosan működő pénzügyi rendszer. A magyar éves infláció októberben 2 százalék volt, a lakossági inflációs várakozások mérsékeltek maradtak. A geopolitikai feszültségek és az energiaár-ingadozások szerinte továbbra is kockázatot jelentenek. A Monetáris Tanács novemberben nem változtatott az 5,5 százalékos alapkamaton; Varga szerint a pozitív reálkamat és a devizapiaci stabilitás együtt segíti az inflációs várakozások lehorgonyzását.",
+        "A bankrendszerről azt mondta, hogy bőséges a likviditás, magas a jövedelmezőség és erős a tőkeellátottság: a tőkemegfelelési mutató júniusban 20,9 százalékot ért el, a nemteljesítő hitelek aránya alacsony maradt. Ez szerinte a háztartási és vállalati hitelezés fenntarthatóságát támogatja."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely az MNB közleményére épül; a közleményt közvetlenül nem láttuk. A cikk szerint előkészítésében mesterséges intelligenciát is használtak, a végleges szöveget újságíró szerkesztette. Az inflációs adatot (2 százalék) a cikk idézi, forrását nem részletezi. A kamatcsökkentés időzítéséről a beszéd nem szól.",
+      "op": "A jegybankelnök szavai szokásos, óvatos nyelven szólnak: a kamatot nem fogja siettetni, és ez kiszámíthatóságot ad. A kérdés inkább az, hogy a pozitív reálkamat, amely a forintnak jó, mennyibe kerül a hitelfelvevő vállalkozásoknak és a lakosságnak.",
+      "src": [
+        [
+          "Portfolio: Varga Mihály elmondta, mire van szükség a mostani gazdasági helyzetben",
+          "https://www.portfolio.hu/gazdasag/20261126/varga-mihaly-elmondta-mire-van-szukseg-a-mostani-gazdasagi-helyzetben-879332"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/v/a/r/varga-mihaly-mnb-elnok-jegybankelnok-742039.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/varga-mihaly-elmondta-mire-van-szukseg-a-mostani-gazdasagi-helyzetben-879332",
+      "cred": "Címlapkép forrása: Portfolio (fotós és képaláírás nincs megadva; archív kép)"
+    },
+    {
+      "id": "f16-karbantartas-csomag-622-millio-dollar-ukrajna-nov-26",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:00:00+01:00",
+      "ai_edited": true,
+      "t": "Az amerikai külügyminisztérium jóváhagyta a 621,9 millió dolláros F–16-os karbantartási csomagot Ukrajnának, a számlát európai országok állják",
+      "s": "A Portfolio az Ukrinform nyomán azt írja, hogy a program a JUMPSTART nevű többnemzeti keretből fut, Belgium, Dánia, Hollandia és Norvégia finanszírozza.",
+      "p": [
+        "A Portfolio csütörtöki cikke szerint az amerikai külügyminisztérium jóváhagyta egy lehetséges eladást, amely az ukrán F–16-os vadászgépek üzemeltetéséhez és karbantartásához szükséges felszerelést és szolgáltatásokat foglalja magában. A tervezett csomag becsült összértéke 621,9 millió dollár, és a cikk szerint az ukrán légvédelem erősítését szolgálja.",
+        "Az ügylet a külföldi katonai értékesítések (FMS) keretében zajlik, de az amerikai költségvetés nem fizet: Ukrajna a többnemzeti JUMPSTART program révén rendezi a számlát, amelyet Belgium, Dánia, Hollandia és Norvégia finanszíroz. Washington indoklása szerint az eladás jelentősen növeli Ukrajna képességét a jelenlegi és jövőbeli fenyegetések elhárítására, és nem érinti az amerikai készenlétet. A fővállalkozókat nyílt versenyben, a szövetségi beszerzési szabályok szerint választják ki, és nem kell amerikai tisztviselőket vagy vállalati munkatársakat Ukrajnába küldeni.",
+        "A cikk Volodimir Zelenszkijre is hivatkozik: az ukrán elnök korábban azt mondta, hogy év végéig újabb F–16-osok érkezhetnek Belgiumból, a gépeket már sugárhajtású „Sahed” drónok lelövésére is használják, és ehhez naponta 5–6 ezer 20 milliméteres lövedékre van szükség."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely az Ukrinform közlésére hivatkozik; az amerikai közleményt és az Ukrinform cikkét közvetlenül nem láttuk. A cikk szerint előkészítésében mesterséges intelligenciát is használtak, a szöveget újságíró szerkesztette. A jóváhagyás „lehetséges eladásra” vonatkozik, a szerződések még nem köttettek meg. A kép illusztráció, nem ukrán gépet ábrázol.",
+      "op": "Aki az ukrán légvédelemről beszél, annak érdemes azt is látnia, hogy a legtöbb teher az európai költségvetésekre hárul, miközben az amerikai ipar kapja a megrendelést. Ukrajnának a gépek karbantartása életfontosságú, de a háborús fegyverzetfinanszírozás kérdése az európai adófizetők számára is hosszabb távú politikai döntés.",
+      "src": [
+        [
+          "Portfolio: Több százmillió dolláros katonai csomag indul Ukrajnába: rábólintott Amerika, de a cechet más állja",
+          "https://www.portfolio.hu/global/20261126/tobb-szazmillio-dollaros-katonai-csomag-indul-ukrajnaba-rabolintott-amerika-de-a-cechet-mas-allja-879318"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/f/_/1/f-16-fighting-falcon-del-korea-605944.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/global/20261126/tobb-szazmillio-dollaros-katonai-csomag-indul-ukrajnaba-rabolintott-amerika-de-a-cechet-mas-allja-879318",
+      "cred": "Illusztráció: F–16-os vadászgép (a Portfolio jelzése szerint illusztráció, forrás: Getty Images; fotós nincs megadva)"
+    },
+    {
+      "id": "mlsz-feb-eto-bunteto-nb-iii-szektorbezaras-nov-26",
+      "r": "Sport",
+      "c": "NB I",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:17:00+01:00",
+      "ai_edited": true,
+      "t": "Az MLSZ fegyelmi bizottsága megbüntette az ETO-t a szurkolók miatt, több NB III-as klub szektorbezárást kapott",
+      "s": "A Csakfoci összefoglalója szerint a november 25-i FEB-ülésen a Nyíregyháza, a ZTE és a Videoton ellen szurkolói rasszizmus miatt eljárás indult.",
+      "p": [
+        "A Csakfoci csütörtöki összefoglalója az MLSZ Fegyelmi Bizottságának november 25-i döntéseit ismerteti. Az NB I-ben az ETO FC pénzbüntetést kapott az Újpest elleni mérkőzésen szurkolói sértő skandálás és pirotechnika miatt. Egy-egy mérkőzéses eltiltást kapott Vilius Armalus (MTK Budapest) és Wojciech Golla (Puskás Akadémia). Az NB II-ben Kiss Norbert (Gyirmót FC Győr) kapott egy meccses tiltást.",
+        "Az NB III-ban több klubot büntettek szurkolói rendbontás vagy rasszista megnyilvánulás miatt. A Gyulai Termál FC és a Dorogi Bányász FC sértő skandálás vagy rendzavarás miatt, a Haladás FC sértő skandálás miatt kapott pénzbüntetést. A PMFC rasszista és sértő szurkolói magatartás miatt büntetést kapott, az „A” szektort a következő hazai meccsén le kell zárnia, a korábban felfüggesztett szektorbezárást pedig végre kell hajtani. Az FC Sopron hasonló ok miatt pénzbüntetést kapott, a „G” szektor lezárását hat hónapra felfüggesztették. A Hódmezővásárhelyi FC az Újpest II. elleni mérkőzésen tanúsított rasszizmus miatt kapott büntetést, az ülőhelyes szektor lezárása hat hónapra felfüggesztve.",
+        "Játékosoknál három meccses eltiltást kapott Lizanets Milán (Tarpa) és Köcse Bence Ákos (BKV), kettőt Molnár Levente (BKV), Lakatos Martin Ruben (Sajóvölgye), Makhete Moustapha N Diaye (Újpest) és Suszter László Márk (Iváncsa), egyet Nyitrai Bence (Iváncsa). Csordás Tamás (Majos) sportszakember négy, Máté Győző (ETO) egy mérkőzésre kapott tiltást. Két sárga lap után automatikusan egy meccset kell kihagynia kilenc további személynek.",
+        "Eljárást indítottak a Nyíregyháza Spartacus FC, a ZTE FC és a Videoton FC Fehérvár ellen az utolsó forduló szurkolói rasszista és diszkriminatív megnyilvánulásai miatt, továbbá további 11 klub ellen más fegyelmi vétségek miatt."
+      ],
+      "cav": "A beszámoló a Csakfoci cikkén alapul; az MLSZ határozatait közvetlenül nem láttuk. A cikk az ETO pénzbüntetésének összegét nem adja meg. Az eljárások még nem döntések. A cikkben egy-egy játékos neve szerepel a hivatalos fegyelmi határozat nyomán.",
+      "op": "A szurkolói rasszizmus miatti szektorbezárások egyre kevésbé hatnak, ha a legtöbbet felfüggesztik. Az MLSZ-nek érdemes lenne következetesebben a tettesekre, nem csak a klubokra összpontosítania: ez volna a hatásos védelem.",
+      "src": [
+        [
+          "Csakfoci.hu: Az ETO fizethet, nagymúltú csapatokat büntetett végig az MLSZ",
+          "https://www.csakfoci.hu/magyar-foci/az-eto-fizethet-nagymultu-csapatokat-buntetett-vegig-az-mlsz"
+        ]
+      ],
+      "img": "https://www.csakfoci.hu/uploads/2026/11/923919882_2643873232751297_2493741511385970665_n-scaled-e1795681303744.jpg",
+      "imgs": "Csakfoci.hu",
+      "imgl": "https://www.csakfoci.hu/magyar-foci/az-eto-fizethet-nagymultu-csapatokat-buntetett-vegig-az-mlsz",
+      "cred": "Fotó: ETO FC / Facebook (a Csakfoci jelzése szerint)"
+    },
+    {
+      "id": "mezokovesd-vonatbaleset-kritikus-allapot-mav-5-millio-nov-26",
+      "r": "Közélet",
+      "c": "Baleset",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T15:05:00+01:00",
+      "ai_edited": true,
+      "t": "Továbbra is kritikus a mezőkövesdi vonatbaleset sérültje, a MÁV ötmilliós gyorssegélyt ad a családnak, Vitézy szerint a régi kocsikból hiányzik az ajtózáró-rendszer",
+      "s": "A 444 és a Pénzcentrum szerint a fiatal nő életveszélyes állapotban van a megyei kórházban; a Közlekedésbiztonsági Szervezet és a rendőrség vizsgálja az esetet.",
+      "p": [
+        "A 444 csütörtök délelőtti beszámolója szerint a kedd esti mezőkövesdi vonatbaleset sérültje életveszélyes, kritikus állapotban van, a Borsod-Abaúj-Zemplén Vármegyei Kórház központi aneszteziológiai és intenzív osztályán ápolják. Az MTI-nek a kórház azt mondta, hogy minden szakmai és tárgyi feltétel adott a gyógyításhoz. A lap szerint egy InterCity ajtaja ráfogott a lány táskájára, és az induló szerelvény magával vonszolta; a Pénzcentrum ezzel szemben úgy írja, hogy leszállás közben csukódott rá az ajtó.",
+        "Vitézy Dávid közlekedési és beruházási miniszter szerdán este a Facebookon azt írta, hogy az InterCity szerelvényében volt egy olyan régebbi személykocsi, amelyből hiányzik az a biztonsági rendszer, amely megakadályozza az indulást nyitott vagy nem megfelelően zárt ajtó mellett. A Pénzcentrum szerint a miniszter telefonon beszélt a sérült apjával, és bejelentette, hogy a MÁV-csoport ötmillió forint gyorssegélyt ad a családnak; kifejtette, hogy egy modern szerelvény nem engedte volna el ezt a balesetet. Hegyi Zsolt, a MÁV-csoport vezérigazgatója szerdán a Facebookon fejezte ki együttérzését.",
+        "A 444 az Origóra és az MTI-re hivatkozva idézi a lány édesanyját, aki szerint a lány bordái, csípője és koponyája súlyosan megsérült, a lábait amputálni kellett, és célzott véradásra van szükség; a kórház ezt nem erősítette meg a cikk szerint. A Pénzcentrum szerint a család a MÁV dolgozóitól is segítséget kért, az apa pedig véradásra szólított fel. A rendőrség, a Közlekedésbiztonsági Szervezet és a MÁV vasútbiztonsági szakértői vizsgálják a baleset körülményeit."
+      ],
+      "cav": "A beszámoló a 444 és a Pénzcentrum cikkein alapul; a kórház és a MÁV közleményét közvetlenül nem láttuk. A balesetet leíró két forrás eltér: a 444 szerint a táskára záródott az ajtó, a Pénzcentrum szerint a nőre, leszállás közben. A sérülésekről szóló részletek az anya, illetve korábbi sajtóbeszámolók közlései, kórházi megerősítés nincs. A sérült életkorát a Pénzcentrum 20 évesnek írja. A boon.hu cikkei nem voltak elérhetők, abból nem dolgoztunk. A vizsgálat eredménye nem ismert. Az áldozat személyes adatait nem közöljük. Kép nincs, mert a források képe nem az eseményt ábrázolja.",
+      "op": "A baleset nem egyetlen ajtó hibája: ha egy modern vonat nem indulhat el nyitott ajtóval, akkor az, hogy 2026-ban is járnak olyan kocsik, amelyekben nincs ilyen védelem, rendszerszintű mulasztás. Az ötmilliós segély emberi gesztus, a valódi válasz viszont a flotta cseréje és a vizsgálat nyilvános eredménye lenne.",
+      "src": [
+        [
+          "444: Kritikus állapotban van a mezőkövesdi vonatbaleset sérültje",
+          "https://444.hu/2026/11/26/kritikus-allapotban-van-a-mezokovesdi-vonatbaleset-serultje"
+        ],
+        [
+          "Pénzcentrum: Bejelentették: 5 milliós gyorssegélyt ad a MÁV a mezőkövesdi vonatbalesetben megsérült fiatal nő családjának",
+          "https://www.penzcentrum.hu/utazas/20261126/bejelentettek-5-millios-gyorssegelyt-ad-a-mav-a-mezokovesdi-vonatbalesetben-megserult-fiatal-no-csaladjanak-1209725"
+        ]
+      ]
+    },
+    {
       "id": "trump-rutte-orosz-haboru-kiterjesztes-nato-nov-26",
       "r": "Külföld",
       "c": "Ukrajna–NATO",
