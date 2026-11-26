@@ -1,6 +1,163 @@
 {
   "items": [
     {
+      "id": "eu-csucs-koltsegvetes-ukrajna-hitel-merz-nov-26",
+      "r": "Külföld",
+      "c": "Európai Unió",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "ai_edited": true,
+      "t": "Brüsszelben kezdődik a kétnapos EU-csúcs: Merz összekötné az uniós költségvetést és az Ukrajnának szánt hitelt, Magyar Péter szerint a tervezet nem tárgyalási alap",
+      "s": "Az Index és az Infostart szerint a 2028–2034-es többéves keretről aligha lesz megállapodás, az Ukrajna-hitelről viszont akár péntekig is lehet; a vita fő kérdése, hogy a kimaradó tagállamok mit veszítenek.",
+      "p": [
+        "Az Index csütörtök reggeli összefoglalója szerint Brüsszelben kétnapos rendkívüli uniós csúcs kezdődik, amelynek fő témája a 2028–2034-es többéves pénzügyi keret és Ukrajna 2027-es finanszírozása. Friedrich Merz német kancellár a lap szerint a két kérdést összekapcsolta: az Ukrajnának szánt közös hitelből szerinte egyik tagállam sem maradhat ki, és amíg ebben nincs megállapodás, a költségvetést sem hajlandó elfogadni. Magyar Péter, Robert Fico és Andrej Babiš ezt elfogadhatatlannak tartja.",
+        "A pénzügyi keretről szóló tervezet az Index szerint 437 milliárd eurós összeggel számol 2025-ös árakon, ami az inflációval korrigálva nagyjából 494 milliárd euró; az Európai Bizottság eredeti javaslata 522 milliárd euró volt. A költségvetés összegével a lap szerint sem a takarékosabb tagállamok, sem a kohézió barátainak csoportja nem elégedett. Magyar Péter álláspontját a cikk úgy foglalja össze, hogy a Costa-féle csomag nem tekinthető tárgyalási alapnak.",
+        "Ukrajnának a már megítélt 90 milliárd euró mellett jövőre további, mintegy 70 milliárd euróra van szüksége. A Bizottság 45 milliárd eurós új közös hitelt javasol. Belgium továbbra sem támogatja a befagyasztott orosz vagyon felhasználását; az orosz jegybank EU-ban tartott, nagyjából 210 milliárd eurós vagyonából 185 milliárd a belgiumi Euroclearnél van. A kimaradó országok között az Index Csehországot, Szlovákiát és Magyarországot említi, az Infostart szerint Bulgária és Ausztria is ide tartozik.",
+        "Az Infostart az InfoRádió szerdai interjújára hivatkozva idézi az NKE kutatóját, Máthé Réka Zsuzsannát, aki szerint kicsi az esélye, hogy pénteken lezárják a költségvetési tárgyalást, Antonio Costa optimizmusa túlzott. A kutató úgy látja, hogy az ukrán finanszírozásról viszont akár péntekig is születhet megállapodás. Az Index szerint a célzott döntés december 17–18-i csúcsra szól."
+      ],
+      "cav": "A beszámoló az Index és az Infostart cikkein alapul; a Costa-tervezetet, Merz és Magyar Péter szó szerinti nyilatkozatait közvetlenül nem láttuk. A kimaradók listája eltér: az Index Csehországot, Szlovákiát és Magyarországot említi, az Infostart ezek mellett Bulgáriát és Ausztriát is. A 437 milliárd eurós összeg a cikk szerint 2025-ös árakon értendő; a 494 milliárd az inflációval korrigált érték. Az Infostart oldalán a kutató intézménye a lead-ben és a törzsben eltérően szerepel. Nem derül ki, pontosan mit jelent a Magyarországnak járó összegek szempontjából a tervezet.",
+      "op": "Aki az Ukrajna-hitelt és a hétéves költségvetést egy csomagban tárgyalja, az a legnagyobb nyomásgyakorló eszközt használja, de ugyanezzel a közös pénzügyi fegyelmet is próbára teszi. Magyarországnak az az érdeke, hogy a vita ne a vétókról, hanem arról szóljon, mennyi forrás érkezik végül a kórházakba, a vízmegtartásba és az infrastruktúrába; ezt a decemberi számokon lehet majd számon kérni.",
+      "src": [
+        [
+          "Index: Brüsszelben csaphatnak össze Magyar Péterék Friedrich Merzcel, a tét az EU és Ukrajna jövője",
+          "https://index.hu/kulfold/2026/11/26/europai-unio-europai-tanacs-eu-csucs-mff-ukrajna-finanszirozas-targyalas"
+        ],
+        [
+          "Infostart: Szakértő a kezdődő uniós csúcsról: a költségvetésről aligha lesz megállapodás, Ukrajna hitelből finanszírozásában viszont lehet",
+          "https://infostart.hu/belfold/2026/11/26/szakerto-a-kezdodo-unios-csucsrol-a-koltsegvetesrol-aligha-lesz-megallapodas-ukrajna-hitelbol-finanszirozasaban-viszont-lehet"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2026/11/1794581904-mY5iYIHP1_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/belfold/2026/11/26/szakerto-a-kezdodo-unios-csucsrol-a-koltsegvetesrol-aligha-lesz-megallapodas-ukrajna-hitelbol-finanszirozasaban-viszont-lehet",
+      "cred": "Archív kép: csoportkép az EU nem hivatalos csúcstalálkozójának résztvevőiről a Dublini Kongresszusi Központban, 2026. november 13-án (Magyar Péter a második sorban jobbról) – Fotó: MTI/EPA/Olivier Hoslet (az Infostart aláírása szerint)"
+    },
+    {
+      "id": "kubatov-mvm-targyalas-elmarad-fradi-nov-26",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "ai_edited": true,
+      "t": "Lemondta a Kubatovval tervezett találkozót az MVM vezérigazgatója: bizonytalan a Ferencváros évi milliárdos szponzori szerződése",
+      "s": "Az Index szerint az MVM felülvizsgálja a klub támogatását, a csütörtökre tervezett tárgyalás elmaradt; a Fradi este az Európa-ligában a Celjét fogadja.",
+      "p": [
+        "Az Index csütörtök reggeli cikke szerint Bertalan Zsolt, az MVM vezérigazgatója és Kubatov Gábor, a Ferencváros elnöke csütörtökön találkozott volna a klub támogatásáról. Az MVM 2018 óta szponzorálja a zöld-fehéreket, és most a hosszú távú szerződés felülvizsgálatát jelezte. Kubatov Facebook-bejegyzésben közölte, hogy az MVM vezérigazgatója lemondta a találkozót.",
+        "A lap a Reuters adatára hivatkozva azt írja, hogy a szerződés értéke 2024 és 2026 között nagyságrendileg évi 12 millió euró, vagyis nagyjából 4,5 milliárd forint volt. Kubatov októberben újabb négy évre lett a klub elnöke. Orosz Pál, az FTC Labdarúgó Zrt. vezérigazgatója szeptemberben arról beszélt, hogy a klub az idényre 30 százalékkal csökkentette a futballisták bérköltségét. A cikk szerint Kubatov úgy látja, a költségcsökkentés más szakosztályokat is érinthet.",
+        "Az Index megemlíti, hogy a Ferencváros csütörtökön 21 órától a Groupama Arénában fogadja a szlovén Celjét az Európa-liga alapszakaszának ötödik fordulójában. A Nemzeti Sport műsorösszeállítása szerint a mérkőzést az M4 Sport közvetíti; a lap szerint a Fradi az eddigi négy meccsét veretlenül játszotta."
+      ],
+      "cav": "A beszámoló az Index és a Nemzeti Sport cikkein alapul; Kubatov Facebook-bejegyzését és a Reuters adatát közvetlenül nem láttuk. A cikk nem közli, miért mondta le a találkozót az MVM, mikor lehet új tárgyalás, és hogy a szerződés felülvizsgálata mit jelent konkrétan (csökkentést vagy felmondást). Az évi 12 millió eurós összeg a Reuters becslése. Az MVM saját állásfoglalását nem ismerjük.",
+      "op": "Egy klub, amelynek költségvetése ennyire egy állami cég szponzori pénzén múlik, mindig kiszolgáltatott a politikai széljárásnak. A tanulság nem a Fradira, hanem az egész magyar sportfinanszírozásra érvényes: ahol a szponzor valójában állami cég, ott a szerződésekről nyilvánosan, számokkal kellene beszélni.",
+      "src": [
+        [
+          "Index: Lesújtó hírről számolt be Kubatov Gábor, elmarad a több milliárd forintról szóló tárgyalás",
+          "https://index.hu/sport/2026/11/26/ferencvaros-ftc-mvm-targyalas-kubatov-gabor-elnok-uzenet-elmarad/"
+        ],
+        [
+          "Nemzeti Sport: Csütörtöki sportműsor: a Celje ellen menetelhet tovább a Fradi az El-ben",
+          "https://www.nemzetisport.hu/minden-mas-foci/2026/11/csutortoki-sportmusor-a-celje-ellen-menetelhet-tovabb-a-fradi-az-el-ben"
+        ]
+      ],
+      "img": "https://kep.index.hu/1/0/7270/72709/727094/72709439_cdeef1d6831b7006cb5fd963339719c3_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/sport/2026/11/26/ferencvaros-ftc-mvm-targyalas-kubatov-gabor-elnok-uzenet-elmarad/",
+      "cred": "Kubatov Gábor 2026. november 25-én – Fotó: Szollár Zsófi / Index (az Index aláírása szerint)"
+    },
+    {
+      "id": "forint-372-fellelegzes-dollar-gyengul-nov-26",
+      "r": "Gazdaság",
+      "c": "Deviza",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "ai_edited": true,
+      "t": "Fellélegzett a forint: az euró 372 forint körülre esett, a dollár erősödése megtorpant az amerikai ünnep előtt",
+      "s": "A Pénzcentrum és a Portfolio szerint az euró szerda esti 373,6 forintról csütörtök reggelre 372-re, a dollár 339,5 forintra gyengült.",
+      "p": [
+        "A Pénzcentrum (MTI) csütörtök reggeli adata szerint az euró 7 órakor 372,07 forintba került, szemben a szerda esti 373,57 forinttal. A dollár 339,51 forintra csökkent a korábbi 340,67-ről, a svájci frank 407,94 forintra a korábbi 410,22-ről. A hétfői kezdéshez képest az euró 0,3, a dollár 0,2 százalékkal volt erősebb a forintnál, a frank 0,8 százalékkal gyengébb.",
+        "A hosszabb távú kép vegyes: november eleje óta a forint 1,7 százalékkal gyengült az euróval, 3,8 százalékkal a dollárral és 2,7 százalékkal a frankkal szemben. Az év eleje óta viszont 3,3 százalékkal erősebb az eurónál és 1,3 százalékkal a frankénál, a dollárral szemben 3,7 százalékkal gyengébb.",
+        "A Portfolio szerint a dollár erősödése a csütörtöki amerikai hálaadásnapi kereskedési szünet előtt megtorpant: a dollárindex 0,1 százalékkal 103,8 pontra gyengült, az euró 1,096, a font 1,3097 dollárnál állt. A lap szerint a piac a Fed decemberi, majd 2027 eleji 25 bázispontos kamatemelését várja, és a Trump-adminisztráció szerdán új vámokat javasolt 14 kereskedelmi partner áruira, Kínát a legmagasabb tételekkel sújtva."
+      ],
+      "cav": "A beszámoló a Pénzcentrum (MTI) és a Portfolio cikkein alapul. A két lap eltérő időpontú pillanatképet ad (7 órai MTI-adat, illetve 8:30 körüli percről percre jegyzés), ezért a pontos árfolyamok kissé eltérnek, a nap folyamán változtak. A Portfolio cikke szerint a forint az idei csúcsok közelében van, miközben a Pénzcentrum adata szerint november eleje óta gyengült; ez nem feltétlenül ellentmondás, mert a két szöveg más viszonyítási időszakot használ, de a Portfolio megfogalmazását nem tudtuk pontosítani. A Portfolio-cikk elkészítésében a lap jelzése szerint AI-asszisztens is közreműködött. A vámjavaslatról kevés részlet ismert.",
+      "op": "Egy-két forintos kilengés napról napra nem fordulópont, de a gyengébb forint a benzintől a hiteleken át minden árban tovább gyűrűzik. A jegybanki kamatpálya ma kevésbé a magyar belső adatoktól, inkább a Fed és az amerikai vámpolitika hangulatától függ; ezt érdemes szem előtt tartani, ha valaki most vállal forintalapú hitelt.",
+      "src": [
+        [
+          "Pénzcentrum: Nagy lendületet vett a forint: jelentősen változott az euró és a dollár árfolyama",
+          "https://www.penzcentrum.hu/gazdasag/20261126/nagy-lenduletet-vett-a-forint-jelentosen-valtozott-az-euro-es-a-dollar-arfolyama-1209693"
+        ],
+        [
+          "Portfolio: Fellélegzett a forint",
+          "https://www.portfolio.hu/deviza/20261126/fellelegzett-a-forint-879226"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/d/e/v/deviza-forint-valuta-euro-unios-forras-unios-tamogatas-keszpenz-775714.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/deviza/20261126/fellelegzett-a-forint-879226",
+      "cred": "Portfolio címlapkép, illusztráció (fotós nincs feltüntetve)"
+    },
+    {
+      "id": "uzemanyagarak-csokkenes-benzin-577-gazolaj-688-nov-26",
+      "r": "Gazdaság",
+      "c": "Üzemanyag",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "ai_edited": true,
+      "t": "Csütörtökön is olcsóbb lett az üzemanyag: a 95-ös benzin átlagára 577, a gázolajé 688 forint literenként",
+      "s": "A holtankoljak.hu adatai alapján a Portfolio szerint mindkét üzemanyag 3 forinttal került kevesebbe szerdához képest, a csökkenés a hét eleje óta tart.",
+      "p": [
+        "A Portfolio csütörtök reggeli cikke a holtankoljak.hu országos átlagárai alapján arról számol be, hogy a 95-ös benzin literenként 3 forinttal olcsóbb a szerdai árnál, átlagára 577 forint. A gázolaj ára szintén 3 forinttal csökkent, átlagosan 688 forintba kerül literenként.",
+        "A lap szerint a csökkenő tendencia a hét eleje óta érvényesül. A cikk nem részletezi a csökkenés okait, és a regionális eltéréseket sem ismerteti."
+      ],
+      "cav": "A beszámoló a Portfolio rövid cikkén alapul, amely a holtankoljak.hu adatait közli; az eredeti adatsort nem láttuk. Az átlagár országos átlag, az egyes kutaknál eltérhet. A cikk a csökkenés okát nem magyarázza; a forint gyengülését és az olajár alakulását más cikkeink külön tárgyalják.",
+      "op": "Három forint literenként nem ünnepi hír, de a tankolók pénztárcáján négy napja óvatos jó irányba mutat az ár. Érdemes az árrést is figyelni: a gyengébb forint és a lassuló kereslet miatt a pillanatnyi olcsóbbodás nem biztos, hogy hétvégéig tart.",
+      "src": [
+        [
+          "Portfolio: Megjött a bejelentés, így változik a benzin és a dízel ára!",
+          "https://www.portfolio.hu/uzlet/20261126/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-879246"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-lg/b/e/n/benzinkut-386886.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/uzlet/20261126/megjott-a-bejelentes-igy-valtozik-a-benzin-es-a-dizel-ara-879246",
+      "cred": "Címlapkép forrása: Shutterstock (a Portfolio megjelölése szerint), illusztráció"
+    },
+    {
+      "id": "normafa-park-ujra-engedely-sifutopalya-nov-26",
+      "r": "Közélet",
+      "c": "Budapest",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "ai_edited": true,
+      "t": "Ismét megkapta az engedélyt a Normafa Park sífutó- és szánkópályája, a civil szervezetek újra bírósághoz fordulnak",
+      "s": "Az Infostart szerint a Hegyvidéki Önkormányzat új engedélyt kapott; a Védegylet és a Normafa Természetesen a megsemmisítését kéri.",
+      "p": [
+        "Az Infostart csütörtöki cikke szerint a Hegyvidéki Önkormányzat ismét megkapta a normafai sífutó- és szánkópálya működéséhez szükséges engedélyt. A Normafa Park Facebook-posztja szerint a kormányhivatal a nyáron számos dokumentumot és további vizsgálatot kért, amelyeknek határidőre eleget tettek.",
+        "A korábbi engedély visszavonását kezdeményező Védegylet és a Normafa Természetesen civil szervezet jelezte, hogy ismét bíróságon kéri az engedély megsemmisítését. Az üzemeltető állítása szerint a négy év alatt nem merült fel igazolt környezeti kár, és ez már az ötödik alkalom, hogy a téli sportéletet ellehetetlenítenék.",
+        "Az új engedéllyel az üzemeltető azonnal megkezdi az előkészületeket; a következő héten kedvező időjárásra és a hóréteg vastagítására számítanak."
+      ],
+      "cav": "A beszámoló az Infostart cikkén alapul; a Normafa Park Facebook-posztját és az engedély szövegét nem láttuk. A civil szervezetek álláspontját csak az üzemeltető és az Infostart összefoglalásán keresztül ismerjük, saját közleményüket nem láttuk. A cikk nem közli, mikor nyit a pálya, és mikor lehet bírósági döntés. A fotó nem a mostani időszakból való, a feltöltési útvonal 2023-ra utal.",
+      "op": "A környezetvédelmi viták akkor szolgálják a közt, ha az engedélyezési eljárás átlátható, és a bírósági út nem évről évre ugyanabba a vitába fullad. Aki síelne, annak jó hír; aki a hegy természeti értékeit védi, annak joga van ellenőrizni, hogy az engedély feltételeit be is tartják.",
+      "src": [
+        [
+          "Infostart: Már hívja a síelőket a Normafa Park, a pereskedés is rögtön megindult",
+          "https://infostart.hu/belfold/2026/11/26/mar-hivja-a-sieloket-a-normafa-park-a-pereskedes-is-rogton-megindult"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2023/02/1675235602-2bPiarL8p_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/belfold/2026/11/26/mar-hivja-a-sieloket-a-normafa-park-a-pereskedes-is-rogton-megindult",
+      "cred": "Archív kép: Normafa Park (az Infostart aláírása szerint, fotós nincs feltüntetve)"
+    },
+    {
       "id": "gki-bizalmi-index-hetho-melypont-leepitesek-nov-26",
       "r": "Gazdaság",
       "c": "Konjunktúra",
