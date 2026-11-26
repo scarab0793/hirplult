@@ -1,6 +1,313 @@
 {
   "items": [
     {
+      "id": "hamasz-miniszter-abu-nada-legicsapas-gaza-nov-26",
+      "r": "Külföld",
+      "c": "Izrael–Gáza",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Izraeli légicsapás végzett Háled Abu Nadával, a Hamász gazdasági miniszterével és feleségével Gázában",
+      "s": "Az Index szerint Netanjahu és Kac csütörtök reggeli közleménye szerint célzott csapás érte az övezet középső részén a Hamász egyik vezetőjét; a közlemény szerint az elmúlt hónapban mintegy 80 Hamász-tagot öltek meg.",
+      "p": [
+        "Az Index csütörtöki beszámolója szerint az izraeli hadsereg célzott légicsapásban megölte Háled Abu Nadát, a Hamász gazdasági miniszterét és oktatásiminiszter-helyettesét a Gázai övezetben. Az MTI által idézett palesztin beszámolók szerint a férfi felesége is életét vesztette. A csapást az övezet középső részén, Deir al-Balahnál hajtották végre.",
+        "A műveletet Benjámin Netanjahu miniszterelnök és Jiszráel Kac védelmi miniszter csütörtök reggeli közös közleményben jelentette be. A közlemény szerint az izraeli erők az elmúlt egy hónapban nagyjából nyolcvan Hamász-tagot semlegesítettek. Az Index beágyazza Netanjahu aznapi, héber nyelvű posztját is, amelynek fordítását az oldal nem közli.",
+        "A lap emlékeztet két korábbi fejleményre: november 15-én az izraeli légierő a Hamász rafahi dandárparancsnokát, Számir Abu Junuszt likvidálta, akit az Index az október 7-i támadás egyik tervezőjeként említ, október 22-én pedig a Hamász a 2023-as támadáshoz hasonló akcióval fenyegette meg Izraelt.",
+        "A cikk második, rövidebb része Ciszjordániáról szól. Palesztin beszámolók szerint izraeli telepesek megrongáltak és felgyújtottak egy palesztin lakóházat a Náblusztól délre fekvő Dzsálúd faluban. Az eseményről a cikk további részleteket, például sérültekről szóló adatot nem közöl."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az MTI-n keresztül palesztin beszámolókra és az izraeli vezetők közleményére hivatkozik; az eredeti közleményeket és Netanjahu héber posztját közvetlenül nem láttuk. A halálesetekről független megerősítést nem találtunk. Nem derül ki, Abu Nada pontosan milyen szerepet töltött be a Hamász katonai vagy politikai vezetésében, és a „80 Hamász-tag” az izraeli közlemény számadata. A név írásmódja a magyar sajtóban nem egységes. A ciszjordániai gyújtogatás részleteit csak palesztin beszámolók alapján ismerjük.",
+      "op": "A célzott likvidálások egymás után sorjázva sem hoznak tartós biztonságot, ha mögöttük nincs politikai kiút; a gázai civileket pedig, köztük a miniszter feleségét is, a harc logikája akkor is eltalálja, ha a cél egy konkrét vezető. A telepesek erőszakáról szóló hírek ugyanakkor azt mutatják, hogy a térség feszültsége nem áll meg Gázánál.",
+      "src": [
+        [
+          "Index: Izrael megölte a Hamász egyik miniszterét egy gázai légicsapásban",
+          "https://index.hu/kulfold/2026/11/26/izrael-hamasz-miniszter-legitamadas-gazai-ovezet/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7271/72712/727124/72712447_5356935_605399712ba09b66521967899df6b82d_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/26/izrael-hamasz-miniszter-legitamadas-gazai-ovezet/",
+      "cred": "Találatot kapott épület Deir al-Balahban, ahol Háled Abu Nada és felesége életét vesztette, 2026. november 26. – Fotó: Moiz Salhi / Anadolu / Getty Images (az Index aláírása szerint)"
+    },
+    {
+      "id": "ksh-munkaeropiac-oktober-foglalkoztatas-nott-karman-nov-26",
+      "r": "Gazdaság",
+      "c": "Munkaerőpiac",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Közel két éve először nőtt éves összevetésben a foglalkoztatottak száma: októberben 4,68 millióan dolgoztak, a munkanélküliség 4,4 százalék",
+      "s": "Az Index szerint a KSH októberi adatai alapján a foglalkoztatás 0,2 százalékkal bővült, Kármán András pénzügyminiszter pedig rekordnak nevezte az aktivitási rátát.",
+      "p": [
+        "Az Index csütörtöki cikke a KSH októberi munkaerőpiaci adatait ismerteti. Eszerint októberben 4 millió 682 ezren dolgoztak Magyarországon, 214 ezer volt a munkanélküli, a munkanélküliségi ráta pedig 4,4 százalék. A foglalkoztatottak száma éves összevetésben 0,2 százalékkal nőtt, a lap szerint ez 2025 januárja óta az első ilyen emelkedés, innen a cikk címének „közel két éve nem történt ilyen” utalása.",
+        "Az augusztus–októberi háromhónapos átlag 4 millió 675 ezer foglalkoztatott volt a 15–74 évesek körében, ami lényegében megegyezik az egy évvel korábbival. A cikk szerint az elsődleges munkaerőpiacon 4 millió 481 ezren dolgoztak, a közfoglalkoztatottak száma 72 ezer, a külföldön dolgozóké 122 ezer volt. A 15–64 évesek foglalkoztatási rátája 0,5 százalékponttal 75,8 százalékra nőtt; a férfiaké 79,4, a nőké 72,1 százalék.",
+        "A munkakeresés átlagos időtartama 11,4 hónap volt. A munkanélküliek 39,9 százaléka három hónapnál rövidebb ideje keres állást, ez 4,9 százalékponttal kevesebb az előző évinél, az egy évnél hosszabb ideje állást keresők aránya pedig 33 százalék, 0,5 százalékponttal több.",
+        "Kármán András pénzügyminiszter az Index szerint azt mondta, a kedvező adatokat fontosnak tartja, a cél minőségi munkahelyek és tisztességes bérek. A lap szerint a miniszter az aktivitási rátát, amely 69 százalék fölött van, a KSH 2009 óta közölt adatai alapján rekordnak nevezte, és megemlítette, hogy a munkanélküliség az év eleje óta közel 0,3 százalékponttal csökkent. A kormány lépései közül az alacsonyabb keresetűek adóterheinek csökkentését, a kata újbóli megnyitásának előkészítését és a termelékenységet növelő beruházásokat támogató Ganz Ábrahám Gazdaságfejlesztési Programot említette."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul; a KSH gyorstájékoztatóját közvetlenül nem láttuk, ezért a számok a lap közlései. A „2025 januárja óta először” megállapítás az Index értelmezése. A kormányzati intézkedések (adócsökkentés, kata, Ganz Ábrahám program) hatását a cikk nem méri, az nem látszik az adatokból. A háromhónapos átlag szerint a foglalkoztatás éves szinten gyakorlatilag változatlan, így az októberi 0,2 százalékos emelkedés egyetlen hónap adata.",
+      "op": "Egy hónapnyi 0,2 százalékos növekedés örömteli, de még nem trend, különösen úgy, hogy a három hónapos átlag szinte pontosan a tavalyi. A rekord aktivitási ráta jó hír, a tartós munkanélküliek növekvő aránya viszont arra emlékeztet, hogy a „minőségi munkahely” ígéretét azoknak is teljesíteni kell, akik már régóta kívül rekedtek a piacon.",
+      "src": [
+        [
+          "Index: Közel két éve nem történt ilyen Magyarországon – Kármán András megszólalt a friss adatokról",
+          "https://index.hu/gazdasag/2026/11/26/karman-andras-kormany-penzugyminiszterium-munkaeropiac-foglalkoztatas-munkanelkuliseg/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7271/72710/727107/72710729_5356825_7b8ed7d0ffe836feb71276c9731d17a8_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/gazdasag/2026/11/26/karman-andras-kormany-penzugyminiszterium-munkaeropiac-foglalkoztatas-munkanelkuliseg/",
+      "cred": "Kármán András 2026. november 23-án – Fotó: Tövissi Bence / Index (az Index aláírása szerint)"
+    },
+    {
+      "id": "mkksz-25-szazalek-beremeles-szocialis-agazat-nov-26",
+      "r": "Belpolitika",
+      "c": "Közszféra",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Legalább 25 százalékos béremelést követel a szociális ágazatban az MKKSZ, szerint a kormány nem működteti a közszolgálati érdekegyeztetést",
+      "s": "Az Index szerint a szakszervezet a 2027-es költségvetési tervezet kapcsán átfogó bérrendezést, életpályamodellt és az érdekegyeztetés helyreállítását kéri.",
+      "p": [
+        "Az Index csütörtöki cikke szerint a Magyar Köztisztviselők, Közalkalmazottak és Közszolgálati Dolgozók Szakszervezete (MKKSZ) átfogó bérrendezést, kiszámítható életpályamodelleket és az érdekegyeztetés helyreállítását követeli. Az Országos Választmány november 21-i ülésén fogadott el állásfoglalást a közszféra helyzetéről és a 2027-es költségvetési tervezet hatásairól. A szakszervezet szerint a szociális ágazatban 2027-re legalább 25 százalékos keresetnövekedésre van szükség.",
+        "Az MKKSZ saját becslése szerint az egészségügyből 20–25 ezer, az oktatásból 16–20 ezer, a rendvédelemből 5–8 ezer, a közigazgatásból pedig 5–7 ezer munkavállaló hiányzik; a szociális ágazat egyes intézményeiben a szakdolgozói álláshelyek 30–50 százaléka lehet betöltetlen. A cikk hangsúlyozza, hogy ezek becslések, és a szakszervezet országos, egységes módszertanú felmérést sürgetne.",
+        "A követelések között szerepel a többéves, inflációkövető bérfelzárkóztatás és az egységes közszolgálati életpályamodell, valamint az önkormányzati finanszírozás és a szolidaritási hozzájárulás felülvizsgálata. Az önkormányzati köztisztviselők illetményalapja a cikk szerint 2008 óta 38 650 forint; az MKKSZ legalább 80 ezret kér, miközben a tervezet szerint az önkormányzatok finanszírozása mintegy 36 milliárd forinttal bővül. A kormányhivatali bérek terén a 2025-ös sztrájkkezdeményezés nyomán hozott intézkedéseket a szakszervezet elégtelennek tartja.",
+        "A szakszervezet szerint a kormány nem működteti a Közszolgálati Érdekegyeztető Fórumot (KÉF), noha ezt a törvény előírja, és a szabályosan benyújtott kezdeményezésekre nem válaszol. Az MKKSZ nem vitatja a 2027-es költségvetés fő prioritásait, de a tervezetet érdemi egyeztetés nélkül készítették el."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul; az MKKSZ állásfoglalását közvetlenül nem láttuk. A hiányzó létszámok a szakszervezet becslései, nem hivatalos statisztikák. A cikk nem tartalmaz kormányzati reagálást, így a KÉF működéséről és a bérek kérdéséről a kormány álláspontját nem ismerjük. Az Index oldalának metaadata a megjelenés előtti módosítási időt mutat (nov. 25.), ennek oka nem ismert.",
+      "op": "Aki a közszférában dolgozik, jogosan várja el, hogy a költségvetés előtt valaki megkérdezze: az érdekegyeztetés ott kezdődik, hogy a törvény szerint működő fórum ténylegesen összeül. A 25 százalékos igény vagy a 80 ezres illetményalap-követelés a számok miatt vitatható, de az, hogy a hiányzó dolgozókról nincs egységes felmérés, magáról a problémáról is sokat elmond.",
+      "src": [
+        [
+          "Index: Legalább 25 százalékos béremelést követel a szociális ágazatban az MKKSZ",
+          "https://index.hu/belfold/2026/11/26/mkksz-kozszolgalati-dolgozok-beremeles/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/6586/65862/658626/65862641_4862729_87133da0247141471bf9749fe6fba76e_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/mkksz-kozszolgalati-dolgozok-beremeles/",
+      "cred": "Archív kép: a szociális ágazat dolgozói tüntetnek 2025. november 12-én – Fotó: Szollár Zsófi / Index (az Index aláírása szerint)"
+    },
+    {
+      "id": "szentkiralyi-nagy-ervin-kulturalis-tamogatas-3-milliard-nov-26",
+      "r": "Belpolitika",
+      "c": "Kultúrpolitika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "A Fidesz átláthatóságot követel a csaknem hárommilliárdos, pályázat nélküli kulturális támogatásról; Szentkirályi Alexandra feljelentést helyezett kilátásba",
+      "s": "Az Index szerint a fideszes képviselő Nagy Ervin államtitkártól és Tarr Zoltán minisztertől kéri a színházi, tánc- és cirkuszi szervezeteknek szánt keret nyilvánosságra hozatalát.",
+      "p": [
+        "Az Index szerint Szentkirályi Alexandra, a Fidesz országgyűlési képviselője csütörtöki sajtótájékoztatóján azt követelte, hogy Nagy Ervin kulturális államtitkár és Tarr Zoltán miniszter hozza nyilvánosságra a színházi, tánc- és cirkuszszervezeteknek nyílt pályázat nélkül megítélt, csaknem hárommilliárd forintos támogatás részleteit. Nagy Ervin november 20-án jelentette be a keretet; az Index szerint a döntést 14 szakmai szervezettel készítették elő, és a legnagyobb rész, csaknem 1,3 milliárd forint a független társulatokhoz kerül. A kedvezményezettek nevét és az összegeket eddig nem tették közzé. A vasarnap.hu-nak adott interjúban az államtitkár a pályázat elmaradását azzal indokolta, hogy a keret csak október végén derült ki.",
+        "Szentkirályi szerint a kormány saját elvei, az átlátható és szakmai alapú támogatás nem érvényesültek. A HírTV-re hivatkozva a cikk azt írja, hogy a szervezeteket egy este telefonon keresték meg, és másnap éjfélig kellett online űrlapot kitölteniük egy előre megadott, 15 millió forintos összegre; a képviselő ezt „Google Formos produkciónak” nevezte, de konkrét dokumentumot nem mutatott be. Szerinte a hárommilliárd a kulturális minisztérium mintegy tízmilliárdos előadó-művészeti többlettámogatásának része.",
+        "A fideszes politikus feljelentést helyezett kilátásba hűtlen kezelés, esetleg tiltott pártfinanszírozás gyanújával, ha a minisztérium megkezdi a kifizetést, és azt is számon kérte, hogy az NVVH vizsgálja-e az ügyet. Kedvezményezetteket nem nevezett meg, csak „hírekre” hivatkozott arról, hogy Tisza-közeli szervezetek is lehetnek köztük. A személyes felelősséget Nagy Ervinre terheli.",
+        "Háttérként az Index megemlíti, hogy a Hankó Balázs-féle NKA-kollégium egyedi keretéből 2025-ben 10,3, 2026-ban 6,2 milliárd forint állt rendelkezésre pályázat nélkül; Hankó Balázs előzetes letartóztatásban van. Nagy Ervin korábban, tiszás képviselőként, Hankó azonnali távozását követelte."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely politikai szereplő állításait közli; Szentkirályi sajtótájékoztatóját, a HírTV beszámolóját és a vasarnap.hu interjút közvetlenül nem láttuk. A „Tisza-közeli szervezetek” említése híresztelés, a képviselő nem nevezett meg konkrét kedvezményezettet, és dokumentumot sem mutatott. A minisztérium vagy az államtitkár válasza a cikkben nem szerepel. A Hankó-féle NKA-keretről szóló összehasonlítás az Index háttérinformációja, nem azonos kérdés a mostani támogatással. A cikkben három fotó szerepel, a vezérképhez tartozó aláírás nem egyértelmű.",
+      "op": "Aki korábban a pályázat nélküli osztogatást bírálta, annak ma is számot kell adnia arról, miért indokolt a nyílt pályázat kihagyása, és a nevek, összegek közzététele nem a Fidesz kegye, hanem alapvető elvárás. Ugyanakkor a feljelentéssel fenyegetőzés, konkrét dokumentum nélkül, inkább politikai hangerő, mint bizonyíték: a tényekhez a minisztériumi lista kell.",
+      "src": [
+        [
+          "Index: „Ki a csuda lenne felelős, ha nem a kulturális államtitkár?”",
+          "https://index.hu/belfold/2026/11/26/szentkiralyi-alexandra-nagy-ervin-tisza-fidesz-palyazat-kultura-tamogatas/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/6938/69387/693873/69387355_5120615_f396eccbe012a42473b80e0cd76ff21f_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/szentkiralyi-alexandra-nagy-ervin-tisza-fidesz-palyazat-kultura-tamogatas/",
+      "cred": "Index borítókép; az oldal aláírásai: Szentkirályi Alexandra 2026. november 24-én – Fotó: Szigetváry Zsolt / MTI, illetve az Országgyűlésben 2026. május 9-én – Fotó: Németh Kata / Index; a vezérképhez tartozó aláírás nem egyértelmű"
+    },
+    {
+      "id": "fovarosi-kozgyules-nov-27-20-milliard-megtakaritas-100-allas-nov-26",
+      "r": "Közélet",
+      "c": "Budapest",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Pénteken ülésezik a Fővárosi Közgyűlés: 20 milliárddal csökkentené a működési kiadásokat Karácsony Gergely, 100 álláshelyet szüntetnének meg a Főpolgármesteri Hivatalban",
+      "s": "Az Index előzetese szerint a nyílt ülés 30 javaslatot tárgyal a költségcsökkentéstől a közbiztonsági vészhelyzet kihirdetéséig és a napenergia-programig.",
+      "p": [
+        "Az Index csütörtök reggeli összefoglalója szerint a Fővárosi Közgyűlés november 27-én, pénteken tartja a hónap végi ülését, a nyílt részben 30 javaslattal. A lap minden frakciótól bemutat legalább egy előterjesztést.",
+        "Karácsony Gergely főpolgármester anyaga a Fővárosi Közfejlesztések Tanácsa határozata alapján legalább 20 milliárd forinttal csökkentené a főváros működési kiadásait a 2026-os szinthez képest. A Főpolgármesteri Hivatalban egymilliárd forintos személyi kiadás-csökkentést terveznek, ami 100 álláshely megszüntetését jelenti március 1-jei hatállyal. A hivatal 1071 álláshelyén jelenleg 1035 főt foglalkoztatnak; három hónapja betöltetlen állásokat szüntetnének meg, és márciusi határidővel 65 ténylegesen foglalkoztatott létszámcsökkentését is tervezik.",
+        "A Tisza-frakció (frakcióvezetője Orbán Árpád) napenergia-programot javasol fővárosi épületek tetőfelületére, harmadik fél finanszírozásával. A Fidesz budapesti közbiztonsági vészhelyzet megállapítását és háromoszlopos komplex cselekvési tervet kér. A Podmaniczky Mozgalom (Gál József) a „gazdátlan közterületi berendezések” felelősségi viszonyainak tisztázását és átfogó vagyonkataszteri felmérést szorgalmaz, a DK (Szaniszló Sándor) a fővárosi reklámelhelyezési tilalmak érvényesítésének egységes eljárásrendjét.",
+        "Barabás Richárd kétmilliárd forintos művészeti programot javasol az ügynökaktákról, Kovács Gergely, Hegyvidék polgármestere (Magyar Kétfarkú Kutya Párt) pedig karácsonyi húzós játékot indítványoz az ülés végére. A napirenden szerepel a Fővárosi Adatstratégia is, az adatvagyon-gazdálkodási vízió első ötéves programja."
+      ],
+      "cav": "A beszámoló az Index előzetesén alapul; az előterjesztések szövegét közvetlenül nem láttuk. A 20 milliárd forintos csökkentés a cikk megfogalmazása szerint „legalább”, a pontos szerkezetét (mely kiadásokat érinti) nem ismerjük. Az Index metaadata a megjelenés előtti módosítási időt mutat, ennek oka nem ismert. Az ülés eredményét (szavazások) a cikk nem tartalmazhatja. A vezérképnek nincs aláírása, a „Borítókép” felirat egy október 30-i felvételre utal, ez nem egyértelműen azonos a képpel.",
+      "op": "Egy főváros, amely 100 álláshelyet és 20 milliárdot spórol, fontos jelzést ad arról, mennyire szűkös a kassza, de a vita kulcsa az lesz, hogy a megtakarítás nem a szolgáltatásokon csattan-e. A közbiztonsági vészhelyzet és a művészeti ügynök-program ugyanazon az ülésen jól mutatja a közgyűlés kettősségét: a hétköznapi kérdések mellett a nagypolitikai szimbólumok is helyet kérnek.",
+      "src": [
+        [
+          "Index: Közbiztonság, elbocsátások, ügynökakták – ebből óriási balhé lehet a fővárosban",
+          "https://index.hu/belfold/2026/11/26/fovarosi-kozgyules-budapest-fovaros-kozbiztonsag-ugynokaktak-karacsony-gergely-kovacs-gergely-fidesz-tisza-part/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7270/72706/727062/72706269_5356517_d344f8b33e1cb018e04718f917136acb_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/fovarosi-kozgyules-budapest-fovaros-kozbiztonsag-ugynokaktak-karacsony-gergely-kovacs-gergely-fidesz-tisza-part/",
+      "cred": "Index borítókép (a cikk elején lévő képhez aláírás nincs; az oldal „Borítókép” felirata: Kiss Ambrus, Karácsony Gergely és Számadó Tamás, 2026. október 30. – Fotó: Papajcsik Péter / Index; az egyezés nem egyértelmű)"
+    },
+    {
+      "id": "nemzeti-vagyon-torveny-koncesszio-35-ev-palyaudvar-nov-26",
+      "r": "Belpolitika",
+      "c": "Állami vagyon",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Szigorítaná a koncessziókat a kormány: Ruff Bálint javaslata szerint az öt évnél hosszabb koncesszió nem tarthat tovább, mint a befektetés megtérülése, a pályaudvar-privatizáció pedig leállna",
+      "s": "A HVG szerint a november 24-én benyújtott nemzeti vagyon törvénymódosítás megszüntetné a védett vasúti ingatlanok eladását és csökkentené az MNV igazgatóságát.",
+      "p": [
+        "A HVG november 25-i cikke szerint Ruff Bálint miniszter november 24-én nyújtott be törvényjavaslatot az állami és nemzeti vagyonnal való gazdálkodásról. A tervezet szerint az öt évnél hosszabb koncessziók időtartama nem haladhatja meg azt az időszakot, amely alatt a befektetések megtérülnek és a tőke észszerű hozamot termel. A felső határ továbbra is 35 év. Az indoklás egy uniós irányelvre hivatkozik.",
+        "A lap szerint az Európai Bizottság kötelezettségszegési eljárást indított Magyarország ellen a Mészáros–Szíjj-féle autópálya-koncesszió és a Mol leányvállalata, a Mohu hulladékkoncessziója miatt. A kormány november 21-én megkezdte a Mészáros-féle szerződés felbontását, a Mohu-ügyben még nincs döntés.",
+        "A pályaudvarokról a cikk emlékeztet: a 2024-es módosítás lehetővé tette, hogy a pályaudvarokat 99 évre magánbefektetőknek adják, miközben az állam 10 százalékos részesedést tart. A MÁV 2024 decemberében írt ki pályázatot, 2025 februárjában formai okokra hivatkozva visszalépett, a Közbeszerzési Döntőbizottság 2025 márciusi állásfoglalása szerint pedig sérülhetett a közbeszerzési törvény. A mostani javaslat megszüntetné a védett vasúti ingatlanok értékesítését.",
+        "További pontok: az ingyen átadott állami cégek 15 évig nem lennének eladhatók; az önkormányzatok a 2012 előtt kapott vagyont másként hasznosíthatnák, de a bevételt csak törvényben meghatározott feladatokra fordíthatnák; a Nemzeti Vagyonkezelő igazgatósága hétről ötre, a felügyelőbizottság legfeljebb hat főre csökkenne; a többségi állami cégek ingyenes állami ingatlanhasználata megszűnne. A javaslat a budavári Anna utca 1. (539 négyzetméter, 11 lakás) ingatlant társasházzá minősítené, így a bérlők megvásárolhatnák lakásaikat; hét lakást az MNV bérbe ad."
+      ],
+      "cav": "A beszámoló a HVG cikkén alapul; a törvényjavaslat szövegét közvetlenül nem láttuk. A HVG hangvétele értékelő (a cím Lázár János és Orbán Viktor „utolsó nagy vasútprivatizációs álmáról” beszél); ezt nem vettük át tényként. Az uniós irányelv pontos megnevezése a cikkből nem derül ki. A javaslatról még nem született parlamenti döntés. A Mohu-koncesszió sorsáról nincs kormányzati álláspont.",
+      "op": "Hogy a koncesszió időtartama kövesse a befektetés megtérülését, ésszerű alapelv, amelyet az állam saját kárán tanulhatott meg; a kérdés az, hogy ez a szabály utólag is helyrehozza-e a korábbi szerződéseket. A budavári lakások bérlőinek jó hír lehet, de egy törvény apró pontjai mögött mindig érdemes megnézni, kik járnak jól, ha a vagyon sorsa megváltozik.",
+      "src": [
+        [
+          "HVG: Szigorítaná a kormány a koncessziókat, összetörné Lázár és Orbán utolsó nagy vasútprivatizációs álmát is",
+          "https://hvg.hu/itthon/20261125_nemzeti-vagyon-torveny-modositas-ruff-balint-koncesszio-palyaudvar-privatizacio"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/83398dce-d098-476c-a274-3d1029b1248a.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/itthon/20261125_nemzeti-vagyon-torveny-modositas-ruff-balint-koncesszio-palyaudvar-privatizacio",
+      "cred": "Archív kép: Orbán Viktor, Lázár János, Semjén Zsolt és további politikusok a Bálnában, 2026. április 12. – Fotó: © HVG / Reviczky Zsolt (a HVG aláírása szerint)"
+    },
+    {
+      "id": "vendegbefektetoi-vizum-megszuntetes-2027-januar-nov-26",
+      "r": "Belpolitika",
+      "c": "Migráció",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "2027. január 1-jével megszüntetné a kormány a vendégbefektetői vízumot, a már kiadott engedélyeket viszont nem hosszabbítanák meg",
+      "s": "A Portfolio szerint a Belügyminisztérium megerősítette: a rendelettervezet társadalmi egyeztetésen van, a visszamenőlegességet nem tartják alkotmányossági problémának.",
+      "p": [
+        "A Portfolio csütörtöki cikke szerint a kormány 2027. január 1-jével megszüntetné a vendégbefektetői vízumot és a hozzá kapcsolódó tartózkodási engedélyt. A Belügyminisztérium a Portfolio kérdésére megerősítette, hogy a már kiadott engedélyek nem járnak le korábban, de a meghosszabbítás lehetősége a korábbi befektetők számára is megszűnik. A tárca szerint ez nem sérti a visszamenőleges hatály tilalmát, az Alkotmánybíróság gyakorlatára hivatkozva.",
+        "A programot az Orbán-kormány 2024-ben indította. Két feltétele volt: legalább 250 ezer eurónyi befektetési jegy egy erre jogosult ingatlanalapban, vagy legalább egymillió euró adomány egy közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézménynek. A tartózkodási engedély legfeljebb 10 évre szólt, és további 10 évre meghosszabbítható lett volna. A családtagok legfeljebb 10 évre kaphatnak engedélyt, meghosszabbítás nélkül.",
+        "Az átmeneti szabályok szerint az év végéig benyújtott, addig el nem bírált kérelmekre a régi szabály vonatkozik, ha az eljárási díjat is befizették. Érvényes vízummal 2027-ben is be lehet adni az első engedélykérelmet. Nyitott kérdés, mi történik, ha az ingatlanalapos befektető az ötéves kötött idő letelte után visszaváltja jegyeit, miközben az engedélye még érvényes; a minisztérium erre nem válaszolt.",
+        "A hatásvizsgálat szerint a tárca 712 115 forintos költségvetési egyenlegromlással számol. A rendelettervezet társadalmi egyeztetésre került."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul; a rendelettervezetet és a minisztérium válaszát közvetlenül nem láttuk. A hatásvizsgálatban szereplő 712 115 forint nagyságrendje a cikkben nincs magyarázva (nem derül ki, hány engedélyre vonatkozik). A visszamenőlegesség alkotmányossága a minisztérium álláspontja; független jogi értékelést nem láttunk. Nem ismert, hány engedélyt adtak ki a program indulása óta. A kép illusztráció.",
+      "op": "A befektetésért cserébe adott tartózkodási jogot sokan joggal kritizálták, és jó, ha a kormány leállítja; de a szabályozás megváltoztatásánál a már befizetett pénzt és a hosszú távú terveket vállaló befektetőket is tisztességesen kell kezelni, különben a jogbiztonság sérül, nem csak a program. A nyitott kérdések, főleg az alapjegyek visszaváltása, még a végső szabály előtt tisztázandók.",
+      "src": [
+        [
+          "Portfolio: Kemény lépésre készül a kormány, amivel drasztikus változás jön a magyarországi vendégbefektetőknek",
+          "https://www.portfolio.hu/gazdasag/20261126/kemeny-lepesre-keszul-a-kormany-amivel-drasztikus-valtozas-jon-a-magyarorszagi-vendegbefektetoknek-879258"
+        ]
+      ],
+      "img": "https://cdn.portfolio.hu/articles/images-xl/u/t/l/utlevel-schengeni-ovezet-hataratkeles-hataratkelo-utazas-667785.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/kemeny-lepesre-keszul-a-kormany-amivel-drasztikus-valtozas-jon-a-magyarorszagi-vendegbefektetoknek-879258",
+      "cred": "Illusztráció (Getty Images, a Portfolio megjelölése szerint; fotós nincs feltüntetve)"
+    },
+    {
+      "id": "torgservice-mere-diszkont-csod-romania-nov-26",
+      "r": "Gazdaság",
+      "c": "Kereskedelem",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Csődöt jelentett a romániai MERE diszkontlánc, amely tavaly decemberben nyitotta első magyarországi boltját – az augusztusban be is zárt",
+      "s": "A Portfolio (MTI) szerint a Torgservice 16 áruházzal működött Romániában, az orosz Svetofor-hálózatot működtető Schneider család tulajdonában.",
+      "p": [
+        "A Portfolio MTI-hírként számolt be arról, hogy a Torgservice RM SRL csődeljárást kezdeményezett Romániában. A cég, amely a MERE diszkontláncot működteti 16 áruházzal, fizetésképtelenséget jelentett, és azt írta, nincs kilátása a talpra állásra. 2017-ben alapították; az induláskor négy-öt év alatt 50 üzletet terveztek, ennél jóval kevesebb jött létre.",
+        "A tulajdonos a Schneider család, amely a Svetofor orosz kiskereskedelmi hálózatot is működteti. A romániai leányvállalatban 87 százalékos részesedéssel rendelkező Szergej és Andrej Schneider az uniós szankciós listán szerepel az Oroszország által megszállt ukrán területeken végzett tevékenysége miatt.",
+        "A pénzügyi adatok szerint a cég 2024-ig folyamatosan veszteséges volt. 2025-ben 116 alkalmazottal 150,4 millió lej, mintegy 10,5 milliárd forint árbevételt és 4,3 millió lej, nagyjából 302 millió forint nettó nyereséget ért el. 2026. július 1-jén a beszállítókkal szembeni tartozása 27,3 millió lej (mintegy 1,9 milliárd forint), az adótartozása 6,65 millió lej (mintegy 465 millió forint) volt.",
+        "Magyarországon a MERE első és egyetlen boltja, a Basket Plus 2025 decemberében nyílt meg Budapest XVIII. kerületében, és 2026 augusztusában bezárt."
+      ],
+      "cav": "A beszámoló a Portfolio (MTI) rövid cikkén alapul; a romániai csődkérelmet közvetlenül nem láttuk. A forintos értékek a cikk átszámításai. Nem derül ki, hogy a csődeljárás pontosan milyen típusú (átszervezés vagy felszámolás), és mi lesz a 16 áruházzal és a dolgozókkal. A magyarországi bolt bezárásának okát a cikk nem közli. A kép illusztráció.",
+      "op": "Egy diszkontlánc bukása a kiskereskedelem kegyetlen árversenyét mutatja, de a tulajdonosi háttér, az uniós szankciós lista is, azt jelzi, hogy az olcsó bolt mögött érdemes megnézni, kik a gazdák. A magyar vásárlónak ebből annyi a tanulság, hogy a gyorsan jött külföldi lánc nem garancia a tartós kínálatra.",
+      "src": [
+        [
+          "Portfolio: Csődöt jelentett a magyar piaccal is próbálkozó diszkont Romániában",
+          "https://www.portfolio.hu/gazdasag/20261126/csodot-jelentett-a-magyar-piaccal-is-probalkozo-diszkont-romaniaban-879210"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1381577093-bezaras-boltbezaras-closure-uzlet-bolt-kiskereskedelem-lezaras-csod-v-850588.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/csodot-jelentett-a-magyar-piaccal-is-probalkozo-diszkont-romaniaban-879210",
+      "cred": "Illusztráció (Getty Images, a Portfolio megjelölése szerint; fotós nincs feltüntetve)"
+    },
+    {
+      "id": "erdely-kozigazgatasi-reform-horvath-anna-rmdsz-nov-26",
+      "r": "Külföld",
+      "c": "Románia–Erdély",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Még csak ötletelnek az erdélyi településösszevonásokról – az RMDSZ alelnöke szerint a helyi népszavazás és a nyelvi jogok a vita lényege",
+      "s": "Horváth Anna az Indexnek elmondta: egyelőre csak egy írásos tervezet van az 1500 fő alatti települések önkéntes összevonásáról, a városok visszaminősítéséről pedig nincs javaslat.",
+      "p": [
+        "Az Index csütörtöki cikke Horváth Annára, az RMDSZ önkormányzatokért felelős ügyvezető alelnökére hivatkozik. Eszerint a román közigazgatási reformról még csak ötletelnek, egyelőre egyetlen írásos tervezet létezik: ez az 1500 fő alatti települések önkéntes összevonásáról szól pénzügyi ösztönzőkkel. A 3000 fős küszöbről nincs konkrét javaslat.",
+        "A kormány számítása szerint az egyesülést ösztönző források és a kieső adóbevétel pótlása két év alatt összesen 4 milliárd lejbe kerülne. A 429 érintett önkormányzatnál évi mintegy 250 millió lej megtakarítás várható; Horváth szerint a reform legkorábban 16 év alatt térülne meg. A PSD munkacsoportjának vezetője, Dragos Benea szerint a helyi népszavazások túlságosan lassítanák a folyamatot, és a változtatásokat a 2028-as választások előtt egy évvel be kellene vezetni.",
+        "A kezdeményezők szerint a kisebbségi nyelvi jogok 20 százalék alatt is megmaradnának, Horváth szerint ez azonban nem garantálja a politikai képviseletet. Az RMDSZ ragaszkodik a helyi népszavazáshoz; a 2018-as törvénykiegészítés tiltja az olyan határmódosítást, amely az etnikai arányokat hátrányosan változtatja meg.",
+        "Felmerült, hogy a 10 ezer fő alatti városokat községgé minősítenék vissza; ez Borszék, Nyárádszereda és Bánffyhunyad városi rangját érintené, de erről nincs írásos javaslat. Külön szál, hogy a Székely Nemzeti Tanács petíciója 149 székelyföldi önkormányzat egyetlen közigazgatási egységbe szervezését kéri, amit az RMDSZ, az Erdélyi Magyar Szövetség és a Magyar Polgári Erő is támogat. Illyés Gergely politológus szerint egyelőre elsősorban politikai kommunikáció zajlik."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az RMDSZ alelnökének nyilatkozatán nyugszik; az írásos tervezetet közvetlenül nem láttuk, és a román kormány vagy a PSD álláspontját csak közvetve (Benea nyilatkozata) ismerjük. A 16 éves megtérülés Horváth Anna megállapítása. A nov. 15-i cikkünk a PSD tervezett lépéseiről szólt; ez a cikk új információkat (pénzügyi számok, népszavazás, nyelvi jogok) ad, a városok visszaminősítése pedig egyelőre nem hivatalos javaslat. A vezérkép aláírása nem egyértelmű.",
+      "op": "A magyar közösség aggodalma érthető: amikor a megtakarítás 16 év alatt térül meg, de a közösségi képviselet azonnal veszélybe kerülhet, a reform számai és a nyelvi jogok mérlege nem arányos. A helyi népszavazás nem akadály, hanem a legitimitás feltétele, ezt a bukaresti vitában érdemes kimondani.",
+      "src": [
+        [
+          "Index: Ősi városokat minősítenének le, magyar falvakat olvasztanának be Erdélyben",
+          "https://index.hu/kulfold/2026/11/26/erdely-romania-kozigazgatasi-reform/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7270/72706/727061/72706177_5356511_4aa43e93156664ddd4bfdadc8ba784c8_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/26/erdely-romania-kozigazgatasi-reform/",
+      "cred": "Index borítókép; az oldal aláírása: kis falu Erdélyben, 2019. szeptember 28. – Fotó: Angela Cini / Getty Images (az egyezés a vezérképpel nem egyértelmű), illusztráció"
+    },
+    {
+      "id": "onos-eso-havazas-figyelmeztetes-nov-25",
+      "r": "Közélet",
+      "c": "Időjárás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Szerdán ónos eső és havazás érkezik: citromsárga figyelmeztetés négy megyére, a Bakonyban jegesedés várható",
+      "s": "A Telex, az Index és a 444 szerint a HungaroMet havazásra és ónos esőre figyelmeztet, Budapesten harmadfokú készenlét van érvényben.",
+      "p": [
+        "A Telex a HungaroMet előrejelzésére hivatkozva azt írja, hogy szerdán eső, havas eső, ónos eső és havazás egyaránt előfordulhat. A délnyugati, nyugati országrészben inkább eső esik, máshol hó, amelyet helyenként ónos eső válthat. Jegesedésre elsősorban a Bakonyban kell számítani, estefelé pedig a főváros tágabb környékén és a Dunántúl északkeleti részén. Több helyen néhány centiméteres hóréteg alakulhat ki, a Budapesttől északabbra fekvő hegyekben több. A nappali csúcshőmérséklet 0 és 5 fok között alakul, késő estére mínusz 2 és plusz 3 fokra hűl a levegő.",
+        "Az Index szerint a HungaroMet elsőfokú, citromsárga havazási figyelmeztetést adott ki Pest, Heves, Komárom-Esztergom és Nógrád megyére, ahol 12 óra alatt 5 centiméternél több friss hó eshet. Ónos esőre Komárom-Esztergom és Veszprém megyében figyelmeztetnek, ott csak néhány tized milliméternyi csapadékot várnak, de az is veszélyes lehet. Éjszaka mínusz 9 és mínusz 1 fok között várható a hőmérséklet. A Magyar Közút 813 munkagéppel és több mint 3300 munkatárssal készül, Budapesten szerda hajnaltól a harmadik készenléti fokozat van érvényben. A Telex a Közút közleménye alapján 122 ezer tonna útszóró sót és 2,9 millió liter kalcium-klorid-oldatot említ.",
+        "A 444 az Időkép előrejelzésére hivatkozik: kora délután kezdenek hullani az első pelyhek az északi megyékben, Pest megyében is, és csütörtök hajnalig tart a havazás. Mintegy négy centiméter hóval számolnak, csütörtökön azonban egy fokkal melegebb lesz, ezért hó helyett havas eső esik."
+      ],
+      "cav": "A három forrás kissé más területi kört nevez meg: az Index négy megyét sorol fel, a 444 általánosan az északi megyéket és a Dunántúlt említi. A hóvastagság becslés (4–5 centi), a valós érték helyenként eltérhet. A friss HungaroMet-figyelmeztetések pontos érvényességi idejét a cikkek nem közlik. A hétfői előzetes hideghullám-cikkünk tényeit nem ismételtük.",
+      "op": "Az első havazás nem rendkívüli esemény, mégis évről évre kiderül, hogy az utak és a közlekedés mennyire felkészült. A jelek szerint a Közút és a főváros idén időben mozgósított, de a jégréteg a nap végén a hétköznapi autósnak okozza a legtöbb gondot: aki teheti, ma ne induljon el feleslegesen.",
+      "src": [
+        [
+          "Telex: Ónos esővel és havazással köszönt be a tél",
+          "https://telex.hu/belfold/2026/11/25/hungaromet-elorejelzes-ho-onos-eso"
+        ],
+        [
+          "Index: A havazás csak a jéghegy csúcsa, szerdán az ónos eső is lecsap Magyarországra",
+          "https://index.hu/belfold/2026/11/25/idojaras-elorejelzes-ho-havazas-hozapor-onos-eso-radar"
+        ],
+        [
+          "444: Kora délután kezd el esni a hó",
+          "https://444.hu/2026/11/25/kora-delutan-kezd-el-esni-a-ho"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8I1H7uh2JaioWGLVs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/25/kora-delutan-kezd-el-esni-a-ho",
+      "cred": "Fotó: Bankó Gábor / 444"
+    },
+    {
       "id": "eu-csucs-koltsegvetes-ukrajna-hitel-merz-nov-26",
       "r": "Külföld",
       "c": "Európai Unió",
