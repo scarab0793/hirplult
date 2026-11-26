@@ -1,6 +1,208 @@
 {
   "items": [
     {
+      "id": "magyar-posta-atvilagitas-feljelentes-34-milliard-nov-26",
+      "r": "Gazdaság",
+      "c": "Közpénz",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Hűtlen kezelés gyanúja miatt tett feljelentést a gazdasági minisztérium a Magyar Posta átvilágítása után: több mint 34 milliárd forintos ügyletek érintettek",
+      "s": "A Portfolio szerint Kapitány István a Posta Biztosító eladását, az Ecseri Csomagközpont beszerzését és a kommunikációs megrendeléseket emelte ki.",
+      "p": [
+        "A Portfolio csütörtök esti cikke szerint Kapitány István gazdasági és energetikai miniszter Facebook-bejegyzésben közölte: a minisztérium a Magyar Posta átvilágítása nyomán hűtlen kezelés gyanúja miatt feljelentést tett. A szabálytalanságok gyanúja több mint 34 milliárd forint közpénzt érintő ügyletekben merült fel. Az átvilágítás nyolc területet vizsgált, a miniszter három ügyet emelt ki.",
+        "Az első a Magyar Posta Biztosító: az állam 27,8 milliárd forintért vásárolta meg a társaság kétharmados részesedését, majd 23 milliárd forintért továbbadta a Tiborcz Istvánhoz köthető Gránit Biztosítónak. A második az Ecseri Csomagközpont beszerzése, ahol a miniszter szerint a feltételeket egy Waberer's-leányvállalatra szabhatták, ami becslés szerint akár 2 milliárd forint többletkiadást okozhatott. A harmadik a kommunikációs és rendezvényszervezési megrendelések köre: a Balásy-féle cégcsoportnak adott, több mint 1,68 milliárd forintos megrendelések körül a miniszter túlárazás és többszörös elszámolás gyanúját említi.",
+        "Kapitány István hangsúlyozta, hogy a felelősség megállapítása a nyomozó hatóságok dolga. A Portfolio cikke a végén jelzi, hogy elkészítésében AI-asszisztens is közreműködött, a végleges tartalmat a szerkesztőség ellenőrizte."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely a miniszter Facebook-bejegyzésére hivatkozik; magát a bejegyzést és a feljelentést nem láttuk. Valamennyi összeg és a szabálytalanságra utaló állítás a miniszteré, független ellenőrzés nincs; az érintett cégek vagy személyek reakcióját a cikk nem közli. Az ügyletek részleteit (hogyan alakult ki a 34 milliárdos összeg, mi szerepelt a további öt vizsgált területen) a cikk nem írja le. Gyanúról van szó: eljárás eredménye még nincs, az ártatlanság vélelme érvényes. A kép illusztráció.",
+      "op": "Ha a Posta Biztosító körüli ügylet tényleg úgy zajlott, ahogy a miniszter leírja, akkor az állam drágán vett és olcsón adott tovább, és ezt a nyomozóknak kell tisztázniuk. Addig is tisztességes mérce, hogy az átvilágítás teljes anyaga nyilvános legyen, ne csak a Facebook-poszt kiemelt esetei.",
+      "src": [
+        [
+          "Portfolio: Hatalmas csontvázak estek ki a Magyar Posta szekrényéből",
+          "https://www.portfolio.hu/gazdasag/20261126/hatalmas-csontvazak-estek-ki-a-magyar-posta-szekrenyebol-879484"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1446377780-784712.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/hatalmas-csontvazak-estek-ki-a-magyar-posta-szekrenyebol-879484",
+      "cred": "Illusztráció – Getty Images (a Portfolio jelzése szerint; fotós nincs megnevezve)"
+    },
+    {
+      "id": "alteo-eltex-szavatossagi-igeny-tiborcz-nov-26",
+      "r": "Gazdaság",
+      "c": "Vállalatok",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Szavatossági igényt jelentett be az Alteo az Éltex megvásárlása miatt: a 18,9 milliárdért vett cég tényleges saját tőkéje 3 milliárd alatt lehet",
+      "s": "A 444 szerint a tőzsdei társaság BÉT-közleményben jelezte, hogy minden jogi eszközt igénybe vesz, a könyvvizsgálói munka miatt pedig a felügyeleti hatóságnál is eljárást kezdeményez.",
+      "p": [
+        "A 444 csütörtöki cikke szerint az Alteo a Budapesti Értéktőzsde honlapján közzétett közleményben szavatossági igényt jelentett be az eladóval szemben az Éltex-akvizíció miatt. A társaság szerint, ha az eladó vitatja az igényt, „minden jogilag rendelkezésére álló eszközt” igénybe vesz. A közlemény három fejleményt említ: a szavatossági igény bejelentését, vételárkorrekciós egyeztetést, valamint beadványt a Könyvvizsgálói Közfelügyeleti Hatóságnak a Controlex Kft. és az Éltex könyvvizsgálatát végző könyvvizsgáló munkájáról.",
+        "A cikk szerint az Alteo tavaly 18,9 milliárd forintot fizetett az Éltexért, amelynek könyv szerinti értéke 10 milliárd forint volt. A hibás könyvelés miatt a tényleges saját tőke a 444 szerint 3 milliárd forint alatt van, ezért a túlárazás hatszoros. Az Éltex tulajdonosa 2024-től kizárólag a Tiborcz Istvánhoz köthető Globel Refuse Holding volt; az Alteo 2023-ban a Tiborcz-érdekeltségű Főnix Magántőkealap részesedését is megszerezte, 2026 áprilisában, 11 nappal a választások előtt pedig kiszállt az Éltexből.",
+        "A tőzsdén a hír nem maradt hatás nélkül: az Alteo részvényének árfolyama csütörtökön 2660 forintig esett, ami közel van az éves mélyponthoz."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul; a BÉT-közleményt közvetlenül nem láttuk. A közlemény az eladó nevét nem említi a cikk szerint, a Tiborcz-kapcsolat a lap értelmezése az ismert tulajdonosi láncról. A „hatszoros túlárazás” és a 3 milliárd alatti saját tőke a 444 számítása, az Alteo közleményéből ez nem derül ki közvetlenül. Az eladó, a könyvvizsgáló és a Tiborcz-érdekeltségek reakcióját a cikk nem közli.",
+      "op": "Ha a vevő tőzsdei társaság maga mondja ki, hogy a megvásárolt cég könyvei hibásak, az nem pusztán vállalati belügy, hanem a kisbefektetők pénzéről is szól. Üdvözlendő, hogy az Alteo jogi útra terel, de a kérdés az marad: hogyan jutott át ez az ár a kontrollon tavaly.",
+      "src": [
+        [
+          "444: Eljárásokat kezdeményez a nagy Tiborcz-trükk nyomán a hatszoros túlárazással céget vásárló tőzsdei társaság",
+          "https://444.hu/2026/11/26/eljarasokat-kezdemenyez-a-nagy-tiborcz-trukk-nyoman-a-hatszoros-tularazassal-ceget-vett-tozsdei-tarsasag"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8A7AfVUIWSGlzwYqs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/eljarasokat-kezdemenyez-a-nagy-tiborcz-trukk-nyoman-a-hatszoros-tularazassal-ceget-vett-tozsdei-tarsasag",
+      "cred": "Tiborcz István 2025 februárjában – Fotó: Kovács Bendegúz / 444 (a 444 aláírása szerint; archív kép)"
+    },
+    {
+      "id": "hungary-helps-uj-vezetes-januar-velkey-nov-26",
+      "r": "Belpolitika",
+      "c": "Külpolitika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Januártól új vezetője lesz a Hungary Helps Ügynökségnek: az átvilágítás szerint több milliárdnyi támogatás volt elszámolatlan",
+      "s": "Az Index szerint Velkey György államtitkár a pályázat nyertesének Venczel Zoltánt nevezte meg, és személyi, szükség esetén büntetőjogi következményeket ígért.",
+      "p": [
+        "Az Index csütörtöki cikke szerint Velkey György, a Külügyminisztérium parlamenti államtitkára Facebook-bejegyzésben jelentette be, hogy januártól új vezetés irányítja a Hungary Helps Ügynökséget. A nyílt pályázat alapján Venczel Zoltán lesz a vezérigazgató, Márki Tamás pedig a helyettese.",
+        "Az államtitkár szerint a Külügyminisztérium átvilágítása több milliárd forintnyi, évekre visszamenőleg elszámolatlan támogatást tárt fel, és aggályosnak nevezte a milliós nagyságrendű „működési támogatás” címén kifizetett összegeket is. A feltárt körülményeket „rendkívül súlyosnak” minősítette, és személyi, szükség esetén büntetőjogi intézkedéseket helyezett kilátásba. A cikk szerint a kormány megszakítja a kapcsolatot azokkal a partnerekkel, amelyek a támogatási rendszerben saját anyagi érdekeiket érvényesítették.",
+        "Háttérként az Index felidézi, hogy a csádi missziós programra az előző kormány 6,9 milliárd forintot biztosított a Hungary Helpsnek, amiből 4,9 milliárdot költöttek el."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul, amely az államtitkár Facebook-bejegyzésére hivatkozik; magát a bejegyzést és az átvilágítási jelentést nem láttuk. A „több milliárd forint” elszámolatlan támogatás pontos összegét, a partnerek nevét és a kifizetések célját a cikk nem közli. A korábbi vezetés vagy az érintett partnerek álláspontja nem szerepel. Büntetőeljárásról egyelőre nincs hír, csak kilátásba helyezett lépésekről.",
+      "op": "Az, hogy külföldi segélyezésre szánt közpénzről évekre visszamenőleg nincs rendes elszámolás, ma már nem meglepetés, de attól még nem lehet természetes. A nyílt pályázat jó jel, a hitelességhez azonban az átvilágítás nyilvános összefoglalója is kellene, nem csak az államtitkári poszt.",
+      "src": [
+        [
+          "Index: Súlyos problémákat tártak fel a Hungary Helpsnél, januártól új vezetők érkeznek",
+          "https://index.hu/belfold/2026/11/26/hungary-helps-ugynokseg-palyazat-uj-vezetok-velkey-gyorgy-venczel-zoltan-marki-tamas/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7271/72718/727181/72718199_5357309_a7635b3eadee104adfec9be57cca8c2a_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/26/hungary-helps-ugynokseg-palyazat-uj-vezetok-velkey-gyorgy-venczel-zoltan-marki-tamas/",
+      "cred": "Index borítókép (az oldal nem ad meg képaláírást; a cikk nyitóképén Velkey György, Fotó: Németh Kata / Index)"
+    },
+    {
+      "id": "ruff-balint-444-interju-gazdasagi-rendszervaltas-nov-26",
+      "r": "Belpolitika",
+      "c": "Kormány",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Ruff Bálint a 444-nek: a politikai rendszerváltás jól működik, a gazdasági rendszerváltáshoz még türelem kell",
+      "s": "A Miniszterelnökséget vezető miniszter szerint a NER-es cégek az állam támogatásával épültek be a gazdaságba, az ügynökakták ügyében pedig belső vizsgálat folyik.",
+      "p": [
+        "A 444 csütörtök esti stúdióinterjújában Ruff Bálint, a Miniszterelnökséget vezető miniszter azt mondta: a közjogi és a politikai rendszerváltás jól működik, a gazdasági rendszerváltáshoz viszont türelem kell. Szerinte a Fidesz-kormányok alatt a NER-hez köthető cégek a magyar állam támogatásával mélyen beépültek a gazdaságba, az állam pedig rossz konstrukciókban pazarolta a közvagyont.",
+        "Az ügynökakták nyilvánosságra hozataláról a miniszter úgy fogalmazott, hogy azt a korábbi kormányoknak kellett volna elvégezniük; az Állambiztonsági Szolgálatok Történeti Levéltára (ÁBTL) szerinte végrehajtotta a törvényt, a hibákról pedig belső vizsgálat folyik. Feledy Botond eltávolításáról azt mondta, hogy a minisztérium azután vált meg tőle, hogy kiderült: a cége több fideszes minisztériumnak is tanácsadott, ezt viszont az interjún eltitkolta. A kormányon kívüli álláspontot a cikk szerint Feledy cége úgy foglalta össze, hogy a Tiszának is készített elemzéseket.",
+        "Ruff Bálint szerint a Fidesz-kormányok 16 éve „nem volt normális”. Elmondta azt is, hogy péntekenként vidéki fórumokra jár."
+      ],
+      "cav": "A beszámoló a 444 interjúján alapul, amelyet a teljes hosszában nem láttuk; csak az összefoglalt állítások szerepelnek itt. A miniszter minden állítása (közvagyon-pazarlás, a NER-es cégek helyzete, Feledy menesztésének oka) az ő megállapítása, ellenőrzött adat nincs mellette. A Feledy-ügyben az érintett cég saját magyarázata csak közvetve, a cikkben jelenik meg. Konkrét számot vagy intézkedést az összefoglalt részek nem tartalmaznak.",
+      "op": "A „türelem kell” mondat kényelmes, mert a gazdasági átrendeződés valóban nem megy egyik napról a másikra, de a választók türelmének is van határa. Jó volna, ha a kormány a szép kijelentések mellé konkrét lépéseket és határidőket tenne, különösen az ügynökakták ügyében, ahol a hibák beismerése már fél lépés.",
+      "src": [
+        [
+          "444: Ruff Bálint a 444-nek: A politikai rendszerváltás jól működik, a gazdaságihoz még türelem kell",
+          "https://444.hu/2026/11/26/ruff-balint-a-444-nek-a-politikai-rendszervaltas-jol-mukodik-a-gazdasagihoz-meg-turelem-kell"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q8mpgVOpHqgmOWGs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/ruff-balint-a-444-nek-a-politikai-rendszervaltas-jol-mukodik-a-gazdasagihoz-meg-turelem-kell",
+      "cred": "Vezérkép: 444 (képaláírás és fotós nincs megadva)"
+    },
+    {
+      "id": "litvania-gru-terrorszervezet-eu-budrys-nov-26",
+      "r": "Külföld",
+      "c": "Litvánia",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Litvánia szerint az EU-nak terrorszervezetnek kellene minősítenie az orosz katonai hírszerzést, a GRU-t",
+      "s": "A 444 az MTI nyomán azt írja, hogy Budrys litván külügyminiszter szerint az orosz akciók már nem hibrid, hanem nem hagyományos hadviselésnek számítanak.",
+      "p": [
+        "A 444 az MTI anyaga alapján azt írja, hogy Kęstutis Budrys litván külügyminiszter szerdán a Die Welt című német lapnak adott interjúban arra szólította fel az Európai Uniót, hogy nyilvánítsa terrorszervezetnek a GRU-t, az orosz katonai hírszerzést.",
+        "A miniszter az orosz akciókat szerinte már nem lehet hibrid támadásnak tekinteni, hanem nem hagyományos hadviselésnek minősülnek, amely a NATO 5. cikkelyének alkalmazását is felvetheti. Litvániában öt, terrorizmussal vádolt férfi áll bíróság előtt, akik a cikk szerint csomagban házilag készített robbanószerkezeteket küldtek; gyújtogatási kísérlet és rongálás miatt is folyik eljárás. A cikk említi az augusztusi lipcsei repülőtéri esetet is, ahol robbanóanyagot szállító drónt találtak egy ukrán teherszállító közelében."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely az MTI-re és a Die Welt interjújára hivatkozik; az interjút nem láttuk. Az orosz katonai hírszerzés felelősségéről a cikk litván állításokat közöl, ítélet nincs: az öt vádlott ügye bíróság előtt van, az ártatlanság vélelme érvényes. Az EU-s döntés menetéről, a többi tagállam álláspontjáról és az orosz reakcióról a cikk nem ír. A kép illusztráció.",
+      "op": "Az, hogy a katonai hírszerzés ellen szabotázs- és gyújtogatási ügyekben kell eljárni európai bíróságokon, jól mutatja, hogy a hibrid hadviselés már nem elméleti fogalom. A terrorszervezeti besorolás erős politikai jelzés, de annál többet ér, minél több tagállam áll mögé, és minél kevésbé marad puszta nyilatkozat.",
+      "src": [
+        [
+          "444: Terrorszervezetté minősítené az orosz katonai hírszerzést Litvánia",
+          "https://444.hu/2026/11/26/terrorszervezette-minositene-az-orosz-katonai-hirszerzest-litvania"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8DPcr6cXHCIQ1AamOs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/terrorszervezette-minositene-az-orosz-katonai-hirszerzest-litvania",
+      "cred": "Illusztráció – Fotó: Who is Danny / stock.adobe.com (a 444 aláírása szerint)"
+    },
+    {
+      "id": "bp-wipro-kiszervezes-magyar-dolgozok-nov-26",
+      "r": "Gazdaság",
+      "c": "Vállalatok",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Kiszervezi pénzügyi tevékenységének egy részét a BP az indiai Wiprónak: Magyarországon is érintettek lehetnek a dolgozók",
+      "s": "A Portfolio a Reuters nyomán azt írja, hogy mintegy háromezer munkavállaló kerülhet át, a magyar részleg 2027-ben, ha a feltételek teljesülnek.",
+      "p": [
+        "A Portfolio a Reuters beszámolójára hivatkozva azt írja, hogy a BP három országban, köztük Magyarországon is kiszervezi pénzügyi tevékenységeinek egy részét az indiai Wipro technológiai szolgáltatónak. A szerdán bejelentett megállapodás alapján nagyjából háromezer munkavállaló kerül át a Wiprohoz.",
+        "Az érintett magyar, indiai és malajziai pénzügyi részleg 2027-ben kerülhet át, ha a feltételek teljesülnek. A BP megtartja az adatkezelés és a szakmai sztenderdek felügyeletét. A cég világszerte mintegy 93 700 embert foglalkoztat, közülük több mint 3300 Magyarországon, nagyjából 7500 Indiában és 1400 Malajziában.",
+        "A felek az üzlet részleteit nem hozták nyilvánosságra, és a BP nem kommentálta, hogy a háromezer fő mekkora része a pénzügyi csapatának. Kate Thomson pénzügyi igazgató szerint az együttműködés a pénzügyi folyamatok egyszerűsítését segíti."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul, amely a Reuters anyagára hivatkozik; az eredeti közleményt nem láttuk. Nem derül ki, hány magyarországi munkahelyet érint pontosan az átadás, megmarad-e a munkahelyük, és milyen feltételekkel; a BP az ügylet pénzügyi részleteit sem közölte. A „3000 fő” az összes érintett országra vonatkozik.",
+      "op": "Az ilyen kiszervezések a cégeknek költségcsökkentést jelentenek, az érintett dolgozóknak viszont bizonytalanságot. A magyar munkavállalók számára az a lényeg, hogy az átadás feltételeit (bér, munkaviszony folytonossága) nyíltan megismerjék, ne csak a cég kommunikációjából.",
+      "src": [
+        [
+          "Portfolio: Kiszervez a BP – magyar dolgozók is érintettek",
+          "https://www.portfolio.hu/gazdasag/20261126/kiszervez-a-bp-magyar-dolgozok-is-erintettek-879486"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-2287812498-873242.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/kiszervez-a-bp-magyar-dolgozok-is-erintettek-879486",
+      "cred": "Címlapkép forrása: 2026 Cheng Xin / Getty Images (Portfolio jelzése szerint; illusztráció)"
+    },
+    {
+      "id": "spacex-starmind-fcc-egymillio-muhold-nov-26",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Zöld lámpát kapott a SpaceX akár egymillió műholdhoz, amelyek űrbeli adatközpontokat alkotnának",
+      "s": "A Qubit a BBC nyomán azt írja, hogy az amerikai FCC engedélyezte a Starmind projektet, a telepítést 2033-ig kell elkezdeni.",
+      "p": [
+        "A Qubit csütörtöki cikke szerint az amerikai Szövetségi Hírközlési Bizottság (FCC) szerdán engedélyezte a SpaceX Starmind projektjét, amellyel a cég 2033-tól akár egymillió műholdat küldhet pályára űrbeli adatközpontok céljára. A lap a BBC-re hivatkozik, amely szerint ez az első ilyen engedély.",
+        "A határidők szerint a telepítést legkésőbb 2033 novemberéig meg kell kezdeni, 2035 novemberéig a műholdak 10 százalékát, 2038 novemberéig pedig a felét kell pályára állítani. Az első Starmind-műholdat jövőre tervezik felbocsátani. A cikk szerint nem világos, hogy valóban egymillió műholdat indítanak-e, vagy a cég csak több engedélyt kért.",
+        "A SpaceX szerint az űrbeli adatközpontok jelentik a legköltséghatékonyabb megoldást az AI-számítási igényekre. Elon Musk az X-en így reagált: „Nagyra értékeljük!”."
+      ],
+      "cav": "A beszámoló a Qubit cikkén alapul, amely a BBC-re hivatkozik; az FCC határozatát nem láttuk. A cikk szerint nem világos, hogy a műholdszám valós terv vagy engedélyezési tartalék. Az űrszemét, a csillagászati megfigyelésekre gyakorolt hatás és a költségek kérdéseit a cikk nem tárgyalja.",
+      "op": "Az, hogy egy cég egymillió műholdra kap engedélyt, inkább a szabályozás gyengeségét mutatja, mint a technológiai előrelépést: a pálya közös erőforrás. Jó volna, ha az űrszemét és a zsúfoltság kockázatait nyilvánosan, számokkal mérlegelnék, mielőtt az AI-éhség miatt tovább telik az égbolt.",
+      "src": [
+        [
+          "Qubit: Zöld lámpa a SpaceX-nek akár egymillió műholdhoz és űrbéli adatközpontok létesítéséhez",
+          "https://qubit.hu/2026/11/26/zold-lampa-a-spacex-nek-akar-egymillio-muholdhoz-es-urbeli-adatkozpontok-letesitesehez"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/7vdjcjIi4uWCaIOds-lg.jpeg",
+      "imgs": "Qubit",
+      "imgl": "https://qubit.hu/2026/11/26/zold-lampa-a-spacex-nek-akar-egymillio-muholdhoz-es-urbeli-adatkozpontok-letesitesehez",
+      "cred": "Vezérkép: Qubit (képaláírás és fotós nincs megadva)"
+    },
+    {
       "id": "lakhatasi-program-11-milliard-karacsony-vitezy-fkt-nov-26",
       "r": "Közélet",
       "c": "Budapest",
