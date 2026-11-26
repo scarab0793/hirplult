@@ -1,6 +1,267 @@
 {
   "items": [
     {
+      "id": "trump-rutte-orosz-haboru-kiterjesztes-nato-nov-26",
+      "r": "Külföld",
+      "c": "Ukrajna–NATO",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T05:23:00+00:00",
+      "ai_edited": true,
+      "t": "Trump és Rutte közös üzenete Moszkvának: ne terjessze ki az ukrajnai háborút",
+      "s": "A 444 szerint a floridai tárgyalás után kiadott közös nyilatkozat azt kéri Oroszországtól, hogy tartózkodjon minden olyan lépéstől, amely szándékosan vagy véletlenül szélesítené a konfliktust.",
+      "p": [
+        "A 444 csütörtök reggeli beszámolója szerint Donald Trump amerikai elnök és Mark Rutte NATO-főtitkár közös nyilatkozatban szólította fel Oroszországot, hogy tartózkodjon minden olyan cselekedettől, amely akár szándékosan, akár akaratlanul kiterjesztené az ukrajnai háborút. A nyilatkozat egy floridai megbeszélés után született, amelyen a cikk szerint az ukrajnai háború mellett az Irán elleni amerikai–izraeli háború is téma volt; arról azonban nem esett szó a beszámolóban, hogy Iránról pontosan mit egyeztettek.",
+        "A találkozó előzménye, hogy Trump a múlt héten Ázsiában találkozott Vlagyimir Putyin orosz és Hszi Csin-ping kínai elnökkel, akiket a 444 szerint a barátjának nevezett. A lap szerint ez a találkozó az amerikai demokrata ellenfelek és az európai szövetségesek részéről is negatív reakciókat váltott ki. Rutte ezzel szemben úgy fogalmazott, hogy normális, ha a nagyobb nukleáris hatalmak vezetői leülnek egymással.",
+        "A két vezető a védelmi kiadások és beruházások növeléséről is egyeztetett. A 444 a Reuters tudósítására hivatkozik; a nyilatkozat szövegét magát nem idézi teljes terjedelmében, és arról sem ír, hogy Moszkva reagált-e az üzenetre."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely a Reuters tudósítására hivatkozik; a közös nyilatkozat eredeti szövegét és a Reuters-cikket közvetlenül nem láttuk. A cikk nem részletezi, mit értenek „kiterjesztésen”, és az Irán-témáról sem közöl érdemi tartalmat. Orosz vagy ukrán reakció nincs benne.",
+      "op": "Egy általános figyelmeztetés Moszkvának jól hangzik, de addig keveset ér, amíg a két vezető nem mondja meg, mi lenne a következménye, ha az orosz fél mégis átlépne egy határt. Az európai szövetségesek aggodalma érthető: a „barátom” Putyin mellett nehéz egyszerre hitelesnek maradni a NATO-ban.",
+      "src": [
+        [
+          "444: Trump és a NATO-főtitkár együtt kéri Oroszországot, hogy ne próbálja kiterjeszteni az ukrajnai háborút",
+          "https://444.hu/2026/11/26/trump-es-a-nato-fotitkar-egyutt-keri-oroszorszagot-hogy-ne-probalja-kiterjeszteni-az-ukrajnai-haborut"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8KLaLBZSHiCa1ya1Jjs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/trump-es-a-nato-fotitkar-egyutt-keri-oroszorszagot-hogy-ne-probalja-kiterjeszteni-az-ukrajnai-haborut",
+      "cred": "Mark Rutte és Donald Trump – Fotó: Mandel Ngan / AFP (a 444 aláírása szerint)"
+    },
+    {
+      "id": "ebola-bundibugyo-kongo-12021-fertozes-nov-26",
+      "r": "Külföld",
+      "c": "Járvány",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T08:31:00+00:00",
+      "ai_edited": true,
+      "t": "Tovább terjed az ebolajárvány Kongóban: 12 021 megerősített fertőzés, 5904 halott",
+      "s": "Az MTI nyomán a 444 szerint a Bundibugyo-törzs okozta járványt nem sikerült megfékezni, az ország 26 tartományából már nyolcban megjelent.",
+      "p": [
+        "A 444 az MTI jelentésére hivatkozva írja, hogy a Kongói Demokratikus Köztársaság kormányának csütörtöki adatai szerint a megerősített ebolafertőzések száma 12 021, a járványban eddig 5904 ember halt meg. A járványt nem sikerült megfékezni; a védekezést nehezíti, hogy a betegséget későn ismerték fel, az országban fegyveres konfliktus zajlik, az egészségügyi rendszer pedig túlterhelt.",
+        "A kitörést a Bundibugyo nevű, ritka ebolavírus-típus okozza, amely májusban az északkeleti Ituri tartományban jelent meg. Azóta az ország 26 tartományából nyolcban azonosítottak eseteket. Ehhez a vírustípushoz jelenleg nincs engedélyezett gyógyszeres kezelés vagy vakcina.",
+        "A WHO és az Africa CDC adatai szerint az új esetek mindössze 15 százaléka köthető olyan kontaktokhoz, akiket a hatóságok korábban már azonosítottak, ami azt jelzi, hogy sok fertőzési lánc ismeretlen marad. A feljegyzések kezdete óta ez a második legnagyobb és a legtöbb halálos áldozattal járó ebolajárvány. A 2014–2016-os nyugat-afrikai járvány súlyosabb volt: több mint 28 600 embert fertőzött meg, és több mint 11 ezer halálos áldozata volt."
+      ],
+      "cav": "A beszámoló a 444 MTI-re épülő cikkén alapul; a kongói kormány, a WHO és az Africa CDC eredeti közleményeit közvetlenül nem láttuk. A cikk nem közöl adatot a járvány napi ütemére vagy a nemzetközi segélyek mértékére. A „második legnagyobb” besorolás a cikk megállapítása.",
+      "op": "Egy ilyen méretű járvány ellen vakcina és gyógyszer nélkül nemcsak az orvosi, hanem a politikai felkészületlenség is látszik: a világ addig figyel oda, amíg a kór el nem ér a gazdag országokba. A késői felismerés és a fegyveres konfliktus ugyanarról szól, arról, hogy a legszegényebbeket hagyjuk magukra.",
+      "src": [
+        [
+          "444: Tovább terjed az ebolajárvány a Kongói Demokratikus Köztársaságban",
+          "https://444.hu/2026/11/26/tovabb-terjed-az-ebolajarvany-a-kongoi-demokratikus-koztarsasagban"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8F5ekhERpGV4GWB0s-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/tovabb-terjed-az-ebolajarvany-a-kongoi-demokratikus-koztarsasagban",
+      "cred": "Fotó: John Wessels / AFP (a 444 jelzése szerint; külön képaláírás nincs)"
+    },
+    {
+      "id": "konok-peter-nemes-daniel-itelotabla-per-nov-26",
+      "r": "Közélet",
+      "c": "Bíróság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:04:00+00:00",
+      "ai_edited": true,
+      "t": "Másodfokon is Konok Péter javára döntött a bíróság Nemes Dániel Facebook-bejegyzés miatti perében",
+      "s": "A 444 szerint a Fővárosi Ítélőtábla jogerősen megállapította, hogy a történésznek joga volt a 2025-ös, Nemes Dánielről szóló bejegyzéshez.",
+      "p": [
+        "A 444 csütörtöki beszámolója szerint a Fővárosi Ítélőtábla jogerősen, másodfokon is Konok Péter történész, publicista javára döntött Nemes Dániel Izrael-párti aktivistával szemben. Nemes a jó hírnévhez és becsülethez való jogára hivatkozva sérelemdíjat, a bejegyzés egyes részeinek törlését és perköltség-megtérítést követelt.",
+        "A per Konok 2025 márciusi Facebook-bejegyzése miatt indult, amelyben a lap szerint többek között azt írta, hogy Nemes „a palesztinok kiirtását üdvözli”, és azt, hogy Nemes Dánielben Radnóti Miklós „elborzadva ismerhetne saját gyilkosaira”. Az alkalom az volt, hogy Nemest 2025-ben a Magyar Ellenállók és Antifasiszták Szövetsége Radnóti Miklós Antirasszista Díjjal tüntette ki.",
+        "Az elsőfokú bíróság tavasszal elutasította Nemes keresetét, és perköltségben marasztalta. A bíróság álláspontja szerint Konoknak joga volt a bejegyzéshez. A 444 a hírt a Mérce nyomán közli."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely a Mérce híradására hivatkozik; az ítélet szövegét közvetlenül nem láttuk, indoklását a cikk nem részletezi. Nemes Dániel álláspontját és esetleges jogorvoslati szándékát a cikk nem közli. A bejegyzés idézett részei a cikk szerint szerepeltek a posztban.",
+      "op": "Bíróság a véleménynyilvánítás szabadságát védte, és ez akkor is fontos, ha a bejegyzés hangneme sokaknak durva: a közéleti szereplőnek tűrnie kell a kemény bírálatot. A kényes kérdés viszont az, hol húzódik a határ a bírálat és a gyalázó hasonlatok között, erről az indoklás ismeretében lehet majd érdemben vitázni.",
+      "src": [
+        [
+          "444: Másodfokon is pert nyert Konok Péter publicista Nemes Dániel Izrael-párti aktivista ellen",
+          "https://444.hu/2026/11/26/masodfokon-is-pert-nyert-konok-peter-publicista-nemes-daniel-izrael-parti-aktivista-ellen"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8JmkjzzUXWBnUxHPs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/masodfokon-is-pert-nyert-konok-peter-publicista-nemes-daniel-izrael-parti-aktivista-ellen",
+      "cred": "Konok Péter – kép: ÖT/YouTube (a 444 forrásmegjelölése szerint)"
+    },
+    {
+      "id": "paksi-fenekkuszob-hajozas-ujraindult-105-nap-nov-26",
+      "r": "Közélet",
+      "c": "Közlekedés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T11:10:00+00:00",
+      "ai_edited": true,
+      "t": "105 nap után újraindult a hajózás a paksi fenékküszöb fölött, 80 hajó várt az átkelésre",
+      "s": "A 444 szerint a kétnapos próbajáratok után feloldották a zárlatot december 5-ig; az átkelés regisztrációhoz kötött, egyszerre csak egy irányban lehetséges.",
+      "p": [
+        "A 444 csütörtöki cikke szerint 105 nap után újraindult a hajózás a Duna paksi fenékküszöbe fölött, mindkét irányban. Két napig próbaátkelések zajlottak, ezek sikere után a hatóság december 5-ig feloldotta a zárlatot. Összesen 80, a kis vízállás miatt megrekedt hajó várta az átkelést; a lefelé tartók szerdán már áthaladhattak, csütörtöktől mindkét irányban lehet közlekedni.",
+        "A hajózási zárlatot Paksnál augusztus 13-án rendelték el. A lap megjegyzi, hogy a valóságban már egy-másfél hónappal korábban sem közeledtek nagyobb hajók a Dunán az alacsony vízállás miatt. A megnyitott hajózóút 60 méter széles, egyszerre csak egy irányban lehet átkelni, az önjáró teherhajók elsőbbséget élveznek a személyhajókkal szemben, és előzetes regisztráció kell. A lassabb hajókat vontatóhajó segíti át a sodrásos szakaszon, a gyorsabbakat rádión irányítják.",
+        "A fenékküszöb duzzasztórésze augusztusban elkészült, de az építés azóta is folytatódott: a fenéket kövezték a kimosódás ellen, a kivájt gödröt feltöltötték, és ott, ahol az átkelés megindult, csökkentették a fenékborda magasságát. A vízügy közleménye szerint a vízmélységek és a sebességek alakulását modellezték, az eredményeket egyeztették a magyar hatóságokkal és a Duna Bizottsággal."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely a vízügy Facebook-közleményére hivatkozik; a közleményt közvetlenül nem láttuk. A cikk nem közli, mi történik december 5. után, és azt sem, hogy az átkelést mi tenné újra lehetetlenné (vízállás). A korábbi, Paks távfűtés-leállásáról szóló cikkünk más ügy.",
+      "op": "Három és fél hónap kényszerpihenő után a hajózás újraindul, de az, hogy a zárlat december 5-ig szól, azt jelzi: a rendszer továbbra is a vízállás kegyeire van bízva. Egy duzzasztó- és fenékküszöb-beruházásnál az építés közbeni forgalmi leállás költségét is érdemes lenne egyszer nyilvánosan elszámolni.",
+      "src": [
+        [
+          "444: Újraindult a hajózás a paksi fenékküszöb fölött",
+          "https://444.hu/2026/11/26/ujraindult-a-hajozas-a-paksi-fenekkuszob-folott"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q8saeCzp41fIaDws-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/ujraindult-a-hajozas-a-paksi-fenekkuszob-folott",
+      "cred": "Munkagépek a paksi fenékküszöbnél – Fotó: Illyés Tibor / MTI / MTVA (a 444 aláírása szerint)"
+    },
+    {
+      "id": "eszak-korea-kim-nuklearis-program-bovites-nov-26",
+      "r": "Külföld",
+      "c": "Észak-Korea",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T05:36:00+00:00",
+      "ai_edited": true,
+      "t": "Kim Dzsongun a nukleáris program bővítését sürgeti: az atomhatalmi státusz „abszolút sérthetetlen”",
+      "s": "A 444 az MTI és a KCNA nyomán azt írja, hogy az észak-koreai vezető szerint a nukleáris kapacitás „már valóság”, a taktikai atomfegyverek hadrendbe állítását szélesítené.",
+      "p": [
+        "A 444 az MTI-re és az észak-koreai állami KCNA hírügynökségre hivatkozva írja, hogy Kim Dzsongun egy nukleáris létesítmény meglátogatásakor a program bővítését sürgette, és azt, hogy a taktikai atomfegyvereket szélesebb körben állítsák hadrendbe. Közölte, hogy a nukleáris anyag termelési kapacitása folyamatosan bővül.",
+        "Az észak-koreai vezető az ország atomhatalmi státuszát „abszolút sérthetetlennek” nevezte, és szerinte minden kísérlet, amely ezt megkérdőjelezi vagy visszafordítja, Phenjan szerint „nyílt hadüzenet”. Úgy fogalmazott, hogy az észak-koreai nukleáris képesség már valóság, és amíg atomfegyverekkel hegemóniára törekvő erők léteznek, a nukleáris fegyverek az állam fennmaradásának és szuverenitásának alapvető garanciái.",
+        "A fegyverkezés indokaként az Egyesült Államokat és szövetségeseit nevezte meg, bírálta az AUKUS-megállapodást, és azzal vádolta Washingtont, hogy nukleáris katonai szövetségi rendszert épít a térségben."
+      ],
+      "cav": "A beszámoló a 444 cikkén alapul, amely az MTI-n keresztül a KCNA közlésére épül; a KCNA eredeti szövegét és a látogatás helyét nem ismerjük. Az észak-koreai állami média közlései nem függetlenül ellenőrzöttek, a termelési kapacitás növekedését más forrás nem erősítette meg.",
+      "op": "Phenjan retorikája évek óta ugyanaz, és az ilyen nyilatkozatok egy része a belső és külső nyomásgyakorlásnak szól. Ettől még a taktikai atomfegyverek szélesebb bevetési szándéka aggasztó, mert a térségben egy félreértés is végzetes lépést indíthat el.",
+      "src": [
+        [
+          "444: Észak-Korea megkedvelte az atomfegyvereket",
+          "https://444.hu/2026/11/26/eszak-korea-megkedvelte-az-atomfegyvereket"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8JgIyo9EWMlAqGYqs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/26/eszak-korea-megkedvelte-az-atomfegyvereket",
+      "cred": "Archív kép: Kim Dzsongun egy márciusi rakétateszten – Fotó: STR / AFP (a 444 aláírása szerint)"
+    },
+    {
+      "id": "wellis-80-dolgozo-elbocsatas-kotveny-nov-25",
+      "r": "Gazdaság",
+      "c": "Vállalatok",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T12:45:00+00:00",
+      "ai_edited": true,
+      "t": "Elbocsát 80 dolgozót a Wellis: a jakuzzigyártó 17 milliárd forintos adósságát nem tudja fizetni",
+      "s": "A HVG szerint a dabasi és ózdi telephelyet érinti a leépítés; a cég szeptemberben nem fizette ki egy kötvénye esedékes részletét, a Scope vizsgálja a leminősítést.",
+      "p": [
+        "A HVG szerint a Wellis Magyarország Zrt. 80 dolgozót bocsát el a dabasi és az ózdi telephelyéről; az értesülést a Telex hozta le elsőként. Az Opten szeptemberi adata szerint a cég 665 főt foglalkoztatott, így a leépítés a munkavállalók mintegy 12 százalékát érinti. Czafik Zsolt tulajdonos-vezérigazgató megerősítette a hírt: október végén a Portfoliónak még 80–100 embert érintő leépítésről beszélt, indoklása szerint a termékek kereslete szezonálisan ingadozik. Az elbocsátottak többsége a gyártásban dolgozik.",
+        "A cégnél pénzügyi nehézségek is vannak. 2021-ben 9,9 milliárd forintot vontak be az MNB Növekedési Kötvényprogramjában, de szeptember végén nem fizették ki az esedékes 990 millió forintos részletet, októberben pedig a Budapesti Értéktőzsde felfüggesztette a kötvény kereskedését. A Scope Ratings 2024 októberében B- stabil, idén C minősítést adott a cégnek, tavasszal átmenetileg szelektív nemteljesítést (SD) jelzett, és október 20-án vizsgálat alá helyezte a Wellist egy esetleges leminősítés miatt.",
+        "A HVG szerint a vállalat 2025-ben 28,8 milliárd forint árbevétel mellett 2,5 milliárd forint veszteséget könyvelt. Czafik októberben azt mondta, a finanszírozókkal a teljes, 17 milliárd forintos adósság átütemezéséről tárgyal. A cikk felidézi, hogy 2020-ban 8,5 milliárd forintos ózdi beruházásba kezdtek, amelyhez egyedi kormánydöntéssel 3 milliárd forint állami támogatás járult, és hogy 2022-ben Dabason és Ózdon egyaránt 300–300 dolgozótól váltak meg."
+      ],
+      "cav": "A beszámoló a HVG cikkén alapul, amely a Telexre, az Optenre és a Portfolióra hivatkozik; ezeket közvetlenül nem láttuk. A leépítés pontos létszáma és az érintett telephelyek közti megoszlás a cikkben nem szerepel. A HVG az átütemezési tárgyalások eredményéről nem tud. A cikkben szerepel egy háttérszál a vezérigazgató házáról, ezt kihagytuk, mert nem tartozik a tárgyhoz.",
+      "op": "Egy cég, amely állami támogatással épített üzemet, és eközben kötvényből vont be tízmilliárdokat, nemcsak magáról, hanem a támogatáspolitikáról is mond valamit, amikor leépít. Az ózdi és dabasi dolgozók sorsa a legfontosabb: remélhetőleg a munkaügyi központ gyorsan és érdemben segít nekik.",
+      "src": [
+        [
+          "HVG: Elbocsátja 80 dolgozóját a magyar jakuzzikirály",
+          "https://hvg.hu/kkv/20261125_wellis-elbocsatas-kotvenyprogram-leminosites"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/333d5f2e-c0d6-499e-9e3d-6fd96c625678.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/kkv/20261125_wellis-elbocsatas-kotvenyprogram-leminosites",
+      "cred": "© Facebook / Wellis Jacuzzi (a HVG jelzése szerint; fotós nincs megnevezve)"
+    },
+    {
+      "id": "sesztak-ugy-fabo-gyorgy-gyanusitott-6-5-milliard-nov-26",
+      "r": "Belpolitika",
+      "c": "Büntetőügy",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Bővült a Seszták-ügy: Fabó György vállalkozó is gyanúsított, földjén ástak el készpénzt",
+      "s": "A Portfolio csütörtöki percről percre híradása szerint az NVVH novemberben mintegy 6,5 milliárd forint készpénzt talált, egy része Fabó földjén volt elásva.",
+      "p": [
+        "A Portfolio csütörtöki, a Tisza-kormány napját követő percről percre összefoglalója szerint a Seszták Miklós nevével jelzett ügyben bővült a gyanúsítotti kör: gyanúsított lett Fabó György vállalkozó. A lap a Telexre hivatkozik, és azt írja, hogy a Nemzeti Védelmi Szolgálat (az összefoglaló NVVH-nak nevezi) novemberben mintegy 6,5 milliárd forint készpénzt talált, ennek egy része Fabó földjén volt elásva. Seszták Miklós szeptember végén került letartóztatásba.",
+        "Ugyanebben a híradásban a Portfolio más fejleményeket is összegyűjt: Magyar Péter miniszterelnök Brüsszelben az EU-csúcson a 2028–2034-es költségvetésről tárgyal, a Külügyminisztérium jogászok bevonásával vizsgálja Orbán Viktor korábbi utazásainak iratait (Velkey György László államtitkár szerint tíz év alatt 327 repülőút összesen 4,8 milliárd forintba került), Kármán András pénzügyminiszter a KSH októberi adataira hivatkozva a foglalkoztatás 0,2 százalékos növekedéséről posztolt.",
+        "A szövegből kiderül az is, hogy Orbán Áron és élettársa letartóztatását november 11-én egy hónapra rendelte el a bíróság; az ügyészség szerint több mint száz vietnámi állampolgárnak segíthettek jogellenesen Nyugat-Európába jutni."
+      ],
+      "cav": "A beszámoló a Portfolio élő híradásán alapul, amely a Telex közlésére hivatkozik; a Telex cikkét és a nyomozati iratokat közvetlenül nem láttuk. Fabó György gyanúsítotti státusza a cikk szerint tény, a bűncselekmény pontos minősítését nem közli. Ártatlanság vélelme érvényes mindenkire, aki az ügyben gyanúsított. A 6,5 milliárd forint pontos eredetét és összefüggését a lap nem fejti ki. A híradás élő blog, a tartalma módosulhat.",
+      "op": "Hat és fél milliárd forint készpénz, amelynek egy része a földben volt, jól mutatja, mekkora a bizalmi hiány a korábbi hatalmi körök és a közpénz között. A tisztességes eljárás miatt viszont a vádról a bíróság dönt: az ügynek addig sem szabad politikai ütőkártyává válnia.",
+      "src": [
+        [
+          "Portfolio: Tisza-kormány: bővül a nyomozás a Seszták-ügyben, Brüsszelben tárgyal Magyar Péter",
+          "https://www.portfolio.hu/gazdasag/20261126/tisza-kormany-bovul-a-nyomozas-a-sesztak-ugyben-brusszelben-targyal-magyar-peter-879240"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/m/a/g/magyar-peter-837064.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/tisza-kormany-bovul-a-nyomozas-a-sesztak-ugyben-brusszelben-targyal-magyar-peter-879240",
+      "cred": "Illusztráció: Magyar Péter (a Portfolio képe; képaláírás és fotós nincs megadva, a kép nem a Seszták-üggyel kapcsolatos eseményen készült)"
+    },
+    {
+      "id": "sk-hynix-3d-dram-2031-100-reteg-nov-26",
+      "r": "Gazdaság",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T07:56:00+00:00",
+      "ai_edited": true,
+      "t": "Akár 2031-ben is jöhet az SK Hynix 3D DRAM-ja: az első generáció 100 rétegű lehet",
+      "s": "A Prohardver a The Elec nyomán azt írja, a cég már működő 3D DRAM-cellákat készített és tesztelt, a tömeggyártás 4–5 éven belül indulhat.",
+      "p": [
+        "A Prohardver a The Elec koreai lap beszámolójára hivatkozva írja, hogy az SK Hynix a következő évtized elején, várhatóan 2031-ben dobhatja piacra az első 3D DRAM-ot. A cél, hogy négy-öt éven belül megkezdődjön a tömeggyártás, az első generáció várhatóan száz rétegű lesz. Choi Kang-sik, az SK Hynix munkatársa a Szöuli Nemzeti Egyetem mesterségesintelligencia-félvezetői fórumán beszélt a fejlesztésről.",
+        "A mai, 10 nanométeres osztályú DRAM bitsűrűségéhez nagyjából 75 rétegre lenne szükség, az első megoldás 100 réteggel elkészülhet. A kezdeti rétegszám a jelenlegi berendezésekkel megvalósítható, a 200–300 réteg fölötti szerkezetekhez viszont speciális eszközök kellenek. Hosszabb távon, a 3D NAND-hez hasonló többrétegű felépítéssel és hibrid kötéssel akár az ezer réteget is elérhetik.",
+        "A cég elkészítette és tesztelte az első működő 3D DRAM-cellákat, a frissítési hatékonyság a hagyományos DRAM-éhoz hasonló. A fejlesztés oka a méretezhetőségi korlát: kisebb cellákban nehezebb elegendő töltést tárolni, és nő a szivárgási áram. Kísérleteznek szilícium- és szilícium-germánium-rétegekkel, a 3D NAND-nél használt integrált maratási eljárásokkal, valamint IGZO csatornaanyaggal, amely kisebb szivárgást ígér. Az anyag hosszú távú megbízhatósága még megoldatlan."
+      ],
+      "cav": "A beszámoló a Prohardver cikkén alapul, amely a The Elec riportjára hivatkozik; az eredeti koreai cikket nem láttuk. A 2031-es időpont „akár”, vagyis előrejelzés, nem vállalás. Az IGZO-anyag megbízhatósági problémáját a cikk nem oldja fel. A kép illusztráció, nem a konkrét chipet ábrázolja.",
+      "op": "A DRAM-méretezés fala valós, és az, hogy a gyártók a függőleges építkezés felé fordulnak, logikus. Az évszám viszont még mérnöki remény, nem ígéret: a memóriapiac ciklusai és az AI-hardver éhsége eközben bármit felülírhatnak.",
+      "src": [
+        [
+          "PROHARDVER!: Akár már 2031-ben is jöhet az SK Hynix 3D DRAM-ja",
+          "https://prohardver.hu/hir/sk_hynix_3d_dram_akar_mar_2031_johet.html"
+        ]
+      ],
+      "img": "https://cdn.rios.hu/dl/cnt/2026-11/364809i1280x720.png",
+      "imgs": "PROHARDVER!",
+      "imgl": "https://prohardver.hu/hir/sk_hynix_3d_dram_akar_mar_2031_johet.html",
+      "cred": "Illusztráció (a Prohardver cikkének vezérképe; fotós/készítő nincs megadva)"
+    },
+    {
+      "id": "tidal-ai-zene-tiltas-december-9-nov-25",
+      "r": "Kultúra",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 25.",
+      "published_at": "2026-11-25T16:55:00+00:00",
+      "ai_edited": true,
+      "t": "A Tidal december 9-től kitiltja a teljesen AI-generált számokat: a feltöltések 43 százaléka ilyen volt",
+      "s": "A Prohardver szerint a streamingszolgáltató az elmúlt 90 napban a beküldött zenék 43 százalékát minősítette teljesen mesterségesintelligencia-generáltnak.",
+      "p": [
+        "A Prohardver cikke szerint a Tidal júniusban vezette be az AI-szabályzatát: a rendszer azonosítja és megjelöli a teljesen generatív AI-val előállított számokat, és kiveszi őket a jogdíjalapból. December 9-től az újonnan beküldött, teljesen AI-generált számokat elutasítják, és eltávolítják a platformról.",
+        "A Tidal adatai szerint a detektáló rendszer az elmúlt 90 napban a feltöltött zenék 43 százalékát sorolta a „teljesen AI-generált” kategóriába; a csúcs november 6. volt, amikor az aznap érkezett tartalmak több mint 60 százalékát jelölte így. A katalógusban 27 millió AI-címkés szám van, ez az összes szám 6,3 százaléka. A címkézett tételek 96 százaléka az elmúlt három hónapban egyetlen lejátszást sem kapott. Több mint 65 ezer számot szedtek le, mert előadók megszemélyesítésének gyanúja merült fel.",
+        "A szolgáltató a disztribútorokat is tiltaná, ha teljesen AI-generált számokat töltenek fel; az AI-val csak „segített” számok maradhatnak. A szűrést az Ircam Amplify végzi. A Prohardver szerint a Spotify jelöléssel és ajánlásból való kizárással, a YouTube Music lejátszón belüli címkékkel kezeli a problémát. A Tidal célja, hogy több pénz jusson a valódi előadókhoz."
+      ],
+      "cav": "A beszámoló a Prohardver cikkén alapul, amely a Tidal közlésére hivatkozik; a Tidal bejelentését közvetlenül nem láttuk. A cikk leadje szerint „minden második” szám AI-generált, a törzs szerint viszont 43 százalék, a két adat nem azonos; mi a törzs számát vettük át. Az Ircam Amplify maga is AI-alapú detektor, pontosságára nincs adat.",
+      "op": "Jó, hogy egy szolgáltató végre kimondja: a jogdíjalapot nem lehet gépi tömegtermelés áldozatává tenni, hogy a valódi előadók kevesebbet kapjanak. Az viszont kérdés, mennyire megbízható egy AI-detektor, amely a határesetekben alkotókat is tévesen kitilthat.",
+      "src": [
+        [
+          "PROHARDVER!: Elege lett a zeneszolgáltatóknak az AI slágerekből",
+          "https://prohardver.hu/hir/elege_lett_a_zeneszolgaltatoknak_az_ai_slagerekbol.html"
+        ]
+      ],
+      "img": "https://cdn.rios.hu/dl/cnt/2026-11/364794i1280x720.jpg",
+      "imgs": "PROHARDVER!",
+      "imgl": "https://prohardver.hu/hir/elege_lett_a_zeneszolgaltatoknak_az_ai_slagerekbol.html",
+      "cred": "Illusztráció (a Prohardver cikkének vezérképe; fotós/készítő nincs megadva)"
+    },
+    {
       "id": "hamasz-miniszter-abu-nada-legicsapas-gaza-nov-26",
       "r": "Külföld",
       "c": "Izrael–Gáza",
