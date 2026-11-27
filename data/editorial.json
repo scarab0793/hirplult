@@ -1,6 +1,144 @@
 {
   "items": [
     {
+      "id": "schiffer-andras-kozelkep-tisza-munkajog-fidesz-nov-27",
+      "r": "Belpolitika",
+      "c": "Kormány",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Schiffer András szerint a Tisza-kormány munkajogi politikája alig különbözik a Fideszétől, Magyar Péter brüsszeli fellépését viszont dicséri",
+      "s": "Az Index beszámolója szerint a volt politikus az ÖT-csatorna Közelkép című műsorában bírálta a foglalkoztatáspolitikát, az árrésstop kivezetését és a büntetőeljárásokba való politikai beavatkozást.",
+      "p": [
+        "Az Index péntek reggeli cikke szerint Schiffer András volt politikus az ÖT YouTube-csatornán futó Közelkép című műsorban értékelte az új kormány első hónapjait. Fő állítása, hogy a Tisza-kormány munkavállalói politikája ugyanarra a kiszolgáltatottságra épít, mint az előző kormányoké: szerinte az elmúlt fél évben alig volt különbség a Fidesz és a Tisza munkajogi szemlélete között.",
+        "Kifogásolta, hogy október elejéig nem volt önálló, államtitkári szintű foglalkoztatáspolitikai képviselet a kormányban, és bírálta Dudás Katalin államtitkár túlóra-érvelését. Úgy látja, a 2018-as túlóra-szabályozás a német autóipar érdekeit szolgálta. Az Orbán-kormányok gazdaságpolitikáját az alacsony bérekre és a multinacionális cégek kedvezményeire épülő versenyképességnek nevezte. Elismerte, hogy volt reálbér-növekedés, de szerinte a magyar bérek nemzetközi összevetésben gyengék.",
+        "Állítása szerint a karácsony előtti árrésstop-kivezetés a német és osztrák láncoknak kedvez, a német–magyar kapcsolatok mögött pedig gazdasági érdekek is állhatnak Magyar Péter külpolitikájában. Ugyanakkor a miniszterelnök pozsonyi uniós-költségvetési fellépését „bátor és karakán” kiállásnak nevezte, Ukrajna uniós csatlakozásának megakadályozását pedig alapvető nemzeti érdeknek tartja. A berlini tárgyalásokról maga mondta, hogy nincs elegendő információja.",
+        "Schiffer egyik fő javaslata egy fehér könyv elkészítése azokról a politikai beavatkozásokról, amelyek 2026 májusa óta érték a büntetőeljárásokat. A Seszták-üggyel kapcsolatban azt állította, hogy Magyar Péter a készpénzt a volt miniszterhez kötötte, amit szerinte később nem támasztottak alá. A cikk szerint ez az ő értelmezése; a kormány vagy az érintettek reakcióját az Index nem közli."
+      ],
+      "cav": "A beszámoló az Index cikkére épül; a Közelkép-adást magát nem láttuk. Valamennyi állítás Schiffer András véleménye vagy értelmezése, számokkal (a 2018-as túlóra-szabályozás hatása, az árrésstop kivezetésének következményei) nem támasztja alá, a kormány, Dudás Katalin és Magyar Péter reakciója hiányzik. Az árrésstop-kivezetés a cikk szerint még terv. Az Index oldalán a módosítás időpontja korábbi a megjelenésnél, ez metaadat-hiba lehet. A Seszták-ügyről szóló állítást a cikk nem ellenőrzi.",
+      "op": "Kellemetlen, de hasznos kívülálló szemmel látni, hogy a kormány munkajogi lépései nem szavazatszerző, hanem mérlegelendő kérdések. Schiffer néhány állítása erős, bizonyíték nélkül, mégis jogos a kérdése: ha a változás ígérete a dolgozókról szólt, a törvényekben is látszania kell, nem csak a külpolitikai gesztusokban.",
+      "src": [
+        [
+          "Index: Schiffer András: A Tisza ugyanazt teszi a dolgozókkal, mint a Fidesz",
+          "https://index.hu/belfold/2026/11/27/schiffer-kozelkep-magyar-peter-ukrajna-eu"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/6756/67565/675659/67565939_4988685_15ad8531cb7ae1305d32b68b41a07c24_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/27/schiffer-kozelkep-magyar-peter-ukrajna-eu",
+      "cred": "Schiffer András 2026. február 14-én (archív kép). – Fotó: Kaszás Tamás / Index (az Index aláírása szerint)"
+    },
+    {
+      "id": "parlament-penteki-ules-egeszsegugyi-bertabla-ceta-europai-ugyeszseg-nov-27",
+      "r": "Belpolitika",
+      "c": "Parlament",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Pénteken az Országgyűlés elé kerül az egészségügyi bértábla, a CETA kihirdetése és az Európai Ügyészséghez való csatlakozás törvényi háttere",
+      "s": "Az Infostart/MTI szerint a 9 órakor kezdődő ülés napirendjén öt nagyobb téma szerepel, köztük a hatsávos, 15 fokozatú ágazati bértábla.",
+      "p": [
+        "Az Infostart az MTI nyomán, az Országgyűlés honlapjára hivatkozva azt írja, hogy a parlament pénteken 9 órakor kezdi ülését. A cikk előzetes napirendi ismertető, szavazásról vagy a pártok álláspontjáról nem szól.",
+        "Az egyik napirendi pont a Kanada és az EU közötti átfogó gazdasági és kereskedelmi megállapodás (CETA) kihirdetéséről szóló törvényjavaslat. A megállapodást 2016-ban írták alá; 18 tagállam ratifikálta, Magyarország a kilenc nem ratifikáló ország között van. 2017 szeptembere óta ideiglenesen alkalmazzák, de csak az uniós hatáskörbe tartozó részeit: a portfólióbefektetésekre, a beruházásvédelemre és a beruházási vitarendezésre vonatkozó rész nincs benne. Az indoklás szerint Magyarország mindig támogatta az egyezményt, a tartalma megfelel a magyar elvárásoknak, és kedvező kereskedelmi és foglalkoztatási hatások várhatók tőle; ez kormányzati állítás.",
+        "A második téma az Európai Ügyészséghez való csatlakozáshoz szükséges törvénymódosítás: az ügyészségi és bírósági törvényeket úgy változtatnák meg, hogy létrejöjjenek az európai ügyész és a delegált európai ügyész tisztségének jogi keretei. A harmadik egy több mint ötven oldalas, sok törvényt érintő előterjesztés, amelynek értelmében január 1-jétől a magyarságpolitikáért felelős miniszter feladatköre változik (a nemzetpolitika helyett), a Szabályozott Tevékenységek Felügyeleti Hatóságának kiberbiztonsági feladatai pedig megszűnnek.",
+        "Az egészségügyi bérrendezés új ágazati bértáblát hozna létre, amely a végzettséget és a gyakorlati időt veszi figyelembe; a javaslat hat fizetési osztályt és 15 fizetési fokozatot tartalmaz. Végül a szociális és foglalkoztatási törvények módosítása szerint az álláskeresési járadék megállapításánál a munkáltatótól kapott szociális juttatást nem veszik figyelembe, a 2026-os közalkalmazotti szakszervezeti reprezentativitás megállapítását pedig két évvel elhalasztják."
+      ],
+      "cav": "A beszámoló az Infostart/MTI előzetes cikkére épül; a törvényjavaslatok szövegét nem láttuk. A cikk nem közöl bérösszegeket, szavazási eredményt vagy pártálláspontokat, ezért az, hogy a javaslatok elfogadásra kerülnek-e, nem derül ki. A CETA hasznáról szóló állítás a kormány indoklása, a civil szervezetek ellenvetéseiről külön cikkünk szól. Az Európai Ügyészséghez való csatlakozás menetéről korábbi cikkünk is ír. A kép illusztráció.",
+      "op": "A bértábla és az Európai Ügyészség ügye olyan lépés, amelyre sok éve várnak az érintettek, ezért érdemes figyelni, hogy a javaslatok a parlamenti vitában is megmaradnak-e. A CETA-ratifikációt pedig akkor lehet komolyan venni, ha a kormány a civil aggályokra is válaszol, nem csak a kereskedelmi előnyökre hivatkozik.",
+      "src": [
+        [
+          "Infostart: Az egészségügyi bérrendezés is terítékre kerül ma a parlamentben",
+          "https://infostart.hu/belfold/2026/11/27/az-egeszsegugyi-berrendezes-is-teritekre-kerul-ma-a-parlamentben"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2026/06/1780668227-gq8zDPDZG_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/belfold/2026/11/27/az-egeszsegugyi-berrendezes-is-teritekre-kerul-ma-a-parlamentben",
+      "cred": "Illusztráció: az Országgyűlés épületének kupolája – Getty Images/Kirillm (az Infostart aláírása szerint; nem az ülésen készült)"
+    },
+    {
+      "id": "ftc-celje-0-0-europa-liga-nagy-adam-nov-27",
+      "r": "Sport",
+      "c": "Labdarúgás",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Gól nélküli döntetlen a Celje ellen: a Fradi középpályása szerint többet is megérdemeltek volna az Európa-ligában",
+      "s": "A Nemzeti Sport szerint az FTC–Celje 0–0-val zárult a Groupama Arénában, Nagy Ádám a helyzetkihasználást hiányolta.",
+      "p": [
+        "A Nemzeti Sport pénteki cikke szerint a Ferencvárosi TC és a szlovén Celje 0–0-s döntetlent játszott az Európa-liga alapszakaszának 5. fordulójában, a Groupama Arénában. A mérkőzésen 14 377 néző volt jelen; a játékvezető az olasz Simone Sozza volt, asszisztensei Alessio Berti és Davide Imperiale.",
+        "A Fradi kezdőcsapata a lap szerint: Varga Á. – Osváth, Raemaekers, M. Gómez, Cadu – Nagy Á., Corbu – Zachariassen, Bero, Arzani – Joseph. A hazaiaknál Lisztes a 68. percben, Levi és O'Dowda a 78. percben állt be. A Celje kezdőjében Leban, Ivansek, Bejger, Tutyskinas, Avdyli, Seslar, Zabukovnik, Kvesic, Tusha, Kramer és Verbic kapott helyet; Bejger helyett a szünetben Zuzek jött be, Kucys a 62., Dukuly a 75., Daniel a 80. percben. A Fradi vezetőedzője Borbély Balázs, a Celjéé Zoran Zeljkovic.",
+        "Nagy Ádám, a Fradi középpályása a lap vezetője szerint többet szerettek volna hazavinni az egy pontnál, de a szlovén csapattól azt kapták, amire számítottak. Úgy látta, a győzelem a helyzetkihasználáson múlt, és a képaláírás szerint inkább csalódott a döntetlen miatt. A cikk szövegéből további részletes nyilatkozatot vagy statisztikát nem tudtunk átvenni."
+      ],
+      "cav": "A beszámoló a Nemzeti Sport cikkének letölthető részére (lead, meccsadatok, képaláírás) épül; a cikk teljes szövege, Nagy Ádám részletes nyilatkozata, a lövés- és labdabirtoklási statisztika nem állt rendelkezésre. A tabellahelyzetet és a következő mérkőzést ezért nem közöljük. A Celje-féle értékelést (szlovén lapok véleménye) nem néztük meg. A kép a cikk borítóképe, a fotóst az oldal ennél nem nevezi meg.",
+      "op": "A gól nélküli döntetlen a nemzetközi kupaszereplésben ritkán kevés, de a Fradi esetében, ahol a játékosok maguk is többet vártak magukról, érthető a csalódottság. Tisztességes megközelítés, hogy Nagy Ádám nem kifogásokat keres, hanem a helyzetkihasználást nevezi meg a gondnak.",
+      "src": [
+        [
+          "Nemzeti Sport: Nagy Ádám: Ha a meccs összképét nézzük, akkor nálam is üres az a bizonyos pohár",
+          "https://www.nemzetisport.hu/europa-liga/2026/11/nagy-adam-ha-a-meccs-osszkepet-nezzuk-akkor-nalam-is-ures-az-a-bizonyos-pohar"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/u-ZRzLOfQHJ5T1BEuS2uVLSJsvtqIk3FFCx2OLtA8rI/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg2ODcwZTU0ODJlZjQxZGZiMWU1OTZhNzVhZGQwN2Rm.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/europa-liga/2026/11/nagy-adam-ha-a-meccs-osszkepet-nezzuk-akkor-nalam-is-ures-az-a-bizonyos-pohar",
+      "cred": "A Nemzeti Sport borítóképe (a fotóst az oldal ennél a képnél nem nevezi meg)"
+    },
+    {
+      "id": "m0-baleset-hat-auto-kistarcsa-cinkota-nov-27",
+      "r": "Közélet",
+      "c": "Közlekedés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Hat autó ütközött az M0-son a Kistarcsa–Cinkota csomópont után, kilométeres a torlódás az M3 felé",
+      "s": "Az Infostart az MTI nyomán az Útinform és a katasztrófavédelem közlése alapján számol be a reggeli balesetről.",
+      "p": [
+        "Az Infostart az MTI beszámolója alapján azt írja, hogy pénteken reggel baleset történt az M0-s autóúton a Kistarcsa–Cinkota csomópont után, az M3-as autópálya felé tartó irányban. Az Útinform közlése szerint a 60-as kilométernél a belső sávban álltak a karambolozott járművek, a reggeli forgalomban kilométeres torlódás alakult ki.",
+        "A katasztrófavédelem adatai szerint hat személygépkocsi ütközött össze, és az autókban összesen nyolc ember utazott. A cikk a sérültek számáról és állapotáról, valamint a baleset okáról nem közöl információt, a torlódás pontos hosszát sem adja meg."
+      ],
+      "cav": "A beszámoló az Infostart/MTI rövid cikkére épül, amely az Útinform és a katasztrófavédelem közlését idézi; az eredeti közleményeket nem láttuk. A sérültekről, az ok-okozati körülményekről és a forgalom újraindulásáról nincs adat. Mivel a cikk a megjelenése pillanatát rögzíti, a helyzet azóta megváltozhatott. A cikk fotója általános forgalmi stockkép, ezért nem használjuk.",
+      "op": "A reggeli csúcsforgalomban az M0-s balesetei már szinte rutinná váltak, ami önmagában is baj. Az igazi hír az lenne, ha a hatósági közleményekből a sérülések és az ok is kiderülne, nem csak a torlódás.",
+      "src": [
+        [
+          "Infostart: Baleset volt az M0-son, mutatjuk, honnantól kell torlódásra számítani",
+          "https://infostart.hu/belfold/2026/11/27/baleset-volt-az-m0-son-mutatjuk-honnantol-kell-torlodasra-szamitani"
+        ]
+      ]
+    },
+    {
+      "id": "megyei-bekes-vizi-temetkezes-tilalom-feloldva-nov-27",
+      "r": "Megyei",
+      "m": "Békés",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "ai_edited": true,
+      "t": "Újra szabad hamvakat szórni a Körös-vidéki Vízügyi Igazgatóság vizeibe: a javuló vízügyi helyzet miatt feloldották a tilalmat",
+      "s": "Az Infostart a beol.hu nyomán azt írja, hogy a tilalom november 23-án szűnt meg, de a szóráshoz előzetes bejelentés kell.",
+      "p": [
+        "Az Infostart a beol.hu cikkére hivatkozva azt írja, hogy a Körös-vidéki Vízügyi Igazgatóság (KÖVIZIG) a javuló hidrológiai helyzetre hivatkozva feloldotta a hamvak vízbe szórásának tilalmát az általa kezelt víztereken. A tilalom november 23-án szűnt meg.",
+        "A szórás csak az előírások betartásával lehetséges. Az elhunyt hamvainak elszórását legalább tíz munkanappal a szertartás előtt be kell jelenteni; a hozzájárulás megadottnak számít, ha az igazgatóság a tervezett időpontot megelőző munkanapig nem emel kifogást. A KÖVIZIG üzemi területeken nem engedélyezi a szórást. A helyszínen kegyeleti tárgyat hagyni tilos, a vízbe helyezett virágok és tárgyak pedig természetes vagy vízben lebomló anyagból lehetnek. A részletes előírások az igazgatóság honlapján, a Közérdekű menüpontban találhatók."
+      ],
+      "cav": "A beszámoló az Infostart cikkére épül, amely a beol.hu-ra hivatkozik; az igazgatóság közleményét nem láttuk. A cikk címe Békést említi, a szöveg a megyét és a konkrét vízterek körét nem nevezi meg. Hidrológiai adatot (vízállás, aszályhelyzet) a cikk nem közöl, és az sem derül ki, mi alapján szabták a tilalmat.",
+      "op": "Kisebb hír, de jól mutatja, hogy az aszály következményei az élet legkülönbözőbb területein érezhetők, és hogy a javuló vízállás is hamar visszahozza a szabályokat. Jó lenne, ha az előírások közérthető összefoglalóját a hozzátartozók is könnyen megtalálnák.",
+      "src": [
+        [
+          "Infostart: Javult a vízügyi helyzet, már nem tilos a vízi temetkezés Békésben",
+          "https://infostart.hu/belfold/2026/11/27/javult-a-vizugyi-helyzet-mar-nem-tilos-a-vizi-temetkezes-bekesben"
+        ]
+      ]
+    },
+    {
       "id": "eu-csucs-felesleges-tanacsules-magyar-peter-nov-27",
       "r": "Külföld",
       "c": "EU",
