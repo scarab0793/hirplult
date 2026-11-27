@@ -1,6 +1,232 @@
 {
   "items": [
     {
+      "id": "bocskai-eva-bizottsagi-ules-radics-bohar-videok-nov-27",
+      "r": "Belpolitika",
+      "c": "Parlament",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T15:28:59+01:00",
+      "ai_edited": true,
+      "t": "Elsírta magát a parlamentben a tiszás Göröghné Bocskai Éva, miután videókkal támadták a bizottsági üléselnökségét",
+      "s": "A Telex szerint a képviselő a csütörtöki bizottsági ülés után viharos reakciókat kapott; pénteken Radics Bélához szólt, majd megsiratta a helyzetet. Magyar Péter és a Tisza-frakció mellé állt, Bohár Dániel visszatámadt.",
+      "p": [
+        "Göröghné Bocskai Éva, a Tisza Párt képviselője csütörtökön a vidék- és településfejlesztési bizottság ülését vezette. A Blikk beszámolója szerint a tanácskozás nem ment gördülékenyen, a napirend tárgyalása többször megakadt, a jelenetekből készült videó pedig felkerült az internetre. A Telex pénteki cikke a hírre és a reakciókra épül.",
+        "A Blikk szerint pénteken reggel a képviselő odament Radics Béla fideszes képviselőhöz, leteremtette, majd visszaült a helyére, ahol elsírta magát, egy képviselőtársa pedig vigasztalta. A Telex nem tudta elérni Göröghné Bocskai Évát; a Blikknek állítólag azt mondta, hogy sosem lesz belőle jó politikus, ezért viselték meg a videók nyomán kialakult reakciók.",
+        "A képviselő Facebook-posztban köszönte meg a támogatást. Leírta, hogy szerinte a bizottsági ülés két órán át tartott, hatékony volt és jó hangulatú, bár voltak hibái. Az ellenzéket azzal vádolta, hogy mémekkel gúnyolja, és a személyeskedést, valamint a támadásokat méltatlannak nevezte. Azt írta, nem állítja, hogy minden szakterülethez ért, a stábja szakmai beszédeket ír, amelyeket ő saját hangjára igazít. Radics Bélához azért ment oda, mert személyesen akart szólni hozzá, nem a közösségi médiában; mosolyogva megkérdezte, jól van-e, a politikus azonban nem válaszolt. Szerinte könnyek gyűltek a szemébe, de „nem volt színjáték”, csak fájt neki. Vállalja a hibáit, tanulnia kell, de nem tartja magát alkalmatlannak.",
+        "A Tisza-frakció szintén posztolt: a női politikusokkal szembeni sztereotípiákról írtak, és arról, hogy nem tévedhetetlen politikusokra van szükség, a közösség a képviselő mögött áll. Magyar Péter miniszterelnök bejegyzésében azt állította, hogy a fideszes képviselők rendszeresen megalázzák a Fidesz női politikusait; a képviselőt óvónőként és hajdúböszörményi polgármesterként mutatta be, és kemény, bátor nőnek nevezte. Szerinte Bohár Dániel „propagandista” lejárató videókkal támadta őt, majd telefonon beszélt vele, és szerinte jól van.",
+        "Bohár Dániel Facebook-posztban visszatámadt: szerinte a Tisza-képviselők és Magyar Péter is órákig alázzák az ellenzéki politikusokat a parlamentben, ő pedig csak a valóságot mutatta meg a videóval."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely a Blikkre és a szereplők Facebook-bejegyzéseire hivatkozik; ezeket, valamint a videókat nem láttuk. A reggeli jelenetet a Blikk írja le, a Telex nem tudta megerősíteni, és a képviselőt sem érte el, így az ő szavai másodkézből valók. A bizottsági ülés színvonaláról ellentétes az értékelés: a képviselő hatékonynak mondja, a Fidesz-közeli oldal videókkal bizonyítaná az ellenkezőjét. A Radics Bélával történt szóváltás pontos tartalma nem ismert (a politikus nem válaszolt, véleményét a cikk nem közli). A kép archív: a plenáris vitán készült, nem a leírt eseményeken.",
+      "op": "Egy képviselő hibázhat, tanulhat, és az ellenzék joggal bírálja a bizottsági vezetést; ez a dolga. A magánéletet és az érzelmi reakciókat kiforgató videós gúnyolódás viszont nem kontroll, hanem olcsó politikai műfaj, és a kormánypárt oldalán sem szerencsés a „mindenki más aláz” érve. Az ülés színvonaláról a jegyzőkönyv és a napirend beszél, nem a legviccesebb kivágás.",
+      "src": [
+        [
+          "Telex: „Nem volt sírógörcs. Nem volt jelenet. Nem volt színjáték” – mondta a tiszás képviselő, akit videókkal támadott be a Fidesz",
+          "https://telex.hu/belfold/2026/11/27/goroghne-bocskai-eva-elsirta-magat-a-parlamentben-bizottsagi-ules-radics-bohar"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795789489-temp-0oiuolc9u6a60coklgd_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/27/goroghne-bocskai-eva-elsirta-magat-a-parlamentben-bizottsagi-ules-radics-bohar",
+      "cred": "Göröghné Bocskai Éva felszólal a fővárosi és megyei kormányhivatalokról szóló törvényjavaslat vitájában az Országgyűlés plenáris ülésén 2026. november 26-án (archív kép, nem a bizottsági ülésről vagy a pénteki jelenetről készült). – Fotó: Kovács Attila/MTI (a Telex aláírása szerint)"
+    },
+    {
+      "id": "legfobb-ugyesz-helyettes-jagusztin-tamas-kinevezes-nov-27",
+      "r": "Belpolitika",
+      "c": "Ügyészség",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T19:58:13+01:00",
+      "ai_edited": true,
+      "t": "Kinevezték a legfőbb ügyész helyettesét: Jagusztin Tamás december 7-től Fejes Péter helyettese",
+      "s": "Baka András köztársasági elnök határozatban nevezte ki a pest megyei közjogi főügyészhelyettest; a döntés a Magyar Közlöny pénteki számában jelent meg.",
+      "p": [
+        "Baka András köztársasági elnök határozatban nevezte ki dr. Jagusztin Tamást a legfőbb ügyész helyettesévé – írja a Telex. A kinevezés 2026. december 7-től hatályos, határozatlan időre szól; a határozat a Magyar Közlöny pénteki esti számában jelent meg.",
+        "Az ügyészség honlapja szerint Jagusztin Tamás a Pest Megyei Főügyészségen közjogi főügyészhelyettesként dolgozik, emellett a Pázmány Péter Katolikus Egyetem megbízott oktatója. A Telex felidézi, hogy 2023-ban PhD-disszertációját a Magyar Jogi Könyvszalon Nagydíjával tüntették ki; akkor a Pest Vármegyei Főügyészség Közérdekvédelmi Osztályának vezetőjeként mutatták be, és az „Egyszerűen, jogszerűen” című sorozatban ír jogi kérdésekről.",
+        "Jagusztin Fejes Péter helyettese lesz. Fejes Pétert az Országgyűlés november 3-án választotta legfőbb ügyésszé, miután a köztársasági elnök első jelöltjét, a cikk linkje alapján Szathmáry Zoltánt elutasították. A Tisza-frakció közleménye szerint következetes fellépést várnak az új legfőbb ügyésztől minden bűnözési forma ellen, és a közbizalom helyreállítását.",
+        "A Telex emlékeztet arra is, hogy Fejes a megválasztása előtt a Válasz Online-nak adott interjújában azonnali, drasztikus személyzeti és szervezeti lépéseket sürgetett: a Legfőbb Ügyészség karcsúsítását, a Központi Nyomozó Főügyészség újragondolását, a fizetési szakadék áthidalását és az ügyészi pálya vonzóbbá tételét. November 13-i nyilatkozata szerint 252 feljelentés érkezett az előző kormányzattal kapcsolatban, és 150–160 ügyész hiányzik."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely a Magyar Közlönyre, az ügyészség honlapjára és más forrásokra hivatkozik; magát a közlönyt és a határozatot nem láttuk. A cikk nem közöl indoklást és nem ismerteti, hogy Fejes Péter javasolta-e Jagusztin Tamást. A Szathmáry Zoltánra vonatkozó adatot csak a cikk linkje alapján ismerjük. A Telex oldalán a közzététel időpontja csak a metaadatból derül ki. Kép nincs: a cikkhez nem találtunk igazolható aláírású, újraközölhető fotót.",
+      "op": "Fontos, hogy az ügyészség új vezetése mellett végre személyi kérdésekben is érdemi, átlátható döntések szülessenek: a közbizalom visszaállítása nem hangzatos nyilatkozatokon, hanem a kinevezések szakmai megalapozottságán múlik. Jagusztin pályája papíron rendben van, de az igazi mérce az lesz, hogy a politikai ügyekben a hivatal tényleg függetlenül dönt-e.",
+      "src": [
+        [
+          "Telex: Kinevezték a legfőbb ügyész helyettesét",
+          "https://telex.hu/belfold/2026/11/27/legfobb-ugyesz-helyettes-fejes-peter-jagusztin-tamas"
+        ]
+      ]
+    },
+    {
+      "id": "azbesztmentesitesi-alap-szombathely-koszeg-szentgotthard-elutasitva-nov-27",
+      "r": "Közélet",
+      "c": "Önkormányzat",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T20:03:48+01:00",
+      "ai_edited": true,
+      "t": "Elutasították Szombathely, Kőszeg és Szentgotthárd azbesztmentesítési pályázatát: a polgármester szerint „épp csak azbesztmentesítésre” nem lehetett pályázni",
+      "s": "Az MTI értesülése szerint a 3 milliárdos alapból a leginkább érintett városok nem kaptak pénzt, mert pályázatuk nem csak lefedésre szólt. Jogorvoslat nincs, új kiírást ígérnek.",
+      "p": [
+        "Zalaegerszeg mellett Szombathely, Kőszeg és Szentgotthárd pályázatát is elutasították az Azbesztmentesítési Alap 3 milliárd forintos keretéből – írja a Telex és a Portfolio az MTI-re hivatkozva, amely az érintett városok polgármestereitől értesült. A távirati iroda tudósítójának még meg nem erősített értesülése szerint néhány kistelepülés pályázata sikeres volt.",
+        "Az elutasításokat szinte mindenhol azzal indokolták, hogy a kiírás szerint kizárólag azok a pályázatok támogathatók, amelyek a természetes azbeszttartalmú kőzúzalékból eredő egészségi kockázatok megszüntetésére, azaz lefedésre irányulnak; az elutasított pályázatok viszont nem kizárólag lefedésre vonatkoztak. A polgármesterek értetlenségüket fejezték ki a döntés miatt.",
+        "Nemény András, Szombathely polgármestere pénteken este Facebook-posztban úgy fogalmazott, hogy az Azbesztmentesítési Alapból éppen csak az azbesztmentesítésre nem lehetett pályázni. Básthy Béla, Kőszeg polgármestere szerint első gondolatuk a fellebbezés volt, de a kiírás szerint az elutasítás ellen nincs jogorvoslati lehetőség.",
+        "Az értesítés végén a pályázókat arról tájékoztatták, hogy a benyújtott pályázatok tapasztalatai alapján új pályázatot írnak ki, a feltételek újragondolásával. A Telex a témában korábbi, szeptemberi szombathelyi és kőszegi cikkeire is hivatkozik; ezeket nem néztük meg."
+      ],
+      "cav": "A beszámoló a Telex és a Portfolio cikkére épül, amelyek lényegében ugyanazt az MTI-hírt adják; magát az MTI-tudósítást, a pályázati kiírást és az elutasító leveleket nem láttuk. A kistelepülések sikeréről szóló információt az MTI is megerősítetlennek jelzi, a támogatott pályázatok listája és összege nem ismert. A Telex és a Portfolio nem közli, mekkora összegre pályáztak az érintett városok, és hivatalos kormányzati reakció sem szerepel a cikkekben. Nem derül ki, hogy a minisztérium vagy a pályázatkezelő szerint miért éppen ez a szűk értelmezés érvényes. A Portfolio meta-leírása a „leginkább érintett városok nem kaptak pénzt” megállapítást is tartalmazza, a Telex nem. Kép nincs: a cikkek képeihez nem volt igazolható aláírás.",
+      "op": "Az, hogy az azbeszttel leginkább érintett városok éppen a kiírás szűk értelmezésén buknak el, nem hiba, hanem rossz tervezés: egy alapnak ott kell segítenie, ahol a baj van. Jó, hogy új kiírást ígérnek, de a lakók azt várják, hogy a feltételeket a szakma és az érintett polgármesterek bevonásával írják át, és az újrakiírás ne csússzon el.",
+      "src": [
+        [
+          "Telex: Szombathely polgármestere szerint az azbesztmentesítési alapból épp csak azbesztmentesítésre nem lehetett pályázni",
+          "https://telex.hu/belfold/2026/11/27/elutasitottak-szombathely-koszeg-es-szentgotthard-azbesztmentesitesi-palyazatat"
+        ],
+        [
+          "Portfolio: Botrány az azbesztmentesítési pályázat körül",
+          "https://www.portfolio.hu/gazdasag/20261127/botrany-az-azbesztmentesitesi-palyazat-korul-879798"
+        ]
+      ]
+    },
+    {
+      "id": "juhasz-peter-pal-letartoztatas-meghosszabbitva-januar-28-nov-27",
+      "r": "Közélet",
+      "c": "Büntetőügy",
+      "w": "Szőlő utcai ügy",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T20:36:00+01:00",
+      "ai_edited": true,
+      "t": "Január végéig letartóztatásban marad Juhász Péter Pál és élettársa a Szőlő utcai ügyben",
+      "s": "A Telex szerint a bíróság az ügyészség indítványa szerint meghosszabbította a két meggyanúsított letartóztatását; a tizenkét gyanúsítottból már csak ők vannak előzetesben.",
+      "p": [
+        "Január 28-ig meghosszabbította a bíróság a Szőlő utcai ügyben meggyanúsított Juhász Péter Pál és élettársa letartóztatását – írja a Telex. A hírt a Központi Nyomozó Főügyészség közölte pénteken az újsággal, a szóvivő Kovács Katalin szerint a bíróság az ügyészség indítványával egyezően döntött.",
+        "A korábbi hosszabbításról a cikk azt írja, hogy a Budai Központi Kerületi Bíróság szeptember 25-én november 28-ig hosszabbította meg a volt intézetigazgató és társa letartóztatását. A tizenkét gyanúsítottból ekkor már csak ők voltak előzetes letartóztatásban; négy másik gyanúsított a nyomozás végéig bűnügyi felügyelet alatt áll.",
+        "A Telex szerint nyáron a Juhász alatt dolgozó rendészeti és biztonsági vezető kényszerintézkedését bűnügyi felügyeletre enyhítették, miután részletes, kollégáira nézve terhelő vallomást tett. Hazamehetett Juhász helyettese is, a későbbi megbízott igazgató. A cikk említi, hogy az egyik, a koronatanú állításaihoz kapcsolódó eljárási szálat megszüntették, a dátumot azonban kétféleképp adja meg.",
+        "Az ügy tavaly májusban került a figyelem középpontjába, amikor a rendőrség letartóztatta Juhász Péter Pált. A Telex szerint a gyanúsítottak száma 2025 végére kilencre emelkedett, a témát pedig a 2026-os országgyűlési kampány egyik kérdéseként tartották számon; az Orbán-kormány válaszként bezárta az intézetet, a lakókat más helyekre helyezték át. A cikk nem részletezi a konkrét vádpontokat és a hosszabbítás jogalapját."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül; az ügyészségi közlést és a bírósági határozatot nem láttuk. A cikk belső következetlenségeket tartalmaz: a gyanúsítottak számát 2025 végén kilencnek, 2026 szeptemberében tizenkettőnek írja, a különbséget nem magyarázza; az egyik eljárás megszüntetésének időpontját október 21-ére és szeptember 22-ére is teszi. A Telex szerint a hírt a főügyészség egy másik lapnak is megerősítette, ezt a forrást nem tudtuk megnyitni. A vádpontok nem szerepelnek a cikkben; mindenkire az ártatlanság vélelme vonatkozik. Kép nincs: a cikkhez nem volt aláírás vagy fotós megjelölve.",
+      "op": "Egy gyerekvédelmi botrányban a legfontosabb, hogy az eljárás időben, tisztán és nyilvánosan haladjon; a hosszú előzetes letartóztatás csak akkor indokolt, ha a nyomozás ténylegesen halad. A vizsgálat másfél év után is tart, és az érintett gyerekeknek tartozunk azzal, hogy a felelősségre vonás ne húzódjon még évekig.",
+      "src": [
+        [
+          "Telex: Juhász Péter Pál és élettársa január végéig letartóztatásban marad",
+          "https://telex.hu/belfold/2026/11/27/juhasz-peter-pal-es-elettarsa-letartoztatasa-meghosszabbitva-januarig-szolo-utcai-ugy"
+        ]
+      ]
+    },
+    {
+      "id": "sulyok-velencei-bizottsag-velemeny-dec-11-12-schiffer-nov-27",
+      "r": "Belpolitika",
+      "c": "Alkotmányjog",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T17:48:00+01:00",
+      "ai_edited": true,
+      "t": "Decemberben jön a Velencei Bizottság véleménye Sulyok Tamás ügyében, és a kormány kérdéseire is válaszol",
+      "s": "Az Index összefoglalója szerint a testület december 11–12-i ülésén fogadja el a véleményt az államfő eltávolításáról és az új alkotmány megalkotásáról; Schiffer András az időrendre hívta fel a figyelmet.",
+      "p": [
+        "A Velencei Bizottság december 11–12-i plenáris ülésén tárgyalja és fogadja el a véleményét arról a beadványról, amelyet Sulyok Tamás köztársasági elnök nyújtott be – írja az Index. A vizsgálat időközben kibővült a kormány kérdéseivel is.",
+        "Sulyok május 29-én fordult az Európa Tanács tanácsadó testületéhez. Azt kérte, állapítsa meg, alkotmányos-e az államfő politikai okokból történő eltávolítása. Érvelése szerint az elnök politikai felelősséggel nem tartozik, ezért puszta politikai bizalomvesztés miatt nem mozdítható el; azt is kérte, vizsgálják meg, összeegyeztethető-e az európai normákkal az olyan alaptörvény-módosítás, amely a hivatalban lévő elnök megbízatásának idő előtti megszüntetésére irányul.",
+        "A bizottság eredetileg sürgős eljárásban akarta tárgyalni a beadványt, később októberre halasztotta. A Sándor-palota július 13-i közleménye szerint rendes eljárásban vizsgálják. Szeptember 23-án Görög Márta igazságügyi miniszter kezdeményezésére a vizsgálat kiterjedt a kormány indítványára is, amely az Alaptörvény 17. módosítása mellett az új alkotmány megalkotásáról és elfogadásának rendjéről kért állásfoglalást. A bizottság szeptember 25-i közleménye a december 11–12-i ülésre irányozta elő a vélemény elfogadását; az előadók október 29–30-án Budapesten jártak.",
+        "Az Index az időrendet is összefoglalja: az Országgyűlés július 13-án fogadta el az Alaptörvény 17. módosítását, Sulyok július 18-án írta alá, megbízatása pedig július 20-án éjfélkor megszűnt; eredetileg 2029. március 4-ig tartott volna. A TASZ június 20-án közérdekű adatigénylést nyújtott be a beadványról, a Sándor-palota először a döntés megalapozását szolgáló adatra hivatkozva megtagadta a kiadást, a NAIH vizsgálata után július 6-án nyilvánosságra hozta a dokumentumot.",
+        "Schiffer András, az LMP korábbi elnöke pénteki Facebook-bejegyzésében ironikus formában az ügy időrendjére hívta fel a figyelmet, és azt kérdezte, elkerülte-e a Velencei Bizottság jelentése a figyelmét. A cikk háttérként közli, hogy a bizottságot az Európa Tanács 1990 májusában hozta létre; 61 tagja van, és évente négyszer ülésezik."
+      ],
+      "cav": "A beszámoló az Index cikkére épül, amely a Velencei Bizottság közleményeire, az Alaptörvény-módosításra és a Sándor-palota közleményére hivatkozik; ezeket az eredeti forrásokat nem néztük meg. A bizottság hivatalos véleménye még nem született meg, a cikk csak a menetrendet közli. A cikk két különböző címet használ (az oldal címe és a megosztási cím eltér); a tartalmi állítások azonosak. Schiffer András posztját nem láttuk. A cikk fotóit a kiadó a „noai, noimageai” jelöléssel látja el, ezért nem ágyaztuk be őket.",
+      "op": "A Velencei Bizottság véleménye jogi iránytű lehet, de nem döntőbírói ítélet: aki a testülettől azt várja, hogy politikai vitát lezárjon, annak csalódnia kell. Az igazán tanulságos az lesz, hogyan kezelik a hatalmi ágak a véleményt: ha ugyanúgy hivatkoznak rá, amikor kellemetlen, mint amikor kényelmes.",
+      "src": [
+        [
+          "Index: Nemcsak Sulyok Tamás, hanem a Tisza-kormány kérdéseire is válaszol a Velencei Bizottság",
+          "https://index.hu/belfold/2026/11/27/sulyok-tamas-gorog-marta-velencei-bizottsag-eltavolitas-tanacsadas-alkotmany/"
+        ]
+      ]
+    },
+    {
+      "id": "burnham-brexit-ujranyitas-francia-valasztas-le-pen-nov-27",
+      "r": "Külföld",
+      "c": "Egyesült Királyság",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T05:59:42+01:00",
+      "ai_edited": true,
+      "t": "Burnham újranyitotta a Brexit-vitát, de a britek EU-s visszatérésébe a francia választók is beleszólhatnak",
+      "s": "A 444 elemzése szerint a múlt heti brüsszeli megállapodás után a volt miniszterelnökök élesen reagáltak, a franciaországi elnökválasztás pedig akadályt gördíthet a visszatérés elé.",
+      "p": [
+        "A múlt héten Brüsszelben az Egyesült Királyság három fontos területen állapodott meg az EU-val, Andy Burnham brit miniszterelnök pedig újraindította a vitát a szorosabb közeledésről és az esetleges visszatérésről – írja a 444. A visszatérésnek több akadálya is lehet, köztük a jövő tavasszal elnököt választó franciák.",
+        "A megállapodás szerint 2028 márciusától nagyrészt megszűnnek az élelmiszerekre és mezőgazdasági termékekre vonatkozó határellenőrzések, összekötik a brit és az uniós kibocsátáskereskedelmi rendszert, a fiatalok pedig évi százezres létszámkorláttal legfeljebb három évig tanulhatnak, dolgozhatnak és utazhatnak a másik fél területén. Burnham mérföldkőnek nevezte a találkozót. A tandíjkérdés azonnal feszültséget okozott: a Bizottság olcsóbb, a brit tandíjjal azonos árú képzést akarna az uniós diákoknak, a brit kormány viszont elutasítja, mert az egyetemeknek ez pluszbevétel; erről hat hónapon belül próbálnak megállapodni.",
+        "A volt konzervatív miniszterelnökök élesen reagáltak: Theresa May szerint el kell fogadni a Brexitet és tovább kell lépni, Rishi Sunak szerint a vita újranyitása elvonná a figyelmet a kormányzásról, David Cameron újabb évtizedes vitától tart, Boris Johnson pedig „őrültségnek” nevezte, és szerint egy újabb népszavazáson a britek ismét a kilépésre szavaznának. Burnham szerint a volt kormányfők a Brexit-múltban ragadtak; a héten azt is mondta, hogy újabb népszavazás nélkül nem lehet szó csatlakozásról. A YouGov-mérések szerint az újracsatlakozás hívei 58–59 százalékon állnak. A Munkáspárton belül nincs egység: a cikk szerint azok ellenzik, akik a kilépésre szavazott körzetet képviselnek, a tagság és a szavazók többsége viszont támogatja.",
+        "A francia tényezőről a cikk azt írja, hogy a jövő tavaszi elnökválasztáson a felmérések szerint Marine Le Pen és Jean-Luc Mélenchon jutna a második fordulóba, de Le Pennek reális esélye van. A francia alkotmány szerint új tagállam felvételéről népszavazást kell tartani, hacsak a parlament két háza háromötödös többséggel nem szavazza meg. Nigel Farage (Reform UK) felvetette, hogy Le Pen győzelme esetén Franciaország akadályozhatná a brit visszatérést. Burnham a hosszú távú opciók kidolgozását 2027-re tolta, részben azért, hogy lássa a francia és európai politikai térképet. Sam Freedman politikai elemző szerint Burnham „hógolyóeffektust” indított el, amely egységesíti a baloldali tábort, a Konzervatív Pártot pedig nehéz helyzetbe hozza."
+      ],
+      "cav": "A beszámoló a 444 cikkére épül, amely a BBC, a Guardian, a YouGov, a Le Monde, a Politico, a Financial Times és egy elemzői Substack-poszt anyagát idézi; ezeket közvetlenül nem néztük meg. A közvélemény-kutatási adat (58–59 százalék) a cikk szerinti YouGov-mérésre vonatkozik, a pontos kérdésfeltevést nem ismerjük. A Le Pen-forgatókönyv és a francia népszavazási szabály értelmezése a cikk elemzése; az, hogy a Le Pen-elnökség gyakorlatilag akadályt jelentene, nem tény, hanem becslés. A brüsszeli megállapodás szövegét nem láttuk. A kép archív: más eseményen készült.",
+      "op": "Az EU-hoz való visszatérésről szóló brit vita attól érdekes, hogy a Brexit árát ma már nem csak a vesztesek, hanem a politikai többség is látja. Burnham számára az óvatosság racionális: népszavazás nélkül nincs legitimitás, francia vétó esetén pedig nincs út. De aki az újracsatlakozást érzelmi ügynek tartja, annak a tandíj- és a költségvetési viták kijózanítanak.",
+      "src": [
+        [
+          "444: Burnham újranyitotta a Brexit-vitát, de a britek EU-s visszatérésébe még a francia választók is beleszólhatnak",
+          "https://444.hu/2026/11/27/burnham-ujranyitotta-a-brexit-vitat-de-a-britek-eu-s-visszateresebe-meg-a-francia-valasztok-is-beleszolhatnak"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8Q9MNnsgUMdD1Dzofs-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/27/burnham-ujranyitotta-a-brexit-vitat-de-a-britek-eu-s-visszateresebe-meg-a-francia-valasztok-is-beleszolhatnak",
+      "cred": "Andy Burnham távozik a londoni Westminster-székesegyházból Rishi Sunak és Boris Johnson volt miniszterelnökök társaságában, Ann Widdecombe emlékmiséje után (archív kép, nem az uniós megállapodáshoz kapcsolódó eseményen készült). – Fotó: Stefan Rousseau/PA Images via Reuters Connect (a 444 aláírása szerint)"
+    },
+    {
+      "id": "csaladi-csodvedelem-adossagkezeles-jogi-segito-oradij-12000-nov-27",
+      "r": "Gazdaság",
+      "c": "Háztartások",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T16:53:00+01:00",
+      "ai_edited": true,
+      "t": "Minden tizedik háztartás fizetési hátralékkal küzd: ingyenes adósságtanácsadás indult, emelkedhet a jogi segítők óradíja",
+      "s": "A Portfolio szerint Görög Márta igazságügyi miniszter háromrészes csomagot jelentett be: családi csődvédelem, adósságkezelés és jogi segítségnyújtás.",
+      "p": [
+        "Az Igazságügyi Minisztérium három területet átfogó intézkedéscsomagon dolgozik a nehéz anyagi helyzetben élők támogatására – írja a Portfolio. A bejelentést Görög Márta igazságügyi miniszter tette Facebook-bejegyzésben. A cikk szerint jelenleg minden tizedik magyar háztartás küzd valamilyen fizetési hátralékkal, sokaknak gondot okoz a számlák és a törlesztőrészletek határidőre történő befizetése.",
+        "A csomag három pillére a családi csődvédelem (magáncsőd), az adósságkezelési szolgáltatás és a jogi segítségnyújtás. Az adósságkezelés már működik: a Családi Csődvédelmi Szolgálat november 20-án indította el az ingyenes tanácsadást, amely személyre szabott jogi, pénzügyi és szociális iránymutatást ad, hogy az érintettek átlássák a helyzetüket és elkerüljék a súlyosabb eladósodást.",
+        "A családi csődvédelem azoknak szól, akik súlyosan eladósodtak vagy bírósági végrehajtás alatt állnak: egyetlen eljárásban, rendezett keretek között törleszthetnék tartozásaikat a különböző hitelezők felé, ami a cikk szerint visszaadhatja a fizetőképességüket. A jogi segítségnyújtás azokat célozza, akik szociális helyzetük miatt nem engedhetnek meg maguknak ügyvédet. A minisztérium kezdeményezte, hogy a 2027-es költségvetésben a jogi segítők óradíja 7000 forintról 12 000 forintra emelkedjen.",
+        "Görög Márta szerint az anyagi nehézségek nem foszthatják meg az embereket attól, hogy érvényesíthessék jogaikat; a cél, hogy senki ne maradjon egyedül pénzügyi és jogi gondjaival, függetlenül anyagi helyzetétől."
+      ],
+      "cav": "A beszámoló a Portfolio cikkére épül, amely a miniszter Facebook-bejegyzésére hivatkozik; a bejegyzést nem láttuk. A „minden tizedik háztartás” adat forrását és időszakát a cikk nem adja meg. A családi csődvédelem pontos feltételeit, indulási idejét és hatókörét a cikk nem részletezi; az óradíj-emelés csak kezdeményezés, a 2027-es költségvetés elfogadásától függ. A Portfolio jelzi, hogy a cikk előkészítésében AI-asszisztens is közreműködött, a végleges szöveget újságíró szerkesztette. Kép nincs: nincs igazolható aláírás.",
+      "op": "Jó, hogy a kormány a csődvédelmet és az adósságtanácsadást összekapcsolja a jogi segítséggel, mert az eladósodott ember sokszor nem pénzt, hanem tájékozódást nem kap időben. Azt viszont mindenképp érdemes figyelni, hogy a bejelentésekből lesz-e működő, gyorsan elérhető rendszer: a családi csődvédelem akkor ér valamit, ha a szabályai világosak, és nem egy újabb bürokratikus kapu mögé kerülnek.",
+      "src": [
+        [
+          "Portfolio: Minden tizedik magyar család küzd fizetési hátralékkal: fontos bejelentést tett a minisztérium",
+          "https://www.portfolio.hu/gazdasag/20261127/minden-tizedik-magyar-csalad-kuzd-fizetesi-hatralekkal-fontos-bejelentest-tett-a-miniszterium-879770"
+        ]
+      ]
+    },
+    {
+      "id": "f1-katari-nagydij-1-szabadedzes-antonelli-mercedes-nov-27",
+      "r": "Sport",
+      "c": "Forma-1",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T15:35:23+01:00",
+      "ai_edited": true,
+      "t": "Mercedes-fölény a katari nyitányon: Antonelli volt a leggyorsabb, Verstappen hatodik, a Ferrari nagy hátrányban",
+      "s": "A Nemzeti Sport szerint az első szabadedzésen Antonelli 1:23.217-es idővel végzett az élen, Russell fél másodperccel lemaradva második lett.",
+      "p": [
+        "Az F1 Katari Nagydíj első szabadedzését a Mercedes pilótája, Antonelli nyerte 1:23.217-es idővel – írja a Nemzeti Sport. A mezőny Las Vegas után érkezett Lusailba; a futam 50 körös, 309,958 kilométeres lesz. A cikk szerint Antonelli előnye egy ponton meghaladta az egy másodpercet, a lágy keverékkel viszont nem tudott javítani a közepeshez képest, így is nagy fölénnyel zárt az élen.",
+        "Csapattársa, Russell 0,507 másodperces hátrányban lett második, a harmadik helyen Hadjar (Red Bull) végzett 0,661 másodperccel lemaradva. Norris (McLaren) negyedik, Piastri (McLaren) ötödik, Verstappen (Red Bull) hatodik lett, 0,916 másodperces hátránnyal. A Ferrari pilótái, Leclerc és Hamilton a hetedik és a nyolcadik helyen zártak, több mint 1,2 másodpercre az éltől. Az első tízbe még Lindblad (Racing Bulls) és Gasly (Alpine) fért be.",
+        "Alonso autóját a cikk szerint Jak Crawford vezette, mert Alonso vírusos megbetegedés miatt már csütörtökön, a sajtónapon sem vett részt; Crawford a 19. lett. A Nemzeti Sport szerint Verstappen a bajnoki második helyet hétvégén biztosíthatja, a Red Bull és a McLaren között pedig a konstruktőri harmadik hely a tét.",
+        "A hétvége menetrendje a cikk alapján: a második szabadedzés pénteken 18 órakor kezdődik, a harmadik szombaton 15.30-kor, az időmérő szombaton 19 órakor, a verseny vasárnap 17 órakor rajtol. A szezon következő futama az Abu-dzabi Nagydíj lesz december 6-án."
+      ],
+      "cav": "A beszámoló a Nemzeti Sport cikkére épül; a hivatalos időeredményeket nem néztük meg. A cikk szövege több helyen zavaros vagy pontatlan megfogalmazású, ezért a számadatokat a cikk szerint közöljük. Az, hogy Verstappen az elmúlt három katari futamot megnyerte, a lap állítása, nem ellenőriztük; ugyancsak a cikk szerint tehető a bajnoki második hely biztosításának lehetősége, a pontállást nem láttuk. A szabadedzés eredménye kevés támpontot ad a futamról (a csapatok eltérő üzemanyagterheléssel és programmal dolgozhatnak).",
+      "op": "Egy péntek délutáni szabadedzés még nem futam, de a Mercedes kettős előnye és a Ferrari lemaradása látványos kontraszt. Érdemes megvárni a szombati időmérőt, mielőtt bárki végleges következtetést von le: ilyenkor a csapatok eltérő programmal dolgoznak.",
+      "src": [
+        [
+          "Nemzeti Sport: Mercedes-fölényt hozott a katari nyitány; a Ferrari óriási hátrányban kezdett",
+          "https://www.nemzetisport.hu/f1/2026/11/mercedes-folenyt-hozott-a-katari-nyitany-a-ferrari-oriasi-hatranyban-kezdett"
+        ]
+      ],
+      "img": "https://cdn.nemzetisport.hu/2026/11/G5eRD4y1TmH4hjiPNG6U0cvmJhpgboBhPgQLTaYJvmM/fill/1347/758/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzIxNGI0ZmNjZmM1MDRlNDlhOGQyODVjZjYzYWVhMDZi.webp",
+      "imgs": "Nemzeti Sport",
+      "imgl": "https://www.nemzetisport.hu/f1/2026/11/mercedes-folenyt-hozott-a-katari-nyitany-a-ferrari-oriasi-hatranyban-kezdett",
+      "cred": "Antonelli volt a leggyorsabb a nyitó edzésen. – Fotó: X/MercedesAMGF1 (a Nemzeti Sport aláírása szerint; fotós neve nincs megadva)"
+    },
+    {
       "id": "pick-szeged-apelgren-menesztes-kallman-nov-27",
       "r": "Sport",
       "c": "Kézilabda",
