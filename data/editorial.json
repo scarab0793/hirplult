@@ -1,6 +1,187 @@
 {
   "items": [
     {
+      "id": "eu-csucs-felesleges-tanacsules-magyar-peter-nov-27",
+      "r": "Külföld",
+      "c": "EU",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T06:00:00+01:00",
+      "ai_edited": true,
+      "t": "„Teljesen felesleges tanácsülés volt”: Magyar Péter szerint az EU-csúcson nem közeledtek az álláspontok a hétéves költségvetésről",
+      "s": "Az Infostart/MTI és a HVG szerint a rendkívüli brüsszeli csúcs megállapodás nélkül ért véget; a tárgyalás december 16-án folytatódik.",
+      "p": [
+        "Az Infostart az MTI nyomán, valamint a HVG EUrologus rovata szerint az uniós állam- és kormányfők rendkívüli brüsszeli csúcstalálkozója csütörtökön éjfél után véget ért, a 2028 és 2034 közötti közös költségvetésről pedig nem született megegyezés. A HVG szerint eredetileg kétnaposra tervezték a találkozót, de a második napot lemondták, mert az álláspontok nem közeledtek. A vita három kérdés körül folyik: mekkora legyen a költségvetés főösszege, hogyan oszoljon meg a szakpolitikai területek között, és milyen új saját bevételekből töltsék fel.",
+        "A HVG ismertetése szerint António Costa, az Európai Tanács elnöke november 21-i módosított javaslata 1582 milliárd eurós keretet irányzott elő, nagyjából tíz százalékkal kisebbet, mint az Európai Bizottság eredeti tervezete. Egyes tagállamok ennél is akár 250 milliárd euróval nagyobb vágást sürgettek, de Costa összegzése szerint a többség további megszorítást nem akart, és a kohéziós, valamint az agrártámogatások szintjének megőrzését kérte. Ursula von der Leyen a saját források közül a digitális szolgáltatások adóját említette széles körben támogatottként; a bevételi csomag a digitális szolgáltatásokra, az elektronikai hulladékra, a dohánytermékekre és a kibocsátás-kereskedelemre épülhetne.",
+        "Magyar Péter miniszterelnök a tanácskozás után Brüsszelben azt mondta, Magyarország nem fogadhat el olyan javaslatot, amely csökkenti a számára járó forrásokat, növeli a magyar befizetéseket, bonyolultabbá teszi a tagállamok életét vagy feltételekhez köti a pénzek felhasználását. Szerinte a kohéziós és a közös agrárpolitikai forrásoknak nem szabad csökkenniük, más fejezetek összege viszont mérsékelhető, és csak olyan új bevétel vezethető be, amely nem terheli túlzottan a magyar költségvetést. Úgy fogalmazott, hogy „a mai egy teljesen felesleges tanácsülés volt”, a tagállamok álláspontja pedig távolabb került egymástól, mint csütörtök reggel. Az Infostart szerint a miniszterelnök a decemberi kompromisszumra nagyon kevés esélyt lát.",
+        "A miniszterelnök számai szerint Magyarország a hétéves keretből nagyjából 32–34 milliárd eurót kaphat, és az időszak végére körülbelül 15 milliárd eurós nettó nyereséggel jöhet ki. Elmondta azt is, hogy a visegrádi négyek és a „kohézió barátai” néven ismert, 19 tagállamot tömörítő csoport szintén a kohéziós és agrárforrások megőrzését kéri, és ellenzi a jóval magasabb saját forrásokat.",
+        "Ukrajna ügyében Magyar Péter szerint nem elfogadható, hogy a javaslat alapján egy nem tagállam akár 100 milliárd eurót kapjon, miközben az uniós költségvetés korlátlan hitelfelvételt és kamatfinanszírozást is fedezne. Magyarország a saját módján támogat, ám a pénzt adó tagállamnak kell megmondania, mire és hogyan megy a támogatás; Budapest a kárpátaljai magyarok megmaradását, egészségügyi ellátását és fűtését segíti. A HVG szerint Ukrajna 2027-es, 45 milliárd eurós támogatását 24 tagállam támogatta (a bizottsági javaslat 25 milliárd eurót katonai célra, 20 milliárdot általános költségvetési támogatásra szánna), Bulgária pedig csak a nem katonai részben venne részt. Az állam- és kormányfők december 16-án ülnek össze újra Brüsszelben, a tárgyalás pedig karácsonyig folytatódhat az egyhangú megállapodásig."
+      ],
+      "cav": "A beszámoló az Infostart/MTI és a HVG cikkére épül; a csúcs hivatalos dokumentumait és Magyar Péter teljes nyilatkozatát nem láttuk. A magyar nettó nyereségre és az Ukrajnának szánt összegre vonatkozó számok a miniszterelnök állításai, a cikkek nem ellenőrizték őket. Az Infostart szerint a miniszterelnök a decemberi kompromisszumra alig lát esélyt, a HVG pedig a három hét múlva folytatódó tárgyalást említi; a két cikk a következő ülés időpontját nem pontosan ugyanúgy írja le (december 16. illetve „három hét”). A többi tagállam és a Bizottság teljes álláspontja hiányzik; a HVG-cikkben a költségvetés dátumai (2028–2034) és az Infostart „2027 utáni” megfogalmazása is eltér.",
+      "op": "Érthető, hogy a magyar kormány a kohéziós és agrárpénzekhez ragaszkodik, és az is helyes, hogy szövetségeseket keres. A „felesleges tanácsülés” mondat viszont inkább a tehetetlenségről szól, mint a győzelemről: a magyar forrásokról végül kompromisszum fog dönteni, és az ebből kimaradó, hangos nemmel nem lehet pénzt szerezni.",
+      "src": [
+        [
+          "Infostart: Az EU-csúcs Magyar Péter szerint „egy teljesen felesleges tanácsülés volt”",
+          "https://infostart.hu/kulfold/2026/11/27/eu-csucs-magyar-peter-nem-lat-sok-eselyt"
+        ],
+        [
+          "HVG: Magyar Péter az EU-csúcs után: „Teljesen felesleges volt”",
+          "https://hvg.hu/eurologus/20261127_magyar-peter-eu-csucs-unios-koltsegvetes-ukrajna"
+        ]
+      ],
+      "img": "https://infostart.hu/images/site/articles/lead/2026/11/1795755341-sy8fPWarC_md.jpg",
+      "imgs": "Infostart",
+      "imgl": "https://infostart.hu/kulfold/2026/11/27/eu-csucs-magyar-peter-nem-lat-sok-eselyt",
+      "cred": "Magyar Péter miniszterelnök nyilatkozik a sajtó képviselőinek az EU-tagországok állam- és kormányfőinek rendkívüli csúcstalálkozója után Brüsszelben 2026. november 27-én hajnalban. – Fotó: MTI/Bodnár Boglárka (az Infostart aláírása szerint)"
+    },
+    {
+      "id": "nemzeti-bunmegelozesi-tanacs-megszunik-kozlony-nov-26",
+      "r": "Belpolitika",
+      "c": "Kormány",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 26.",
+      "published_at": "2026-11-26T21:39:00+01:00",
+      "ai_edited": true,
+      "t": "Megszűnik a Nemzeti Bűnmegelőzési Tanács: a kormány átvilágítja a bűnmegelőzési stratégiát",
+      "s": "A Portfolio szerint a Magyar Közlönyben megjelent döntések alapján a belügyminiszter 2027. március 31-ig vizsgálja felül a stratégiát és a hozzá tartozó cselekvési tervet.",
+      "p": [
+        "A Portfolio csütörtök esti cikke szerint a kormány átfogóan felülvizsgálja a Nemzeti Bűnmegelőzési Stratégiát, és hatályon kívül helyezi azt a 2011-es kormányhatározatot, amely a Nemzeti Bűnmegelőzési Tanácsot létrehozta. A döntést Ruff Bálint miniszterelnök-helyettes írta alá, a határozat a Magyar Közlönyben jelent meg.",
+        "A belügyminiszternek 2027. március 31-ig kell gondoskodnia a stratégia és a hozzá kapcsolódó cselekvési terv átfogó felülvizsgálatáról. A kormány céljai között a cikk szerint a bűnmegelőzés hatékonyabb szervezése, új bűnmegelőzési modell bevezetése, valamint a közrend, a közbiztonság, az élet- és vagyonbiztonság erősítése szerepel. A munkába bevonnák a civil szervezeteket is.",
+        "A második, pénteken (november 27-én) hatályba lépő határozat megszünteti a Tanács jogalapját. A felülvizsgálat lezárultáig a Tanács feladatait a belügyminiszter veszi át. A Portfolio szerint a testület korábban a stratégia kidolgozásáért, a rendvédelmi és közigazgatási szervek összehangolásáért, jogszabály-módosítások kezdeményezéséért, az áldozatok támogatásáért és a bűnmegelőzési források elosztásának javaslattételéért felelt. A kormány azt a szabályt is eltörli, amely szerint a Tanácsnak kötelezően részt kell vennie a stratégia végrehajtásában. A stratégia egyelőre érvényben marad, az új bűnmegelőzési modell részleteit pedig még nem tették közzé."
+      ],
+      "cav": "A beszámoló a Portfolio cikkén alapul; a Magyar Közlöny szövegét közvetlenül nem láttuk. A cikk következetlen a stratégia időszakában: a szövegben 2023-ban elfogadott tízéves stratégiáról, az oldal metaadataiban 2024–2034-ről van szó. Az új modell tartalma, a civil szervezetek bevonásának módja és a Tanács tagjainak sorsa nem derül ki. A kormány indoklását a cikk csak általánosságban ismerteti.",
+      "op": "Egy tanácsadó testület megszüntetése önmagában nem baj, ha helyette valódi, számon kérhető rendszer épül. A belügyminiszterre bízni a feladatokat rövid távon egyszerű megoldás, de annál fontosabb, hogy a civil szervezetek ne csak díszvendégek legyenek a felülvizsgálatban, és az áldozatsegítés se csússzon ki a szem elől.",
+      "src": [
+        [
+          "Portfolio: Megszünteti a Nemzeti Bűnmegelőzési Tanácsot, és átalakítja a bűnmegelőzés rendszerét a kormány",
+          "https://www.portfolio.hu/gazdasag/20261126/megszunteti-a-nemzeti-bunmegelozesi-tanacsot-es-atalakitja-a-bunmegelozes-rendszeret-a-kormany-879528"
+        ]
+      ],
+      "img": "https://pcdn.hu/articles/images-xl/d/s/z/dszzs20260608055-1-873270.jpg",
+      "imgs": "Portfolio",
+      "imgl": "https://www.portfolio.hu/gazdasag/20261126/megszunteti-a-nemzeti-bunmegelozesi-tanacsot-es-atalakitja-a-bunmegelozes-rendszeret-a-kormany-879528",
+      "cred": "Címlapkép (illusztráció) – Fotó: MTI/Szigetváry Zsolt (a Portfolio jelzése szerint; nem az eseményen készült)"
+    },
+    {
+      "id": "mezokovesd-vonatbaleset-kamerak-ajto-felvetel-nov-27",
+      "r": "Közélet",
+      "c": "Közlekedés",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T06:35:00+01:00",
+      "ai_edited": true,
+      "t": "Három kamera rögzítette a mezőkövesdi vasúti balesetet: a MÁV jelentése szerint a mozgó vonat ajtaja becsípte a fiatal nőt",
+      "s": "A 444 és az Index a MÁV jelentésére hivatkozva ismerteti az eseményeket; a vizsgálat folyik.",
+      "p": [
+        "A 444 és az Index péntek reggeli cikke szerint a MÁV jelentése három, a közeli buszállomáson működő térfigyelő kamera felvételein alapul; a jelentést elsőként a 24.hu ismertette. A baleset kedd este történt a Hernád InterCity utolsó kocsijánál, Mezőkövesden.",
+        "A beszámolók szerint egy utas leszállt a vonatról, az ajtók nagyjából 18–19 másodperccel később kezdtek záródni. A jegyvizsgálók újabb fel- vagy leszállót nem láttak, ezért megadták az indulási jelzést, és visszaszálltak. Az ajtózárást jelző lámpa hat másodpercig villogott; ennek két-három másodperce már eltelt, amikor a fiatal nő az ajtónyitó gombot nyomta. Az ajtó két-három másodpercre kinyílt, miközben a vonat már mozgott, a nő pedig nem tudott leszállni. Az ajtó becsukódott, és a hátizsákja pántja beszorult. A jelentés szerint teste nagyrészt már kint volt az ajtón.",
+        "Az ajtó csak legalább két centiméter vastag tárgy esetén nyílik vissza, a pánt ennél vékonyabb volt, ezért az ajtó zárva maradt, az ajtó lépcsője pedig behúzódott a nő alól. A peronon állók észrevették a bajt; mire a forgalmi szolgálattevő piros jelzést adott és értesítette a mozdonyvezetőt, a vonat már 100 km/órával haladt. A 444 szerint a mozdonyon nincs tükör, csak egy kamera, amely menet közben semmit sem mutat. Az Index szerint a kocsi 1980-as években épült, és nincs benne az úgynevezett zöldhurok, amely nyitott ajtónál automatikusan fékezné a szerelvényt.",
+        "A 444 szerint a fiatal nő mindkét lábát elvesztette, állapota válságos; az Index súlyos, életveszélyes sérülésekről ír. A közlekedési miniszter csütörtökön azt mondta, a hatóságok meghallgatják a két jegyvizsgálót, a mozdonyvezetőt és az indulást engedélyező forgalmi szolgáltatót, és nem akar találgatni, a tényeket a nyomozóknak kell megállapítaniuk. Az Index szerint a rendőrség szemtanúkat keres, az Országos Vérellátó Szolgálat pedig közölte, hogy csütörtökön több mint 2200 ember jelentkezett véradásra; arra kérték az önkénteseket, hogy decemberi második felére foglaljanak időpontot, mert a kezeléshez szükséges készítmények biztosítva vannak."
+      ],
+      "cav": "A beszámoló a 444 és az Index cikkére épül, amelyek a MÁV jelentésére és a 24.hu tudósítására hivatkoznak; a jelentést és a felvételeket nem láttuk. A két cikk eltér: a 444 szerint a nő mindkét lábát elvesztette, az Index csak életveszélyes sérülésekről ír. Az Index szövegében a sérült életkora is következetlen (18, illetve egy kapcsolódó címben 21 év). A felelősségről nincs döntés: a hatóságok vizsgálata tart, a felelősség megállapítása nem a médiáé. A cikkben szereplő politikai reakciókat nem ismertetjük. Az eseményhez kép nem tartozik: nem találtunk igazolhatóan a helyszínt vagy a vonatot ábrázoló, újraközölhető fotót.",
+      "op": "Egy ajtó, amely mozgó vonaton is nyitható, és amely nem fékezi a szerelvényt, ha valaki beszorul, nem 2026-os biztonsági megoldás. A vizsgálat eredménye majd megmondja, ki mit mulasztott, de a kérdés már most az is, mennyi régi kocsi fut még ilyen kockázattal, és mikor cserélik le őket.",
+      "src": [
+        [
+          "444: Három térfigyelő kamera is rögzítette a mezőkövesdi borzasztó vasúti balesetet",
+          "https://444.hu/2026/11/27/harom-terfigyelo-kamera-is-rogzitette-a-mezokovesdi-borzaszto-vasuti-balesetet"
+        ],
+        [
+          "Index: Több kamera is rögzítette a mezőkövesdi balesetet, kiderült, mi látható a felvételeken",
+          "https://index.hu/belfold/2026/11/27/mezokovesd-baleset-mav-vonatbaleset-intercity-kamera"
+        ]
+      ]
+    },
+    {
+      "id": "havazas-sopron-nograd-2-es-fout-penteki-elorejelzes-nov-27",
+      "r": "Közélet",
+      "c": "Időjárás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T06:57:00+01:00",
+      "ai_edited": true,
+      "t": "Sopronban húsz centi hó esett, Nógrádban kamionok akadtak el: pénteken havas eső, jégdara és erős szél jön",
+      "s": "A 444 az Időkép adataira, az Index a HungaroMet előrejelzésére hivatkozik: pénteken is vegyes csapadék várható.",
+      "p": [
+        "A 444 péntek reggeli cikke szerint csütörtökön az északnyugati országrészben helyenként körülbelül húsz centi hó esett: Sopron teljesen belepett, a város környékén 14:30-ig 13–14 centit mértek, később elérte a húszat. Sok hó hullott Mosonmagyaróvár környékén és Kőszegen is, a déli országrészben viszont nem esett. Az adatok forrása az Időkép.",
+        "Nógrádban a 2-es főúton Szendehely és Borsosberény között több kamion elakadt. Az 58-as kilométernél a korlátozást feloldották, a 49-es és az 52-es kilométernél még csak egy sávon lehetett haladni. A Magyar Közút arra kérte az autósokat, hogy ha nem muszáj, ne induljanak útnak, vagy válasszanak másik útvonalat.",
+        "Az Index a HungaroMet előrejelzésére hivatkozva azt írja, hogy pénteken borult idő lesz, esővel, havas esővel, helyenként hóval. A hajnali hőmérséklet −2 és +4 fok között alakul, a legmagasabb nappali érték 0 és 7 fok között. A csapadékzóna kora délután kelet felé távozik, délnyugat felől azonban újabb eső vagy havas eső érkezik. Az északkeleti tájakon késő estig több hó és havas eső várható. A Dunántúlon az eső havas esőbe vagy hóba válthat, az Alföldön hó- és jégdara is előfordulhat. Az északi, északnyugati szél helyenként megerősödik, estére enyhül.",
+        "A 444 az Időkép előrejelzése alapján azt írja, hogy pénteken reggel északon, északnyugaton és a hegyvidéken hó, keletebbre havas eső, eső várható, délutánra már csak a hegyekben havazik. Szombaton többnyire felhős idő lesz, délen és délnyugaton vegyes csapadék is előfordulhat; az éjszakai hőmérséklet −3 és +3 fok, a kora délutáni 0 és +8 fok között alakul."
+      ],
+      "cav": "A beszámoló a 444 és az Index cikkére épül; az Időkép és a HungaroMet eredeti előrejelzéseit nem láttuk. A két előrejelzés forrása különbözik (Időkép, illetve HungaroMet), részleteikben eltérhetnek. Az Index cikkei szerint a fenti időjárási adatok előrejelzések, nem mért értékek. Baleseteket, sérülteket vagy a közútkezelő további intézkedéseit a cikkek nem említenek.",
+      "op": "A novemberi első nagyobb havazás hagyományosan próbára teszi a főutakat, és a nógrádi kamionelakadás most is ezt mutatja. Aki teheti, péntek reggel maradjon otthon vagy vonattal menjen; a közútkezelő felkészültségét pedig nem a sószámok, hanem az fogja igazolni, hogy a mellékutak is járhatók maradnak.",
+      "src": [
+        [
+          "444: Sopronban már húsz centi hó esett, Nógrádban kamionok akadtak el",
+          "https://444.hu/2026/11/27/sopronban-mar-husz-centi-ho-esett-nogradban-kamionok-akadtak-el"
+        ],
+        [
+          "Index: Havas eső, jégdara és erős szél csap le az országra pénteken",
+          "https://index.hu/belfold/2026/11/27/idojaras-elorejelzes-pentek-csapadek-eso-ho/"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8QA6stcq2Xms1PEu3s.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/27/sopronban-mar-husz-centi-ho-esett-nogradban-kamionok-akadtak-el",
+      "cred": "Havazás Sopronban. – Fotó: Filep István/MTI/MRTV (a 444 aláírása szerint)"
+    },
+    {
+      "id": "vizmegtartas-online-terkep-150-millio-kobmeter-nov-27",
+      "r": "Közélet",
+      "c": "Környezet",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T06:18:00+01:00",
+      "ai_edited": true,
+      "t": "Online térkép mutatja, hol mennyi vizet sikerült megtartani: az összesített mennyiség 150,85 millió köbméter",
+      "s": "Az Index szerint a térképet egy olvasó készítette, és a vízügyi hírek alapján 118 helyszínt követ.",
+      "p": [
+        "Az Index péntek reggeli cikke szerint a hónapokig tartó aszály után a novemberi esők és a víztartási intézkedések több kiszáradt területre visszahozták a vizet. A Gajdos László által vezetett tárca a víz tájban tartását tűzte ki célul, és a cikk szerint most új online térkép követi, hogy hol mennyit sikerült megtartani.",
+        "A térképet, amelyet a 24.hu ismertetett, egy olvasó készítette, a GitHub Pages oldalon érhető el. Jelenleg 118 helyszínt mutat műholdképpel és a hivatalos közlemények hivatkozásával, valamint 131 vízügyi hírt is felsorol, igazgatóságok szerint szűrhetően. A projekt az Országos Vízügyi Főigazgatóság, a 12 területi igazgatóság és a sajtó 328 cikkét dolgozza fel. Az ellenőrzött vízmennyiség a duplikált adatok kiszűrése után 150,85 millió köbméter.",
+        "A cikk hangsúlyozza: az őszi csapadék önmagában nem vet véget az évek óta tartó aszálynak, ezért a víz megtartása a tájban továbbra is kulcskérdés."
+      ],
+      "cav": "A beszámoló az Index cikkén alapul; magát a térképet és annak adatait nem láttuk. A 150,85 millió köbméteres összeg a térkép készítőjének saját összesítése, nem hivatalos vízügyi statisztika, ezt a cikk is így mutatja be. A cikk nem részletezi, mely helyszíneken mennyi a megtartott víz, és az Index metaadatai szerint az utolsó módosítás időpontja korábbi a megjelenésnél. Az Index borítóképéhez nem tartozik képaláírás vagy fotósnév.",
+      "op": "Jó látni, hogy valaki közadatokból átlátható térképet épít, mert a vízgazdálkodásról szóló viták gyakran számok nélkül folynak. Ugyanakkor az sem mellékes, hogy a hivatalos adatot egy lelkes olvasó rakja össze: a vízügyi hatóságoknak maguknak kellene közzétenniük ezt a nyilvántartást.",
+      "src": [
+        [
+          "Index: Új online térképen követhetjük nyomon, hogy hol mennyi vizet sikerült megtartani Magyarországon",
+          "https://index.hu/belfold/2026/11/27/vizmegtartas-gajdos-laszlo-orszagos-vizugyi-foigazgatosag-interaktiv-terkep/"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7271/72717/727171/72717143_5357227_c549282f013ce968253643060a52737c_wm.png",
+      "imgs": "Index",
+      "imgl": "https://index.hu/belfold/2026/11/27/vizmegtartas-gajdos-laszlo-orszagos-vizugyi-foigazgatosag-interaktiv-terkep/",
+      "cred": "Index borítókép (az oldal nem ad meg képaláírást vagy fotóst)"
+    },
+    {
+      "id": "neuralink-als-klinikai-vizsgalat-fda-nov-27",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T04:30:00+01:00",
+      "ai_edited": true,
+      "t": "Zöld utat kapott a Neuralink agyi chipjének ALS-es betegeken végzett klinikai vizsgálata",
+      "s": "Az Infostart a HVG nyomán azt írja, hogy az amerikai gyógyszerhatóság engedélyezte a vizsgálatot, amelynek célja, hogy a bénult betegek gondolattal irányítsanak eszközöket.",
+      "p": [
+        "Az Infostart pénteki cikke a HVG.hu beszámolójára hivatkozva azt írja, hogy az amerikai gyógyszerhatóság jóváhagyta az Elon Musk tulajdonában lévő Neuralink agyi chipjének klinikai vizsgálatát amiotrófiás laterálszklerózisban (ALS) szenvedő betegeken. Az ALS olyan idegrendszeri betegség, amely az izommozgást irányító idegsejteket károsítja.",
+        "A vizsgálat célja, hogy a bénult emberek az agyukkal vezérelhessenek eszközöket. A cikk szerint a mostani kísérlet a korábbi, valamivel több mint harminc résztvevős munkára épül. Az Infostart megfogalmazásában a betegek, akik eddig tehetetlenül várták a kór végét, a találmány működése esetén gondolatátvitellel cselekedhetnének."
+      ],
+      "cav": "A beszámoló az Infostart cikkén alapul, amely a HVG.hu írására hivatkozik; az engedély szövegét és a vizsgálat részleteit nem láttuk. A cikk nem közli a vizsgálat résztvevőinek számát, kezdési időpontját és várható eredményességét; nem derül ki, hogy a korábbi vizsgálatok milyen eredménnyel zárultak. A technológia hatékonysága bizonyítatlan. Kép nincs, mert a cikk fotója nem az eseményhez kötődő stock-fotó.",
+      "op": "Az ALS-betegeknek minden olyan kutatás reményt jelent, ami a kommunikációt vagy a mozgást visszaadhatja, ezért a vizsgálat engedélyezése jó hír. Közben érdemes hűvösen mérlegelni: az engedély a kísérlet kezdetét jelenti, nem a gyógyulást, és a cég ígéreteit független eredmények nélkül nem szabad elhinni.",
+      "src": [
+        [
+          "Infostart: Itt a tudomány komoly hadüzenete az ALS-rettenetnek",
+          "https://infostart.hu/tudomany/2026/11/27/itt-a-tudomany-komoly-haduzenete-az-als-rettenetnek"
+        ]
+      ]
+    },
+    {
       "id": "kozlony-17-milliard-rendvedelem-bethlen-alap-nov-26",
       "r": "Belpolitika",
       "c": "Kormány",
