@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "id": "kormanyzati-szerkezetatalakitas-torvenycsomag-magyarsagpolitika-nov-27",
+      "r": "Belpolitika",
+      "c": "Törvényalkotás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T13:43:00+01:00",
+      "ai_edited": true,
+      "t": "Felekezet az egyház helyett, magyarságpolitika a nemzetpolitika helyett: 55 oldalas csomaggal rendezné át a hatásköröket a kormány",
+      "s": "Az Index szerint a kormányzati szerkezetátalakítást szolgáló javaslat több tucat törvényt módosítana: a kiberbiztonsági felügyelet miniszteri irányítás alá kerülne, az egyetemi alapítványok megszüntetése miatt átmeneti finanszírozás jönne.",
+      "p": [
+        "A Tisza-kormány november 17-én nyújtotta be azt az 55 oldalas törvényjavaslatot, amely a kormányzati szerkezetátalakításhoz igazítaná több tucat jogszabályt – derül ki az Index pénteki cikkéből. Az előterjesztés általános vitáját pénteken kezdik meg a képviselők, a zárószavazást a lap szerint december 14–15-i ülésen tartanák.",
+        "A csomag részben szóhasználatot cserélne: tíz törvényben az „egyházak” helyett „felekezetek” szerepelne, a köznevelési törvényből eltűnne az egyházpolitikára utaló miniszteri feladatkör megnevezése, több helyen pedig a „nemzetpolitika” helyét a „magyarságpolitika” venné át. Az Index szerint az előterjesztés ettől még nem változtatna az egyházak jogállásán.",
+        "A jelentősebb tartalmi elem a kiberbiztonság: megszüntetnék a Szabályozott Tevékenységek Felügyeleti Hatóságának (SZTFH) kiberbiztonsági hatásköreit, és ezek a területért felelős miniszterhez, illetve minisztériumhoz kerülnének. Az érintett dolgozók közszolgálati jogviszonya január 1-jén automatikusan kormányzati szolgálati jogviszonnyá alakulna, a fizetésük nem csökkenhetne, és nem lehetne velük szemben próbaidőt kikötni. A cikk szerint ez azért lényeges, mert kormányzati szolgálati jogviszonyban főszabály szerint három–hat hónapos próbaidő van, amely alatt a jogviszony indoklás nélkül, azonnali hatállyal megszüntethető.",
+        "Az egyetemi alapítványok (kekva) megszüntetése miatt átmeneti finanszírozást vezetnének be: 2027-re az alapítói jogokat gyakorló miniszter az állam nevében közvetlenül az egyetemekkel köthetne egyéves finanszírozási szerződést, ha ehhez a fenntartó alapítványok is hozzájárulnak. A klinikai központok finanszírozása nem változna. A nem felsőoktatási alapítványoktól átvett támogatási kötelezettségeket a feladatot átvevő költségvetési szervek teljesíthetnék. Ha augusztus 30-ig nem születik megállapodás az államháztartáson kívüli alapítóval a vagyonelszámolásról, a kormány 2027. január 31-ig nyilvános határozatban döntene az alapítót megillető vagyon visszaadásáról.",
+        "Az állami kitüntetések előkészítése és a Kossuth- és Széchenyi-díjasok nyilvántartása a nemzetpolitikáért felelős minisztertől a Miniszterelnökséget vezető miniszterhez kerülne; a külhoni magyarok kitüntetésére a magyarságpolitikáért felelős tárcavezető tehetne javaslatot. Az Alaptörvény korábbi módosításához igazodva eltörölnék az állami kitüntetésekről szóló törvény sarkalatossági záradékát, így a jövőbeni módosításhoz elég lenne az egyszerű többség.",
+        "Az esélyegyenlőségi szabályok két uniós irányelv átültetését szolgálják: a hatóságnak a kérelem benyújtásától számított 45 napon belül tájékoztatnia kellene a panaszost, ha addig nem döntött, nem kért hiánypótlást, és nem jelezte, vizsgálja-e az ügyet. A fogyatékossággal élők jogérvényesítését az észszerű alkalmazkodás javítaná: akadálymentessé kellene tenni többek között a panaszkezelést és a tájékoztatást, látássérült ügyfél kérésére pedig a jegyzőkönyvet és a lezáró döntést Braille-írással is el kellene készíteni.",
+        "Végül bevezetnék a közszolgálati eljárás fogalmát, amely egységes keretbe foglalná a közszolgálati dolgozókkal kapcsolatos munkáltatói döntéseket és vitarendezést (a lap példaként a rendőr elleni fegyelmi eljárást említi). A munkáltatónak a per elején fel kellene tárnia döntése ténybeli és jogi alapjait, a bíróság pedig közvetlenül megállapíthatná például a végkielégítés vagy a kártérítés összegét. Ha mindkét fél megjelenik az első tárgyaláson, azt egyezségi egyeztetéssel kellene kezdeni; a cél, hogy a jogvita érdemben záruljon le, és ne a munkáltatói eljárás megismétlése miatt húzódjon."
+      ],
+      "cav": "A beszámoló az Index cikkére épül; magát a törvényjavaslatot (a cikk a parlament.hu-n elérhető dokumentumra hivatkozik) nem néztük meg, így a részletek az Index értelmezésén alapulnak. Az átnevezések és a hatáskör-átrendezések végleges szövege a vita során változhat. A cikk nem közli, hány törvényt érint pontosan („több tucat”), és a kiberbiztonsági átvétel indoklását sem. Az Index az oldal metaadataiban a közlés és a módosítás időpontját fordított sorrendben adja meg; ez a tartalmat nem érinti. A cikk képét a kiadó oldala a képek AI-célú felhasználásának tiltását jelző címkével látja el, ezért nem ágyaztuk be.",
+      "op": "A szóhasználat cseréje önmagában jelképes, de a kiberbiztonsági felügyelet miniszteri irányítás alá vonása már érdemi kérdés: ha a független hatóságtól a minisztériumhoz kerül a hatáskör, annak ellensúlyáról is érdemes beszélni, nem csak a hatékonyságról. Jó jel viszont, hogy a csomag a kekva-átalakításnál határidőket és nyilvános döntést ír elő, mert a vagyonelszámolás az a terület, ahol a bizalom a részleteken múlik.",
+      "src": [
+        [
+          "Index: A nemzetpolitikát magyarságpolitikára, az egyházakat felekezetekre cserélné a kormány",
+          "https://index.hu/belfold/2026/11/27/nemzetpolitika-egyhazak-kormanyzat-struktura-hataskor-torvenyjavaslat"
+        ]
+      ]
+    },
+    {
       "id": "mfb-feljelentes-lukavac-cementgyar-hutlen-kezeles-nov-27",
       "r": "Gazdaság",
       "c": "Közpénz",
