@@ -1,6 +1,359 @@
 {
   "items": [
     {
+      "id": "mfb-feljelentes-lukavac-cementgyar-hutlen-kezeles-nov-27",
+      "r": "Gazdaság",
+      "c": "Közpénz",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:48:09+01:00",
+      "ai_edited": true,
+      "t": "Hűtlen kezelés gyanúja miatt feljelentést tett az MFB a Mészáros-körhöz kötődő Lukavac cementgyár eladása ügyében",
+      "s": "A Gazdasági és Energetikai Minisztérium közlése szerint az állami bank ismeretlen tettes ellen fordult a hatósághoz, és az NVVH-nál is bejelentést tett.",
+      "p": [
+        "A Magyar Fejlesztési Bank (MFB) hűtlen kezelés gyanúja miatt feljelentést tett ismeretlen tettes ellen a bosznia-hercegovinai Lukavac cementgyár ügyében – ez derül ki a Gazdasági és Energetikai Minisztérium pénteki közleményéből, amelyet a Portfolio, a HVG és a 444 is ismertetett. Az ügy a gyár osztrák vevő részére, halasztott fizetéssel történt eladásához kapcsolódik; a gyár a Talentis International Construction Investments Kft. tulajdonában áll.",
+        "A közlemény szerint a vevő a szerződéskötéstől számítva több mint tíz hónapot kapott arra, hogy a bankhitel rendezése után fennmaradó vételárrészt kifizesse, miközben a vételár nem változott. Az eladó többségi tulajdonosa az MBH Magántőkealap, amelynek az MFB a többségi befektetője: az állami bank a gyár korábbi megvásárlásához hitelt nyújtott, az alapba pedig tőkét is fektetett. A minisztérium szerint a hitel visszafizetése önmagában nem téríti meg az MFB befektetői érdekeltségét.",
+        "A feljelentés szerint felmerült, hogy a későbbi fizetési lehetőségért az eladó nem kapott megfelelő ellentételezést. Ez vagyoni hátrányt okozhatott, és érinthette az állami bank befektetésének megtérülését. A hatósági vizsgálatnak kell tisztáznia, történt-e vagyoni hátrányt okozó vagyonkezelési kötelezettségszegés. Az MFB az állami vagyoni érdekek védelmében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál (NVVH) is bejelentést tett.",
+        "A HVG és a 444 a háttérről is írt. A Mészáros Lőrinchez köthető Talentis 2023 végén vásárolta meg a lukavaci gyárat az osztrák Asamer Baustoffe-tól, amelynek a cementgyár 2001 óta volt a tulajdonában. A HVG szerint a vételhez 60 millió euró friss tőkét kapott a cég, ebből 45 milliót egy, az MFB által 2020-ban létrehozott válságalap adott. A 444 szerint a Talentis International Construction Investments Kft.-t a Talentis Group Zrt. hozta létre 2023 júliusában 10 ezer eurós törzstőkével, az MFB pedig ugyanazon év december 4-én 140 millió eurós (53,5 milliárd forintos) jelzáloghitelt adott neki; a cég másik tulajdonosa szintén a Mészáros Lőrinchez kötődő Talentis Group Zrt.",
+        "A közlemény nem nevez meg gyanúsítottat, nem közli, mekkora kár keletkezhetett, és azt sem, mikor zárult le az eladás."
+      ],
+      "cav": "A beszámoló a Portfolio, a HVG és a 444 cikkére épül; a minisztérium közleményét és a feljelentést nem láttuk. A feljelentés ismeretlen tettes ellen szól, nem nevez meg senkit; a Mészáros-szál a HVG és a 444 háttérleírásából jön, a közlemény Mészáros Lőrincet nem említi. A HVG a válságalapot „MKB Magántőkealap”-ként, a minisztérium „MBH Magántőkealap”-ként nevezi meg; elképzelhető, hogy ugyanarról az alapról van szó, de ezt a cikkek nem mondják ki. A hitel időpontját a 444 2023. december 4-ére teszi, a HVG pedig egy 2024. januári saját cikkére hivatkozik. A kár összege és az adásvételi ár nem ismert, az érintettek reakciója hiányzik.",
+      "op": "Évekig a sajtó firtatta, hová kerültek az állami válságpénzek; most maga az állami bank tesz feljelentést, és ez jó irány. Az igazi próba az lesz, hogy a nyomozás nevekig és összegekig eljut-e, nem áll meg az „ismeretlen tettesnél”.",
+      "src": [
+        [
+          "444: Hűtlen kezelés gyanúja miatt feljelentést tett az MFB a Mészáros Lőrinchez kötődő Lukavac cementgyár ügyében",
+          "https://444.hu/2026/11/27/hutlen-kezeles-gyanuja-miatt-feljelentest-tett-az-mfb-a-meszaros-lorinchez-kotodo-lukavac-cementgyar-ugyeben"
+        ],
+        [
+          "HVG: Feljelentést tett a Magyar Fejlesztési Bank a Lukavac cementgyár ügyében, Mészáros-szál is van az ügyben",
+          "https://hvg.hu/gazdasag/20261127_magyar-fejlesztesi-bank-feljelentes-hutlen-kezeles-gyanuja-lukavac-cementgyar-meszaros-lorinc"
+        ],
+        [
+          "Portfolio: Hűtlen kezelés gyanúja miatt tett feljelentést az MFB a Lukavac cementgyár ügyében",
+          "https://www.portfolio.hu/gazdasag/20261127/hutlen-kezeles-gyanuja-miatt-tett-feljelentest-az-mfb-a-lukavac-cementgyar-ugyeben-879696"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8FtKN2SSFF3JGWB1s-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/27/hutlen-kezeles-gyanuja-miatt-feljelentest-tett-az-mfb-a-meszaros-lorinchez-kotodo-lukavac-cementgyar-ugyeben",
+      "cred": "Mészáros Lőrinc a Mészáros Csoport tavalyi rendezvényén (archív kép, nem az ügyhöz kapcsolódó esemény). – Fotó: Kondella Misi Photography/Flatlight Creatives Kft (a 444 aláírása szerint)"
+    },
+    {
+      "id": "republikon-novemberi-meres-tisza-67-fidesz-23-nov-27",
+      "r": "Belpolitika",
+      "c": "Közvélemény",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T11:46:21+00:00",
+      "ai_edited": true,
+      "t": "Republikon: a biztos szavazó pártválasztók 67 százaléka a Tiszára, 23 százaléka a Fidesz–KDNP-re szavazna",
+      "s": "A Kontroll.hu megbízásából készült, ezer fős novemberi mérés szerint hibahatáron belül nőtt a Tisza és csökkent a Fidesz–KDNP támogatottsága.",
+      "p": [
+        "A Republikon Intézet pénteken közzétett novemberi pártpreferencia-mérése szerint a teljes népességben 56–20 az állás a Tisza javára: a kormánypárt két százalékponttal erősödött, a Fidesz–KDNP ugyanennyit veszített az októberi méréshez képest. A HVG és az Index beszámolója szerint a felmérést a Kontroll.hu megbízásából, ezer fő megkérdezésével, reprezentatív mintán készítették, a változás pedig a hibahatáron belül van.",
+        "A biztos szavazó pártválasztók körében a Tisza 67, a Fidesz–KDNP 23 százalékon áll, ami a Tisza esetében három százalékpontos javulást, a Fidesz–KDNP-nél ugyanekkora csökkenést jelent októberhez képest. A Mi Hazánk minden mérési szinten egy-egy százalékpontot veszített: a teljes népességben 6, a pártválasztók és a biztos szavazók között egyaránt 7 százalékon áll. Egyéb pártra a teljes népesség 3, a biztos szavazó pártválasztók 4 százaléka szavazna, a bizonytalanok aránya változatlanul 15 százalék. Az intézet becslése szerint a Tiszának nagyjából 4,25 millió, a Fidesz–KDNP-nek 1,5 millió szavazója van.",
+        "A Republikon szerint a választás óta eltelt fél évben a Fidesz–KDNP válságos állapotba került: a mostani támogatottsága a választáson elért eredménynek mindössze kétharmada (az Index szerint 36-ról 23 százalékra esett), a Tisza áprilisi 56 százalékos eredménye pedig 67-re nőtt. Az intézet úgy fogalmaz, hogy ilyen arányok mellett a kormánypárt egy teljesen arányos választási rendszerben is kétharmados többséget szerezhetne. Összehasonlításul: a Fidesz–KDNP 2022-es győzelmekor 52 százalékot ért el, fél évvel később 51 százalékon állt a biztos szavazó pártválasztók között.",
+        "Az elemzés szerint a pártnak nem volt forgatókönyve a vereségre, és a „mindent tagadunk, mindentől rettegünk” típusú kommunikációt folytatta; a Tisza népszerűségére az intézet szerint a Seszták-üggyel kapcsolatos nyomozás fejleményei is pozitívan hatottak.",
+        "A felmérésben azt is megkérdezték, fel tud-e állni még a Fidesz–KDNP: a válaszadók kétharmada szerint erre nincs, vagy nem valószínű az esély, egynegyedük számít a megerősödésre. A Tisza-szavazók 90 százaléka szerint a Fidesz–KDNP a mélyponton marad, de a Fidesz saját táborának is csak a negyede biztos abban, hogy a párt visszatérhet. A nagy sajtóvisszhangot kapott korrupciós ügyekről a megkérdezettek 60 százaléka úgy látja, hogy nem elszigetelt esetekről, hanem a Fidesz–KDNP rendszerszintű korrupciójáról van szó, 22 százalékuk szerint elszigetelt esetek."
+      ],
+      "cav": "A beszámoló a HVG és az Index cikkére épül; a Republikon teljes jelentését nem láttuk. A felmérést a Kontroll.hu rendelte meg; az „arányos rendszerben kétharmad” és a „háborút vesztett” megállapítás az intézet értelmezése, nem mért adat. Az ezer fős minta hibahatára néhány százalékpont, ezért az egy-két pontos elmozdulások nem jeleznek biztosan változást. Az Index szerint a Fidesz–KDNP 36-ról esett 23 százalékra; a cikk nem közli pontosan, melyik mutatóhoz képest számolnak (a választási eredmény és a biztos szavazó pártválasztók aránya nem azonos mérce). A HVG 56–20-at közöl a teljes népességre, az Index címe 67–23-at a biztos szavazókra: mindkettő igaz, csak más alapsokaság.",
+      "op": "A 67–23 szembetűnő szám, de egyetlen, ezer fős, megrendelt felmérés nem jóslat, a Republikon sem egy mindenre kiterjedő mérés. Annyi mégis látszik, hogy fél évvel a választás után a kormánypárt tábora nem apadt – ami nem kényelmi, hanem teher: ekkora támogatottsággal már nem lehet a korábbi kormányokra mutogatni, amikor a költségvetés vagy az elszámoltatás késik.",
+      "src": [
+        [
+          "HVG: Republikon Intézet: Erősödött a Tisza, szakadék szélén a Fidesz",
+          "https://hvg.hu/itthon/20261127_republikon-intezet-novemberi-partpreferencia-tisza-fidesz"
+        ],
+        [
+          "Index: Republikon: 67 százalékon áll a Tisza Párt, 23 százalékra esett vissza a Fidesz–KDNP támogatottsága",
+          "https://index.hu/belfold/2026/11/27/republikon-intezet-felmeres-tisza-part-fidesz-korrupcio-mi-hazank-mozgalom/"
+        ]
+      ]
+    },
+    {
+      "id": "melocco-miklos-szobrasz-meghalt-nov-27",
+      "r": "Kultúra",
+      "c": "Képzőművészet",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:05:00+01:00",
+      "ai_edited": true,
+      "t": "Meghalt Melocco Miklós Kossuth-nagydíjas szobrászművész, a nemzet művésze",
+      "s": "A Magyar Művészeti Akadémia az MTI-nek megerősítette a halálhírt; a szobrász a magyar figurális szobrászat egyik legfontosabb alakja volt.",
+      "p": [
+        "Pénteken elhunyt Melocco Miklós Kossuth-nagydíjas szobrászművész, a nemzet művésze, a Corvin-lánc kitüntetettje – erősítette meg az MTI-nek a Magyar Művészeti Akadémia (MMA), amelynek alapító tagja és rendes tagja volt. Az MMA közleménye szerint a magyar figurális szobrászat egyik legfontosabb képviselője volt, monumentális életművében körplasztika, dombormű, emlékmű, portré, díszítőszobor, kútplasztika és síremlék is szerepel. Az akadémia a művészt saját halottjának tekinti.",
+        "Az Index a Magyar Nemzet értesülésére hivatkozva azt írja, hogy a halálhírt Párkányi Raab Péter szobrászművész, Melocco tanítványa és alkotótársa tette közzé a Facebook-oldalán. A művész 1935. április 3-án született Rómában, a család 1939-ben költözött Magyarországra. Édesapját, Melocco János újságírót a Rákosi-korszak koncepciós perében halálra ítélték, és 1951-ben kivégezték; a család ezután nehéz anyagi helyzetbe került, a fiatal Melocco gimnázium mellett dolgozott, volt segédmunkás és sírásó is. A Képzőművészeti Főiskolára polgári származása miatt kétszer nem vették fel, 1955-ben harmadszorra sikerült; 1961-ben végzett. Az Index szerint az 1956-os forradalom idején egy szovjet lövedék átfúrta a lábát a Kálvin tér közelében.",
+        "Köztéri alkotásai közül a legismertebbek a székesfehérvári Mátyás-emlékmű, a tatabányai, padon ülő Ady-szobor, Antall József síremléke, a budavári Mansfeld Péter-emlékmű és az esztergomi vár bástyáján álló, közel tizenkét méter magas Szent István megkoronázása-kompozíció. Szobraiban többek között Ady Endre, Radnóti Miklós, József Attila, Kodály Zoltán, Latinovits Zoltán, Széchenyi István, Kossuth Lajos és Deák Ferenc alakja kapott formát.",
+        "Díjai közé tartozik a Munkácsy Mihály-díj (1975), az Érdemes Művész cím (1982), a Kossuth-díj (1988), a Magyar Örökség Díj és a Magyar Köztársasági Érdemrend középkeresztje (1998), a Prima Primissima díj (2004), a nemzet művésze cím (2014) és a Corvin-lánc (2018). Életművét idén március 15-én Kossuth-nagydíjjal ismerték el. 1990-től a Képzőművészeti Főiskola címzetes egyetemi tanára volt, 1981 óta Zsámbékon élt."
+      ],
+      "cav": "A beszámoló az Index, a HVG és a 444 cikkére épül; az MMA közleményét közvetlenül nem láttuk. A cikkek eltérnek a korban: az Index (a Magyar Nemzetre hivatkozva) 91 évesnek, a 444 92 évesnek, a HVG „a 92. életévében” elhunytnak mondja; az 1935. április 3-i születési dátum alapján 91 évesen halt meg, de a szerkesztőségek megfogalmazása különbözik. A halál körülményeiről és helyéről nincs adat; a Facebookon közölt halálhírt a Magyar Nemzet nyomán az Index ismerteti, ezt nem ellenőriztük. A HVG megjegyzése szerint a jobboldali kormányok kedvelt és támogatott művésze volt; ez a lap minősítése.",
+      "op": "Az életműről szóló viták hosszú ideig politikai színezetet kaptak, de a halálhír napján elég megnézni a köztereket: Melocco szobrai a magyar közös emlékezet részei lettek, függetlenül attól, melyik kormány mellett mutatták be őket. A hangsúly most azon legyen, amit alkotott, nem azon, kinek a művésze volt.",
+      "src": [
+        [
+          "Index: Meghalt Melocco Miklós, a nemzet művésze",
+          "https://index.hu/kultur/2026/11/27/melocco-miklos-szobraszmuvesz-meghalt-gyaszhir/"
+        ],
+        [
+          "HVG: Elhunyt Melocco Miklós szobrászművész",
+          "https://hvg.hu/kultura/20261127_melocco-miklos-szobrasz-muvesz-megahlt"
+        ],
+        [
+          "444: Meghalt Melocco Miklós szobrászművész",
+          "https://444.hu/2026/11/27/meghalt-melocco-miklos-szobraszmuvesz"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7273/72735/727354/72735491_5358539_328b3a76b4400bc05a5a41ede729dd24_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kultur/2026/11/27/melocco-miklos-szobraszmuvesz-meghalt-gyaszhir/",
+      "cred": "Melocco Miklós 2026. május 22-én (archív kép). – Fotó: Czimbal Gyula / MTI (az Index aláírása szerint)"
+    },
+    {
+      "id": "marc-marquez-visszavonul-motogp-nov-27",
+      "r": "Sport",
+      "c": "Motorsport",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:16:16+01:00",
+      "ai_edited": true,
+      "t": "Nyolcadik MotoGP-címe után bejelentette visszavonulását Marc Márquez",
+      "s": "A 33 éves spanyol pilóta az évzáró valenciai versenyhétvége pénteki napján közölte, hogy a szezon végén befejezi MotoGP-pályafutását.",
+      "p": [
+        "Marc Márquez, a Ducati 33 éves spanyol versenyzője pénteken, az évzáró valenciai versenyhétvége nyitónapján jelentette be, hogy visszavonul – írta az MTI nyomán a Telex és az Index. A bejelentés öt nappal azután érkezett, hogy a múlt vasárnapi portugáliai futamon megvédte címét, és így pályafutása nyolcadik királykategóriás világbajnoki elsőségét szerezte meg.",
+        "„Mindenkinek köszönöm, aki része volt ennek a kalandnak. Remélem, mások is annyira élvezték, mint én. Ez lesz az utolsó versenyem a MotoGP-ben” – idézi a pilótát mindkét lap. Az Index szerint a nyolcadik cím egyben Giacomo Agostini rekordjának beállítását jelentette.",
+        "Márquez összesen tíz világbajnoki címet nyert: 2010-ben és 2012-ben a két alacsonyabb géposztályban volt a legjobb, a MotoGP-ben hat címet Hondával, kettőt pedig Ducatival szerzett. A mostani évzáró hétvége így búcsúhétvége is: a valenciai futam lesz az utolsó verseny a pályafutásában."
+      ],
+      "cav": "A beszámoló a Telex és az Index cikkére épül, amelyek az MTI-re hivatkoznak; Márquez nyilatkozatának eredeti szövegét nem láttuk. A cikkek nem közlik a visszavonulás indokát, és azt sem, hogy más sorozatban folytatja-e. A Telex a „gyorsasági motoros-vb” szezonja végi visszavonulásról ír, az Index a MotoGP-s pályafutásról; a két megfogalmazás nem teljesen azonos. A hat Honda- és két Ducati-cím összege a két cikk adataiból következik.",
+      "op": "Aki ilyen címvédéssel és rekorddal teszi le a sisakot, annak a búcsúja nem kudarc, hanem rendkívül ritka, jól időzített döntés. Valószínűleg sokan akkor értik meg igazán, mekkora korszak ért véget, amikor a rajtrácson hiányozni fog.",
+      "src": [
+        [
+          "Telex: MotoGP: nyolcadik vb-címe után visszavonul Marc Márquez",
+          "https://telex.hu/sport/2026/11/27/marc-marquez-visszavonulas-motogp"
+        ],
+        [
+          "Index: Friss vb-címmel a zsebében jelentette be visszavonulását minden idők egyik legeredményesebb motorsportversenyzője",
+          "https://index.hu/sport/motorsport/2026/11/27/motogp-marc-marquez-visszavonulas-ducati-valencia-spanyolorszag/"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795777808-temp-5tfarvu07kpf4fidmfj_hero-full:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/sport/2026/11/27/marc-marquez-visszavonulas-motogp",
+      "cred": "Marc Márquez ünnepli a címvédését – Fotó: Rodrigo Antunes / Reuters (a Telex aláírása szerint)"
+    },
+    {
+      "id": "afp-kibertamadas-afp-forum-leallitva-nov-27",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T11:49:09+01:00",
+      "ai_edited": true,
+      "t": "Kibertámadás érte az AFP francia hírügynökséget, leállították az AFP Forum platformot",
+      "s": "A hírügynökség partnereinek küldött levele szerint a cikkeket, fotókat és videókat kínáló rendszer biztonsági okokból nem érhető el; a támadó kiléte és az esetleges adatlopás egyelőre nem ismert.",
+      "p": [
+        "Kibertámadás érte az AFP francia hírügynökséget – számolt be róla a Telex és a 444. Az ügynökség partnereinek küldött értesítése szerint egy kiberbiztonsági incidens miatt az AFP Forum platform párizsi idő szerint 00:44 óta nem elérhető. A rendszerből a felhasználók cikkeket, fotókat és videókat tölthetnek le; az AFP biztonsági okokból állította le. A levél szerint a műszaki csapat teljes kapacitással dolgozik a szolgáltatás mielőbbi helyreállításán, és rendszeresen tájékoztatják az előfizetőket.",
+        "Az AFP vizsgálja a támadást és a hátterét, de a Telex szerint egyelőre nem nevezett meg csoportot vagy államot felelősként, és azt sem közölte, hogy adatokat loptak-e el. A lap emlékeztet, hogy nem ez az első támadás a hírügynökség ellen: 2024 szeptemberében egy lehetséges adatvédelmi incidensről értesítette a francia adatvédelmi hatóságot, és a nemzeti kiberbiztonsági ügynökséggel, az ANSSI-vel együttműködve kezelte az esetet.",
+        "A Telex szerint a támadás a francia szervezeteket érintő kibertámadási hullám közepette történt. Az ANSSI főigazgatója, Vincent Strubel csütörtökön a France Inter rádiónak azt mondta, hogy Franciaország példátlan intenzitású fenyegetéssel néz szembe."
+      ],
+      "cav": "A beszámoló a Telex és a 444 cikkére épül; az AFP partnereknek küldött levelét közvetlenül nem láttuk. A támadás időpontja nem egyértelmű: a Telex szerint az AFP levele 00:44-től jelzi az elérhetetlenséget, ugyanabban a cikkben viszont a támadás kezdete hajnali 1:30. A támadó, a módszer és az érintett adatok nem ismertek. Az ANSSI-vezető figyelmeztetése a francia szervezetek támadási hullámáról általános, a cikk nem állítja, hogy ugyanahhoz a támadóhoz kapcsolódna az AFP-incidens.",
+      "op": "Egy hírügynökség, amelynek az a dolga, hogy másoknak biztosítson megbízható anyagot, különösen kellemetlen célpont: ha a hírlánc első szeme akad el, az mindenkit érint, aki tőle dolgozik. Jó jel, hogy az AFP gyorsan és nyíltan tájékoztatott, a kérdés az, kiderül-e, mi történt az adatokkal.",
+      "src": [
+        [
+          "Telex: Kibertámadás érte a francia hírügynökséget, leállította az egyik platformját",
+          "https://telex.hu/kulfold/2026/11/27/kibertamadas-afp-francia-hirugynokseg"
+        ],
+        [
+          "444: Kibertámadás érte a francia AFP hírügynökséget, emiatt le kellett állítania az egyik platformját",
+          "https://444.hu/2026/11/27/kibertamadas-erte-a-francia-afp-hirugynokseget-emiatt-le-kellett-allitania-az-egyik-platformjat"
+        ]
+      ]
+    },
+    {
+      "id": "elore-telepitett-android-kartevok-kaspersky-220-ezer-eszkoz-nov-27",
+      "r": "Közélet",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T12:03:00+00:00",
+      "ai_edited": true,
+      "t": "220 ezer androidos készüléken találtak már a gyárból kikerülve kártevőt a Kaspersky szerint",
+      "s": "A HVG összefoglalója szerint idén január és október között több mint 220 000 előre megfertőzött eszközt azonosítottak, a számuk októberben csaknem két és félszeresére nőtt.",
+      "p": [
+        "A Kaspersky kutatói idén január és október között több mint 220 000 androidos eszközön találtak olyan kártevőt, amely már a kicsomagolás pillanatában ott volt a készüléken – írja a HVG Tech rovata. A cikk szerint főként a Keenadu és a Triada nevű kártevők fordultak elő nagy számban, leginkább vállalatok által tételesen vásárolt eszközökön.",
+        "A kártevő a szoftverellátási láncon, a firmware-beszállítón vagy egy kompromittált alkatrészen keresztül kerülhet a telefonokra. A Kaspersky adatai szerint 2026 októberében csaknem 2,5-szer több fertőzött eszközt észleltek, mint 2025 novemberében. A rosszindulatú kód további kártékony kódot tud letölteni és futtatni, akár más, utólag telepített alkalmazásokon belül is. Így a támadók belehallgathatnak a hívásokba, olvashatják az SMS-eket, ellophatják a belépési adatokat, és hirdetési csalásokra is használhatják az eszközt.",
+        "A HVG a Cyber Insider nyomán arra is felhívja a figyelmet, hogy a gyári visszaállítás sem biztos, hogy eltávolítja a kártevőt, ezért a biztos megoldás az eszköz lecserélése; a fertőzések felderítésére biztonsági szoftver használható. A cikk megemlíti, hogy a 2025-ben egyszer már felszámolt Badbox nevű kártevő is visszatért. A Kaspersky jelentése nem nevezi meg a problémás gyártókat; a HVG szerint a jól ismert, nagyobb márkák készülékein nem fordul elő ilyen előre telepített kártevő, de ezt a cikk forrás nélkül állítja."
+      ],
+      "cav": "A beszámoló a HVG cikkére épül, amely a Kaspersky jelentésére és a Cyber Insider összefoglalójára hivatkozik; magát a jelentést nem láttuk. Az „októberben csaknem 2,5-szer több, mint tavaly novemberben” összevetés két különböző hónapot hasonlít össze, a cikk nem magyarázza meg. A kártevő-családok neveit (Keenadu, Triada, Badbox) a cikk adja meg, ellenőrizni nem tudtuk. A HVG nagy márkákról szóló kijelentése nem támaszkodik a Kaspersky adataira. Kép nincs, mert nem találtunk igazolhatóan a témához tartozó, újraközölhető fotót.",
+      "op": "Az előre fertőzött telefonok esete azért kellemetlen, mert a felhasználó semmit sem tehet rosszul: a baj a vásárlás előtt történik. Cégeknek érdemes beszerzéskor a beszállítót is vizsgálniuk, nem csak a készülék árát, mert a legolcsóbb mobil drága lehet.",
+      "src": [
+        [
+          "HVG: 220 000 mobilon már akkor kártevő volt, amikor kikerült a gyárból – brutális adatok jöttek",
+          "https://hvg.hu/tudomany/20261127_android-elore-telepitett-kartevok-adatok-ellopasa-virus"
+        ]
+      ]
+    },
+    {
+      "id": "nagy-ervin-meghallgatas-szentkiralyi-tarr-ujranezes-nov-27",
+      "r": "Belpolitika",
+      "c": "Kultúrpolitika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T11:47:17+00:00",
+      "ai_edited": true,
+      "t": "Szentkirályi Alexandra bizottsági meghallgatáson kérdezné Nagy Ervint a 3 milliárdos kulturális pénzosztásról; Tarr Zoltán újranézeti a döntéseket",
+      "s": "A Telex és a HVG szerint a minisztérium a kifizetés előtt átvizsgálja a folyamatot, a szakma egy része pedig maga is bírálja az eljárást.",
+      "p": [
+        "A művelődési bizottság fideszes elnöke, Szentkirályi Alexandra kezdeményezi Nagy Ervin kultúráért felelős államtitkár meghallgatását az Országgyűlés bizottságában – írja a Telex. A politikus a Facebookon közzétett videójában azt mondta, hogy az államtitkár a hírek szerint hárommilliárd forint közpénzt osztott szét kulturális szervezetek között pályáztatás nélkül. Szerinte tisztázni kell, kik döntöttek, milyen alapon, mely szervezetek és mekkora összeget kaptak. Úgy fogalmazott, hogy az ügy „mutyiszagú”, és hivatali visszaélés és hűtlen kezelés miatt feljelentést tesz a Fidesz, ha a tisztázás előtt megkezdik a kifizetést.",
+        "Tarr Zoltán miniszter csütörtök este azt közölte, hogy a kifizetés előtt újra átnézik a támogatások teljes folyamatát. A Telex szerint azt állította, a döntések szakmailag megalapozottak voltak, testületi véleményen alapultak, és – a korábbi gyakorlattal ellentétben – nem központosított miniszteri hatáskörben születtek. Szerinte a cél az volt, hogy segítsenek azokon a szervezeteken, amelyeket az előző kormányok a megszűnés szélére sodortak. Rétvári Bence, a KDNP frakcióvezetője csütörtökön a dokumentumok nyilvánosságra hozatalát és politikai, jogi felelősségvállalást követelt; szerinte a korábbi, nyilvános pályázati eljárással szemben itt nem volt felhívás és előzetes nyilvánosság.",
+        "Nagy Ervin november 20-án jelentette be, hogy csaknem 3 milliárd forint támogatást kapnak idén a színházi, tánc- és cirkuszművészeti szervezetek; az előkészítésben 14 szakmai szervezettel dolgoztak együtt, köztük a Magyar Színházi Társasággal, a Magyar Táncművészek Szövetségével, a MASZK Országos Színészegyesülettel és a Független Előadó-művészeti Szövetséggel (FESZ). A Telex által ismertetett bontás szerint 74 független színházi, bábszínházi, tánc- és cirkuszművészeti szervezet csaknem 1,3 milliárd forintot, 18 határon túli szervezet 90 millió forintot, a független érdekképviseletek 55 millió forintot, 15 szabadtéri színház és fesztivál pedig 465 millió forintot kapna.",
+        "A HVG szerint a hír az egész szakmát meglepte, és a módszert egyesek a Fidesz rossz hagyományaihoz hasonlítják. A FESZ közleménye szerint a támogatások mostani, rendkívüli körülmények közötti kiosztása „nem volt jó döntés”. A korábban az Átriumot, most a Vörös Neon Cabaret Színházat működtető Kultúrbrigád azt írta, hogy nem tartja jobbnak azt, ami most történik, mint ami a Fidesz alatt, Hankó Balázs, Csák János és Fekete Péter idején zajlott. A minisztérium jelezte, hogy újra átnézi a döntéseket."
+      ],
+      "cav": "A beszámoló a Telex és a HVG cikkére épül; Szentkirályi videóját, Tarr Zoltán közleményét és a támogatási listát nem láttuk. Szentkirályi állítása (pályáztatás nélküli, személyes pénzosztás) politikai vád, Tarr szerint viszont testületi véleményen alapuló döntés született; a két állítás ellentétes, a tényt nem tudtuk ellenőrizni. A Telex által közölt négy tétel összege nagyjából 1,9 milliárd forint, a „csaknem 3 milliárd” hátralévő részét a cikkek nem részletezik. Nem tudni, mikor ülésezik a bizottság, és hogy Nagy Ervin megjelenik-e. Korábbi cikkeink az első bejelentést és a kritikákat ismertetik, ez a mostani fejleményeket mutatja.",
+      "op": "Nem az a baj, hogy a független színházak végre kapnak pénzt: az a baj, hogy a Tisza által ígért átláthatóságot egy hétvégi Facebook-bejelentéssel nem lehet teljesíteni. Jó, hogy a minisztérium megáll és újranézi, de ennél többet mutatna, ha a lista, a szempontok és a testületi vélemények maguktól kerülnének nyilvánosságra – a Fidesz sem azért kéri számon, mert meg akarná védeni a kultúra támogatását.",
+      "src": [
+        [
+          "Telex: Szentkirályi Alexandra parlamenti bizottság előtt hallgatná meg Nagy Ervint a 3 milliárdos pénzosztásról",
+          "https://telex.hu/belfold/2026/11/27/szentkiralyi-alexandra-meghallgatas-nagy-ervin"
+        ],
+        [
+          "HVG: A Fidesz-időket idézte a kulturális tárca átláthatatlan pénzosztása, de a kormány kész korrigálni",
+          "https://hvg.hu/360/20261127_kultura-tamogatas-szinhaz-nagy-ervin-tarr-zoltan-harommilliard-forint-fuggetlen-szinhaz-magyar-szinhazi-tarsasag-fesz"
+        ]
+      ]
+    },
+    {
+      "id": "jellinek-daniel-visszavonul-indotek-hak-kovacs-tamas-nov-27",
+      "r": "Gazdaság",
+      "c": "Vállalatok",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T10:57:26+01:00",
+      "ai_edited": true,
+      "t": "Visszavonul Jellinek Dániel az Indotek éléről: 2027 januárjától Hák-Kovács Tamás, a bolgár DSK Bank vezetője veszi át a cégcsoportot",
+      "s": "A Volánbusz-ügyben gyanúsított üzletember a bejelentés szerint azért adja át a vezetést, hogy az eljárása ne terhelje a cégcsoport működését.",
+      "p": [
+        "Az Indotek Group pénteken bejelentette, hogy 2027 januárjától Hák-Kovács Tamás veszi át a cégcsoport vezérigazgatói feladatait, Jellinek Dániel alapító-tulajdonos és jelenlegi vezérigazgató pedig visszavonul az operatív vezetésből – közölte a 444 az MTI nyomán, a Telex pedig interjút is készített a két érintettel. Hák-Kovács mintegy harmincéves nemzetközi banki tapasztalattal érkezik, korábban a bolgár OTP-leánybank, a DSK Bank elnök-vezérigazgatója volt. A közlemény szerint az átadás előkészítése már megkezdődött, a cégcsoport a váltás után is a Jellinek család tulajdonában marad.",
+        "Jellinek Dániel a közleményben azt mondta, hogy nem szeretné, ha a személyét érintő eljárás és az azt övező nyilvánosság terhelné a cégcsoport működését, ezért hozta meg ezt a „fájdalmas, de racionális” döntést. A Telexnek a döntés hátteréről azt mondta, hogy az úgynevezett Volán-ügy áll mögötte: nem követett el bűncselekményt, és bízik benne, hogy a nyomozás mielőbb eljut odáig, hogy ez mindenki számára egyértelmű legyen. Arra a kérdésre, nem marad-e informálisan a háttérben a vezető, azt válaszolta, hogy az átadás után a menedzsment Hák-Kovácsnak számol be, a napi vezetésben pedig sem formálisan, sem informálisan nem vesz részt.",
+        "Jellinek Dánielt a Volánbusz-ügyben gyanúsították meg: szeptember 17-én őrizetbe vették, októberben pedig a bíróság döntése nyomán nyomkövető viselése mellett házi őrizetbe került. A Telex szerint ugyanebben az ügyben tartóztatták le szeptember végén Seszták Miklós volt nemzeti fejlesztési minisztert is. Az Indotek Group budapesti központú, 12 európai országban jelen lévő ingatlanbefektetési és vagyonkezelő csoport, amely mintegy tízezer embert foglalkoztat; a Telex a Forbes legutóbbi listája alapján Jellineket az ország hetedik leggazdagabb emberének nevezi.",
+        "A Telex értékelése szerint a váltás elsődleges oka biztosan az, hogy a büntetőügy ne befolyásolja a cégcsoport működését, és olyan vezető kerüljön a csoport élére, akiben a befektetők és a finanszírozók megbíznak."
+      ],
+      "cav": "A beszámoló a 444 (MTI) és a Telex cikkére épül; az Indotek közleményét közvetlenül nem láttuk. Jellinek Dániel gyanúsított, vádat nem emeltek ellene; a cikkek a büntetőügy érdemét nem ítélik meg, és az ártatlanság vélelme érvényes. A Telex „elsődleges oka biztosan” megállapítása a lap értékelése, nem Jellinek állítása. Hogy Hák-Kovács Tamás szerepe tartós lesz-e, a cikkek nem rögzítik; az informális befolyás hiányára vonatkozó állítás Jellinek saját szava.",
+      "op": "Elismerésre méltó, ha egy tulajdonos nem várja meg, míg a büntetőügy tönkreteszi a cégét, de a döntés mögött érezhető a kényszer is: aki ilyen sorsfordító eljárás alatt tud csak lemondani, az inkább menti az üzletet, mint bevallja a felelősséget. A bizalmat nem a vezérigazgatói poszt átadása, hanem a nyomozás tisztázott eredménye teremti meg.",
+      "src": [
+        [
+          "444: Jellinek Dániel visszavonul cégcsoportja vezetésétől",
+          "https://444.hu/2026/11/27/jellinek-daniel-visszavonul-cegcsoportja-vezetesetol"
+        ],
+        [
+          "Telex: Jellinek Dániel visszavonul, teljesen átadja az Indotek-csoport vezetését",
+          "https://telex.hu/gazdasag/2026/11/27/jellinek-daniel-tiborcz-istvan-hak-kovacs-tamas-indotek"
+        ]
+      ],
+      "img": "https://assets.4cdn.hu/kraken/8920cWLKa77KchPos-lg.jpeg",
+      "imgs": "444",
+      "imgl": "https://444.hu/2026/11/27/jellinek-daniel-visszavonul-cegcsoportja-vezetesetol",
+      "cred": "Jellinek Dániel (archív kép, nem a bejelentésen készült). – Fotó: Németh Dániel/444 (a 444 aláírása szerint)"
+    },
+    {
+      "id": "zelenszkij-bbc-trump-putyin-kushner-rutte-nov-27",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "Ukrajnai háború",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T11:37:10+00:00",
+      "ai_edited": true,
+      "t": "Zelenszkij „furcsa barátságnak” nevezte Trump és Putyin viszonyát, Trump szerint „totális vérfürdő” folyik – tárgyalások decemberben folytatódhatnak",
+      "s": "A HVG, az Index és a Telex beszámolói szerint Zelenszkij a BBC-nek bírálta a trump–putyini kapcsolatot, Kushner pedig méltatta az orosz elnököt.",
+      "p": [
+        "Volodimir Zelenszkij ukrán elnök pénteki, BBC-nek adott interjújában azt mondta, hogy „furcsa barátság” köti össze Donald Trumpot és Vlagyimir Putyint – írja a HVG. Az ukrán elnök szerint természetesen az amerikai elnök dönti el, kit tart barátjának, Putyin azonban „agresszor és gyilkos”, akivel nem lehet barátságot ápolni; a viszonyt a második világháborús helyzethez hasonlította. Zelenszkij Trump múlt csütörtöki, sencseni kijelentésére utalt, amikor Putyint a barátjának nevezte, később azonban azt mondta, hogy nem tud Amerika nevében nyilatkozni. Az amerikai hírszerzés igazgatója, Jay Clayton ezt követően úgy fogalmazott, hogy Putyin nem Amerika barátja Ukrajnában.",
+        "Zelenszkij szerint az amerikai közvetítéssel zajló tárgyalások várhatóan decemberben folytatódnak; az utolsó fordulót Abu-Dzabiban tartották. Bizonytalannak nevezte, hogy európai képviselők is ott lesznek-e az asztalnál, noha Jared Kushner és Steve Witkoff nemrég az EU részvételét helyezte kilátásba. A HVG szerint az ukrán légvédelem a leggyorsabb orosz drónok 70 százalékát is le tudja lőni, az arány javul, de nagy a hiány a ballisztikus rakéták ellen bevethető elfogókból, és az Egyesült Államok késlelteti a Patriot-rendszerek szállítását.",
+        "Az Index szerint Trump a Truth Social-oldalán megosztotta a Mark Rutte NATO-főtitkárral kiadott közös nyilatkozatot, amelyben Oroszországot arra szólították fel, kerüljön minden, a háborút kiterjesztő lépést. Trump saját bejegyzésében azt írta, hogy Kínában arról beszélt Putyinnak, fogjon vissza minden katonai agressziót Európában, és „komoly esélyt” lát a gyors orosz–ukrán megállapodásra, mert havonta emberek ezrei halnak meg, ami „totális vérfürdő”. A találkozót Mar-a-Lagóban tartották szerda este; a főszereplő téma az ukrajnai háború és az amerikai–izraeli Irán elleni háború volt, Iránról azonban nem közöltek részleteket.",
+        "A Telex a CNN szemléje alapján beszámol Jared Kushner interjújáról is. A Fehér Ház megbízottja szerint Putyin igyekszik új alapokra helyezni a viszonyt az amerikaiakkal, történelmi személyiségnek nevezte az orosz elnököt, és visszafogottságnak minősítette, hogy nem vetett be atomfegyvert. Kushner visszautasította, hogy az Egyesült Államok nyomást gyakorolt volna Ukrajnára az engedményekért; Zelenszkij november közepén azt mondta, hogy felvetették neki: Ukrajna csatlakozhatna a NATO-hoz, ha a teljes Donbászt átadná. Kushner szerint a háború utáni viszonyok tisztázása után a területi kérdést is könnyebb lenne rendezni."
+      ],
+      "cav": "A beszámoló a HVG, az Index és a Telex cikkére épül; az interjúkat és Trump bejegyzését nem láttuk. A Kushner-nyilatkozat a CNN szemléjén keresztül jut el a Telexhez, az eredeti interjú nincs meg. Trump „barátság”-kijelentésének szövegét a HVG Zelenszkij értelmezésén át ismerteti, az eredeti idézet nem szerepel. A Zelenszkij-féle Donbász-állítás Kushnerék javaslatáról az ukrán elnök egyoldalú megállapítása, Kushner nem erősítette meg. A HVG négypontos sencseni nyilatkozatról ír, annak tartalmát nem ismerteti. A tárgyalások pontos dátuma nincs megadva.",
+      "op": "Furcsa világ, ahol az agresszor „historikus személyiség”, az áldozat pedig azért aggódik, ott lesz-e az asztalnál a saját kontinense. Trump „vérfürdő”-felszólítása jó hír, ha tartalom is lesz mögötte; ha viszont a barátsági gesztusok után a területi engedmények következnek, akkor Európának nem a nyilatkozatokat kell számolnia, hanem a saját befolyását.",
+      "src": [
+        [
+          "HVG: Zelenszkij arról, hogy Trump a barátjának nevezte Putyint: Mintha valaki a II. világháború idején azt mondta volna, hogy Hitler a barátom",
+          "https://hvg.hu/vilag/20261127_volodimir-zelenszkij-donald-trump-vlagyimir-putyin-baratsag-ukrajna-haboru"
+        ],
+        [
+          "Index: „Totális vérfürdő!” – így szólt be Donald Trump Vlagyimir Putyinnak a kínai tárgyalás után",
+          "https://index.hu/kulfold/2026/11/27/donald-trump-mark-rutte-nato-vlagyimir-putyin-oroszorszag-ukrajna-verfurdo/"
+        ],
+        [
+          "Telex: Trump veje méltatta Putyint, hogy nem használt atomfegyvert",
+          "https://telex.hu/kulfold/2026/11/27/kushner-putyin-meltatas-visszafogottsag"
+        ]
+      ],
+      "img": "https://kep.cdn.index.hu/1/0/7273/72734/727341/72734141_5358435_86c35d296f8386ef15dd3483d88223fa_wm.jpg",
+      "imgs": "Index",
+      "imgl": "https://index.hu/kulfold/2026/11/27/donald-trump-mark-rutte-nato-vlagyimir-putyin-oroszorszag-ukrajna-verfurdo/",
+      "cred": "Donald Trump 2026. november 24-én (archív kép, nem a nyilatkozat napján készült). – Fotó: Chip Somodevilla / Getty Images (az Index aláírása szerint)"
+    },
+    {
+      "id": "ksh-oktober-szuletesek-halalozasok-hazassagkotesek-nov-27",
+      "r": "Közélet",
+      "c": "Statisztika",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T09:02:43+01:00",
+      "ai_edited": true,
+      "t": "Októberben 5802 gyermek született és 10 029-en haltak meg: lassult a természetes fogyás, 17 százalékkal kevesebb házasság köttetett",
+      "s": "A KSH előzetes adatai szerint a születések és a halálozások is csökkentek az előző év októberéhez képest.",
+      "p": [
+        "A KSH pénteken közzétett előzetes adatai szerint idén októberben 5802 gyermek született és 10 029 ember halt meg – írja a 444. A születések száma 3,5 százalékkal, a halálozásoké 5,9 százalékkal volt kevesebb, mint egy évvel korábban. A természetes fogyás ezzel 10 százalékkal lassult: a tavalyi 4652 helyett 4227 fő volt. A halálozások száma az előző hónaphoz képest megugrott, de kisebb mértékben, mint tavaly, a születésszám pedig szeptemberhez képest enyhébben csökkent, mint egy évvel korábban.",
+        "A házasságkötések száma jelentősen visszaesett: 3459 pár kötött házasságot, 689-cel, azaz 17 százalékkal kevesebb, mint egy évvel korábban. Ezer lakosra 7,2 élveszületés és 12,5 halálozás jutott; az élveszületési arányszám 0,2, a halálozási 0,7 ezrelékponttal alacsonyabb, mint 2025 októberében. Az ezer lakosra jutó természetes fogyás 0,5 ezrelékponttal, 5,3 főre mérséklődött.",
+        "A tíz hónapos adatok szerint október végéig 58 258 gyermek született, ami 3,5 százalékkal, 2104-gyel kevesebb a tavalyinál, 100 732-en haltak meg, 2,3 százalékkal, 2421-gyel kevesebben, mint egy évvel korábban. A természetes fogyás ennek megfelelően 42 474 fő volt a tavalyi 42 791-gyel szemben, azaz 0,7 százalékkal mérséklődött. A cikk szerint az első tíz hónapban az 1,29-es érték a tavalyi 1,31 után következik; a mutatót a szöveg nem nevezi meg."
+      ],
+      "cav": "A beszámoló a 444 cikkére épül, amely a KSH közleményét ismerteti; a KSH eredeti gyorstájékoztatóját nem láttuk. Az adatok előzetesek, később módosulhatnak. A cikk az „1,29 volt a tavalyi 1,31 után” adatot nem nevezi meg, valószínűleg a teljes termékenységi arányszámról van szó, de ezt a szöveg nem mondja ki. A „lassuló fogyás” lényegében a halálozások nagyobb csökkenéséből adódik, nem a születések növekedéséből; a születések száma is csökkent. A házasságkötések 17 százalékos visszaesésének okát a cikk nem magyarázza.",
+      "op": "A népességfogyás lassulása látszólag jó hír, de ha közelebbről nézzük, nem több gyermek, hanem kevesebb halálozás áll mögötte: a születések száma tovább csökken. A házasságkötések mélyrepülése pedig arra figyelmeztet, hogy a családpolitikai ígéretek és a valóság közti rés nem záródik magától.",
+      "src": [
+        [
+          "444: Kevesebben születtek, de csökkent a halálozások száma is, jelentősen lassult a népességfogyás októberben",
+          "https://444.hu/2026/11/27/kevesebben-szulettek-de-csokkent-a-halalozasok-szama-is-jelentosen-lassult-a-nepessegfogyas-oktoberben"
+        ]
+      ]
+    },
+    {
+      "id": "budapest-fovarosi-kozgyules-leepites-65-fo-20-milliard-nov-27",
+      "r": "Megyei",
+      "m": "Budapest",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T09:58:00+01:00",
+      "ai_edited": true,
+      "t": "Hatvanöt fős leépítésről vitázott a Fővárosi Közgyűlés: a fővárosnak 20 milliárd forintot kell megtakarítania a kormánnyal kötött megállapodás miatt",
+      "s": "A Telex tudósítása szerint a Tisza és a Fidesz képviselői összeszólalkoztak a Főpolgármesteri Hivatal várható létszámcsökkentése miatt, Karácsony Gergely pedig leállította a vitát.",
+      "p": [
+        "A Fővárosi Közgyűlés pénteki ülésén a Főpolgármesteri Hivatalban tervezett leépítés miatt éles vita bontakozott ki – írja a Telex. Karácsony Gergely főpolgármester javaslata szerint 2027. március 1-től nagyjából száz álláshelyet szüntetnének meg: 36 betöltetlen állást, és 65 jelenlegi dolgozót is elbocsáthatnak. A cél, hogy a főváros teljesíteni tudja a kormány felé vállalt 20 milliárd forintos kiadáscsökkentést 2027-ben; ennek részeként a hivatal egymilliárd forinttal csökkentené a személyi jellegű kiadásait. A fővárosi és a kormányzati megállapodás, amelyet a Fővárosi Közfejlesztések Tanácsának október eleji ülésén kötöttek, 120 milliárd forint támogatást ad Budapestnek, cserébe a 20 milliárdos megtakarításért.",
+        "Szepesfalvy Anna, a Fidesz–KDNP frakcióvezetője azt mondta, hogy a vezetés „hatvanöt hivatalnoknak és családnak rideg kirúgással kíván boldog karácsonyt”, és szerinte ha a közszolgáltatások színvonalának csökkentése nélkül ki lehet venni évi 20 milliárdot, azt korábban is meg lehetett volna spórolni. Karácsony válasza szerint a „valóságot sem súrolja”, amit mondott: a Fidesz-kormány alatt a főváros költségvetési mozgástere 75 milliárd forinttal lett volna kisebb, az új költségvetés pedig az első, amely javítja az önkormányzatok helyzetét. A leépítésekre érdemben nem reagált. Kiss Ambrus főigazgató szerint a közgyűlés „kvázi csoportos létszámcsökkentésről” döntene, de nem ő dönti el, kiket bocsátanak el; a szakszervezetekkel megállapodtak egy programról, amely segíti az érintetteket.",
+        "A DK képviselői bejelentették, hogy nem vesznek részt a leépítésről szóló szavazásban; Keszthelyi Dorottya szerint a Tisza-kormány 2027-es költségvetése 77 milliárdos szolidaritási adót ró a fővárosra, amihez a 20 milliárdos megtakarítás is társul, vagyis összesen ugyanakkora, 97 milliárdos elvonás sújtja a várost, mint a Fidesz alatt. A vita személyeskedésbe fordult, amikor Molnár Dániel (Tisza) a „romeltakarításról” beszélt, Gulyás Gergely Kristóf (Fidesz) pedig a gyárakba fektetett pénzt hozta fel; Karácsony ezután leállította a leépítési előterjesztés vitáját, mondván, a személyeskedésnek nincs közérdeke.",
+        "A közgyűlés a hajléktalanellátásról is tárgyalt: Kollár Kinga (Tisza) szerint 3500–4000 hajléktalan lehet Budapesten, közülük 400–500 él évek óta az utcán. Kiss Ambrus beszámolt az éjjeli melegedő megnyitásáról, valamint arról, hogy vannak olyan szállók, amelyek társállattal együtt is fogadnak. Egy nappal korábban a főváros és a kormány megállapodott a Rákosrendező fejlesztéséről is: közös projektcéget hoznak létre, a főváros nem fizet több vételárat, ezért viszont csak 25–30 százalékos tulajdonosa lesz a területnek."
+      ],
+      "cav": "A beszámoló a Telex élő, folyamatosan frissülő tudósítására épül; a közgyűlési előterjesztést nem láttuk, és a cikk megjelenéséig a leépítésről szóló szavazás eredménye nem ismert. A 97 milliárdos „elvonás” (77 + 20 milliárd) Keszthelyi Dorottya értelmezése, nem hivatalos költségvetési adat; a Fidesz–KDNP, a DK és a főpolgármester állításai egymásnak ellentmondanak. Az elbocsátandók köre nincs eldöntve. A „száz álláshely” kerekítés: 36 betöltetlen és 65 jelenlegi dolgozó.",
+      "op": "A fővárosi vita arról szólt, ki a felelős a szűkös pénzért, de a 65 ember, akitől karácsony előtt megválnak, nem politikai érv, hanem munkavállaló. Ha a megtakarítás elkerülhetetlen, a legkevesebb, hogy a sorozatos kormány–főváros alku ára ne az legyen, hogy a hivatali dolgozók fizetik meg.",
+      "src": [
+        [
+          "Telex: A várható csoportos leépítés miatt kiabáltak egymással a tiszás és fideszes képviselők a Fővárosi Közgyűlésben",
+          "https://telex.hu/belfold/2026/11/27/fovaros-leepitesek-fovarosi-kozgyules-november-27-fovarosi-kozfejlesztesek-tanacsa-karacsony-gergely"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795774468-temp-vl4o5ldn32ib4kkflck_hero-full:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/27/fovaros-leepitesek-fovarosi-kozgyules-november-27-fovarosi-kozfejlesztesek-tanacsa-karacsony-gergely",
+      "cred": "Karácsony Gergely a Fővárosi Közgyűlés ülésén 2026. november 27-én – Fotó: Melegh Noémi Napsugár / Telex (a Telex aláírása szerint)"
+    },
+    {
       "id": "tisztitotuz-koltsegvetes-2027-birosag-nvvh-ugyeszseg-nov-27",
       "r": "Belpolitika",
       "c": "Közpénz",
