@@ -1,6 +1,478 @@
 {
   "items": [
     {
+      "id": "ovodavezeto-szappanos-viz-budavari-ovoda-elbocsatas-nov-28",
+      "r": "Közélet",
+      "c": "Oktatás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 28.",
+      "published_at": "2026-11-28T06:31:00+01:00",
+      "ai_edited": true,
+      "t": "Szappanos vizet itatott egy kisfiúval, mégis óvodavezető lett Budán – a Telex szerint novemberben onnan is elbocsátották",
+      "s": "Az ügyészség vádat emelt az óvónő ellen kiskorú veszélyeztetése miatt; a budavári önkormányzat szerint volt speciális erkölcsi bizonyítványa. Kérdés, mikor tudott az eljárásról a fenntartó.",
+      "p": [
+        "Idén májusban még egy Füzesabony közeli település óvodájának vezetője volt, augusztusban pedig már egy budapesti óvodában dolgozott az az óvónő, akit az Egri Járási Ügyészség közleménye szerint azért küldtek el korábbi munkahelyéről, mert kegyetlen és megalázó büntetéseket alkalmazott – írja a Telex. A vádirat szerint 2025-ben egy sajátos nevelési igényű kisfiút azért büntetett meg, mert az folyékony szappant nyomott társai poharába: a gyerek poharába szappant és vizet töltött, és megitatta vele; egy másik alkalommal a fejére öntött egy pohár vizet, mert az ebédjét nem akarta megenni.",
+        "A közlemény szerint 2026 májusában egy ötéves körüli kislányt kizárt egy programból, majd megtiltotta a dajkáknak, hogy tiszta alsóneműt adjanak neki, és a cserebugyit a szekrény tetejére dobta. Amikor egy dajka visszaadta a ruhadarabot, az óvónő a gyereket arra kötelezte, hogy újra vetkőzzön le, amikor pedig a nagycsoportosok megérkeztek, kigúnyolták a kislányt. A vádat november 19-én emelték kétrendbeli kiskorú veszélyeztetése miatt; az ügyészség próbaidőre felfüggesztett szabadságvesztést és a gyerekek nevelésétől való eltiltást indítványozott.",
+        "A Telex információi szerint az óvónő augusztus végén a Budavári Önkormányzat fenntartásában működő Brunszvik Teréz Budavári Óvodák Nyárs utcai egységének vezetője lett. Az önkormányzat azt írta, hogy az óvodai alkalmazottak felvételénél mindig betartják a szabályokat, az érintettnek pedig volt a munkakörhöz szükséges speciális hatósági erkölcsi bizonyítványa. Az óvónő próbaidejét töltötte, jogviszonyát a munkáltató november 21-én megszüntette. Arról, hogy tudtak-e a büntetőeljárásról, a Telex kérdésére az önkormányzat nem válaszolt.",
+        "A cikk szerint a pedagógusok életpályájáról szóló 2023-as törvény alapján a munkáltató akkor sem alkalmazhatna valakit, ha folyamatban van ellene büntetőeljárás kiskorú veszélyeztetése miatt, vádemelésig sem kell jutnia az ügynek. A speciális erkölcsi bizonyítvány viszont nem tartalmaz részleteket, és ha a kikérésekor még csak nyomozás zajlott gyanúsítás nélkül, az nem látszott benne. Mivel nem tudni, mikor indult az eljárás, a cikk nem tudja eldönteni, hogy a felvételkor mit kellett volna tudni. Az érintettre jogerős ítéletig az ártatlanság vélelme vonatkozik."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely az Egri Járási Ügyészség közleményére és a budavári önkormányzat válaszára hivatkozik; a közleményt és a válaszokat nem láttuk. Nem ismert, mikor indult a büntetőeljárás, és mikor értesült róla a fenntartó. A névtelenséget a cikk is megőrzi, ezért az óvónő nevét nem közöljük. A Telex szerint az önkormányzat nem válaszolt arra, tudtak-e az eljárásról. A kép illusztráció, nem az érintett óvodában készült.",
+      "op": "Itt nem az a szörnyű, hogy valaki hibázott, hanem az, hogy a rendszer lehetővé tette: aki egyik óvodából a gyerekekkel való bánásmód miatt kerül ki, a másikban pillanatok alatt vezető lehet. A gyerekvédelmi szűrés nem lehet papírforma: ha a kerületek nem kérdeznek rá a korábbi munkahelyre, az erkölcsi bizonyítvány puszta aláírás marad.",
+      "src": [
+        [
+          "Telex: Előző munkahelyén szappanos vizet itatott egy kisfiúval az óvónő, de aztán egy budai óvodában mégis alkalmazták – végül onnan is elbocsátották",
+          "https://telex.hu/belfold/2026/11/28/ovoda-videk-budapest-gyerekek-buntetesek-sni-erkolcsi-bizonyitvany"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795791227-temp-i6skspboq8p85fhfphe_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/28/ovoda-videk-budapest-gyerekek-buntetesek-sni-erkolcsi-bizonyitvany",
+      "cred": "Illusztráció (nem az érintett óvodában készült). – Fotó: Lars Baron/Getty Images (a Telex aláírása szerint)"
+    },
+    {
+      "id": "pest-godollo-hongene-gyogyszergyar-lakossagi-tiltakozas-nov-28",
+      "r": "Megyei",
+      "m": "Pest",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 28.",
+      "published_at": "2026-11-28T06:01:00+01:00",
+      "ai_edited": true,
+      "t": "Gödöllőn a lakók a kínai Hongene-gyógyszergyár építésének felfüggesztését követelik – a szombati tüntetést lefújták",
+      "s": "A HVG szerint a 36 milliárdos beruházásról a lakosságot nem tájékoztatták időben; a helyi képviselő egyeztetést szervezett, a civilek és a cég között valamiféle megállapodás született.",
+      "p": [
+        "Forrnak az indulatok Gödöllőn, ahol a Hongene Biotech kínai gyógyszeripari cég épít gyárat, a helyi lakosságot azonban a HVG szerint gyakorlatilag senki sem tájékoztatta a beruházásról – írja a HVG 360 pénteki és szombati anyagában. A szingapúri központú, de valójában kínai cég a gödöllői Üzleti Parkban vásárolt csaknem 15 hektáros telket (a nyilvános adatok alapján feltehetően 3–4 milliárd forintért); a terület többségi tulajdonosa a lap szerint Herbst Árpád, aki az Orbán Viktor köréhez köthető. A cég két gyártóüzemet, raktárakat, oldószer-visszanyerő és szennyvízkezelő létesítményt építene.",
+        "A beruházást Szijjártó Péter akkori külügyminiszter jelentette be 2025 áprilisában. A 36 milliárd forintos projekthez az Orbán-kormány egyedi döntéssel 7,5 milliárd forint támogatást adott, tavaly augusztusban pedig nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánították, és 150 új munkahelyet ígértek. A HVG szerint a beruházás előkészítésében az NKA-botrány miatt letartóztatott Hankó Balázs is részt vett, aki a bejelentés előtt tárgyalt a cég vezetőivel. Gémesi György gödöllői polgármester a lapnak azt mondta, az önkormányzatot nem tájékoztatták, és nem kezdeményeztek egyeztetést a településsel.",
+        "A HVG birtokába jutott hatástanulmány szerint a gyár évente 18 tonna gyógyszer-alapanyagot állítana elő, köztük genetikai vizsgálatokhoz és mRNS-vakcinákhoz használt termékeket; egyes alapanyagokból (foszforamidit, oligonukleotid) a cég globális termelésének 20 százalékát adná. A viszonylag csekély végtermékhez azonban rendkívüli mennyiségű vegyi anyagot használnának: évente 6008 tonna szerves oldószert (például etil-acetátot, acetonitrilt, toluolt), amelynek egy részét helyben visszanyernék, 4282 tonna pedig hulladékként keletkezne, és arra jogosult hulladékkezelőknek adnák át.",
+        "A helyiek a HVG szerint csak októberben, az építkezés elindulásakor szembesültek azzal, hogy az üzem már februárban megkapta a Pest vármegyei kormányhivataltól a környezethasználati engedélyt. Szerintük sem az önkormányzat, sem a kormányhivatal nem tájékoztatta őket megfelelően, ezért a beruházás felfüggesztését követelik, és petíciót indítottak, amelyet több mint nyolcezren írtak alá (a HVG információi szerint sokan nem gödöllői lakosok). A november 28-ra, 14 órára a főtérre tervezett tüntetést lefújták, mert a civilek és a Hongene között úgy tűnik, valamiféle megállapodás született. A helyi tiszás országgyűlési képviselő, László Endre Márton november 26-ára egyeztetést szervezett a civilek, a cég, a környezeti hatástanulmányt készítő Generisk és a helyi vízmű között; azt mondta, a jogszabályok betartatása a feladata, és a felek közti párbeszédre törekszik."
+      ],
+      "cav": "A beszámoló a HVG 360 cikkére épül, amelynek a végét (az egyezség részletei, „lásd lejjebb”) nem tudtuk letölteni, mert az a fizetős részben lehet; ezért az egyezség tartalma nem ismert. A hatástanulmány adatait a HVG ismerteti, magát a dokumentumot nem láttuk. A petíció aláíróinak számát és eredetét a HVG kétségbe vonja. A gyár kockázatairól és az engedélyezés szabályszerűségéről hatósági vagy független szakértői értékelés a cikkben nincs. Kép nincs.",
+      "op": "Nem az a baj, hogy egy külföldi cég gyárat épít, hanem az, hogy a lakók a saját városukban a buldózerekből értesülnek róla. A környezeti hatástanulmány nyilvánossága nem udvariasság, hanem jogi minimum: ha az egyezség tényleg megszületik, az is akkor lesz hiteles, ha az engedélyek és a vizsgálatok nyilvánosan hozzáférhetők lesznek.",
+      "src": [
+        [
+          "HVG 360: Több ezer tonna veszélyes anyag feldolgozását tervezik, mégsem egyeztetett senki a gödöllői lakossággal az új kínai gyárról az utolsó pillanatig",
+          "https://hvg.hu/360/20261128_hongene-kinai-gyogyszergyar-godollo-civil-tiltakozas-herbst-arpad"
+        ]
+      ]
+    },
+    {
+      "id": "energiaarak-2027-ing-virovacz-g7-olaj-gaz-nov-28",
+      "r": "Gazdaság",
+      "c": "Energia",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 28.",
+      "published_at": "2026-11-28T04:57:00+01:00",
+      "ai_edited": true,
+      "t": "Az ING elemzői szerint jövőre az energiaárak a magyar gazdaság javára fordulhatnak: 77 dolláros brent, 40 euró alatti gáz lehet a jó forgatókönyvben",
+      "s": "A Telex G7 külső szerzői rovatában két ING-elemző azt írja: ha a Perzsa-öböl felől normalizálódik a szállítás, 2027-ben végre „hátszél” lehet az energia.",
+      "p": [
+        "Az energiahordozók világpiaci árai idén hullámvasút-szerűen mozogtak, de az új egyensúlyok kialakulásával a volatilitás csökken – írja Virovácz Péter, az ING Bank magyarországi fióktelepének vezető elemzője és Homolya Zoltán elemzőgyakornok a Telex G7 „Zéróosztó” külső elemzői rovatában. Szerintük a Közel-Keletről kiáramló olaj mennyisége az év végére már ismét közelít a háború előtti szinthez, noha az Egyesült Államok és Irán között továbbra sincs megállapodás; a szállítás útvonalai azonban sokkal kevésbé hatékonyak, ami a tankerszállítási díjak emelkedésében látszik.",
+        "A magyar inflációban a drágább energiaimport hatása látszik, de a szerzők szerint jelentős pozitívum, hogy a legfrissebb adatok sem mutatnak számottevő másodkörös hatásokat; a vállalatok a korábbi energiaválság után óvatosabbak: hosszabb fedezeteket és nagyobb tartalékokat használnak. Az ING alapforgatókönyve szerint 2027-ben az amerikai–iráni feszültség időnként fellángolhat, így az olajárban marad némi geopolitikai kockázati felár; ha azonban nem lesz elhúzódó ellátási fennakadás, a kínálat fokozatosan nőhet, és a brent átlagára 77 dollár körül alakulhat. Megállapodás esetén ennél alacsonyabb szintek is elképzelhetők. Lefelé mutató kockázat az OPEC esetleges széthullása is: a cikk szerint Irak már jelezte elégedetlenségét a kitermelési célok miatt, az Egyesült Arab Emírségek pedig a szervezetből való kilépése után rekordmennyiségű olajat termel.",
+        "Az európai gázról az elemzők azt írják, hogy 2026-ban jelentősen drágult, de egy kedvezőbb forgatókönyvben 2027 végére a TTF-jegyzés megawattóránként 40 euró alá is süllyedhet. Ehhez több feltételnek együtt kellene teljesülnie: a Perzsa-öböl LNG-szállításának normalizálódása 2027 elejére, a magas ár miatt visszafogott ipari kereslet és a gázról szénre váltás, az El Niño hatására enyhébb tél, valamint az új amerikai LNG-exportkapacitások és esetleg új katari kapacitások belépése.",
+        "Magyarország szempontjából az alacsonyabb energiaárak több csatornán segítenének: mérsékelnék a háztartások és vállalatok költségeit és az inflációt, javítanák a külkereskedelmi és folyó fizetési mérleget (ami a forint sérülékenységét is csökkentené), és a lakossági energiatámogatás költségvetési terheit is. A szerzők hangsúlyozzák, hogy a bizonytalanság nagy: egy újabb geopolitikai konfliktus, tartós szállítási fennakadás vagy a vártnál hidegebb időjárás gyorsan visszafordíthatja a folyamatot."
+      ],
+      "cav": "Ez a Telex G7 külső szerzői rovatának véleménycikke (az ING két elemzőjének előrejelzése), nem a Telex szerkesztőségi állítása; a számok az ING forgatókönyvei, nem tények. A cikk nem közli, milyen 2026-os átlagárhoz képest értendő a 77 dolláros brent-ár és a 40 eurós TTF-érték. Az elemzés független forrással nem ellenőrzött. A kép archív.",
+      "op": "Szép dolog a hátszél, de nem tervezhetünk költségvetést egy jó forgatókönyvre. Az energiaárak javulása legfeljebb mozgásteret ad: a lakossági támogatási rendszer igazságosabbá tétele és az orosz függőség csökkentése ettől függetlenül ugyanúgy a kormány feladata marad.",
+      "src": [
+        [
+          "Telex G7: Az energiaárak jövőre végre Magyarország oldalára állhatnak",
+          "https://telex.hu/g7/penz/2026/11/28/energiaarak-olaj-gaz-2027-kilatasok-magyar-gazdasag"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795784918-temp-79keaq93adedbjhkmme_hero-full:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/g7/penz/2026/11/28/energiaarak-olaj-gaz-2027-kilatasok-magyar-gazdasag",
+      "cred": "Az emírségekbeli Rasz Laffan, a világ egyik legnagyobb LNG-terminálja (archív kép). – Fotó: Karim Jaafar/AFP (a Telex aláírása szerint)"
+    },
+    {
+      "id": "sp-hitelminosito-stabil-kilatas-bbb-minusz-nov-27",
+      "r": "Gazdaság",
+      "c": "Hitelminősítés",
+      "w": "",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T22:05:00+01:00",
+      "ai_edited": true,
+      "t": "Az S&P is stabilra javította Magyarország kilátását: a BBB mínusz marad, de a leminősítés lekerült a napirendről",
+      "s": "A hitelminősítő pénteken késő este megerősítette a magyar államadós-osztályzatot, a negatív kilátást viszont stabilra módosította. Egy héttel a Moody's után ez a második nagy minősítő, amely így döntött.",
+      "p": [
+        "Az S&P Global Ratings pénteken késő este, londoni közzététellel megerősítette Magyarország hosszú és rövid távú, hazai és külföldi devizában fennálló adósságának „BBB mínusz/A-3” besorolását, a kilátást viszont negatívról stabilra módosította – számol be a Telex az MTI nyomán, a 444 és a HVG pedig részletesen ismerteti az indoklást. A „BBB mínusz” a befektetésre ajánlott sáv legalsó foka: a negatív kilátás következő lépése a bóvli kategóriába való leminősítés lett volna, ezt a mostani döntés leveszi a napirendről.",
+        "A 444 emlékeztet, hogy az S&P 2025 tavaszán, a korábbi kormány gazdasági csúcsminisztersége idején rontotta negatívra a kilátást, tavaly ősszel pedig országjelentés kiadása nélkül hagyta változatlanul. A mostani döntés indoklása szerint a politikai környezet megváltozása a döntő tényező: a kétharmados parlamenti többség jogállamisági reformokat fogadott el, ennek nyomán felszabadultak a korábban befagyasztott uniós források, és az S&P szerint 16,4 milliárd euró (a GDP mintegy 7 százaléka) uniós forrás vált elérhetővé. A HVG hozzáteszi, hogy az EU Tanácsa jóváhagyta a felülvizsgált helyreállítási tervet, amely nagyjából 10 milliárd eurónyi forráshoz ad hozzáférést, a kohéziós keretből pedig még 15,5 milliárd euró lehívása van hátra; emellett akár 5,4 milliárd euró hosszú lejáratú hitel is elérhető lehet az uniós védelmi beszerzési (SAFE) eszközből.",
+        "A hitelminősítő előrejelzése szerint a GDP idén 1,7, jövőre 2,5 százalékkal nőhet, a beruházások pedig öt év visszaesés után ismét bővülhetnek. A költségvetési hiány az idei, 7,5 százalékos csúcsról 2027-re 5 százalékra, 2028-ra 4,5 százalékra, 2029-re 4 százalékra csökkenhet; a nettó államadósság az S&P becslése szerint 2028-ban tetőzik a GDP 74,5 százalékán. Az infláció idén 2 százalék körüli lehet, jövőre 3,2–3,3 százalékra gyorsulhat. A 444 beszámolója szerint a kormány 2028-tól fontolóra veheti az ágazati különadók kivezetését, a túlzottdeficit-eljárásból való kikerülés viszont az S&P szerint nem két év múlva, hanem csak 2030-ban várható. Strukturális sérülékenységként továbbra is a magas energiaigényt és az orosz importtól való függést említik.",
+        "A HVG szerint az S&P a kormány azon célját is „fontos gazdaságpolitikai horgonynak” nevezi, hogy az ország 2030-ra teljesítse a maastrichti kritériumokat, 2032-re pedig csatlakozzon az euróövezethez; jelenleg Magyarország az euró bevezetésének egyetlen feltételét sem teljesíti. A felminősítés feltétele az intézményi környezet tartós javulása és a költségvetési mérleg erősödése lehet, a leminősítés kockázatát a reformok elakadása, a gyengébb növekedés vagy a tartósan ingadozó energiaárak hordozzák.",
+        "Kármán András pénzügyminiszter Facebook-bejegyzésben „nagyszerű hírnek” nevezte a döntést, szerinte ez azt mutatja, hogy a piacok elismerik a kormány munkáját, és hozzájárulhat az alacsonyabb állampapír-hozamokhoz, a hitelkamatok csökkenéséhez és a stabilabb forinthoz. A három nagy minősítő éves rendje szerint a mostani kört jövő pénteken a Fitch zárja; a 444 szerint ott a besorolás BBB, negatív kilátással, és a két korábbi döntés után a stabilra váltás valószínűsíthető."
+      ],
+      "cav": "A beszámoló a Telex, a 444 és a HVG cikkére épül; az S&P eredeti jelentését nem láttuk. A számadatok (növekedés, hiány, adósság) az S&P előrejelzései, nem hivatalos kormányzati adatok; a HVG szerint a hitelminősítő hiánybecslése valamivel rosszabb a kormányénál. A Fitch jövő heti döntéséről szóló várakozás a 444 megállapítása, nem tény. A kép archív illusztráció.",
+      "op": "Jó hír, hogy a leminősítés réme egyelőre eltávolodott, és a két nagy minősítő is a reformokat jutalmazza. De a stabil kilátás nem felmentés: a javulás nagyrészt az uniós pénzek felszabadításán múlt, a 2027-es hiánycél pedig még a választási ígéretek próbája lesz. A valódi kérdés az, hogy a konszolidáció a közszolgáltatások rovására megy-e.",
+      "src": [
+        [
+          "Telex: Pozitívan értékelte a Tisza-kormány gazdaságpolitikáját az egyik nagy hitelminősítő",
+          "https://telex.hu/gazdasag/2026/11/27/s-p-global-ratings-negativrol-stabilra-magyar-allamados-osztalyzat-kilatasat"
+        ],
+        [
+          "444: Egy lépéssel távolabb a bóvlitól a magyar államadósság: az S&P javított a még Nagy Márton idején adott negatív kilátáson",
+          "https://444.hu/2026/11/27/hitelminosito-sp-szuveren-allamadossag-orszagjelentes"
+        ],
+        [
+          "HVG: A Tisza második hitelminősítése: Magyarország megúszta a bóvlit az S&P-nél",
+          "https://hvg.hu/gazdasag/20261127_s-p-2026-november-minosites-hitelminosites-negativ-stabil-bovli-ertekeles-ebx"
+        ]
+      ],
+      "img": "https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/01246aa7-720d-4c30-b4b1-792535ac1057.jpg",
+      "imgs": "HVG",
+      "imgl": "https://hvg.hu/gazdasag/20261127_s-p-2026-november-minosites-hitelminosites-negativ-stabil-bovli-ertekeles-ebx",
+      "cred": "Illusztráció, archív kép, nem az S&P döntéséhez kapcsolódó eseményen készült. – Fotó: MTI/EPA (a HVG aláírása szerint)"
+    },
+    {
+      "id": "varosliget-zrt-orban-arpad-igazgatosagi-elnok-nov-27",
+      "r": "Belpolitika",
+      "c": "Budapest",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T21:14:00+01:00",
+      "ai_edited": true,
+      "t": "A Tisza fővárosi frakcióvezetője lett a Városliget Zrt. igazgatóságának elnöke: a tárca szerint közgazdászként, bankszakmai tudása miatt",
+      "s": "Orbán Árpád november 1. óta tölti be a posztot, amelyért bruttó 645 600 forintos juttatás jár. A Magyar Hang nyomán a minisztérium megindokolta a döntést.",
+      "p": [
+        "A Tisza Párt fővárosi frakciójának vezetője, Orbán Árpád István lett a Városliget Zrt. igazgatóságának elnöke – írja a Telex és a HVG a Magyar Hangra hivatkozva, a cég honlapján szereplő adatok alapján. A társaság egyetlen részvényese a magyar állam, a tulajdonosi jogokat a kultúráért felelős miniszter gyakorolja, ez jelenleg Tarr Zoltán, a társadalmi kapcsolatokért és kultúráért felelős miniszter.",
+        "A Magyar Hang megkérdezte a tárcát, miért éppen a Tisza fővárosi képviselőjére esett a választás, és mennyit számított, hogy tiszás politikusról van szó. A minisztérium válasza szerint Orbán Árpád „kiemelkedő vezetői tapasztalattal rendelkező közgazdász”, jelentős bankszakmai ismeretekkel, és ez a tapasztalat előnyt jelent a fejlesztési projektekkel kapcsolatos döntésekben, a futó programok követésében, valamint a tartós, gazdaságos üzemeltetésben. A tárca hozzátette: úgy véli, az elnök a munka tartalmi részére koncentrál, a fővárosi közgyűlés tagjaként és a Fővárosi Tulajdonosi Bizottság elnökeként pedig más, hasonló bonyolultságú cégek működésébe is rálát, ami segítheti, hogy a főváros és a Városliget Zrt. működése összhangban legyen.",
+        "Orbán Árpád a Telex szerint november 1. óta tölti be a tisztséget. Az igazgatósági elnöki posztért a 2026-os minimálbér kétszerese, vagyis bruttó 645 600 forint jár. A politikus 2024 óta tagja a Fővárosi Közgyűlésnek, a frakció vezetését májusban vette át, miután elődjét, Bujdosó Andreát országgyűlési képviselővé, majd a Tisza parlamenti frakcióvezetőjévé választották; a HVG szerint emellett a Pénzügyi és Közbeszerzési Bizottság alelnöke.",
+        "A Telex a háttérhez hozzáteszi, hogy a Városliget Zrt. legutóbb azzal került a hírekbe, hogy egyik, szinte üres cége, a Kulturális Vagyonkezelő Kft. veszi át a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány, valamint a Batthyány Lajos Alapítvány feladatait."
+      ],
+      "cav": "A beszámoló a Telex és a HVG cikkére épül, amelyek a Magyar Hang eredeti beszámolójára hivatkoznak; a Magyar Hang cikkét és a cég honlapját nem láttuk. A kinevezés indokai a minisztérium közlésén alapulnak, a kinevezési folyamatról (pályázat, javaslattevő) nincs adat. A Telex és a HVG kissé eltérően sorolja a politikus bizottsági tisztségeit; ezeket a cikkek szerint közöljük. A kép a Telex saját fotója Orbán Árpádról (a felirat szerint középen látható), nem az eseményről készült.",
+      "op": "Közgazdász, bankszakmai múlt, tapasztalat – lehet, hogy tényleg alkalmas. Csakhogy a Tisza pont azért kritizálta a korábbi garnitúrát, mert a közpénzes cégek vezetése pártkötődés mentén dőlt el. Ha ugyanaz történik, csak másik színben, az a legkevésbé hiteles hozzáállás: legalább a pályázati, átlátható kiválasztás hiányát kellene pótolni.",
+      "src": [
+        [
+          "Telex: A Tisza budapesti frakcióvezetője lett a Városliget Zrt. igazgatóságának elnöke",
+          "https://telex.hu/belfold/2026/11/27/orban-arpad-tisza-part-frakciovezeto-varosliget-zrt-igazgatosag"
+        ],
+        [
+          "HVG: A Tisza fővárosi frakciójának vezetője lett a Városliget Zrt. igazgatóságának új elnöke",
+          "https://hvg.hu/itthon/20261127_varosliget-zrt-tisza-part-orban-arpad-istvan"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795810320-temp-clo3s1giuupr9gdbpge_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/27/orban-arpad-tisza-part-frakciovezeto-varosliget-zrt-igazgatosag",
+      "cred": "Középen Orbán Árpád, a Tisza Párt fővárosi frakcióvezetője (archív kép, nem az igazgatósági kinevezéshez kapcsolódó eseményen készült). – Fotó: Melegh Noémi Napsugár/Telex (a Telex aláírása szerint)"
+    },
+    {
+      "id": "nemzeti-pedagogus-kar-megszuntetes-torvenyjavaslat-nov-27",
+      "r": "Közélet",
+      "c": "Oktatás",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T18:46:00+01:00",
+      "ai_edited": true,
+      "t": "Az RTL szerint a Nemzeti Pedagógus Kar vezetői és a szakszervezet is a sajtóból értesült a szervezet várható megszüntetéséről",
+      "s": "A kormány kedden benyújtott oktatási törvényjavaslata január 1-jével megszüntetné a kötelező tagságú kart; a minisztérium szerint a pedagógusoknak maguknak kell választaniuk, hová tartoznak.",
+      "p": [
+        "Kedden nyújtotta be a kormány az oktatás megújításáról szóló törvényjavaslatot, amelyben szerepel, hogy január 1-jével megszüntetnék a kötelező tagságon alapuló Nemzeti Pedagógus Kart – írja a HVG az RTL Híradója beszámolója alapján. A kart 2013-ban hozta létre az Orbán-kormány szakmai testületként, amely véleményez és javaslatokat tesz az oktatási tárcának; az állami fenntartású iskolák pedagógusai a köznevelési törvény alapján automatikusan tagjai.",
+        "A Pedagógusok Demokratikus Szakszervezete (PDSZ) több szervezettel együtt kedden petíciót nyújtott be a kar megszüntetéséért. Nagy Erzsébet, a PDSZ ügyvivője az RTL-nek azt mondta: 25 perccel később érkezett a hír, hogy a kormány ezt már idén megtenné, ami azért meglepő, mert legutóbb hétfőn egyeztettek az oktatási miniszterrel, és erről nem esett szó. A kar új elnöke, Rázsi Botond Miklós szintén csak a sajtóból értesült a javaslatról; állítása szerint többször kértek egyeztetést a tárcától, de azt a választ kapták, hogy erre csak jövőre lenne lehetőség.",
+        "A HVG korábbi cikke szerint a miniszter eredetileg csak a kötelező tagságot törölné, felmerült egy kamara alapítása is. Az oktatási és gyermekügyi minisztérium az RTL-nek azt írta, nem vitatják a kar által végzett munka értékét, de szerintük a pedagógusoknak maguknak kell eldönteniük, melyik szervezethez akarnak tartozni; a kar működésére szánt évi 150 millió forintot pedig a jövőben pályázati úton osztanák szét szakmai szervezetek között."
+      ],
+      "cav": "A beszámoló a HVG cikkére épül, amely az RTL Híradó anyagára hivatkozik; az RTL adását és a törvényjavaslatot nem néztük meg. A kar és a PDSZ nyilatkozatai másodkézből származnak. A cikk nem közli, hogy a parlament mikor szavaz a javaslatról, és hogy az idei megszüntetés a javaslatban pontosan hogyan szerepel. Az oktatási törvénycsomagról korábbi cikkünk is szól, ez a kar sorsára fókuszál. Kép nincs.",
+      "op": "A kötelező tagságú kar megszüntetése alapjában indokolt, hiszen a tagság kényszere sosem volt a szakmai önállóság jele. De ha a minisztérium a pedagógusokra hivatkozik, a kar sorsáról szóló döntést is velük kellett volna megbeszélni: a szakszervezet és a kar vezetése egyaránt a sajtóból tudja meg, mi lesz a szervezettel, ez nem egyeztetés.",
+      "src": [
+        [
+          "HVG: RTL: A Nemzeti Pedagógus Kar elnöke a sajtóból tudta meg, hogy idén megszűnhet a szervezet",
+          "https://hvg.hu/itthon/20261127_nemzeti-pedagogus-kar-megszunes-torvenyjavaslat"
+        ]
+      ]
+    },
+    {
+      "id": "cmf-krausz-ferenc-kutatokozpont-2027-finanszirozas-nov-27",
+      "r": "Közélet",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T18:34:00+01:00",
+      "ai_edited": true,
+      "t": "Jövőre a 2026-os támogatás töredékét kaphatja a Krausz-féle kutatóközpont, a lézeres kutatások egy része Németországba kerülhet",
+      "s": "A Tudományos és Technológiai Minisztérium szerint a CMF 2027-ben körülbelül 4 milliárd forint közvetlen állami támogatásra számíthat; Krausz Ferenc marad az ügyvezető.",
+      "p": [
+        "A Krausz Ferenc vezette Molekuláris-Ujjlenyomat Kutató Központ (CMF) stratégiája és költségvetése még tárgyalás alatt áll, de a Magyar tudósok körútján álló ingatlanberuházást várhatóan befejezik – írta a Tudományos és Technológiai Minisztérium (TTM) a Telex kérdéseire. A tárca szerint Krausz továbbra is a CMF ügyvezetője marad, és a kutatás lézertechnológiai részét személyesen irányítja. A kérdések apropója az volt, hogy a központ bejelentette: Hongkongban is egészségügyi kutatóprogramot indít a Hongkongi Egyetemmel, amely több ezer ember rendszeres vizsgálatával próbálja kideríteni, jelezhetők-e a betegségek évekkel a tünetek előtt.",
+        "A Telex szerint a TTM a CMF tulajdonosi jogait az Élvonal Alapítvány augusztus 31-i megszűnése után átvette. A cég az idei működésére a kekvák lezárási folyamatában, a Pénzügyminisztérium jóváhagyásával, szigorúan szakmai célfeladatokra kapott forrásokat, ez az augusztustól decemberig terjedő időszakra mintegy 7,6 milliárd forint, amelyben a beruházás lezárása és az eszközbeszerzések is benne vannak. A 2024-es közfeladat-finanszírozási szerződés összesen 48,64 milliárd forintot irányzott elő 2026 végéig (2024-re 3,2, 2025-re 18,49, 2026-ra 26,95 milliárdot); a 2026-os összeg több mint 80 százalékát már az első negyedévben kiutalták, még a választás előtt. A TTM szerint a szerződés forrásait a nyári kekva-döntés óta befagyasztották, és az ennek elszámolásával a költségvetés több mint 34 milliárdot kap vissza.",
+        "2027-re a tárca a működést csak saját forrásokból tudja biztosítani; ennek könnyítésére a CMF vezetésével egyeztetnek uniós pályázati és piaci források bevonásáról. A minisztérium becslése szerint a közvetlen állami szerepvállalás körülbelül 4 milliárd forint lesz az egész évre. A lézeres elemzési megoldásokat a CMF 2027-től elsősorban Németországban fejleszti, a lézeres infrastruktúra jobb kiépítettsége miatt; a tárca remélte, hogy megfelelő forrásból legalább részben vissza tudják hozni például az ELI-ALPS központba. A hongkongi együttműködés nem kap magyar állami támogatást, a külföldi biobankok mintagyűjtési költségeit a partnerek fedezik.",
+        "A tárca szerint a központ mérföldkövei főleg a biobankhoz, vagyis a gyűjtött vérminták számához kapcsolódnak; a mintagyűjtést az állami finanszírozás bizonytalansága miatt ideiglenesen szüneteltették. A Telex emlékeztet, hogy a CMF és az Élvonal felügyelőbizottsága is tele volt fideszes kötődésű emberekkel."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely a TTM válaszaira hivatkozik; a minisztériumi válaszokat nem láttuk. A CMF tudományos eredményeit és a mintagyűjtés számait nem ismerjük; a Telex nem közli, mennyi mintát gyűjtöttek eddig. Nem ismert, hogy a 2026-ra előirányzott összeg maradékát (1,737 milliárd) kiutalták-e, és az benne van-e a 7,6 milliárdban. Kép nincs: a Telex fotójának aláírása nem volt ellenőrizhető.",
+      "op": "Egy alapkutatási központ sorsáról nem a politikai szimpátia dönthet, hanem az, hogy a tudományos átvilágítás mit mond: erről a tárcának nyilvánosan számot kell adnia. A magyar kutatóbázis szempontjából aggasztó, hogy a lézeres fejlesztések egy része külföldre vándorol, mert a belföldi infrastruktúrára nem jutott elég pénz.",
+      "src": [
+        [
+          "Telex: Jövőre a 2026-os támogatás töredékét kaphatja a Krausz-féle kutatóközpont, a kutatások egy része Németországba kerülhet",
+          "https://telex.hu/techtud/2026/11/27/cmf-molekularis-ujjlenyomat-kutato-kozpont-krausz-ferenc-finanszirozas-tudomanyos-technologiai-miniszterium"
+        ]
+      ]
+    },
+    {
+      "id": "amerikai-legiero-cloud-one-feltores-reuters-nov-27",
+      "r": "Külföld",
+      "c": "Tech",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T18:17:00+01:00",
+      "ai_edited": true,
+      "t": "Feltörték az amerikai légierő Cloud One felhőplatformját, érzékeny katonai adatokhoz juthattak a hekkerek",
+      "s": "A Reuters két névtelen forrása szerint a behatolást a múlt hónapban fedezték fel; nem tudni, kik állnak mögötte, és mennyi adatot szereztek meg.",
+      "p": [
+        "Hekkerek betörtek az amerikai légierő felhőalapú platformjába, a Cloud One-ba, és akár érzékeny taktikai, személyi és logisztikai adatokat is megszerezhettek – értesült a Reuters pénteken; a hírről a Telex és a 444 is beszámolt. A behatolást a lap két, a történetre rálátó névtelen forrása szerint az elmúlt egy hónapban észlelték, és ez komoly fennakadásokhoz vezetett. A Reuters nem tudta kideríteni, ki áll a támadás mögött, mi volt a céljuk, és mennyi adatot szereztek meg.",
+        "A légierő annyit közölt, hogy nem kommentálja egyes hálózatok és rendszerek biztonsági helyzetét, sebezhetőségét és működési állapotát, és folyamatosan megteszi a szükséges óvintézkedéseket. A Cloud One-t 2017-ben indították, hogy egyablakos szolgáltatást nyújtson a légierő informatikai igényeinek: a Microsoft, az Amazon, az Oracle és az Alphabet erőforrásait egyesíti, és a személyzeti adatokat, a bérszámfejtést, a logisztikai és karbantartási feladatokat kiszolgáló alkalmazások tucatjait működteti. Érintett lehet a légierő felhőalapú parancsnoki rendszere, amely többek között észak-amerikai radaradatokat gyűjt, valamint egy lőszeradatokat kezelő rendszer; a hekkerek elvileg láthatták a katonai repülőgépek üzemállapotát és az alkatrészek mozgását is.",
+        "A Telex a Reuters nyomán megjegyzi, hogy a nyomozók az amerikai kiberparancsnokságot is bevonták; felfüggesztették az irodai háttérszolgáltatások Cloud One-ba költöztetését, a frissítéseket blokkolták, így a munkatársak most nem tudják telepíteni a biztonsági rések javítását, és több felhasználótól megvonták a rendszergazdai jogosultságot. A Reuters szerint egyre nagyobbak az aggodalmak a mesterséges intelligencia kibertámadásokat könnyítő hatása miatt. A 444 szerint az amerikai kormánynak legalább hat másik, nemrég nyilvánosságra került kiberbiztonsági incidenssel kell megküzdenie: két az FBI-t, egy a Pentagont, egy a belbiztonsági minisztériumot, egy legalább két hírszerző ügynökséget és egy a pénzügyminisztériumot érintő támadás.",
+        "A Telex szerint a Cloud One vezetői 2023-ban azt állították, hogy 100 százalékos a sikerrátájuk a behatolási kísérletek visszaverésében."
+      ],
+      "cav": "A beszámoló a Telex és a 444 cikkére épül, amelyek a Reuters névtelen forrásokra támaszkodó beszámolójára hivatkoznak; a Reuters cikkét nem láttuk, a hírt a légierő nem erősítette meg. A támadás mögötti szereplő, az érintett adatok köre és a behatolás időpontja nem ismert. A Telex szerint a támadás gyaníthatóan mesterséges intelligencia segítségével történt, ezt a cikk nem támasztja alá (csak az általános aggodalmat idézi). A kép archív, nem a betöréshez kapcsolódik.",
+      "op": "Ha a „100 százalékos sikerráta” után mégis bejutnak a rendszerbe, az nem csak amerikai belügy: a katonai felhő mindenütt a gyenge pont, mert a központosítás kényelme a támadónak is egyablakos ügyintézés. A legfontosabb tanulság az, hogy a nyilvános kommunikáció és a valóság közti szakadék sosem jó biztonsági stratégia.",
+      "src": [
+        [
+          "Telex: Betörtek az amerikai légierő felhőjébe, érzékeny adatokat szerezhettek meg hekkerek",
+          "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho"
+        ],
+        [
+          "444: Feltörték az amerikai légierő informatikai rendszerét",
+          "https://444.hu/2026/11/27/feltortek-az-amerikai-legiero-informatikai-rendszeret"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795799662-temp-pj306asseci45hacgmg_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho",
+      "cred": "A brit légierő lakenheathi bázisa, ahol amerikai légierő-egységek is állomásoznak (archív kép, nem a betöréshez kapcsolódik). – Fotó: Chris Radburn/Reuters (a Telex aláírása szerint)"
+    },
+    {
+      "id": "martonovics-bernadett-vegrehajtasi-vizsgalobizottsag-schadl-nov-27",
+      "r": "Belpolitika",
+      "c": "Vizsgálóbizottság",
+      "w": "Schadl-ügy",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T18:15:00+01:00",
+      "ai_edited": true,
+      "t": "Semmire sem emlékezett Schadl Györggyel folytatott beszélgetéseiből a végrehajtói vizsgáztató bizottság volt elnöke a parlamenti vizsgálóbizottság előtt",
+      "s": "Martonovics Bernadett, az Igazságügyi Minisztérium volt kormány-főtanácsosa pénteken azt mondta, a nyomozati iratokból idézett üzenetekről és hívásokról csak a sajtóból tud.",
+      "p": [
+        "A végrehajtási visszaélésekkel foglalkozó parlamenti vizsgálóbizottság pénteken meghallgatta Martonovics Bernadettet, az Igazságügyi Minisztérium korábbi kormány-főtanácsosát – számol be a Telex, a 444 pedig hasonló tartalmú cikket közölt a meghallgatásról. A volt tisztviselő a minisztériumi ügyintézőként a végrehajtójelöltek vizsgáztatóbizottságának elnöke volt, neve pedig visszatérően szerepel a Schadl–Völner-ügy nyomozati irataiban.",
+        "A Telex szerint a bizottság tagjai több iratot idéztek: az egyik beszélgetésben Martonovics azt írta Schadl Györgynek, hogy az egyik jelölt „nagyon gáz volt”, „semmi fogalma sem volt semmiről”, mégis átengedték; egy másik, 2021-es telefonhívásban egy jelöltet „katasztrófának” nevezett, mégis átment, mire Schadl azt mondta, hogy őt ezzel kapcsolatban a kormányirodától hívták. Martonovics a bizottságban azt állította, nem tudja, milyen összefüggésben hangzottak el a mondatok, nem emlékszik rájuk, és ő is csak a sajtóból értesült róluk. Arra a kérdésre, hogy segített-e Schadlnek a jelöltek átengedésében, azt felelte: „attól, hogy azt mondtam, nem biztos, hogy úgy is történt”; arra, hogy hazudott-e akkor Schadlnek, azt, hogy sok vizsgán vett részt, ezért nem emlékszik. A kormányiroda szerepéről szintén azt mondta, hogy nem emlékszik.",
+        "A munkakapcsolatot ugyanakkor megerősítette: szerinte előfordult olyan év, amikor a végrehajtásról szóló törvényt négyszer módosították, és ezek kapcsán hetente egyeztetett Schadllel, mert hozzá futottak be a végrehajtói kamara módosítási javaslatai. Arról, hogy ki utasította az ügyintézői beosztású tisztviselőt az egyeztetésekre, azt mondta, vagy a közigazgatási államtitkár, vagy a főosztályvezető lehetett, de nem emlékszik. Egy bizottsági tag azt kérdezte, hány esetben fordult elő az ő elnöksége alatt, hogy a vizsgázók helyett mások töltötték ki a teszteket, utólag javították a hibás válaszokat, vagy szóbeli vizsga nélkül adtak ki képesítést; Martonovics szerint egyről sem tud.",
+        "A Telex felidézi a 2024-ben nyilvánosságra hozott hangfelvételt is, amelyen Martonovics neve szerepel egy, a nyomozati anyag kihúzásairól szóló beszélgetésben; ez a téma most nem került elő a meghallgatáson. A volt tisztviselő korábban az ügyészségi kihallgatásán azt mondta, nincs tudomása az iratok manipulálásáról."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, a 444 cikkét nem töltöttük le. A meghallgatás felvételét és a nyomozati iratokat nem láttuk; az idézett üzenetek és hívások tartalma a Telex ismertetésén alapul. A szóváltás pontos kontextusát Martonovics nem ismerte el; a vizsgálóbizottság állításai, illetve a tisztviselő válaszai nem ellenőrzöttek. Az ügyben mindenkire az ártatlanság vélelme vonatkozik. Kép nincs: a Telex fotója egy videófelvételről (YouTube) készült, ezért nem ágyaztuk be.",
+      "op": "Az, hogy valaki a saját telefonbeszélgetéséről „a sajtóból értesül”, nem védekezés, hanem a magyar közigazgatás legszomorúbb műfaja. A vizsgálóbizottság dolga nem a hatásvadász kihallgatás, hanem az, hogy a rendelkezésre álló iratokból tényszerű, ellenőrizhető összefüggést építsen: ez a meghallgatás is csak akkor ér valamit, ha a jegyzőkönyv és az iratok nyilvánosak lesznek.",
+      "src": [
+        [
+          "Telex: Mindent kimosott az idő a Schadl György végrehajtó-jelöltjeit vizsgáztató minisztériumi főtanácsos emlékezetéből",
+          "https://telex.hu/belfold/2026/11/27/martonovics-bernadett-vegrehajtasokat-ellenorzo-bizottsag-schadl-volner-ugy"
+        ]
+      ]
+    },
+    {
+      "id": "brovdi-magyar-beutazasi-tilalom-feloldva-nov-27",
+      "r": "Külföld",
+      "c": "Ukrajna",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T16:37:00+01:00",
+      "ai_edited": true,
+      "t": "Feloldották a „Magyar” hívójelű ukrán drónparancsnok, Robert Brovdi magyarországi beutazási tilalmát",
+      "s": "Az idegenrendészet november 18-án törölte a három évre elrendelt tilalmat, amelyet Szijjártó Péter jelentett be 2025 nyarán a Barátság-vezetéket ért támadás miatt.",
+      "p": [
+        "Már nincs érvényben a Robert Brovdira, az ukrán drónerők parancsnokára vonatkozó magyarországi beutazási és tartózkodási tilalom: az Országos Idegenrendészeti Főigazgatóság (OIF) törölte a rendszeréből – tudta meg a Magyar Hang, amelyre a Telex hivatkozik. A „Magyar” hívójelű katona a legmagasabb rangú magyar származású tiszt az ukrán fegyveres erőkben; távollétében egy orosz bíróság életfogytiglani börtönre ítélte.",
+        "Szijjártó Péter akkori külügyminiszter 2025 augusztusában jelentette be, hogy a Barátság kőolajvezeték elleni támadás miatt kitiltják Magyarországról az ukrán drónerők vezetőjét. Brovdi akkor szókimondóan válaszolt, és azt állította, Szijjártó nem a magyar szuverenitást védi, hanem a saját érdekeit.",
+        "A Magyar Hang több minisztériumot megkeresett; végül a Belügyminisztérium válaszolt. Eszerint a tilalmat az Alkotmányvédelmi Hivatal javasolhatja, és annak feloldását is ő kezdeményezheti az Információs Hivatal szakvéleménye nyomán; ekkor az idegenrendészeti hatóság visszavonhatja a tilalmat vagy rövidítheti az időtartamát, ha nem áll fenn veszély. Az OIF november 18-án tett közzé hirdetményt, amely szerint a Brovdi ukrán állampolgárral szemben három év időtartamra elrendelt önálló beutazási és tartózkodási tilalmat törlik.",
+        "A Magyar Hang megjegyzése szerint a határozat még Magyar Péter miniszterelnök és Volodimir Zelenszkij ukrán elnök kárpátaljai találkozója előtt született."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely a Magyar Hangra és az OIF hirdetményére hivatkozik; az eredeti cikket és a hirdetményt nem láttuk. A feloldás indoklása nem ismert, mert a hatóság a döntés okát nem közölte a cikk szerint. A Barátság-vezetéket ért támadással kapcsolatos vádakat a cikk nem részletezi; Brovdi felelősségét nem erősítették meg. A kép archív, 2023-ban készült.",
+      "op": "A tilalom kezdettől fogva inkább politikai gesztus volt, mint biztonsági intézkedés; jó, hogy az új kormány nem ragaszkodott hozzá. Az viszont fontos lenne, hogy a hatóság elmagyarázza, milyen szakmai szempontok alapján vezették be, és mi változott: így lenne átlátható, nem csupán a kormányváltás eredménye.",
+      "src": [
+        [
+          "Telex: Feloldották a Magyar hívójelű drónparancsnok, Robert Brovdi beutazási tilalmát",
+          "https://telex.hu/kulfold/2026/11/27/robert-brovdi-aka-magyar-ukran-dronparancsnok-beutazasi-tilalom-feloldasa"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795793778-temp-dflar3nko44k7acijnp_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/kulfold/2026/11/27/robert-brovdi-aka-magyar-ukran-dronparancsnok-beutazasi-tilalom-feloldasa",
+      "cred": "Robert „Magyar” Brovdi beszédet mond az ukrán parlamentben egy 2023-as képen (archív kép). – Fotó: Oleksii Samsonov/Global Images Ukraine/Getty Images (a Telex aláírása szerint)"
+    },
+    {
+      "id": "ombudsman-alkotmanybirosag-tarvagas-natura-2000-banyaszat-nov-27",
+      "r": "Közélet",
+      "c": "Környezet",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T15:59:00+01:00",
+      "ai_edited": true,
+      "t": "Az Alkotmánybíróság elé kerül a tarvágás és a Natura 2000 területeken engedélyezett szénhidrogén-bányászat ügye",
+      "s": "Az alapvető jogok biztosa két beadványban kéri az erdőtörvény egyes részeinek és egy kormányrendeletnek a megsemmisítését; az AB-t nem köti határidő.",
+      "p": [
+        "Az Alkotmánybíróság heti ügylistáján két új beadvány szerepel Juhász Imre alapvető jogok biztosától, amelyeket a jövő nemzedékek érdekeinek védelmét ellátó helyettese, Bándi Gyula javaslatára és szakmai előkészítésében nyújtott be – írja a HVG. Az egyik az erdőtörvény egyes részeinek, köztük a „felújítás érdekében szükséges tarvágás” szövegrésznek a megsemmisítését kéri, azzal, hogy ezek természetvédelmi szempontból megengedhetetlen visszalépést jelentenek, és az Alaptörvény több pontjával ellentétesek.",
+        "A HVG felidézi a tarvágás történetét: 2022-ben a kormány veszélyhelyzeti felhatalmazással, a tűzifaellátás biztonságára hivatkozva kormányrendelettel tette lehetővé szélesebb körben a tarvágást, ami a cikk szerint szakértők szerint helyrehozhatatlan károkat okozhat védett, őshonos erdőkben. Az ellenzéki képviselők akkor az Alkotmánybírósághoz fordultak, a testület három évig nem tárgyalta az ügyet, majd a rendelet hatályát vesztése után okafogyottnak mondta és megszüntette az eljárást. 2025-ben a veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló, 258 paragrafusos javaslat az ideiglenes szabályt végleg beépítette az erdőtörvénybe; Sulyok Tamás akkori köztársasági elnök először megvétózta a törvényt, részben a védelmi szint csökkenése miatt, de miután az Országgyűlés a eljárási hibát javította, aláírta.",
+        "A másik beadvány egy kormányrendeletet támad, amely kiemelt közérdekűnek minősítette azt, ha Natura 2000 védettségű természetvédelmi területen „az ország energiaellátását biztosító szénhidrogén-bányászati tevékenységet” végeznek – vagyis akkor is engedélyezhető a kitermelés, ha az jelentős hatással lehet az ott élő kiemelt fajokra. Az ombudsman szerint ez is a visszalépés tilalmába ütközik, és még a veszélyhelyzet alatt sem lett volna megengedhető; a rendeletnek a veszélyhelyzet megszűntével egyébként is meg kellett volna szűnnie.",
+        "A HVG hangsúlyozza, hogy az Alkotmánybíróságot nem köti határidő az ombudsmani indítvány elbírálására – a köztársasági elnöknek ezzel szemben 30 napja van –, ezért nem lehet tudni, mikor foglalkozik az üggyel."
+      ],
+      "cav": "A beszámoló a HVG cikkére épül; az indítványokat és az AB ügylistáját nem láttuk. A cikk nem közli az indítványok számát és pontos tartalmát, csak a két téma lényegét. A HVG kritikus hangvételű, magyarázó szöveg: a „helyrehozhatatlan károkat” és a visszalépés tilalmának megsértését az indítványozó állítja, az alkotmánybírósági döntés még nem született meg. A cikkben szereplő kormányrendelet és erdőtörvény-módosítás szövegét nem vizsgáltuk. Kép nincs.",
+      "op": "Jó, hogy a környezetvédelmi jogvédelem végre az Alkotmánybíróság elé kerül, de a késés (három év a 2022-es panasz után) mutatja, mennyire kényelmes volt a testületnek hallgatni. A természetvédelmi jogvisszalépés tilalma akkor ér valamit, ha a testület nem várja meg, amíg a fakitermelés és a fúrás helyrehozhatatlanná teszi a kárt.",
+      "src": [
+        [
+          "HVG: Az Alkotmánybíróság elé kerül a tarvágás és a védett területeken folytatott bányászat ügye",
+          "https://hvg.hu/gazdasag/20261127_alkotmanybirosag-ombudsman-natura-2000-tarvagas"
+        ]
+      ]
+    },
+    {
+      "id": "nka-ujabb-letartoztatas-monori-valasztokeruleti-munkatars-nov-27",
+      "r": "Belpolitika",
+      "c": "Büntetőügy",
+      "w": "NKA-ügy",
+      "st": "Megerősített",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T15:04:00+01:00",
+      "ai_edited": true,
+      "t": "Újabb letartóztatás az NKA-ügyben: egy választókerületi munkatársat vittek be költségvetési csalás gyanújával",
+      "s": "A Kecskeméti Járásbíróság elrendelte a gyanúsított letartóztatását; a Bács-Kiskun Megyei Főügyészség szerint több tízmilliós támogatást a jóváhagyott céltól eltérően használtak fel.",
+      "p": [
+        "A Kecskeméti Járásbíróság elrendelte egy választókerületi munkatárs letartóztatását, akit a Bács-Kiskun Megyei Főügyészség különösen nagy vagyoni hátrányt okozó, bűnszövetségben, üzletszerűen elkövetett költségvetési csalás gyanújával gyanúsít – közölte a főügyészség az MTI-vel, a Telex szerint. A gyanúsított melyik párt munkatársa volt, azt a hatóság nem közölte.",
+        "Az ügy a Nemzeti Kulturális Alap (NKA) közösségépítő programjához kapcsolódik. A főügyészség a Nemzeti Adó- és Vámhivatal közreműködésével szerdán több helyszínen kutatást és lefoglalást tartott egy Pest megyei választókerületben, három embert előállított, majd gyanúsítottként kihallgatott. A gyanú szerint a munkatárs helyi szinten maga választotta ki, mely szervezetek igényeljenek támogatást, és mekkora összegre; a kérelmeket a szervezetek nevében nyújtotta be, a több tízmilliós támogatást pedig a jóváhagyott céltól eltérően költötték el, és valótlan tartalommal számoltak el vele.",
+        "Az ügyet a választások után kirobbantó Molnár Áron a Telex szerint azt is megnevezte, hogy a monori körzethez kötődik. A nyomozási bíró, Bodó Marian az ügyészi indítvánnyal egyezően a szökés és elrejtőzés, az eljárás jogellenes befolyásolása és a bűnismétlés veszélye miatt döntött a letartóztatásról.",
+        "Az NKA-ügyben külön nyomozás folyik különösen jelentős vagyoni hátrányt okozó hűtlen kezelés miatt. A gyanú szerint az NKA döntéshozó testülete 2024 decemberétől jogellenesen döntött 1079 pályázati támogatásról, több mint 17 milliárd forint értékben; a 2025 második felében meghirdetett egyedi pályázati lehetőségre beadott kérelmeket érdemi elbírálás nélkül fogadták el és fizették ki, így az alap vagyonát a 2026-os választások kampányköltségeire és a kérelmezők személyes céljaira fordították."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely a főügyészség MTI-nek küldött közleményére hivatkozik; a közleményt és a végzést nem láttuk. A letartóztatott személy nevét és pártkötődését a hatóság nem közölte, a cikk nem nevezi meg; mi sem. A monori körzet említése Molnár Áron állítása, a főügyészség a helyszínt „Pest megyei választókerületként” jelölte. Az ügyben mindenkire az ártatlanság vélelme vonatkozik. Kép nincs: a Telex az oldalon saját logóját használta.",
+      "op": "Az NKA-ügy tanulsága, hogy a kulturális pénzekből ne politikai kampányzsebpénz legyen. Ha a gyanú igaz, a választókerületi munkatárs nem kisember, hanem egy rendszer hibás fogaskereke; a felelősségre vonás akkor hiteles, ha a döntéshozókig is eljut, nem áll meg a végrehajtóknál.",
+      "src": [
+        [
+          "Telex: Újabb letartóztatás az NKA-ügyben, egy választókerületi munkatársat vittek be",
+          "https://telex.hu/belfold/2026/11/27/nka-letartoztatas-monor-valaszkeruleti-munkatars"
+        ]
+      ]
+    },
+    {
+      "id": "navalnaja-level-magyar-peter-manturov-szankcio-nov-27",
+      "r": "Külföld",
+      "c": "Oroszország",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T14:57:00+01:00",
+      "ai_edited": true,
+      "t": "Julija Navalnaja levelet írt Magyar Péternek: az orosz miniszter, Manturov uniós szankcionálásához kér segítséget",
+      "s": "Alekszej Navalnij özvegye szerint az előző magyar kormány hozzájárult ahhoz, hogy az orosz hadiipari komplexumot felügyelő kormányfőhelyettes ne kerüljön fel az EU szankciós listájára.",
+      "p": [
+        "Julija Navalnaja, az orosz ellenzéki Alekszej Navalnij száműzetésben élő özvegye csütörtökön az X-en közölte, hogy levelet küldött Magyar Péter miniszterelnöknek – írja a Telex. A levél az orosz kormány egyik kulcsemberére, Gyenyisz Manturovra hívja fel a figyelmet, aki Navalnaja szerint az ország katonai-ipari komplexumának felügyeletéért felel, vagyis az Ukrajna elleni háború fenntartásáért is. Éppen ezért „meglepő és nem logikus”, hogy ellene még nincsenek uniós szankciók.",
+        "Navalnaja azt írta, hogy Magyarország előző kormánya jelentős szerepet játszott abban, hogy Manturov ne kerüljön a szankciós listára. Szerinte a helyzet megváltozott – a kormányváltásra utalva –, és reméli, hogy a magyar kormány nem fog akadályt gördíteni a felvétele elé.",
+        "A Telex emlékeztet arra, hogy Manturov neve novemberben már szerepelt a magyar hírekben: Szijjártó Péter akkori külügyminiszter az orosz kormányfőhelyettessel egyeztetett, a háttérből részben Kapitány István lejáratását célzó anyagokról szóló iratokat juttattak el a moszkvai magyar nagykövetségre, onnan a moszkvai, később a belgrádi nagykövetek révén jutottak Budapestre. A Külügyminisztérium belső vizsgálatot kezdeményezett az ügyben. Szijjártó 2021-ben személyesen utazott Jekatyerinburgba, hogy átadja Manturovnak a Magyar Érdemrend középkeresztjét a csillaggal; az indoklás a Covid-19 elleni magyar oltási kampányban játszott szerepe volt.",
+        "A cikk szerint Magyar Péter válasza a levélre egyelőre nem ismert."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely Navalnaja X-bejegyzésére hivatkozik; a bejegyzést és a levelet nem láttuk. A levél tartalma a bejegyzésből ismert, a kormány válasza hiányzik. Nem derül ki, hogy a magyar kormány konkrétan mit tehet vagy mit tervez. A Telex a Navalnaja által említett, korábbi magyar blokkolásra nem közöl külön bizonyítékot, az az ő állítása. A kép archív, 2026. februári müncheni biztonságpolitikai konferencián készült.",
+      "op": "Nagyon kényelmetlen kérdés ez a kormánynak, és pont ezért jó, hogy feltették: ha a Tisza komolyan gondolja az unióbeli „visszatérést”, a szankciós listán nem lehet kibúvó. Egy levélre válaszolni persze olcsó; az lesz az igazi próba, hogy a következő uniós tárgyaláson Budapest nem akadályozza-e a felvételt.",
+      "src": [
+        [
+          "Telex: Julija Navalnaja levelet írt Magyar Péternek, hogy segítsen be egy orosz miniszter szankcionálásába",
+          "https://telex.hu/kulfold/2026/11/27/julija-navalnaja-levele-magyar-peternek-orosz-gyenyisz-manturov-elleni-szankciok"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795787243-temp-0lr4o8ot2e5iapdhacg_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/kulfold/2026/11/27/julija-navalnaja-levele-magyar-peternek-orosz-gyenyisz-manturov-elleni-szankciok",
+      "cred": "Julija Navalnaja a 62. Müncheni Biztonságpolitikai Konferencián, 2026 februárjában (archív kép). – Fotó: Kay Nietfeld/dpa/Picture Alliance/Reuters (a Telex aláírása szerint)"
+    },
+    {
+      "id": "rakay-philip-diplomata-utlevel-szijjarto-nov-27",
+      "r": "Belpolitika",
+      "c": "Külügy",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T14:39:00+01:00",
+      "ai_edited": true,
+      "t": "Rákay Philip este hatkor kért diplomata-útlevelet Szijjártótól, másnap már érvényes volt – a Telex a külügyi iratokból rekonstruálta",
+      "s": "A producer 2021-ben azzal érvelt, hogy üzleti tevékenysége „nemzetgazdasági érdek”; 2022-ben ugyanazt a szöveget másolta be a hosszabbításhoz. Az útlevelet idén júniusban semmisítették meg.",
+      "p": [
+        "Rákay Philip 2021. szeptember 30-án, este 18:03-kor levelet küldött Szijjártó Péter akkori külügyminiszter személyes e-mail-címére, amelyben diplomata-útlevelet kért – ez derül ki a Telex által egy olvasó közérdekűadat-igénylése nyomán megszerzett külügyi iratokból. A levélben azzal indokolt, hogy üzletemberként és cégtulajdonosként sokat utazik, olyan országokba is, amelyek nem tartoznak a schengeni övezetbe, a Covid miatti szigorítások pedig megnehezítik az átjárást. Tevékenységét – külföldi befektetések ösztönzése, közös cégek, határon túli ingatlanfejlesztések – „magyar nemzetgazdasági érdeknek tekinthetőnek” nevezte. Az útlevélről Szijjártó saját jogkörében döntött, és az okmány már másnaptól, 2021. október 1-jétől érvényes volt.",
+        "A Telex szerint 2022. november 15-én, este fél hét után nyolc perccel Rákay újabb levelet küldött a hosszabbításhoz: az indoklást szó szerint bemásolta az előző évi szövegből, a Covid-korlátozásokra is hivatkozva, noha az utazási korlátozások addigra jórészt megszűntek. A kérést Szijjártó ismét jóváhagyta, és december elsején kiállították az új okmányt, amely ezúttal négy évre, 2026. november 30-ig szólt.",
+        "A cikk felidézi, hogy a producer ebben az időszakban kapott állami filmtámogatásokat: 2021 februárjában négymilliót egy Aranybulláról szóló forgatókönyvre, júliusban 600 milliót egy sorozatra, szeptember 21-én pedig 85 milliót a Most vagy soha! előkészítésére – kilenc nappal azelőtt, hogy az útlevelet kérte. A Telex hangsúlyozza: nem tudható, hogy a kérelem a filmes projektekkel vagy más üzleti tevékenységgel függött-e össze. A film végül több milliárdos támogatással készült el; a cikk szerint Rákay cége 49 millió forint és áfa produceri díjat kapott belőle. Az ingatlanbefektetéseiről a cikk megemlíti, hogy cége 2022-ben 42 hektárt vásárolt a rácalmási Hankook-gyár mellett, majd 2023-ban a terület egy részét több mint 1,4 milliárd forint haszonnal adta tovább a gyárnak.",
+        "Az új külügyminiszter, Orbán Anita június 30-án határozattal érvénytelenítette Rákay útlevelét, és 15 napot adott a leadására; a Telex szerint a Külügyminisztérium átvétele után a Tisza-kormány átnézte, kik kaptak korábban diplomata-útlevelet. A producer ellen szeptemberben költségvetési csalás gyanújával nyomozás indult ismeretlen tettes ellen a film támogatása miatt; októberben a rendőrség hivatali visszaélés gyanújával a rácalmási földvásárlás miatt is nyomoz. A csalásgyanúval kapcsolatban Rákay visszautasította a személyes felelősségét (kreatív producerként nem vett részt a gyártási folyamatokban), a rácalmási nyomozást pedig a Telex idézése szerint az ellene indított „kormányzati lejárató hadművelet” részének nevezte. A Külügyminisztérium közölte, hogy családtagjai nem kértek diplomata-útlevelet, és az útlevél kiállításán, bevonásán kívül más intézkedés nem történt, költség nem merült fel. A Telex a cikk megjelenése előtt megkereste Rákayt, de egy nap alatt nem kapott választ."
+      ],
+      "cav": "A beszámoló a Telex cikkére épül, amely külügyminisztériumi iratokra hivatkozik; az iratokat nem láttuk. A Telex nem tudja, hogy a minisztériumon belül milyen lépések előzték meg a döntést, és hogy az útlevél kérése összefügg-e a filmes támogatásokkal. A nyomozásokban mindenkire az ártatlanság vélelme vonatkozik; Rákay a személyes felelősségét firtató állításokat visszautasította (ahogy a cikk idézi). A „kormányzati lejárató hadművelet” az ő minősítése, nem tény. Rákay a Telex megkeresésére nem reagált. A kép archív, 2024-es filmbemutatóról készült.",
+      "op": "Egy diplomata-útlevél nem hobbi: nemzetgazdasági érdekre hivatkozni, majd egy évvel később ugyanazt a szöveget bemásolni, és mindkétszer gyors „igent” kapni – ez a baráti körök kiváltságának tipikus esete, nem hatósági eljárás. A kérdés nem Rákay személye, hanem az, hogy hány hasonló kedvezmény maradt még az iratokban; erről érdemes a külügynek nyilvános összesítést adnia.",
+      "src": [
+        [
+          "Telex: Rákay Philip 18:03-kor ráírt Szijjártó Péterre, aki másnaptól érvényes diplomata-útlevelet adott neki",
+          "https://telex.hu/belfold/2026/11/27/rakay-philip-diplomata-utlevel-szijjarto-peter-este-18-03"
+        ]
+      ],
+      "img": "https://assets.telex.hu/images/20261127/1795780801-temp-ljak41n4cecn8heedkm_hero-normal:xl.jpg",
+      "imgs": "Telex",
+      "imgl": "https://telex.hu/belfold/2026/11/27/rakay-philip-diplomata-utlevel-szijjarto-peter-este-18-03",
+      "cred": "Rákay Philip a Most vagy soha! című film díszbemutatóján, 2024. március 13-án (archív kép). – Fotó: Máthé Zoltán/MTI (a Telex aláírása szerint)"
+    },
+    {
+      "id": "gyor-moson-sopron-mosoni-duna-fegyver-gyilkossag-nov-27",
+      "r": "Megyei",
+      "m": "Győr-Moson-Sopron",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T14:03:00+01:00",
+      "ai_edited": true,
+      "t": "Fegyvert találtak a Mosoni-Dunában két nappal a győri külterületi gyilkosság után; a gyanúsítottat még keresik",
+      "s": "A rendőrség szerint búvárok csütörtökön lőfegyvert emeltek ki a folyóból; hogy ezzel követték-e el a bűncselekményt, szakértői kérdés.",
+      "p": [
+        "Speciális búvárok november 26-án lőfegyvert találtak a Mosoni-Dunában – közölte a rendőrség a Police.hu oldalon, amelyre a Telex és a 444 is hivatkozik. A nyomozók azt feltételezik, hogy ezzel a fegyverrel lőhették le azt a nőt, akinek a holttestét kedden találták meg Győr külterületén, Likócs térségében; a rendőrség azonban hangsúlyozta, hogy ez egyelőre feltételezés, amelyet szakértői vizsgálattal kell tisztázni.",
+        "A bejelentés kedd délelőtt érkezett: a környéken lövéseket hallottak. A kiérkező rendőrök egy nő holttestét találták meg, és néhány órán belül azonosították a gyanúsítottat, az áldozat volt élettársát; a Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság ellene elfogatóparancsot adott ki, és hajtóvadászat indult. A 444 szerint az 53 éves férfit azóta sem találták meg. A rendőrség arra kéri a lakosságot, hogy aki tud a hollétéről, jelentkezzen a hatóságoknál; korábbi cikkünk szerint a körözés mellett a rendőrség jelezte, hogy a férfi lőfegyverrel rendelkezhet, ezért nem szabad megközelíteni."
+      ],
+      "cav": "A beszámoló a Telex és a 444 cikkére épül, amelyek a Police.hu közleményére hivatkoznak; a közleményt nem láttuk. A kiemelt fegyver és a bűncselekmény kapcsolata nem bizonyított; a gyanúsítottra az ártatlanság vélelme vonatkozik, ezért a nevét nem közöljük (bár a rendőrség és a 444 közölte). Az eset körülményeiről és a motívumról a cikkek nem írnak. A régebbi győri cikkünk (nov. 24.) a körözést ismertette. Kép nincs.",
+      "op": "Egy nőt agyonlőttek, a gyanúsított pedig szabadlábon van: itt nincs mit véleményezni, csak annyit, hogy a segélyvonal és a rendőrség figyelmeztetése most komolyan veendő. A párkapcsolati erőszak elleni fellépésnek abban kell megmutatkoznia, hogy a veszélyeztetettek időben kapjanak védelmet, nem utólag derüljön ki, hogy megvolt a figyelmeztető jel.",
+      "src": [
+        [
+          "Telex: Fegyvert találtak a Mosoni-Dunában két nappal a győri gyilkosság után",
+          "https://telex.hu/belfold/2026/11/27/fegyvert-talaltak-a-mosoni-dunaban-ket-nappal-a-gyori-gyilkossag-utan"
+        ],
+        [
+          "444: Megtalálhatták a Mosoni-Dunában a győri gyilkossághoz használt fegyvert",
+          "https://444.hu/2026/11/27/a-mosoni-dunaban-talaltak-meg-a-fegyvert-amit-a-gyori-gyilkossaghoz-hasznalhattak"
+        ]
+      ]
+    },
+    {
+      "id": "somogy-siofok-balaton-part-kerites-bontas-nov-27",
+      "r": "Megyei",
+      "m": "Somogy",
+      "c": "Hírpult",
+      "w": "",
+      "st": "Jelentett",
+      "time": "nov. 27.",
+      "published_at": "2026-11-27T14:01:00+01:00",
+      "ai_edited": true,
+      "t": "Flexszel bontotta a kerítést Siófok polgármestere és a helyi tiszás képviselő a Balaton-parti szállodasoron – a rendőrség intézkedett",
+      "s": "A képviselő-testület csütörtökön egyhangúlag döntött a partot lezáró, nem szállodai kerítés eltávolításáról; a polgármester péntek reggel a helyszínen végrehajtotta.",
+      "p": [
+        "Csütörtökön egyhangú határozatot hozott a siófoki képviselő-testület arról, hogy leszerelik a szállodasor keleti felén lévő, nem szállodai tulajdonú kerítést – írja a Telex. Lengyel Róbert polgármester péntek reggel Csatári Ernő tiszás országgyűlési képviselővel együtt kiment a helyszínre, és flexszel elvágták a rácsot, ahogy a 444 is beszámolt róla. A polgármester Facebook-bejegyzése szerint a rács a parttól számított öt méter szélességben ledőlt, nyugati irányba tovább is mentek, és további kerítésekkel is szembesültek, amelyek ügyében intézkedni fognak.",
+        "A Telex szerint a telek biztonsági őrei bontási engedélyt kértek, majd a helyszínre rendőröket hívtak, akik a munkásokat igazoltatták; Lengyel jelezte, hogy ő adta az utasítást. Az akció résztvevőit intézkedés alá vonták, a polgármester pedig átadta az iratokat. Lengyel Facebookon azt írta, nem rettentik el, hogy rendőrt hívtak rá a hivatali kötelessége teljesítése miatt. Csatári Ernő bejegyzésében egy 2025-ös kormányrendeletre hivatkozott, amely szerint ahol a vízparti terv parti sétányt jelöl, legalább öt méter széles közösségi használatú területet kell biztosítani, és a közvetlenül a vízparton vezetett sétányra kerítés vagy kapu nem létesíthető.",
+        "A 74nullanulla helyi lap szerint az önkormányzat négy hotel (Balaton, Hungária, Lidó, Európa) tulajdonosát szólította fel a kerítés elbontására: november 30-ig kell eleget tenniük, másnaptól szabadon átjárhatónak kell lennie a parti sávnak. A polgármester szerint a parti sáv forgalomképtelen önkormányzati közterület, nem lehetne lezárni, és az ügy korábbi iratai eltűntek a hivatalból. A Telex a 24.hu Sokszínű Vidék melléklete nyomán megjegyzi, hogy a város már megpróbálta bíróságon visszaszerezni a területet, de elvesztette a pert, mert a szállodatulajdonosok jóhiszeműen, az ingatlan-nyilvántartás alapján vásároltak. A Magyar Narancs szerint a 2000-es évek elején a négy szálloda akkori tulajdonosa megállapodást kötött az akkori polgármester vezette önkormányzattal, és szolgalmi jogot kapott a parti sávra. A kormányrendelet 2025 szeptemberében lépett hatályba; nem tudni, miért nem bontották a kerítést korábban. A Balaton Hotel a szállodasor nyugati végén már magától elbontotta a kerítését."
+      ],
+      "cav": "A beszámoló a Telex és a 444 cikkére épül, amelyek a polgármester és a képviselő Facebook-bejegyzéseire, a 74nullanulla, a 24.hu és a Magyar Narancs cikkeire hivatkoznak; ezeket nem láttuk. Az akció jogszerűségét (bontási engedély, kerítés tulajdonjoga) nem döntjük el: a polgármester és a képviselő a kormányrendeletre és a testületi döntésre hivatkozik, a szállodák jogi álláspontját a cikkek nem közlik. A rendőri intézkedés okát és kimenetelét nem ismerjük. Kép nincs (a 444 fotói a képviselő Facebook-oldaláról származnak).",
+      "op": "Aki évtizedekig lezárva tartja a part egy szakaszát, annak sem lesz könnyű megmagyarázni, hogy ez miért volt rendben – de egy polgármesternek flexszel a kezében mégsem kellene jogvitát eldönteni. A közösségi part kérdése fontos és méltányos, csak éppen a jogállam az, ami miatt a bontásnak is szabályos úton kellene történnie: a szolgalmi jog és a bírósági ítélet ugyanúgy kérdés marad.",
+      "src": [
+        [
+          "Telex: Siófok polgármestere nekiállt leflexelni egy Balaton-partot lezáró kerítést",
+          "https://telex.hu/belfold/2026/11/27/lengyel-robert-siofoki-polgarmester-keritest-flexelt-a-balaton-parton"
+        ],
+        [
+          "444: Flexszel ment neki a helyi tiszás képviselő és Siófok polgármestere a Balaton-parti sétány szállodasori szakaszát elzáró kerítésnek",
+          "https://444.hu/2026/11/27/flexszel-ment-neki-a-helyi-tiszas-kepviselo-es-siofok-polgarmestere-a-balaton-parti-setany-szallodasori-szakaszat-elzaro-keritesnek"
+        ]
+      ]
+    },
+    {
       "id": "bocskai-eva-bizottsagi-ules-radics-bohar-videok-nov-27",
       "r": "Belpolitika",
       "c": "Parlament",
